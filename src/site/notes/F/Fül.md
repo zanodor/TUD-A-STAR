@@ -10,9 +10,9 @@ A fül angolul [[E/Ear\|ear]], ahol sok érdekes dologról volt szó. Emlékezz�
 Fül szavunk [[F/FUL\|FUL]] etymonnal való összecsengése mellett vizsgálandó [[F/FU\|FU]] mentén is.  
 A CzF szótár a fül szóban a fel(álló) (és kiálló) értelmet keresi, azzal rokonít. A helyzet az, hogy már eleve az f hang viszi ezt a magas értelmet. CzF pedig nem ismeri a magyar szótagnyelv-szerű felépítését.  
 
-Fül szavunkkal mutat egyezést a francia `feuille` = (fa)levél (talán a kutya füléhez hasonlítatott); [[F/File\|file]] címnél is előjött a fül. Igeként fül a fől és fűt (és a fú(j)) szavainkkal rokon. Valószínűbb, hogy a francia szó és a [[F/Foliage\|foliage]] címnél is említett latin elődje inkább fúj (szél) szavunkkal rokonítandó.  
+Fül szavunkkal mutat egyezést a francia `feuille` = (fa)levél (talán a kutya füléhez hasonlíttatott); [[F/File\|file]] címnél is előjött a fül. Igeként fül a fől és fűt (és a fú(j)) szavainkkal rokon. Valószínűbb, hogy a francia szó és a [[F/Foliage\|foliage]] címnél is említett latin elődje inkább fúj (szél) szavunkkal rokonítandó.  
 Fül rokon a [[F/Fürj\|fürj]] für elemével is.  
-![image](/img/user/F/assets/Fül_image1.png)  
+![assets/Fül_image1.png](/img/user/F/assets/F%C3%BCl_image1.png)  
 
 A fül megint csak egy olyan szó, melybe többféle ideát kellett belesuvasztani. Egyrészt valóban rokon vele a [[F/Fel\|fel]], hiszen a figyelmes [[K/Kutya\|kutya]] felfelé álló füle [[S/Szarv\|szarv]]ként volt értelmezett. A másik használható fogalmi kapcsolódás a [[F/Fél\|fél]] szavunkkal van. A két fül két iránya a téridőnek és a teremtett világ dualisztikus rendjének felel meg. A fülben így tündéri füleket, mint a szellem házából, a fejből kivezetett függelékeket, apró szárnyakat kell látni. Olyanokat, melyekről [[D/Dió\|dió]] és frissen [[F/Fin\|fin]] címnél is volt szó.  
 
