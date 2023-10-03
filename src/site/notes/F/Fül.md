@@ -7,7 +7,7 @@
 
 [[M/Menyét\|Menyét]] és [[S/Száj\|száj]] címnél esett szó fülön át nemzésről, mely a [[L/Logosz\|logosz]]ra utal FK szerint.  
 
-~~~~  
+Fül szavunk [[F/FUL\|FUL]] etymonnal való összecsengése mellett vizsgálandó [[F/FU\|FU]] mentén is.  
 A CzF szótár a fül szóban a fel(álló) (és kiálló) értelmet keresi, azzal rokonít. A helyzet az, hogy már eleve az f hang viszi ezt a magas értelmet. CzF pedig nem ismeri a magyar szótagnyelv-szerű felépítését.  
 
 Fül szavunkkal mutat egyezést a francia `feuille` = (fa)levél (talán a kutya füléhez hasonlíttatott); [[F/File\|file]] címnél is előjött a fül. Valószínűbb, hogy a francia szó és a [[F/Foliage\|foliage]] címnél is említett latin elődje inkább fúj (szél) szavunkkal rokonítandó.  
