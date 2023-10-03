@@ -1,16 +1,7 @@
 ---
-title: Fül
-aliases:
-  - fül
-tags:
-  - formatted🟢
-share: true
-dg-home: true
-dg-publish: true
-dg_upload_status: down
-date created: 2022-12-14
-date modified: 2023-10-03
+{"dg-publish":true,"permalink":"/F/Fül/","title":"Fül","tags":["formatted🟢","gardenEntry"],"created":"","updated":""}
 ---
+
 
 # Fül
 
