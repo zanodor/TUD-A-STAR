@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fül/","title":"Fül","tags":["formatted🟢","gardenEntry"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/F/Fül/","title":"Fül","tags":["formatted🟢","gardenEntry"],"created":"2023-10-03:21:06","updated":"2023-10-03:21:09"}
 ---
 
 
@@ -30,7 +30,7 @@ A fülek kapcsán már PJI írta, hogy a fentebb említett tündérfülekkel ék
 
 A felfelé álló fülek (nem csak kutyáé) kapcsán...
 
-#### Jankovics Marcell több helyen említett passzusát tegyük még ide: 
+#### Jankovics Marcell több helyen említett passzusát tegyük még ide:
 
 > A szólás, hogy "letörte a szarvát", az ősi bikaáldozatra utal (Héraklész Akhelóiosz fölötti győzelme e szólás mítoszi forrása), s ugyancsak halál-jelentése lehetett eredetileg az e szólással látszólag éppen ellentétes értelmű felszarvazásnak". A túlvilágra költöző uralkodót, hőst, áldozatot ékesítették föl a csak "istent" megillető szarvakkal. Így illett a már túlnan lévők sorába. (Zolnay 1983: 272 skk.) Újabb kori értelmét a kifejezés annak köszönheti, hogy az elhunyt asszonyait utóda örökölte meg – nem egyszer épp az a személy, aki életét is kioltotta. Az alvilág fejedelmét, az ördögöt ([[K/Krampusz\|krampusz]]t) és a boszorkányt szarvas lénynek képzelték, ezért voltak "[[S/Szarvas\|szarvas]]" \[szarv-as\] állatok a kísérőik (bakkecske, fülesbagoly). A sorba illik maga a szarvas is (gör. `keraosz` "szarvas").  
 
