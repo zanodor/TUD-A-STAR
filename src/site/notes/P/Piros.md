@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Piros/","title":"Piros","tags":["formatted🟢"],"created":"2023-10-04T12:50","updated":"2023-10-04T12:50"}
+{"dg-publish":true,"permalink":"/P/Piros/","title":"Piros","tags":["formatted🟢"],"created":"2023-10-04T12:50","updated":"2023-10-04T12:51"}
 ---
 
 
