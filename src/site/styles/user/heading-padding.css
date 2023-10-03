@@ -1,0 +1,19 @@
+.markdown-preview-view h1 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.markdown-preview-view h2 {
+  padding-top: 30px;
+}
+.markdown-preview-view h3 {
+  padding-top: 30px;
+}
+.markdown-preview-view h4 {
+  padding-top: 30px;
+}
+.markdown-preview-view h5 {
+  padding-top: 20px;
+}
+.markdown-preview-view h6 {
+  padding-top: 20px;
+}
