@@ -1,0 +1,5 @@
+/* Text Alignment in Reading Mode */
+.markdown-preview-view p {
+	text-align: justify;
+	text-justify: inter-word;	
+}

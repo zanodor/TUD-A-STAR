@@ -1,0 +1,11 @@
+/*Text Alignment and Paragraph Spacing in Edit or Live Preview Mode*/
+.markdown-source-view.mod-cm6 .cm-line {
+    text-align: justify;
+    text-justify: inter-word;	
+    padding-bottom:4px;
+}    
+
+/*Line Height*/
+.cm-contentContainer {
+    line-height: 1.80;
+}   

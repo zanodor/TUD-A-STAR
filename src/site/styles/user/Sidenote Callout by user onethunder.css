@@ -1,0 +1,9 @@
+.callout[data-callout*=sidenote] {
+    --callout-icon: lightbulb;
+    --callout-color: 255,210,107;
+    font-size: 90%;
+    line-height: 1.3em;
+    max-width: calc(var(--file-line-width) * var(--sidenote-callout-width) * .01);
+    margin: 4px 0 4px 7px;
+    float: right;
+}
