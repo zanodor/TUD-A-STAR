@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["formatted🟢"],"created":"2023-10-03T11:13","updated":"2023-10-03T11:13"}
+{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["formatted🟢"],"created":"2023-10-03T11:13","updated":"2023-10-03T11:19"}
 ---
 
 
@@ -30,7 +30,7 @@ Jankovics Marcell A Nap könyve című könyvében Arthurt az óind/óperzsa hal
 
 Márpedig [[A/Avalon\|Avalon]] szigete is hasonló az óegyiptomiak Amentijéhez, és Arthurral kapcsolatban – különösen [[B/Bier\|bier]], [[B/Bárka\|bárka]] és más címnél írottak alapján – valóban stimmel a (halott) Napisten szimbolika, különösen a 12 lovagos kerekasztallal (12 jegy az Állatövvel). Ami a Szaturnusz-Nap azonosításokat, kapcsolatokat illeti, lásd [[N/Nap\|Nap]] és [[S/Szaturnusz\|Szaturnusz]].  
 
-[[E/Észak\|Észak]] illetve [[E/Észak és dél\|észak és dél]] címnél szerepelt egy gond eredetű deoguhr[^2] (Dög-Úr) szó, mely nyilvánvalóan a halott Nap helyére, a [[S/Sarkcsillag\|Sarkcsillag]]ra utal, mely valóban az északi irányt jelöli ki.  
+[[E/Észak\|Észak]] illetve [[E/Észak és dél\|észak és dél]] címnél szerepelt egy gond eredetű `deoguhr`[^2] (Dög-Úr) szó, mely nyilvánvalóan a halott Nap helyére, a [[S/Sarkcsillag\|Sarkcsillag]]ra utal, mely valóban az északi irányt jelöli ki.  
 Igen ám, de a Dög-Úr lehet a [[G/Gödör\|gödör]] ellentételezéseként Szíriuszra illetve a Szíriuszhoz közel kerülésére utaló elnevezés is, hiszen a [[D/Dzsed\|dzsed]] és [[S/Széth\|Széth]] címnél írottak alapján is tudjuk, hogy a Sarkcsillag tulajdonképpen a Szíriusz kivetítése (az egész egy rendszer). Ergo ha a Szíriusz a Nap mögötti Nap (lásd még [[A/Anta\|anta]], [[S/Széth\|Széth]], [[K/KUN\|KUN]] címnél írottakat arról, hogy a Napnevek Szíriuszra utaló nevek is lehetnek, ha másért nem, mert a Nap és a Sziriusz is csillag = Nap), amely rejtve van (ezért is tudták a papok jelentőségét is elfeledtetni), éppúgy, ahogy a halott Nap is rejtve van (hová is tűnik, Egyiptomban úgy mondták, [[D/Duat\|duat]]-ba, az alvilágba), és ha Sarkcsillag Szíriusz "másodmaga," akkor a Sarkcsillagra, északra tett halott Nap képzete akár precessziós, Szíriusszal kapcsolatba hozható nézet is lehetne, de ennél többet most nem tudok róla mondani.  
 
 #### Jankovics Marcell A Nap könyve...
