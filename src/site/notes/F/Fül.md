@@ -1,7 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fül/","title":"Fül","tags":["formatted🟢","gardenEntry"],"created":"","updated":""}
+title: Fül
+aliases:
+  - fül
+tags:
+  - formatted🟢
+share: true
+dg-home: true
+dg-publish: true
+dg_upload_status: down
+date created: 2022-12-14
+date modified: 2023-10-03
 ---
-
 
 # Fül
 
@@ -22,14 +31,17 @@ Igaz, lehetséges, hogy itt az f-előhang csak (arabos) utólagos és a p illetv
 
 #### Magyar Adorján is írja Ősműveltségében:  
 
-> De ugyanígy lehetett az őskori óriásnagyságú fehér elefántfaj neve *bál* is, mert tudjuk hogy Elő-Ázsiában egy [[B/Bél\|Bél]], de egyúttal [[B/Bál\|Bál]] nevű istenség is tiszteltetett, amely név értelme ugyan úr, hatalmas és király de ezenkívül nagy és óriás is volt.  
+> De ugyanígy lehetett az őskori óriásnagyságú fehér elefántfaj neve `bál` is, mert tudjuk hogy Elő-Ázsiában egy [[B/Bél\|Bél]], de egyúttal [[B/Bál\|Bál]] nevű istenség is tiszteltetett, amely név értelme ugyan úr, hatalmas és király de ezenkívül nagy és óriás is volt.  
 
 Lehet a sémi szavaknak más eredete is. Amikor MA alábbi sorait olvassuk (a besenyő bűz és büzönd szavaknak a palócoknál pül, pul, ful, fül, fülünd, pulund, pülünd szóalakot kellett megfeleljenek), akkor kell eszünkbe jusson a [[B/Bison\|bison]], mely felveti, hogy az elefánt sémi (azaz, mondjuk ki: jász-filiszteus) neve eredetileg nem elefántra utalt. \[[[Foul\|[Foul]] címnél is megvolt.\]  
 
-A fülek kapcsán már PJI írta, hogy a fentebb említett tündérfülekkel "szerelt" lehetett a magyarság. Lám, mire véljük azon egyes kontinensek őslakóinak azon fülcimpahosszító szokását: amikor fülükbe egy nehéz fülbevalót tesznek, ami a fület lehúzza. Ennek vagy szakrális célja van: a teremtő hangját a tündérmagyarok a legjobban hallották.  
+A fülek kapcsán már PJI írta, hogy a fentebb említett tündérfülekkel ékesített lehetett a magyarság. Lám, mire véljük azon egyes kontinensek őslakóinak azon fülcimpahosszító szokását: amikor fülükbe egy nehéz fülbevalót tesznek, ami a fület lehúzza. Ennek vagy szakrális célja van: a teremtő hangját a tündérmagyarok a legjobban hallották.  
 
-A felfelé álló fülek (nem csak kutyáé) kapcsán JM több helyen említett passzusát tegyük még ide:  
-> A szólás, hogy "letörte a szarvát", az ősi bikaáldozatra utal (Héraklész Akhelóiosz fölötti győzelme e szólás mítoszi forrása), s ugyancsak halál-jelentése lehetett eredetileg az e szólással látszólag éppen ellentétes értelmű felszarvazásnak". A túlvilágra költöző uralkodót, hőst, áldozatot ékesítették föl a csak "istent" megillető szarvakkal. Így illett a már túlnan lévők sorába. (Zolnay 1983: 272 skk.) Újabb kori értelmét a kifejezés annak köszönheti, hogy az elhunyt asszonyait utóda örökölte meg – nem egyszer épp az a személy, aki életét is kioltotta. Az alvilág fejedelmét, az ördögöt (krampuszt) és a boszorkányt szarvas lénynek képzelték, ezért voltak "[[S/Szarvas\|szarvas]]" \[szarv-as\] állatok a kísérőik (bakkecske, fülesbagoly). A sorba illik maga a szarvas is (gör. `keraosz` "szarvas").  
+A felfelé álló fülek (nem csak kutyáé) kapcsán...
+
+#### Jankovics Marcell több helyen említett passzusát tegyük még ide: 
+
+> A szólás, hogy "letörte a szarvát", az ősi bikaáldozatra utal (Héraklész Akhelóiosz fölötti győzelme e szólás mítoszi forrása), s ugyancsak halál-jelentése lehetett eredetileg az e szólással látszólag éppen ellentétes értelmű felszarvazásnak". A túlvilágra költöző uralkodót, hőst, áldozatot ékesítették föl a csak "istent" megillető szarvakkal. Így illett a már túlnan lévők sorába. (Zolnay 1983: 272 skk.) Újabb kori értelmét a kifejezés annak köszönheti, hogy az elhunyt asszonyait utóda örökölte meg – nem egyszer épp az a személy, aki életét is kioltotta. Az alvilág fejedelmét, az ördögöt ([[K/Krampusz\|krampusz]]t) és a boszorkányt szarvas lénynek képzelték, ezért voltak "[[S/Szarvas\|szarvas]]" \[szarv-as\] állatok a kísérőik (bakkecske, fülesbagoly). A sorba illik maga a szarvas is (gör. `keraosz` "szarvas").  
 
 Mindenféle kinövés, kivált a fejből felfelé, szarvakhoz hasonlítható – [[S/Széth\|Széth]] állata (sha) és fülüket hegyező \[[[Hegy\|hegy]] = [[H/HAR\|HAR]] = [[E/Ear\|ear]]\] kutyák kapcsán is említett – fül isteni attributum (az isteni logosz – vesd össze [[E/Ég\|ég]] és [[I/Ige\|Ige]] – vételére is értve).  
 Ha már Egyiptom, ...
