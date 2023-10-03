@@ -39,7 +39,7 @@ Ha már Egyiptom, ...
 ...című könyvében is írja:  
 > The one place left of significance where one can readily demonstrate the existence of horned and winged Gods and Goddesses is Egypt. There, the study of the Heavens was integral to the Egyptian's religion and to the identity of the Gods in the Egyptian pantheon. Amongst the principal deities Osiris (Fig 26) was normally portrayed as horned and Anubis (Fig 27) portrayed with **ears that could just as easily be horns**. The Goddesses Hathor (Fig 28) and Isis were portrayed with cows' horns and Isis (Fig 29) and Maat with wings.  
 
-Ugyanezen témára vonatkozó megjegyzésem, hogy egy másik Bahador Alast videóban a domari (roma) `kan` = fül kutyáé lehet, és a vele (tán tévesen) párhuzamba állított szanszkrit szanszkrit `kárna` = fül a [[H/Horn\|horn]] szóval azonos.  
+Ugyanezen témára vonatkozó megjegyzésem, hogy egy másik Bahador Alast videóban a domari (roma) `kan` = fül kutyáé lehet, és a vele (tán tévesen) párhuzamba állított szanszkrit `kárna` = fül a [[H/Horn\|horn]] szóval azonos.  
 
 #### Supka Géza Kalandozás a kalendáriumban...
 
