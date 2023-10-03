@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pyre/","title":"Pyre","tags":["formatted🟢"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/P/Pyre/","title":"Pyre","tags":["formatted🟢"],"created":"2023-10-04T12:45","updated":"2023-10-04T12:45"}
 ---
 
 
