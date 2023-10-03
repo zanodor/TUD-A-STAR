@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fül/","title":"Fül","tags":["formatted🟢","gardenEntry"],"created":"2023-10-03T09:41","updated":"2023-10-03T09:41"}
+{"dg-publish":true,"permalink":"/F/Fül/","title":"Fül","tags":["formatted🟢","gardenEntry"],"created":"2023-10-03T09:41","updated":"2023-10-03T10:34"}
 ---
 
 
@@ -8,7 +8,7 @@
 A fül angolul [[E/Ear\|ear]], ahol sok érdekes dologról volt szó. Emlékezzünk még Pap Gábor szavaira és a nála bemutatottakra, hogy a fül sokszor hangsúlyos (elnagyolt) a népművészetben, arra célzóan, hogy az első ill. legfőbb érzékelés az igével teremtett világ hangjára utal. [[M/Menyét\|Menyét]] és [[S/Száj\|száj]] címnél esett szó fülön át nemzésről, mely a [[L/Logosz\|logosz]]ra utal FK szerint.  
 
 Fül szavunk [[F/FUL\|FUL]] etymonnal való összecsengése mellett vizsgálandó [[F/FU\|FU]] mentén is.  
-A CzF szótár a fül szóban a fel(álló) (és kiálló) értelmet keresi, azzal rokonít. A helyzet az, hogy már eleve az f hang viszi ezt a magas értelmet. CzF pedig nem ismeri a magyar szótagnyelv-szerű felépítését.  
+A CzF szótár a fül szóban a fel(álló) (és kiálló) értelmet keresi, azzal rokonít.   
 
 Fül szavunkkal mutat egyezést a francia `feuille` = (fa)levél (talán a kutya füléhez hasonlíttatott); [[F/File\|file]] címnél is előjött a fül. Igeként fül a fől és fűt (és a fú(j)) szavainkkal rokon. Valószínűbb, hogy a francia szó és a [[F/Foliage\|foliage]] címnél is említett latin elődje inkább fúj (szél) szavunkkal rokonítandó.  
 Fül rokon a [[F/Fürj\|fürj]] für elemével is.  
