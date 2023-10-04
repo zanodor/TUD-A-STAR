@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fül/","title":"Fül","tags":["formatted🟢","gardenEntry"],"created":"2023-10-03T09:41","updated":"2023-10-03T10:34"}
+{"dg-publish":true,"permalink":"/F/Fül/","title":"Fül","tags":["formatted🟢"],"created":"2023-10-03T09:41","updated":"2023-10-04T08:29"}
 ---
 
 
