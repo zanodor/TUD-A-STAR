@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["formatted🟢"],"created":"2023-10-04T02:14","updated":"2023-10-04T02:27"}
+{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["formatted🟢"],"created":"2023-10-04T02:14","updated":"2023-10-04T02:34"}
 ---
 
 
@@ -9,7 +9,7 @@ Robert Graves adata szerint ilyen néven hívták az egyiptomiak a [[H/Héber\|h
 > A 'termékeny félhold' országaiban a habiru szó – jelentése '[[K/Kóbor\|kóbor]]ló', 'vándorló' tulajdonképpen 'poros' –, annak a sémita nomád pásztornépeknek a neve, amely állatot tenyészt, karavánokkal járja az utakat, fegyverese annak, aki megfizeti és gyakran a rablástól, útonállástól se riad vissza.  
 
 [[H/Hargita Csaba Ferenc\|Hargita Csaba Ferenc]] nehezen kalauzolható honlapjának [ezen](http://www.imninalu.net/Habiru.htm) oldalán taglalja a habirukat. A mellékelt nemzetségtábláról az olvasható le, hogy Ever-től kezdve lehet habirukról beszélni.  
-![assets/Habiru_image1.png](/img/user/H/assets/Habiru_image1.png)
+![assets/Habiru_image1.jpg](/img/user/H/assets/Habiru_image1.jpg)
 
 A cikket is ezen név említésével nyitja:  
 "Shem, the father of all the children of 'Ever..." Bereshyit 10:21  
