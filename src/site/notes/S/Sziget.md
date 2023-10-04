@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["formatted🟢"],"created":"2023-10-04T01:59","updated":"2023-10-04T01:59"}
+{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["formatted🟢"],"created":"2023-10-04T01:59","updated":"2023-10-04T04:19"}
 ---
 
 
@@ -96,7 +96,7 @@ A két hasadékot másutt is említi (talán a Hegy Úrnője címből vagy más,
 Lásd még szexuális tartalomról [[I/Íj és a nyíl\|íj és a nyíl]].  
 
 ![assets/Sziget_image3.png](/img/user/S/assets/Sziget_image3.png)  
-Margaret Merisante Cloths of Fate: Inter-weavings of Finnic Goddess Embroidery című dolgozatában finn(ugor) hímzésekkel és istenanyákkal (annak ló és hattyú állatalakjaival) foglalkozik. A hímzések egyértelműen ősmagyar szimbolikát viselnek magukon. Blogjában (Mythwoman) is több esetben szól a [[T/Tejútanya\|Tejútanya]] illetve a nők vulvájáról, macskával való azonosításról, stb. A mellékelt képen széttett lábbal álló Tejútistennő egyértelműen a fentebb taglalt szigetet jeleníti meg. (Felveti mindez azt is, hogy a [[C/Crotch\|crotch]] és [[S/Straddle\|straddle]] szavak eredete asztrális.)  
+Margaret Merisante Cloths of Fate: Inter-weavings of Finnic Goddess Embroidery című dolgozatában finn(ugor) hímzésekkel és istenanyákkal (annak ló és hattyú állatalakjaival) foglalkozik. A hímzések – kimondhatjuk – ősmagyar szimbolikát viselnek magukon. Blogjában (Mythwoman.com) is több esetben szól a [[T/Tejútanya\|Tejútanya]] illetve a nők vulvájáról, macskával való azonosításról, stb. A mellékelt képen széttett lábbal álló Tejútistennő egyértelműen a fentebb taglalt szigetet jeleníti meg. (Felveti mindez azt is, hogy a [[C/Crotch\|crotch]] és [[S/Straddle\|straddle]] szavak eredete asztrális.)  
 A lába közé gondolja a finn és magyar felmenőkkel rendelkező Merisante asszony a finn `väki` = teremtő energia, szellem jelentésű szó/fogalom helyét.  
 A [[L/LÁB\|láb]]ak házat is formáznak, mely [[H/Ház\|ház]] szóról kimondtuk, hogy a [[T/Tejútanya\|Tejútanya]] lába köze/méhe/stb.  
 A képet újabb gondolatokkal [[L/LÁB\|láb]], [[H/Harmony\|harmony]] és [[O/Orion övcsillagai\|Orion övcsillagai]] címnél is szerepeltettük.  
@@ -163,7 +163,7 @@ Ne feledjük, a fenti ábra alapján is a Kis Év utolsó hónapjaiban járunk, 
 > A magyar [[E/Eszterág\|eszterág]] (eszter + ág) a gólya vagy a [[D/Daru\|daru]] neve onnan van, hogy a madár két vékony hosszú lába megfordított V-alakú elágazáshoz hasonló.  
 - Ehhez tegyük hozzá, hogy a szintén az ő adataként hozott orosz `osztrov` = sziget is ugyanerre az elágazásra utal és szinte azonos alakú vele.
 
-> Lásd még [[O/Ösztörű#Eszterág – ösztörű – görög hustera\|Ösztörű#Eszterág – ösztörű – görög hustera]] cím/alcímet, ahol elhangzott:  
+> Lásd még [[O/Ösztörű#Eszterág – ösztörű – görög hustera\|eszterág – ösztörű – görög hustera]] cím/alcímet, ahol elhangzott:  
 > A Tejútelágazás ágai a közös kapocs, sőt, mivel ott a Tejútközpont, a [[T/Tejútanya\|Tejútanya]] méhe, a [[H/Hysteria\|hysteria]] címnél taglalt görög `hustera` = méh is innen veszi eredetét.  
 
 ## Aranyos szegelet
