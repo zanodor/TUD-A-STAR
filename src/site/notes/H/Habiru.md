@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["formatted🟢"],"created":"2023-10-04T02:14","updated":"2023-10-04T02:34"}
+{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["formatted🟢"],"created":"2023-10-04T02:14","updated":"2023-10-04T02:48"}
 ---
 
 
@@ -9,7 +9,7 @@ Robert Graves adata szerint ilyen néven hívták az egyiptomiak a [[H/Héber\|h
 > A 'termékeny félhold' országaiban a habiru szó – jelentése '[[K/Kóbor\|kóbor]]ló', 'vándorló' tulajdonképpen 'poros' –, annak a sémita nomád pásztornépeknek a neve, amely állatot tenyészt, karavánokkal járja az utakat, fegyverese annak, aki megfizeti és gyakran a rablástól, útonállástól se riad vissza.  
 
 [[H/Hargita Csaba Ferenc\|Hargita Csaba Ferenc]] nehezen kalauzolható honlapjának [ezen](http://www.imninalu.net/Habiru.htm) oldalán taglalja a habirukat. A mellékelt nemzetségtábláról az olvasható le, hogy Ever-től kezdve lehet habirukról beszélni.  
-![assets/Habiru_image1.jpg](/img/user/H/assets/Habiru_image1.jpg)
+![assets/Habiru_image1.jpg](/img/user/H/assets/Habiru_image1.jpg)  
 
 A cikket is ezen név említésével nyitja:  
 "Shem, the father of all the children of 'Ever..." Bereshyit 10:21  
@@ -66,7 +66,7 @@ Namármost, a letöltött Sirius in Ancient Greek and Roman Literature című ci
 
 Mivel a Szíriusz közvetlenül szorosan kapcsolódik a Tejúthoz, nem lenne meglepő, hogy a folyó neve vitetett át a csillag nevére. Ami még itt érdekes, hogy az elefáncsont-fehérség is szóba jön. Márpedig az [[E/EB\|EB]] és [[I/Ivory\|ivory]] címnél előjövő latin ebur és kelta ebor és főleg Eb-Úr, és a [[S/Szíriusz\|Szíriusz]] címnél szereplő passzusnál említett [[A/Ábra\|ábra]] és [[O/Over\|over]] címnél előjövő szavak is hasonló alakúak mind. Közben lásd [[H/Hab\|hab]] cím alján szereplő adatokat is, új felfedezéssel.  
 
-[[S/Szíriusz mozgása\|Szíriusz mozgása]] címnél szerepelt J. Ellard Gore adata, kinek Astronomical Curiosities c. könyve letöltésre is került. Ebben levélben írja:  
+[[S/Szíriusz mozgása\|Szíriusz mozgása]] címnél szerepelt J. Ellard Gore adata, kinek Astronomical Curiosities c. könyve letöltésre elérhető. Ebben levélben írja:  
 > The Proper Motion of Sirius.  
 > GENTLEMEN, —  
 > The Persian Astronomer, Abd-Al-Rahman Al-Sûfi, in his interesting 'Description of the Fixed Stars,' written in the 10th century, says with reference to Sirius, "The Arabians call the brilliant and great star which is in the mouth, al-schira al-abúr, Sirius which has passed across, also al-schira al-Jumanija, Sirius of Yémen. It is called al-abúr, because it has passed across the Milky Way into the Southern region." He then relates a mythological story of why Sirius "fled towards the south," and "passed across the Milky Way towards Suhail ([[C/Canopus\|Canopus]])." Now it seems to me a remarkable fact that the large proper motion of Sirius (about 1.31" in the direction of position-angle 204°) would have carried it across the Milky Way in a period of about 60,000 years.  
