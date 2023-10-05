@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-10-05T05:50"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-10-05T07:09"}
 ---
 
 
-# Fény és sötétség - a magyarság helye a világban (Mission Statement)
+# Fény és sötétség - a magyarság helye a világban
 
-## Mit kap(hat) az olvasó
+<br>
+
+## Mit kap az olvasó
 
 Eredetileg: Forrásmunka a készülő **"Fény és sötétség - a magyarság helye a világban"** című kiadványhoz (angolul: **Light and Darkness - The Magyars' Place In The Universe**)  
 Azaz tervezem a valamikor angol fordítást is (egyes helyeken fordítani sem kellene, mert már angolul szerepelnek a Tudástárnak nevezett adatbázisban – azon helyeken a magyar fordításokkal vagyok adós), de annyi különbséggel, hogy mivel írott nyomtatásban lehetetlenség lenne megjelentetni, marad az elektronikus formátum.  
@@ -48,7 +50,7 @@ Szerkezetét tekintve referencia könyv, A-Z-ig, azaz ábécé rendbe szervezett
 A megfogalmazás helyenként mesterkéltnek tűnő, másutt tőmondatokba tömörített. Igyekszem egyértelműen fogalmazni, néha talán túl is magyarázom és túl sok belső linkkel tarkítom (zavarom) a sorokat. A gyengébb színvonalú részek vagy régiek és még nem kerültek későbbi önmagam elé lektorálásra ("cenzúra elé"), vagy pedig betudhatók egy hirtelen, intuitív "automatikus írás" jellegnek. Azon részek hetekkel, hónapokkal, évekkel későbbi racionalizáló jellegű átfésülései igen nehéznek is bizonyulnának. Mivel az első (teszt) publikáció idején (2023. okt. eleje) már közel 14000 címszónál tartottam, embert próbáló egyesével keresni, hol lehetne valamit éppen kijavítani.  
 A lexikális adatok (lásd őket `ilyen` vagy főképpen tulajdon- és istenevek esetében **Ilyen** szedéssel) helyességére különösen ügyeltem, de becsúszhat itt-ott elírás vagy pedig a forrásom téved (vagy annak forrása). Olyan is előfordul, hogy minden igyekezetem ellenére nem sikerült minden lexikális adatot külön kiemeléssel jelölni. Ha látok valamit, menet közben javítom és ennek jogát fenntartom.
 
-Szerettem volna tökéletesre formálni mindent, de számolnom kell azzal, hogy ilyen-olyan okoknál fogva sosem jut el másokhoz, amit eddig felhalmoztam, ezért döntöttem mégis a folyamatos nyilvánosságra hozás mellett.  
+Szerettem volna tökéletesre formálni mindent, de számolnom kell azzal, hogy ilyen-olyan okoknál fogva sosem jut el másokhoz, amit eddig felhalmoztam, ezért döntöttem mégis a folyamatos nyilvánosságra hozatal mellett.  
 Dacára annak, hogy a tartalom leginkább jegyzetszerű, azaz ebből kellett volna kivonatolni egy 1000-1500 oldalas könyvet. De ahogy mondtam, lehet, hogy ez soha sem készült volna el.  
 Az írások nagy része tehát másoktól származó idézet (igyekeztem a megfelelő kiemelésekkel adni), saját részre, adatgyűjtés céljából. A saját anyag kb. az összes szöveg 15-25 százalékát teheti ki, esetleg többet, de az idő és a kutatás előrehaladtával az arányok tolódhatnak: több adat állhat rendelkezésre a már felvázolt tézisek igazolására, pontosítására.  
 
@@ -64,7 +66,7 @@ Az alábbiakban a korábban itt felvázolt témákat közlöm, melyek az egyes s
 Mivel magam inkább és kizárólag a germán nyelvek ismerője vagyok, az angol nyelv egyes szavain keresztül kerülnek bemutatásra más germán, és a tágabb indoeurópai szavak, köztük a latin, görög, szanszkrit, valamint a más mesterségesen létrehozott nyelvcsaládok szavai.  
 Az angol nyelv fiatal korom óta érdekelt, és mintegy tíz év külföldön tartózkodással sikerült csiszolni rajta úgy, hogy minden nemzet képviselőinek nyelvére és kultúrájára figyelemmel voltam. De ahogy alant is látható, az angolon keresztül kötöm magam a többi nyelvhez.  
 
-#### A KIADVÁNY MEGÍRÁSÁNAK CÉLJAIRÓL – A MAGYARSÁG HELYE A VILÁGBAN
+#### A kiadvány megírásának céljairól – a magyarság helye a világban
 
 A "Tudástár" elsődleges célja az emberiség tudásának, ősműveltségének megismerése. Az angol, latin, görög, perzsa, arab, török, szláv stb. utódnyelvekbe olyan magyarul értelmezhető tudás épült be "észrevétlenül," mely a mai ismereteinket pontosíthatja[^1] ill. új irányokból való vizsgálatát teszi lehetővé. A görög-angol `parallel`, latin-angol `gemination` és `dimension`, stb. szavak által feltérképezhető jelentéstartalom – mely az előző, nagyobb tudású világkorszakokból foszlányokban ránk maradt, mára elfelejtett tudás részét teszi ki –, mind segítségünkre lehet abban, hogy jelen tartalom másodlagos célját – helyreállítani a magyarság szellemi vezető szerepét –, is elérjük. Ugyan az idő (értsd: kor, Vaskor) ellenünk dolgozik, egy próbát megér. Ha kudarcot vallanánk, legalább mindenki felébred: ha máshogy nem, egy új testben, új esélyekkel.  
 A legfontosabb a gyermekeink számára azt a jövőt megteremteni, ahol képességeikhez és felmenőik dicső múltjához hű tudást kaphatnak.  
@@ -132,7 +134,7 @@ Az eredeti "syllabikus" táblák fejezik ki legjobban a "magyar nyelv lingua pri
 
 D'Alembert említi az ősapáinkat, akiknek mindent köszönhetünk és akikről nem tudunk semmit. Itt az ideje őket bemutatni és nekik megköszönni.  
 
-#### ISTEN NYELVE – A MAGYAR NYELV SZAVAI MÖGÖTTI HÁTTÉRTARTALOMRÓL
+#### Isten nyelve – a magyar nyelv szavai mögötti háttértartalomról
 
 Az ősmagyar nyelv egyik törekvése, hogy amennyiben lehetséges, a szavaiban szerepeljen a [[K/Kör\|Kör]] fogalma, rávilágítva, hogy minden része a mindenségnek és minden körbe foglalható. A kör, továbbiakban nevezzük etimonként [[K/KAR\|KAR]]-nak, hiszen a Kar fogalmában megvan a bot és a gyűrű (profán leszek: a fasz és a pina, vagy lehetne utóbbit szebben a (leendő) anya ölével is megfeleltetni), azaz az élethez szükséges két princípium (ősképük két gömbszerű, rajzban körrel ábrázolható égitest: a Nap (hím) és a Föld (nőstény)), megjelenhet átalakulva, szabályos (lehet SZ-R, K-L vázú például) és szabálytalan (B-R, B-L, P-L, B-K, P-CS, stb.) változással, de még mindig ugyanazt jelentve (főleg a lélekvivő kutyák, madarak és halak hordozzák ezen szóvázt).  
 Azt be kell látni, hogy minden szóban nem lehet r hang, vagy k hang, mert monotonná és főleg érthetetlenné válna a nyelv. Ezért a továbbiakban nem is kör jelentésűként tekintünk a szavakra, hanem úgy mint, Napot, vagy annak fényét és tüzét (és ellentétesen, tellurisan, ezeknek hiányát) kifejezőkként.  
@@ -180,7 +182,7 @@ A leglátványosabban a magyar nyelvbe ágyazott poláris, dualisztikus világun
 De ha már itt tartunk, minden mesénk a Tejúton járó Napról szól, és minden népies csillagelnevezés (lásd [[C/Csillagok magyar népi elnevezései\|csillagok magyar népi elnevezései]]) azt látszik igazolni, hogy az emberiség/magyarság történetét a csillagokba írták eleink. Már a vaskorban papiruszra és később nyomdai úton történt az utókorra fennhagyott írás, a magyarok ezt megelőzően csak szájhagyomány útján terjesztették a tudást. (Arról is lehet itt szólni, hogy mely módok azok, amelyek leginkább időt állóan meg tudják őrízni a többszázezer, többtízezer éves tudást: csillagokba írni a tudást, időtálló építményekbe illetve aranylemezekre vésve).  
 Amikor tehát Ipolyi Arnold Magyar mythologia című könyvében (lásd adalékjaiban a 649. oldalon) arról ír, hogy a hitregéink emlékei a csillagokba emelkedtek fel a földöni elhanyagoltságuk végett és onnét világítanak feledékenységünk éjét felderítendők, tulajdonképpen elárulja a magyarság célját: a feledékeny vaskor embere számára ezen jelekből olvasva kell kiindulni, hogy újra felderíthessük a magyar ősi világképet.  
 
-#### MÉG A MAGYAR NYELVRŐL
+#### Még a magyar nyelvről
 
 Úgy tűnik, tényleg nem értették/értjük a magyar nyelvet, és ezért a kelleténél kevesebb mértékű védelem alá voltak képesek helyezni nyelvészkedő eleink és voltak kényszerültek oly sok szót a szláv és török, valamint finnségi nyelvekből magyarázni.  
 Ipolyi Arnold Magyar mythologia c. könyvéből is az derül ki, hogy leginkább a hozzá nem értés miatt alakult ki ez a csúfos helyzet. Persze a környező országok ellenségeskedését és magyar-hun gyűlöletét sem szabad lebecsülni (történelmi-történeti okai vannak szintén annak, hogy a szláv nyelvből akarhatunk olyan szavakat megfejteni, mint [[N/Nyavalya\|nyavalya]], hiszen ezek a népek "állítólag" előttünk itt éltek).  
@@ -189,11 +191,13 @@ Amennyiben lehet elnézően tekinteni hozzá nem értő elődeinkre és megbocs�
 Annak felismerését, hogy a magyar nyelv ősi (minden más nyelvnek anyja) és az idegen szavak magyarból való elemzését vajon honnan, Berzsenyi Dánieltől lehet időben elképzelni? Ipolyi Arnold Magyar mythologia című könyvének 390. oldalán lábjegyzetben Lugossy és Szombathy neveket is említ: utóbbi a perui Virakocha istennevet a magyarból igyekezte megfejteni.  
 Azóta Pálfy és mások neveit is ismerjük. Lásd mindent a helyükön.  
 
-#### A HUN NYELVRŐL
+#### A hun nyelvről
 
 Szerte a világon a hunok a magyar tudás és nyelv terjesztői és védelmezői (voltak). A hun is a magyar nyelvhez tartozik, de a sok vándorlás, csatározási kényszer (kataklizmákról itt most ne szóljunk) miatt a magról leválva mint héj különültek el. Vallási szavaik K-N(d) és K-T vázúak és nincsenek kellően feltárva. Mivel az írás (értsd: az általunk ma olvasható, vaskori népek által fennmaradt utódnyelvű hitelesnek nem mondható történelmi és vallási, valamint irodalmi művek) a hun nyelv beható ismeretével érthető meg, ezért az magyar nyelvből már kiveszett szavakat muszáj újratanulnunk. Különösen fontos a K-T, H-T vázú szavak megismerése.  
 
-#### A GYEREKEK NYELVHEZ/ÉLETHEZ/IGAZSÁGHOZ VALÓ VISZONYÁRÓL
+Lásd még [[H/Hun nyelv\|hun nyelv]] és [[H/Hun szavak\|hun szavak]].  
+
+#### A gyerekek nyelvhez/élethez/igazsághoz való viszonyáról
 
 A gyerekek nyelvét az ösztön szüli. Nem véletlen, hogy a magyar nyelv a természetet és emberi ösztönt követő nyelv.  
 A szófejtéseket az ember már gyerekkorában elkezdte, amikor a "Thank you very much" helyett "Tök jó veri a macskát" formációk születtek meg, annak ellenére, hogy még orosz nyelvesekként fogalmunk sem volt az angol nyelvről. Úgy tűnik, minél többet tanítják az embert, annál falsabban tud.  
@@ -204,13 +208,13 @@ Nem véletlen olyan egyezés a magyar nyelvben, mint a [[B/Bölcs\|bölcs]] - [[
 
 A gyermeki gondolkodásra vall, hogy az iskolakerülő amerikai graffitis kölyök a frankót, királyt jelentő `cool` szavát nem c-vel, hanem k-val írta ki: `kool` vagy `kewl` formában. A tanulatlan is tudja, van annyi nyelvérzéke, hogy lássa, "ha van k hangot jelölő k betűnk, használjuk". Az iskolában ezért hibapont jár, holott jól gondolkodna az illető, nem úgy mint a csökevényes latin gondolkodást követő angol nyelv. Lám, a német is `kommen`-t ír k-val, míg az angolnál ez `come`.  
 
-#### A GYEREKNYELVEKRŐL
+#### A gyereknyelvekről
 
 Korábban úgy gondoltam, hogy a görög, germán népek neveiben szereplő ger, gör (lásd még angol [[G/Girl\|girl]], ami a német `kerl` párja) utalhatna arra, hogy a magyar ősnéphez képest ezek gyereknépek. A gyereknépek pedig gyereknyelven is beszélnek: lásd [[U/Utódnyelveink gyerekbeszéde\|utódnyelveink gyerekbeszéde]] címszót.  
 Azóta rájöttem, nem ezt jelentik a szóelemek, viszont a nyelvészet maga is használja a [[L/Leánynyelv\|leánynyelv]] kifejezést.  
 Ezek a nyelvek segíthetnek a magyar ősműveltség feltárásában, pontosabb megértésében. A (több nyelv keveredéséből létrejött) angol nyelv útján ezen írás célja (legalábbis kezdetben) is ez.  
 
-#### AZ ANGOL SZAVAK MAGYARBÓL KÉPZÉSE ILL. KIALAKULÁSÁNAK MÓDJAIRÓL
+#### Az angol szavak magyarból képzéséről ill. kialakulásának módjairól
 
 "Az ősi magyar szókincs és szóalkotói gondolkodásmód könnyen feltárható lenne a régi s mai "nagy" nyelvekből, lévén hogy az ómagyar leágazása mind s jelentős ősi részleteket őriznek még az egykori közös nyelvből." – Varga Csaba  
 "Az angol nyelvben az elővetéses beszédmód megszilárdult, hangtana viszont az átalakulás szülési fájdalmait hordozza magán még mindig, s – többek között ez is – hozzájárul az angol nyelvterületen élők nagyfokú analfabetizmusához." – Tomory Zsuzsa  
@@ -235,14 +239,15 @@ D₂) Összetartozó kifejezések, szószerkezetek, ún. idiómák szintjén: ne
 • "Négy sarka a világnak" → Négy szavunk vitetik át sarok, ék és hasonló jelentésekkel (lásd [[N/Nock\|nock]], [[N/Nog\|nog]] és [[N/Nook\|nook]]). Az is lehet, hogy a nyugati sarokról van szó, persze.  
 Ezeket metonimikus összefüggésnek mondja Zaicz Gábor; például lásd a [[G/Grabanc\|grabanc]] szónál írottakat.  
 
-#### AZ INDO-EURÓPAI NÉPEKRŐL, NYELVEKRŐL, ŐSÖKRŐL, HŐSÖKRŐL, IDEOLÓGIÁRÓL
+#### Az indo-európai népekről, nyelvekről, ősökről, hősökről, ideológiáról
 
 Tilak Orionja függelékében, a 221. oldalon hasonlít szanszkrit és görög szavakat. Ő ugyebár azt vallja, hogy a görögök később váltak ki a nagy árja közösségből. Ennek ellenére, azzal, hogy egy szanszkrit `āshayana` szót (EP-nél értelme Skt āsáyānas, lying over against) a görög `okeánosz` mellé tesz, egyrészt elárulja hozzá nem értését és azt is, hogy – ha nagyon kukacoskodni akarunk – hogy a görög inkább lett volna az átadó, mintsem az átvevő. Persze már latin és újlatin illetve kelta, valamint hindu/germán szavak kapcsán is volt arról szó, hogy nemigen lehet konkrét átvételekről beszélni.  
-Megjegyzés: a [[L/Latin nyelv\|latin nyelv]] nagy befolyással volt a nyugati és germán, szláv nyelvekre, mert a(z erőszakosan térítő) judeo-kereszténység és a majdan a(z ál)[[T/Tudomány\|tudomány]](osság) hivatalos nyelve volt. De az elképzelhetetlen, hogy az "Indiából Európába vándorló germán árják" a védikus himnuszok szövegeiből szemezgették ki a szavaikat, illetve hogy vallási szokásaik azokon alapult volna. Inkább tűnik úgy, hogy a hunoknak fityiszt mutató árja népek, mint a hinduk és a perzsák műnyelveket ([[S/Szanszkrit\|szanszkrit]] és [[A/Aveszta\|Aveszta]] valóban hasonlóak) és valamiféle pogány őshagyományokra épülő műszokásokat hoztak létre, hogy eredetinek tüntessék fel magukat. (Lásd még egyfajta folytatásként alant mesterséges szóbokrok.)  
+Megjegyzés: a [[L/Latin nyelv\|latin nyelv]] nagy befolyással volt a nyugati és germán, szláv nyelvekre, mert a(z erőszakosan térítő) judeo-kereszténység és a majdan a(z ál)[[T/Tudomány\|tudomány]]\(osság) hivatalos nyelve volt. De az elképzelhetetlen, hogy az "Indiából Európába vándorló germán árják" a védikus himnuszok szövegeiből szemezgették ki a szavaikat, illetve hogy vallási szokásaik azokon alapult volna. Inkább tűnik úgy, hogy a hunoknak fityiszt mutató árja népek, mint a hinduk és a perzsák műnyelveket ([[S/Szanszkrit\|szanszkrit]] és [[A/Aveszta\|Aveszta]] valóban hasonlóak) és valamiféle pogány őshagyományokra épülő műszokásokat hoztak létre, hogy eredetinek tüntessék fel magukat. (Lásd még egyfajta folytatásként alant mesterséges szóbokrok.)  
 
 Még egy dolog a szanszkrit nyelvről: [[M/Müller, Max\|Max Müller]] nagy hódolója, Tilak is írja Orionjában, hogy a védák első értelmezői nem igazán értették, hogy egyes szavak mit jelentenek (érdekesmód a "tehetséges" Tilak igen); nem csoda, mert papi műnyelvről van szó. A nép nem beszélte ezt a nyelvet és talán (kezdetben: értsd, nem is olyan régen) nem is a himnuszoknak megfelelően élt. Ugyanígy nem lehet nagy görög és latin kultúráról sem beszélni, mert ezek, főleg a rómaira gondolok, tulajdonképpen papságok vezette politikai mozgalmak, akik a népet sanyargatták (az ókori görögök az őslakosokat tartották rabszolgaként): a nép mindig máshogy, pogány módra élt. Csak akkor változtatott életén, amikor a veszélybe került a családja. Ez történik napjainkban is. Több helyen volt arról is szó, hogy a magyar parasztnak köszönhetjük azt is, hogy a magyar nyelv fennmaradt és nem beszélünk szláv vagy románhoz, germánhoz hasonló nyelven.  
 
-Péterfai János írja:  
+##### Péterfai János írja:  
+
 > Indoeurópai népek nincsenek, nyelvük sincsen. Kizárólag magyar utódnépek vannak, amelyeket indoeurópainak neveznek egy olyan szóval, amely a földrajzi elterjedést igyekszik leírni. Ebből is következik, hogy sem indoeurópai nyelvek, sem indoeurópai ősök nem léteznek, hanem kizárólag magyar ősi nyelvek és nyelvjárások és magyar ősök. Indoeurópai nyelvcsalád természetesen nincs, mert minden ága a magyar nyelvből fejlődött ki. A látszólagos hasonlóságok magyar nyelvi jellegzetességek, a szókincs hasonlósága a magyar szókincsből ered. Nincs egyetlen indoeurópai nyelvi ág sem, amelyik nem lenne levezethető a magyar nyelvből. A magyar ősvallás az indoeurópai vallások \[elődje és\] eredője.  
 
 Az indo-európai megállapított gyökök alatt listázott különböző nyelvekben valamiféle módon hasonló értelmekkel álló szavakat, ha egy értelmes, logikusan gondolkodó ember – még ha nyelvészeti antitálentum is – végignézi, elképed. Egy érdekesség például indo-európai \*kel gyök egyszerre jelent hideget és meleget is! Az ilyen ellentétes értelmű gyökök számos esetben előfordulnak (elég például magyar seny-ved, szenny, és szent szavakat, a [[W/Wan\|wan]] szó óangol `wann` elődjét – mely egyszerre fényes és sötét – nézni (nyilván [[F/Fény\|fény]]/vén és a [[H/Huny\|huny]] szavak hasonlósága okozta a zavart), vagy a leginkább érdekes, két értelmű, fentebb említett kar, továbbá sár, szar, szár szavakat nézni). Ilyen alapon mondható, hogy a buddhizmusra jellemző, kozmikus gondolkodáson alapuló szimbólumok, paradoxonok mélyen gyökereznek a magyar nyelvben és ha az indo-európai nyelvészet az összefüggéseket nem tárja fel, nekünk mindez hasznos.  
@@ -253,7 +258,7 @@ A legfelső ponthoz, miszerint indo-európai nyelv nincsen, azt a megjegyzést k
 
 [[P/Prajapati\|Prajapati]] cím bevezetőjében szóltunk a hindu isten-pantheon és megalkotóinak zavarairól, melyet persze az akadémikus indo-európai kommentálók annak tudnak be, hogy milyen bonyolult, részletes, (csodálatos) ezért nehezen magyarázható. "Magyarázni" ezt – a bizonyítványt – nem lehet, csak "anglicizálni, szemitizálni, stb." A magyar nyelv és ember képes csak megmagyarázni a világmindenség jelenségeit, mert nyelvében benne van az univerzum működése. Az indo-európai szerezze be a tudományos ismereteket, rendszerezheti is, ha ezzel segít, de a végkövetkeztetéseket ne vonja le. Főként ne tuszkolja rá más népekre. Ez a kérésünk.  
 
-#### A "SZENT" (Ó)HÉBER ÉS SZANSZKRIT NYELVEKRŐL
+#### A "szent" (ó)héber és szanszkrit nyelvekről
 
 Ipolyi Arnold Magyar mythologia című könyvében is számos alkalommal a szanszkrit nyelvből akarja eredeteztetni a magyar szavakat, vagy pedig ahhoz hasonlítani, holott a szanszkrit papi műnyelv nem túl régi, mint ahogy a zsidókkal nem sok közösséget viselő héber nyelv sem. Mégis, mivel ezen nyelveken íródtak fontos(nak tartott) vallási, papi műveltségi kútfők, ezeket tartják kiinduló nyelveknek, ami súlyos hiba.  
 Valpy latin etimológia szótárában is, ha nem közvetlenül a görögből vagy távolabbról a szanszkritból eredeteztet, akkor felajánl héber kiindulót, dacára annak, hogy egyes latin szavak óegyiptomi eredetűek lehetnek, ahogy a sémi nyelvek is (a latin akkád szavakat is tartalmaz, de az is magyar eredetű). Nem számolnak, nem számolhatnak ezen nyelvekkel, és azzal is védekezhetnek, hogy "nincs elég adat."  
@@ -262,18 +267,18 @@ Hasonlókról már valahol volt szó; tán [[J/Jehova-program\|Jehova-program]] 
 [[F/Finnugor nyelvek\|Finnugor nyelvek]] címnél legutóbb még arról is, hogy ezen lenézett nyelvek is sokat kölcsönöztek az indo-germán nyelveknek, nemcsak a kelta.  
 Igazán szent nyelv csak egy van, a magyar.  
 
-#### A TUDOMÁNYOK SÚLYOS RONGÁLÁSÁRÓL
+#### A tudományok súlyos rongálásáról
 
 Számtalan egyébként lelkiismeretes és jó kutatóval (magyarokkal is, például Tóth Gyula) megesik, hogy miután régi korok nyelveivel (és saját nyelveikkel, azok szavaival) nincs tisztában, ki van szolgáltatva a nyelvészeknek és az általuk megadott értelmezésekből próbálja tovább göngyölíteni a szálakat, sokszor súlyos tévedésekbe bocsátkozva különböző szógyökök hasonlítgatása folytán úgy, hogy az (hyper)interpolált gondolkodásmódját ezekre a téves értelmezésekre, vázakra építi. Például ha a görög `krisztosz` a nyelvészet szerint felkent jelentésű, akkor minden krisz, kresz, krasz, stb. gyökű szó valószínűleg olajjal, kenéssel, vagy valamilyen szertartással lesz kapcsolatos (és lám, a [[G/Grease\|grease]] = zsír szó még bele is illik az elképzelésbe; így működik az indo-európai tudományosság). Néhány sorral, oldallal arrébb már szörnyen távol kerültünk a premisszától és (magyar) ember legyen a talpán akinek lesz kedve tovább olvasni. A szerző újra előhoz majd érveket, melyek az eredeti témához persze ugyan kapcsolódnak, az iménti baklövést majd újra elköveti, de ha nem nyelvészeti, akkor szimbólum-ismeret híján. A szimbólumokat ugyanis magyar nyelven kell értelmezni. A [[K/Kígyó\|kígyó]]nak és a [[S/Sárkány\|sárkány]]nak nem véletlenül az a neve, ahogy a [[K/Kutya\|kutyá]]nak, [[S/Szarvas\|szarvas]]nak sem. Hogy a magyar alaptudásokat bele nem építő tudományokban mennyi ferdeség és félrevezetés van, elgondolni is szörnyű. Ettől még "hálásnak" kell lennünk, mert a nem-magyar kutatók legalább a helyszínen összeszedik, lefényképezik a forrásanyagokat (ha már minket nem engednek oda) és nekünk nem kell helybe mennünk.  
 
-#### SZÓKINCSÜNK, KÖLTŐI VÉNÁNK RONGÁLÁSÁRÓL
+#### Szókincsünk, költői vénánk rongálásáról
 
 Kodály Zoltán [[D/Dal\|dal]] címnél szereplő szavait annyival lehet kiegészíteni, hogy régen a beszédnyelv is dallamosabb lehetett (lásd a mai olasz nyelvet, de a magyarban is feldezhetni ezt), sőt, a mindennapos beszéd inkább tűnhetett afféle hasonlatokban, allegóriákban bővelkedő költemény szavalásának: ezzel szemben ma monotonul, mechanisztikusan, zártszájjal, robotszerűen beszélünk, élünk, viselkedünk, nem artikulálunk. Iránban a második leggyakrabban forgatott könyv a Korán után Hafez verseskötete, melyből az idiomatikussá vált szófordulatokat memorizálva a mindennapos beszédben alkalmazzák őket (Hafez mellett Firdauszi [[S/Shahnameh\|Shahnameh]]-je és a szufista költő Rumi verseskötete az még, amit leginkább tradicionálisan forgatnak és [[N/Nowruz\|Nowruz]]-kor a megterített asztalra is kirakják). Még 150-200 évvel ezelőtt is sokkal igényesebben, nagyobb szókinccsel, költői képekben és szimbolikában gazdag beszéddel nyilvánultak meg eleink (Angliában is), de a világot butító média megtette hatását.  
 
 Nyelvünk eredetiségének rongálásában tevékenyen részt vettek nyelvújítóink is. A perzsa és angol szókincset, kivált az eredetinek tűnő szavait elnézve az az embernek az érzése, hogy helyenként többet megtartott az ősnyelvből, mint a magyar! Nem véletlen, hogy alig volt olyan, akinek feltűnt volna a magyar nyelv ősisége.  
 Ebben a katolicizmus romboló hatása is benne van. Rómának és a Vatikánnak soha nem volt ínyére sem a hun, sem a magyar.  
 
-#### GÖRÖG/ANGOL/STB SZÓTÁRI CÍMSZAVAK TÖBBJELENTÉSŰSÉGÉNEK OKAI
+#### Görög/angol/stb. szótári címszavak többjelentésűségének okai
 
 • Valóban több jelentése van a szónak. Például magyarban is [[E/ÉR\|ér]] szavunk több jelentésű, és a szövegösszefüggés dönti el, melyiket kell érteni.  
 
@@ -281,7 +286,7 @@ Ebben a katolicizmus romboló hatása is benne van. Rómának és a Vatikánnak 
 
 • Egy jelentésű az eredő magyar szó (például lekvár), de jobb szó híján édes vagy például (ragacsos) massza jelentésekkel megy át egy másik nyelvbe, például görögbe, ahonnan tovább torzul a latin, ófrancia és angol nyelvekig érve. Vita (vagyis inkább vád, illetve hadáz, ádáz) szavunk például tényleg erős hangadással járhat, de ebből már bátor (latin audax) lesz, mely a nemzetközi audio szóval való összevetése már lehetetlen vállalkozás a magyarul nem tudó nyelvészek számára.  
 
-#### GÖRÖG/LATIN/STB. MESTERSÉGES SZÓBOKROK
+#### Görög/latin/stb. mesterséges szóbokrok
 
 Fentebb már volt arról szó, hogy az úgynevezett szent nyelvek, mint a szanszkrit és az aveszta műnyelvek. Eljuthattak egyes szavaik oda, hogy belső fejlődés útján újabb és újabb jelentéseket hozzanak létre, de ahogy más is megmondta már sokszor, nincs új a Nap alatt. Valahol mindig kell legyen egy eredeti kiinduló idea, amely az ősnyelvből való.  
 Fontos azt is leszögezni, hogy br-, gr- szókezdésű szavak illetve egyáltalán a mássalhangzó-dúsulás nem lehet jellemzője egy szent nyelvnek, mert az ősnyelv (ahogy a japán nyelvigény is mutatja) nem él a mássalhangzók torlasztásával: épp ez mutat rá, hogy az ősszavak jelentőségét nem veszik figyelembe. Minden régi nyelv ragozó, és emellett szótagnyelv[^8] és alapvetően leírva képnyelv. Sem a szanszkrit, sem az aveszta, sem a héber nem ilyen!  
@@ -306,11 +311,11 @@ Amit egyes helyeken írok arról, hogy egyes szavak hogyan jönnek létre belső
 Amit Magyar Adorján (majdnem) a mesterséges szóbokrokról (de legalábbis a belső fejlődésű árja szavakról) ír:  
 > \[...\] a szócsoport azon ősidőkben alakult ki, amikor őstörzseinkkel még a japánok ősei is egy népet képeztek, vagyis a japánok őseivé lett törzs még az alaptörzsből nem válott volt ki. Mindez is teljesen igazat ad tehát Nagy Géza tudósunknak, aki szerint az árjaság már keletkezésekor nyelve szókincse nagy részét őseink nyelvéből örökölte, amit részemről még azzal toldok meg, hogy szerintem külön árja szókincs egyáltalán alig is van, illetve inkább csak annyiban van, hogy az ősi alapszavakból később árja fejlemények is keletkeztek.  
 
-#### A SZÓTÁRÍRÓK ADATAINAK MEGBÍZHATÓSÁGÁRÓL
+#### A szótárírók adatainak megbízhatóságáról
 
 Olyan modern nyelvek esetében is, mint az angol, előfordul, hogy pontatlanul van megadva a magyar jelentés: újabb kiadásokkal, vagy más szerkesztők révén pontosíthatják az adatot. Olyan régebbi nyelvek, mint a szumer, szanszkrit, aveszta vagy akár a modernebb, gazdagabb írásos emlékkel rendelkező, kompletten kidolgozott nyelvtannal felvértezett latin nyelv szintén hordozhat buktatókat. Számtalanszor előfordul, hogy a magyar nyelv szerint mást várnánk, de nem kapjuk. Nem elég, hogy utódnyelveink kitekerten használták szavainkat, még tovább tekerik a nyelvészek is, hiszen az indo-európai gyökrendszerre építkező anticipációs készségük letérítik őket a helyes útról. A latint és görögöt például olyan szentnek és tökéletes alapnak veszik, hogy készek tűzbe tenni kezüket, "mert erre biztos támaszkodhatok." Milyen alapon? Jóérzésű magyar nyelvészek is mellélőttek, mert nem ismerték a magyarok lelkületét, igaz történelmét. Mit művelhetnek az akár megélhetési, akár lelkiismeretes angol nyelvészek, etimológusok?  
 
-#### TÖBB MAGYAR MEGOLDÁS LÉTEZÉSE A LEVEZETÉSEKNÉL
+#### Több magyar megoldás létezése a levezetéseknél
 
 A magyar nyelv olyan széles szósklálával rendelkezik (szóbokrok olyan zárt ill. összefüggő, kohéziós egységet alkotnak), hogy egyes szavak levezetésénél több megoldás is létezhet. Ilyen szó az angol [[W/Wash\|wash]], mely [[M/MOS\|mos]] jelentésű, de alakilag is egyező, hiszen az m ajakhang és v fog-ajakhang azonos helyen képzettek, az ezredévek során könnyen változik át a másikká. Más kutató [[V/Víz\|víz]] szavunkból (és német megfelelőjéből) indul ki, megint más pedig ázik szavunkat hozza fel megoldásnak ill. összevetési alapnak. A helyes ill. egyértelműen helyes levezetést nehézzé az is teszi, hogy maguk a magyar szavaink is több, párhuzamosan használt (egyúttal a magyar nyelv [[F/Flexió\|flektáló]] képességét feltáró) szóalakkal léteztek különböző nyelvjárásokban. Így csak a wash példáját követve elképzelhető, hogy v-sen ejtette az ősmagyar valamely csoportja is, a víz szavunk analógiájára és az m-es kezdőhang később keletkezett (mondom ezt mindannak ellenére, hogy tudjuk, hogy az m hang az első ösztönösen kiejtett hang a csecsemő szájából is, és ezért majd minden nyelven mama az anya(föld) neve (szótagkettőzötten)).  
 
@@ -322,11 +327,11 @@ Egy kínai holdújévval (is) kapcsolatos hagyományokról szóló műsorban arr
 Pontosan így működik a magyar nyelv is, Nap és fény jelentésű etimonokból épül fel; és míg a kínai nyelvjárásokban úgy tűnik, egyesek igen profik, **hogy lehet, hogy saját nyelvünket nem ismerjük?**  
 Nem tűnt fel (szinte) senkinek az sem, hogy ha a sumér vagy kínai szótagnyelv, akkor a magyar is az? Miért tartunk még mindig az indogermán alapú [[G/Gyöknyelvészet\|gyöknyelvészet]]nél?  
 
-#### IDEGEN MŰVELTSÉGI SZAVAK KELETKEZÉSE MAGYAR ALAPSZAVAKBÓL
+#### Idegen műveltségi szavak keletkezése magyar alapszavakból
 
 Az utódnyelvek műveltségi és mai tudományokban használt, sok esetben fennköltnek, zsargonisztikusnak hangzó szavai egyszerű, a magyar nyelv alaprétegeiből származó szavakból épül fel. Példák sokaságát lehet felhozni. [[B/Beteg\|Beteg]] szavunkból hogyan lehet passió és szenvedély, [[S/Segg\|segg]] szavunkból hogyan lehet [[C/Chagrin\|chagrin]] (bánat), palacsintából hogyan lesz a méhlepény latin orvosi elnevezése, [[T/Takony\|takony]] és [[G/Geny\|geny]] szavainknak mi köze az utódnemzéshez, vagy mi a [[S/Szarkóma\|szarkóma]], mi a kakofónia és a codex magyar háttere, sorolhatnánk. Az tény, hogy a mai angolba a bonyolultabb ideákat magába foglaló magyar szavak nem kerültek be, csak azok a latin és görög szavak, amik az eredeti ősmagyarnak ferdítései.  
 
-#### SZEMANTIKAI VÁLTOZÁSOKRÓL
+#### Szemantikai változásokról
 
 A szóeredet keresésénél figyelembe kell venni az értelemváltozásokat is. Tehát míg a [[W/Win\|win]] = győz eredeti jelentése állítólag vív volt, vagy a latin `cura` eredeti jelentése gond(oskodás), aggodalom volt, más szavaknál is mögé kell nézni a szavak esetleges szemantikai változásainak.  
 
@@ -334,14 +339,14 @@ A szóeredet keresésénél figyelembe kell venni az értelemváltozásokat is. 
 
 Az itt említett esetek nem mindig a legjobb példák, viszont a lehetőségeket szem előtt kell tartani.  
 
-#### MAGYAR MEGOLDÁSOK PONTOSSÁGA; A PONTOSSÁG ESÉLYE
+#### Magyar megoldások pontossága; a pontosság esélye
 
 Minél több az adat, annál közelebb jutni az igazsághoz, jelen esetben a valódi eredetet megfejtéséhez. A dolgot bonyolítja, hogy a magyar nyelv, mondavilág, ősműveltség talaja idegen erők által rengetetté vált, így pontos adatok sokszor nem állnak rendelkezésre, de, köszönhetően egyes polihisztoraink áldásos rekonstrukciós tevékenységének és korábbi szótáraink íróinak, a magyar hagyományok, életvitel és a hozzá kötődő szavak javarésze rendelkezésre áll. A kutató munkája, hogy ezen kincsekből minél többet magáévá tegyen és kiegészítő, más nyelvekre építő forrásmunka elvégzésével kitöltse azon űröket, melyek a rossz irányokba vinnék el. Így lehet kiküszöbölni, hogy egyes ókori szavak, mint a görög `zēlos` ne csak egyszerűen [[C/Cél\|cél]] szavunkkal, latin `circus` [[K/Kör\|kör]] szavunkkal legyen egyenlővé téve. A szavak eredetének keresésével olyan mitológiai, néprajzi, vallási útvesztőkbe kerülhetünk, melyeket magunk illetve magyar őseink építettek ki és csak mi tudjuk megoldani a rejtélyeit.  
 
 Jankovics Marcell Mély a múltnak kútja című könyvéből származik a mellékelt mondat:  
 > Ne feledjük, hogy a nyelv alapszókészletét analógiákban, metaforákban (mitopoétikusan) gondolkodó emberek teremtették, s hogy a nyelv fejlődésének a legújabb korig a mesemondó parasztemberek és mitikus mintákon nevelkedő költők nyelvi leleménye szabott irányt.  
 
-#### A LATIN SZAVAKRÓL
+#### A latin szavakról
 
 A latin széleskörű írásos emlékkel rendelkezik, nagy nyelvészeti érdeklődés és belemagyarázás vette körül. Olyan prepozíciókat gyártottak, melyek magyar ragokból, sőt, gyökszavakból állnak, vagy azok roncsolásából. A főigéik sokszor egy magyar szó fonákos jelentéséből születnek, de azon esetekben is szógyorsulva és hangcserékkel.  
 
@@ -351,11 +356,13 @@ Többször feltűnt, hogy az ófrancia, katalán és albán nyelvben talált (hu
 
 A latin szavakra visszavezetett újlatin, albán, kelta (mellyel kapcsolatosan tehát felmerült, hogy több esetben ő az átadó, mintsem gondolnánk) szavakkal kapcsolatosan az az ember érzése, hogy régen ezeken a területeken nem ezen a nyelven beszélt a lakosság, hanem a vallás/politika határozta meg, hogy mely szavakat kell használni. Azaz gyakorlatilag Nyugat-Európában is az játszódott le, mint Közép- és Dél-Amerikában a spanyol nyelv behozatalával: a politikai helyzet megkívánta, hogy az új nyelvet használják, elsősorban az államigazgatási körökben. Magyarország területén is volt a latin hivatalos nyelv, az ország viszont ellenállt, és nem terjedt el.  
 
-#### AZ ÓANGOL SZAVAKRÓL
+Lásd még [[L/Latin nyelv\|latin nyelv]].  
+
+#### Az óangol szavakról
 
 Az óangolnak címkézett szavakat tarthatjuk egyszerűen germánnak. Azaz az óangolnak címkézett szó nem feltétlenül elődje az angolnak, hanem párhuzamosan mellette létezhetett. Az olyan szópárok, mint az angol [[P/Play\|play]] és eredetéül felhozott óangol `plegian` nem feltétlenül állnak nyelv-evolúciós kapcsolatban. Hasonló esetet láttunk [[H/Hay\|hay]] = széna szónál is. Egy nyelvi ökoszisztémából kerülnek ki, de a kronológiai sorrend nem bizonyítható. Természetesen minél több az adat, annál jobb, de magyar szóra való visszavezetésnél nem mindig a régebbi alakú, értelmű szó szolgáltathatja a megoldást.  
 
-#### SZAVAK FORRÁSAI AZ UTÓDNYELVEKBEN  
+#### Szavak forrásai az utódnyelvekben  
 
 Három fő forrása van a szavaknak utódnyelveinkben: etimonokra bontható Csillag- és Napvallásra idejéből származó szótag-szavak, magyar ősvallás/mitológia/képzetek, és magyar király-, személy- és tájnevek.  
 Írhatnánk úgy is, hogy szakrális vagy asztrális szavak változnak át profánakká. (De a magyarban magunk is elfeledtük az alma, kígyó, csiga, kutya, hattyú, stb. nevek eredeti jelentését.)  
@@ -363,24 +370,28 @@ A Szaurusz szó gyík jelentésű volt az ókorban. Csak a név nem gyíkot jele
 
 Általánosságban elmondható, hogy az utódnyelvek szavai magyar szimbólumokból, azok sajátos használatából, félreértéséből alakulnak ki.  
 
-#### ALAPSZAVAK ILL. ETIMONOK
+#### Alapszavak ill. ún. etimonok
 
 A Virág Kálmán által taglalt szavak mind a Nap(Isten) különböző nevei, megnyilvánulásai: A hasonlóságot és szaporaságot/gyakorítást kifejező üt (egymásra ütnek) (PJI-nél ugye [[U/UTU\|UTU]] = Nap), ver ("egy veretűek") ([[B/BAR\|BAR]] = Nap), szak/szok ([[S/SZIK\|SZIK]], [[S/SZEK\|SZEK]], stb. = Nap), has(ogat, hasonló) (KUS etimon?), vág (egybevág, egyvágásúak) (VA/VE) mellett a számosságot/sajátosságot kifejező szám és személy szavak SUM/SAM/SEM ([[S/Samas\|Samas]] például) nevére, míg az indo-európai létigék [[I/Isten\|Isten]] szavunkra utalnak: orosz `ísztina` = igazság szó mellett az `eszty`/`jeszty` = van szavak (németben is `ist`!) és török `iste` = van szó Isten szavunkat idézi.  
 A Szúr, Szőr, Szűr, (ige és főnév), Szur, mint Bika, Sün, Sül, mint ige és állatnév, a Szór (Szórja a sugarait), Szün, Szum, Szüm, Szöm, és rengeteg más szó mind a Nap nevei.  
 
 Heisenberg, a modern fizika nagy úttörője, az új világszemlélet egyik alkotója, így ír: "Gondolkodásunknak és nyelvkincsünknek hozzáalkalmazása az atomfizika tapasztalataihoz csakúgy, mint a relativitás-elmélethez, mindenesetre nagy nehézségekkel jár." A cél pedig éppen ez, az olyan alap-etimonok mint [[A/AR, ÁR\|AR, ÁR]] vagy [[F/FU\|FU]] mögött meglássuk, hogyan gondolkozott az első ember.  
 
-#### NEGATÍV ÉRTELMET NYERT VAGY ALJAS SZAVAK
+Lásd még [[E/Etymon\|etimon]].  
+
+#### Negatív értelmet nyert vagy aljas szavak
 
 Az idő előrehaladtával ([[K/Kali Yuga\|Kali Yuga]]) bizonyos szavak, szóösszefüggések értelme megváltozott:  
 • [[R/Ronda\|Rondá]]ról esett szó [[R/Round\|round]] szónál. Ugyan rom szavunkból is eredhet (romda) de maradjon itt.  
   
 • [[B/Baj\|Baj]] szónál PJI leírja, miként változott negatívra jekentése. [[B/Bal\|Bal]] eredetileg hatalmast, majd bal-jóst, rossz értelmet vett fel.  
 • [[F/Fene\|Fene]] szavunk [[F/Fény\|fény]] nyomán is pozitívból negatívvá alakult, de nem azért, mert a betegségek felütötték a fejüket a bolygón, hanem mert a [[N/Nyári napforduló\|nyári napforduló]] után a Nap a sötét tartományba lép.  
-• Tupa szavunk eredetileg szintén pozitív: Tu-Pa magyarul Nap-Apa.
+• Tupa szavunk eredetileg szintén pozitív: Tu-Pa magyarul Nap-Apa.  
 
-#### A POGÁNYSÁG, ILL. A NAP- ÉS TŰZTISZTELET TILTÁSA, DÉMONIZÁLÁSA TETTEN ÉRHETŐ A NYELVBEN
-AVAGY AZ ÉLET DUALISZTIKUS VOLTA KÓDOLVA VAN A NYELVBEN
+Azt le kell azonban szögezni, hogy a szent magyar nyelvben nincsen "csúnya" szó. Minden szavunk szakrális, szent szó. Az adott helyeken erre ki szoktam térni.  
+
+#### A pogányság, ill. a nap- és tűztisztelet tiltása, démonizálása tetten érhető a nyelvben
+Avagy az élet dualisztikus volta kódolva van a nyelvben
 
 • [[B/Bál\|Baál]] isten megítélésénél nem a zsidó hagyományt kell alapul venni; hiszen, ahogy a latin mondás tartja "Vae victis" – "Jaj a legyőzötteknek", de az isteneiknek is.  
 • A Hány - Mennyi matematikai nevek An, az Ég, és a Menny, az Ég fogalmait tartalmazzák. De ebbe a rejtélybe most nem megyünk bele. A vallásháború szétzúzta An neveinek egységes, isteni jelentését. Sok szóformára az ördög jelentést ragasztotta, meglehetősen igazságtalanul. A háború biztosan lezajlott, csak nem tudjuk, mikor és hol?  
@@ -393,11 +404,11 @@ AVAGY AZ ÉLET DUALISZTIKUS VOLTA KÓDOLVA VAN A NYELVBEN
 • Találni pogány tűztiszteletet megtartó hagyományokat is jószerivel. Például [[P/Pure\|pure]], [[P/Purgatory\|purgatory]] és [[F/Februa\|Februa]].  
 • [[O/Obelus\|Obelus]], [[O/Obeliszk\|obelisk]] szavak áttételesen bizonyítják, hogy a kereszt alakú jelképek a pogány Bál Isten imádata idején is léteztek.  
 
-#### Péterfai János írja:
+##### Péterfai János írja:
 
 > De ronda szóhoz hasonló történt Un istennővel/szóval is: Un ige is, Unni főnévi igenévvel. Úgy látszik, valakik azt tanították nekünk, hogy unjuk meg Un istennőnket. Ehhez a szándékhoz találták ki az Undok, Undokság, Undor, Unlak szavakat.  
 
-#### A SZÓTÜKRÖZÉSRŐL
+#### A szótükrözésről
 
 Tomory Zsuzsa egyes angol szavak magyar eredetének meghatározását Magyar Adorján azon elgondolására alapozza, hogy ősnyelvünk a szavak tükrözésével új, akár ellentétes előjelű szavakat alkotott. Annak problematikájáról, hogy a megfordított szavak a mai magyar nyelvben nem léteznek, nem szól, de annak eshetőségről sem, hogy egyes esetlegesen lerótt szavakat fordítva olvashattak ki. Vasváry-Tóth Tibor is felhoz néhány szót (Draszil - Lizard, Ragnarök - KörNagyÚr), ami ez utóbbi elképzelést támaszthatja alá. Práczki István, úgy gondolom, helyenként szintén túlzásokba esik.  
 A latin nyelvben is előfordult, hogy tévesen olvasták ki a szavakat: ezekből Tóth Gyula is hozott fel példákat.  
@@ -405,7 +416,7 @@ A témáról lásd [[S/Szómegfordítás\|szómegfordítás]], [[S/Szótagmegfor
 
 
 
-#### A PONTOS ETIMOLOGIZÁLÁS SZÜKSÉGESSÉGE
+#### A pontos etimologizálás szükségessége
 
 Már volt arról szó, hogy fontos a pontos etimologizálás. A legtöbb kutató, nyelvész úgy dolgozik, hogy a kiinduló (tulajdonképpen megváltoztathatatlan végeredményt produkáló) alapelméletét próbálja alátámasztani nyelvi bizonyítékokkal. Önkényes hajlításokkal sikerül is nekik, szinte minden esetben.  
 A cél mindig az objektív igazság, nem az, hogy a saját bejáratú igazamat hogyan tudom bizonyítani.   
@@ -444,7 +455,7 @@ Ha a [[K/Karácsony\|Karácsony]] és [[K/Kerecsen\|kerecsen]] szavakat magyarna
 
 (Ahogy mondtam, ezen esetekre egyelőre [[L/Light\|light]] címnél hívom fel a figyelmet, de idővel átkerülhetnek más, új címszó alá, hiszen a kutatási anyag folyamatos rendszerezés, optimalizálás alatt van, de elérkezettnek éreztem az időt, hogy az internetre a közönség számára elérhetően is fel legyen töltve.)  
 
-#### AZ UTÓDNYELVEK, KULTÚRÁK, VALLÁSOK TÖKÉLETLENSÉGEI ÉS HATÁSAI
+#### Az utódnyelvek, kultúrák, vallások tökéletlenségei és hatásai
 
 A népszerű és szépnek tartott nyelvek közül a francia, spanyol és olasz nyelv az, amit a tanulók leginkább tanulnának, de az angol nyelv dominanciája és könnyen tanulhatósága miatt ezt tanítják, a német mellett például Magyarországon. A német nyelv hangzása finomabb (= magyar) lelkű embernél hasonló ingert válthat ki, mint a szláv, román és akár a jiddis vagy héber nyelv: ellenszenvet, és ennek szociopolitikai okai is vannak. Ellenben a világméretű anglofilia és Amerika-imádat miatt az angol nyelv és az angolszász kultúra magunkévá tétele könnyen megy. Persze a csapból is ez folyik; mondhatni, ahogy a tudomány nyelve a görög és latin volt, úgy lett az angol az amerikai zsidók ilyen nyelvűsége folytán a római kort idéző tömegszórakoztatás illetve a globális kereskedelem (kartellezés) "intézkedő" nyelve.  
 És az ugye eszünkbe sem jut(hat), hogy ezen nyelvek mindegyike a magyar nyelv rontása. Érdekes, hogy amíg fanyalgunk a vidéki tájszólással vagy palócosan beszélőkön, addig az ezen magyarajkú érthető nyelven beszélő népségekhez képest az ősmagyart már felismerhetetlenül beszélő idegen népeket és kultúrájukat istenítjük. Bele sem gondolunk, hogy az utódnyelvek máshogy (szebben?) hangzása is csak azért lehet, mert kevesebb kemény hangot és több szöszögő hangot használ, kevesebb vagy hiányos az üveghang hatású, éles hangzású ü, ű, í, é, ő, stb. hangjuk. Mintha mélyebb tonifikációjúvá válva a nyelvek szebben hangzanának? Ha nem tudatosítjuk, hogy a tökéletlen, mechanisztikus nyelveket nem szabad a magyar rovására tanulni, a középkori parasztság azon törekvése és érdeme, hogy a magyar nyelv egyáltalán fennmaradhatott, kárba vész, de az utódnyelveket beszélőknek is bizonyítani kell, hogy imájuk akkor talál leginkább célba, ha magyarul ejtik ki a szavaikat. Persze a magyarul tanulásukig sokat kell még tenni és sok harcot meg kell vívni. De leginkább önmagunkért, gyermekeinkért és az igazságért kell harcolni. Adni kell egy okot a férfiaknak is, hogy van nemes cél, amiért harcolhatnak, hisz már teljesen cél nélkül élnek.  
@@ -459,7 +470,7 @@ Ki kell jelenteni, hogy az utódnépek nyelvének (egyes, alaprétegének) szava
 Teljesen kifordították ezzel az emberiséget önmagából. Tévedés ne essen, a görög drámák, ahogy Shakespeare drámái is eredetileg mitológiai jelentőségűek voltak ([[H/Hamlet\|Hamlet]]ről volt szó, [[C/Caliban\|Caliban]] címnél pedig a Vihar című drámájáról is). Csakhogy ami a mitológiában "megengedett," (hogy az istenek egymást közt házasodjanak: ennek csak csillagmitológiai háttere van), az a földieknek nem. (Ugyanígy: ami a magyarságot, annak eszmeiségét védő katonáskodó hunoknak és királyaiknak megengedett, hogy több feleséget tartson, az a földi polgár muszlim férfinak nem, főleg, hogy az [[I/Iszlám\|iszlám]] megzsidósításával átállt a valamikori hunokkal ellentétes oldalra.)  
 Az ember ha lefejti a túlbonyolított mitológiákat, rájön, hogy viszonylag egyszerű kép rajzolódik ki: a Tejútanya két ikerfiúval és Nimród atyjukkal meg egy-két tucat csillagképpel, melyek a hátteret szolgáltatjá. Ami a hindu, sumér, görög, stb. mitológiát, isten-pantheont illeti, nyilván azért van ilyen sok mindenből (átfedéssel egymás között, hisz lásd, a görög mitológiában is mennyi és mennyi alak a Tejútanyából lett gyúrva, vagy a Napból, vagy bizonyos csillagképekben álló Napból, stb.), mert többszáz/ezer év anyaga és számos magyar-utód monda/nép/névváltozat sűrűsödik benne. Vegyük észre, sok magyar mesénk is egy és ugyanazt mondja el, csak más a Naphős neve, vagy kissé más a téma, de ha tisztába tesszük a dolgokat, az ősmitológia nem olyan bonyolult.  
 
-#### MIT ÉR A TUDÁS, HA NINCS MAGYAR TUDÁS?
+#### Mit ér a tudás, ha nincs benne magyar tudás?
 
 Több helyen volt arról szó, hogy az indo-európai (és őket majmoló) kutatók (akár magyarok és nem MTA-sok is) (csak) adatgyűjtésre jók, de a (vég)következtetéseket nem szabad levonniuk. Csak egy érdekességet ide a nagytudású(nak tartott) René Guenon-tól, aki [[N/Navel\|navel]] címnél teljesen körüljárja a Nap fogalmát, de mivel viszont magyarul nem tud, nem igazán jut dűlőre (mit ér a tudás magyar tudás nélkül):  
 In Greek, [[O/Omphalos\|Omphalos]] signifies 'umbilical', but in a general sense describes everything that is central, and in particular the hub of a wheel. The Sanskrit `nabhi` has the same connotations, as do various words in the Germanic and Celtic languages derived from the same root \[írja ezt úgy, mintha a [[K/Kelta\|kelta]] indo-germán nyelv lenne\], found in the forms 'nab' and 'nav'. In Gaelic, 'nav' or 'naf', which is plainly identical with these, carries the sense of 'chief' \[főség mindig Napnevekből áll\] and is even applied to God \[Napisten\]; so it is indeed the idea of a central \[központi csillagunk a Nap\] Principal that is being expressed. The meaning of 'hub' is particularly important to this issue as the wheel \[kerék: Napjelkép\] universally symbolizes the world rotating around a fixed point - a symbolism also associated with the [[S/Swastika\|swastika]] \[[[Napjelkép\|[Napjelkép]]\]. In the latter, however, the circumference is not delineated in order to give an immediate indication of the centre: the swastika is not an image of the World, but of the action of the Principle in relation to the World.  
@@ -486,7 +497,7 @@ Egy JM által megosztott (és magazinban szereplő) közvéleménykutatás szeri
 A magyarnak sok nyelvjárása van/volt. Ezt a nyelvészek nem veszik figyelembe. Minden nyelvjárásnak, azaz inkább törzsnek megvannak/voltak a saját (nyelvi/vallási) alapréteghez tartozó szavai.  
 
 [^5]: Lábjegyzet:  
-"Néha arra gondolhatunk, hogy a magyar szavak összeállása messze a Homo sapiens előtti korokban történt." \[PJI]  
+"Néha arra gondolhatunk, hogy a magyar szavak összeállása messze a Homo sapiens előtti korokban történt." \[PJI\]  
 
 [^6]: Lábjegyzet:  
 Visual iconography was also important to Graves's conception. Graves created a methodology for reading images he called "iconotropy". To practice this methodology one is required to reduce "speech into its original images and rhythms" and then to combine these "on several simultaneous levels of thought". By applying this methodology Graves decoded a woodcut of The Judgement of Paris as depicting a singular Triple Goddess rather than the traditional Hera, Athena and Aphrodite of the narrative the image illustrates.  
