@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-10-05T07:24"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-10-05T11:46"}
 ---
 
 
@@ -17,15 +17,23 @@ Mindezt természetesen ingyen. A weboldalon nem szerepel sem reklám, sem pedig 
 
 ## Köszönetnyilvánítás
 
-Köszönöm a jó Istennek, hogy magyarnak születtem és az ezzel járó feladatokat.  
-Köszönettel tartozom [Péterfai János István](https://magyarmegmaradasert.hu/kozerdeku/nekunk-irtak/itemlist/tag/P%C3%A9terfai%20J%C3%A1nos%20Istv%C3%A1n)nak, akit beavatómként, mentoromként tisztelhetek. Az ő írásai (magánlevelezéseink is voltak) indítottak arra a pályára, amelyre mindig is szánt az Elküldő.  
-Péterfai János István (az írásokban gyakran röviden: PJI) sorai gyakran nyitják az egyes cikkeket, de külön helyen egyes hibáira vagy következetlenségeire is felhívom a figyelmet. Remélhetőleg egy nálam fiatalabb, vagy csak: rátermettebb, követőnk majd az én hibáimat is javítja. Az alapokat János bátyám és én letesszük nekik.  
+Köszönöm a jó Istennek, hogy magyarnak születhettem és az ezzel járó feladatokat, valamint köszönöm, hogy a legfontosabb könyveket, írásokat adta elém, a látásmódot amellyel ezeket olvasni kell és hogy elvezetett olyan segédletek felé, amelyek ezen munkám megkönnyítik.  
 
-Köszönet illeti az [Obsidian](https://obsidian.md) nevű program készítőit, akik egy nagyszerű programot ingyenesen bocsátanak a felhasználók rendelkezésére és a Digital Garden bővítmény készítőjét és segítőit, hogy szintén ingyenesen nyújtanak lehetőséget a webes applikáció publikálására. Ezek gyümölcsét látja most az olvasó.  
+Köszönöm a családom támogatását; az efféle munkát végezni képes ember földi mivoltában sokszor elviselhetetlen.
+
+Köszönettel tartozom a velem magánlevelezéseket is vállaló [Péterfai János István](https://magyarmegmaradasert.hu/kozerdeku/nekunk-irtak/itemlist/tag/P%C3%A9terfai%20J%C3%A1nos%20Istv%C3%A1n)nak, akit beavatómként, mentoromként tisztelhetek. Az ő írásai indítottak arra a pályára, amelyre mindig is szánt az Elküldő.  
+Péterfai János István (az írásokban gyakran röviden: PJI) sorai gyakran nyitják az egyes cikkeket, mint mérvadó, viszont külön helyen egyes hibáira vagy következetlenségeire is felhívom a figyelmet. Remélhetőleg egy nálam fiatalabb, vagy csak: rátermettebb, követőnk majd az én hibáimat is javítja. Az alapokat János bátyám és én letesszük nekik.  
+
+Végezetül hálás vagyok az [Obsidian](https://obsidian.md) nevű program készítőinek, akik egy nagyszerű programot ingyenesen bocsátanak a felhasználók rendelkezésére és köszönet illeti a [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) bővítmény készítőjét és segítőit, hogy szintén ingyenesen nyújtanak lehetőséget a webes applikáció (Vercel, Netlify vagy más szolgáltatókon keresztüli) létrehozására. Ezek gyümölcsét látja most az olvasó.  
+
+Nem utolsósorban mindenkinek, akit irányomba vetett a sors, minden jó- és rosszakarómnak.  
+
+Köszönöm az Ön érdeklődését is!  
+(Csak azért nem tegezlek, mert így meglátod az Ön-ben az Én is benne van... János bátyám szenzációs meglátása, hogy a magyar személyes névmások Isten jelentésűek.)  
 
 ## Jelen web-app használata
 
-A terv első lépcsőjét az alábbi netes applikációval teljesítem. Mivel a kutatás folyamatos és az elkövetkezendő mintegy 40-50 (500-1000?) évre be vagyok táblázva, nehéz lesz még ezt a webes applikációt is működésben tartani, nemhogy újakkal előállni, de minden gondot megoldással orvosolunk. Ígérni viszont nem ígérek semmit.  
+A terv első lépcsőjét az alábbi netes applikációval teljesítem. Mivel a kutatás folyamatos és az elkövetkezendő mintegy 40-50 (500-1000?) évre be vagyok táblázva, nehéz lesz még ezt az online felületet is működésben tartani, nemhogy újakkal előállni, de minden gondot megoldással orvosolunk. Ígérni viszont nem ígérek semmit.  
 Gondolkodom az egyes angol feliratok ("Search", "On this page", "Connected pages", stb.) magyar nyelvűre bűvészkedésének lehetőségén, csak minden egyes Digital Garden bővítmény frissítés után át kellene javítani.  
 Mivel nincs sok belőlük, a jelentésüket és funkciójukat elmondanám gyorsan. Tehát angolul nem tudók is bátran, nyugodtan használhatják az oldalt.  
 A **Search**: Keresés. Remélhetőleg sok ezer állománynál is valósidejű, azaz gyors marad.  
