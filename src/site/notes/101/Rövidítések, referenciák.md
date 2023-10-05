@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Rövidítések, referenciák/","title":"Rövidítések, referenciák","created":"2023-10-04T07:50","updated":"2023-10-04T08:08"}
+{"dg-publish":true,"permalink":"/101/Rövidítések, referenciák/","title":"Rövidítések, referenciák","created":"2023-10-04T07:50","updated":"2023-10-05T03:27"}
 ---
 
 
@@ -14,7 +14,7 @@ CsB - Csűry Bálint (Szamosháti szótár)
 SzJMT - Szinnyei József: Magyar Tájszótár  
 MNL - Magyar Néprajzi Lexikon  
 PNSZ - Pallas Nagyszótár  
-PNL - Pallas Nagy Lexicon  
+PNL - Pallas Nagy Lexikon  
 RNL - Révai Nagy Lexikona  
 KF - Kresznerics Ferenc deák szótár  
 PAESZ - Perzsa-angol etim. szótár  
