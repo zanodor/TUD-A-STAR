@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-10-05T07:09"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-10-05T07:24"}
 ---
 
 
@@ -10,29 +10,29 @@
 ## Mit kap az olvasó
 
 Eredetileg: Forrásmunka a készülő **"Fény és sötétség - a magyarság helye a világban"** című kiadványhoz (angolul: **Light and Darkness - The Magyars' Place In The Universe**)  
-Azaz tervezem a valamikor angol fordítást is (egyes helyeken fordítani sem kellene, mert már angolul szerepelnek a Tudástárnak nevezett adatbázisban – azon helyeken a magyar fordításokkal vagyok adós), de annyi különbséggel, hogy mivel írott nyomtatásban lehetetlenség lenne megjelentetni, marad az elektronikus formátum.  
+Azaz tervezem a valamikori angol fordítást is (egyes helyeken fordítani sem kellene, mert már angolul szerepelnek a Tudástárnak nevezett adatbázisban – azon helyeken a magyar fordításokkal vagyok adós), de annyi különbséggel, hogy mivel írott nyomtatásban lehetetlenség lenne bármelyiküket is megjelentetni, marad az elektronikus formátum.  
 
-A terv: 2x2 elektronikus kiadvány: magyar és angol nyelvű interaktív web-app és interaktív PDF.  
-Mindent természetesen ingyen. A weboldalon nem szerepel sem reklám, sem pedig kávé ellátmányom pótlására buzdító felhívás. Igyekszem ingyenkegyelemből azt adni, amit minden magyar és nem magyar gyermekből felnőtt embernek mindig is kapnia kellett volna.  
+Terveim között 2x2 elektronikus kiadvány szerepel: magyar és angol nyelvű interaktív web-app és interaktív PDF (utóbbi technikai megvalósítása még várat magára).  
+Mindezt természetesen ingyen. A weboldalon nem szerepel sem reklám, sem pedig kávé ellátmányom pótlására buzdító felhívás. Igyekszem ingyenkegyelemből azt adni, amit minden magyar és nem magyar gyermekből felnőtt embernek mindig is kapnia kellett volna.  
 
 ## Köszönetnyilvánítás
 
 Köszönöm a jó Istennek, hogy magyarnak születtem és az ezzel járó feladatokat.  
-Köszönettel tartozom Péterfai János Istvánnak, akit beavatómként, mentoromként tisztelhetek. Az ő írásai (magánlevelezéseink is voltak) indítottak arra a pályára, amelyre mindig is szánt az Elküldő.  
-Péterfai János István (az írásokban gyakran röviden: PJI) sorai gyakran nyitják az egyes cikkeket, de külön helyen egyes hibáira is felhívom a figyelmet. Remélhetőleg egy nálam fiatalabb, vagy csak: rátermettebb, követőnk majd az én hibáimat is javítja. Az alapokat János bátyám és magam letesszük nekik.  
+Köszönettel tartozom [Péterfai János István](https://magyarmegmaradasert.hu/kozerdeku/nekunk-irtak/itemlist/tag/P%C3%A9terfai%20J%C3%A1nos%20Istv%C3%A1n)nak, akit beavatómként, mentoromként tisztelhetek. Az ő írásai (magánlevelezéseink is voltak) indítottak arra a pályára, amelyre mindig is szánt az Elküldő.  
+Péterfai János István (az írásokban gyakran röviden: PJI) sorai gyakran nyitják az egyes cikkeket, de külön helyen egyes hibáira vagy következetlenségeire is felhívom a figyelmet. Remélhetőleg egy nálam fiatalabb, vagy csak: rátermettebb, követőnk majd az én hibáimat is javítja. Az alapokat János bátyám és én letesszük nekik.  
 
-Köszönet illeti az Obsidian nevű program készítőit, akik egy nagyszerű programot ingyenesen bocsátanak a felhasználók rendelkezésére és a Digital Garden bővítmény készítőjét és segítőit, hogy szintén ingyenesen nyújtanak lehetőséget a webes applikáció publikálására. Ezek gyümölcsét látja most az olvasó.  
+Köszönet illeti az [Obsidian](https://obsidian.md) nevű program készítőit, akik egy nagyszerű programot ingyenesen bocsátanak a felhasználók rendelkezésére és a Digital Garden bővítmény készítőjét és segítőit, hogy szintén ingyenesen nyújtanak lehetőséget a webes applikáció publikálására. Ezek gyümölcsét látja most az olvasó.  
 
 ## Jelen web-app használata
 
 A terv első lépcsőjét az alábbi netes applikációval teljesítem. Mivel a kutatás folyamatos és az elkövetkezendő mintegy 40-50 (500-1000?) évre be vagyok táblázva, nehéz lesz még ezt a webes applikációt is működésben tartani, nemhogy újakkal előállni, de minden gondot megoldással orvosolunk. Ígérni viszont nem ígérek semmit.  
-Gondolkodom az egyes angol feliratok ("Search", "On this page", "Connected pages", stb.) magyar nyelvűre bűvészkedésének lehetőségén, csak minden egyes Digital Garden bővítmény frissítése után át kellene javítani.  
-Mivel nincs sok belőlük, a jelentésüket és funkciójukat elmondanám gyorsan.  
+Gondolkodom az egyes angol feliratok ("Search", "On this page", "Connected pages", stb.) magyar nyelvűre bűvészkedésének lehetőségén, csak minden egyes Digital Garden bővítmény frissítés után át kellene javítani.  
+Mivel nincs sok belőlük, a jelentésüket és funkciójukat elmondanám gyorsan. Tehát angolul nem tudók is bátran, nyugodtan használhatják az oldalt.  
 A **Search**: Keresés. Remélhetőleg sok ezer állománynál is valósidejű, azaz gyors marad.  
 Az **On this page** könnyen láthatóan a jelenleg megnyitott cikk tartalomjegyzéke, címsorok szerint. Hosszabb állományokban hasznos igazán, vagy ha valaki pl. Jankovics Marcell vagy más véleményére akar rögtön ugrani.  
 A **Connected pages** egy az adott cikkhez kötődő más, rokon (a cikkhez "linkelt") témák neveit (magukat a cikkeket) tartalmazó grafikai megoldás, melyben több kis gomb is van. Érdemes nyomogatni, mert nagyítani is lehet.  
 
-Bal oldalt a három vízszintes vonalkára kattintva találjunk az összes eleddig feltöltött állomány A-Z mappákba szedett listáját. Ez azért lehet jobb, mint a Search, mert itt látjuk az egyes témákat, melyek nem minden esetben pusztán egy szó lehetséges eredetét feszegetik, hanem akár esszé méretben kívánnak érvényesülni.  
+Bal oldalt a három vízszintes vonalkára kattintva találjunk az összes eleddig feltöltött állomány A-Z mappákba szedett listáját. Ez azért lehet jobb, mint a Search, mert itt látjuk a "felhozatalt": az egyes témákat, melyek nem minden esetben pusztán egy szó lehetséges eredetét feszegetik, hanem akár esszé méretben kívánnak érvényesülni (pl. [[C/Csudaszarvas\|Csudaszarvas]], [[T/Turul\|Turul]], [[H/Hunor és Magor\|Hunor és Magor]], [[I/Isten\|Isten]], [[M/Magyar\|Magyar]], stb.).  
 Az egyes cikkek majdnem mindegyikében lesznek kattintható, ún. "wikilinkek," igen, mint a Wikipédián, azaz a rokon és nem rokon témákban szabadon lehet kalauzolni. A grafikon ugyanezen linkeket tartalmazza.  
 
 Amennyiben egy olyan helyre érkeznénk, amelyhez még adatállomány nem lett feltöltve, az alábbi értesítőt kapjuk:  
