@@ -5,6 +5,8 @@
 
 # Tudomány
 
+
+
 A mai tudomány dogmák rabságában tartja az emberiséget. Minden, különösen a történelem- és nyelvtudomány politikai koncepciók szerint, propaganda és ellenpropaganda jelleggel illetve pusztán a tudomány és nem az igazság feltárása kedvéért létezik. Ahogy lentebb is szó esik róla, nem az életet és így a magyarságot/emberiséget sem szolgálja.  
   
 
@@ -166,7 +168,7 @@ Igan arra buzdít, hogy ne akarjunk bizonyossággal kimondani dolgokat (mert ez 
 
 ## Tudománytalanság
 
-Az [alábbi](https://youtu.be/_9sc6rN-Rpk) Anunnakik az ősforrásokban 3. rész című ÁKA előadásban KT 1:49:37-nél sorolja fel azokat a neveket, akik az ősforrásokat nem használják és egy kifordított, tudományos/tudománytalan-fantasztikus, földönkívüli eredettel átitatott, zsidós képet adnak a múltról és akik követése veszélyes és magyar számára tilos: a kipécézett Michael Tellinger mellett felsorolja Zecharia [[S/Sitchin, Zecharia\|Sitchin, Zecharia]], Graham Hancock, Erich von Dänicken, Jim Marrs, Robert Temple, David Wilcock, Dr. Seven Greer, Stanton Friedman, Andrew Collins, Klaus Dona, Valerij Uvarov, Semir Osmanagic, Credo Mutwa, Johan Heine, Dan Burisch, Jordan Maxwell, Drunvalo Melchizedek, Bob Dean, Kerry Cassidy neveit.  
+Az [alábbi](https://youtu.be/_9sc6rN-Rpk) Anunnakik az ősforrásokban 3. rész című ÁKA előadásban KT 1:49:37-nél sorolja fel azokat a neveket, akik az ősforrásokat nem használják és egy kifordított, tudományos/tudománytalan-fantasztikus, földönkívüli eredettel átitatott, zsidós képet adnak a múltról és akik követése veszélyes és magyar számára tilos: a kipécézett Michael Tellinger mellett felsorolja [[S/Sitchin, Zecharia\|Sitchin, Zecharia]], Graham Hancock, Erich von Dänicken, Jim Marrs, Robert Temple, David Wilcock, Dr. Seven Greer, Stanton Friedman, Andrew Collins, Klaus Dona, Valerij Uvarov, Semir Osmanagic, Credo Mutwa, Johan Heine, Dan Burisch, Jordan Maxwell, Drunvalo Melchizedek, Bob Dean, Kerry Cassidy neveit.  
 Ezután felhívja a figyelmet a tudománytalan fogalomkészletben újra és újra felbukkanó kifejezésekre: csillagkapu, szintetikus lények, okkult tudás, rezgés növekedés, vibrációs frekvencia spektrum, kőgyűrűk hangja, földönkívüli aranybányászata, börtönbolygó, Isten rabszolgafajai, ősi géntechnológia, klónozott faj, hüllő-ember, Anunnaki > homo sapiens transzmutáció, Anunnakik ősi romjai, ley-vonalak, csatornázott info, energia-csatornázás, teleportáló kövek, lélek teleportáció, test-jármű, időutazó, monoatomikus arany.  
 
 Mint látjuk, KT sok olyan dolgot elutasít, melyeket nem ismer vagy csak egyszerűen óvatosságra int a magyarkutatásban gondot okozó veszélyességükkel kapcsolatban.  
