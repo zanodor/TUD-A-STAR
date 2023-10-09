@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["formatted🟢"],"created":"2023-10-05T06:45","updated":"2023-10-05T06:45"}
+{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["formatted🟢"],"created":"2023-10-05T06:45","updated":"2023-10-09T06:39"}
 ---
 
 
@@ -10,7 +10,7 @@
 A mai tudomány dogmák rabságában tartja az emberiséget. Minden, különösen a történelem- és nyelvtudomány politikai koncepciók szerint, propaganda és ellenpropaganda jelleggel illetve pusztán a tudomány és nem az igazság feltárása kedvéért létezik. Ahogy lentebb is szó esik róla, nem az életet és így a magyarságot/emberiséget sem szolgálja.  
   
 
-Azzal kezdeném, hogy [[M/Magyar népművészet\|magyar népművészet]] címnél már szerepeltek olyan passzusok, melyek akár ide is tehetők lehettek volna, így kezdd ott.  
+Azzal kezdeném, hogy [[M/Magyar népművészet\|magyar népművészet]] címnél már szerepeltek olyan passzusok, melyek akár ide is tehetők lehettek volna.  
 
 A 2006. augusztus 7-11-ig tartott XI. Magyar Őskutatási Fórumról az Ősi Gyökér 2006/3. számában számolnak be. Ezen cikkben szerepel kezdésként ...
 
@@ -30,7 +30,7 @@ A tudományt ma a tekintélytisztelet jellemzi, jegyezte meg [[K/Kiszely István
 
 Valóban, ma annyi téves hipotézis van és annyi különböző dobozba zárt elmélet amelyek a keretrendszert jelentik és ezekből a keretekből nehéz kiszabadulni. A legtöbb ember saját elméjének fogja. [[T/Tudomány#A tudomány célja: engedelmes rabszolgák nevelése\|A tudomány célja: engedelmes rabszolgák nevelése]], akik inkább ne akarjanak tág elmével rendelkezni.  
 
-[[G/Grandpierre Attila\|Grandpierre Attila]][^1] írja:  
+[[G/Grandpierre Atilla\|Grandpierre Atilla]][^1] írja:  
 > Mottó: "Az egyes tudományágak csak részleges ablakot nyitnak az őstörténelemre, és e szakterületek specialistái a többi szakterület szakértőinek eredményeit rendszerint figyelmen kívül hagyják. Ezért adódnak a látványos előrejutás számára különösen fényes távlatok, ha a különálló történetek összeszövésével egységes kép születik meg. Ennek egyik kulcseleme, hogy a régészeti és nyelvészeti adat-együttesek csakis a megfelelő körzetben, időszakban és a megfelelő ok, indok alapján kapcsolhatók össze, de akkor viszont rendkívül hatékonyak a begyökerezett mítoszok leküzdésében" (Paul Heggarty, David Beresford-Jones, 2009).  
 
 A tudományágak összeillesztésének nehézségeiről:  
