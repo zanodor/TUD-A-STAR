@@ -1,75 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["formatted🟢"],"created":"2023-10-06T12:05","updated":"2023-10-10T05:36"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["formatted🟢"],"created":"2023-10-06T12:05","updated":"2023-10-10T05:44"}
 ---
 
 
 # Megtévesztés
 
 
-
-<h2><span>Tartalomjegyzék</span></h2><p><span><ol>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Megtévesztés" data-href="M/Megtévesztés.md#Megtévesztés" href="M/Megtévesztés.md#Megtévesztés" class="internal-link" target="_blank" rel="noopener">Megtévesztés</a><br>
-1. <a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Győriné Luca Ágnes Ősiség tudatfosztás és a darwini származáselmélet" data-href="M/Megtévesztés.md#Győriné Luca Ágnes Ősiség tudatfosztás és a darwini származáselmélet" href="M/Megtévesztés.md#Győriné Luca Ágnes Ősiség tudatfosztás és a darwini származáselmélet" class="internal-link" target="_blank" rel="noopener">Győriné Luca Ágnes Ősiség, tudatfosztás és a darwini származáselmélet...</a><br>
-1. <a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Gyárfás Ágnes leánya Tibold Szabina Földi utunk a Mindenség felé" data-href="M/Megtévesztés.md#Gyárfás Ágnes leánya Tibold Szabina Földi utunk a Mindenség felé" href="M/Megtévesztés.md#Gyárfás Ágnes leánya Tibold Szabina Földi utunk a Mindenség felé" class="internal-link" target="_blank" rel="noopener">Gyárfás Ágnes leánya, Tibold Szabina Földi utunk a Mindenség felé...</a>
-<ol>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Álellentétek és a bilaterális technika" data-href="M/Megtévesztés.md#Álellentétek és a bilaterális technika" href="M/Megtévesztés.md#Álellentétek és a bilaterális technika" class="internal-link" target="_blank" rel="noopener">Álellentétek és a bilaterális technika</a><br>
-1. <a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Pap Gábor" data-href="M/Megtévesztés.md#Pap Gábor" href="M/Megtévesztés.md#Pap Gábor" class="internal-link" target="_blank" rel="noopener">Pap Gábor...</a></li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Címkézés fedőterv lefedés" data-href="M/Megtévesztés.md#Címkézés fedőterv lefedés" href="M/Megtévesztés.md#Címkézés fedőterv lefedés" class="internal-link" target="_blank" rel="noopener">Címkézés, fedőterv, lefedés</a>
-<ol>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Lefedés" data-href="M/Megtévesztés.md#Lefedés" href="M/Megtévesztés.md#Lefedés" class="internal-link" target="_blank" rel="noopener">Lefedés</a></li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Fedőterv" data-href="M/Megtévesztés.md#Fedőterv" href="M/Megtévesztés.md#Fedőterv" class="internal-link" target="_blank" rel="noopener">Fedőterv</a></li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Levédés" data-href="M/Megtévesztés.md#Levédés" href="M/Megtévesztés.md#Levédés" class="internal-link" target="_blank" rel="noopener">Levédés</a></li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Ráültetés" data-href="M/Megtévesztés.md#Ráültetés" href="M/Megtévesztés.md#Ráültetés" class="internal-link" target="_blank" rel="noopener">Ráültetés</a></li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Behelyezés és beépülés ugyanolyan nyelvet beszél" data-href="M/Megtévesztés.md#Behelyezés és beépülés ugyanolyan nyelvet beszél" href="M/Megtévesztés.md#Behelyezés és beépülés ugyanolyan nyelvet beszél" class="internal-link" target="_blank" rel="noopener">Behelyezés és beépülés: ugyanolyan nyelvet beszél</a>
-<ol>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Antal István Tündéres derengő" data-href="M/Megtévesztés.md#Antal István Tündéres derengő" href="M/Megtévesztés.md#Antal István Tündéres derengő" class="internal-link" target="_blank" rel="noopener">Antal István Tündéres, derengő...</a></li>
-</ol>
-</li>
-</ol>
-</li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Figyelemelterelés red herring" data-href="M/Megtévesztés.md#Figyelemelterelés red herring" href="M/Megtévesztés.md#Figyelemelterelés red herring" class="internal-link" target="_blank" rel="noopener">Figyelemelterelés – red herring</a></li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Elhallgatás létezést tagadás" data-href="M/Megtévesztés.md#Elhallgatás létezést tagadás" href="M/Megtévesztés.md#Elhallgatás létezést tagadás" class="internal-link" target="_blank" rel="noopener">Elhallgatás – létezést tagadás</a></li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Lekicsinylés" data-href="M/Megtévesztés.md#Lekicsinylés" href="M/Megtévesztés.md#Lekicsinylés" class="internal-link" target="_blank" rel="noopener">Lekicsinylés</a></li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Rágalmazás" data-href="M/Megtévesztés.md#Rágalmazás" href="M/Megtévesztés.md#Rágalmazás" class="internal-link" target="_blank" rel="noopener">Rágalmazás</a></li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Fókuszba állítás túlsúlyba helyezés ismételgetés" data-href="M/Megtévesztés.md#Fókuszba állítás túlsúlyba helyezés ismételgetés" href="M/Megtévesztés.md#Fókuszba állítás túlsúlyba helyezés ismételgetés" class="internal-link" target="_blank" rel="noopener">Fókuszba állítás, túlsúlyba helyezés, ismételgetés</a></li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Kettős mérce kettős játszma" data-href="M/Megtévesztés.md#Kettős mérce kettős játszma" href="M/Megtévesztés.md#Kettős mérce kettős játszma" class="internal-link" target="_blank" rel="noopener">Kettős mérce, kettős játszma</a><br>
-1. <a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Götz László Keleten kél a Nap című könyvében írja" data-href="M/Megtévesztés.md#Götz László Keleten kél a Nap című könyvében írja" href="M/Megtévesztés.md#Götz László Keleten kél a Nap című könyvében írja" class="internal-link" target="_blank" rel="noopener">Götz László Keleten kél a Nap című könyvében írja:</a>
-<ol>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Kettős játszma" data-href="M/Megtévesztés.md#Kettős játszma" href="M/Megtévesztés.md#Kettős játszma" class="internal-link" target="_blank" rel="noopener">Kettős játszma</a></li>
-</ol>
-</li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Proto-címkék és negációk" data-href="M/Megtévesztés.md#Proto-címkék és negációk" href="M/Megtévesztés.md#Proto-címkék és negációk" class="internal-link" target="_blank" rel="noopener">Proto-címkék és negációk</a></li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Extrapoláció visszavetítés" data-href="M/Megtévesztés.md#Extrapoláció visszavetítés" href="M/Megtévesztés.md#Extrapoláció visszavetítés" class="internal-link" target="_blank" rel="noopener">Extrapoláció, visszavetítés</a></li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Projekció" data-href="M/Megtévesztés.md#Projekció" href="M/Megtévesztés.md#Projekció" class="internal-link" target="_blank" rel="noopener">Projekció</a></li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Zavarkeltés ködösítés elhomályosítás" data-href="M/Megtévesztés.md#Zavarkeltés ködösítés elhomályosítás" href="M/Megtévesztés.md#Zavarkeltés ködösítés elhomályosítás" class="internal-link" target="_blank" rel="noopener">Zavarkeltés, ködösítés, elhomályosítás</a></li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Fake news álhírek" data-href="M/Megtévesztés.md#Fake news álhírek" href="M/Megtévesztés.md#Fake news álhírek" class="internal-link" target="_blank" rel="noopener">Fake news (álhírek)</a></li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Fact-checking tény-ellenőrzés" data-href="M/Megtévesztés.md#Fact-checking tény-ellenőrzés" href="M/Megtévesztés.md#Fact-checking tény-ellenőrzés" class="internal-link" target="_blank" rel="noopener">Fact-checking (tény-ellenőrzés)</a></li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Happening megtervezett színjáték mindkét oldalon az ő embereik képviselik magukat" data-href="M/Megtévesztés.md#Happening megtervezett színjáték mindkét oldalon az ő embereik képviselik magukat" href="M/Megtévesztés.md#Happening megtervezett színjáték mindkét oldalon az ő embereik képviselik magukat" class="internal-link" target="_blank" rel="noopener">Happening: megtervezett színjáték – mindkét oldalon az ő embereik képviselik magukat</a></li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Erőszakkal vagy kényszerítés által elfogadtatás" data-href="M/Megtévesztés.md#Erőszakkal vagy kényszerítés által elfogadtatás" href="M/Megtévesztés.md#Erőszakkal vagy kényszerítés által elfogadtatás" class="internal-link" target="_blank" rel="noopener">Erőszakkal vagy kényszerítés által "elfogadtatás"</a></li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Ideológia felfogás rákényszerítése és annak ellentételeztetése" data-href="M/Megtévesztés.md#Ideológia felfogás rákényszerítése és annak ellentételeztetése" href="M/Megtévesztés.md#Ideológia felfogás rákényszerítése és annak ellentételeztetése" class="internal-link" target="_blank" rel="noopener">Ideológia, felfogás rákényszerítése és annak ellentételeztetése</a><br>
-1. <a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Szántai Lajos Mágusok" data-href="M/Megtévesztés.md#Szántai Lajos Mágusok" href="M/Megtévesztés.md#Szántai Lajos Mágusok" class="internal-link" target="_blank" rel="noopener">Szántai Lajos Mágusok...</a></li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Újként beállítani a régit jóként a sátánit" data-href="M/Megtévesztés.md#Újként beállítani a régit jóként a sátánit" href="M/Megtévesztés.md#Újként beállítani a régit jóként a sátánit" class="internal-link" target="_blank" rel="noopener">Újként beállítani a régit (jóként a sátánit)</a></li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Dialektika a közös nyelv" data-href="M/Megtévesztés.md#Dialektika a közös nyelv" href="M/Megtévesztés.md#Dialektika a közös nyelv" class="internal-link" target="_blank" rel="noopener">Dialektika – a közös nyelv</a></li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Parafrazálás" data-href="M/Megtévesztés.md#Parafrazálás" href="M/Megtévesztés.md#Parafrazálás" class="internal-link" target="_blank" rel="noopener">Parafrazálás</a></li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Hazugságipar" data-href="M/Megtévesztés.md#Hazugságipar" href="M/Megtévesztés.md#Hazugságipar" class="internal-link" target="_blank" rel="noopener">Hazugságipar</a></li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Az igazmondó ember szerepében tündöklők" data-href="M/Megtévesztés.md#Az igazmondó ember szerepében tündöklők" href="M/Megtévesztés.md#Az igazmondó ember szerepében tündöklők" class="internal-link" target="_blank" rel="noopener">Az igazmondó ember szerepében tündöklők</a><br>
-1. <a data-tooltip-position="top" aria-label="M/Megtévesztés.md > GYÁ írja egy cikkében" data-href="M/Megtévesztés.md#GYÁ írja egy cikkében" href="M/Megtévesztés.md#GYÁ írja egy cikkében" class="internal-link" target="_blank" rel="noopener">GYÁ írja egy cikkében:</a>
-<ol>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Bizalomba férkőzés és azzal való visszaélés" data-href="M/Megtévesztés.md#Bizalomba férkőzés és azzal való visszaélés" href="M/Megtévesztés.md#Bizalomba férkőzés és azzal való visszaélés" class="internal-link" target="_blank" rel="noopener">Bizalomba férkőzés és azzal való visszaélés</a></li>
-</ol>
-</li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > A tömeg manipulációja" data-href="M/Megtévesztés.md#A tömeg manipulációja" href="M/Megtévesztés.md#A tömeg manipulációja" class="internal-link" target="_blank" rel="noopener">A tömeg manipulációja</a></li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Zsidó manipuláció zsidókra utaló szavak" data-href="M/Megtévesztés.md#Zsidó manipuláció zsidókra utaló szavak" href="M/Megtévesztés.md#Zsidó manipuláció zsidókra utaló szavak" class="internal-link" target="_blank" rel="noopener">Zsidó manipuláció – zsidókra utaló szavak</a></li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > A fonák gondolkodásúak" data-href="M/Megtévesztés.md#A fonák gondolkodásúak" href="M/Megtévesztés.md#A fonák gondolkodásúak" class="internal-link" target="_blank" rel="noopener">A fonák gondolkodásúak</a></li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Inverz felfogás dolgok megfordítása" data-href="M/Megtévesztés.md#Inverz felfogás dolgok megfordítása" href="M/Megtévesztés.md#Inverz felfogás dolgok megfordítása" class="internal-link" target="_blank" rel="noopener">Inverz felfogás – dolgok megfordítása</a>
-<ol>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Sátán Isten álcájában" data-href="M/Megtévesztés.md#Sátán Isten álcájában" href="M/Megtévesztés.md#Sátán Isten álcájában" class="internal-link" target="_blank" rel="noopener">Sátán Isten álcájában</a></li>
-</ol>
-</li>
-<li><a data-tooltip-position="top" aria-label="M/Megtévesztés.md > Lábjegyzetek" data-href="M/Megtévesztés.md#Lábjegyzetek" href="M/Megtévesztés.md#Lábjegyzetek" class="internal-link" target="_blank" rel="noopener">Lábjegyzetek</a></li>
-</ol>
-</li>
-</ol></span></p>
 
 Ma ennek a korát éljük. **Machiavelli A fejedelem** című könyvében ezt tanítja a zsidóknak. Hogyan kell megtévesztéssel operálni, manipulálni.  
 Machiavelli is arról írt, hogy nem kell erőből nyerni, hanem elég megtévesztéssel operálni.  
