@@ -14,9 +14,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.PAT_TOKEN }}
-          fetch-depth: 0
 
       - name: Setup Git
         run: |
@@ -28,4 +25,4 @@ jobs:
           git fetch origin master:master
           git checkout master
           git merge main --no-ff -m "Merge main to master"
-          git push https://${{ secrets.PAT_TOKEN }}@github.com/zanodor/TUD-A-STAR.git master
+          git push https://github.com/zanodor/TUD-A-STAR.git master
