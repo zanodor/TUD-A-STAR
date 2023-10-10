@@ -6,7 +6,7 @@ on:
     # daily
     # - cron:  '0 0 * * *'
     # hourly at xx:50 time intervals, replace 50 with your desired minute
-    - cron:  '56 * * * *'
+    - cron:  '05 * * * *'
 permissions:
   contents: write
 
@@ -15,7 +15,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
 
       - name: Setup Git
         run: |
@@ -27,4 +29,4 @@ jobs:
           git fetch origin master:master
           git checkout master
           git merge main --no-ff -m "Merge main to master"
-          git push https://github.com/zanodor/TUD-A-STAR.git master
+          git push origin master
