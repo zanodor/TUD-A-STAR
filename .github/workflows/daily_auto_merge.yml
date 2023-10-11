@@ -6,7 +6,7 @@ on:
     # daily
     # - cron:  '0 0 * * *'
     # hourly at xx:50 time intervals, replace 50 with your desired minute
-    - cron:  '5 * * * *'
+    - cron:  '20 * * * *'
 
 jobs:
   merge:
