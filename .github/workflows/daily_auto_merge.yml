@@ -1,0 +1,32 @@
+name: 'Daily auto-merge wth PAT'
+
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    # daily
+    # - cron:  '0 0 * * *'
+    # hourly at xx:10 time intervals, replace 10 with your desired minute
+    - cron:  '50 * * * *'
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          repository: TUD-A-STAR
+          token: ${{ secrets.PAT_TOKEN }}
+          fetch-depth: 0
+
+      - name: Setup Git
+        run: |
+          git config --global user.name 'zanodor'
+          git config --global user.email '110669301+zanodor@users.noreply.github.com'
+
+      - name: Merge and push
+        run: |
+          git fetch origin master:master
+          git checkout master
+          git merge main --no-ff -m "Merge main to master"
+          git push https://${{ secrets.PAT_TOKEN }}@github.com/zanodor/TUD-A-STAR.git master
