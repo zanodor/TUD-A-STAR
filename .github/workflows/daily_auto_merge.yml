@@ -1,4 +1,4 @@
-name: 'Daily auto-merge no PAT'
+name: 'Daily auto-merge GH Token'
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
     # daily
     # - cron:  '0 0 * * *'
     # hourly at xx:50 time intervals, replace 50 with your desired minute
-    - cron:  '50 * * * *'
+    - cron:  '55 * * * *'
 
 jobs:
   merge:
@@ -15,6 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
+          token: ${{ secrets.MY_GITHUB_TOKEN }}
           fetch-depth: 0
 
       - name: Setup Git
@@ -27,4 +28,4 @@ jobs:
           git fetch origin master:master
           git checkout master
           git merge main --no-ff -m "Merge main to master"
-          git push origin master
+          git push https://${{ secrets.MY_GITHUB_TOKEN }}@github.com/zanodor/TUD-A-STAR.git master
