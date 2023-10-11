@@ -1,4 +1,4 @@
-name: 'Daily auto-merge wth PAT OLD'
+name: 'Daily auto-merge wth PAT private repo'
 
 on:
   schedule:
@@ -15,6 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
+          repository: zanodor/TUD-A-STAR
           token: ${{ secrets.PAT_TOKEN }}
           fetch-depth: 0
 
