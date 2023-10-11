@@ -6,7 +6,7 @@ on:
     # daily
     # - cron:  '0 0 * * *'
     # hourly at xx:10 time intervals, replace 10 with your desired minute
-    - cron:  '50 * * * *'
+    - cron:  '5 * * * *'
 
 jobs:
   merge:
@@ -15,7 +15,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          repository: TUD-A-STAR
           token: ${{ secrets.PAT_TOKEN }}
           fetch-depth: 0
 
