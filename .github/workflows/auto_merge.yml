@@ -1,4 +1,4 @@
-name: 'Daily auto-merge wth PAT'
+name: 'Daily auto-merge wth PAT OLD'
 
 on:
   schedule:
