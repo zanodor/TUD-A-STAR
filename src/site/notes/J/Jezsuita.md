@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Jezsuita/","title":"Jezsuita","tags":["formatted🟢"],"created":"2023-10-09T06:12","updated":"2023-10-09T06:12"}
+{"dg-publish":true,"permalink":"/J/Jezsuita/","title":"Jezsuita","tags":["formatted🟢"],"created":"2023-10-09T06:12","updated":"2023-10-11T10:11"}
 ---
 
 
@@ -21,16 +21,16 @@ Az [alábbi](https://hu.wikipedia.org/wiki/Jezsuita_összeesküvés-elméletek) 
 Egy másik [előadásban](https://youtu.be/ff7V_iqpucE) KT Robert Ware fenti 1689-es esküjét nevezi meg és 1:09:00-től el is mondja (a fenti szöveget). Az alábbi szöveget is felolvassa KT II. Rákóczi Ferenctől (maradjon így képileg):  
 ![assets/Jezsuita_image1.png](/img/user/J/assets/Jezsuita_image1.png)  
 
-Közben a jezsuitákról egy komoly 180 oldalas tényfeltáró anyag letöltve **The Jesuits and the One World Order** címmel.  
+Közben a jezsuitákról egy komoly 180 oldalas tényfeltáró anyag letöltésre elérhető **The Jesuits and the One World Order** címmel.  
 
 Az [alábbi](http://valamiamano.blogspot.com/2014/03/a-jezsuitakrol-mondtak.html) oldalon Rákóczi mellett sokan véleményt mondanak a jezsuitákról. Például Napóleon:  
 > "A jezsuiták egy hadtestületet alkotnak, és nem egy vallási rendet. A főnökük egy hadseregnek parancsol, és nem csak egy sima rendház főnök. Ennek a szervezetnek a célja a hatalom – amit a legdespotikusabban akarnak gyakorolni – abszolút hatalom, egyetemes hatalom, egy olyan hatalom, hogy az egész világot lehessen vezetni egyetlen ember által. A jezsuitizmus az abszolút despotizmus, és ugyanakkor a legnagyobb hatalmi visszaélés..."  
 
-Az [alábbi](https://youtu.be/SEelyWVTr8s) Facsar Imre videóban 01:55-nél volt szó jezsuita esküről. A videóban W. C. Brownlee közben letöltött Letters in the Roman Catholic controversy című könyvének 329. oldalán található sorait közlik:  
-> Secret Oath.— "In the presence of Almighty God, and of all the saints, to you, my ghostly father, I do declare that his holiness, pope ——, is Christ's vicargeneral, and the only head of the universal church throughout the earth and that by virtue of the keys given him by my Savior, Jesus Christ, he hath power to depose heretical kings, princes, states, commonwealths, and governments; all being illegal, without his sacred confirmation; and that they may safely be destroyed. Therefore I, to the utmost of my power, shall and will defend this doctrine, and his holiness' rights and customs against all usurpers," &c.  
+Az [alábbi](https://youtu.be/SEelyWVTr8s) Facsar Imre videóban 01:55-nél volt szó jezsuita esküről. A videóban W. C. Brownlee Letters in the Roman Catholic controversy című könyvének 329. oldalán található sorait közlik:  
+> Secret Oath.— "In the presence of Almighty God, and of all the saints, to you, my ghostly father, I do declare that his holiness, pope ——, is Christ's vicar general, and the only head of the universal church throughout the earth and that by virtue of the keys given him by my Savior, Jesus Christ, he hath power to depose heretical kings, princes, states, commonwealths, and governments; all being illegal, without his sacred confirmation; and that they may safely be destroyed. Therefore I, to the utmost of my power, shall and will defend this doctrine, and his holiness' rights and customs against all usurpers," &c.  
 > "I do renounce and disown any allegiance as due to any heretical king, prince, state, named Protestants, or obedience to any of their inferior magistrates, or officers."  
 > "I do further promise and declare that notwithstanding I am dispensed with, to assume any religion heretical, for the propagation of the Mother church's interest, – to keep secret and private all her agent's counsels," &c.  
-> "All which I, A. B. do swear by the blessed Trinity, and the blessed sacrament, which I am, now, to receive. And I call all the heavenly and glorious hosts above, to witness these my real inten'ions, to keep this my oath. In testimony hereof, I take this most blessed sacrament of the eucharist, and set to my hand, and seal." Such is the secret oath of our Jesuits, so long in use, and never revoked to this day, by their superior, or the pope. Such is the inferual oath by which the Jesuits, and other household troops of the Roman catholic powers of Europe, now pouring in upon us, are banded together in their present conspiracy against our republic, and our holy religion!  
+> "All which I, A. B. do swear by the blessed Trinity, and the blessed sacrament, which I am, now, to receive. And I call all the heavenly and glorious hosts above, to witness these my real intentions, to keep this my oath. In testimony hereof, I take this most blessed sacrament of the eucharist, and set to my hand, and seal." Such is the secret oath of our Jesuits, so long in use, and never revoked to this day, by their superior, or the pope. Such is the inferual oath by which the Jesuits, and other household troops of the Roman catholic powers of Europe, now pouring in upon us, are banded together in their present conspiracy against our republic, and our holy religion!  
 > May the God of our fathers, in his compassion, awake our fellow citizens to a sense of their real, and appalling danger, and turn into confusion the counsels of the leaders of this hellish plot against our country. And to this none can refuse their hearty Amen, but spiritual tyrants, and conscious traitors.  
 > I am, my Lords Bishops, yours, &c. W. C. B.  
 - A videóban olyan részeket is közölnek, amelyek e szövegben nem szerepelnek, de fentebb már Robert Ware-nél megvoltak.  
@@ -44,7 +44,7 @@ Egy YouTube videó kommentfelületén az [alábbi](http://www.novalis.hu/index.p
 ## Jezsuita népirtások
 
 [[M/Magyar nyelv és nyelvcsaládok#Ausztráliai magyar nyelv\|Ausztráliai magyar nyelv]] cím/alcímnél [ezen](https://www.youtube.com/watch?v=0wcK2fcluZ8) Max Igan féle videóban 39:45-nél és másutt (47:10) is kitér arra, hogy a Genezis 17.11-ben \[??\] szereplő "isten összezavarta a nyelveket" valójában helytelen, mert a jezsuiták voltak azok, akik ezt tették, de még 23:20-nál és előtte a jezsuiták mint bennszülött népek több tízmillióit kiirtásáért felelős bűnösök is előjönnek.  
-Max Igan egyébként [[F/Fomenko, Anatolij\|Fomenko, Anatolij]] nevét is több ízben említi, ami azért mutatja a tájékozottságába férkőző tájékozotlanságát, de ez nem minősíti. Ő a jezsuitákat többször említi bűnösként, tehát lehetséges, hogy van kapcsolat. Fomenkonál is meg kell majd nézni a jezsuiták felé szórt vádakat.  
+Max Igan egyébként [[F/Fomenko, Anatolij\|Fomenko, Anatolij]] nevét is több ízben említi, ami azért mutatja a tájékozottságába férkőző tájékozatlanságát, de ez nem minősíti. Ő a jezsuitákat többször említi bűnösként, tehát lehetséges, hogy van kapcsolat. Fomenkonál is meg kell majd nézni a jezsuiták felé szórt vádakat.  
 
 ## Lábjegyzetek
 
