@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["formatted🟢"],"created":"2023-10-06T12:05","updated":"2023-10-10T05:44"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["formatted🟢"],"created":"2023-10-06T12:05","updated":"2023-10-11T05:48"}
 ---
 
 
@@ -53,7 +53,7 @@ A másik trükk, amikor nem is akarja magát alcázni. Székely Ildikó ÁKTV m�
 Quorán fő cikkemben is írtam, hogy ha hazudni kell, a legnagyobb hazugságot kell választani, olyat, amiről senki sem gondolná, hogy át lehetett volna vele verni. Lám, Adolf [[H/Hitler\|Hitler]] is klasszikus példa arra a tényre, hogy "Ha kellően nagy hazugságot mondasz, és elég gyakran ismétled, elhiszik." "A hazugság legyen nagy, legyen egyszerű, ismételd sokszor, és végül el fogják hinni."  
 ("If you tell a big enough lie and tell it frequently enough, it will be believed." "Make the lie big, make it simple, keep saying it and eventually they will believe it." – Adolf Hitler and his Propaganda Minister Joseph Goebbels (both used this tactic and quoted it)).  
 
-Egyébként a megtévesztés téveszt és [[T/Téved\|téved]] szavai elemeinek [[T/Tévely\|tévely]] párja a [[D/Devil\|devil]] szóval azonosul, csak jelzem (lentebb újra megismétlem). Lentebb *rágalmazás* résznél is szóba kerülnek a sátán és ördög jelentésű szavak definíciójaként adott fogalmak (körülírás).  
+Egyébként a megtévesztés téveszt és [[T/Téved\|téved]] szavai elemeinek [[T/Tévely\|tévely]] párja a [[D/Devil\|devil]] szóval azonosul, csak jelzem (lentebb újra megismétlem). Lentebb [[M/Megtévesztés#Rágalmazás\|rágalmazás]] résznél is szóba kerülnek a sátán és ördög jelentésű szavak definíciójaként adott fogalmak (körülírás).  
 
 A **csúsztatás** kifejezést is használjuk.  
 [Ezen](https://www.youtube.com/watch?v=oNULoLMuX8w) Ne Legyen Áldozatos videóban végig többször használja a kifejezést Pap Gábor. 15:40-nél a Népszabadság bevált módiját meséli el. Először a szájába adja valakinek a hamis szöveget (PG-vel is megtörtént), amit ő soha nem mondott, utána azt cáfolták.  
@@ -75,7 +75,7 @@ Mások másutt úgy szokták mondani, hogy a tudatlan ember számára vannak vé
 Kicsit hasonló, sőt, nagyon is hasonló a helyzet a háttérhatalom üzelmeinek leleplezéséhez: a legtöbb ember a háborúkat és a vírusokat véletlennek gondolja, holott nagyon is irányított eseményekről van szó.  
 Ha már itt tartunk, a jogban ismert tétel, hogy a jogszabály nem ismerete nem ment fel a bűnelkövetésre kiszabott büntetési tétel alól (tehát a Magyarországra migráló muszlim miniszoknyás lányon elkövetett erőszakos cselekménye büntetőjogi felelősségének tudatában nem léte ellenére büntetést kap).  
 
-A [[F/Felforgatás\|felforgatás]] (angolul subversion: "aláforgatás") a másik eszköze a zsidóknak (és nem csak az ott említett Sun Tzu-nak és szovjet KGB-seknek).  
+A [[F/Felforgatás\|felforgatás]] (angolul *subversion*: "aláforgatás") a másik eszköze a zsidóknak (és nem csak az ott említett Sun Tzu-nak és szovjet KGB-seknek).  
 
 Az [alábbi](https://youtu.be/84QfjzsT5GM) ÁKTV műsorban 1:54:50-nél mondja KT [[S/Szent Pál\|Szent Pál]]lal kapcsolatban, hogy tipikus esete annak a Cion Bölcseinek Jegyzőkönyvében is megfogalmazott stratégiának, hogy ha máshogy nem lehet kívülről megállítani valamit, *épülj be, állj az élére*. A kereszténységet akkor nem lehetett megállítani.  
 
