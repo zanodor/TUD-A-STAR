@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Abu/","title":"Abu","tags":["formatted🟢"],"created":"2023-10-13T12:17","updated":"2023-10-13T12:17"}
+{"dg-publish":true,"permalink":"/A/Abu/","title":"Abu","tags":["formatted🟢"],"created":"2023-10-13T12:17","updated":"2023-10-13T12:19"}
 ---
 
 
@@ -7,8 +7,8 @@
 
 
 
-Az arabban `abu` = apu, ahogy [[S/Sphinx\|Sphinx]] címnél is szó esett róla. A japániban `abu` = dongó, mely ugye Napjelkép.  
-Az arab Abubakar (Abu Bakr) név tulajdonképpen Bak-Úr Apa értelmű (az első kalifa neve is ez volt). (Bak-Úr, Bog-Ár a Magur, Magor nevek változatának is tartható.)  
+Az arabban `abu` = apu, ahogy [[S/Sphinx\|Sphinx]] címnél is szó esett róla. A japániban `abu` = dongó, mely ugye [[N/Napjelkép\|Napjelkép]].  
+Az arab **Abubakar** (Abu Bakr) név tulajdonképpen Bak-Úr Apa értelmű (az első kalifa neve is ez volt). (Bak-Úr, Bog-Ár a Magur, Magor nevek változatának is tartható.)  
 
 A tamil és koreai `appa` = apa. Utóbbi nyelvben `abu-dzsi` = apa. A magyar `apuci` becézés azért nem stimmel, mert ez nem informális, hanem formális használat. Azóta hallottam ugyanezt hindi nyelvűnek írt, de urdu nyelven beszélőket felvonultató filmben. Muszlim szó lenne? Vagy kasmíri?  
 
