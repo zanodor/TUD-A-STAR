@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Etymon/","title":"Etymon","tags":["unformatted⚪"],"created":"2023-10-13T06:08","updated":"2023-10-13T06:08"}
+{"dg-publish":true,"permalink":"/E/Etymon/","title":"Etymon","tags":["formatted🟢"],"created":"2023-10-13T06:08","updated":"2023-10-13T06:15"}
 ---
 
 
