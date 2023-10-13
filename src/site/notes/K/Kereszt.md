@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kereszt/","title":"Kereszt","tags":["formatted🟢"],"created":"2023-10-13T12:02","updated":"2023-10-13T01:19"}
+{"dg-publish":true,"permalink":"/K/Kereszt/","title":"Kereszt","tags":["formatted🟢"],"created":"2023-10-13T12:02","updated":"2023-10-13T04:12"}
 ---
 
 
@@ -537,7 +537,7 @@ A kereszténység ideje előtti keresztek mindig érdekes téma. Itt csak felsor
 2\. A második a [[N/Négy\|négy]] címnél taglalt ndj hangértékkel megfeleltetett egyiptomi kereszt alakú jel.  
 3\. A harmadik is Borbola János A Nílus-völgyi hitvilág című Ősi Gyökér 2005/4. sz. cikkében került elő.
 
-[Ezen](https://commons.m.wikimedia.org/wiki/Category:Crossed_planks_(hieroglyph) oldal foglalkozik a témával. Amit ide BJ ír, az fentebb keresztút témánál is részint taglalva volt:  
+[Ezen](https://commons.m.wikimedia.org/wiki/Category:Crossed_planks_(hieroglyph)) oldal foglalkozik a témával. Amit ide BJ ír, az fentebb keresztút témánál is részint taglalva volt:  
 > Gardiner érdekesen írja le a jel képértékét: két egymást keresztező léc, egymáshoz illesztve. Meglepő módon a függőlegesen álló É-D irányú út/hasáb azt a benyomást kelti, hogy a K-NY-i fölé került, illetve azt két részre osztja. A ma ismert hieroglifa kereszteződése tehát nem egy síkba esik. A falon ez az elválasztás nem követhető ennyire tisztán, a rendelkezésünkre álló fényképlenyomatok élessége sajnos határozott állásfoglalásra nem jogosít fel. A szakirodalom értelmezése szerint az egyik mégis a másikban van. Úgy is felfoghatjuk, hogy két út keresztezi egymást, annál is inkább, mert az útra utaló 't' jel is szerepel a hieroglifák között. Kérdés: hova vezet a keresztút? Gyakorlatban mind a négy vége befelé visz, a kereszteződés közepébe vezet. Ha ragaszkodunk az egyiptológia felfogásához, akkor ott van az a pont, ahol valaki valamiben belül van. Ez a központ, itt egyesül a négy út, itt lesz belőlük Egy. Ez az út nincs mindenki előtt nyitva, a Fohászok szerint ezt kérni kell. Erre mentek a Kilencek (sejtésünk szerint a Kör-Isten) is. Ez tehát a jó út, az Élő(k) útja.  
 
 4\. A negyedik az a BJ által is említett Niwt hangzósítással megadott X-kereszt alakú jel, mely valójában a fentebb is említett városok és városnegyedek és a [[S/Székely-magyar rovásírás#B\|székely-magyar rovásírás b]] és [[S/Székely-magyar rovásírás#F\|f]] betűi kapcsán is taglalt témához kötődik. A `Niwt` = város jelentéssel is került megfeleltetésre.  
