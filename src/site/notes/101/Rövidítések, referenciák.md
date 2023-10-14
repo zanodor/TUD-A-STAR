@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Rövidítések, referenciák/","title":"Rövidítések, referenciák","created":"2023-10-04T07:50","updated":"2023-10-05T03:27"}
+{"dg-publish":true,"permalink":"/101/Rövidítések, referenciák/","title":"Rövidítések, referenciák","created":"2023-10-04T07:50","updated":"2023-10-14T07:34"}
 ---
 
 
@@ -17,7 +17,7 @@ PNSZ - Pallas Nagyszótár
 PNL - Pallas Nagy Lexikon  
 RNL - Révai Nagy Lexikona  
 KF - Kresznerics Ferenc deák szótár  
-PAESZ - Perzsa-angol etim. szótár  
+PAESZ - Perzsa-angol etimológia szótár  
 
 —  
 
