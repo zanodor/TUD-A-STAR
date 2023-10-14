@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Dialektikus ellentét/","title":"Dialektikus ellentét","tags":["formatted🟢"],"created":"2023-10-06T12:03","updated":"2023-10-06T12:03"}
+{"dg-publish":true,"permalink":"/D/Dialektikus ellentét/","title":"Dialektikus ellentét","tags":["formatted🟢"],"created":"2023-10-06T12:03","updated":"2023-10-14T07:35"}
 ---
 
 
@@ -68,7 +68,7 @@ A Pap Gábor nyomdokaiban haladó Miklósvölgyi minden asztrálmítoszi analóg
 
 [Ezen](https://www.youtube.com/watch?v=EQjoBd2ZXNM) Ne Legyen Áldozatos videóban PG 4:11-től sorol ellentétpárokat (a bal oldalra mindig ugyanazt a típust képviselő kerül, a jobb oldalon szintén): hírek – tények, bizonyíthatóság – igazság, mennyiség – minőség, tünetmentesség – egészség, szerkezet – szervezet.  
 
-Gyárfás Ágnes lánya, Tibold Szabina Ágnes Fényben járni, fénnyé válni című Ősi Gyökér 2006/4. sz. megjelenő cikkében írottak szerint a szeretet ellentéte nem gyűlölet, hanem 'szenvedés'. Ahol nincsen jelen a Szeretet Fénye, ott minden és mindenki szenved.  
+Tibold Szabina Ágnes Fényben járni, fénnyé válni című Ősi Gyökér 2006/4. sz. megjelenő cikkében írottak szerint a szeretet ellentéte nem gyűlölet, hanem 'szenvedés'. Ahol nincsen jelen a Szeretet Fénye, ott minden és mindenki szenved.  
 Nos, mások ezt úgy szokták mondani, hogy a szenvedés a boldogság ára. Önfeláldozásra is szükség van.  
 Ezt a szenved szót és társait (sínylődik, [[S/SZÜN\|SZÜN]]; lásd például [[S/Sin\|sin]] és [[S/Sine\|sine]]) sikerült már a helyükön fényhiányosként beazonosítani, ahol a [[S/Szeret\|szeret]] természetesen fény/tűz alapjelentésű.  
 Másutt írja:  
