@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","tags":["formatted🟢"],"created":"2023-10-09T06:36","updated":"2023-10-09T06:36"}
+{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","tags":["formatted🟢"],"created":"2023-10-09T06:36","updated":"2023-10-15T02:46"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 
 
-Bevezetést lásd [[E/Etymon\|etymon]] és [[M/Magyar nyelv – ősnyelv-e a magyar\|magyar nyelv – ősnyelv-e a magyar]]?  
+Bevezetést lásd [[E/Etymon\|etimon]] és [[M/Magyar nyelv – ősnyelv-e a magyar\|magyar nyelv – ősnyelv-e a magyar]]?  
 
 Ősműveltségében MA írja [[K/Kő\|kő]] szavunk kapcsán:  
 > Az igazi ősszavak mindig egytagúak, mivel egyszerű hangadásokból keletkeztek, és természetesen mindig olyan dolgokat neveznek meg, amelyeket már az ősember is ismert, vagyis olyanokat, amelyek a természetben fordulnak elő, mint például kő, főld, víz, fa, fú stb., stb. Mihelyt tehát valamely szó többtagú, akkor az csakis valamely egytagú ős-szó származéka lehet. Eszerint kétségtelen, hogy nemcsak a szláv `kamen`, hanem a finn `kive` = kő szó is a mi kő szavunk származéka.  
@@ -29,8 +29,8 @@ Valójában az [[I/Indogermán nyelvészet\|indogermán nyelvészet]] címnél G
 
 [[B/Börtön\|Börtön]] címnél lásd csatolva Twitter írást, ahol arról is szóltam, hogy a sumér is szótagnyelv volt (de a kínai ideogrammák is erre utalnak).  
 A [[V/Vezér\|vezér]] az egyik legkönnyebben érthető magyar név (de a Mag-Ur is az lenne), mely rá*vezet*hetné a díszes társaságot arra, hogy a magyar nyelv szótagnyelv.  
-[[V/Végvári József\|Végvári József]] munkásságával kapcsolatosan annyit, hogy sajnos az etymon-rendszerig még nem jutott el, csak szócsaládokban (béke – béka, stb.) gondolkodik. Azt jól látja, hogy a CzF szótárban is alkalmazott gyöknyelvészettel sokra nem megy az ember.  
-PJI jól látta meg, hogy a magyar szótagnyelv. Ezen szótagok pedig egy, két vagy három hangból álló alapszavak, idegen szóval [[E/Etymon\|etymon]]ok.  
+[[V/Végvári József\|Végvári József]] munkásságával kapcsolatosan annyit, hogy sajnos az etimon-rendszerig még nem jutott el, csak szócsaládokban (béke – béka, stb.) gondolkodik. Azt jól látja, hogy a CzF szótárban is alkalmazott gyöknyelvészettel sokra nem megy az ember.  
+PJI jól látta meg, hogy a magyar szótagnyelv. Ezen szótagok pedig egy, két vagy három hangból álló alapszavak, idegen szóval [[E/Etymon\|etimon]]ok.  
 
 [[A/A\|A]] címnél is szerepelt PJI adatsora, ahol elmondja a magyar szavak működésének receptjét:  
 > Ha a magánhangzók jelentéseit feltártuk, akkor a két hangból álló szavak jelentéseit kell meghatározni. Utána jönnek a három hangból álló szavak. A két hangból álló alapszavakat az U-A-E-I magánhangzók alapján vizsgáljuk, az O-Ö-Ü magánhangzókra csak ez után megyünk át[^1]. A mássalhangzók a következők, zöngétlen és zöngés párokban: T-D, Sz-Z, K-G, J-H, P-B, F-V, és M-N, L-R. Ez a 16 betű alkotja az alapvázat, amely alapszavak jelentései megadják az egész emberiség nyelveinek alapját. Az emberiség összes nyelve tehát egyetlen nyelvből ered, amit nevezzünk ősnyelvnek.  
@@ -45,7 +45,7 @@ A leginkább ismert és alkalmazott mássalhangzó-változások/cserék a P, B, 
 
 Ró-Ma például tipikus magyar kifejezés, hiszen Nap és a Föld egymáshoz való kapcsolatáról szól. Tulajdonképpen ez az alapséma. Hiszen ez határozza meg életünket (mi másra alapoznánk?).  
 A folyók az égi Tejút alternatív nevei, a hegyek a Naphoz tartoznak (lásd erről bőven [[H/Hímség és nőiség\|hímség és nőiség]]). Az országok eredetileg égi területek ([[E/Éden\|Éden]] is). [[N/Nép\|Nép]]ek a [[N/Nap\|Nap]] vagy annak anyja után neveztetnek el, illetve egyes fontos csillagképek után (Hunor nyári, Magor téli napfordulós születés). Stb.  
-Az esetek nagy százalékában a Nap jelentésű szó van elöl (Ró, Tu(r), Du, Sza, Szak, Szek, Szik, Tak, Tek, Teg, Tik, Mag, Bog, nem sorolom el mind a kb. 150-200-at) és a Föld (Ma, Da, Ta), Hely (La, Da), Ház (Ga, Na, stb.) illetve az Ég/Menny (Án) jelentésű etymon a második helyen (az Án/Ány végződés Eget jelent; Cig-Ány (Szik-An), Pog-Ány, Bak-Ony mind Nap az Égen jelentésű). Állhat második helyen Ház (Ga, Ha, Na, stb.) jelentésű etymon (akár mint birtok értelemben; lásd [[G/GA\|GA]]), valamint Úr jelentésű szavak (Ér, Ár, stb. változatokban).  
+Az esetek nagy százalékában a Nap jelentésű szó van elöl (Ró, Tu(r), Du, Sza, Szak, Szek, Szik, Tak, Tek, Teg, Tik, Mag, Bog, nem sorolom el mind a kb. 150-200-at) és a Föld (Ma, Da, Ta), Hely (La, Da), Ház (Ga, Na, stb.) illetve az Ég/Menny (Án) jelentésű etimon a második helyen (az Án/Ány végződés Eget jelent; Cig-Ány (Szik-An), Pog-Ány, Bak-Ony mind Nap az Égen jelentésű). Állhat második helyen Ház (Ga, Ha, Na, stb.) jelentésű etimon (akár mint birtok értelemben; lásd [[G/GA\|GA]]), valamint Úr jelentésű szavak (Ér, Ár, stb. változatokban).  
 
 Így épülnek fel a két szótagos szavak. Ezt így Péterfai János szájbarágósan nem írja le, de ez a lényeg. Lásd még kifejtve alant.  
 
