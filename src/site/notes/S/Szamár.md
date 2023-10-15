@@ -1,0 +1,220 @@
+---
+{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["unformatted⚪"],"created":"2023-10-15T10:43","updated":"2023-10-15T10:43"}
+---
+
+
+# Szamár
+
+
+
+[[S/Széth\|Széth]] címnél már esett szó a szamárról. Egyes itt is szereplő adatok ott is megjelentek.  
+
+#### Péterfai János írja:  
+
+> A Szamár neve egyértelműen azonosítható a [[S/Sumer\|szumer]] névvel. Ebből az is következik, hogy az első szamarakat a szumerok szelídítették meg. A nemzetközi tudomány is elfogadja ezt az azonosítást, amit sokan ismernek. A szamár a teherhordás és kocsivontatás állata volt, de makacs állat lévén, sok baj volt vele. A harciszekerek elé is szamarakat fogtak szumer rokonaink, de a szamár nem akarta vonszolni a szekeret. A szamarak a karavánok teherhordóiként, messze elvándoroltak az őskori világban. A népek a szamarakat, az igavontatókat, gazdáikról nevezték el, a szumer szó alapján. Nagyon furcsa a Szamár neve. Azt hihetnénk, hogy az akkád uralom után keletkezett a szumer (szamár) név, de a gabona széthordása és árusítása az akkádok megjelenésénél sokkalta régebbi tevékenység volt. Erről Kemény Ferenc is értekezik. A szamarak nagy testű, erős equidák voltak, a mai szamár csak gyenge utánzata az ókori harci szamaraknak. Az arab és a szomáli vadszamár ma is büszke, nemes vad, és nagy termetű. A Szamár és a Szumer összevetése más fogalom alapján is kézenfekvő. De a szamár, makacssága miatt, alkalmatlan volt harci tevékenységekre. A Ló, amelyet talán húszezer évvel ezelőtt szelídítettünk meg, sokkal alkalmasabb volt harci eljárások alkalmazására.  
+> Mellesleg a Sza-Már jelentése lehet a Magyarok-Ifja is, amit nem értek. A Magyar, vagyis a Sza Ifjú (Gyerek) talán szamár volt a tanítókhoz, táltosokhoz képest, vagy csupán tréfás neve a gyerekeknek? Matematika órákon, de talán más órákon is elhangzott az őskorban ez a szamár név? A gyerek szamár neve ment át a csacsira, vagy a szumer szó volt a szamár szó őse?  
+> A nyelvészek a magyar Szamár szót az olasz `Somaro` – Teherhordó Állat szóra vetítik vissza. Valamely szláv nyelvet emlegetnek közvetítőként, mert a szlovén `Somar` ua., megfelelői cseh és szlovák szavak, továbbá Nyereg jelentésben szerb, horvát, bulgár szavakat is találtak. De akkor mi a szamár olaszul, meg bulgárul? Egyszerűen lehetetlen, hogy a 30.000 évnél régebbi magyar nyelvben nem volt szamár név. Az indoeurópai nyelvek meg a magyar nyelvből keletkeztek, alig 3.000 évvel ezelőtt jöttek létre, tehát szavakat nem adhattak át a magyar nyelvnek, mert saját szókincsük gyakorlatilag teljes egészében a magyarból keletkezett.  
+>
+> A Szamár állat neve a románoknál `Maghiar` \[lásd még róla, más nyelvekből is [[M/Magar\|Magar]]\]. Vagyis a Magyar egyben Szamár, vagy a Magyar egyben Szumer. A Szamár régen nem az ostobaság szinonimája volt, hanem a szabadságé. De a szamár, a lóhoz képest, engedetlen, önfejű és akaratos. (Ló = Ember).
+- Van még egy szó, amely ide kívánkozik, az [[O/Onager\|onager]] és [[H/Hun\|hun]] címnél taglalt görög `onos` = szamár szó. Nyilvánvaló, hogy ez hun-osként értelmezendő. De a szamár [[K/Kentum\|kentum]]os formái az arab és más nyelvekben meg a Kám-Úr/Hun-Or (az arab Holdat jelentő szó is ilyen; lásd még [[K/Khamor\|Khamor]]) névalakokra hajaznak. Lásd lejjebb még erről.  
+Ezzel egy újabb eset áll elő, ahol a magyar vagy valamely más utónépe (hun, sumér) a szamár értelemmel kapcsolódik. Itt még lehet arra gondolni, hogy [[S/Széth\|Széth]]-tel és tiszteletével kapcsolat áll fenn, de vélhetően az a nép rajzolta meg eleve szamárfejűnek, aki ismerte a jelkép értelmét.  
+A szamár (és az [[O/Ökör\|ökör]]) szerepel a [[B/Betlehem\|Betlehem]]i játékokban (lásd például [[J/Jászol\|jászol]]) is. Akár tehát a szamár utalhat az aranykori felfogásra is (de Széth is az első isten volt).  
+
+#### Práczki István Szittya Biblia...
+
+...című könyvének 95. oldalán írja:  
+> A későbbi korokban is nagy sikerrel alkalmazták ezt a módszert, például a sumér népből\[?\] így lett szamár[^1], ami héberül `chamar`, és a Bibliában szamáriai.  
+
+Valóban, az arab `hamar` és héber `khamor` (hamor) = szamár, de nem a sumér vagy szumér népnévből kell eredjen, hanem a hunok [[K/Khamor\|Khamor]] (Kám-Úr) nevével látszik azonosnak.  
+Az albán ([[M/Magar\|Magar]] címnél is taglalt `magar` szóalalakja mellett szintén szamarat jelentő) `gomar` is ilyen alakú, melyet a görög `γομάρι` (gomári) = szamár szóból eredetőnek tartanak.  
+Itt ugye még a [[K/Kentum\|kentum]]-[[S/Szatem\|szatem]] szabályról lehet beszélni. (Persze nem gondolhatjuk, hogy a sumér népnév a khamor nyomán ered. Megfejtést lásd [[S/Szamár csillagkép\|Szamár csillagkép]].)
+- Érdekes a már említett [[O/Onager\|onager]] = vadszamár is, lehetséges [[H/Hungár\|hungár]] olvasata miatt, ha már a hunoknál és a csökönyösségnél tartunk (valójában csillagászati eredete van; lásd lentebb). (De mellette a [[K/Kulan\|kulan]] = vadszamár és [[K/Kiang\|kiang]] = tibeti vadszamár nevek is érdekesek.)
+
+Ha a fentieket nem vennénk figyelembe (mert nem lennének ilyen összefüggéseink), akkor Szam-Ár annyi lenne, mint Nap Úr és ugyanúgy a magánhangzó harmóniát kellene itt is látni, mint [[T/Tanár\|tanár]], [[K/Kenyér\|kenyér]], [[P/Péntek\|péntek]], stb. esetében.  
+
+#### L. Kecskés András Háromkirályok – Szentháromság...
+
+...című az Ősi Gyökér 2013/1-2. sz. megjelent cikkében érinti a nevet (és szokás szerint nem adja meg sumér nyelvű szavainak eredeti értelmeit/forrását):  
+> A Nap és Tűzisten papjának neve sumérül: ZaMaR/u = magát pengetős hangszerrel kísérő áldozó pap. Magyarán: rigmust mondó és kiáltó. Regös. Egy korábbi tanulmányunkban a Kárpát-medencei SZaMáR nevű ősi áldozóhelyeink s a ZaMaR/u rokonságát bizonyítottuk.  
+
+## Héber szamár íjfeszítőkre utaló neve
+
+[[K/Khamor\|Khamor]] címnél is szerepeltek az alábbiak:  
+A héber `hamorim` = íjász, nyilazó értelemmel megadott szó szó szerint valójában (bolondokat, ellenálló szkítákat) szamarakat jelent, márpedig [[S/Széth\|Széth]] \[egyik\] állata a szamár, másrészt a szamár mindig a szabadságszerető magyarokról/hunokról neveztetett el (azóta csillagképekről: Rák = [[S/Szamár csillagkép\|Szamár csillagkép]]ről is volt szó).  
+A héber `hamorim` szót ezért sem sikerült íjazók értelemmel megtalalálni, viszont a (szintén Íjász/Vadász) [[N/Nimrud\|Nimrud]]-nak megfelelő (héberben) lázadó jelentést Harold I. Saperstein Witness from the Pulpit című könyvének 190. oldaláról igen (ahol többek közt íjász értelem mégis előbukkan):  
+> Another group of commentators explains the sin of Moses in terms of the anger and impatience demonstrated toward the people. Hamorim – "rebels," he called them (Num. 20:10), and by his irritable condemnation he indicated his lack of faith. For he repudiated them, though God himself had not done so. Rashi, in this context, cites the midrashic passage in which, when Moses was searching for the rock, he angrily rejected the use of the one selected by the people. It was then that he called them hamorim and the Midrash gives several derivations for the word. One comes from a Greek root, meaning fools. Another is connected with the word meaning teachers, as though he were saying, "You who presume to teach your teachers." A third links it with the word meaning archers implying "you who shoot upon your leaders with your arrows." They conclude that temper and contempt were unworthy of his position as a leader.  
+
+Rashi a harmadik, nyilazó értelem kapcsán azt mondja, hogy görög gyökre mehet vissza.  
+[Ezen](https://www.sefaria.org/Bamidbar_Rabbah.19.9?lang=bi&with=all&lang2=en) oldalon a szokásos flektálás eredményeképpen más szót adnak meg, mint várnánk:  
+> But Moses had been careful for 40 years not to get angry at them, because he was terrified of the oath the Holy One swore: "Not one of these men will see \[the land\]..." They said to him: "Here is a rock; just as you want to bring forth water from another rock, bring it forth from this one." He shouted at them "Hear now, you rebels!" "Rebels (morim)" has many meanings: 1) "stubborn ones" 2) "fools" – in the sea villages they call fools "morim". 3) "those who teach their teachers" 4) "archers" (In I Sam 31:3 the word "morim" is used to mean "archers".) ... Even so, Moses only used the rock that the Holy One told him \[to use\].  
+
+Ismerve a sémi szamarat jelentő szót (héber `khamór`[^2]), a bolond jelentés a szamár jelentésnek felel meg és valóban a [[S/Szamár csillagkép\|Szamár csillagkép]] irányában volt a nyilazó, legyen az a rebellis Nimród, vagy más nevű, [[M/Mulapin\|Mulapin]] címnél taglalt csillagkép.  
+
+## Szamár kétféle neve
+
+Érdekes a szamár kétféle SZ/H/K-M-R vázú és M-K-R/M-G-R vázú neve különböző nyelvekben. Úgy tűnik, a szamár az íjfeszítő/íjazó szinonímájává vált és íjazó/nyilazóból, mint tudjuk, két, egymással szemközti téridőbeli helyen is van. Magyarázható a jelenség azzal, hogy a [[L/Lemniszkáta\|lemniszkáta]] kötőpontjában is két téridőbeli értelemben egymással szemközti pont azonosul. A szamár fogalma helyett másutt [[S/Szegény\|szegény]], [[V/Vándor\|vándor]], stb. jelenik meg (a soványság fogalmát [[M/Meagre\|meagre]], [[H/Haggard\|haggard]], stb. idegen szavakban is megtaláljuk, míg a [[S/Szikár\|szikár]] szintén a nyári napfordulós váltásra utaló szó [[S/Sacchar-\|sacchar-]] címnél írottak szerint).  
+
+[[S/Sumer\|Sumer]] neve Kangar/Hungár alakú is, de ugyanezt látjuk a szamár szamár és [[O/Onager\|onager]] neveinek megkülönböztetésében.  
+
+## Szamár démonizált félre (istenére) való használata
+
+A témát körüljártuk fentebb és a [[S/Szamár csillagkép\|Szamár csillagkép]] vonzatában is vizsgáltuk. Ettől még a [[M/Magyarellenesség\|magyarellenesség]] és más címeknél (ott bővebben, más démonizálás kapcsán kifejtett) passzust tegyük ide:  
+A [[F/Fehér és fekete\|fehér és fekete]] címnél, külön alcímnél taglalt féléveken uralkodó ikeristenségek negatív felét szamárral szokták jelképezni.  
+Valóban úgy tűnik, hogy minden negatív értelmű szó valamilyen módon a mag-magyarsághoz és (maradi/csillagvallási) vallási nézetükhöz, azok démonizálásához kötődik. Csökönyösek mint a szamár, ígyhát többek közt a thrák eredetű román nyelvben is szamár = `maghiar` (magyar[^3]).  
+Érdekes a már fentebb említett [[O/Onager\|onager]] = vadszamár is, [[H/Hungár\|hungár]] olvasata miatt, ha már itt tartunk.  
+A bibliai Bálám (Bileám) szamara elnevezése hátterében [[B/Bál\|Bál]] isten és az annak hódoló előnép démonizálása lehet, illetve a [[S/Szamár csillagkép\|Szamár csillagkép]] téridőbeli helye definiálhatja (onnantól kezdődik a sötét félév; de a démonizáló szemiták számára aligha ez a csillagászati-mitológiai alapkiinduló tétel volt a meghatározó).  
+
+#### Huszárik László Denderai csillagképek, hónapok és mítoszok...
+
+...című a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXXIII./10. sz. megjelent cikkében közli:  
+> Hóruszt az ábrázolások gyakran mutatják a kártékony állatok legyőzőjeként, skorpió is megmarta, Thot mentette meg. A \[Nap által\] legyőzött állatok gyakran [[S/Széth\|Széth]] megjelenések, *ostobának tartott állatok, mint a krokodil, víziló és antilop.*  
+
+- - -
+
+A **Szimbólumtár** adatsora:  
+> A lófélék családjába tartozó, kisebb termetű, hosszú fülű, málházásra, igavonásra használt háziállat. A termékenység, a béke, az alázat és a szegénység jelképe. \[Mind stimmel is a szkíta népekre.\]  
+> • A sumer költészetben a szamárcsődör a férfiasság kifejezőjeként szerepel (Sulgi magasztaló éneke önmagáról, 16-18). Negatív erőként a sötétség, az ostobaság, a csökönyösség, a bujaság, az ösztönember megtestesítője. \[Alkalmas jelkép Hunor-Széth-Szíriusz-nak.\] Hátasállatként szerepét sokszor az határozza meg, hogy ki utazik rajta.  
+> • Az indiai mitológiában a halálistenségek hordozója, például [[K/Kali\|Káli]] istennőé. Dhénuka démon, akit Krisna ölt meg, szamár alakban jelent meg.  
+> • Kínában fehér szamár szállítja a taoista halhatatlanokat.  
+> • Az ősi egyiptomi hit szerint az alvilág kapuját szamárfejű démonok őrzik. Az Oziriszt meggyilkoló [[S/Széth\|Széth]] állata; gyakran ábrázolják magát az istent is szamárfejjel. A trombita szamárordításra emlékeztető hangja miatt tiltott hangszer volt Egyiptomban, mivel Széthre, a pusztító, gonosz istenségre utal. Hórusz évenkénti, Széth felett aratott győzelmét szamáráldozattal ünnepelték. Két szamár tartja az [[A/Ahet\|ahet]] hieroglifát, amely a nyári napfordulót jelképezi: Széth csillaga, a Szaturnusz ilyenkor veszi át az uralmat. \[Valójában nem Szaturnusz, hanem a mögöttes opponáló Hunor-Orion értendő alatta. Lásd összefüggéseket [[S/Szaturnusz\|Szaturnusz]] címnél *Szaturnusz és Orion*.\]  
+> • A görög-római mitológiában Dionüszosz, ill. a kíséretéhez tartozó Szilénosz/Silenus hátasa. Priaposzt, a termékenység fallikus istenét szamáralakban is tisztelték, áldozati állatai közé tartozott a szamár (fallosz). A szamár misztérium-hordozó szerepe antik hagyományokban gyökerezik. Arisztophanész Békák c. komédiájában a Dionüszosszal az alvilág felé tartó rabszolga, Xanthiasz ezt mondja: "a szentségvivő szamár vagyok." Oknosz mítoszában is pusztító elvként szerepel: az alvilágban kötelet fonó Oknosz munkájának eredményét szamara minduntalan felfalja (kötél). Apollón, Midasz frígiai király érzéki csábításokra hajló füle helyére – amiért Pán sípjátékát többre becsülte az ő hangszerének hangjánál – szamárfület varázsolt (Ovid. Met., XI. 161-179). Rómában Venus szent állataként tisztelték. Apuleius Az aranyszamár c. regényének hőse, a túlbuzgó testi vágyaiért és a boszorkányság iránti kíváncsiságáért szamár alakban vezeklő Lucius, csak Ízisz temploma előtt, Ízisz rózsakoszorúját elfogyasztva változhat vissza. Lucius kilépése a szamárbőrből lelki feltámadást, szellemi, vallásos rajongásban való újjászületést jelent.  
+> • A zsidó és keresztény hagyományban a bírák, a királyok és a próféták szent állata. Bileam (Bálám) szamara (Szám 22,23) okosabb gazdájánál, hamarabb felismeri az Isten által útjukba állított angyalt. A Ter 49,11 ("A szőlőtőhöz köti csikaját, és a szőlővesszőhöz a nőstény szamár fiát") keresztény értelmezése az "Én vagyok a szőlőtő" (Jn 15,1) alapján, a nőstényszamarat a zsidósággal, a nemes venyigét Krisztussal, a szamár csikaját pedig az általa megszabadított pogánysággal azonosítja. A középkori művészetben csökönyössége miatt az Eklézsia és Zsinagóga ábrázolásain az utóbbit megszemélyesítő allegorikus alak állata.
+>
+> ![assets/Szamár_image1.png](/img/user/S/assets/Szam%C3%A1r_image1.png)  
+> *Eklézsia és Zsinagóga a Megváltás fájánál (Biblia Pauperum, 1330 k., Bp., Szépm. Múz.).*
+>
+> A keresztény szimbolikában emellett a béke és az alázat jelképe. Krisztus életének számos epizódjában fontos szerepet kap. Krisztus születésének hagyományos ábrázolásain – "az ökör megismeri gazdáját, és a szamár urának jászolát" (Iz 1,3) –, ill. Pszeudo-Máté apokrif evangéliuma alapján a szamár az istállóban, az ökör társaságában jelenik meg. Az ökröt mint áldozati állatot Krisztus áldozatának szimbólumaként, a szamarat mint teherhordót pedig a világ bűneit magára vevő Krisztusként is értelmezték. Az Egyiptomba való menekülés ábrázolásain Mária szamárháton ül a gyermekkel, míg József gyalogszerrel kíséri őket. Zakariás jövendölését (amelyben a szamár a harci ménnel szemben a szelídség megtestesítője: Zak 9,9) Jézusra vonatkoztatták, aki egy "szamárnak csikaján" vonult be Jeruzsálembe. Fra Angelico Jézus élete című táblakép-sorozatának Jézus születése, A Szent család menekülése Egyiptomba és a Bevonulás Jeruzsálembe c. részein szerepel (1450 k., Firenze, Museo San Marco).  
+> • Az antik "bolondünnepek" vagy szaturnáliák középkori változatában a szent királyt vagy az őt helyettesítő bolondkirályt vivő szamarat vallásos tiszteletben részesítették, majd helyette a téli napfordulókor, "karácsonykor" fel is áldozták. Ezen karneváli szerepcsere nyomán örökölték a szamárfület sapkájukra a fordított világ képviselői, az udvari bolondok.  
+> • A reneszánsz hagyomány az antikvitás nyomán a szamárnak tulajdonítja a legnagyobb fallikus potenciát a bujaságot megtestesítő állatok közül. A testi, "állatias" szerelmi vágyat jeleníti meg Titánia tündérkirálynőnek az elvarázsolt, szamárfejű Zuboly iránt fellobbanó szenvedélye Shakespeare-nél, a Szentivánéji álomban. A boszorkányok is ölthetnek szamár alakot a boszorkányszombaton.  
+> • Balzac A szamárbőr c. regényében a főhős kívánságai rendre teljesülnek, egészen addig, amíg a kívánságok bűnét viselő, minden óhajjal egyre zsugorodó szamárbőr el nem fogy, véget vetve ezzel az ő életének is. Ady A szamaras ember c. verse a keresztény felfogást követi: az áldozatos, alázatos, békés életre, Krisztusra utal: "Tán kerül / Ezután is szamaras ember / Másokért küzdő szerelemmel. / Hiszen úgy kell, kell a szamárság."  
+
+Jankovics Marcell könyveiben hasonló információkat találunk.  
+Jelkép-kalendárium című könyvének 174. oldalán írja ([[R/Rák csillagkép\|Rák csillagkép]]nél is szerepelt):  
+> Egy i.e. 2. évezred második feléből származó sírképen **a Rákot két szamár jelképezi**, melyek a világ végén álló "fényhegyeket" és a köztük felkelő Napot, az [[A/Ahet\|ahet]] hieroglifát tartják. (A fényhegyek, mint "Hercules oszlopai" is, csillagászati műszereket szimbolizálnak; a naptári fordulópontok helyének mérésére épp ilyen kettős oszlopokat állítottak hajdanán a Nap keléspontjainak irányába.)  
+> A "Szamár" elnevezés talán babiloni eredetű – ott a csillagképet Vemhes Szamárnak hívták –, de helyi alapja is van. A pusztító nyári forróság istenének, [[S/Széth\|Széth]]nek a sivatagi vadszamár volt az állata. A Rák csillagkép egyiptomi jelentőségét növelte, hogy az egyiptomi mezőgazdasági év kezdete a Nílusnak július második felében érkező áradásához igazodott, ami "ideális esetben" egybeesett a [[S/Szíriusz heliakus kelése\|Szíriusz heliakus felkelésé]]vel (júl. 19.).  
+- Az [alábbi](https://youtu.be/BKlduHsQOTc) előadásban (lásd 27:50-nél) Dr. Gyárfás Ágnes egyébként azt mondja, hogy a Rák csillagkép régi neve Szám-Ár(adat) volt és ebből lett volna a Szamár (nem fejti ki, hogy gondolta, de maradjunk a szamárnál; a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] alkották a zodiákus csillagképeit; ezt talán nem tudta). <br/>
+Ugyanakkor mivel Szamár = Hunor = Orion, mely együtt értelmezendő a Nagy Kutyával, mondhatnánk, hogy a Ráknak Szamár helyett akár Kutya is lehetett volna a neve. Nemcsak a Szíriusz heliákus kelése miatt mondható ez, hanem mert a Rák (csillagkép) germán [[C/Crab\|crab]] neve lehet Kör-Ív/Kör-Eb vázú, éppen úgy, ahogy a rák másik neve, [[C/Cancer\|Cancer]] is a Kan-Köre értelmet viheti.  
+
+> A "Szamár" nevet a késő antikvitás átmentette napjainkba. A csillagkép ekliptikához legközelebb eső két csillagát – a **zodiákuson a nappályával érintkező csillagok az igazán fontosak!** – ma is Északi és Déli Csacsinak hívják (Asellus Borealis, Asellus Australis).  
+
+Könyvének 175. oldalától JM külön foglalkozik a szamárral:  
+> Egyiptomon az óbirodalom idején egy [[I/Iker\|iker]]istenpár uralkodott, mint Felső- és Alsó-Egyiptomnak, az **emelkedő és a hanyatló Nap félesztendejé**nek ura \[Magaru és Hun nevei a két Egyiptomnak is ilyen égi tagolásra utalnak\], illetve az [[O/Orion\|Orion]] és a [[G/Göncöl\|Göncöl]] csillagzat képében mint a déli és az északi égbolt királya: Ozirisz és a szamárfülűnek mondott, máskor az "Ég Bikájának" nevezett [[S/Széth\|Széth]]. (Ábrázolásai az istent nem szamárfejűnek mutatják, hanem – Egyiptomban egyedülálló módon – fantázialénynek, amelynek a tapíréra emlékeztető rövid ormánya és hosszú, de a végén lekerekített vagy vágott füle van, s talán egy mára kihalt állat volt a modellje. A ma élő afrikai állatok közül leginkább a földi malacéra hasonlít a feje.)  
+- Itt álljunk meg egy pillanatra:  
+Nem tartozik össze [[S/Szíriusz és a Sarkcsillag\|Szíriusz és a Sarkcsillag]], ahogy gondoltam? De, csak az egyik ezek szerint dél, a másik észak.  
+
+> Szeth a forró júniusban vette át fivérétől a hatalmat, az ő uralmának kezdetét jelezte a hónap csillagképében, a Rákban lévő két Szamár csillag. Idővel a két isten megítélésének dialektikus egyensúlya felborult, Ozirisz és fia, Hórusz javára, Szeth mint testvérgyilkos egyre ördögibb alakot öltött. Ennek történelmi oka is van. Amikor a [[H/Hykszosz\|hykszosz]]ok meghódították Egyiptomot (i.e. XVIII.sz.), Kisázsiából és Palesztinából egy szamáristen kultuszát hozták magukkal, akit Egyiptomban Szethtel azonosítottak. Ettől kezdve Szeth az ország ellenségeinek istene lett. (E palesztinai szamárkultusznak tulajdonítható, hogy jóval később a rómaiak a zsidókat és keresztényeket azzal csúfolták, hogy istenüknek szamárfeje van. Vö. a bibliai Sét nevével.  
+- Kiről lásd [[S/Széth#Szet és Szet\|Szet és Szet]] cím/alcímnél.  
+Erről a témáról Robert Graves The White Goddess c. könyvének 278. oldalán szól[^4]. Nem először látjuk, hogy szkíta illetve kár-föníciai befolyás éri Egyiptomot. Lásd [[T/Taut\|Taut]] > [[T/Thot\|Thot]] esetét is.  
+
+> Szeth démonná süllyedésének a szamár látta kárát. A mindennapi életben: a szamár, amely a gabonát, Ozirisz földi létformáját nyomtatta, cipelte, Ozirisz felaprítójának megtestesítője lett. A mitológiában: szamárfejű démonok őrzik az alvilág kapuját, 77 szamár – a 77 legforróbb nyári nap jelképe – keresztezi a Nap útját, lassítja haladását, s lesz oka így a nyári aszálynak. Rituálisan: Hórusz Szeth felett aratott évenkénti győzelmét tömeges szamáráldozattal ünnepelték meg. A görög Hórusznak, [[A/Apolló\|Apollón]]nak is áldoztak szamarat. Szeth görög mása, a szamárfejű [[T/Typhon\|Typhon]] (`tüphó` jelentése = "perzsel", `tüphósz` "forgószél", "vihar") számos naptárjelkép-szörny (Kerberosz, Hüdra, Khimaira és mások) atyja volt, és (kis híján) ugyanúgy feldarabolta Zeuszt, mint Oziriszt Szeth. A görögöknél a szamár a bujaságot is jelképezte, és Dionüszosz szőlőistennek, valamint borissza mesterének, Szilénosznak volt az állata. Egy rege szerint a két Szamár csillagot Dionüszosz helyezte az égre. Számos bibliai történetnek viszont pozitív hőse a szamár, noha a zsidó törvény tisztátalannak tekinti. Ott áll a betlehemi [[J/Jászol\|jászol]] mellett is – a maga idején látni fogjuk, miért –, a hátán vonul be Jézus Jeruzsálembe, ami több szempontból is jelképes, gondoljunk **a szamarak hátán lévő [[K/Kereszt\|kereszt]] alakú csíkra**, vagy az Ozirisz gabonaistent hordozó Szeth-szamárra. Jézus, hogy a messiási próféciának eleget tegyen, "*két szamár*on" vonul be királyi székvárosába. Ezt földhöz ragadtan vagy úgy értelmezik, hogy vemhes szamárkancára ült, vagy úgy, hogy olyan anyaállatra, amelyik még nem választotta el a csikaját. Az aktus mindenesetre jelképes értelmű, és magyarázata az égen található, amennyiben elfogadjuk, hogy [[J/Jézus\|Jézus]] mint nap-holdisten testesül meg e történetben. Rák hava a Hold "otthona", egyben a Nap megdicsőülésének ideje is (lévén, hogy ekkor ér pályája delelőjére), "aki" Jézus idejében ekkor épp a két Szamár csillagon "ült". (A bevonulás Jézus földi pályafutásának csúcspontja.)  
+> Hellenisztikus hatásra a szamár később a test, a földi vágyak jelképe lett, lovasa a testen uralkodó léleké. Kehely előtt térdeplő szamár volt – a megtérő zsidó szimbólumaként – Páduai Szent Antal attribútuma. Francia földön Tours-i [[S/Szent Márton\|Szent Márton]] védencének tekintették (a Márton egykor gyakori szamárnév volt). A vallásostól alig elválasztható világi szamár-jelképen jobban átüt sötét múltja. Mint a szegények, "nemtelenek" lovát, a butaság és a lustaság megtestesülésének tartották (görög `tüphosz` annyi mint "önhittség", "esztelenség", "butaság"). Az engedelmesség erényét nyakában malomkővel, szamár jelképezte. A folklórban a molnár és a szamár szinte elválaszthatatlan, gyakran mindkettő az ördög álalakja (vö. a gabona-Oziriszt tipró szamár-Szethtel).  
+> A középkori Nyugat-Európában a szamár a bolondság szinonimája, s főszereplője a téli bolondünnepeknek. A "bolond" szamárfüles sapkája, s annak utóda, a hajdani iskolák rossz tanulóinak szamárfövege e középkori hagyományból ered. Claude Gaignebet a szamarat a "40-50 napos" ciklus állatjelképének tartja. Ezzel magyarázza, hogy a középkorban a luniszoláris ünnepeken, azaz "40-50 naponként" rendre feltűnik a szamár. Karácsonykor a betlehemi jászol mellett, illetve a december végi bolondünnepen, amikor Bálám és a háromkirályok hátasaként a templomba vezették; gyertyaszentelő-karneválkor a szamárfüles sapkájú bolondkirályt cipeli nyergében; virágvasárnapon Jézus jeruzsálemi bevonulásának emlékezetéül; május 1-jén (mennybemenetelkor) emlékeztetőül az ősi májusi szexuális tabura, mert mint a mondás tartja: "Csak a szamár házasodik májusban (rá kilenc hónapra, farsangkor ugyanis csak bolond születhetik)". Ezt követően a nyári napforduló és Szent Antal attribútumaként, majd aratás végeztével, augusztus 1-jén, mint a lisztmolnárok állatjelképe tér vissza, az őszi napéjegyenlőségkor pedig mint a szüretelő Bacchusé. Végezetül Márton napján találkozunk vele, a gallok apostolának háziállataként, hogy azt követően a betlehemi istállóba kocogjon ismét.  
+
+Szamár-Szumer kapcsolatáról lásd még [[A/Ass\|ass]].  
+
+## Szamár és a kereszt
+
+Fentebb már JM soraiban kiemeltük ezt a részt.  
+[[S/Széth\|Széth]] szamárral való azonosságát ismerjük (és [[J/Jahve\|Jahvé]]ét is mindkettővel; lásd ED adatát lejjebb). Azt is tudjuk, hogy Acharia S-től, hogy Széthet is keresztrefeszíttették:  
+> The Egyptian God Set was "crucified" on a "cross" known as a [[F/Furka\|furka]].  
+
+Fentebb volt szó a szamár hátán lévő kereszt alakú jelről is és egy Jézus keresztrefeszítését ábrazoló képen is ott volt a szamár.  
+Namost, milyen érdekes, hogy Rómában egy (Jézus keresztrefeszítésének bizonyítékául bemutatott?) rajzon szamarat látunk keresztrefeszítve. (Forrás: Wikipédia Crucifixion oldal.)  
+![assets/Szamár_image2.jpeg](/img/user/S/assets/Szam%C3%A1r_image2.jpeg)  
+A szamarat "mint teherhordót" nem a világ bűneit magára vevő Krisztusként kell itt értelmezni, hanem mint évköri jelképállatot kell meglátni.  
+Tulajdonképpen a szamár azért is választatott a Rák váltóállatának, mert a kereszt a [[C/Colure\|colure]] címnél is taglalt napfordulós metszéspontra, keresztezésre utal.  
+
+Egyébiránt az interneten, köztük a Quorán is beszélik, hogy minden szamár hátán ott a vállkeresztnek is nevezett kereszt, tulajdonképpen ugyanolyan megbízhatósággal, mint ahogy a zebrán a csíkok megtalálhatóak. A "majomtól származó" Darwin is értekezett a lóneműek csíkozásáról.  
+![assets/Szamár_image3.jpeg](/img/user/S/assets/Szam%C3%A1r_image3.jpeg)  
+
+Talán a spanyol `burro` = vadszamár is onnan vette a nevét, hogy a kereszt a Nap ([[B/BAR\|BAR]]) jele.  
+
+Egyébiránt rendesen a német `Kreuz` = kereszt, de második jelentése (állat) hát(a).  
+
+## Szamár és ökör a betlehemezésben
+
+Pap Gábor Karácsony a magyar csillagos égen című könyve sajnos nincs meg letölthető könyvként a neten, így például az [alábbi](https://youtu.be/jES8sGhZQBw) azonos című előadásából kell adatokat gyűjteni. Ami a jelen témát illeti, elegendőek lehetnek az [alábbi](https://youtu.be/m2TI9_GnCsE) Ne Legyen Áldozatos videóban elmondottak a betlehemezés ősi magyar-eredeti hagyományáról szólva.  
+Mivel törölhetik azt a videót, feltöltöttem azt a részt a saját YouTube-omra is: az [alábbi](https://youtu.be/LfU5D7Sp090) videóban 8:20-tól szól a fontos témáról.  
+Namost a szamár és ökör csak úgy értelmezhető, ahogy PG mondja? Nyilván igen. Nyilván a szamár nem [[S/Széth\|Széth]]-Szíriusz (pedig alant erről lesz szó). Az ökör pedig nem a Bika.  
+
+Pap Gábor egy másik Ne Legyen Áldozatos videóban visszatért a témára. [Ezen](https://youtu.be/w4bzeCO5qCM) Karácsonyi ünnep 1. rész című műsor PG féle sorai egy az egyben [[P/Precesszió\|precesszió]] címhez kerültek. Amit itt tudni kell, illetve ami idevaló, hogy a betlehemi játék két jelképállata közül az [[O/Ökör\|ökör]] a precessziós évkör állata, a szamár pedig a kis évesé. (A betlehemi játék Ökör állatjelképéhez (és a Jézus Megváltó születéséhez) kapcsolt Nagy Év jelentőségét a mayák kapcsán, [[G/Galactic centre\|Galactic centre]] címnél taglaltuk: egyedülálló – 25920 évente előfordulóan egyedülálló – esemény ez – csak a mayák témája nem 2020 évvel ezelőttre, hanem mostanra, a Halakból Vízöntőbe való lépésre vonatkozott ugye).  
+7:54-nél arról szól, hogy Jézus születésekor, azaz 2020 éve, "ezen a pontján az évnek születik az egyetemes Megváltó (ahogy [[J/Jézus\|Jézus]] címnél írtuk, a zsidók számára is, hiába ágálnak ellene). Mi ez a pont? Na ez most nagyon lényeges kérdés, mert egy 26000 éves cikluson belül az egyedüli, amikor időbelileg fogalmazva mondjuk a Bak 0. pontja az valóban is a Bak csillagképnek is a 0. pontján (én foknak mondtam volna) áll. Itt tehát egy térbeli állatövi rendszer és egy időben értelmezett állatöv szinkronba kerül egymással. 26000 év múlva lesz megint ilyen. Ez egy kozmológiai értelemben is kitüntetett pont, nemcsak üdvtörténeti értelemben. Hogy kerül ide a szamár és az ökör? Számoljunk vissza 2020 évet – mit látunk ilyenkor, éjfélkor? A Rák csillagképet: éjfélkor a Rák van zenitben. (Azért nevezzük Bakpontnak a Bakpontot, mert a delelőpont mögött jelenik meg a Nap, csak ott nem látom. Kénytelen vagyok az egész évkörben gondolkodni, mert tetten érni csak ott tudom, ahol az ellentéténél tartok. Éjfélnél mindig a pont szemben lévő csillagkép jelenik meg.)"  
+És akkor innentől, 9:04-től megint precessziózik: "Namost, ha én a precessziós mozgás révén a Ráknál tartok, azt a (betlhemezés másik "kellék-állata,") az Ökör fejezi ki. A kis éven belül, és ott is a csillagképi értelemben vett Rák a magyar népi csillagnevek között is "Jászol szamárkákkal." (A latinban Asellus Borealis és Australis, viszont az Ökröt már nem tartják nyilván, az csak a mi mesei anyagunkban lelhető fel.) Ha a kettő itt szinkronba azaz fedésbe kerül egymással, akkor azért van ez, hogy az ökör ellentétesen, azaz szembe néz a szamárral, mert precessziósan az egyik irányban itt tartok az Ökörnél és ellentétes irányban, a kis éves ciklust (ahogy mondja "kicsi életemet") tekintve ott tartok a Szamárnál, és kettő között ott a [[J/Jászol\|jászol]]. A jászol ott van ebben a csillagképben, mint köd. Ez a [Praesepe](https://en.wikipedia.org/wiki/Beehive_Cluster) = Jászol. \[...\] Amit tehát mi játéknak gondolunk, annak minden eleme, tartalma teljesen konkrét csillagászati közlést tartalmaz. Ehhez már csak azt kell hozzászámolni, ami azóta – azaz 2020 év óta – csúszott, azt meg pillanatok alatt hozzá lehet számolni \[ez a mondata is bizonyítja, hogy a Bak-Bak szinkron ezek szerint 2000 éve volt meg.\]. Tehát itt sokkal többről van szó, mint arról, hogy mi most egy múltbeli eseményre emlékeznénk: ez az esemény most is zajlik \[ez egy élő, folyamatos rendszer\]. Ez egy jelenlévő születés."  
+[Ezen](https://qr.ae/pNSqWL) Quora válaszra kommentként írtam is:  
+> Not many people seem to mind or care about the fact the manger is a symbol. The **Praesepe** = Manger is a place in the zodiac, in the constellation Cancer, which is opposite Capricorn, where the Sun (Son) of God is born (at midnight we see the Cancer in zenith; Christmas Day refers to Jesus's birth).  
+> Also, Mithra's birth in a cave refers to the birth in the vulva of the Goddess. Mithra = Jesus = Hungarian Magor (hence Akkadian, Dravidian names for Capricorn, **Magur**, **Makar**) (that is also why in Semitic `mahaar` = clam; a symbol of the vulva).  
+> This is what Robert Graves should have researched. The Turanian-Scythian-Magyar symbolism and language. The West can only accept the Western dialogue.  
+- Amit még oda írhattam volna, de nem tettem, hogy a [[M/Manger\|manger]] szó eredete is lehet Magar, Magor.  
+
+Szumma szummárum ("szammárom"), az [[O/Ökör\|ökör]] valóban Ő-Kör, azaz a Jézus-féle Halak korszakot indító, vagy a (kétezer évvel későbbi, mai) maya-féle Halak-Vízöntő korszakváltó időpontot helyileg jelölő fogalom (állat-állapot) neve. De ezek alapján nem lehet véletlen a csuvas `vakar`/[[M/Makar\|makar]] = ökör elnevezés sem, mert Jézus nem-jász neve ugye [[M/Magor\|Magor]]/Makar volt, és vélhetően ugyanennek a kozmikus mondának magyar Magor-os változata is megvolt. Sőt, talán ez magyarázza meg azt is, hogy a balkáni-thrák (albán, roma, román) nyelveken miért Magar alakú a Szamár neve is.  
+- [[M/Manger\|Manger]] címnél lásd a szamár ilyen alakú neveiről szóló írást. 
+
+A mellékelt kép az [alábbi](https://ujember.hu/a-jaszol-okre-es-szamara/) oldalról való.  
+![assets/Szamár_image4.png](/img/user/S/assets/Szam%C3%A1r_image4.png)  
+A [[J/Jászol\|jászol]] nyilván Jász-Ól,Jász-Öl, azaz az Ász-Öle, az istenasszony öle. Lehet Jász-Ul-ként az Íjász/Orion Fia értelmű is, de az már erőltetett.  
+
+## Szamár magyar/hungár (és szumer) névvel való kapcsolatai – csillagképi és jellembéli kapcsolat
+
+Fentebb és [[M/Magar\|Magar]] címnél már volt szó a témáról. Friss írásomban (fentebb) kimondtam, hogy a balkáni-thrák neve a szamárnak a betlehemezés ősi szokásainak maradványaként maradhatott fel ilyen névvel más nyelvekben (akár úgy, hogy Jézus története előtt már a magyarok Magor Napistenes mondáját vették alapul, mely mára elveszett).  
+
+A korábban itt álló anyag:  
+PJI írja, hogy a [[C/Csángó eredetmítosz\|csángó eredetmítosz]] címnél taglalt eredetmondában az első ember neve **mágár**. Ebben a csángó mítoszban is a magyar a Föld első lakója. ([[K/Kutya\|Kutya]] is szerepel a mondában, meg sem lepődünk.)  
+Az mondjuk legyen itt elmondva, hogy a Mikecs László Csángók című könyvében közölt eredetmítosz gyors elemzésében PJI kihagyta a felsorolásból a szamarat, melynek romános `magár` neve szerepel a szövegben: a mágár ember és a magár-szamár nevei tehát szinte azonosak.  
+Namost, az állítólag thrák-bolgár eredetű szó az alábbi nyelvekben megvan szamár jelentéssel: albán `magar`, macedón `magare`, szerb-horvát `magarac`, román `māgar`/`maghiar`, de a romák nyelvében is `magari` (nyilván átvették a dél-szlávoktól, de [[C/Cigány\|cigány]] címnél írottak szerint akár hozhatták magukkal és akár ők taníthatták meg a szóra a többieket).  
+Namost ezen szóalak azért is érdekes, mert – ahogy fentebb említésre került – más magyaros népek nevei is viszik ezen jelentést: ott van sumér – szamár azonosság és a hunok Hun-Or/Kám-Úr neve is hordozza a szamár jelentést.  
+- Legutóbb [[K/Khamor\|Khamor]] címnél is álló adat:  
+A héber `khamor` = szamár Práczki István szerint [[S/Szamár\|szamár]] szavunk, de valójában ezen fent említett Kámor/Kan-Úr kell legyen. A kám-urak azaz a hunok ugyanúgy szamárnak tekintettek tehát, ahogy a magyarok.  
+Az [[O/Onager\|onager]] nevű vadszamár is [[H/Hungár\|hungár]] alakú szó, míg a görög `onos` = szamár az An, Án istenség neve lehet, vagy ismét a hunokra utaló.  
+Namost a [[K/Kangaroo\|kangaroo]] (melyhez hasonló a bizonyos darling nyelvű `kaangkaru` = ló jelentéssel) is [[H/Hungár\|hungár]] alakú szó. Tóth Alfréd Etymological Dictionary of Hungarian című könyvének (nem a PDF) 704. oldala alján szerepel egy szóhalmaz ausztronéz szavakat sorolva, melyek közül a yu-ngar, mu-ngaru, ku-nguru és ku-ngara érdekesek ide. Könnyen lehet, hogy ezek az elnevezések átmennek a ló helyett a kengurura, de az is lehet, hogy a lentebb taglalt szamár = ős fogalom keresendő benne.  
+
+#### Péterfai János...
+
+...egyébként egy helyen megvédi a román szót (nem lát(tat) benne ellenszenvet) (csakhát PJI nem számol a csillagmondai-betlehemezés témakörével):  
+> A Szamár állat neve a románoknál Maghiar. Vagyis a Magyar egyben Szamár, vagy a Magyar egyben Szumer. A Szamár régen nem az ostobaság szinonimája volt, hanem a szabadságé. De a szamár, a lóhoz képest, engedetlen, önfejű és akaratos. (Ló = Ember).  
+
+Namost, valójában itt is csillagképet kell keresni. A [[N/Nap#Nap és Orion\|Nap és Orion]] cím/alcímnél és [[H/Hunor csillagkép\|Hunor csillagkép]] címnél írottak szerint vizsgálódunk. Azt kell látni, hogy a szamár egyrészt [[S/Széth\|Széth]]-hez kapcsolódik, aki [[H/Hunor\|Hunor]]. Hunor Hun-Ter-ként, Vadászként Orion. Orion és Szíriusz összetartozik.  
+
+#### Jankovics Marcell...
+
+...szól a szamarakról Rák összefüggésében és a Szíriusz [[F/Félév\|félév]]es szerepe is megjelenik (fentebb is szerepelt):  
+> Egy i.e. 2. évezred második feléből származó sírképen viszont a Rákot két szamár jelképezi, melyek a világ végén álló "fényhegyeket" és a köztük felkelő Napot, az [[A/Ahet\|ahet]] hieroglifát tartják. (A fényhegyek, mint "Hercules oszlopai" is, csillagászati műszereket szimbolizálnak; a naptári fordulópontok helyének mérésére épp ilyen kettős oszlopokat állítottak hajdanán a Nap keléspontjainak irányába.)  
+> A "Szamár" elnevezés talán babiloni eredetű – ott a csillagképet Vemhes Szamárnak hívták –, de helyi alapja is van. A pusztító nyári forróság istenének, [[S/Széth\|Széth]]nek a sivatagi vadszamár volt az állata. A Rák csillagkép egyiptomi jelentőségét növelte, hogy az egyiptomi mezőgazdasági év kezdete a Nílusnak július második felében érkező áradásához igazodott, ami "ideális esetben" egybeesett a [[S/Szíriusz heliakus kelése\|Szíriusz heliakus kelésé]]vel (júl. 19.).  
+
+Az [alábbi](https://youtu.be/BKlduHsQOTc) előadásban 27:50-nél GYÁ is elmondja, hogy a Rák csillagkép régi neve Szam-Ár/Szám-Ár volt. A Rák a kis éves és Nagy Éves időciklusban is a tulajdonképpeni fénymaximumnak, a nyárnak (sumér – szamár (Rák) – [[S/Summer\|summer]]) felel meg, illetve onnantól kezdve csökken a fény ereje (ez a Nap megdicsőülésének ideje, lévén, hogy ekkor ér pályája delelőjére).  
+(PG adata szerint az Ökör a keleti állatövben a Ráknak felel meg; precessziós Rákról beszél; lásd feltöltve az [alábbi](https://youtu.be/LfU5D7Sp090) videót.)  
+
+A közép-ázsiai sztyeppéken élő vadszamár [[K/Kulan\|kulan]] neve is érdekes, hisz előjött valahol a név Orionnal kapcsolatban (saját ötletként). Nem találom, de a kelta [[C/Culann\|Culann]] és a magyar [[K/Kilenc\|kilenc]] is ilyen nevek és mindketten az égi kovács/villámistenre, Orionra utalnak.  
+
+Az [alábbi](https://youtu.be/ais-gS0luJw) Avatara előadásban 1:58:25-nél Erőss Diána AKA Bácsi Boglárka szól arról, hogy az 1920-as években a palesztinai Dora városában találtak egy vadszamár-fejet ábrázoló amulettet, mely az ószövetségi istent, [[J/Jahve\|Jahvé]]t ábrázolná (melyet ugye nem szabadna ábrázolni). Arról nem szól, hogy ez [[S/Széth\|Széth]] lehet. Márpedig Széth is lehet Orion-Szíriusz. Ezen a ponton pedig jusson eszünkbe, hogy a vadszamár, tapír és a kutya nemcsak Széthen keresztül kapcsolódnak egymáshoz, hanem a nyelvben is, hiszen a kelet-indiai [[K/Kuda\|kuda]] = tapírt jelent (más nyelvekben meg lovat).  
+Az [alábbi](https://titokzatosmult.wordpress.com/foldunk-relytelyei/a-tortenelem-misztikus-szemelyei/szet-jahve-satan/) oldalon is arról volt szó, hogy a vallástörténet szerint a zsidó "papok" amikor áldozatot mutattak be Jahvenak, az Isten képmását öltötték magukra: maszkot viseltek: vadszamár-fej maszkot.  
+[[I/Izrael\|Izrael]] címnél is voltak olyan nevek említve, melyek az [[O/Öszvér\|öszvér]]rel mutatnak hasonlóságot.  
+Öszvér előjött [[A/Ass\|ass]] címnél is. Ott arról volt szó, hogy lehet Ász/Ős értelmű is, ha [[S/Széth\|Széth]] és [[S/Szkíta\|szkíta]] címnél írottakat nézzük.  
+
+[[K/Khamor\|Khamor]] és [[K/Kovács\|kovács]] címnél közben rámutattunk, hogy ugyanaz a szamár, mint a kovács. A Khamor alakú keleti szavak kovácsot jelentenek, aki istenként (Deus Faber-ként, Démiurgoszként) Orion, aki azonos Hunterrel, ami pedig [[H/Hunor csillagkép\|Hunor csillagkép]]pel/[[I/Íj csillagkép\|Íj csillagkép]]pel (és a [[S/Szkíta\|szkíta]] névvel is vélhetően), melyekben Szíriusz is benne foglaltatik, ami tüzes csillag és szerelem/háború-istennő egyszerre, ahogy [[A/Ámor\|Ámor]] is a szerelem istene, de valójában, ha nem Khamor-ral azonosítjuk, akkor [[A/AMA\|AMA]] = anya (szeretetre) vihető vissza, viszont mely AMA név, mely [[S/Sarama\|Sarama]] nevében is megvan, utalhat ismét Szíriuszra, amely a Hunor/Íj csillagkép része. Viszont szemközt vele ismét lehet kettős, hímségi-nőiségi megítélésű a Nyilas/Nyílás csillagkép.  
+De arról is lehet beszélni, hogy [[B/Bál\|Bál]] nemcsak a Nap, hanem Orion neve is. Márpedig az a Bál ördöggé vált a későbbiekben. És hogy ennek hátterében nemcsak démonizálás áll, hanem az, hogy Bál-Orion-ba érve a Nap már a hanyatló, sötét térfélbe lép, egyértelmű.  
+És akkor ott van Bálám szamara, mely a pleonasztikus kifejezés lehet, lévén, hogy Bál = Orion = Hunor = Kám-Úr = Szamár.  
+
+Itt még egy dolgot kellene vizsgálni. Azt, hogy a [[P/Precesszió\|precesszió]] milyen hatást fejt ki. Ugyanis a Nyilassal szemközti az Ikrek, aztán ott a fentebb taglalt Rák, de az Oroszlán a valódi fénymaximum helye (volt).  
+Még az is megfordult a fejemben, hogy az [[I/Ikrek csillagkép\|Ikrek csillagkép]] utalt eredetileg a [[A/Ahet\|ahet]] kapcsán is említett két szamárra, csak a precesszió miatt elcsúsztak a dolgok (nyilván téves ezen következtetés).  
+Viszont figyeljük meg még az alábbit is:  
+Az Avesztában `jamestan`-ként szerepel a tél. Ennek jelentése nyilván Jáma/[[Y/Yama\|Yama]] országa (a Nap az alvilágban jár). Ezen Yama viszont a [[G/Gemination\|gemination]] és más címszavaknál írottak szerint az Ikrekre utal.  
+
+## Lábjegyzetek
+
+[^1]: Lábjegyzet:  
+Práczki István Szittya Biblia című könyvének 120-121. oldalán ugyanezt veti fel:  
+A marha nemcsak lábasjószágot, hanem vagyont is jelentett valaha, nem is oly régen. A magyar szó előbb istent, aztán müveltet és magas urat, majd végül a gazdagot és a gazdagságot is jelentette. A magyar< mahar név volt maga a gazdagság. Sok marhája van, a nagy vagyont is jelentette. De, ne feledjük a marha-/a mahar< magyar/ az oktondit is mondja. Az igazságnak tartozunk azzal, ha bevalljuk hogy a marha-ság éppoly ősi jelző, mint a sumér-ság, ami manapság már a szamárságot jelenti. \[PJI ezt át is vette tőle, mármint a buta vagy inkább az [[O/Ostoba\|ostoba]] szó magyarázatául is ezt az elvet követte.\]  
+
+[^2]: Lábjegyzet:  
+https://en.wiktionary.org/wiki/%D7%97%D7%9E%D7%95%D7%A8  
+Lásd még itt: https://biblehub.com/hebrew/2543.htm  
+
+[^3]: Lábjegyzet:  
+Péterfai János egy helyen megvédi a román szót (nem lát(tat) benne ellenszenvet):  
+A Szamár állat neve a románoknál `Maghiar`. Vagyis a Magyar egyben Szamár, vagy a Magyar egyben Szumer. A Szamár régen nem az ostobaság szinonimája volt, hanem a szabadságé. De a szamár, a lóhoz képest, engedetlen, önfejű és akaratos. (Ló = Ember).  
+[[M/Makacs\|Makacs]] és [[M/Magar\|Magar]] címnél is szerepel egy oromo szó, mely ilyen alakú, mint a román szó. Utóbbi címnél és [[S/Szamár#Szamár kétféle neve\|szamár kétféle neve]] alcímnél taglaljuk a szamár jelentésű szavakat.  
+
+[^4]: Lábjegyzet:  
+In pre-dynastic times Set must have been the chief of all the gods of Egypt, since the sign of royalty which all the dynastic gods carried was Set's ass-eared reed sceptre. But he had declined in importance before the Hyksos revived his worship at Pelusium, and reverted to obscurity after they were thrown out of Egypt about two hundred years later by the Pharaohs of the 18th Dynasty.  
+\[...\]  
+When the Byblians first brought their Syrian Tempest-god to Egypt, the one who, disguised as a boar, yearly killed his brother Adonis, the god always born under a fir-tree, they identified him with Set, the ancient Egyptian god of the desert whose sacred beast was the wild ass, and who yearly destroyed his brother Osiris, the god of the Nile vegetation. This must be what Sanchthoniatho the Phoenician, in a fragment preserved by Philo, means when he says that the mysteries of Phoenicia were brought to Egypt. He reports that the two first inventors of the human race, Upsouranios and his brother Ousous consecrated two pillars, to fire and wind-presumably the Jachin and Boaz pillars representing Adonis, god of the waxing year and the new-born sun, and Typhon, god of the waning year and of destructive winds. The Hyksos Kings under Byblian influence, similarly converted their Tempest-god into Set, and his new brother, the Hyksos Osiris, alias Adonis, alias Dionysus, paid a courtesy call on his Pelasgian counterpart, Proteus King of Pharos. \[RG\]  
