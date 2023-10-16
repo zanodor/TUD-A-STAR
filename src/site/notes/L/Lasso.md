@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lasso/","title":"Lasso","tags":["formatted🟢"],"created":"2023-10-15T09:24","updated":"2023-10-15T09:24"}
+{"dg-publish":true,"permalink":"/L/Lasso/","title":"Lasso","tags":["formatted🟢"],"created":"2023-10-15T09:24","updated":"2023-10-16T05:55"}
 ---
 
 
