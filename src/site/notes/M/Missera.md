@@ -1,0 +1,177 @@
+---
+{"dg-publish":true,"permalink":"/M/Missera/","title":"Missera","tags":["unformatted⚪"],"created":"2023-10-16T08:03","updated":"2023-10-16T08:03"}
+---
+
+
+# Missera
+
+
+
+Kezdjük a missera szó eredetével. Alex MacBain kelta etimológia szótárában kelta `aimsir` = idő szócikknél előjön egy lehetséges kelta \*amessarā, melyet biz. Ascoli és Stokes ad-messara-ként a latin ad-mensura szókapcsolatból eredőnek vél, így e kör lefutásával tulajdonképpen az derül ki, hogy missera tulajdonképpen [[M/Measure\|measure]] szóval vetendő össze. Ugyanezt a measure szót az ófrancia `mesure` útján a latin `mensure`-ból eredeztetik és az idő és mérése össze is függenek (minden mérés, matematika elsődlegesen az égi mozgásokkal kapcsolatosan végeztetett), de akkor mi újság mérés, méret szavainkkal és miért éppen fél évet jelent missera? Mintha itt megint két (sőt, vagy több!) hasonló alakú és értelmű magyar szó okozná a zavart a szó előtagjában. Ugyanis létezik [[M/Metsz\|metsz]] szavunk is, mely éppen utalhat kettévágásra is. Mivel a nőiségi [[M/Meddő\|meddő]] szavunk is idetartozik; tulajdonképpen itt arról lehet szó, hogy missera, hasonló a zseniálisnak tartott [[S/Sine\|szinusz]] szóhoz (mármint kialakulásához), szintén kettős jelentést hordoz: előtagjának van egyszer egy fényes [[M/MISZ\|MISZ]] és egy fényhiányos (meddő) [[M/Mis- prefixum\|mis-]]/[[M/Miss#Miss 2)\|miss]] (szócikkeknél taglalt) értelme. Az, hogy a méret, mérés és a latin szavak hasonlóak, csak egy dolog.  
+Misz-Éra felbontásban Éra (lásd [[E/Era\|era]]) adja az időegységre vonatkozó információt, Misz pedig a kettősséget, azaz felességet: ne feledjük a fél homoníma, azaz két teljesen más értelmet épít magában a magyarban is.  
+Pozitív felfogásban tehát MISZ-Éra lehet tej-kor, méz kor, fiatal kor, ifjúkor (itt a földön inkább 7 év lenne inkább logikus, főleg ha a [[F/Fehérlófia\|Fehérlófiá]]ra gondolunk, de itt nem ez a helyzet).  
+Negatív értelmét tekintve a tej/fény ill. annak hiányának vonatkozásait feltártuk [[M/Mis- prefixum\|mis- prefixum]]nál és főleg [[M/Miss#Miss 2)\|miss]] igénél.  
+
+Alternatívái `missere`, `missare`. Angolszász nyelven [[F/Félév\|fél év]] jelentésű(nek meghatározott). Előjön a [[B/Beowulf\|Beowulf]] című eposzban több helyen is, *[[H/Hund\|hund]] missare* = száz félév ([[O/Ötven\|ötven]] év) szókapcsolatban. Máskor *fiftig wintra* = ötven telet ír a szerző erre az időtartamra, mely kifejezés már egy igencsak Földre és Kis Évre vonatkoztatott kifejezésnek tűnik, de valójában ez sem az.  
+Mint minden régi keletű mítoszban, eposzban ([[H/Homer\|Homérosz]] Odüsszeiája és Trójája szintén ilyenek, de [[F/Firdauszi\|Firdauszi]] [[S/Shahnameh\|Shahnameh]]-jére is igaz), a történet itt is egyszerre az égen és a földön játszódik, azaz elsődlegesen az égen, melynek földi vetületét értelmezhetőnek kell venni az írónak az olvasó számára: az alacsonyabb fejlettségi szinten lévő, ezoterikus-gnosztikus tudásba be nem avatottnak is kell példaértékű tartalommal szolgáljon, míg, mire beavatást nyer, új értelmeket is felfedezhessen: ez az igazi (nép)művészet (és a [[M/Mese\|mesé]]k) lényege is. Többféle síkon értelmezhető.  
+Tehát itt is bizonyos, hogy csillagászati szempontokat kell figyelembe venni: égi eredetű, kozmikus háttere van a cselekménynek. Már a másutt is előjövő [[O/Ötven\|ötven]] és a [[S/Száz\|száz]] számok is rámutatnak, hogy itt [[T/Téridő\|téridő]]ben kell gondolkodni.  
+- [[F/Feridun\|Feridun]] (aki nem lehet más mint [[N/Nimrud\|Nimrud]] illetve [[O/Orion\|Orion]] az égen) király uralkodásának igencsak beszédes, mágikus [[O/Ötven\|ötven]]edik évében felosztja az égi teret két (illetve az eposzban Salm-mal együtt három) fia közt. A képzet nem új: az égi teret, [[T/Téridő\|téridő]]t – ahogy [[B/Berossus\|Berossus]] címnél szó volt róla – a babiloniak is felosztották, Isteneik között.  
+
+Érdekes, hogy az ötven nem "ikresítve" van, ahogy Sirius Mystery című könyvében Robert Temple írta (lásd [[H/Hundred\|hundred]] és [[H/Hekate\|Hekate]]), hanem épp a száz, kún-hun-angolszász [[H/Hund\|hund]] van ketté osztva.  
+Ezek alapján is azt lehetne mondani, hogy a [[S/Száz\|száz]], hasonlóan a [[S/Szűz\|szűz]] (PJI által megadott) jelentéséhez, teljeset, egészet kell jelentsen, míg az ötven ennek a felét.  
+
+Száz etimonjánál, [[S/SZAT\|SZAT]]-nál más, de hasonló jelentéseket is megadtunk. A teljes jelentés is odakerült, utólag. A SZAT-tal kapcsolatba hozott [[C/Csata\|csata]] címnél pedig [[H/HAT\|HAT]] számunkról is volt szó: ott arra a következetésre jutottunk, hogy a hat azon állapot, amikor [[N/Nagy Év\|Nagy Év]] [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]e alsópontjáról megindulunk a hét, a felső pont felé. Mondhatni 6 és 7 között annyi idő telik el, mint a 100 fele, 50 alatt, azaz 13000 év. Persze amennyiben igaz, hogy az ötven kódszám.  
+Igen valószínűen az. Már [[O/Ötevény\|Ötevény]] címnél is szóltunk arról, hogy – dacára annak, hogy ez az elnevezés egyszerűen Ösvény és Ős-Fény olvasatú is lehet – hogy a Tejút ezen neve és az [[O/Ötven\|ötven]] számunk között összefüggés kell legyen. Mégpedig az, hogy a Nagy Évben a Nap 13000 évente halad át a Tejúton, annak is egy fontos pontján, a Tejútközponton (minden JMJ-től származó infót lásd [[G/Galactic centre\|Galactic centre]]). Ez is igazolja az 50 és a 13000 "azonosságát."  
+Ez a 13000 évenkénti egyszer a Tejút egyik, egyszer másik oldalán létünk lehet magyarázat arra is, hogy miért van a [[P/Procyon\|Procyon]] és a Szíriusz egyszer az egyik, mássszor a másik "Tejútparton."  
+De az sem mellékes, hogy 13000/50 = 260, és ez a [[M/Maya naptár\|maya naptár]] napokban mért hossza, illetve megközelítőleg az ember-embrió méhen belüli fejlődési ideje is.  
+Talán éppen ez a számítás az, ami elvetni látszik a Joscelyn Godwin Arktos The Polar Myth című könyvében taglalt Drayson 32000 éves és Milankovitch 41000 éves ciklusait. Persze korántsem tudjuk, hogy például 6-8 ezer évvel ezelőtt, vagy éppen 32-34 ezer évvel ezelőtt milyen szög alatt állt a Föld tengelye az ekliptikához képest, és hogy éppen a Szíriusszal való tánc pontosan hogyan befolyásolja a Naprendszerünk mozgását és a Föld tengelyének ferdeségét, melyről azt állítják, hogy változik.  
+
+Igen érdekes, ha már kutyákról volt szó (a [[K/Kutya\|kutya]] címnél sorra vesszük, miért lett Szíriusz kutyacsillag és miért lett totem a kutya), hogy a kutya szukák egy évben éppen kétszer, általában kb. hat hónaponta tüzelnek (és az ind [[S/Sarama\|Sarama]] = Szíriusz is nőiségi) (a kankutyák bármikor képesek párzani). Szépen összevág mindez a hund missera = Kutya-csillag fény-közelségbe kerülés a felső (erős) ágon frázis jelentésével is. Vagy csak véletlen...(?)  
+- Fentebb, a [[M/Maya naptár\|maya naptár]] címnél szerepelt, hogy a terhes nők gyerek-kihordási ideje kb. 260 nap; vajon a kutyáké mennyi?  
+
+A száz, illetve a DCS által mondhatjuk helyesen idő jelentéssel megadott (közel azonos; műveleti okokból csökken százra) **108** tehát egy teljes kör időegységére kell vonatkozzon. Tulajdonképpen a 100 a téridő egyszerűsített kódszáma[^1].  
+Ez a 100/108 lehet egyenlő is a 360°-kal, meg nem is.  
+- Úgy tűnik a 100-as szám a 360-as vagy 3600-as számot váltja ki, és így szintén téridő-vonatkozású, de legtökéletesebben a [[K/Kilences számrendszer\|kilences számrendszer]]beli 108 jelenti az időt (hogy az idő hogyan esik ki, lásd erről [[V/Vízöntő paradoxon\|Vízöntő paradoxon]]). <br/>
+Valójában a téridő 100/108 "kódneve" 25920 évet kell jelentsen, így nem lehet 3600. De a [[S/SAR\|SAR]] 3600-zal való egyenértékűsége sem igaz.  
+
+Az ötvenre visszatérve, PJI írja, hogy az ötven a Nap száma. Ez akár igaz is lehet. Ahogy az is, hogy a Beowulf-ban szereplő ötven tél utal arra az időtartamra, amíg a Nap (legyen egyelőre bármelyik Nap is) a téridő bizonyos felében tartózkodik. A tél a mai gondolkodásunk szerint a sötétségre kellene utaljon, de [[T/Tél\|tél]] címnél leírtuk, hogy a naptári-csillagászati tél kezdetén, a [[T/Télpont\|télpont]]on indul meg a fény növekedése, mely akkor azt jelenti, hogy ezen a ([[K/Karácsony\|Karácsony]]i) ponton születik meg [[M/Mithra\|Mithra]]-[[J/Jézus\|Jézus]]-stb. Azaz a missera-Mithra valóban a Kis Évben értelmezett, a **fény növ**ekedésével kezdődő (első, felfelé szálló ágon lévő) hat hónapot, és a Nagy Évben értelmezett 12960 évet jelenti. (A [[B/Berossus\|Berossus]] címnél előjövő Enlil = 50° × 72 = 3.600 év egészen mást jelent.)  
+A "legyen egyelőre bármelyik Nap" alatt azt (nem) értem, hogy a Nap a Szíriuszhoz képest hol tart. Ezt kellene modellezni. Amit az eddigiek alapján a (kód)nevekből sikerült leszűrni, hogy a Tejút [[O/Ötevény\|Ötevény]] neve talán nem csak Út-Fény értelmű, hanem [[O/Ötven\|ötven]]hez is köze van.  
+Talán arra arra kell gondolni, hogy a Tejút egyik felén is van egy égitest (a Nap), és a másik felén is (Szíriusz – Procyon mintájára: illetve ezek a csillagok mutatnak rá arra, hogyan is mozog a Naprendszerünk). Éppen ahogy a [[K/Kutyafejű\|Cynocephalus]] címnél szereplő képen a [[T/Typhon\|Typhon]]i-kutyafejű alak a tejköpülő jobbfelén áll, vagy a [[S/Széth\|Széth]] címnél szerepő képen Széth áll a jobb oldalon. (Az hogy az ábrázolásokon mi kerül a bal és jobb oldalra, nem arbitráris: lásd [[B/Bal és jobb\|bal és jobb]].) A száz felezésével így utalhatnánk ötvennel a két oldalon álló erőre, bolygóra, égitestre, vagy arra a téridő-pontra, amikor Szíriusz és a Nap egymáshoz a nyolcast leíró mozgásukban közel ér. (Közben fentebb már leírtam, miről van szó.)  
+
+Itt egy évekkel korábban elkövetett fejtegetés következik:  
+Tehát a fentebb szereplő kelta aimsir valójában itt más eredetű szó lehet és missera felbontását is inkább ([[M/Mithra\|Mithra]] nevének első értelmezéséhez hasonlóan) Misz-Ra felhontásban kell értelmezni: a missera félév jelentése valójában egy másodlagos hozzákapcsolt jelentés, mert itt [[H/Hund\|hund]] nem 100-at, hanem ([[H/Hound\|hound]]) vadászkutyát jelentően helyettesítendő. A [[P/Precesszió\|precesszió]]s [[N/Nagy Év\|Nagy Év]]ben ugyanis a Hunor-Szíriusz és Magor-Solaris által egymáshoz képest végzett mozgás, orbitálás adja a fény-árnyék viszonyok változását és ennek a viszonyrendszernek motorja [[S/Széth\|Széth]] (valamint [[M/Magyarellenesség\|magyarellenesség]]) címnél írottak alapján is Hunor-Szíriusz: ezért került Széth is furkájára.  
+[[S/Széth\|Széth]] (valamint [[S/Szíriusz és a medvék\|Szíriusz és a medvék]]) címnél kimondtuk, hogy **Széth furkája** nem más, mint az (eredetileg Nagy Évben értelmezett) Szíriusz (vonzóereje, bináris-csillagkénti szerepe) által behatárolt [[N/Négy\|négy]] sarokpont, mely a Földről nézvést lehet a [[V/Világ négy oszlopa\|Világ négy oszlopa]]. Ez lehet a [[K/Kereszt – fix kereszt\|kereszt – fix kereszt]] értelme is. A [[K/Kereszt – változó kereszt\|kereszt – változó kereszt]] pedig a Tejútközpontból származó, emberiségre kifejtett hatásokat hivatott mutatni: a Nap és vele a Föld ezen a kereszten haladva éli meg a fény-árnyék viszonyrendszerben a Szíriusz forgatása (innen PJI forgás = [[F/Farkas\|farkas]] \[= kutya\] egyenlete) által okozott változásokat aszerint, hogy a Nagy Évben a [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]en vagy a [[S/Szűz-Halak tengely\|Szűz-Halak tengely]]en (afelé vagy attól elfelé) halad.  
+Az afelé és elfelé (mondhatjuk úgy is: ascending és descending, azaz felfelé és lefelé ág) értelme pedig az, hogy egyik ilyen tengely kétfelé osztja a Nagy Év körét: fényében növekedőre és csökkenőre. [[M/Mithra\|Mithra]] értelme alapján missera pedig a növekvő fénytartományt jelenti, de egyelőre tisztázatlan, miért csak kétfelé, miért nem négyfelé osztásról van szó (Mithra is inkább a reggeli Napként egy negyed körcikkelyt kellene megszemélyesítsen, bár [[V/Varuna\|Varuna]]-val ikert alkotva mégiscsak feles tagolású lehet[^2]).  
+Hasonló párhuzamokat fél-féléves megosztásra láttuk [[O/Osiris és Set\|Osiris és Set]] címnél/esetében (JM írja):  
+> A görög naptári év megosztottsága tükröződik a mitikus istenkirályok félévenkénti hatalomcseréjében; Héráklész[^3] és [[A/Atlasz\|Atlasz]] helycseréjében az Állatöv és a Tejút találkozásánál (a Tejút a nappályát két "féléves" szakaszra osztja).  
+> Atlasz nem más, mint Orion, aki valóban a vállán tartja az eget; egészen pontosan az Állatöv körét. Graves szerint Atlasz és Héraklész helycseréje a féléveket megszemélyesítő szent királyok hatalomcseréjét jelképezi. S valóban, a Tejút a kis évkört pontosan két félévre vágja. Ezért kell megküzdenie Héraklésznek Néreusszal, aki nem más, mint az előző munkában szereplő tengeri kapu őre, Néleusz. Ők szintén az Oriont képviselik. (A birkózás Antaiosszal ugyanezért kerülhetett ebbe és az előző epizódba is. Ő is az Orion csillagképet személyesíti meg.)  
+>
+> Az egyiptomi év aszályos időszakát és a Nílus kiáradását követő termékeny periódusát megszemélyesítő **Széth és Ozirisz szintén a "félévek urai**". Ebben a vonatkozásban az említett istenek mind a Napot képviselik.  
+
+Ennek a fél-féléves megosztásnak párhuzamait máshol is megtalálni:  
+> Maguk a napistenek is sokszor félszeműek. [[L/Lugh\|Lugh]]ról, a nyugati Nap istenéről mesélték, hogy egyik szemét mindig lehunyta, hogy varázslónak higgyék, mint Ódint. A kelta mitológiában félszemű napistenek harca folyik. A szembenálló felek Balor és unokája, Lugh. Történetük Akrisziosz és Perszeusz mítoszának pontos mása. Balor és Lugh görög megfelelőikhez hasonlóan a két félév napkirályait testesítik meg.  
+- Lásd e részt bővebb lére eresztve [[O/Osiris és Set\|Osiris és Set]].  
+
+Továbbá, a görögöknél:  
+> Macrobius (5. sz.) Saturnales című munkájában azt állítja (helyesen), hogy minden ókori istennek köze volt a Naphoz, de Apolónnak és Dionüszosznak különösképpen. "A vallás misztikus gyakorlata szerint – írja – a nappali szertartásokban a napot Apollónnak, az éjjeli szent cselekmények alkalmával pedig Dionüszosznak nevezik."  
+> Plutarkhosz azt állítja, hogy Dionüszosz majdnem olyan fontos szerepet játszott Delphiban, mint Apollón. Vélhetően mint az éjszakai (téli) Nap istene Apollón helyettesítette annak távollétében. Éves viszonylatban a két Nap nyilvánvalóan a félévek Graves által sokat emlegetett istenkirályait: az emelkedő és a hanyatló Nap félesztendején uralkodó [[I/Iker\|iker]]isteneket testesíti meg.  
+- A kérdés is felvetődik: [[H/Hunor és Magor\|Hunor és Magor]] is ilyen félesztendőkön utalkodó Napok? Lásd erről [[F/Fehér és fekete#Fehér és fekete Napistenek ill. mitológiai alakok – világos és sötét félév ikeristenségei\|fehér és fekete]] címnél.  
+
+Az ekliptika csatolt szinusz-görbéje is két (Kis Éves) félévre osztható. Igaz, a tagolás itt napéjegyenlőségi pontoktól pontokig tart, nem napfordulóktól fordulókig.  
+![assets/Missera_image1.png](/img/user/M/assets/Missera_image1.png)  
+
+Ami a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] (élet)útjának négyes felosztását, annak kettőre való egyszerűsítését illeti, egyrészt a csatolt szinusz-görbe mutat rá, miért kellett felezni, másrészt pedig az, hogy mi okoz fontosabb változást a Nap-Föld fényviszonyok napi, éves és [[N/Nagy Év\|Nagy Év]]es ciklusában.  
+
+#### Jankovics Marcell...
+
+...alábbi passzusa is végülis erről szól ([[J/Jézus\|Jézus]] címnél is szerepelt):  
+> A naphéroszok életrajzában az olyan sorsforduló, mint a születés (napszak szerint napkelte, éves szinten [[T/Téli napforduló\|téli napforduló]] vagy [[T/Tavaszpont\|tavaszpont]]) sokkal jelentőségteljesebb, mint az azt követő átmeneti életszakasz, a gyermek- és serdülőkor. Nem csoda, hiszen a kelő Nap lényegesen szembetűnőbb változást hoz az éjszakához képest, mint a délelőtti Nap a kelő Naphoz képest, a naptári fordulatok pedig szintén igazi fordulatot jelentenek. (Jézus evangéliumi élettörténetében, ami igazán csodálatos, az fogantatása és születése illetőleg feltámadása; ifjúságáról viszont nem jegyeztek fel semmi említésre méltót.)  
+- JM nem mutat rá a lényegre. Ahogy [[P/Pokol\|pokol]] címnél legutóbb szóltunk róla, eredetileg, csillagászati megfontoltásból, csak a (ráádásul nyilván először hyperboreai) Kis Évet figyelembevéve valóban az évet felező pont a tavaszpont volt: tavaszponttól őszponting jár a Nap az [[A/Alvilág\|alvilág]]ban, az [[E/Égi egyenlítő\|égi egyenlítő]] alatt. Később viszont, a [[F/Föld tengelyferdülése\|Föld tengelyferdülése]] után, a hyperboreai viszonyok megszűnésével és a migrációval, a precesszió felismerésével a Nagy Évben fontosabb téli és nyári napfordulós pontok alapján történő évfelezés vált fontosabbá (lásd erről Tilak féle ind anyagot [[B/Bal és jobb\|bal és jobb]]). Ez is rámutat, hogy a [[M/Mese\|mesé]]k \[igen, éppen meséknek hívjuk őket\] leglényegesebbjei a precesszióval foglalkoznak.  
+
+[[J/Jézus\|Jézus]] és [[F/Feltámadás\|feltámadás]] címnél pedig arról (is) volt szó, hogy egyes kultúrákban, aszerint, hogy mikor kezdik a naptári évet, elcsúszás van a nevezetes negyedelő pontok jelentősége alapján:  
+A Biblia szerint Jézus keresztrefeszítése nem napfordulón történt, hanem a tavaszi napéjegyenlőségkor.  
+> [[M/Mithra\|Mithra]]/[[A/Attis\|Attis]]/[[J/Jézus\|Jézus]] és társai a [[T/Téli napforduló\|téli napforduló]]n születnek, de mint láttuk, más és más kultúrkörben más és más az évkezdet (lásd [[T/Tavaszi évkezdés\|tavaszi évkezdés]]). A bibliai Jézus a tavaszi napéjegyelőségkor támad fel, mert a közel-keleten tavaszi évkezdés van (lásd még iráni [[N/Nowruz\|Nowruz]]).  
+
+#### Jankovics Marcell A Nap könyve...
+
+...című könyvének alábbi passzusa [[D/December\|december]] címnél is szerepelt:  
+> Az ókori szerzők különös fontosságot tulajdonítanak annak, mikor született Héraklész. Ovidius szerint akkor, amikor a Nap az Állatöv 10. jegyébe lépett, Theokritosz szerint viszont akkor, amikor a Nap az Állatöv 1. fokán állt. Mindkét vélemény arról tanúskodik, hogy napistent tiszteltek benne. Az Állatöv 10. jegye ugyanis a Bak, amelybe a téli napforduló esik. Ovidius szerint tehát a téli napfordulókor, a thébai újév napján született volna, mint Zeusz, Mithras, Krisztus. Ha viszont az Állatöv 1. fokán álló Nappal együtt jött a világra, akkor tavaszi Újévgyermek volt, mint Marduk, akt a tavaszi napéjegyenlőségkor született – vagy támadt fel közel-keleti felfogás szerint: a keresztény naptárban a két felfogás ötvöződik. **Jézus télen születik, de tavasszal támad fel**.  
+
+Hasonló problémával találkoztunk [[K/Kutya\|kutya]] bevezetőjében is, mikor azt nehezményeztük, hogy a keleti zodiákusban a Kutya miért a [[K/KUS\|KUS]]-Kosnak, miért nem a Baknak felel meg, illetve felveti mindez azt a kérdést is, hogy Iránban a (zoroasztriánus időktől) mai napig miért a márc. 20/21.-ére eső [[N/Nowruz\|Nowruz]] az újév napja, mikor nyugaton [[U/Újév\|újév]] január elsejére esik.  
+A mások adatait követő [[J/Johan Oldenkamp\|Johan Oldenkamp]] szerint sem véletlen az újév napjának erre a bizonyos napra esése, mert kb. ekkor áll pályáján a Föld a legközelebb a Naphoz és Karl-Heinz Homann (és Walter Cruttenden) adata szerint ekkor áll a Föld, a Nap és a Szíriusz is egy vonalban.  
+A korábban ennél a címnél rengeteg MISZ-szel kapcsolatos infot tartalmazó, ott is szereplő [[M/MISZ\|MISZ]] címnél lévő csatolt képet lásd még erről.  
+
+[[M/Middle\|Middle]] címnél is szó volt a téridő felezéséről:  
+Az olasz `metà` = fél (két részre osztással nyert), spanyol `mitad` = fél (melyeket a latin `medius` = közép szóból eredőnek tartanak, mert hát nyilván a középen felezés adja a két félt) is arról bizonyosítanak meg minket, hogy az M-T (mint [[M/Metsz\|metsz]]) és M-SZ (mes, MISZ) vázú, az eget két félre osztó Tejutat jelölő szavak nyomán alakult ki valójában a [[K/Közép\|közép]] és felezés jelentés. (Már közép szavunk is érdekes, mert köz kapcsolódhat a [[G/Göd\|Göd]]/[[K/Köd\|köd]] nevekhez.)  
+
+A kos is szarvas állat, és mivel [[M/MISZ\|MISZ]] címnél voltak jelentésátfedések szarvas és kos (és más szarvas állatok között), nagyon is elképzelhető, hogy a [[K/KUS\|KUS]] funkciója egy a MISZ/Mes-ével: nemcsak világfa/életfa, hanem azzal azonos középen[^4] lévő, téridőt kétfelé osztó, azt felező szarvasállat neve is.  
+
+Végsősoron a kiinduló Magyar Ilona neve kell legyen (ahol a magyar megint a tündér); a magyar név saját magyar belső fejlődési vonalon alakult át magy > mad > mat/met > mit > misz/mesz változatokra, melyeket a magyar nyelv külön nem tartott meg, de az utódnyelvek átvették őket.  
+[[M/Magyar\|Magyar]] címnél szerepelt:  
+Magyar Mag-Yar tagokra felbontása annak bizonyítására jöhetne jól, hogy a Tilak Orion című könyvének 92. oldalán adatolt aveszta `madhyaryo` = évközép (\*mad/mid-jár) szót a magyar szóból vezessük le. (A dh páros is árulkodó, hogy gy hangra utal, de a dhy egymás után meg végképp: nem tudták leírni a gy hangot már!)  
+Dr. Geiger adata szerint a primitív aveszta naptár a nyári napfordulóval kezdte ugyanis az évet (ellentétben azokkal az indiaiakkal, akikből/től az irániak ki- vagy elváltak).  
+Ezek szerint a hunok Magyar/Magor ünnepének hívták volna a nyári napfordulót? Nagyon úgy tűnik. Ez érdekes, mert a saját Napuk neve K-N vázú. Arról is lehet szó, hogy itt valójában magyarok is éltek és a maguk Napja után hívták az ünnepet így.  
+
+Egyelőre azzal zárom le itt a mondandót, hogy [[M/Missera\|missera]], [[A/Aranykor és annak vége\|Aranykor és annak vége]], [[G/Galactic centre\|Galactic centre]], [[G/Galactic anticentre\|Galactic anticentre]], [[D/Dzsed\|dzsed]], [[Z/Zep Tepi\|Zep Tepi]], [[C/Crucifixion\|crucifixion]], [[C/CSÁR\|CSÁR]], [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]], [[K/Kereszt – fix kereszt\|kereszt – fix kereszt]], [[K/Kereszt – változó kereszt\|kereszt – változó kereszt]], [[T/Tejút-kapuk\|Tejút-kapuk]], [[V/Világ négy oszlopa\|Világ négy oszlopa]], [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]], [[H/Hunor és Magor\|Hunor és Magor]], valamint [[Y/Yuga cycles\|Yuga cycles]] és továbbá [[S/Szíriusz mint istenanya\|Szíriusz mint istenanya]], valamint [[H/Hunahpu\|Hunahpu]], [[S/Sphinx\|Sphinx]] és [[H/HAT\|HAT]], [[H/Hét\|hét]] címnél szereplő adatok, diagramok, ábrák, skiccek alapján elegendő információm kell legyen arra, hogy felvázoljam a képet Magor-Szíriusz helyzetéről és a Tejútközponthoz képest való elhelyezkedésünkről.  
+
+Joscelyn Godwin Arktos The Polar Myth című könyvének 29. oldalán Jean-Sylvain Bailly gondolatait osztja meg. ([[B/Bailly, Jean-Sylvain\|Bailly, Jean-Sylvain]] személye azért érdekes, mert a 18. században még úgy tűnik, élt annak hagyománya, hogy a szkíták az első nép: ezt ő ki is mondja.)  
+Az ott írottak alapján missera fél év jelentésére vélhetően szintén hyperboreai eredetet mondana (emlékezzünk MA írására is: 1 nap volt 1 (fél)év). Meg is említi, hogy az ő idejében a kamcsatkaiak még mindig 6 hónapos évvel számoltak (kérdés, hány naposak voltak a hónapjaik).  
+
+  
+  
+  
+  
+  
+  
+-   
+  
+-   
+  
+  
+  
+
+
+[[B/Bal és jobb\|Bal és jobb]] címnél és Tilak Orion című könyvében írottak alapján kiderül, hogy a védikus ind nyelvben a (Napút) félév(ének) neve ayana, ahol `yana` = (Nap)út. Azaz nem Mitra nevével számol.  
+Másutt (130. oldal lábjegyzetében) is az áll, hogy elsődlegesen filológiai bizonyítékok állnak rendelkezésre arra nézve, hogy ketté tagolták az évet.  
+Erről a kettős tagolásról lásd még [[J/Janus\|Janus]], mely János név lehet jön szavunkból eredő vagy inkább (a latin `annus` = év szóhoz is kötve; lásd [[A/Anna\|Anna]], [[A/Annual\|annual]] és [[A/Anus\|anus]]) An/Ana, azaz a Tejútanya [[V/Vulva\|vulvá]]jához, [[K/Köldök\|köldök]]éhez köthető. Másutt már volt szó a hindu [[A/Anuradha\|Anuradha]] nakshatráról is ilyen vonatkozásban, valamint ugye a Tilak által 133. oldalán taglalt szavakban is a jön vagy az An(a) szavakból lehet kiindulni: nála `ayana` = félév, `hayana` = év.  
+
+De ha már a két és két kapu (minduntalan) szóba jött, vegyük észre, a hun-germán [[G/Gate\|gate]] is éppúgy K-T vázú, mint a [[K/Két\|két]], [[K/Köt\|köt]] és [[K/Kutya\|kutya]] szavaink. Azaz az elsődleges bontás kétfelé történik, és hun (alakú) [[K/Köd\|köd]] = tej is rámutathat, hogy itt a Tejút általi kétfelé bontás a lényeg. Göd – God pedig nem lehet más, mint maga [[S/Széth\|Széth]] vagy anyja, [[N/Nut\|Nut]]. (Lásd erről cikket betéve [[G/Göd\|Göd]].)  
+[[M/Marha\|Marha]], [[T/Tehén\|tehén]], [[M/Mrigashira\|Mrigashira]] és [[O/Ötven\|ötven]] címnél is szerepelt:  
+
+Érdekes lehet még annak vizsgálata (Tóth Gyula Szkítiától Maghrebig c. blogja alapján is), hogy marha szavunknak régen lehetett terület (állam, ország) jelentése is, mint ahogy a mai [[D/Danmark\|Danmark]] neve is ezt mutatja. Ahogy [[M/Margin\|margin]] címnél volt róla szó, hogy a területek határait is ez a szó jelölte (vagy épp ennek a révén, ez által jelölte ki az ország területét).  
+
+Marha a jószágon kívül, birtokot, tartományt jelentett, például Vuangariorum Marcha. Németh Lajos bajor király Regensburgban kelt oklevele az avarok földjét így említi: terra Avarorum, majd "in ipsa marcha."  
+
+Persze hogy jelöl ki marha területet? Alsó-Egyiptomban létezett Tehenu tartomány név, mely hasonló elnevezés lehetett, mint a mai Dániáé.
+
+Itt emlékezhetünk arra, amit MA írt (lásd bővebben [[G/Good\|good]] és [[T/Tehén\|tehén]]):  
+> Jó (gyó) szavunknak nyelvünkben régen folyó értelme is volt. Márpedig **őseink a folyókat tejelő, tápláló tehenekkel is szokták volt jelképezni**, úgyhogy ez ismét az égi nagy, fehér tejfolyóra: a [[T/Tejút\|Tejút]]ra, az Éganyára vezeti vissza gondolatainkat.  
+
+Mármost arról [[C/Canton\|canton]] és [[C/Continent\|continent]] címnél is volt szó, hogy a területeket leginkább vizek, szárazföldön folyók határolják el egymástól (ma is: sok esetben a folyó jelöli ki a megye- vagy országhatár vonalát).
+
+Határolni viszont nemcsak földi területeket lehet, hanem elsősorban ([[S/Szakasz\|szakasz]]olni; lásd erről is [[N/Nome\|nome]], valamint lásd még [[S/Szakrális geometria\|szakrális geometria]]) égi területeket, a [[T/Téridő\|téridő]]t kellett. Úgy tűnik, Tilak Orionjában foglaltak alapján is, hogy az ég egyik szakaszolási, felezési módja a Skorpió-Nyilas közötti, JMJ adata szerint a Nyilas 6. fokára belőhető Tejútközpont (lásd [[G/Galactic centre\|Galactic centre]]) mellett az Orion-Szíriusz csillagzatokat, csillagokat magában foglaló [[N/Nyíl\|nyíl]]/[[T/Tír\|tír]]/[[T/Tistrya\|Tishtrya]]/[[M/Mrigashira\|Mrigashira]] csillagkép kellett legyen (márpedig ezek: a Tejút két ezen fontos helye egymással szemben álló helyeket jelölnek[^5]).  
+Kimondottan a(z ezek szerint mégsem oly régi!) Mrigashira név is utalhat arra, hogy egyrészt a Tejúton járunk, másrészt területeket is felosztunk.  
+(Az idő szakaszolása, határolása is kötődhet, ha nem is a marhához, de [[M/Mars\|Mars]]hoz, a Mars havához, a későbbi márciushoz. (Mrigashirsa holdházban, a Skorpióban a Mars uralkodik is.)  
+Ugye a Kos havaként március azért is alkalmas erre a szerepre, mert a nyugati asztrológia szerint a Kos 0. fokához mérték a [[T/Tavaszpont\|tavaszpont]] elmozdulását is.)  
+
+#### Jankovics Marcell Ahol a madár se jár...
+
+...című könyvének alábbi passzusa [[G/Gyűrű\|gyűrű]], valamint [[O/Osiris és Set\|Osiris és Set]] címnél is szerepelt:  
+> A Nap éves útja a valóságban, de a mitopoétikus felfogás szerint is, két félkörre, félévre szakad. A napéjegyenlőségi pontok szerint egy téli és egy nyári fél évre, a napfordulók szerint az emelkedő és a hanyatló Nap fél esztendejére. E két fél év közül valójában csak az egyik a Napé, mégpedig az, amelyikben "nyeregben van"; az egyik felállásban ez a nyári fél év, a másikban az emelkedő fél esztendő. A másik fél év az a fél gyűrű, amelyik \[a mesékben\] mindig a vízbe vész; ez a nappályának a téli fele, mely az [[E/Égi egyenlítő\|égi Egyenlítő]] – a "vízvonal"! – alá merül, a "vizes" csillagképek közé. Jelképes értelemben persze a mesehős ezt a fél gyűrűt is felhozza a víz alól, a hal, a nagy béka szájából – ez a [[B/Béka\|béka]] ugyanaz a ktonikus varangy, amelyik a napostyát a nyelve alatt tartja –, hiszen a Nap, miután megteszi az Egyenlítő alatti sötét, téli félutat, visszatér aranyos, nyári félútjára.  
+> A fél gyűrű felhozatala a víz alól a [[P/Precesszió\|precesszió]]nak is alkalmas metaforája lehetne éppen; a földtengely billegése következtében ugyanis a téli félút, ami jelenleg "víz alatt" van, kereken 13000 év múlva szárazra kerül, és nyári félút lesz, míg a jelenlegi nyári félút a vízbe merül, téli félút lesz.  
+- Jankovics Marcell nem is gondolná, mennyire helyénvaló egyes mesék és mítoszok [[N/Nagy Év\|Nagy Év]]ben való vizsgálata, Szíriuszostul-mindenestül.  
+
+Michel-Gerald Boutet Druidical Astrology című dolgozatában igen érdekes dolgokat ír. Az első fele [[P/Pleiadok\|Pleiadok]] címnél is megvolt:  
+> The key constellations for the understanding of early I.E. astrology are certainly the Bootes, Ursa Major and Taurus star groups. These, form a mythological motif which describe the narrow relationships between sky observation and farming practices during the Neolithic period. This involves Bootes, "the ploughman" and the Septemtrion stars which form the seven principle stars of Ursa Major. The Alpha star of Bootes was called Arcturus and it was said to represent "the watcher of the seven oxen". These stars were called so because of their slow rotation around the Pole Star, Alpha Draconis and remindful of the movement of bulls as they plough.  
+> The Aryan wise men maintained that from these stars emanated seven rays that influenced our solar system, and that in turn, these seven forces were governed by seven deities whose bodies in turn, were manifested by the seven planets. From this cosmological standpoint, the seven Rishis or stars from the Great Plough (Ursa Major) were in relation to the Pleiades, the Seven Sisters, their wives. In Irish lore, they were also called "the seven sisters." One of these was called the "Old Woman", or Hag of [[B/Beare\|Beara]] who appears as a triune goddess with her sisters [[C/Cailleach\|Cailleach]] Bolus and Cailleach Corca Duibhne. She was also named Bui (Yellow) wife of Lugh, the polytechnician. In the Book of Lecan it is said that she had seven youthful periods, marrying seven husbands and having **fifty** foster-children, the primordial founders of nations.  
+> **The Pleiades express the female aspects of the seven cows as opposites to the male Rishis represented by the seven bulls. These fourteen powers combined, act through seven of the astral signs in accordance with the Brahma (Dagda) via the unseen spiritual Sun often referred to, by esotericists, as "the Great Central Sun" or Spiritual Sun**. Yogins understand this as the guiding principle of the three rays of energy emanating from the cosmic centres. Neo-druids claim to a similar notion in the form of the Tribann (three rays). These invisible forces, seen only through the inner eye are termed as "akashic", "electric", and "pranic". In turn, these seven Rishis, take part in the seven cosmic orders of the universe. On earth they manifest themselves as the first race of primeval giant Manu who fathered the seven Manavas and who sired the first humans.  
+> \[...\]  
+> The seven principle Fairy stars of the Pleiadean group, were at some remoter time part of the Polar groups. Slowly, they migrated to the summer regions thus creating the allegorical shift from the kingdom of Pwyll to that of [[A/Arawn\|Arawn]]. Since then, the Pleiades have received a negative influence.  
+![assets/Missera_image2.png](/img/user/M/assets/Missera_image2.png)  
+> The Welsh texts illustrate how Arawn was the hunter king of Annwn (Andumnon), "the No-world", name of a metaphysical concept of one of the "other worlds", which was confused by some people with the \*Anderodumnon = the "Nether World."  
+
+Az alsó/sehol/túl világ nem azonos az alvilággal; [[A/Annwfn\|Annwfn]] a kelták másvilága, se mennyország, se pokol, hanem egy e világgal párhuzamos világ.  
+> They go on to mention that Pwyll of Dyfed while hunting in Gyn Cuch notices a pack of strange hounds onto a stag, onto which he sends his own hounds. These were Arawn's hounds. For this, he rebukes him of his discourtesy. To make amends, Pwyll is forced to comply to Arawn's conditions; slay his enemy Hafgan and in his guise, share the bed of Arawn's queen for one year without making love to her. Pywll fills these conditions and is permitted to return to Dyfed where he is hailed not only as their king but as lord of Annwn as well.  
+> **This myth expresses the division of time into two half-years**, as the old Celtic notion of Semorotlio and Giiemorotlio: Hafgan, \*Samocandos = "Summer White", represents the Bull of the warm and light half, while the Stag, Pwyll, represents the other half's cold and dark aspects. "From the Dragon came a Bull, and from the Bull a Dragon, the Cow-keeper's (Bootes) dark is under a mountain (Mount Haemus)" sang the initiates of the Orphic mysteries. And in the Bhâgavata Pûrana, Rîchabha, the Ox, is called "son of Mêru-Dêvi," the cosmic polar axis. Mount Meru was the World Mountain of the Vedas.  
+- Folyt. lásd Druidical Astrology című írásában.  
+
+## Lábjegyzetek
+
+[^1]: Lábjegyzet:  
+Száznyolc túl hosszú és bonyolult. Az egyszerűség kedvéért rövidül le: száz egy szótagú és így kifejezi a kilences számrendszerbeli száznyolcat. Hasonlóképp a Napra azt mondjuk, hogy felkel és lenyugszik, holott tudjuk/tudták, hogy ez csak a Földről nézve van így, valójában a Föld kerül olyan pontra, hogy a Nap felkelni és legyugodni látszik.  
+
+[^2]: Lábjegyzet:  
+Az ókori Egyiptomban is négy Napot azaz Napminőséget különböztettek meg: a kelő (neve Heper), delelő és a lenyugvó Nap (Atum?) alkotta a nappali triászt, mely kiegészült az éjszakai (halott) napisten (Ozirisz) személyével.  
+
+[^3]: Lábjegyzet:  
+Másutt JM A Nap könyvének 204. oldalán Héraklész és Apollón párosáról szól, mint hanyatló és emelkedő Nap féléves urairól. A 222. oldalon bővül a kör: a Héraklésszel szemben álló halott Napistennek beillő alakok közül Augeiász és Eurüsztheusz neve is említésre kerül.  
+
+[^4]: Lábjegyzet:  
+Persze az [[E/Égi egyenlítő\|égi egyenlítő]] (ahol az Orion övcsillgai ma vannak) is felezi az eget:  
+Tekintve, hogy az égi Egyenlítő a Rák- és a Baktérítő közt, épp középen felezi az ég gömbjét, és áthalad az Orion csillagképen, a triász legfőbb személyére, Mithrasra úgy nézhettek fel, mint az Egyenlítő urára.  
+Másutt:  
+A Nap éves útja a valóságban, de a mitopoétikus felfogás szerint is, két félkörre, félévre szakad. A napéjegyenlőségi pontok szerint egy téli és egy nyári fél évre, a napfordulók szerint az emelkedő és a hanyatló Nap fél esztendejére.  
+
+[^5]: Lábjegyzet:  
+Az egyik legfontosabb dolog a Tejúttal kapcsolatosan, hogy **két félgömbre osztja az eget**. A [[H/Hostile\|hostile]] címnél taglalt [[O/Oszt\|oszt]] is érdekes szó, annál is inkább mert alaki párja az [[U/Üst\|üst]], melyről JM azt írja, hogy animista felfogás szerint a föld közepe (köldöke) üst alakú [[G/Gödör\|gödör]], az ég "megfordított" alakja: a nyílást el lehet zárni, hogy az ártó "szellemek" ne jöhessenek ki belőle.  
+Ezen üst viszont tartalmazza azt az üs, us szócskát, melynek Varga Géza szerinti képjele a női szeméremnyílás, mely nyilvánvalóan a Tejútközpont hasadéka.  
