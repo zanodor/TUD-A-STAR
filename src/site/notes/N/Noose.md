@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Noose/","title":"Noose","tags":["formatted🟢","containstransclusions"],"created":"2023-10-15T09:23","updated":"2023-10-15T09:25"}
+{"dg-publish":true,"permalink":"/N/Noose/","title":"Noose","tags":["formatted🟢","containstransclusions"],"created":"2023-10-15T09:23","updated":"2023-10-16T05:55"}
 ---
 
 
@@ -26,5 +26,9 @@ Hasonló szó az inkább [[N/Net\|net]]-nél tárgyalandó latin `nassa` = gally
 
 </div></div>
 
+
+> In a pass of the Peruvian Andes stand two ruined towers on opposite hills. Iron hooks are clamped into their walls for the purpose of stretching a net from one tower to the other. The net is intended to catch the sun.  
+> On the top of a small hill in Fiji grew a patch of reeds, and travellers who feared to be belated used to tie the tops of a handful of reeds together to detain the sun from going down.  
+> The intention perhaps was to entangle the sun in the reeds, just as the Peruvians try to catch him in the net. Stories of men who have caught the sun in a noose are widely spread.  
 
 Lásd még [[K/Knot\|knot]].  
