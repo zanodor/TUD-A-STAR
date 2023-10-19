@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/L/LI/","title":"LI","tags":["titleandheadingonedontmatch","multipleentries","stitched","formatted🟢"],"created":"2023-10-09T04:34","updated":"2023-10-09T04:34"}
+{"dg-publish":true,"permalink":"/L/LI/","title":"LI","tags":["titleandheadingonedontmatch","multipleentries","stitched","formatted🟢"],"created":"2023-10-09T04:34","updated":"2023-10-19T03:29"}
 ---
 
 
 # LI 1)
-
-
 
 #### Péterfai János királynak mondja:  
 
@@ -25,7 +23,7 @@ LI az alábbiak szerint viszont nem lehet fa (PJI írja):
 
 # Li 2)
 
-A `virsli`, `nudli`, `nokedli`, `hokedli`, `sámli`, `dekli`, `kifli`, `stangli`, `kamásli`, `fásli`, `pemszli`, `csúzli`, `cetli`, `sramli`, `stikli`, `verkli`, `spicli` és hasonló szavak kapcsán jutott eszembe: a germán -li lehetne kicsinyítés is?  
+A `virsli`, `nudli`, `nokedli`, `hokedli`, `sámli`, `dekli`, `kifli`, `stangli`, `kamásli`, `fásli`, `pemszli`, `csúzli`, `cetli`, `sramli`, `stikli`, `verkli`, `spicli` és hasonló szavak kapcsán ötlött fel: a germán -li lehetne kicsinyítés is?  
 A [[D/Dear\|dear]] címnél említett török `değerli` = értékes (drága mondhatnánk) szóban a -li végződés nyilván melléknévképző.  
 Ha már török, a -li végződés megvan [[G/Göbekli Tepe\|Göbekli Tepe]] nevében, ahol Göbek = Köpek = kutya, és LI valóban lehet király. De nyilván ez a végződés már egy bejáratott, későbbi korból való.  
 Ugyanígy a grúz `jaĝli` = kutya lehet Tűz Király értelmű, miután a roma `jag` = tűz jelentésű. Vagy inkább li = lich képző.  
