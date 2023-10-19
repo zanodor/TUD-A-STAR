@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Q/Quit/","title":"Quit","tags":["formatted🟢"],"created":"2023-10-19T02:53","updated":"2023-10-19T02:53"}
+{"dg-publish":true,"permalink":"/Q/Quit/","title":"Quit","tags":["unformatted⚪"]}
 ---
 
 
 # Quit
 
 Otthagy, kilép. Az egyik olyan szó, ahol a ki- igekötőnket tényleg számba lehetne venni.  
-Azonos alakú vele a [[Q/Quince\|quince]] szónál előjövő német quitte.  
+Azonos alakú vele a [[Q/Quince\|quince]] szónál előjövő német `quitte`.  
