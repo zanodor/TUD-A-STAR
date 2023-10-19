@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Z/Zsuzsanna/","title":"Zsuzsanna","tags":["formatted🟢"],"created":"2023-10-18T07:55","updated":"2023-10-18T07:55"}
+{"dg-publish":true,"permalink":"/Z/Zsuzsanna/","title":"Zsuzsanna","tags":["formatted🟢"],"created":"2023-10-18T07:55","updated":"2023-10-19T03:33"}
 ---
 
 
@@ -18,3 +18,4 @@ A héber `shushan` = liliom szó a PJI által másutt említett liliomtiprás id
 > Sus-Ana means Virgin Mother (Magyar `szűz` and `ana`, `anya`). The lily meaning in Hebrew comes from the Magyar concept of "liliomtiprás," meaning – in "flower language" the rape of a minor/virgin. Lily has connotations with soul (Sumerian `lil`, Magyar `lél`, `lélek`; `lehel`).  
 > Before Hebrew, there was Aramaic, Assyrian, Akkadian, Sumerian and of course the archaic form of Magyar, which did not change much at all (as you can see).  
 > The text in the Book of Daniel depicts attempted rape. Semites weeded out Goddesses and consider Virgin Mary a whore. By all means embrace their "interpretations."  
+- Héber éppen még lehetne, de nem a szemita héber.  

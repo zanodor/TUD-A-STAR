@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csalit/","title":"Csalit","tags":["formatlooksokayonsmallerfiles"],"created":"2023-10-18T08:40","updated":"2023-10-18T08:40"}
+{"dg-publish":true,"permalink":"/C/Csalit/","title":"Csalit","tags":["formatted🟢"],"created":"2023-10-18T08:40","updated":"2023-10-19T03:28"}
 ---
 
 
