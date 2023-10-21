@@ -1,21 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/M/Maid/"}
+{"dg-publish":true,"permalink":"/M/Maid/","title":"Maid","tags":["formatted🟢"],"created":"2023-10-21T03:53","updated":"2023-10-21T04:03"}
 ---
 
----
-title: Maid
-aliases:
-  - maid
-tags:
-  - formatted🟢
-share: true
-dg-publish: true
-dg-created: 2023-10-21T03:53
-dg-updated: 2023-10-21T03:53
-dg_upload_status: 🟢
-date created: 2022-12-14
-date modified: 2023-10-21
----
 
 # Maid
 
@@ -25,6 +11,7 @@ Lány, lánycseléd.
 
 > Azt is tudjuk már, hogy a német `Mädel`, `Mädchen` (médel, médhen): lány, angol [[M/Maid\|maid]] (méd): lány, szűz és megfordítva dam, dáma (lásd [[D/Dame\|dame]]) szavak mind nőt jelentő szemere szócsoportbeli szavak, ugyanúgy valamint az árja nyelvekben meglévő [[M/Mater\|mater]], [[M/Mother\|mother]], Mutter: anya szavak is, amelyek hogy valamikor negatívum azaz völgyelet sőt árok jelentésűek is kellett legyenek, ezt legjobban az ezekkel teljesen azonos magyar [[M/Meder\|meder]] szó bizonyítja.  
 - MA írhatta volna még az ír `maighdean` szót is, maid és [[M/Maiden\|maiden]] jelentéssel, bár lehet, hogy ez az angolból került oda.  
+Továbbá a völgyelet, azaz meder szón kívül sok más szóalak létezik alakváltozatként. Lásd [[M/Magyar\|magyar]] és más címnél.  
 
 [[M/Mátka\|Mátka]] szavunk, amit ugyan mind férfiról, mind nőről szokták érteni, gyöke is illene, bár [[M/Mate\|mate]] szóban jobban ül. Hogy a nőiség a vízzel volt kapcsolatos, erről MA szintén ejtett szót, de [[M/MATA\|MATA]], [[M/Mad\|mad]] (továbbá [[N/Navel\|navel]], [[N/Navy\|navy]], stb.) szócikkeknél is lesz szó ittasságról ill. magzatvízről.  
 Azóta pedig tömkelegével találtunk példákat arra, hogy a mocsár, láp, víz, bujaság, alsó helyen lét mind a nőiséget, az anyagot jeleníti meg.  
