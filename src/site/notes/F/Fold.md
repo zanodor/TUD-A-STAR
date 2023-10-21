@@ -1,18 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fold/","title":"Fold","tags":["formatted🟢"],"created":"2023-10-10T10:49","updated":"2023-10-10T10:49"}
+{"dg-publish":true,"permalink":"/F/Fold/","title":"Fold","tags":["formatted🟢"],"created":"2023-10-10T10:49","updated":"2023-10-21T04:28"}
 ---
 
 
 # Fold
 
-
-
 Felhajt, összehajt.  
 
-#### A Czuzor-Fogarasi szótár adata:
+#### A Czuczor-Fogarasi szótár adata:
 
 > FOLT (1)  
- (fol-t, am. föltett valami, rokonok vele a német Falte, angol fold, spanyol falta, lengyel, cseh fald, latin plica stb.) fn. tt. folt-ot. 1) Darabka szövet, rongy, melyet valamely ruhaneműn szakadt lyukra föl- vagy rátesznek, melylyel a szakadt ruhát vagy ruhaneműt kiegészítik, öszveakgatják. Foltot vetni a térden kikopott nadrágra. A ruha folttal tart. Milyen a zsák, olyan a foltja. Folt hátán folt, még azon is folt. (Km.) Megtalálta zsák a foltját. (Km.).
+>  (fol-t, am. föltett valami, rokonok vele a német Falte, angol fold, spanyol falta, lengyel, cseh fald, latin plica stb.) fn. tt. folt-ot. 1) Darabka szövet, rongy, melyet valamely ruhaneműn szakadt lyukra föl- vagy rátesznek, melylyel a szakadt ruhát vagy ruhaneműt kiegészítik, öszveakgatják. Foltot vetni a térden kikopott nadrágra. A ruha folttal tart. Milyen a zsák, olyan a foltja. Folt hátán folt, még azon is folt. (Km.) Megtalálta zsák a foltját. (Km.).
 
 A [[F/Folt\|folt]] és a [[F/Föld\|Föld]] szavak nyilvánvalóan rokonok, nem is akárhogy. A [[F/Fault\|fault]] is nőiségi, ahogy a lap is, mely megfordítottan is előfordul (például [[P/Plate\|plate]]).  
 
