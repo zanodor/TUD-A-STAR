@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Stand/","title":"Stand","tags":["formatted🟢"],"created":"2023-10-17T09:33","updated":"2023-10-17T09:33"}
+{"dg-publish":true,"permalink":"/S/Stand/","title":"Stand","tags":["formatted🟢"],"created":"2023-10-17T09:33","updated":"2023-10-21T04:24"}
 ---
 
 
@@ -8,13 +8,13 @@
 [[A/Áll\|Áll]] alapjelentésű. Számításba jöhet a kő, melyek mint [[M/Menhir\|menhir]]ek, [[O/Obeliszk\|obeliszk]]ek, kiállják az idő próbáját; ezért építették a kőköröket is. [[I/Isztán\|Isztán]], [[I/Isten\|Isten]] és [[S/Stone\|stone]] vonalon volt szó a kőről. Különösen az Isztán szó egyezik az indo-európai \*sta-, állni gyökkel. [[D/Dolmen\|Dolmen]] címnél is volt szó asztalról, minthogy a holtakat (Istenhez visszajutattandókat) oda terítették ki.  
 Legutóbb [[H/Hála\|hála]] címnél is szóba került (minthogy a magyar ember hálás az életért és a halálért is), hogy az [[A/Áll\|áll]] szavunk a [[H/HAL\|hal]] ellenpárja lehet, azaz egyazon gyökkel ([[A/AL\|AL]] lehet felső és alsó értelmű is) fejezi ki a két fogalmat. Az indo-európai nyelvekben így ezt nem találjuk meg, de állni valóban lehet Istenhez köthető.  
 
-Érdekes az Aczél József által felhozott magyar támaszt szavunk rokonítása a göröggel: `hiszta` = állít, támaszt, és `(ki)szta-ma` = támaszt. H lekoptatással `iszta` = állít. Támaszt szavunk talán thamaszt kiejtésű lehetett régen. (Az angol, spanyol [[T/Th\|th]] hangok megvoltak az ősmagyarban is.)  
+Érdekes az Aczél József által felhozott magyar támaszt szavunk rokonítása a göröggel: `hiszta` = állít, támaszt, és `(ki)szta-ma` = támaszt. H lekoptatással `iszta` = állít. Támaszt szavunk talán \*thamaszt kiejtésű lehetett régen. (Az angol, spanyol nyelvekből ismert [[T/Th\|th]] hangok meg kellett hogy legyenek, ha nem is az ősmagyarban, annak nyelvjárásaiban.)  
 Hasonló esetet láttuk, ha nem is állít, de emlékoszlop német neve kapcsán, amikor Práczki István Szittya Biblia című könyvében szintén [[I/Isten\|Isten]] szavunkat hozza fel.  
 Az összes \*sta indo-európai gyökön nyugvó szó eredetet az [[A/Asztal\|asztal]] szavunk aszt elvont gyökéhez is köthető. Hiszen az asztal áll. De asztal a [[D/Dolmen\|dolmen]] és a [[M/Mesa\|mesa]] és [[M/MISZ\|MISZ]] címnél előjövő perzsa `mīz` is.  
 
-#### A Czuzor-Fogarasi szótár adata:
+#### A Czuczor-Fogarasi szótár adata:
 
-> ASZT elvont gyök, melyből asztag, asztal és ezek származékai erednek. Egyezik a megfordított tesz önálló gyökkel, s rokona a hellen: staw, isthmi, latin: sto, statuo, szanszkrit: sztha (áll), szthasz (állít, helyez) szthal szthul (halmoz, rak), német: stehen, stellen, szláv: sztojím, sztáwám, stb. Jelentése tehát: valahová tevés vagy állítás, helyezés, rakás.  
+> ASZT elvont gyök, melyből asztag, asztal és ezek származékai erednek. Egyezik a megfordított tesz önálló gyökkel, s rokona a hellen: `staw`, `isthmi`, latin: `sto`, `statuo`, szanszkrit: `sztha` (áll), `szthasz` (állít, helyez) `szthal`, `szthul` (halmoz, rak), német: `stehen`, `stellen`, szláv: `sztojím`, `sztáwám`, stb. Jelentése tehát: valahová tevés vagy állítás, helyezés, rakás.  
 
 Elképzelhető eztán, hogy az indo-európai \*sta- gyök kb. "Istennek emlékül állít," vagy szobor, [[B/Bálvány\|bálvány]] értelmű. Az Ipolyi Arnold Magyar mythologia című könyvének 69. oldalán levő lábjegyzetes adat is erre vonatkozhat:  
 > Klaproth (asia polygi.) a csucsencek polaramerikai népnél: `istlä` isten nevet említ. Gyarmathy (aff. 256), és Révai (ant. 1. 425), szerint közelítenének némely finn népségeknéli elnevezések is, mint az ariaknál um. `es`, assanoknál: `ösz`, lumpoloknál (?) `ets`. Fuchs orv. és neje, a kazani tatároknáli útok leirásában említik, hogy a cseremiszeknéli egyik falujok [[K/Keremet\|keremet]]jén (áldozóhely) álló bálvány `Eshta`-nak neveztetik, Reguly kit erre személyesen is figyelmeztettek, s ki ismét vélem volt szíves közleni, azt a cseremisz `stan` – csinál ige part. pres. `esta` – csináló, teremtő, értelmével véli magyarázhatónak. Ide vágóbb finn találkozásokat még lejebb tárgyalandunk.  
