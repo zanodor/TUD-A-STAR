@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/A/Alma Mater/","title":"Alma Mater","tags":["formatted🟢"],"created":"2023-10-11T04:42","updated":"2023-10-11T04:42"}
+{"dg-publish":true,"permalink":"/A/Alma Mater/","title":"Alma Mater","tags":["formatted🟢"],"created":"2023-10-11T04:42","updated":"2023-10-21T03:36"}
 ---
 
 
+
+
 # Alma Mater
-
-
 
 Az alábbiakban több fogalomról is lesz szó. Mi az alma itt valójában? [[A/Alma\|Alma]], állam, [[A/Álom\|álom]], [[E/Elm\|elm]], kelta `ailm`[^1]?  
 
@@ -51,7 +51,7 @@ Az [alábbi](https://qr.ae/TZfUX1) Quora kérdésre adott angol cikkemben is fel
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Robert Graves szerint a fenyő, pontosabban az ezüstfenyő az ír-kelta druidák titkos "fa-ábécéjének" első betűjeként (A mint `Ailm`, azaz "ezüstfenyő"), egyúttal a napév első napjának a szent fája, ugyanakkor a Nagy Istennőnek mint a Nyilas hónap úrnőjének, az "ezüstös" Artemisz (Diana) hold- illetve tejútistennőnek az egyik növényi formája, a születés, újjászületés jelképe is volt Európában (délszaki megfelelője a pálma), így kultusza nemcsak az anyaistennő, hanem a megváltó fiúisten személyéhez is kapcsolódott. \[JM\]  
+Robert Graves szerint a fenyő, pontosabban az ezüstfenyő az ír-kelta druidák titkos "fa-ábécéjének" első betűjeként ('A' mint `Ailm`, azaz "ezüstfenyő"), egyúttal a napév első napjának a szent fája, ugyanakkor a Nagy Istennőnek mint a Nyilas hónap úrnőjének, az "ezüstös" Artemisz (Diana) hold- illetve tejútistennőnek az egyik növényi formája, a születés, újjászületés jelképe is volt Európában (délszaki megfelelője a pálma), így kultusza nemcsak az anyaistennő, hanem a megváltó fiúisten személyéhez is kapcsolódott. \[JM\]  
 —  
 Robert Graves The White Goddess című könyvének 194. oldalán írja:  
 I place the station of the yew on the last day of the year, the eve of the Winter Solstice. Ailm the Silver-fir of Birth and `Idho` the Yew of Death \[lásd [[T/Tiszafa\|tiszafa]]\] are sisters: they stand next to each other in the circle of the year and their foliage is almost identical. Fir is to yew as silver is to lead. The mediaeval alchemists, following ancient tradition, reckoned silver to the Moon as presiding over birth, and lead to Saturn as presiding over death; and extracted both metals from the same mixed ore.  

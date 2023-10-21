@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/A/Álmos/","title":"Álmos","tags":["formatted🟢"],"created":"2023-10-11T04:38","updated":"2023-10-11T04:38"}
+{"dg-publish":true,"permalink":"/A/Álmos/","title":"Álmos","tags":["formatted🟢"],"created":"2023-10-11T04:38","updated":"2023-10-21T03:37"}
 ---
 
 
+
+
 # Álmos
-
-
 
 #### Götz László Keleten kél a Nap...
 
@@ -19,7 +19,7 @@
 
 Az [alábbi](https://youtu.be/GNA9-pOTuyA) A mindenséggel mérd magad 16/4. című Szántai Lajos előadásban 52:55-nél szól arról, hogy felolvasott forrása alapján Álmos neve onnan ered, hogy születését álom jelezte előre. Viszont itt megemlíti a könyvet olvasva, hogy latinul `almus` = szent jelentésű...  
 Az [alábbi](https://youtu.be/FJ-ohuCS9Rw) ÁKTV műsorban KT 1:51:46-nál az Anonymous-nál előforduló Almus név kapcsán olvassa fel a képileg mellékelt szöveget.  
-![assets/Álmos_image1.jpeg](/img/user/A/assets/%C3%81lmos_image1.jpeg)  
+![assets/Álmos_image1.jpeg|undefined](/img/user/A/assets/%C3%81lmos_image1.jpeg)  
 Igen ám, de valójában nem ez az eredeti értelme, hiszen a latin `almus` = tápláló, táplálékadó, és innen másodjelentésében jótékony, áldott, áldásárasztó, kegyes jelentésekkel álló. Tápláló és táplálékadó jelentései pedig női-anyai-istenanyai szerepkörre mutatnak rá, ahogy [[A/Alma\|alma]] és [[A/Alma Mater\|Alma Mater]] címnél erről volt is szó.  
 Még egy zárójeles dolgot ide. Mi lenne, ha itt az álom, almus kapcsán az `anima` = lélek szó eredetét kellene keresni? Ugyanis az újlatin nyelvekben a lélek `alma` alakú. Almus > animus teljesen elképzelhető változás. Igen ám, de a görög `anemosz`[^1] = szél megléte miatt ez mégsem jó ötlet.  
 
@@ -49,12 +49,12 @@ Híre ment annak, hogy Álmost valamilyen szakrális áldozatnak vetették volna
 > Szó sincs arról, hogy "szakrálisan feláldozták" (ez durva szemita szokás!); öregen halt meg természetes halállal, vagy egy másik verzió szerint testvérharcban esett el (a lázadó Ond vezér csalta tőrbe) a Bodrogközben.  
 - Az [[O/Önfeláldozás\|önfeláldozás]]sal kapcsolatos nézeteket is el kell vetni akkor.  
 
-Az Almus név mellett előjön egy másik hasonló név. TGY Maghreb PDF-je 69. oldalán írja:  
+Az Almus név mellett előjön egy másik hasonló név. TGY írja:  
 > Ibn Fadhlan egyik munkájában a volgai bolgárok uralkodóját Almis-t a saqlabok királyának nevezi! Ugyanezt teszi Yaqut "Az országok lexikona" című földrajzi szótárában, ahol így ír:  
 > "Miután Almis ibn Šilki Baltawar, a saqaliba király levele al-Muqtadir Billah, az igazhívők parancsnoka részére megérkezett, amelyben kérte őt, hogy küldjön hozzá valakit, aki őt a vallásjogban kioktatná, az iszlám vallási törvényeivel megismertetné..."  
 > Álljunk meg tehát egy pillanatra és gondoljuk végig! Almis, akit a volgai bolgárok királyának tart a hivatalos történelemkutatás, akinek neve soha senki által meg nem magyarázott módon kísérteties hasonlóságot mutat honfoglaló fejedelmünk apjának, Álmosnak nevével, e fenti idézetben saqaliba királyként jelenik meg! Persze ha figyelembe vesszük mindazt, amit a bolgárokról szóló fejezetben leírtam, különös tekintettel Fóthi Erzsébet kutatási eredményeire, mely szerint a korai bolgárok és a honfoglaló magyarok feltűnő antropológiai egyezéseket mutatnak (értsd: azonosak!), és tudjuk, hogy a \[[[Szláv\|szláv]] címnél szereplő\] saqlab kifejezés eredetileg a székely hunokra vonatkozott, akkor rögtön érthetővé válik minden!  
 
-Borbola János Ősmagyarul című az Ősi Gyökér 2018/1-2. sz. megjelent cikkében egy alternatív olvasatát adja a névnek: Ál-Mos nála az Élő Mása.  
+Borbola János Ősmagyarul című az Ősi Gyökér 2018/1-2. sz. megjelent cikkében egy alternatív olvasatát adja a névnek: Ál-Mos nála az "Élő Mása"...  
 
 #### Kállay Ferenc A pogány magyarok vallása című könyvében írja:
 
@@ -85,4 +85,4 @@ MA adata szerint az `anima` = lélek szó is a görög `anemosz` = szél szóbó
 [[A/Atilla hun király\|Atilla]] királyunk felmenőit, pontosabban Álmostól kezdve a Képes Krónikában megörökített nemzetségtáblázatában így közli: "Miután a somnium a mi nyelvünkön álom, s ama fiú származását álom jövendölte meg, ezért nevezték Álmosnak, aki Előd, ez Ögyek, ez Ed, ez Csaba, ez Etele, ez Bendegúz, ez Torda, ez Szemény, ez Etej, ez Apos, ez Kodocsa, ez Berend, ez Zsolt, ez Bulcsú, ez Balog, ez Zombor, ez Zámor, ez Lél, ez Levente, ez Kölcse, ez Ompód, ez Miske, ez Mike, ez Beszter, ez Budli, ez Csanád, ez Bökény, ez Bondorfán, ez Farkas, ez Otmár, ez Kádár, ez Belér, ez Keár, ez Keve, ez Keled, ez Dama, ez Bor, ez Hunor, ez Nimród, ez Thána, ez Jáfet, ez Noé fia volt."
 
 [^3]: Lábjegyzet:  
-Álmossal kapcsolatosan felmerült másutt, [[S/Szeplőtelen fogantatás\|szeplőtelen fogantatás]] kapcsán, hogy hogyan lehet prototípus más népek mondáiban, ha később élt: Bíró Lajos is elmondja előadásában, hogy az Álmos és [[A/Árpád\|Árpád]] nevek inkább olyanféle mítikus őstől örökül vett rangnevek, mint ahogy Egyiptomban Ozirisz nevét felvették, hogy vele azonosuljanak.  
+Álmossal kapcsolatosan felmerült másutt, [[S/Szeplőtelen fogantatás\|szeplőtelen fogantatás]] kapcsán, hogy hogyan lehet prototípus más népek mondáiban, ha később élt: Bíró Lajos is elmondja előadásában, hogy az Álmos és [[A/Árpád\|Árpád]] nevek inkább olyanféle mitikus őstől örökül vett rangnevek, mint ahogy Egyiptomban Ozirisz nevét felvették, hogy vele azonosuljanak.  
