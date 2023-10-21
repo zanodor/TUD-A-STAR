@@ -1,15 +1,30 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sarkcsillag/","title":"Sarkcsillag","tags":["formatted🟢"],"created":"2023-10-13T12:33","updated":"2023-10-13T12:33"}
+{"dg-publish":true,"permalink":"/S/Sarkcsillag/"}
 ---
+
+---
+title: Sarkcsillag
+aliases:
+  - 
+tags:
+  - formatted🟢
+share: true
+dg-publish: true
+dg-created: 2023-10-13T12:33
+dg-updated: 2023-10-21T03:49
+dg_upload_status: 🟢
+class: dg_uploaded
+date created: 2023-04-17
+date modified: 2023-10-13
+---
+
 
 
 # Sarkcsillag
 
-
-
 Azon csillag, mely az égkör sarkához legközelebb áll. A mi éjszaki égkörünkön azon csillag a [[U/Ursa Minor\|Kis Medve csillagkép]]ben, mely az éjszaki sarknak legközelében van. Másképp: gönczcsillag. (Stella polaris). A Föld tengelye megközelítőleg 4320 évenként mindig egy másik csillagképre, jelenleg az Ursa Minor (Kisgöncöl) csillagképben lévő [[P/Polaris\|Polaris]] nevű csillag irányába mutat.  
 A mellékelt képen a Sarkcsillag [[P/Precesszió\|precesszió]] következtébeni vándorlását láthatjuk.  
-![assets/Sarkcsillag_image1.jpeg](/img/user/S/assets/Sarkcsillag_image1.jpeg)  
+![assets/Sarkcsillag_image1.jpeg|undefined](/img/user/S/assets/Sarkcsillag_image1.jpeg)  
 
 #### Gesztesi Albert csillagász A világ négy sarka...
 
@@ -40,7 +55,7 @@ Az alábbiak Hamlet Malmából származnak és szintén az előbb említett [[A/
 
 Azt pedig WFW könyvéből is tudjuk, hogy az istenek hyperboreai északi sarki trónja a – későbbi mindenkori – Sarkcsillag, mely ma is Polaris, az Kis Medve alfája.  
 
-![assets/Sarkcsillag_image2.png](/img/user/S/assets/Sarkcsillag_image2.png)  
+![assets/Sarkcsillag_image2.png|undefined](/img/user/S/assets/Sarkcsillag_image2.png)  
 A régi korok népei szerint, ha – mi már tudjuk hogy a [[P/Precesszió\|precesszió]] eredményeként (illetve a magyarok is ismerték, de a szájhagyomány nem őrzi meg a tudományos okfejtést, ez a terület a táltosok privilégiuma) – a sarkcsillagot hordozó csillagkép leeseik az égről, akkor eljön a világvége.  
 Néhány példa a Hamlet Malma című könyvből:  
 > A szibériai kirgizek a Kis Göncölnek a Sarkcsillaghoz legközelebb eső, és ívet formázó három csillagát "kötélnek" nevezik, melyhez a csillagkép két nagyobb csillaga, a két ló hozzá van kötve. Az egyik ló fehér, a másik kékesszürke. A Nagy Göncöl hét csillagát a hét őrnek nevezik, akiknek feladata megvédeni a lovakat az ólálkodó farkastól. Ha egyszer a farkasnak sikerül megölnie a lovakat, eljön a világvége.  
@@ -86,7 +101,7 @@ Amint [[S/Sárkány csillagkép\|Sárkány csillagkép]]nél szó volt róla, is
 
 ## Szaturnusz – Sarkcsillag szimbolika
 
-A fentiek folytatásaként kezelhető, [[T/Teszkatlipoka\|Teszkatlipoka]], valamint [[S/Széth\|Széth]] és [[S/Szaturnusz\|Szaturnusz]] címnél is szereplő adat szerint [[S/Széth\|Széth]] neve a Szaturnusz [[S/SZAT\|SZAT]] etymonjával is egyeztethető. Miután JM adata szerint a\[z öreg Nap\] Szaturnusznak a Sarkcsillag a "csillaglelke," és mindkét égitest az idővel hozható kapcsolatba, ahogy Széth sem más, mint [[G/Göncöl\|Göncöl]], valamint szaturnikus (egykori) Nap (és Hold)Isten. Azaz a Szíriusz, Hold, Szaturnusz és Sarkcsillag is kötődik hozzá, más-más képzetkörök folytán.  
+A fentiek folytatásaként kezelhető, [[T/Teszkatlipoka\|Teszkatlipoka]], valamint [[S/Széth\|Széth]] és [[S/Szaturnusz\|Szaturnusz]] címnél is szereplő adat szerint [[S/Széth\|Széth]] neve a Szaturnusz [[S/SZAT\|SZAT]] etimonjával is egyeztethető. Miután JM adata szerint a\[z öreg Nap\] Szaturnusznak a Sarkcsillag a "csillaglelke," és mindkét égitest az idővel hozható kapcsolatba, ahogy Széth sem más, mint [[G/Göncöl\|Göncöl]], valamint szaturnikus (egykori) Nap (és Hold)Isten. Azaz a Szíriusz, Hold, Szaturnusz és Sarkcsillag is kötődik hozzá, más-más képzetkörök folytán.  
 
 Megint másutt (könyvének 187. oldalán, ahol az ún. pótnapokról is szól) ezt írja:  
 > [[T/Teszkatlipoka\|Teszkatlipoka]] ("Füstölgő Tükör") és maja megfelelője, az egylábú Hurakán (a megtestesült hurrikán) az éjszakai Napot jelképezi, **az első, "kísérleti" Napot (Szaturnusz-Kronoszt)** a naua törzsek mítoszaiban, aki éppen ezért tökéletlen, mint Ilmarinen pótnapja.  
@@ -110,7 +125,7 @@ Fontosabb, hogy JM Ahol a madár se jár című könyvében a Tejútistennő kö
 
 [[C/Csudaszarvas\|Csudaszarvas]] címnél pedig azt láttuk, hogy ami egy helyen Szíriuszra utaló csillag, az másutt, északi népeknél a Sarkcsillag (a szarvas homlokán). (Másutt még Vénusz.)  
 
-## Sarkcsillag és Szíriusz azaz miben áll Sarkcsillag – Szíriusz kapcsolata
+## Sarkcsillag és Szíriusz azaz miben áll a Sarkcsillag – Szíriusz kapcsolata
 
 Egyre több helyen, [[S/Széth\|Széth]], [[G/Galactic centre\|Galactic centre]], az új adatokkal is kiegészített [[S/Szíriusz és a medvék\|Szíriusz és a medvék]], [[D/Dzsed\|dzsed]] stb. címnél volt szó arról, hogy az egész rendszer külön-külön vizsgált részei, aspektusai között [[S/Széth\|Széth]] különböző minőségei látszanak rámutatni, hogy minden összetartozik.  
 [[C/Centre\|Centre]] címnél szintén kitértünk arra, hogy a középpontiságban egyszerre látszik jelen lenni a Sarkcsillag és Szíriusz, illetve ezek kapcsolata.  
@@ -122,7 +137,7 @@ Van más kapcsolat is a Szíriusz és a Sarkcsillag között, elnevezések (és 
 Továbbmenve, a (japán `kuma` névvel is [[C/Comet\|comet]] címnél hasonlított) kínai `Kan` = medve elnevezése is annak (Kutya Kan-hoz hasonló) északisága viszonylatában látandó (PJI írja):  
 A kínai népi hagyományban Ti-Sa, a névben a Ti – Föld, a Sa – Szellemek ártalmas hatása –, 72 csillag ártó szelleme. A Ti-Sa szemben áll a Nagy Medve csillagainak 36 szellemével, őket Tien-Kannak nevezik, Tien – Ég, Kan – a Nagy Medve.  
 
-Érdekes a Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (második kötetének) 185. oldalán hozott akkád Dugga Sarkcsillag elnevezés, mert a Dug a Kutyának ([[D/DOG#Dog 2)\|dog]]) is alkalmas neve, ugyanakkor [[D/Dög\|dög]] = halál és a [[N/Nap – halott Nap\|Nap – halott Nap]] helye a Sarkcsillag.  
+Érdekes a Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (második kötetének) 185. oldalán hozott akkád **Dugga** Sarkcsillag elnevezés, mert a Dug a Kutyának ([[D/DOG#Dog 2)\|dog]]) is alkalmas neve, ugyanakkor [[D/Dög\|dög]] = halál és a [[N/Nap – halott Nap\|Nap – halott Nap]] helye a Sarkcsillag.  
 
 [[T/Tündér Ilona\|Tündér Ilona]], [[S/Szíriusz mint istenanya\|Szíriusz mint istenanya]], [[N/Nut\|Nut]], [[C/Csudaszarvas\|Csudaszarvas]] és [[V/Vénusz\|Vénusz]] címnél volt szó arról, hogy Tündér Ilona feje/koronája/homloka Szíriusz. Viszont a Sarkcsillag is vele analóg.  
 
