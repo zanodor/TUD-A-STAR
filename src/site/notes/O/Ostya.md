@@ -1,23 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ostya/"}
+{"dg-publish":true,"permalink":"/O/Ostya/","title":"Ostya","tags":["formatted🟢","containstransclusions"],"created":"2023-10-21T03:35","updated":"2023-10-21T03:38"}
 ---
-
----
-title: Ostya
-aliases:
-  - ostya
-  - ostyá
-tags:
-  - formatted🟢
-share: true
-dg-publish: true
-dg-created: 2023-10-21T03:35
-dg-updated: 2023-10-21T03:35
-dg_upload_status: 🟢
-date created: 2022-12-14
-date modified: 2023-08-21
----
-
 
 
 # Ostya
@@ -31,7 +14,17 @@ Ami az áldozati szerepet illeti, [[O/Oszt\|oszt]] tulajdonképpen itt akár a [
 [[V/Végvári József\|Végvári József]] Hit és anyanyelv című dolgozatában írja oszt – ostya – test/tészta/tiszta, valamint lakik és lakk vonalon ([[T/Test\|test]] címnél is szerepelt):  
 > Keresztény hitünk egyik kulcskérdéséről van szó: Jézus úgy lakik bennem, hogy én egyúttal jól is lakom vele. Ez a megvilágosító többértelműség esete mai világunkban, amelyben igen sokan törekednek az állandó, már-már rögeszmés egyértelműsítésre, holott a világ nem úgy működik. Legvégül tegyünk egy K betűt vizsgált szavunk végére: kapjuk a LaKK-ot, melynek eredetileg élőfa a forrása (skarlát tölgyből nyerték), szerepe pedig az, hogy megfényesítse a tárgyakat (Andics Árpád barátom szép gondolata). Jézusnak – a "világ világának" – talán nem az a szerepe, hogy fénybe öltöztesse a világot?  
 
-Végvári József Kölcsönszavak c. YouTube-ra feltöltött előadásában említi az "ennivaló gyermek," "meg kell ezt a gyereket zabálni," "egyem a zúzádat" kifejezéseket. Arról van szó, hogy Jézus felajánlja testét és vérét, hogy ebből fogyasztva az ő testvéreivé váljunk (test-vér csak magyarban testvér). VJ felhívja még itt a figyelmet arra, hogy az indo-germán magyarellenes törekvések szerint az [[O/Ogre\|ogre]] = emberevő óriás szót az ugor (hungár) szavakkal akarja megfeleltetni, így csínján kell bánni az ennivaló gyermek angolra fordításával: Ennivaló gyermek! Meg kell zabálni ezt a gyereket! Ha ezeket szó szerint lefordítjuk valamely nyugati nyelvre, számítanunk kell az elszörnyedésre. Ha úgy tudták rólunk, hogy barbár őseink nyereg alatt puhított húson éltek, akkor ezeket a fordulatokat valamiféle emberevő hagyomány továbbélésének fogják tartani. Holott ezt ugyanúgy nem lehet szó szerint, hétköznapi értelemben venni, mint azt, hogy eszünk Jézus testéből (de jelképesen sem, hiszen ez sokkal több, mint egyszerű szimbólum). Minden szentáldozás alkalmával kiderül, hogy éppen ő az "ennivaló gyermek", akit már születésekor JáSZolba tesznek. Minden gyermekben ő születik újjá a Földön, minden gyermekkel az istenség költözik közénk. A magyar nyelvben ezért volt egykor áldott állapot az, ami ma sokaknak teher, és Isten áldása a gyermek, ami ma népszaporulat, s amivel folyton bajok vannak (és lesznek is, amíg szaporulatként fogjuk kezelni). Az ennivaló gyermek kiszólással talán éppen az istenség eredeti csodás ízére szeretnénk ráismerni, a gyermekben – tehát egykor bennünk is – jelenlévő Istent mint ízt azonosítani.   
+Végvári József Kölcsönszavak c. YouTube-ra feltöltött előadásában említi az "ennivaló gyermek," "meg kell ezt a gyereket zabálni," "egyem a zúzádat" kifejezéseket. Arról van szó, hogy Jézus felajánlja testét és vérét, hogy ebből fogyasztva az ő testvéreivé váljunk (test-vér csak magyarban testvér). VJ felhívja még itt a figyelmet arra, hogy az indo-germán magyarellenes törekvések szerint az [[O/Ogre\|ogre]] = emberevő óriás szót az ugor (hungár) szavakkal akarja megfeleltetni, így csínján kell bánni az ennivaló gyermek angolra fordításával: 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/e/embereves/#1sdmzu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+> Ennivaló gyermek! Meg kell zabálni ezt a gyereket! Ha ezeket szó szerint lefordítjuk valamely nyugati nyelvre, számítanunk kell az elszörnyedésre. Ha úgy tudták rólunk, hogy barbár őseink nyereg alatt puhított húson éltek, akkor ezeket a fordulatokat valamiféle emberevő hagyomány továbbélésének fogják tartani, és talán még Euro-csatlakozásunk is veszélybe kerülhet. Holott ezt ugyanúgy nem lehet szó szerint, hétköznapi értelemben venni, mint azt, hogy eszünk Jézus testéből (de jelképesen sem, hiszen ez sokkal több, mint egyszerű szimbólum). Minden szentáldozás alkalmával kiderül, hogy éppen ő az "ennivaló gyermek", akit már születésekor JáSZolba tesznek. Minden gyermekben ő születik újjá a Földön, minden gyermekkel az istenség költözik közénk. A magyar nyelvben ezért volt egykor áldott állapot az, ami ma sokaknak teher, és Isten áldása a gyermek, ami ma népszaporulat, s amivel folyton bajok vannak (és lesznek is, amíg szaporulatként fogjuk kezelni). Az ennivaló gyermek kiszólással talán éppen az istenség eredeti csodás ízére szeretnénk ráismerni, a gyermekben – tehát egykor bennünk is – jelenlévő Istent mint ízt azonosítani.  
+
+
+</div></div>
+  
 - Itt Végvári József Hit és anyanyelv című írásából is idéztünk.  
 
 #### Tomory Zsuzsa Istenes magyar emlékeink III. rész...
