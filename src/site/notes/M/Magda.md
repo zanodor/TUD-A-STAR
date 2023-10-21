@@ -11,24 +11,23 @@ tags:
 share: true
 dg-publish: true
 dg-created: 2023-10-21T03:58
-dg-updated: 2023-10-21T03:58
+dg-updated: 2023-10-21T03:59
 dg_upload_status: 🟢
+class: dg_uploaded
 date created: 2022-12-14
 date modified: 2023-10-21
 ---
-
-
 
 # Magda
 
 #### Magyar Adorján Csodaszarvasában...
 
 ...mutat rá, hogy a Napistenek neje hogyan vált ilyen vagy hasonló nevűvé egyes vallásokban:  
-> Miután a föntieket Napistenünkről elmondottuk ami azonban róla távolról sem minden, szólanunk kell még – habár ezt is csak igen röviden – regebeli kedveséről vagy nejéről, a Földistennőről, azaz [[T/Tündér Ilona\|Tündér Iloná]]ról, akit népünk még [[M/Magyar\|magyar]] Ilonának és [[B/Boldogasszony\|Boldogasszony]]nak is nevez.  
+> Miután a föntieket Napistenünkről elmondottuk ami azonban róla távolról sem minden, szólanunk kell még – habár ezt is csak igen röviden – regebeli kedveséről vagy nejéről, a Földistennőről, azaz [[T/Tündér Ilona\|Tündér Iloná]]ról, akit népünk még [[M/Magyar Ilona\|Magyar Iloná]]nak és [[B/Boldogasszony\|Boldogasszony]]nak is nevez.  
 > Mindenek előtt azonban ki kell emelnünk a következő egyezéseket:  
 > A magyarság hagyományában [[T/Toldi Miklós\|Toldi Miklós]] kedvese: **Magda**. (Láttuk, hogy Toldi Miklós azonos ősi Napistenünkkel.)  
 
-#### Bakos Attila A Duna Evangéliuma,,,
+#### Bakos Attila A Duna Evangéliuma",
 
 ...című könyvének 248. oldalán olyanról tud, hogy Arany János ezt a Magdát idegen névnek tartva lecserélte Piroskára.  
 > A Bibliában a [[J/Jézus\|Jézus]]sal közelebbi kapcsolatba hozott leány neve (Magdalai Mária (Mária Magdaléna/Magdolna; lásd még róla [[M/Mária\|Mária]]), aki a hagyomány szerint így azért neveztetett mivel Magdala városából származott \[megjegyzés: a város neve sokszor sokszor csak "vezetéknévként" való magyarázat[^1]\]. Említettük, hogy Jézus is tulajdonképen Napisten, illetve *amennyiben létezett is*, de utóbb annyi ősi naphitrege alkalmaztatott rá, hogy e mondai anyag a történelmit teljesen elborította.  
@@ -43,7 +42,7 @@ date modified: 2023-10-21
 
 > Különösen föltünő még a keresztény Magdaléna és a buddhista Magaddai Amra-hitrege egyezése egyebekben is, mert hiszen a Mária és Amra nevek is egymásra nagyon hasonlítanak.  
 > További föltünő egyezés a következő is: A bibliai és népi hagyomány szerint Magdaléna kétes erkölcsű nő volt; Jézus hét ördögöt űzött ki belőle, miután megtért, Jézus lábaihoz borult és ezután igen ragaszkodott hozzá, sőt a népi hagyomány szerint jegyese is lett. Utóbb Jézus haját illatszerekkel áztatta, majd lábait is kenvén, ezeket hajával törölgette; a népi hagyomány szerint könnyeivel áztatta, hajával törölgette. Végül Jézus halála után keresztfáját ölelgette, majd a pusztaságban egy barlangba vonult vissza, ahol bűnbánó életet élt.  
-> 
+>
 > A buddhista Amra hitrege szerint: Amra kétes erkölcsű de igen szép nő volt, akinek a Gangesz \[[[Ganga\|[Ganga]]\] folyó mellett gyönyörű [[K/Kert\|kert]]je volt \[utalás az égre\]. Buddha a folyón átkelve kenetteljes erkölcsi prédikációt tart neki, mire Amra lábaihoz borul és megtér.  
 > Az erkölcsi prédikációt és megtérést eredetileg kétségtelenül szerelmi viszony helyettesítette, ami mindkét esetben vallási okokból van elhallgatva, de ami megmaradott a Toldi- és Heraklész mondában és aminek eredetét a mi Napistenünk és Földistennőnk tavaszi násza képezte. A folyón való átkelés és a szép kert a mi ősregénk Dunája és Tündér Ilona csallóközi gyönyörű "Aranykertje", más nevén "Tündérkertje", emlékét tartja fönn, amelyben Ilona és Magyar találkoznak, ahova ez minden tavasszal megérkezik és ahonnan minden ősszel távozik; ami meg annak emlékezete, hogy amikor a Sark még Magyarország területén volt: a Nap minden esztendőben egyszer kelt föl, tavasszal és egyszer ment le, ősszel. \[A folyón való átkelés a Tejút vagy az égi egyenlítőn való áthaladás is lehet.\]  
 > Azon indíték, amely szerint Magdaléna Jézus haját illatosítgatja nem egyéb mint a vogul hitrege ősi indítéka, amely szerint a Nap kedvese, a "tündérkisasszony", annak aranyhaját simogatja.  
