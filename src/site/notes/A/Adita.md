@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/A/Adita/","title":"Adita","tags":["formatted🟢","containstransclusions"],"created":"2023-10-19T10:41","updated":"2023-10-19T10:41"}
+{"dg-publish":true,"permalink":"/A/Adita/","title":"Adita","tags":["formatted🟢","containstransclusions"],"created":"2023-10-19T10:41","updated":"2023-10-21T03:30"}
 ---
-
-
 
 
 # Adita
