@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/E/Emberevés/","title":"Emberevés","tags":["formatted🟢"],"created":"2023-10-21T03:45","updated":"2023-10-21T03:45"}
+{"dg-publish":true,"permalink":"/E/Emberevés/","title":"Emberevés","tags":["formatted🟢"],"created":"2023-10-21T03:45","updated":"2023-10-21T04:07"}
 ---
 
 
 # Emberevés
 
-A termeszekről több helyen (például [[T/Termite\|termite]], [[R/Rovarok\|rovarok]], [[F/Földevők\|földevők]]) volt szó, így arról is, hogy bizonyos tekintetben az emberi fajjal mutatnak hasonló társadalmi-rétegződési hasonlóságokat, de abban is, hogy megeszik társaikat.  
+A termeszekről több helyen (például [[T/Termite\|termesz]], [[R/Rovarok\|rovarok]], [[F/Földevők\|földevők]]) volt szó, így arról is, hogy bizonyos tekintetben az emberi fajjal mutatnak hasonló társadalmi-rétegződési hasonlóságokat, de abban is, hogy megeszik társaikat.  
 
 #### Várkonyi Nándor Az Elveszett Paradicsomában írja:
 
