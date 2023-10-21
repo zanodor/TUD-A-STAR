@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["unformatted⚪"],"created":"2023-10-15T09:46","updated":"2023-10-15T09:46"}
+{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["formatted🟢"],"created":"2023-10-15T09:46","updated":"2023-10-21T11:09"}
 ---
 
 
 # Lélek
-
-
 
 Kezdjük a szóalakkal. Lélek MA adata szerint korábban \[értsd: alakváltozataként\] `lilek` volt. Igen ám, de a [[L/LIL\|LIL]] = lélek jelentést viszi. [[A/Átok\|Átok]] címnél volt arról szó, hogy miféle többes alakos főnévrag ez az -ek, -ok.  
 
@@ -81,7 +79,7 @@ Ezért is lehet a [[S/Száj\|száj]] azonos a [[S/SZA\|SZA]] etimonnal, de amenn
 ...című az Ősi Gyökér 2018/1-2. sz. megjelent cikkében Tomory Zsuzsa fiatalkori élményének elmesélése kapcsán is erről volt szó:  
 > Ápolónő tanuló korában, a szülő osztályra vitték csoportját, egy szülés megfigyelésére nőgyógyászati ismeretekhez. A háttérben álltak, s hangtalanul figyelték a folyamatot. Amikor a kicsi feje kibukkant a szülőcsatornából, Zsuzsa néni egy hatalmas fényt látott megjelenni, mely szinte villámként besuhant a csecsemő nyitott korona csakráján, ott, ahol a pici [[K/Kutacs\|kutacs]]ai még nem nőttek össze. Ez a látvány hatalmas benyomást tett Zsuzsa nénire, és tudta, hogy a Lélek testbeszállását pillantotta meg, magát az isteni életcsodát. Ő volt az egyetlen, aki tanítvány társai közül ezt megpillantotta.  
 
-Tehát ez a bizonyos isteni szikra illetve önvaló/énség az isa/[[I/Íz\|íz]] lenne. ...
+Tehát ez a bizonyos isteni szikra illetve önvaló/énség az isa/[[I/Íz\|íz]] lenne.  
 
 #### Pap Gábor Gondolatok a szkíta nép-nemzeti szertartásrendről...
 
@@ -234,7 +232,7 @@ Megállapítja, hogy a Halotti Beszéd "ysa" fogalma alatt azt a lelket értjük
 Mondja még itt korábban, hogy az ysa/isa a halhatatlan lélek, mely a katolikus vallásban megjelenő "örök élet"-re utal, valamint felteszi a kérdést:  
 Mi ok volt rá, hogy azt írják: ysa, por és hamu vagyunk? Hitük szerint éppen így megfelelt volna a TEST és LÉLEK kifejezés is!  
 Na ez egy érdekes kérdést fel, melyet lentebb és [[S/Szentháromság\|Szentháromság]] címnél is taglalunk.  
-![assets/Lélek_image2.jpeg](/img/user/L/assets/L%C3%A9lek_image2.jpeg)  
+![assets/Lélek_image2.jpeg|undefined](/img/user/L/assets/L%C3%A9lek_image2.jpeg)  
 
 Ha elfogadjuk, hogy a halotti beszéd "ysa" fogalma az isten által teremtett lélek – őseink lelke(!) – bizonyos, hogy a III. Béla kori magyarságban még élt ez a kettős lélekhit. Ezek szerint az embernek kettős lelke van: egy ysa-lelke és egy lélek-lelke, az előbbi az isteni lélek, az utóbbi pedig az élet-lélek. Az ysa-lelket pedig ezért nevezhetjük árnyék-léleknek, hiszen mint az árnyék követi az élet-lelket és az élet megszüntekor, a halálban \[ezt a lelket kíséri vissza a [[P/Psychopomp\|psychopomp]] kutya; innentől érthetővé válik a [[D/DOH\|DOH]] címnél taglalt szláv szavak értelme is\] visszatér az árnyékvilágba.  
 \[Hogy a mellékelt képeken valóban a kettős lélekhitre utaló ábrázolások vannak-e, ebben nem vagyok biztos, de legyen idetéve.\]  
@@ -324,7 +322,7 @@ Folytatja itt azon négy közül három hellyel, ahol isa előfordul (a régies 
 A fentiek alapján mondhatjuk, hogy az [[I/Isten\|Isten]] szavunk alakváltozataként tekinthető [[O/Ösztön\|ösztön]] is egyfajta (maga az isteni/isa azaz Szent) lélek, mely – ha az állati ösztönt is idevesszük – a [[K/Kutyahit\|kutyahit]]en keresztül ismét visszakapcsol minket a [[K/Kutya\|kutya]]/[[G/Guta\|guta]] fogalmaihoz és a [[G/God\|God]] cím bevezető soraiban taglaltakhoz: a guta lélek fogalma is adhatja a [[K/Khuda\|Khuda]] és [[G/God\|God]] szavak isten-fogalmát (persze [[G/Göd\|Göd]] címnél írottak alapján a helyzet bonyolultabb).  
 
 Por és Pur kapcsán ami még ide tehető.  
-A [[P/Parázs\|parázs]] par- eleme hasonló a [[P/Por\|por]] és [[P/PUR\|pur]] szavakhoz. ...
+A [[P/Parázs\|parázs]] par- eleme hasonló a [[P/Por\|por]] és [[P/PUR\|pur]] szavakhoz.  
 
 #### Varsa Mátyás A legrégibb magyar mítosz...
 
@@ -387,12 +385,12 @@ Ha a szabadlélek = árnyéklélek és az árnyéklélek = vándorlélek, akkor 
 Igazságot tenni talán megint csak az idegen nyelvek segítéségével tehetünk (ha figyelembe vehetők). A latin `spirare` = lélegzeni szóra visszavezetett [[S/Spirit\|spirit]]us ezek szerint az a szellem, ami a lélegzet/lehelet-léleknek felelne meg.  
 Azért mondom, hogy megint, mert a germén seele/[[S/Soul\|soul]] = lélek szavak kapcsán egyszer már rámutattunk, hogy ezek meg éppen szél/szellet/szellem szavainkra mutatnak rá.  
 
-![assets/Lélek_image3.png](/img/user/L/assets/L%C3%A9lek_image3.png)  
+![assets/Lélek_image3.png|undefined](/img/user/L/assets/L%C3%A9lek_image3.png)  
 [[H/Harmadik szem\|Harmadik szem]] címnél szintén más, már a lélek és szellem fogalmainak összetévesztésére utaló információkat látunk:  
 A szimpatikus idegrendszert a görögök a \[melyik?\] lélek székhelyének tették meg, Schleich a kozmikus kapcsolatok felfogó szervének, Jung a faji emlékezés tárházának; vele azonosíthatók a hindu jóga csakrái, vagyis az életerő áramának központjai.  
 A görögök viszont, egyiptomi és babiloni mestereik nyomán azt tanították, hogy a lélek lakóhelye a rekeszizom alatt levő idegköteg, a nap-fonadék (plexus solaris).  
 Azaz mindenki beszél mindenről, lélek gyűjtőnév alatt, másrészt nem tudták már régen és ma sem, mi micsoda.  
-![assets/Lélek_image4.png](/img/user/L/assets/L%C3%A9lek_image4.png)  
+![assets/Lélek_image4.png|undefined](/img/user/L/assets/L%C3%A9lek_image4.png)  
 Itt egy újabb:  
 A védikus bölcselet a lelket \[melyiket?\] az agyalapi mirigybe helyezte, olvassuk tovább VN-től. Azaz, annak a [[Z/Zsinat\|zsinat]] címnél taglalt folyamatnak megvoltak az előzményei. A magas tudásúnak gondolt kultúrák nem voltak tisztában mi micsoda, vagy pedig tudták, csak nem a megfelelő neveken és indoklással.  
 Végül a lélek Szentháromságból való kivételéhez hozzájárult az, hogy a Halak-korszakban a materialista felfogás érvényesül: ahogy PG is fogalmaz, amit nem tudok definiálni (határok közé venni), az (mármint a lélek) nem is létezik.  
@@ -436,7 +434,7 @@ Amennyiben a babona fentebbi említése e tárgyban magyarázatra szorul, íme. 
 ...című tanulmányában amit az árnyéklélekről ír, szintén jól hangzik ösztön – isten témában (kérdés, mennyire tudálékoskodó):  
 > A [[V/Világügyelő\|világügyelő]] Férfi azonban a nappal ellentétben éjszaka jár Tovling-luván az égen – akárcsak Dia. Ha vizsgálat tárgyává tesszük az [[O/Őr\|őr]] funkciót – mert a Világügyelő Férfi a világ őre – az árnyéklélek fogalmához juthatunk. Hiszen **az árnyéklélek végső soron egy, a tudattalanunk éjszakájában lévő másik személyiség lehetősége, amely módosult tudatállapotban felszínre kerülhet és működni tud. Ez a második, mély én nemcsak minden tudásunk tartománya (ebből a régióból kerül felszínre, ami tudatosul), hanem vigyázó őrünk is**. Megfigyelték már, hogy valaki ránk szól vezetés közben, amikor közeledik az út széle, ha elkalandozik a fegyelmünk? Dia tehát fénykorában, az igazi mitikus időkben, mielőtt még kicsinyes *trickster* lett volna belőle, **a közösség közös árnyéklelke**t jelenítette meg, ennek megszemélyesített, és kivetített figurája volt, akárcsak Ekva-Piris, akit felfoghatunk úgy, mint a manysi nép **kollektív tudattalanjában vigyázó és figyelő őr**t.  
 
-![assets/Lélek_image5.png](/img/user/L/assets/L%C3%A9lek_image5.png)  
+![assets/Lélek_image5.png|undefined](/img/user/L/assets/L%C3%A9lek_image5.png)  
 Az [alábbi](https://youtu.be/aeRDLskUSZM) Turul és Szarvas II. rész című ÁKA előadásban KT 17:41-nél szól arról, mi a különbség a tudatos és [[T/Tudatalatti\|tudatalatti]] énünk között. Egy felfújt lufi az agyunk, mely lufi anyaga a tudatos énünk és ami benne van, az a tudatalatti énünk hordozója, mely képes őseink tudatalattiját (ez a Jung féle kollektív tudatalatti) is örökölni. Tehát ahogy az [alábbi](https://youtu.be/TsAxk6Dy2II) Turul és Szarvas III. rész című ÁKA előadásban 23:30-nál megint elmondja, hogy a tudatalatti arányaiban sokkal nagyobb mértékű, sokkal nagyobb erő, hatalom, tudás rejlik benne. Erre nem tér ki, de nem véletlen, hogy inkább a nőhöz tartozik, tehát amikor azt mondom, hogy női [[O/Ösztön\|ösztön]], ezzel megint csak azt bizonyítom, hogy a magyar felfogás szerint [[I/Isten\|Isten]] = inkább nő ([[B/Boldogasszony\|Boldogasszony]] PJI adata szerint is a táltosoknál a legnagyobb és a [[C/Csudaszarvas\|Csudaszarvas]] is ünő, márpedig a [[S/Szarvas\|szarvas]] a régi felfogásban isten).  
 
 Mindig, mindenütt azt hangoztatom és erről [[D/Dogma\|dogma]] és [[C/Címke\|címkézés]] címnél is volt szó, hogy a mai fogalmak tisztázása a magyar nyelv alapján mennyire fontos. Ennél is fontosabb a jelképek és a magyar szavak vizsgálata, ugyanis az analógiás/képi gondolkodásra építő őseink a mélyen a tudatalattinkba átmentett tudását kell felszínre hozni ahhoz, hogy a magyarság és a világ megmeneküljön. Ez a kulcs. Ezt lefordítva lehetne betenni a Quora főcikkem aljára is.  
