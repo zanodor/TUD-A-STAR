@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sand/","title":"Sand","tags":["formatted🟢"],"created":"2023-10-17T11:40","updated":"2023-10-19T03:30"}
+{"dg-publish":true,"permalink":"/S/Sand/","title":"Sand","tags":["formatted🟢"],"created":"2023-10-17T11:40","updated":"2023-10-21T04:27"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 [[H/Homok\|Homok]]. A homokszem szavunk utótagjából, a [[S/SZEM\|szem]] szóból eredne?  
 
-#### A Czuzor-Fogarasi szótár adata:
+#### A Czuczor-Fogarasi szótár adata:
 
 > Törökül [[K/KUM\|kum]], a jakutban `kumakh`, sínai nyelven `mo`, `sa-mo`.  
 
