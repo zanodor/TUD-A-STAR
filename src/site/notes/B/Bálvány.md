@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bálvány/","title":"Bálvány","tags":["formatted🟢","containstransclusions"],"created":"2023-10-21T04:29","updated":"2023-10-21T04:29"}
+{"dg-publish":true,"permalink":"/B/Bálvány/","title":"Bálvány","tags":["formatted🟢","containstransclusions"],"created":"2023-10-21T04:29","updated":"2023-10-21T10:45"}
 ---
 
 
@@ -13,10 +13,10 @@
 #### Kállay Ferenc A pogány magyarok vallása című könyvében írja:
 
 > Hogy a bálvány szó csak kölcsönözés az orosz nyelvben is, azt Schafárik sem tagadja, ki a kelta `peulwani`-ra figyelmeztet (Slav. alterth. I. 400), ugyanezt tanitja Reiffis "`bolvan` idole, bloc, celtique `peulwan` blocde pierre". ([Lásd 212. old.](zotero://open-pdf/library/items/DFI47XPY?page=212&annotation=J9SMKSQQ))
-> 
+>
 > Bullet kelta szótárában `peulwan` = pierre longve elevée perpendiculariement en guise de pilier, une colonne brute sans être travaille, brittül `peulwanon`, szerinte pel szóból = hosszú és maen = kő, de hogy Bullet a szók leszármaztatásaiban igen sokszor megtévedt, rég megismert dolog, ([Lásd 213. old.](zotero://open-pdf/library/items/DFI47XPY?page=213&annotation=JRSQFH7L))  
 - "Hosszú kő, amelyet merőlegesen emeltek oszlopnak, durva oszlopot megmunkálás nélkül."  
-Végtére is Bullet népetimologizált. 
+Végtére is Bullet népetimologizált.
 
 Folytatás [[P/Pehlivan\|pehlivan]] címtől átemelve:  
 
@@ -71,7 +71,7 @@ Az [alábbi](https://youtu.be/jUXY3njr1MM) A mindenséggel mérd magad 16/2. cí
 
 Kállay Ferenc A pogány magyarok vallása c. könyvének 30. oldalától bőven foglakozik a magyar, kun, finnugor és más népek bálványimádására vonatkozó adatokkal, de talán többször elhangzik, hogy a teremtő tisztelete elsődleges.  
 
-A bálványnak van egy másik jelentése is. ...
+A bálványnak van egy másik jelentése is.  
 
 #### Bognár Ferenc Nimrudi hagyományunk Boldogasszony-tisztelete, és Fekete Madonnái...
 
