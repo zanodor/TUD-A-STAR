@@ -1,22 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magda/"}
+{"dg-publish":true,"permalink":"/M/Magda/","title":"Magda","tags":["formatted🟢"],"created":"2023-10-21T03:58","updated":"2023-10-22T03:32"}
 ---
 
----
-title: Magda
-aliases:
-  - Magdá
-tags:
-  - formatted🟢
-share: true
-dg-publish: true
-dg-created: 2023-10-21T03:58
-dg-updated: 2023-10-21T03:59
-dg_upload_status: 🟢
-class: dg_uploaded
-date created: 2022-12-14
-date modified: 2023-10-21
----
 
 # Magda
 
