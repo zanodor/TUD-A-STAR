@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Eszter/","title":"Eszter","tags":["formatted🟢"],"created":"2023-10-22T02:45","updated":"2023-10-22T02:47"}
+{"dg-publish":true,"permalink":"/E/Eszter/","title":"Eszter","tags":["formatted🟢"],"created":"2023-10-22T02:45","updated":"2023-10-22T02:48"}
 ---
 
 
@@ -17,7 +17,7 @@ Az [alábbi](https://en.m.wikipedia.org/wiki/Esther) Wiki oldal etimológiai fej
 A magyar nyelvben sok szó előrészét képezi. Csillaggal kapcsolatos anyagokat lásd [[T/TAR\|TAR]], [[S/Star\|star]], [[I/Istár\|Istár]], [[I/Iszter\|Ister]] és [[E/Easter\|Easter]]; itt megpróbáljuk még kibontani szélesebb értelmét.  
 Eszter [[I/Istár\|Istár]]ral való azonosításáról volt szó Zajti Ferenc Zsidó volt-e Jézus című könyvében; lásd [[S/Sakaea\|Sakaea]].  
 
-Kezdjük azzal, hogy eszterga (ómagyar \*esztergar?) (mellyel CzF adata szerint rokonnak látszik a hellen astragaloV is, mely a többek közt nyakgerincz jelentéssel bír; egyébiránt megegyezik vele a szláv `sztrug`) forog, ahogy az angol `turner` = esztergályos névben is a [[T/Turn\|turn]] = forog szó szerepel (az eszterga neve `lathe`).  
+Kezdjük azzal, hogy eszterga (ómagyar \*esztergar?) (mellyel CzF adata szerint rokonnak látszik a hellen `astragaloV` is, mely a többek közt nyakgerincz jelentéssel bír; egyébiránt megegyezik vele a szláv `sztrug`) forog, ahogy az angol `turner` = esztergályos névben is a [[T/Turn\|turn]] = forog szó szerepel (az eszterga neve `lathe`).  
 A (néggyel és csavarással is kapcsolatba hozott, [[S/Star\|star]]-ral is szinte azonos [[C/CSÁR\|CSÁR]] címnél is taglalt görög `sztaurósz` = áldozati karó, kereszt szóval azonosítható) [[O/Ösztörű\|ösztörű]] szónál szerepelt biz. Szabó D. adata, miszerint eredeti értelme szerint (többek közt) **ágas-bogas fa**, mely ha Tejútfa és ha [[E/Esztergom\|Esztergom]] nevének előrésze, az [[I/Iszter\|Iszter]] folyó a Tejúttal azonosíttatik és mivel a Tejútról tudjuk, hogy csűrődik-csavaródik, tekeredik, forog (napi, kis éves és Nagy Éves viszonylatban is), akkor okszerű kell legyen a kisbetűs esztert is az égre helyezni, továbbá az [[E/Eszterha\|eszterhaj]] (a házfödélnek azon alsó része, mely a falon kivül kinyúlik, s a lefolyó vizet a faltól elveti) szót is ide sorolni, tudni illik minden építmény és szerszám nevének eredete [[S/Szakrális geometria\|szakrális geometrikus]] és a leleményes első néphez kötendő, mintsem az átvevő szláv és latin nyelvekből szabadna magyarázható.  
 
 CzK írja alant említett cikkében az Eszter név kapcsán, hogy a 'csillag' jelentés úgy rokonítható vele, hogy a csillagot sokágú fényes [[K/Kereszt\|kereszt]]nek fogjuk fel. Lejjebb ismét: 'csillag' jelentése a fényelágazásokon alapul. A csillag úgy néz ki, mintha sok keresztet tennénk egymásra.  
