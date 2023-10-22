@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Piszok/","title":"Piszok","tags":["formatted🟢"],"created":"2023-10-17T11:21","updated":"2023-10-19T03:29"}
+{"dg-publish":true,"permalink":"/P/Piszok/","title":"Piszok","tags":["formatted🟢"],"created":"2023-10-17T11:21","updated":"2023-10-22T02:30"}
 ---
 
 
