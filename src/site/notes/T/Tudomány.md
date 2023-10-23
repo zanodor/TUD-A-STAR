@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["formatted🟢"],"created":"2023-10-05T06:45","updated":"2023-10-12T11:54"}
+{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["dg_uploaded"],"created":"2023-10-05T06:45","updated":"2023-10-23T03:56"}
 ---
 
 
 # Tudomány
-
-
 
 A mai tudomány dogmák rabságában tartja az emberiséget. Minden, különösen a történelem- és nyelvtudomány politikai koncepciók szerint, propaganda és ellenpropaganda jelleggel illetve pusztán a tudomány és nem az igazság feltárása kedvéért létezik. Ahogy lentebb is szó esik róla, nem az életet és így a magyarságot/emberiséget sem szolgálja.  
   
@@ -188,7 +186,7 @@ Lásd még [[M/Megtévesztés\|megtévesztés]]. Lásd még [[T/Történelemhami
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Grandpierre Attila Történelmünk visszavétele: Ősi Magyarország – A Kárpát-medence és a selyemút népeinek felemelkedése című, az Acta Historica Hungarica Turiciensia XXXIV. évfolyam 3. szám, Pannon Kultúraközösség Kutató és Képzőközpont Folyóirata 2019C nevű PDF 199. oldalán megtalálható cikkében (mely az [ezen](https://youtu.be/_Lhjt9qTy34) Grandpierre Atilla – Ősi Magyarország. A Kárpát-medence és a Selyemút népeinek felemelkedése 2019. című előadásának szövege).  
+Grandpierre Atilla Történelmünk visszavétele: Ősi Magyarország – A Kárpát-medence és a selyemút népeinek felemelkedése című, az Acta Historica Hungarica Turiciensia XXXIV. évfolyam 3. szám, Pannon Kultúraközösség Kutató és Képzőközpont Folyóirata 2019C nevű PDF 199. oldalán megtalálható cikkében (mely az [ezen](https://youtu.be/_Lhjt9qTy34) Grandpierre Atilla – Ősi Magyarország. A Kárpát-medence és a Selyemút népeinek felemelkedése 2019. című előadásának szövege).  
 
 [^2]: Lábjegyzet:  
 Földi világunkban évezredek óta képviselteti magát egy tudományos réteg, akik az úgynevezett tudományuk révén határozzák meg emberek milliói számára, hogy mely dolgok létezhetnek, illetve léteznek és mely dolgok nem. A gyakorlat pedig azt mutatja, hogy azok, akik szembe mertek, vagy mernek szállni a magukat tudósoknak tartók véleményével, akiket az adott államapparátus pénzel, sok esetben az életükkel fizettek és fizetnek a jelenben is makacs ellenállásukért. De ha életben is hagyják őket, abban sincsen sok köszönet. Joggal merül fel a kérdés, hogy milyen érdekeket szolgálhatnak az úgynevezett tudósok és a tudományos világ által hozott megkérdőjelezhetetlennek vélt állásfoglalások és egyáltalán kik is lehetnek hivatalosan is elismert tudósok e földi világunkban? Esetleg ezen a téren is megtalálhatóak azok, akiknek érdeke az emberiség elbutítása, lelki, szellemi és fizikai értelemben való kifosztása, nyomorban és tudatlanságban tartása, végső soron pedig leigázása?  

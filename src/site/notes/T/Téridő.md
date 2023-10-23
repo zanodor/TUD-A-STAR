@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Téridő/","title":"Téridő","tags":["formatted🟢"],"created":"2023-10-22T03:36","updated":"2023-10-22T03:36"}
+{"dg-publish":true,"permalink":"/T/Téridő/","title":"Téridő","tags":["dg_uploaded"],"created":"2023-10-22T03:36","updated":"2023-10-23T04:04"}
 ---
 
 
@@ -36,7 +36,7 @@ Bakos Attila A Duna Evangéliuma című könyvének 447. oldalán nem annyira ko
 
 Az Atya pedig Jupiter-Orion is. Born Gergely A kettőskereszt mint kulcs című az Ősi Gyökér 2019-20/1-4. sz. megjelent cikkében a [[J/Jupiter\|Jupiter]] és [[P/Péter\|Péter]] címnél álló sorai után maga úgy értelmezi, hogy a Jupiter-Szaturnusz (megfelel nekik Péter és Pál) páros közül előbbinek felel meg a tér, utóbbinak az idő (nyilván utóbbi kapcsán [[K/Khronosz\|Khronosz]]-Szaturnusz vezette; előbbi kapcsán nem tudom). (Hozzátehetjük még: ahogy a tér és idő egymást teremtő működése elválaszthatatlan egymástól, úgy tartozik össze a két "bolygóistenségünk" és minden megnyilvánulásuk.)  
 
-#### Grandpierre Attila Karácsony eredete és jelentősége...
+#### Grandpierre Atilla Karácsony eredete és jelentősége...
 
 ...című dolgozatában szól a [[L/Lélek#Lélekutazás – a sámán csillagutazása a világfán\|lélekutazás]]ról és a [[T/TÉR\|tér]]ről, majd az idő/téridő természetének vizsgálatával foglalkozik:  
 > Metod Saniga, szakmai körökben világszerte elismert szlovákiai fizikus-csillagász, életét a rendkívüli tudatállapotokban szerzett ismeretek valóságértékének felmérésére és értelmezésére fordítja. Tudományos munkájáról képet lehet alkotni, ha megnézzük honlapját a http://www.astro.sk/~msaniga címen. Saniga az egyik legkitűnőbb kutató, aki a tér és idő alapkérdéseivel foglalkozik. Több nemzetközi tudományos konferencia szervezője, életét főként kutatással és a világ e kérdésekkel foglalkozó legjelentősebb kutatóival történő együttműködéssel tölti. Az idő természetére vonatkozóan olyan alapvető modellt állított fel, amely a kvantummechanikánál és a relativitáselméletnél mélyebb, matematikai alapokon nyugszik. Saniga rájött, hogy sok ilyen rendkívüli élmény beszámolója figyelemreméltó matematikai, geometriai leírást ad a Világegyetem téridőbeli felépítéséről, amelyek jól magyarázhatók saját geometriai idő-modelljével. Ezek a beszámolók többnyire olyanoktól származnak, akik soha nem foglalkoztak felsőbb matematikával, és álmukban sem gondolták volna, hogy egyszer majd a matematika személyes érdeklődést támaszt bennük. Így a részletes matematikai leírásoknak valamiféle valós oka kellett legyen, amit nem meríthettek eddigi életük során, csakis a tényleges élmény tapasztalásával. Ezért a matematikai tartalmú élmény-leírások összegyűjtése után a lehetséges matematikai leírások nyomába eredt.  

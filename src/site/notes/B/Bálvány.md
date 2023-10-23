@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bálvány/","title":"Bálvány","tags":["formatted🟢","containstransclusions"],"created":"2023-10-21T04:29","updated":"2023-10-21T10:45"}
+{"dg-publish":true,"permalink":"/B/Bálvány/","title":"Bálvány","tags":["dg_uploaded","containstransclusions"],"created":"2023-10-21T04:29","updated":"2023-10-23T04:25"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 #### A Czuczor-Fogarasi szótár adata:
 
-> Általán bizonyos alakot képező szobor, vagy czobor, például kapubálvány, mely a kapuszárnyát ragasztókép tartja, s teteje fejet ábrázol; bálvány a borsajtóban, felálló rovátkos henger; szárazmalmi bálvány, a kerék tengelye. Ezekből látszik, hogy gyöke eredetileg áll, melyből lett: állvány, előtéttel bálvány, s megfelel neki alapfogalomban a latin `statua` a stando. Lóth felesége sóbálványnyá vált. Innen átv. ért. hamis isteni alakot képező faragvány, öntvény. Bálványokat imádni. Bálvány előtt térdepelni. Arany, kő bálvány. Úgy áll, mint bálvány. A képet nem arany, hanem az imádás teszi bálvánnyá. *"Isteni kéz maradványa! Égő szivemnek bálványa."* (Népdal.)  
+> Általán bizonyos alakot képező szobor, vagy czobor, például kapubálvány, mely a kapuszárnyát ragasztókép tartja, s teteje fejet ábrázol; bálvány a borsajtóban, felálló rovátkos henger; szárazmalmi bálvány, a kerék tengelye. Ezekből látszik, hogy gyöke eredetileg áll, melyből lett: állvány, előtéttel bálvány, s megfelel neki alapfogalomban a latin `statua` s `stando`. Lóth felesége sóbálványnyá vált. Innen átv. ért. hamis isteni alakot képező faragvány, öntvény. Bálványokat imádni. Bálvány előtt térdepelni. Arany, kő bálvány. Úgy áll, mint bálvány. A képet nem arany, hanem az imádás teszi bálvánnyá. *"Isteni kéz maradványa! Égő szivemnek bálványa."* (Népdal.)  
 > Némelyek szerint a bibliai (ba'ál) szótól, mely latinosan [[B/Belus\|Belus]], pogány isten neve, vette volna e második értelmét, valamint a szláv `balvan`, `bolvan`, román `bolovan` is.  
 
 #### Kállay Ferenc A pogány magyarok vallása című könyvében írja:
