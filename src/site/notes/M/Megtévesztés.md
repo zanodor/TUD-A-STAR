@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["formatted🟢"],"created":"2023-10-06T12:05","updated":"2023-10-11T05:48"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["dg_uploaded"],"created":"2023-10-06T12:05","updated":"2023-10-23T04:02"}
 ---
 
 
 # Megtévesztés
-
-
 
 Ma ennek a korát éljük. **Machiavelli A fejedelem** című könyvében ezt tanítja a zsidóknak. Hogyan kell megtévesztéssel operálni, manipulálni.  
 Machiavelli is arról írt, hogy nem kell erőből nyerni, hanem elég megtévesztéssel operálni.  
@@ -79,9 +77,9 @@ A [[F/Felforgatás\|felforgatás]] (angolul *subversion*: "aláforgatás") a má
 
 Az [alábbi](https://youtu.be/84QfjzsT5GM) ÁKTV műsorban 1:54:50-nél mondja KT [[S/Szent Pál\|Szent Pál]]lal kapcsolatban, hogy tipikus esete annak a Cion Bölcseinek Jegyzőkönyvében is megfogalmazott stratégiának, hogy ha máshogy nem lehet kívülről megállítani valamit, *épülj be, állj az élére*. A kereszténységet akkor nem lehetett megállítani.  
 
-Amikor Hervay Tamás alábbi sorait egy Ősi Gyökeres cikkében ([[S/Sárkány\|sárkány]] címnél volt róla szó) olvastam, akkor a [[P/Parazitizmus\|parazitizmus]] címnél taglalt téma jutott eszembe. Az állatvilágban sokszor a parazita rátelepedik a gazda-állatra. Amit HT ír:  
+Amikor Hervay Tamás alábbi sorait egy Ősi Gyökeres cikkében ([[S/Sárkány\|sárkány]] címnél volt róla szó) olvastam, akkor a [[P/Parazitizmus\|parazitizmus]] címnél taglalt téma ötlött fel. Az állatvilágban sokszor a parazita rátelepedik a gazda-állatra. Amit HT ír:  
 Keleten máig a tanítások közt találjuk az ún. tigrislovaglás művészetét. Ez abban áll, hogy ha olyan erőkkel találkozol, melyek nálad erősebbek, akkor azokkal ne szembe szállj, hanem pattanj fel rájuk \[mint [[S/Szent Pál\|Szent Pál]] a kereszténység élére\], lovagold meg őket, de úgy, hogy végül te irányítod a lefolyásukat, így azok szinte magukkal ragadva, de mégis az általad kitűzött célba juttatnak.  
-De ennek kapcsán meg a [[F/Felforgatás\|felforgatás]] címnél említett Yuri Bezmenov féle szintén keleti, harcművészeti fogás jutott eszembe: az erősebb ütését ne kivédeni akard, hanem az ütés irányába húzva a karját repítsd az embert tova útján (míg közben kitérsz előle).  
+De ennek kapcsán meg a [[F/Felforgatás\|felforgatás]] címnél említett Yuri Bezmenov féle szintén keleti, harcművészeti fogás ötlött fel: az erősebb ütését ne kivédeni akard, hanem az ütés irányába húzva a karját repítsd az embert tova útján (míg közben kitérsz előle).  
 
 A másik eszköz a [[P/Politikai korrektség\|politikai korrektség]] fogalma és eljárása. A Polkorrekt 1. rész című [ezen](https://www.bitchute.com/video/89ErNuRN2M7N/) oldalon található ÁKA előadásban 18:00 körül KT kimondja, hogy nyugaton (Amerikában) már tudják, hogy a polkorrektség egyenlő a hazugsággal: ha valamit nem nevezhetek nevén vagy szépítve adom elő, az nem ugyanaz. Ha a polkorrekt fogalmakat használjuk, onnantól nem fogunk őszintén beszélgetni egymással, mert minden szavunkat ki lehet forgatni/gyomlálni és egy olyan fajta öncenzúrát fognak ránk kényszeríteni, amely tarthatatlan, természetellenes. Az évezredek alatt kialakult hagyományos gondolkodás soha sem volt polkorrekt.  
 Mondja még KT a PC-t bunkósbotnak, vállalhatatlan modorosságnak is.  
@@ -146,7 +144,7 @@ A későbbi jövőbeni, [[T/Történelemhamisítás\|történelemhamisítás]] t
 De adós maradtam PG Ősi Gyökeres felszólalás-szövegével:  
 > Fontos tudnunk, hogy a XX. század a "lefedések" százada. Ez azt jelenti, hogy a század folyamán minden valódi keservet egy álkeservvel fedtek le. Ha egyszer én 1920-tól kiszámolom, hogy hány év telt el, s ezt összevetem azzal, hogy 1933-tól 1945-ig hány év telt el; majd összevetem azzal, hogy az egyik miatt hogyan siránkoznak, milyen hangerővel, és a másikért egyáltalán szabad-e sírnunk, akkor az összefüggést nem lehet nem észrevenni. Ha ez valakit semmire nem emlékeztet, akkor idézzük fel 1956 emlékét, amikor a szabadságharc lefedődött valami mással, amit Szueznek nevezünk, pedig jól tudjuk: nem Szuezről volt szó.  
 
-A legnagyobb cover-up az elmúlt 2000 évben a szkíta pogány kereszténységre ráemelt [[J/Judeo-kereszténység\|judeo-kereszténység]] és [[T/Tiszabezdédi tarsolylemez\|tiszabezdédi tarsolylemez]] címnél Grandpierre Attila által körüljárt új üzenet közvetítése: a zsidó féle kereszténység.  
+A legnagyobb cover-up az elmúlt 2000 évben a szkíta pogány kereszténységre ráemelt [[J/Judeo-kereszténység\|judeo-kereszténység]] és [[T/Tiszabezdédi tarsolylemez\|tiszabezdédi tarsolylemez]] címnél Grandpierre Atilla által körüljárt új üzenet közvetítése: a zsidó féle kereszténység.  
 
 ### Fedőterv
 
@@ -251,7 +249,7 @@ Kifelé jótékonyságot mutatnak, karitatív, spirituális szervezetnek tüntet
 Eszközeik: a kettős beszéd, mely más mint a sima hazugság, ez sokkal kifinomultabb. Ezt átvette a sajtó, a média, a politikusok és a papok. Platón, Arisztotelész és Cicero erkölcstelennek nyilvánítva náluk.  
 A kettős játszma úgy néz ki, hogy nem szervezet, csak jótékonyság (ez a látszat); nem hierarchiára épülne, de mégis (33 fokozata van a szabadkőműves beavatottaknak).  
 
-![assets/Megtévesztés_image1.png](/img/user/M/assets/Megt%C3%A9veszt%C3%A9s_image1.png)  
+![assets/Megtévesztés_image1.png|undefined](/img/user/M/assets/Megt%C3%A9veszt%C3%A9s_image1.png)  
 [Ezen](https://www.youtube.com/watch?v=ZFBRVdsICSE) Feltámadás című húsvéti ÁKA előadásban 18:08-nál szól KT arról a kettős hatalmi játékról, ami (nemcsak) Magyarországon zajlik: Magyarországon a magyar emberek szavazatával bekerülnek a politikusok az országgyűlésbe majd pedig ott olyanokat (zsidó uzsoráztató maffia-háttérerőket) kezdenek szolgálni, akiket a magyarság sohasem választott (volna) meg. És amikor kiderül valódi természetük, valódi kötődésük, valódi hitrendszerük, akkor a kettős játékban a politikusnak az a dolga, hogy azt mondja, ami mindenki számára tetszetős: a választónak hogy, "ne idegeskedjetek, mi a ti érdeketekben teszünk mindent," majd a gyarmattartónak ugyanúgy, "ne idegeskedjetek, mi a ti érdeketekben teszünk mindent."  
 
 ## Proto-címkék és negációk
@@ -356,7 +354,7 @@ A megtévesztés egy másik módja a parafrazálás. Az [alábbi](https://youtu.
 ## Hazugságipar
 
 Kubínyi Tamás használta ezt a kifejezést. Előtte nyilván mások is.  
-[Ezen](https://youtu.be/nm0RbK1NX_o) Pap Gábor által tartott [[B/Bakócz Tamás\|Bakócz Tamás]]ról, Mediciekről, Fuggerekről, Dózsa Györgyről szóló előadásásban a [[R/Reneszánsz\|reneszánsz]] címnél taglalt témák után 51:20-nál említi a svájci művészettörténész Jacob Burckhardt A reneszánsz Itáliában című letöltött (nem művészettörténészeti) munkáját, melyre azt a jellemzést mondja, hogy benne leírja, hogyan válik a hazugság politikai intéző fő-főtényezővé.  
+[Ezen](https://youtu.be/nm0RbK1NX_o) Pap Gábor által tartott [[B/Bakócz Tamás\|Bakócz Tamás]]ról, Mediciekről, Fuggerekről, Dózsa Györgyről szóló előadásásban a [[R/Reneszánsz\|reneszánsz]] címnél taglalt témák után 51:20-nál említi a svájci művészettörténész Jacob Burckhardt A reneszánsz Itáliában című (nem művészettörténészeti) munkáját, melyre azt a jellemzést mondja, hogy benne leírja, hogyan válik a hazugság politikai intéző fő-főtényezővé.  
 Ha már Pap Gábor, szerinte a [[T/Tízparancsolat\|Tízparancsolat]] kiegészítendő egy 11.-el: "Ne hazudj!"  
 
 ## Az igazmondó ember szerepében tündöklők
