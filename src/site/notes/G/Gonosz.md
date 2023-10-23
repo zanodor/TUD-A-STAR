@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gonosz/","title":"Gonosz","tags":["dg_uploaded"],"created":"2023-10-06T12:12","updated":"2023-10-23T04:33"}
+{"dg-publish":true,"permalink":"/G/Gonosz/","title":"Gonosz","tags":["dg_uploaded"],"created":"2023-10-06T12:12","updated":"2023-10-23T04:34"}
 ---
 
 
@@ -30,8 +30,8 @@ A japán `kanashii` mellett a [[K/Kanász\|kanász]] nevünk gonosz alakú.
 
 #### Gyárfás Ágnes A Zöld király mesék és a gonosz módszertana (meseelemzés)...
 
-...című az Ősi Gyökér 2009/4. sz. megjelent meseelemzésében a [[Z/Zöld király mese\|Zöld király mesé]]ben működő gonoszt hosszasan elemzi: bőven taglalja a világunkba befészkelő, ügyeskedő, hazudozó, csinált fénnyel játszó gonoszt, majd ezt írja (mondanivalóján másutt is érződik, hogy a zsidó szót szívesen kimondaná):  
-> A gonosznak nincsen célja, mert akinek célja van, az alkot. A gonosznak programja \[[[Jehova-program\|[Jehova-program]] találó elnevezés is volt\] van. A gonosz visszafelé irányít, és arra van beprogramozva, hogy Isten művét megsemmisítse. Ez tehát nem cél, hanem program. Úgy hajtják végre, hogy van egy forgatókönyvük \[Facsar Imre a Bibliára illetve Mózes törvényeire mondja ugyanezt\], melynek pontjait teljesítik és kipipálják \[mint ma a Covid-protokollban\]. Ennek a módszernek van hibahatára. Ezt a gonosz tudja és kábítással, varázslattal, kápráztatással leplezi a hatást. A határ azonban ettől még megvan, s akin nem fog a gonosz kábítása, varázslata, káprázata az észreveszi, hogy a gonosz nem tudja átlépni a határt. Mert a gonosz csak gyors, ügyes, okos tehetséges, sőt zseniális, de hiányzik lelkéből az égi fény.  
+...című az Ősi Gyökér 2009/4. sz. megjelent meseelemzésében a [[Z/Zöld király mese\|Zöld király mesé]]ben működő gonoszt hosszasan elemzi: bőven taglalja a világunkba befészkelő, ügyeskedő, hazudozó, csinált fénnyel játszó gonoszt, majd ezt írja:  
+> A gonosznak nincsen célja, mert akinek célja van, az alkot. A gonosznak programja \[[[Jehova-program\|[Jehova-program]] találó elnevezés is volt\] van. A gonosz visszafelé irányít, és arra van beprogramozva, hogy Isten művét megsemmisítse. Ez tehát nem cél, hanem program. Úgy hajtják végre, hogy van egy forgatókönyvük, melynek pontjait teljesítik és kipipálják \[mint tették a Covid-protokollban\]. Ennek a módszernek van hibahatára. Ezt a gonosz tudja és kábítással, varázslattal, kápráztatással leplezi a hatást. A határ azonban ettől még megvan, s akin nem fog a gonosz kábítása, varázslata, káprázata az észreveszi, hogy a gonosz nem tudja átlépni a határt. Mert a gonosz csak gyors, ügyes, okos tehetséges, sőt zseniális, de hiányzik lelkéből az égi fény.  
 
 A gonosz ezenfelül a materiális javaknak sincs híján; testi erejének latbavetése kapcsán írja még GYÁ:  
 > Ólomszérű Üres álmok lapos helye, a földbedöngölés helye, a fölösleges erőlködések helye. A gonosz, brutálisan testi erő fölényével akarja legyőzni a jót. A csodaital pár cseppje, azonban nagy erőtöbbletet biztosít a hősnek. Üzenet: Az isteni csoda, a lélekerő a gyengét is vasgyúróvá teheti.  
