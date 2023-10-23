@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Stand/","title":"Stand","tags":["formatted🟢"],"created":"2023-10-17T09:33","updated":"2023-10-21T04:24"}
+{"dg-publish":true,"permalink":"/S/Stand/","title":"Stand","tags":["dg_uploaded"],"created":"2023-10-17T09:33","updated":"2023-10-23T02:39"}
 ---
 
 
@@ -17,7 +17,13 @@ Az összes \*sta indo-európai gyökön nyugvó szó eredetet az [[A/Asztal\|asz
 > ASZT elvont gyök, melyből asztag, asztal és ezek származékai erednek. Egyezik a megfordított tesz önálló gyökkel, s rokona a hellen: `staw`, `isthmi`, latin: `sto`, `statuo`, szanszkrit: `sztha` (áll), `szthasz` (állít, helyez) `szthal`, `szthul` (halmoz, rak), német: `stehen`, `stellen`, szláv: `sztojím`, `sztáwám`, stb. Jelentése tehát: valahová tevés vagy állítás, helyezés, rakás.  
 
 Elképzelhető eztán, hogy az indo-európai \*sta- gyök kb. "Istennek emlékül állít," vagy szobor, [[B/Bálvány\|bálvány]] értelmű. Az Ipolyi Arnold Magyar mythologia című könyvének 69. oldalán levő lábjegyzetes adat is erre vonatkozhat:  
-> Klaproth (asia polygi.) a csucsencek polaramerikai népnél: `istlä` isten nevet említ. Gyarmathy (aff. 256), és Révai (ant. 1. 425), szerint közelítenének némely finn népségeknéli elnevezések is, mint az ariaknál um. `es`, assanoknál: `ösz`, lumpoloknál (?) `ets`. Fuchs orv. és neje, a kazani tatároknáli útok leirásában említik, hogy a cseremiszeknéli egyik falujok [[K/Keremet\|keremet]]jén (áldozóhely) álló bálvány `Eshta`-nak neveztetik, Reguly kit erre személyesen is figyelmeztettek, s ki ismét vélem volt szíves közleni, azt a cseremisz `stan` – csinál ige part. pres. `esta` – csináló, teremtő, értelmével véli magyarázhatónak. Ide vágóbb finn találkozásokat még lejebb tárgyalandunk.  
+> Klaproth (asia polygi.) a csucsencek polaramerikai népnél: `istlä` isten nevet említ. Gyarmathy (aff. 256), és Révai (ant. 1. 425), szerint közelítenének némely finn népségeknéli elnevezések is, mint az ariaknál um. `es`, assanoknál: `ösz`, lumpoloknál (?) `ets`. Fuchs orv. és neje, a kazani tatároknáli útok leirásában említik, hogy a cseremiszeknéli egyik falujok [[K/Keremet\|keremet]]jén (áldozóhely) álló bálvány `Eshta`-nak neveztetik, Reguly kit erre személyesen is figyelmeztettek, s ki ismét vélem volt szíves közleni, azt a cseremisz `stan` – csinál ige part. pres. `esta` – csináló, teremtő, értelmével véli magyarázhatónak. Ide vágóbb finn találkozásokat még lejjebb tárgyalandunk.  
+
+Ugyanerre gondoltam [[I/Isztán\|Isztán]] címnél látott CzF sorok alapján:  
+> ESZTENA  
+> A székelyeknél am. juhálló hely, juhfejő szín; akol, hol a juhokat fejik. Máskép: isztina, (a románoknál is `sztena` v. `sztina`). V. ö. ISTÁLÓ.  
+> Szanszkritül `sthânan`, am. állás, tanya; ide tartozik a hellen `sthnai`; a szláv nyelvekben eléfordulnak: `stena`, `sztina`, `sztjena` kőfal jelentéssel, de ezek inkább a német `Stein`-val látszanak rokonoknak.  
+- Azaz a [[S/Stone\|stone]] eredete lenne a kiinduló, és abból (a kőszobor állítása nyomán) alakulna ki az állít és áll értelem. Hasonló esetet láttunk [[M/Monument\|monument]] címnél: a `monere` ige utólagosan képzett.  
 
 [[S/Stare\|Stare]] = bámulni, [[S/Stead\|stead]] és [[T/TÁT\|TÁT]] cím alatt írottak alapján új gondolatmeneten keresztül fejthető meg az indo-európai \*sta- gyök mibenléte.  
 Ha abban megegyezhetünk, hogy a Tát a mindenség teteje, a Sarkcsillag, ahol a különböző kultúrák az Istenüket képzelték el lakni, és a magyar nyelvben is Tát (lehetett) a Sarkcsillag neve; innen valóban érthetővé válik a Tátos (Táltos) neve, de megmagyarázhatja az egyetlen igazán álló (sTATionary) csillag nevén keresztül a latin `stare` = egy helyben állni, angol stand és egyáltalán az indo-európai \*sta- gyök eredetét is: station képződött Tát-ból és csak abból az ige (de [[S/State\|state]] is állam).  
