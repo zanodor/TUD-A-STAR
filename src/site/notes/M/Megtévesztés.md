@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["dg_uploaded"],"created":"2023-10-06T12:05","updated":"2023-10-23T04:02"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["dg_uploaded"],"created":"2023-10-06T12:05","updated":"2023-10-23T05:02"}
 ---
 
 
@@ -140,21 +140,21 @@ A vita kereszttüzébe állítanak két elméletet és csak ezen két tábor sz�
 
 ### Lefedés
 
-A későbbi jövőbeni, [[T/Történelemhamisítás\|történelemhamisítás]] témájához is kapcsolható, de az adott időbeni, akár geopolitikai súlypont-áthelyezés taktikájával tartozhat az, amiről Pap Gábor több előadásában beszél: ez a **lefedés**. Egy kevésbé jelentős esemény elterelő jellegű szándékkal való agyonhangsúlyozása is ide tartozik: ilyen a zsidók Holocaustja (ha még a 6 milliós veszteségük igaz is lenne, a teljes, zsidó világhatalom által kezdeményezett világháborúban a teljes veszteség 100 milliós nagyságrendű), illetve a Black Lives Matter mozgalmat elindító Floyd nevű néger megölése is ide tartozik.  
+A későbbi jövőbeni, [[T/Történelemhamisítás\|történelemhamisítás]] témájához is kapcsolható, de az adott időbeni, akár geopolitikai súlypont-áthelyezés taktikájával tartozhat az, amiről Pap Gábor több előadásában beszél: ez a **lefedés**. Egy kevésbé jelentős esemény elterelő jellegű szándékkal való agyonhangsúlyozása is ide tartozik: ilyen a zsidók Holocaustja (ha még a 6 milliós veszteségük igaz is lenne, a teljes, zsidó világhatalom által kezdeményezett világháborúban a teljes veszteség 100 milliós nagyságrendű), illetve a Black Lives Matter mozgalom beindítására felhasznált Floyd nevű fekete bűnöző megölése is ide tartozik.  
 De adós maradtam PG Ősi Gyökeres felszólalás-szövegével:  
 > Fontos tudnunk, hogy a XX. század a "lefedések" százada. Ez azt jelenti, hogy a század folyamán minden valódi keservet egy álkeservvel fedtek le. Ha egyszer én 1920-tól kiszámolom, hogy hány év telt el, s ezt összevetem azzal, hogy 1933-tól 1945-ig hány év telt el; majd összevetem azzal, hogy az egyik miatt hogyan siránkoznak, milyen hangerővel, és a másikért egyáltalán szabad-e sírnunk, akkor az összefüggést nem lehet nem észrevenni. Ha ez valakit semmire nem emlékeztet, akkor idézzük fel 1956 emlékét, amikor a szabadságharc lefedődött valami mással, amit Szueznek nevezünk, pedig jól tudjuk: nem Szuezről volt szó.  
 
-A legnagyobb cover-up az elmúlt 2000 évben a szkíta pogány kereszténységre ráemelt [[J/Judeo-kereszténység\|judeo-kereszténység]] és [[T/Tiszabezdédi tarsolylemez\|tiszabezdédi tarsolylemez]] címnél Grandpierre Atilla által körüljárt új üzenet közvetítése: a zsidó féle kereszténység.  
+A legnagyobb cover-up az elmúlt 2000 évben a szkíta pogány kereszténységre ráemelt [[J/Judeo-kereszténység\|judeo-kereszténység]] és [[T/Tiszabezdédi tarsolylemez\|tiszabezdédi tarsolylemez]] címnél Grandpierre Atilla által körüljárt új üzenet közvetítése: a zsidó-kereszténység.  
 
 ### Fedőterv
 
-[Ezen](https://youtu.be/GlqDV7MM-7s) saját csatornára feltett videóban (pár perc az egész) KT elmondja, hogy [[D/Democracy\|demokrácia]] soha sem volt.  
+[Ezen](https://youtu.be/GlqDV7MM-7s) saját csatornára feltett videóban (pár perc az egész) KT elmondja, hogy [[D/Democracy\|demokrácia]] sohasem volt.  
 Ugyanezt mondja Drábik János: demokrácia nincs és nem is volt; a demokrácia káosz (a háttér illetve meghatározó uralkodási forma a despotizmus, az önkényuralom).  
 A demokrácia olyan fogalom, mint a (szkíta-)[[K/Kereszténység\|kereszténység]]: mögé lehet bújni a diktatúra képviselőinek és a zsidóknak.  
 [Ezen](https://www.bitchute.com/video/K6HkO8QanR5g/) ÁKTV műsorban KT is említi, hogy a [[D/Democracy\|demokrácia]] egy fedőterv a globális pénzdiktatúrának.  
 A rendszerváltás \["gengszter-váltás"\] fogalma hasonlóan működik: az emberek azt gondolják, a [[K/Kommunizmus\|kommunizmus]]nak vége, csak éppen más néven fut. A megtévesztés egyik formája, hogy *bejelentik, hogy egy adott címke alatt futó ideaológiának, korszakának vége*, holott nagyon is folytatódik. Kubínyi Tamás is szokta mondani, hogy amikor a kommunizmusban ha valamiről kiadták, hogy vége, az azt jelentette, hogy most kezdődik csak igazán.  
 
-A fedősztori kifejezést ismerjük. Az [[M/Magyar nyelv és nyelvcsaládok#Ausztráliai magyar nyelv\|ausztráliai magyar nyelv]] cím/alcímnél említett Max Igan féle videóban 22:30-nál is arról volt szó, hogy a spanyol judeo-keresztény hódítók nem az aranyat ellopni mentek oda, hanem kiírtani a az ősi nyelven beszélőket. Az arany, mint kézenfekvő ösztönző ellopása csak figyelemelterelés (*red herring*-ről is volt itt szó más alcím alatt), a fedősztori volt.  
+A fedősztori kifejezést ismerjük. Az [[M/Magyar nyelv és nyelvcsaládok#Ausztráliai magyar nyelv\|ausztráliai magyar nyelv]] cím/alcímnél említett Max Igan féle videóban 22:30-nál is arról volt szó, hogy a spanyol judeo-keresztény hódítók nem az aranyat ellopni mentek oda, hanem kiirtani a az ősi nyelven beszélőket. Az arany, mint kézenfekvő ösztönző ellopása csak figyelemelterelés (*red herring*-ről is volt itt szó más alcím alatt), a fedősztori volt.  
 
 ### Levédés
 
@@ -228,7 +228,7 @@ A kiindulópont az, hogy az ősi turáni (magyar) szemléletet a [[S/Szemiták �
 
 ## Kettős mérce, kettős játszma
 
-Épp fentebb említettem. Alkalomadtán lehet valamit írni róla. A hatalomnak például finnugristáknak bármit lehet, de az ellenük szólóknak semmit. A zsidókról már nem is beszélve: róluk rosszat *mondani* nem lehet, de nekik *tenni* bármit (gójok kiírtása) szabad. A jogrendszer is így működik.  
+Épp fentebb említettem. Alkalomadtán lehet valamit írni róla. A hatalomnak például finnugristáknak bármit lehet, de az ellenük szólóknak semmit. A zsidókról már nem is beszélve: róluk rosszat *mondani* nem lehet, de nekik *tenni* bármit (gójok kiirtása) szabad. A jogrendszer is így működik.  
 
 Marácz László [ezen](http://www.magtudin.org/Maracz%20L.%20Untenability%20of%20Finno-Ugric%20Theory.htm) cikkében a finnugrászok kettős mércéjét említi:  
 5\. Double standards are permitted for Finno-Ugric linguists.  
