@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["formatted🟢"],"created":"2023-10-03T11:13","updated":"2023-10-03T11:19"}
+{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["dg_uploaded"],"created":"2023-10-03T11:13","updated":"2023-10-23T04:03"}
 ---
 
 
 # Nap – halott Nap
 
 Jankovics Marcell A Nap könyve című könyvének ([[H/Háromszögletű Nap\|háromszögletű Nap]] címnél is szereplő) adata szerint az ókori Egyiptomban négy Napot azaz Napminőséget[^1] különböztettek meg: a kelő/reggeli (neve a galacsinhajtó bogár, a [[H/Hórusz\|Hórusz]] és [[S/Scarabeus\|scarabeus]] címnél is említett Kheper), delelő (Ré-Harahti) és az öregember lenyugvó ([[A/Atum\|Atum]]) Nap alkotta a nappali triászt, mely kiegészült az éjszakai (halott) na pisten (Ozirisz) személyével. Magyar analógiája is létezik mindennek.  
-![assets/Naphalott_image1.png](/img/user/N/assets/Naphalott_image1.png)  
+![assets/Naphalott_image1.png|undefined](/img/user/N/assets/Naphalott_image1.png)  
 Beszámol ugyanis Bosnyák Sándor arról, hogy a szegedi házhomlokzatok, tetők mintázatában "a szegedi parasztok a napfelkeltét, a delelést, a napnyugtát, alul a zárt rekeszekben az éjszakát látják."  
 
 Elterjedt hiedelem szerint a [[G/Göncöl\|Göncöl]]szekér szállítja a túlvilágra a halott napisten tetemét.  
@@ -83,7 +83,7 @@ A Sarkcsillag az az éjszakai Nap, mely körül ugyanúgy kőröznek a csillagok
 A Nap – halott Nap és [[N/Nap#Nap – Ellen-Nap\|ellen-Nap]] cím/alcímeket eleddig nem kapcsoltam össze. Ugye a [[S/Sarkcsillag\|Sarkcsillag]] címnél is volt [[S/Sarkcsillag#Sarkcsillag és Szíriusz azaz miben áll Sarkcsillag – Szíriusz kapcsolata\|Sarkcsillag és Szíriusz azaz miben áll Sarkcsillag – Szíriusz kapcsolata]] alcím. Az a közös kapocs.  
 A halott Nap kapcsán érdekes még a [[K/Kelet és észak\|kelet és észak]] címnél szereplő passzus.  
 
-![assets/Naphalott_image2.png](/img/user/N/assets/Naphalott_image2.png)  
+![assets/Naphalott_image2.png|undefined](/img/user/N/assets/Naphalott_image2.png)  
 Falvay Károly Nagyboldogasszony című könyvének 164-165. oldalán szól égtájakról és mitikus kapcsolatukról. Nála is nyilván az elnyugvás helye nyugat, a többit lásd a csatolt képen. Egyiptomi példát is hoz, melyről JM ezt írja Ahol a madár se jár című könyvében:  
 > Egyiptomi példa nyomán nagyon valószínű, hogy a régiek úgy hitték, **a télen halott (a magas északon hosszabb időre a horizont alatt rekedt) Nap északon, az istennő méhében (a köldöke mögött) várja *keleti* újjászületését**.  
 
@@ -91,7 +91,7 @@ Másutt viszont (azt hiszem, szintén JM-é), FK adatával is kapcsolatot mutat�
 > Az örök körforgás mítoszaiban és meséiben a halál nemzés, fogantatás értelmű, a halotti állapot magzati lét. Ezért lett a kelő, megszületendő Nap mindenkori helye észak, mert abszolút kelet nem létezik.  
 
 Amit JM nem mond ki, hogy a halott Nap északi téridőbeli helye rámutat a Napisten atyjának a Teremtő Isten (aki Égistenként az antikvitásban androgün vagy nőiségi Istennő) csillagkép-lakhelyére: Szíriusz-Orion övezetére és a szintén északi Nagy Medvére és a mindenkori Sarkcsillagra gondolunk. Lásd a témáról [[A/Anu\|Anu]], [[T/Typhon\|Typhon]], [[S/Szíriusz és a medvék\|Szíriusz és a medvék]], [[A/Arthur\|Arthur]], és más címnél írottakat. Ezért találjuk az istennel azonosított [[S/Szarvas\|szarvas]]t az égen Orionban és a Medvék irányában is.  
-Amikor [[A/Arthur\|Arthur]] címnél az [[A/Áld\|áld]]oz fogalma és szava szóba került, akkor is a halott Napisten = Égisten (téridőbeli helye) kapcsolata jutott eszembe és JM több helyen szereplő passzusa, melyben a halott áldozat szerepét kell kiemelten keresni:  
+Amikor [[A/Arthur\|Arthur]] címnél az [[A/Áld\|áld]]oz fogalma és szava szóba került, akkor is a halott Napisten = Égisten (téridőbeli helye) kapcsolata ötlött fel és JM több helyen szereplő passzusa, melyben a halott áldozat szerepét kell kiemelten keresni:  
 > A szólás, hogy "letörte a szarvát", az ősi bikaáldozatra utal (Héraklész Akhelóiosz fölötti győzelme e szólás mítoszi forrása), s ugyancsak halál-jelentése lehetett eredetileg az e szólással látszólag éppen ellentétes értelmű felszarvazásnak". A túlvilágra költöző uralkodót, hőst, áldozatot ékesítették föl a csak "istent" megillető szarvakkal. Így illett a már túlnan lévők sorába. (Zolnay 1983: 272 skk.) Újabb kori értelmét a kifejezés annak köszönheti, hogy az elhunyt asszonyait utóda örökölte meg – nem egyszer épp az a személy, aki életét is kioltotta. Az alvilág fejedelmét, az ördögöt (krampuszt) és a boszorkányt szarvas lénynek képzelték, ezért voltak "szarvas" \[szarv-as\] állatok a kísérőik (bakkecske, fülesbagoly). A sorba illik maga a szarvas is (gör. `keraosz` "szarvas").  
 
 Ezt az égtájirányokkal kapcsolatos káoszt helyre kellene tenni. FK-nál a mag(zati lét) helye dél, viszont JM-nél ott a magzat, ahol a foganás, ahol a halál. Ennek magyarázata, hogy a téli napfordulónál van a legkevesebb fény, ezzel szemben a fenti észak éjszak(a) területe.  
@@ -101,9 +101,9 @@ Az égtáj-irányokkal itt még az is a bajom, hogy a 2D kontra 3D felfogás nin
 
 ## A Nap halála
 
-#### Grandpierre Attila Karácsony eredete és jelentősége...
+#### Grandpierre Atilla Karácsony eredete és jelentősége...
 
-...című letöltött cikkében írottakkal vezessük be:  
+...című cikkében írottakkal vezessük be:  
 > Lehet-e a Nap legyengült, erejét vesztett állapotban?  
 > Erre a kérdésünkre ismét csak igenlő választ kapunk. A Nap ugyanis legalább három jelenségében tekinthető "legyengült"-nek, "erejét vesztett"-nek. Az egyik ilyen jelenség a [[N/Napfogyatkozás\|Napfogyatkozás]]. A másik a Nap téli erejét vesztése, amely a [[T/Téli napforduló\|téli napforduló]]kor tetőzik. A harmadik a napnyugta.  
 > Vegyük először szemügyre, mi történik napfogyatkozáskor. A Nap korongjának egyre nagyobb része sötétül el, s teljes napfogyatkozáskor egyszercsak varázslatos, rendkívüli jelenség tűnik fel: felragyog a Nap addig láthatatlan [[K/Korona\|koroná]]ja (lásd Tóth László: Napfogyatkozás és népművészet című cikkét, Természet Világa, 1999/8, 366-367. oldal; Tóth László és Végvári József, Napfogyatkozás és népművészet, 2001, és az előző, Aranyalma és sárkány a Világfán című fejezetünket). **A szárnyas kígyó a sárkány**, a magyar népmesék, a kelta és a kínai azonosságtudat központi szereplője. Csillagászati tény ugyanis, hogy a Nap öntevékeny égitest, felszínéről hol itt, hol ott kitörések forró anyagot dobnak ki, amelyek óriási lángoló tűznyelvekként utaznak az űrben. Ez a természettudományos magyarázata a sárkányok jellegzetes tulajdonságának is: ahány fejük van, annyi tüzet hánynak. A szárnyas sárkány sokezer éves ősi jelképe azt is mutatja, hogy az ősi ember tudta, hogy a Nap tűzből áll – bár ezt a tényt az ókori kultúra csúcspontjának tekintett görög kultúrában Anaxagoras csak az i.e. 4. században vetette fel először.  
