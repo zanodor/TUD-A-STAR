@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["unformatted⚪"],"created":"2023-10-16T01:30","updated":"2023-10-16T01:30"}
+{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["dg_uploaded"],"created":"2023-10-16T01:30","updated":"2023-10-23T02:40"}
 ---
 
 
 # Széth
-
-
 
 Fontos egyiptomi mitológiai alak, ki egyfelől testvérének, Ozirisznek, és – a Hamlet Malma című könyv írói által sokat taglalt – unokaöccsének, [[H/Hórusz\|Hórusz]]nak ellenlábasa. Alakjáról bevezetésként lásd Jankovics Marcell írását és Robert Graves adatát [[S/Szamár\|szamár]], továbbá, szintén JM írásokkal kiegészített [[O/Osiris és Set\|Osiris és Set]] címet. [[A/Apep\|Apep]] címnél is szóba került.  
 Kevés olyan alak van, akit vagy 5-6 vagy még több csillagászati formával, égitesttel, csillagképpel is azonosítottak. Ez is mutatja, hogy rendkívül bonyolulttá vált az ősi tudás követése.  
@@ -21,10 +19,10 @@ A könyv 279. oldalán is érdekes dolgokat ír. Például:
 > A zavaros állapotok után Séth az új rendet szolgálta. Tudomásul vette, hogy a világegyetem szabályozadan erői lettek az urak. A mozgásba jött új renddel a létezés követelményeiből eredően segítette fönntartani[^1] azt. Az Oziris fesztiválokon ezek után Séth volt a hajón a kapitány, amely vitte Oziris képmását végig a Níluson. Vitte a Napot, az éjszaka vizes mélységein keresztül.  
 
 A mellékelt kép(en, ahol **Sít** nevűnek adatolt) Archibald Henry Sayce, Gaston Maspero – The Dawn of Civilization – Egypt and Chaldæa című könyvük 133. oldaláról való.  
-![assets/Széth_image1.png](/img/user/S/assets/Sz%C3%A9th_image1.png)  
+![assets/Széth_image1.png|undefined](/img/user/S/assets/Sz%C3%A9th_image1.png)  
 
 Egy bazaltfaragáson nejével, [[N/Nephthys\|Nephthys]]-szel látjuk hasonló fejformával.  
-![assets/Széth_image2.jpeg](/img/user/S/assets/Sz%C3%A9th_image2.jpeg)  
+![assets/Széth_image2.jpeg|undefined](/img/user/S/assets/Sz%C3%A9th_image2.jpeg)  
 Edward P. Butler igen profin összeállított (Wikipédiánál sokkal részletesebb, gazdagabb adatokkal szolgáló) [oldalán](https://henadology.wordpress.com/theology/netjeru/) [[E/Egyiptom istenei\|Egyiptom istenei]]ről közöl adatokat. Az [alábbi](https://henadology.wordpress.com/theology/netjeru/anat/) oldalon Széth kapcsán azt írja, hogy fiának neve [[M/Maga\|Maga]] és krokodilként ábrázolták. (A [[M/MAG\|mag]] (gyök) sok nyelvben fiú jelentésű; gondolom itt nem a [[M/Magor\|Magor]] nevet kell keresni azért.)  
 Butler minden, különösen Széth-tel kapcsolatos adata fontos lehet.  
 
@@ -46,7 +44,7 @@ Egyébiránt Széth az [alábbi](https://www.ancient.eu/Set_(Egyptian_God)/) old
 Széth Napistenként kezelése tehát leginkább úgy képzelhető el, hogy ő a Hunor-hoz hasonló sötét (öreg) Napisten. Hunor és Széth Szíriusszal való kapcsolata miatt alakulnak ki más aspektusai.  
 
 Magyar Adorján Ősműveltség című könyvének (a PDF) 1725. oldalán mint Földisten jön elő, mondhatjuk forrásai nyomán tévesen, hiszen [[N/Nut\|Nut]] alatt [[G/Geb\|Geb]] kell legyen. Lásd a csatolt képen.  
-![assets/Széth_image3.png](/img/user/S/assets/Sz%C3%A9th_image3.png)  
+![assets/Széth_image3.png|undefined](/img/user/S/assets/Sz%C3%A9th_image3.png)  
 
 De úgy tűnik másutt is áll ez a felfogás. BL írja:  
 > Az egyiptomiak, akárcsak őseink, a világot dualisztikusan (kettős osztályozással) értelmezték (Ég-Föld, Hórusz-Szét, Észak-Dél, két ország, két part, stb.).  
@@ -77,7 +75,7 @@ Ezek alapján (és a bibliai [[E/El Shaddai\|El Shaddai]] névvel való azonoss�
 Persze hogy mi minősül "eredeti" istennek, ezzel csínján kell bánni, mert a végén ráfogják, hogy az eredeti tanítások náluk vannak. A Széth féle eredetiség a sátán istennő által képviselt szűzállapotra és csillagvallási időkre utal. Évköri értelmezésben Széth már a káosz erőit testesíti meg, ahogy Huszárik László Denderai csillagképek, hónapok és mítoszok c. a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXXIII./10. sz. megjelent cikkében is írja[^2]:  
 > A(z egyiptomi részről látható) hasonlóságok felvetik a (babiloni) ráhatás lehetőségét, a csillag elnevezések emlékeztetnek Gilgames történetre, de az egyiptomiak saját történetüket teremtették meg. Ábrázolásaik azt mutatják az égbolton, amit a földön szerettek volna látni. Széth káosz erőinek megfékezését üzenik, Ozirisz szeretet isten és követői segítségével.  
 
-![assets/Széth_image5.png](/img/user/S/assets/Sz%C3%A9th_image5.png)  
+![assets/Széth_image5.png|undefined](/img/user/S/assets/Sz%C3%A9th_image5.png)  
 A mellékelt Széth állatjelét ábrázoló képekhez tartozó info:  
 > In ancient Egyptian art, the Set animal, or sha, is the totemic animal of the god Set. Because Set was identified with the Greek Typhon, the animal is also commonly known as the Typhonian animal or Typhonic beast.  
 
@@ -101,7 +99,7 @@ De ha már itt tartunk, a Szíriusz [[S/Sothis\|Sothis]] nevénél (és immáron
 
 Mindezen fentiek alapján is érthetetlen, hogy az [[O/Orion övcsillagai\|Orion övcsillagai]]nál szereplő Bauval/Hancock kettős által felvázolt képen miért azonosítják Széthet a Lepus (Nyúl) csillagképpel. (Az igaz, hogy az [[A/Agár\|agár]] és a [[H/Hare\|hare]] erdete is lehet egy, akár, vagy hasonló.)  
 
-![assets/Széth_image6.png](/img/user/S/assets/Sz%C3%A9th_image6.png)  
+![assets/Széth_image6.png|undefined](/img/user/S/assets/Sz%C3%A9th_image6.png)  
 Nevének értelmét a [[S/SZET\|SZET]], setét, [[S/Sátán\|Sátán]] nevekkel feleltettük meg, hiszen ő az egyik erő az [[E/Ellentétek harca\|ellentétek harcá]]ban (lásd legutóbb [[E/Ellen\|ellen]] címnél írottakat is), az [[I/Istenek háborúi\|istenek háborúi]]ban, azaz a [[S/Szét és össze\|szét és össze]] címnél írottak alapján Széth képviselheti a [[S/Szét\|szét]], Ozirisz az [[O/Össze\|össze]] fogalmát. De a mellékelt táblázatba foglalt PJI adat szerint szét a [[T/Tesz\|tesz]] szavunk megfordításaként, ellentettjeként is felfogható, illetve azt se feledjük, hogy [[S/SZET\|SZET]] = kezdet, márpedig minden földi élet a [[K/Kutyanemzés\|kutyanemzés]]sel kezdődött.  
 
 A SZET = kezdet tehát nem más, mint [[S/Szít\|szít]], mely (egyfelől) nemzés (másfelől széthúzás) értelmével ugyanaz, mint az a Szűz, melyről [[S/Szűz csillagkép#Szűz és Sátán\|szűz és Sátán]] cím/alcímnél úgy írtunk, hogy ezen Sátán és Szűz minőségek megfeleltethetők egymásnak. Ezáltal megfelelnek Széth-nek is (nemcsak Szíriusz [[A/Androgün\|androgün]]itását figyelembevéve, hanem azt is, hogy a Széth-jelképállatok közül a [[K/Kutya\|kutya]] és [[S/Szamár\|szamár]] is termékenység-jelkép).
@@ -113,7 +111,7 @@ Lásd még [[F/FU\|FU]], [[D/Dévák és Aszúrák\|Dévák és Aszúrák]], [[A
 
 A fentebb álló Fáy Elek féle adat a setétségről és a német Brugsch által adatolt Setat név is a [[S/Satet\|Satet]] címnél írottak alapján érthető meg még. Azon címnél legalul végkövetkeztetésként írtuk, hogy a Satet név tulajdonképpen bizonyságot ad [[S/Széth\|Széth]] sötét[^5] és szíriuszi karakterére (a [[S/Sothis\|Sothis]] név, bár az indo-európai kutatók számára hasonló név, mégsem azonos vele és inkább a pozitív aspektusára utal Szíriusznak). Afféle rámutatásnak tűnik ez, mint a [[M/Magyar\|magyar]] címnél álló adat, miszerint (egy thebai monda szerint) [[H/Herkules\|Herkules]] neje Megara nevezetű volt (ezzel utalnak Herkules és [[M/Magor\|Magor]] azonosságára), vagy hogy a trójai Helene apja neve Tünderaosz, mely együtt rámutat, hogy a nőalakban Tündér Ilonát kell látni.  
 
-![assets/Széth_image7.jpeg](/img/user/S/assets/Sz%C3%A9th_image7.jpeg)  
+![assets/Széth_image7.jpeg|undefined](/img/user/S/assets/Sz%C3%A9th_image7.jpeg)  
 Sokatmondó, hogy fejét [[S/Szamár\|szamár]]- és kutyaábrázolással jelenítik meg (lásd képet is [[K/Kutya\|kutya]] és [[K/Kutyafejű\|kutyafejű]]; de ide is csatoltam[^6]), viszont ilyenformán éppen, hogy nem szabadna negatív alaknak lennie (eredetileg nem is volt).  
 A [[S/Szamár\|szamár]] mellett a [[V/Vadkan\|vadkan]] még az, mely vele kapcsolatba hozatott és tudjuk, hogy a [[K/Kutya\|kutya]] és a [[D/Disznó\|disznó]] milyen negatív megítélésű, tisztátalannak tartott állatok voltak egyes kultúrákban:  
 
@@ -157,7 +155,7 @@ Plutarkhosz magyarázata még az lehetett volna, hogy a Nagy[[G/Göncöl\|Gönc�
 
 ...című könyvében írja Széth-ről:  
 > Sok ismert rege \[lásd például [[M/Mithra és a bika\|Mithra és a bika]]\] a héroszoknak a bikával vívott küzdelméről szól. Ezek egy része a [[T/Tavaszpont\|tavaszpont]] birtoklásáért folyik a régi tulajdonos, a Bika, és az utód, a Kos képviselője között. Az elbeszélő ezekben a történetekben az új korszak pártján áll, ezért a Bika a letűnt világ, immár alvilág képviselője.  
-> ![assets/Széth_image8.png](/img/user/S/assets/Sz%C3%A9th_image8.png)  
+> ![assets/Széth_image8.png|undefined](/img/user/S/assets/Sz%C3%A9th_image8.png)  
 
 > Egyiptomban ez a harc a Széth bika és Hórusz napisten között folyik. Persze Hórusz győz – a Széth-kultusz az óbirodalom végén lehanyatlik Egyiptomban –, a napisten megölt ellenfelét földarabolja, combját a [[S/Sarkcsillag\|Sarkcsillag]]hoz kötözi. A "Marhacomb" csillagkép \[lásd Huszárik László adataival [[M/Meszehtiu\|Meszehtiu]]\] a mi [[G/Göncöl\|Göncöl]]szekerünk, amelyet egy római korból való csillagtérképen ugyanolyan kos őriz, amilyen az állatövi jegyek sorában is található, A krétai Minotaurusz-mítosz egyik lehetséges jelentése szintén ez.  
 - Folyt. JM könyvének 119. oldalán.  
@@ -198,7 +196,7 @@ Az alábbiak [[T/Trója\|Trója]] címnél is szerepeltek és JMJ is erről szó
 
 A történet másutt képpel is ellátva:  
 > In the Izapan-Mayan Creation myth, Seven Macaw (the Big Dipper) had to be defeated before the Hero Twins' father (One Hunahpu, the December solstice sun) could take his place as the next World Age ruler. The earlier circumpolar deity of the Olmec (the Big Dipper) had to be dethroned, and I have suggested that precessional movement was the basis of this myth. In other words, the story of Seven Macaw's fall encoded the astronomical process by which the Big Dipper "fell away" from the North Celestial Pole (fig. 2.1).  
-![assets/Széth_image9.png](/img/user/S/assets/Sz%C3%A9th_image9.png)  
+![assets/Széth_image9.png|undefined](/img/user/S/assets/Sz%C3%A9th_image9.png)  
 
 Legutóbb [[T/Typhon\|Typhon]] címnél is szerepelt...
 
@@ -238,7 +236,7 @@ A Hamlet Malmában is szó volt időháborúkról és In Search of the Cradle of
 
 #### Robert Graves The White Goddess...
 
-...című könyvének 290. oldalán – ahogy [[O/Orion övcsillagai\|Orion övcsillagai]] címnél is említettük – **Széth phallosza**ról szól, de a normális esetben Oziriszhez köthető Orionnal hozza kapcsolatba:  
+...című könyvének 290. oldalán – ahogy [[O/Orion övcsillagai\|Orion övcsillagai]] címnél is említettük – **Széth phalloszá**ról szól, de a normális esetben Oziriszhez köthető Orionnal hozza kapcsolatba:  
 > The appeal is to the baleful God Set, whose starry phallus appears in the Constellation Orion, to restrain his anger.  
 - Jane B. Sellers, The Death of Gods in Ancient Egypt című könyvének adata szerint "száműzték" volna Orion helyére:  
 > Seth ... originally connected with the Hyades, the V-shaped, head-like part of our constellation, Taurus. As the brother of Osiris, his position in the sky was adjacent to Orion ... an important court decision gave the office of Osiris to Horus, and Seth was banished to a position bearing the 'southernʼ constellation of Orion ... ʼ  
