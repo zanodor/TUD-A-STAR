@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["formatted🟢"],"created":"2023-10-14T07:28","updated":"2023-10-14T07:28"}
+{"dg-publish":true,"permalink":"/S/Szentháromság/","created":"2023-10-14T07:28","updated":"2023-10-14T07:28"}
 ---
 
 
 # Szentháromság
-
-
 
 Többféle szentháromság létezik. Az ősmagyarnak mondott Atya-Anya-Fiú háromság és a test-lélek-szellem hármassága mellett a lentebb külön alcímnél taglalt [[J/Judeo-keresztény\|judeo-keresztény]] vallás Atya-Fiú-Szentlélekén kívül említhető az egyiptomi Ízisszel azonosított Szíriusz ([[S/Sothis\|Sothis]]), [[V/Vénusz\|Vénusz]] és a Szűz Csillagkép [[S/Spica\|Spica]] csillaga (DCS ajánlására).  
 Említhető a judeo-keresztény egyházat (jóval) megelőző, csillagvallás-kori világkép, amelyben a magyar Én, Te, Ő személyes névmások mind Isten jelentésűek. Az angol ill. indo-európai árja egy-kettő-három számokban szintén jelen van a magyar világkép: az Egy fogalma az Ég irányába mutat, mert az Ég az Egy és Egyetlen (Án), a kettő a Nap (Tu, Utu), a harmadik a Csillag (Tri, Ter).  
@@ -29,7 +27,7 @@ KT itt még a szentlélek eredeti anyai\[?\] formája kapcsán az örök [[A/Any
 Az ősi szentháromság jelképéről is szót ejt: a több helyen említett ([[S/Symbol\|symbol]] címnél például) csúcsával felfelé és lefelé álló háromszög, közepén a ponttal. A hím és női erő, közepén a gyermekkel. És hogy miként lesz a jelkép Izrael zászlaja, eltörpül ez ahhoz képest, hogy miképp lesz a Szent Földből Izrael állam? A keresztény Szent Föld az amit megszáll az iszlám és a zsidó állam is.  
 Ezen a ponton kell arról is beszélni, hogy a [[S/Szakrális geometria\|szakrális geometria]] címnél is a két idom adta meg a teremtett világról alkotott képet, csak ott nem síkidomokról, hanem gúlákról (négyzet alapú és háromszög oldallapú geometriai testek és tudjuk, hogy a három és négy is lehet a Nap száma).  
 
-A Kagylókürt 2010. 54. számából letöltésre elérhető Szendrei László: Az ősmagyar vallásosságról – A Szent István előtti magyarság vallási élete című jól megírt, több helyen idézett cikkében írja ([[S/Szkítizmus\|szkítizmus]] címhez is betéve) (érdekes/furcsa a Szentlélek-Isten kifejezés, ugyanakkor [[I/Isa\|isa]] címnél taglaltak alapján akár érthetem is):  
+A Kagylókürt 2010. 54. számából Szendrei László: Az ősmagyar vallásosságról – A Szent István előtti magyarság vallási élete című jól megírt, több helyen idézett cikkében írja ([[S/Szkítizmus\|szkítizmus]] címhez is betéve) (érdekes/furcsa a Szentlélek-Isten kifejezés, ugyanakkor [[I/Isa\|isa]] címnél taglaltak alapján akár érthetem is):  
 > "Három a magyar igazság" – tartja a régi közmondásunk, ami részben az Isten-képünkre is helytálló megállapítás, mivel legalább a szkíta-kor óta a magyarság Isten-képének három meghatározó eleme, aspektusa van: Atyaisten, Anyaisten/Isten-Anya (Boldogasszony), Szentlélek Isten. Fiúisten azért nincs, mert az ún. szkíta-kereszténység Istenképe sok-sok évszázaddal (talán évezreddel) Jézus eljövetele és földi ténykedése előtt már létezett. Ám megjegyezendő, hogy a középkortól Úristenen a magyarok már Jézust is értik.  
 
 A Szentlélek-Isten kapcsán írja ([[T/Turul#Turul mint Szentlélek\|Turul mint Szentlélek]] cím/alcímnél is szerepelt):  
@@ -50,7 +48,7 @@ Perzsiában az Achaemenida Artaxerxes II[^2] uralkodó által építetett szobro
 > Artaxerxes' inscription at Susa reads: "By the will of Ahura Mazda, Anahita, and Mithra I built this palace. May Ahura Mazda, Anahita, and Mithra protect me from all evil" (A²Hc 15-10). This is a remarkable break with tradition; no Achaemenid king before him had invoked any but Ahura Mazda alone.  
 - Ez a szentháromság megvan sok kultúrában, de erről az Encyclopedia Iranica írói nem tesznek említést.  
 
-#### Tibold Makk Szabina Aranykalickából kiröppenő gondolatok...
+#### Gyárfás Ágnes lánya, Tibold Makk Szabina Aranykalickából kiröppenő gondolatok...
 
 ...című az Ősi Gyökér 2009/1. sz. megjelent cikkében írja ([[H/Három istennő\|három istennő]] címnél is szerepelt):  
 > James Mellaart szerint Catal Hüyük (jelenleg Konya Törökországban) neolitikus kori népének kultúrája Kr.e. 6500-tól számítva minimum 1000 évig virágzott. Ezt írja Mellaart a feltárt emlékek és sírok megvizsgálása után: "Elsőrendű istenségük az Istennő volt, akit három aspektusában jelenítettek meg, mint fiatal Szüzet, a Szülő Anyát és a Bölcs Vénasszonyt". Ő volt az eredeti 'Szentháromság'.  
@@ -65,18 +63,18 @@ Perzsiában az Achaemenida Artaxerxes II[^2] uralkodó által építetett szobro
 
 ...című könyvének 135. oldalán iráni, egyiptomi, krétai és magyar párhuzamokra építve írja:  
 > **A legrégibb szentháromság-rendszer az anya-leánya-fiúgyermek harmasság**; e hármas összefüggéséről beszél az iráni, az egyiptomi, a krétai és a mi kultúránk is[^3]. Ez a képzet változott át a bronzkor kései szakaszában[^4] atya-anya-fiú hármasságra, majd a \[judeo-\]kereszténységben teljes férfiúi hármasságra (atya, szentlélek, fiú). A három rendszer változása pontosan követhető emlékeinkben.  
-![assets/Szentháromság_image1.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image1.png)  
+![assets/Szentháromság_image1.png|undefined](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image1.png)  
 
 Nyilván a [[N/Nagyboldogasszony\|Nagyboldogasszony]] és [[K/Kisasszony\|Kisasszony]] lenne az [[A/Anya#Kettős anyaság\|kettős anyaság]] cím/alcímnél is taglalt két nőiség. A fiú neve nála ki lenne? Nyilván nem Magor vagy Jézus. Esetleg az Éganyára, Holdanyára és a Napra gondolt? És mi a helyzet a Földanyával? Ha a hármasságot meg akarjuk tartani, melyik esne ki?  
 
 Arról is lehet beszélni, hogy az ősi, csillagászati-kozmikus alapú világkép leginkább az anya-fiú kettősségen alapult (a Napvallások korában az anya jelentősége elhalványult). A kettősségből pedig úgy lesz háromság, hogy a lány az anya fiatalkori énje, míg a fiú felnőve apa lesz (Magorból Hunor-Orion). Ez a fajta szemlélet nyilván kevésbé ismert magyar őskutatási berkekben.  
 
 Egyébként a magyaroktól árjákhoz került szavakat elnézve Magyar (Ilona) > [[M/Mother\|mother]], Tündér (Ilona) > [[D/Daughter\|daughter]] és Sün/Szony > Sun/[[S/Son\|son]] meg is felelne, de az árják nem olyan régiek. Falvaynak igaza is lehet tehát, de szívesen megnézném azokat az egyiptomi, iráni és krétai istenháromságokat. A mellékelt képek mennyire biztosan azt ábrázolják, amit szeretnénk látni? Magyar részről, Metterciáról lásd itt[^5]. (Egy másik csatolt képen is lásd.)  
-![assets/Szentháromság_image2.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image2.png)  
+![assets/Szentháromság_image2.png|undefined](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image2.png)  
 Még egy pillanatra visszatérve: a [[L/Lány\|lány]]/[[S/Szűz\|szűz]] a későbbi (szülő)anya fiatal önmaga. A lány a magyar nyelvben kettős jelentésű. A germán nyelvekben alakult ki a külön lány (fiatal nő) és a lánya valakinek jelentésű két szó. Igaz, a [[D/Daughter\|daughter]] is éppen az anya fiatalkori tündér/szűz önmagára utal, de ezt már a mai nyelvet használók nem tudják. Ezért is gondolnám, hogy külön a magyar lány-aspektussal nem kellene annyira törődni (dacára a mellékelt mykénéi ábrázolás jelentőségére). [[A/Anya#Kettős anyaság\|kettős anyaság]] cím/alcímnél írottak alapján is a két ábrázolt nő lehet Nagyboldogasszony – Boldogasszony párosa, illetve Boldogasszony – Kisasszony párosa ugye.  
 (Lásd még lány/fiatal nő és szűz jelentésű szavak kapcsolatát és félreérthetőségét [[P/Parthenogenesis\|parthenogenesis]].)  
 A másutt előjövő Falvay Károly által adatolt passzusból kiderül, hogy a mítoszalkotó görögök félreértették[^6] az eredeti képet (ezért sem szabad feltétlenül más kultúrákból kiindulnunk), hiszen a [[T/Tejútanya\|Tejútanya]] fiatal/szűz aspektusa nem lánya, hanem önmaga fiatalabb énje:  
-![assets/Szentháromság_image3.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image3.png)  
+![assets/Szentháromság_image3.png|undefined](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image3.png)  
 [[D/Démétér\|Démétér]] Zeusszal történő nászában inkább a Nagy [[R/Rhea\|Rhea]] Anyának (anyjuknak) a hasonmása volt, aki saját fiával nemzette Perszephonét (más néven a szűz Korét \[= lányt\]), és leányában önmagát szülte újjá. \[Hogy\] erről a misztériumról nyíltan igen keveset meséltek \[érthető is\].  
 
 JM írása ugyanerről ([[H/Három istennő\|három istennő]] címnél is szerepelt:  
@@ -113,7 +111,7 @@ FK könyvének 391. oldalán újra előveszi az anya, lánya és annak fia hárm
 > Azt hiszem, [[A/Anna\|Anna]] és [[K/Kisasszony\|Kisasszony]] címnél alaposan körbejártuk a dolgot közben. De jegyezzük azért itt is meg, hogy a női kettős tehát Nagyboldogasszony és a Boldogasszonyként értelmezett Kisasszony (melynek Kisboldogasszony másneve mutat rá a Boldogasszony és Kisasszony egységére, vagy ha úgy tetszik, "kettősség-azonosságára").  
 
 Tarnóczi Zoltán Anyajogú nyelv című rövid írásából való a mellékelt kép (Nagyboldogasszony, Kis(boldog)asszony és a Gyermek (MarosszentANNA)).  
-![assets/Szentháromság_image4.jpeg](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image4.jpeg)  
+![assets/Szentháromság_image4.jpeg|undefined](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image4.jpeg)  
 
 Akkor tehát jegyezzük meg, hogy régen kétféle Szentháromság létezett, ahogy azt az [alábbi](https://qr.ae/pNK70C) Quora válaszomban is kifejtettem:  
 > In the old days, the Holy Trinity consisted of Mother, Daughter and Son (in matriarchal societies) or Mother, Father and Son (in (pre-)patriarchal societies) (compare the Judeo-Christian Father, Son, Holy Spirit trinity, which doesn't even care for Mothers anymore, let alone the opinion of Magyars). In the astro-mythological sense however, the Mother can bear only a Son, the Sun himself (the celestial Mother is the Sky/Milky Way Goddess, Magna Mater).  
@@ -207,7 +205,7 @@ Falvay Károly Nagyboldogasszony című könyvének 117. oldalán viszont a nő
 
 Az is lehet, hogy a Thomas Inman Ancient Pagan and Modern Christian Symbolism című könyvében mindenütt előjövő hímelvű hármasság a három mony-ra: a középen levő hímtagra és az örökítő anyagot tároló két tojásra utal.  
 
-#### Grandpierre Attila A királyi mágusok...
+#### Grandpierre Atilla A királyi mágusok...
 
 ...című dolgozatában (is) szól a tudományos szentháromság fogalmáról (ő az [[E/Egy\|egy]] címnél taglalt **egyháromság**nak nevezi):  
 > A mágusok az emberré váláskor szerzett kozmikus őstudás őrzői. Tudományos világképpel rendelkeztek, amely alapvetően teljes volt, vagyis messze meghaladta a mai tudományos világképet. Nemcsak a természettörvények ma ismertnél teljesebb rendszerét ismerték, hanem a \[Az ökológiai civilizáció tudományos megalapozása című dolgozatában is taglalt\] első elveket is: a fizika, a biológia és a pszichológia első elvét is (GA, 2002, 2004, 2005, 2006; GKE-GA, 2006, 136-146). Ezen a természettudományos, kozmikus világképen alapult a magyar hármas Egyháromság rendszere. A mindennapi nyelvre fordítva a kozmikus Egyháromság tanítása az emberi test, lélek és a szellem, az atom, az érzés és a gondolat, kozmikus összefüggésben az anyag, az élet és az öntudat, a fizika, a biológia és a pszichológia összhangját jelenti.  
@@ -242,9 +240,9 @@ Közös mindkettőben a [[F/FU\|FU]] etimon. De a biológia ([[B/Biology\|biolog
 > Háromszögletű napjelkép is van, bármily hihetetlen. Az például az egyiptomi [[P/Piramis\|piramis]], mely a "Fényhegyek" ([[V/Világhegy\|Világhegy]]) kőből rakott mása. A "fényhegy", az [[A/Ahet\|ahet]] hieroglifa azt a helyet jelöli, ahol a Nap lenyugszik és fölkel, vagyis ahol – két hegy között – az egyik világból a másikba átlép. Kákosy László a fényhegy-metafora alapjának azt a valóban gúla vagy háromszög alakú fénypiramist tartja, mely Egyiptomban olykor naplementekor a nyugati égbolton, napkeltekor keleten látszik (lásd még "állatövi fény"). Magát a Napot is ábrázolják [[G/Gúla\|gúla]] alakúnak, amiből arra következtet, hogy a piramist napjelképnek is felfoghatjuk. Háromszögbe kristályosodó forma az egyiptomi [[O/Obeliszk\|obeliszk]], mely a napsugár gránitba faragott (egykor aranylemezzel burkolt) metaforája. A napsugarakat pedig kis háromszögekből álló füzérek formájában ábrázolták (például a denderai Hathor templomban).  
 > És hát mi más lenne, mint "napháromszög" a **Szentháromság** napsugaras háromszöge?  
 > A Szentháromság minden egyes személyéről a néphit tudni véli, hogy a Napban lakozik; Isten mindent látó szemét egy hagyomány szintén a Nappal azonosítja – szó lesz róla alább –, s az egyenlő oldalú háromszög mint a tökéletesség jelképe is utal az isteni tökéletességű Napra.  
-> ![assets/Szentháromság_image6.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image6.png)  
+> ![assets/Szentháromság_image6.png|undefined](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image6.png)  
 > Szeged népművészetének jellegzetességei a napsugaras oromdíszű házhomlokzatok. (47. rajz.) Mint Bosnyák Sándor írja, a tető mintázatában "a szegedi parasztok a napfelkeltét, a delelést, a napnyugtát, a alul a zárt rekeszekben az éjszakát látják."  
-> ![assets/Szentháromság_image7.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image7.png)  
+> ![assets/Szentháromság_image7.png|undefined](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image7.png)  
 
 Bálint Sándor szerint e napsugaras háromszög szentháromság-jelkép volt, szerintem napszimbólum is.  
 
@@ -259,8 +257,8 @@ Berényi László Géza Holisztikus világszemlélet 7000 éve a Kárpát-medenc
 > Láthatóan a szentháromság fogalom a világegyetem szerkezeti jellemzője, kicsiben és nagyban egyformán jellemző modellje. A zsidókeresztény felfogásban a Föld és az Ég elválasztásra került, a látható (anyagi) világ és a nem látható (transzcendens) szféra elkülönült. A kettő között a kapcsolat már nem magától értetődő, hanem csak alkalmas közvetítők, (például papok) segítségével tartható fenn. A mesterségesen létrehozott Atya, Fiú, Szentlélek modellnek a Természetben nincs analógiája.  
 - Folytatást lásd képpel [[K/Köristen\|Köristen]].  
 
-![assets/Szentháromság_image8.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image8.png)  
-![assets/Szentháromság_image9.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image9.png)  
+![assets/Szentháromság_image8.png|undefined](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image8.png)  
+![assets/Szentháromság_image9.png|undefined](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image9.png)  
 
 #### Berényi László Géza Hogyan lett a Köristen tudatból zsidókeresztény hit?...
 
@@ -282,7 +280,7 @@ Szentháromságnak mondja egy internetes cikk szerzője az Anya, Gyermek és a [
 
 A már a címében is mutatólagos L. Kecskés András Háromkirályok – Szentháromság című az Ősi Gyökér 2013/1-2. sz. megjelent cikkében a [[G/Gáspár\|Gáspár]], [[M/Menyhért\|Menyhért]], [[B/Boldizsár\|Boldizsár]], és az általuk ajándékként hozott [[A/Arany\|arany]], [[T/Tömjén\|tömjén]] és [[M/Mirha\|mirha]] kapcsán szól a témáról.  
 
-![assets/Szentháromság_image10.jpeg](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image10.jpeg)  
+![assets/Szentháromság_image10.jpeg|undefined](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image10.jpeg)  
 Bakk István Miért apostoli királyság Magyarország? című az Ősi Gyökér 2013/3. sz. megjelent cikkében van egy rész, amely a [[P/Pálos\|pálos]] rend alapításáról szól. Ami a legérdekesebb benne, hogy benne Özsébet, mint a nagykutya nemzetségből valót említi; ugyanott (lásd témát [[K/Kutya\|kutya]] címnél) GYÁ Szentháromságra utaló kijelentést is tesz: Mária országának mennyei királysága az égi térképen látható, és ennek a földi mása a szentháromság megjelölése: a (Holló, Bak és a Nagykutya) csillagképek által határolt terület. \[Lényegében a [[T/Tejútanya\|Tejútanya]] csillagteste.\]  
 
 ## Judeo-keresztény szentháromság
@@ -335,7 +333,7 @@ De más idegen nyelv segítségét is hívhatjuk: a latin `spirare` = lélegzeni
 - Rostás László másik említett cikkében már ezen fogalmakat összevonva szabadlélek mint fejlélekről írja, hogy a *szabad fejlelket*, a kínai nyelvben mind a mai napig `hun`-nak nevezik.  
 
 Ne feledjük itt még a [[S/Székely-magyar rovásírás#Gy\|székely-magyar rovásírás gy]] és [[S/Székely-magyar rovásírás#Sz\|sz]] betűit sem, GA olvasatát és a sumér Ász jelet:  
-Grandpierre Attila A királyi mágusok című dolgozatának adata szerint és [ezen](https://youtu.be/5qLoX6R_IGk) előadásának adata szerint az ősi magyar rovásírás "[[E/Egy\|egy]]" jele egyháromság (mely a lélektől egy, mert ha a lélek elhagyja a testet, akkor szerinte szétesik ez a egység): ahol a három vonal értelme az ember szintjén és kozmikus szinten a következő: **a függőleges vonal a lélek, ami az élet elve, az alsó vonal az anyagé/testé és a felső vonal értelemé/szelleme**.  
+Grandpierre Atilla A királyi mágusok című dolgozatának adata szerint és [ezen](https://youtu.be/5qLoX6R_IGk) előadásának adata szerint az ősi magyar rovásírás "[[E/Egy\|egy]]" jele egyháromság (mely a lélektől egy, mert ha a lélek elhagyja a testet, akkor szerinte szétesik ez a egység): ahol a három vonal értelme az ember szintjén és kozmikus szinten a következő: **a függőleges vonal a lélek, ami az élet elve, az alsó vonal az anyagé/testé és a felső vonal értelemé/szelleme**.  
 [[S/Szellem#Szellem és lélek\|Szellem és lélek]] cím/alcímnél szerepelt a (jó helyről) Delitzsch-től származó (és mások által is visszhangzott) adat: a **lélek az összekötő kapocs a test és a szellem között**.  
 Amiről GA sem beszél viszont az az, hogy a székely-magyar rovás *egy* számnevet kifejező jele (megegyezik: magyar-egyiptomi-etruszk-latin I) is éppen azonos a rovás GY függőleges vonalával és a rovás SZ jelével is, melynek [[S/SZA\|SZA]], valamint [[I/ISZ\|isz]]/[[A/Ász\|Ász]] olvasatokat is adtunk (mástól előjött még szellem, de az ugye nem elég rövid elnevezés). Ha eszerint az elgondolás szerint megyünk, akkor az Isz/[[I/Isa\|isa]]-nak megfelelő lélek kellene megfeleljen a függőleges vonalnak, viszont mi ezt adtuk meg egyúttal a szentlélek/szent szellemnek is. (Helyesen: azóta [[L/Lélek#Isa, por és hamu\|isa, por és hamu]] cím/alcímnél B. Kántor János adatai alapján is megállapítást nyert, hogy [[I/Isa\|isa]] egyszerre Szentlélek és jézusi minőség.)  
 GA felső vízszintes vonalának mi felelne meg?  
@@ -345,7 +343,7 @@ A Ne Legyen Áldozat YouTube csatornán elérhető Pap Gáborral folytatott besz
 Ugyanakkor erről már korábban rendelkeztek.  
 Egy [másik](https://youtu.be/O8DXMM_g3Q4) Ne Legyen Áldozatos videó legvégén egy 869-es konstantinápolyi zsinatról volt szó, ahol már rendelkeztek korábban a kivételről. (De azóta [ezen](https://www.youtube.com/watch?v=oNULoLMuX8w) videóban egy teljes adást szántak a témának Tímárék. Lásd [[Z/Zsinat\|zsinat]].)  
 Tehát, ahogy 8:00-nál mondja PG, amíg az első vizsgált esetben – a 451-es khalkedóni zsinat rendelkezésének eredményeképpen az istenkép-torzulását érzékeljük (lásd [[J/Jahve\|Jahve]] címnél, külön alcímnél erről), addig a 869-es zsinaton az emberkép-torzulást/torzítást érhetjük tetten.  
-![assets/Szentháromság_image11.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image11.png)  
+![assets/Szentháromság_image11.png|undefined](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image11.png)  
 Beszél arról, hogy a három komponens (szellem, lélek, test) neve a héberben, görögben és latinban is megvolt, tehát addig élő hagyománya volt ennek. Utána a háromból kettő úgy lett, hogy a szellemet és lelket összevonták (megjegyzem, ennek nyomát a nyelvben is megtaláljuk, ugyanis a szellem, szellet a germán nyelvekben Seele és `soul` = lélek jelentésű). Furcsamód, ahogy 11:55-nél mondja, még a [[R/Reformáció\|Reformáció]] sem vette elő ezt a kérdést, hogy vissza kellene állítani.  
 [Ezen](https://qr.ae/pGJjru) műsorban 3:00 előtt is szólt erről röviden. Teljesen kézenfekvőnek veszik az egyházi személyek a kérdést, mondván, "lélek, szellem, az ugyanaz." A hívő pedig már eleve nem is nagyon meri feltenni a kérdést.  
 14:55-nél megint elhangzik, hogy aki ragaszkodik a háromrétegűséghez, az kétféle lelket tételez fel és az eretnekség. Utána beszél a csúsztatás[^11] fogalmáról a kapcsán, hogy addig témáznak a dologról, hogy a végén már ne lehessen tudni, hogy eredetileg három rétegű volt az ember vagy csak két külön nevet adtak volna korábban ugyanannak, vagy hogy is volt.  
@@ -458,7 +456,7 @@ A V.1:658. oldalon található idézet szerint állat szavunk valamikor a testet
 "Basilides szerint minden életnek, létnek végső elve, kútfeje a kimondhatatlan, s az idő szerint nem mérhető istenség, s a rejtélyes Abraxas névvel jelölt őslény, ki legelébb a világ magvát létesítette, melyből aztán a világ szakadatlan foksorozatban fejlődött ki. A világmagban, vagy chaosban **hármas fiúság**\[?\] volt; ezek a nem mérhető istenséggel lényegileg egyenlők, de fokozatosan gyengébbek voltak; az első az isteni fiúságnak szellemi, a második a lelki, a harmadik az érzéki nemzedéke, Ezekre az őslény saját szépségének hatalma által gyakorolt befolyást. Ennek következtében az első fiúság az őslényhez, a boldog szellemvilágba emelkedett, mely a hét legfőbb szellemi erőt, vagy tökélyt, s az első hebdomast foglalja magában s mely az őslénnyel együtt az első ogdoast, vagy eget képezi. A második fiúság a világmagból, mint sűrűbb, tökélytelenebb, csak a szentlélek segélyével képes felemelkedni; azonban még így is csak a szellemvilág határáig juthat, mert ennek befolyását nem képes kiállani. Végre a harmadik fiúság a világmagban marad s ő lesz a tisztítás és megváltás tárgya."  
 
 [^10]: Lábjegyzet:  
-Grandpierre Attila Történelmünk visszavétele: Ősi Magyarország – A Kárpát-medence és a selyemút népeinek felemelkedése című, az Acta Historica Hungarica Turiciensia XXXIV. évfolyam 3. szám, Pannon Kultúraközösség Kutató és Képzőközpont Folyóirata 2019C nevű PDF 199. oldalán megtalálható cikkében (mely az [ezen](https://youtu.be/_Lhjt9qTy34) Grandpierre Atilla – Ősi Magyarország. A Kárpát-medence és a Selyemút népeinek felemelkedése 2019. című előadásának szövege).  
+Grandpierre Atilla Történelmünk visszavétele: Ősi Magyarország – A Kárpát-medence és a selyemút népeinek felemelkedése című, az Acta Historica Hungarica Turiciensia XXXIV. évfolyam 3. szám, Pannon Kultúraközösség Kutató és Képzőközpont Folyóirata 2019C nevű PDF 199. oldalán megtalálható cikkében (mely az [ezen](https://youtu.be/_Lhjt9qTy34) Grandpierre Atilla – Ősi Magyarország. A Kárpát-medence és a Selyemút népeinek felemelkedése 2019. című előadásának szövege).  
 
 [^11]: Lábjegyzet:  
 15:40-nél a Népszabadság bevált módiját meséli el. Először a szájába adja valakinek a hamis szöveget (PG-vel is megtörtént), amit ő soha nem mondott, utána azt cáfolták.  
