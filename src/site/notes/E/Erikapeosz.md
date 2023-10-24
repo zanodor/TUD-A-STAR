@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/E/Erikapeosz/","title":"Erikapeosz","tags":["unformatted⚪"],"created":"2023-10-14T07:05","updated":"2023-10-14T07:05"}
+{"dg-publish":true,"permalink":"/E/Erikapeosz/","title":"Erikapeosz","tags":["dg_uploaded"],"created":"2023-10-14T07:05","updated":"2023-10-25T01:16"}
 ---
 
 
 # Erikapeosz
-
-
 
 Erikepaios Wiki oldalán áll:  
 > In the Orphic religion, Erikepaios (Ancient Greek: Ἠρικεπαῖος; Latin: Ericepaeus) was a title for the god Phanes, mentioned in Orphic poetry and the associated Bacchic mysteries, a non-Greek name for which no certain interpretation has been found.  
