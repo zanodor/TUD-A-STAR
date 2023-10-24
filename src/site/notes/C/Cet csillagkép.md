@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cet csillagkép/","title":"Cet csillagkép","tags":["dg_uploaded"],"created":"2023-10-23T02:27","updated":"2023-10-23T02:27"}
+{"dg-publish":true,"permalink":"/C/Cet csillagkép/","title":"Cet csillagkép","tags":["dg_uploaded"],"created":"2023-10-23T02:27","updated":"2023-10-25T01:10"}
 ---
-
-
 
 
 # Cet csillagkép

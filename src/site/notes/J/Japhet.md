@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/J/Japhet/","title":"Japhet","tags":["dg_uploaded"],"created":"2023-10-23T05:34","updated":"2023-10-23T05:34"}
+{"dg-publish":true,"permalink":"/J/Japhet/","title":"Japhet","tags":["dg_uploaded"],"created":"2023-10-23T05:34","updated":"2023-10-25T01:37"}
 ---
-
-
 
 
 # Japhet

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csalogány/","title":"Csalogány","tags":["formatted🟢"],"created":"2023-10-18T08:45","updated":"2023-10-19T03:28"}
+{"dg-publish":true,"permalink":"/C/Csalogány/","title":"Csalogány","tags":["dg_uploaded"],"created":"2023-10-18T08:45","updated":"2023-10-25T01:12"}
 ---
 
 

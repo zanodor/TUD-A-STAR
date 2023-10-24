@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/C/Coot/","title":"Coot","tags":["formatted🟢"],"created":"2023-10-14T04:32","updated":"2023-10-14T04:32"}
+{"dg-publish":true,"permalink":"/C/Coot/","title":"Coot","tags":["dg_uploaded"],"created":"2023-10-14T04:32","updated":"2023-10-25T01:10"}
 ---
 
 
 # Coot
-
-
 
 [[S/Szárcsa\|Szárcsa]]. A [[D/Daru\|daru]]alakú madarak rendjébe tartozik, azaz vízimadár (vádoló), mely azért fontos, mert az ilyen madarak mindig a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]]nak illően a Tejút nevét kapják.  
 De hogy az egyértelmű [[G/Göd\|Göd]]-del való egyeztetést még tovább alátámasszuk, a coot szónak vagina, pina jelentése is van, a [[C/Cunt\|cunt]] címnél is említett holland szleng `kut` = pina szó (és még például bengáli `gud` = pina) párjaként. Márpedig a [[T/Tejútanya\|Tejútanyá]]nak testtájékai is vannak és éppen a legfontosabb a (Napgyermek-)szülés (és helye).  

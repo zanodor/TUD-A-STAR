@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","tags":["formatted🟢"],"created":"2023-10-09T06:36","updated":"2023-10-15T02:46"}
+{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","tags":["dg_uploaded"],"created":"2023-10-09T06:36","updated":"2023-10-25T01:44"}
 ---
 
 
 # Magyar ősnyelv szótagnyelv
-
-
 
 Bevezetést lásd [[E/Etymon\|etimon]] és [[M/Magyar nyelv – ősnyelv-e a magyar\|magyar nyelv – ősnyelv-e a magyar]]?  
 

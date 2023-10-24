@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makk/","title":"Makk","tags":["formatted🟢"],"created":"2023-10-21T04:46","updated":"2023-10-21T04:46"}
+{"dg-publish":true,"permalink":"/M/Makk/","title":"Makk","tags":["dg_uploaded"],"created":"2023-10-21T04:46","updated":"2023-10-25T01:45"}
 ---
 
 

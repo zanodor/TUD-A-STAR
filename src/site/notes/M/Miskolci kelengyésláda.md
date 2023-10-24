@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Miskolci kelengyésláda/","title":"Miskolci kelengyésláda","tags":["formatted🟢"],"created":"2023-10-05T11:57","updated":"2023-10-05T11:57"}
+{"dg-publish":true,"permalink":"/M/Miskolci kelengyésláda/","title":"Miskolci kelengyésláda","tags":["dg_uploaded"],"created":"2023-10-05T11:57","updated":"2023-10-25T01:49"}
 ---
 
 

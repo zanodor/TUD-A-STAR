@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/B/BÁN/","title":"BÁN","tags":["dg_uploaded"],"created":"2023-10-23T05:27","updated":"2023-10-23T05:27"}
+{"dg-publish":true,"permalink":"/B/BÁN/","title":"BÁN","tags":["dg_uploaded"],"created":"2023-10-23T05:27","updated":"2023-10-25T01:02"}
 ---
-
-
 
 
 # BÁN

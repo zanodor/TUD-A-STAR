@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Dialektika/","title":"Dialektika","tags":["formatted🟢"],"created":"2023-10-06T12:00","updated":"2023-10-06T12:00"}
+{"dg-publish":true,"permalink":"/D/Dialektika/","title":"Dialektika","tags":["dg_uploaded"],"created":"2023-10-06T12:00","updated":"2023-10-25T01:14"}
 ---
 
 

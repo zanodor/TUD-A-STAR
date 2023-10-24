@@ -1,14 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/H/Halak csillagkép/","title":"Halak csillagkép","tags":["formatted🟢"],"created":"2023-10-14T04:19","updated":"2023-10-14T04:19"}
+{"dg-publish":true,"permalink":"/H/Halak csillagkép/","title":"Halak csillagkép","tags":["dg_uploaded"],"created":"2023-10-14T04:19","updated":"2023-10-25T01:33"}
 ---
 
 
 # Halak csillagkép
 
-
-
 A bölcsek szerint az életben egy biztos, a halál. Viszont az is biztosnak látszik, a csillagászati/asztrológiai kis éves és precessziós [[N/Nagy Év\|Nagy Év]]es évkört tekintve, hogy a Halak jeltartomány (ami igaz, nem egyezik a Halak csillagképpel is, de mégis ide kell ezt tenni) az évkör utolsó fázisa (hiszen a Halak – Halál): akár a Kosból indulok a kis éves évkörön, vagy a precessziós fényminimumból a Halak utáni Vízöntőből ellentétes irányba, a Halak az utolsó állomás[^1].  
-![assets/Halakcsillagkep_image1.png](/img/user/H/assets/Halakcsillagkep_image1.png)  
+![assets/Halakcsillagkep_image1.png|undefined](/img/user/H/assets/Halakcsillagkep_image1.png)  
 
 #### Paksi Zoltán írja:  
 
@@ -26,7 +24,7 @@ Ezt teszi Falvay Károly Nagyboldogasszony című könyvében is; a 244-245. ol
 De ha már a Szűz keletnek és kezdésnek felel meg, megfelel neki a Kis Évben a Kos is.  
 Sőt, a [[K/Kereszt\|kereszt]] címnél taglalt Élet- és Halál-vonalak/tengelyek alapján az alábbi (tkp. szokásos) módon rajzolható meg az állatkör.  
 
-![assets/Halakcsillagkep_image3.jpeg](/img/user/H/assets/Halakcsillagkep_image3.jpeg)  
+![assets/Halakcsillagkep_image3.jpeg|undefined](/img/user/H/assets/Halakcsillagkep_image3.jpeg)  
 [[Z/Zodiákus jelhatárok\|Zodiákus jelhatárok]] címnél írtuk, hogy a Halak csillagkép is azért ilyen nagy és azért van két, előre és visszafelé néző hal belé megalkotva, mert **mind a kis éves, mind a precessziós [[N/Nagy Év\|Nagy Év]]es életkörben ez az utolsó jegy** (kis éves Kostól Halakig, Nagy Éves Vízöntőtől Halakig), és hasonló képet kell látni benne, mint [[J/Janus\|Janus]]-ban a kétarcúságával: a váltóponttól vissza a múltba és előre a jövőbe tekint (de a kétfejű [[S/Sas\|sas]] is napfordulós jelkép).  
 De ezen kétarcúság azt is jelenti, hogy többes számban is használjuk a Halak nevét. Ennek ellenére Al Birunitól származó adat szerint **minden nyelvben egyes számban állt a csillagkép neve (Hal, nem Halak)**. Ő maga Indiában is járt, ott valóban egyes számban áll a neve ([[M/Minus\|minus]] vagy [[P/Pina\|pina]] címnél említettem az ind `mín`/`mina` = hal szót).  
 Ugyanakkor Pap Gábor Ki volt Magyar Ilona? című a Dobogó című újság 2011. 3-4. számában megjelent cikkében ([[M/Magyar Ilona\|Magyar Ilona]] címnél is) szereplő adata szerint a Halak állatövi egységének Keleten a Madár felel meg, **általában párosával**, úgy mint Kakas.  
@@ -39,13 +37,13 @@ Ugyanakkor Pap Gábor Ki volt Magyar Ilona? című a Dobogó című újság 2011
 [[K/Kunmes\|Kunmes]] címnél (Kun.Mes a [[S/Sumér zodiákus\|sumér zodiákus]] Halaknak megfelelő jegye) is arról volt szó (Gavin White táblázatos adatát lásd), hogy a Kun = Vége az évkörnek.  
 
 Magam eddig mindenütt az évkört leginkább a Szíriusszal való bináris rendszerben lét és a Halak/Halál legalul léte alapján rajzoltam meg, de tény, hogy az egész 90°-kal elforgatható[^2]. Pap Gábor Kezdetben vala az igéjében is bal oldalra teszi az induló Kost, ahogy a nyugati asztrológiában ez szokás (Santos Bonacci is így rajzolja és a mellékelt képen Markó Ö. László is: Hang az Időben című internetes cikkéből való a kép, alatta az én kis képecskémmel melyet nagyban lásd [[F/Fény és sötétség\|fény és sötétség]]).  
-![assets/Halakcsillagkep_image4.jpeg](/img/user/H/assets/Halakcsillagkep_image4.jpeg)  
+![assets/Halakcsillagkep_image4.jpeg|undefined](/img/user/H/assets/Halakcsillagkep_image4.jpeg)  
 
-![assets/Halakcsillagkep_image5.png](/img/user/H/assets/Halakcsillagkep_image5.png)  
+![assets/Halakcsillagkep_image5.png|undefined](/img/user/H/assets/Halakcsillagkep_image5.png)  
 Szűcs László Égre írott történelem című könyvében írja, hogy a Nagy Év is a Kossal kezdődne és a Bikával fejeződne be vagy hogy inkább a Bikával kezdődhetne. Dacára annak, hogy a maya 2012-es korszakváltozással kapcsolatosan is ír, mégsem látja meg a valóságot. Nehéz meglátni, hogy a Halak korszak végéről van szó?! Hogy az első precessziós jegy a Vízöntő?!  
 Bakos Attila a Duna Evangéliumának 75. oldalán is jól rajzolta meg a precessziós Nagy Évet (alul a Vízöntő) (a precessziós Nagy Évben értelmezett Csudaszarvassal mellélőni látszik) (lásd fent csatolt képet).  
 
-![assets/Halakcsillagkep_image6.png](/img/user/H/assets/Halakcsillagkep_image6.png)  
+![assets/Halakcsillagkep_image6.png|undefined](/img/user/H/assets/Halakcsillagkep_image6.png)  
 A [[M/Magyar képrejtvények\|magyar képrejtvények]]nél írottak szerint minden állathoz, így állatövi jegyhez kapcsolható egy másik jelentés: így vált a hal a halál szimbólumává (egyesek felbontják hal áll formára, mondván a függőleges ábrázolása fejezi ki leginkább a halált).  
 Valóban, a [[S/Szűz-Halak tengely\|Szűz-Halak tengely]]t Halál-tengelynek is nevezik.  
 De nemcsak a magyar nyelvben létezik azonosság:  
@@ -84,13 +82,13 @@ Mit mond itt GM? Születésről beszél? Namost ez azért érdekes, mert a [[H/H
 (Még azon is elgondolkodtam, vajon Halak Ha-Lak felbontásban nem-e a Fény Háza értelmű?)  
 Hát a [[V/Vénusz\|Vénusz]] 8-as száma és a [[N/Nyolc\|nyolc]] szavunk mit hoz még ki számunkra lány, születés kapcsán?  
 Lásd még [[B/Bal és jobb\|bal és jobb]] címnél a lány és halál > [[F/Feltámadás\|feltámadás]] (születés), továbbá a [[S/Szűz\|szűz]]-[[S/Sothis\|Sothis]]-Szíriusz összefüggés-rendszerét is.  
-![assets/Halakcsillagkep_image7.png](/img/user/H/assets/Halakcsillagkep_image7.png)  
+![assets/Halakcsillagkep_image7.png|undefined](/img/user/H/assets/Halakcsillagkep_image7.png)  
 A fektetett nyolcas, az ún. [[L/Lemniszkáta\|Lemniszkáta]] előjött [[U/Újév\|újév]] és [[K/Kalács\|kalács]] címnél is Gyárfás Ágnes adataival. Ott is rámutattunk, hogy egymástól függetlenül FK és GYÁ is (**mindketten fekvő nyolcassal**) hangsúlyozni látszik az, hogy az ősök a ilyen formában rögzítették a Naprendszer működését. GYÁ a cikkében még a [[H/Híd\|híd]]ként számon tartott [[S/Szűz-Halak tengely\|Szűz-Halak tengely]]ről is szól, ahogy az Ősi Gyökér 2012/2-4. sz. megjelent A Szent Korona és a lemniszkáta című cikkében Végh Tibor a Szent Korona tervezésében is láttatja a GYÁ összefüggéseket, a Szűz-Halak tengelyre is kitérve. Amit viszont egyikük sem mond ki az az, hogy azon a Szűz-Halak tengelyen, amin most vagyunk, a precessziós értelemben vett Szűz azt jelenti, hogy (testileg) ilyenkor új kezdet indul. A Halakról való elmozdulással pedig a lelkiség indul be pozitív irányban (elindulunk a felső ágon).  
 FK írása tehát a Nagy Év működésére is rá látszik minket vezetni azzal, hogy a Szűz = kezdet értelme ott is értelmezhető. A [[S/Szűz-Halak tengely\|Szűz-Halak tengely]] az, amiről el kell mozdulni ahhoz, hogy a Nagy Éves fényes félévbe jussunk. GYÁ jól kapisgálja, hogy a végtelen jelével kezdeni lehet valamit, melyhez a [[N/Nyúl\|nyúl]] (csillagkép) és a [[N/Nyolc\|nyolc]] fogalma is társul, de [[P/Precesszió\|precesszió]]s értelemben is el kell hasonlót képzelni. Persze a Nyúl nemcsak a Nyúl csillagkép lehet, hanem a Szűz neve a keleti állatövben.  
 
 Amit [[L/Lemniszkáta\|lemniszkáta]] címnél is kimondtunk, hogy a kettős vonalú jegyek között az Ikrek (♊) mellett ilyen még a Halak (♓) is (amely szimbólumban még szebben látszanak a lemniszkáta iker-görbéi): előbbi a kis éves értelmezésű, utóbbi precessziós Nagy Éves.  
 
-![assets/Halakcsillagkep_image8.png](/img/user/H/assets/Halakcsillagkep_image8.png)  
+![assets/Halakcsillagkep_image8.png|undefined](/img/user/H/assets/Halakcsillagkep_image8.png)  
 [[S/Szív\|Szív]] címnél is volt szó a szívformáról, arról, hogy egy igen érdekes [[S/Szakrális geometria\|szakrális geometrikus]] hatást látunk benne. Egy szabályos négyzetből és két körből adódik ki. A négyzet lehet a Föld vagy a Nap is, a [[V/Vesica piscis\|Vesica Piscis]] címnél is taglalt két kör egybecsúsztatva pedig lehet a (végtelen jeleként is ismert) fektetett [[N/Nyolc\|nyolc]]as, mely a fentiek értelmében úgy is értelmezhető, hogy a [[S/Szűz-Halak tengely\|Szűz-Halak tengely]]ről való elmozdulással járó kozmikus Nagy-Éves újrakezdést lássuk benne. Ugyebár [[H/Heart\|heart]], [[D/DOG\|DOG]], [[K/Kutya\|kutya]], [[K/Kutya és szív\|kutya és szív]] címnél írottak alapján és a [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]] címnél írottak alapján kell gondolkodni itt.  
 Itt még a szív kapcsán annyit, hogy feltűnt már korábban, hogy miért nem mi is a Kör/Ker vázú szót használjuk szív jelentéssel. Talán mert a szívás a [[S/Szűz extragalaktikus szuperhalmaz\|Szűz extragalaktikus szuperhalmaz]]ra utal? Szűz alakúak a szívni jelentésű szavak is (lásd [[S/Szuka\|szuka]] és [[S/Suck\|suck]]) és a szí alapszava a szí/szív és szíz/szűz szavaknak is, ha akarjuk.  
 Aztán az is igen érdekes, hogy a germán szívet jelentő szavak H-betűsek, mint a Halak, mely Hal lehet persze ugyanúgy Kör (azonos alakú szavak), ráadásul két Kör, egybecsúsztatva. Itt a jelkép és a szavak mögött lehet valamit keresni.  
@@ -112,9 +110,9 @@ JMJ könyvének 139. oldalán egy váratlan megjegyzést tesz az eddig is "gyan�
 
 A [[S/Székely-magyar rovásírás#B\|rovás b]] és (főleg) [[S/Székely-magyar rovásírás#H\|h]] betűknél említett témával folytassuk itt még.  
 [Ezen](https://www.youtube.com/watch?v=HyX4A9zqKu0) ÁKTV műsorban a rovásírást tanító Gizike 1:13:10-nél amikor azt mondja, hogy a rovás H szögletesebb formája megfelel két egymás tetejére helyezett rovás X-nek, "Eb"-nek (B régi magyaros ejtése), nagyon érdekes, tekintve, hogy a precessziós [[N/Nagy Év\|Nagy Év]]ben is a Halak-Vízöntő váltópontján van a felezés, ahogy kis évben a nyári és téli napfordulón végzi ezt a Ebcsillag Szíriusz. Tehát a [[J/Janus\|Janus]] címnél is taglalt két fél alapján értelmezhető Halak jel kettős, többes volta és az [[E/EB\|EB]] [[F/Félév\|félév]]-jelző ([[K/Kalb\|kalb]] – halb is erről tanúskodik) szerepe szépen állnak össze.  
-![assets/Halakcsillagkep_image9.png](/img/user/H/assets/Halakcsillagkep_image9.png)  
+![assets/Halakcsillagkep_image9.png|undefined](/img/user/H/assets/Halakcsillagkep_image9.png)  
 
-![assets/Halakcsillagkep_image10.jpeg](/img/user/H/assets/Halakcsillagkep_image10.jpeg)  
+![assets/Halakcsillagkep_image10.jpeg|undefined](/img/user/H/assets/Halakcsillagkep_image10.jpeg)  
 Ide vehető még Jankovics Marcell A Nap könyve című könyvének 64. oldalán szereplő adata. Azt írja, hogy a maya [[K/KIN\|kin]] = "Nap", "nap", "idő" szó képírásjele két keresztbe tett fadarab (lásd 21. rajzot); ugyanis ilyen napnéző mérőműszert alkalmaztak és nyilván a hun-magyarok is.  
 Erre mondom én, hogy az időt (felezését) az Ebcsillag Szíriusz jelöli ki.  
 

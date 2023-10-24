@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/J/Jogar/","title":"Jogar","tags":["dg_uploaded"],"created":"2023-10-23T05:40","updated":"2023-10-23T05:40"}
+{"dg-publish":true,"permalink":"/J/Jogar/","title":"Jogar","tags":["dg_uploaded"],"created":"2023-10-23T05:40","updated":"2023-10-25T01:37"}
 ---
-
-
 
 
 # Jogar

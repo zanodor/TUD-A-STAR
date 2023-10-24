@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gúnár/","title":"Gúnár","tags":["dg_uploaded"],"created":"2023-10-23T03:16","updated":"2023-10-23T03:16"}
+{"dg-publish":true,"permalink":"/G/Gúnár/","title":"Gúnár","tags":["dg_uploaded"],"created":"2023-10-23T03:16","updated":"2023-10-25T01:22"}
 ---
 
 

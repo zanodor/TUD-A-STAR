@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/J/Julianus barát/","title":"Julianus barát","tags":["formatted🟢"],"created":"2023-10-20T05:29","updated":"2023-10-20T05:29"}
+{"dg-publish":true,"permalink":"/J/Julianus barát/","title":"Julianus barát","tags":["dg_uploaded"],"created":"2023-10-20T05:29","updated":"2023-10-25T01:38"}
 ---
-
-
 
 
 # Julianus barát

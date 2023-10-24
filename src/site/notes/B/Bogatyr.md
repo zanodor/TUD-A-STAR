@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bogatyr/","title":"Bogatyr","tags":["formatted🟢"],"created":"2023-10-11T06:10","updated":"2023-10-11T06:10"}
+{"dg-publish":true,"permalink":"/B/Bogatyr/","title":"Bogatyr","tags":["dg_uploaded"],"created":"2023-10-11T06:10","updated":"2023-10-25T01:04"}
 ---
 
 
 # Bogatyr
-
-
 
 [Ezen](https://en.m.wiktionary.org/wiki/bogatyr#English) oldalon írják a szóról:  
 > bogatyr (historical) A medieval heroic warrior in Kievan Rus, akin to the Western European knight-errant.  

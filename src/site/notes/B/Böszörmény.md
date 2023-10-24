@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/B/Böszörmény/","title":"Böszörmény","tags":["containstransclusions","formatted🟢"],"created":"2023-10-11T06:16","updated":"2023-10-11T06:16"}
+{"dg-publish":true,"permalink":"/B/Böszörmény/","title":"Böszörmény","tags":["containstransclusions","dg_uploaded"],"created":"2023-10-11T06:16","updated":"2023-10-25T01:06"}
 ---
 
 
 # Böszörmény
-
-
 
 Bognár Ferenc Az Életfa csillag-gyökerei című az Ősi Gyökér 2008/3-4. sz. megjelent cikkében szaracén és böszörmény néven feltűntő izmaelitákról szól; bolgár eredetű, mohamedán vallású népként történik beazonosítási kísérlet. Írja még, hogy az izmaeliták kereskedelmi és pénzverési kiváltságokat kaptak királyainktól.  
 

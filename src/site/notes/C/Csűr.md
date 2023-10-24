@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csűr/","title":"Csűr","tags":["dg_uploaded"],"created":"2023-10-23T02:34","updated":"2023-10-23T02:34"}
+{"dg-publish":true,"permalink":"/C/Csűr/","title":"Csűr","tags":["dg_uploaded"],"created":"2023-10-23T02:34","updated":"2023-10-25T01:14"}
 ---
-
-
 
 
 # Csűr

@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/B/Boka/","title":"Boka","tags":["formatted🟢"],"created":"2023-10-11T06:11","updated":"2023-10-11T06:11"}
+{"dg-publish":true,"permalink":"/B/Boka/","title":"Boka","tags":["dg_uploaded"],"created":"2023-10-11T06:11","updated":"2023-10-25T01:05"}
 ---
 
 
 # Boka
-
-
 
 #### Toldy Géza...
 

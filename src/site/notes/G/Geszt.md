@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/G/Geszt/","title":"Geszt","tags":["dg_uploaded"],"created":"2023-10-23T03:04","updated":"2023-10-23T03:04"}
+{"dg-publish":true,"permalink":"/G/Geszt/","title":"Geszt","tags":["dg_uploaded"],"created":"2023-10-23T03:04","updated":"2023-10-25T01:21"}
 ---
-
-
 
 
 # Geszt

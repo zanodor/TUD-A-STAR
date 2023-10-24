@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/E/Etymon/","title":"Etymon","tags":["formatted🟢"],"created":"2023-10-13T06:08","updated":"2023-10-13T06:15"}
+{"dg-publish":true,"permalink":"/E/Etymon/","title":"Etymon","tags":["dg_uploaded"],"created":"2023-10-13T06:08","updated":"2023-10-25T01:17"}
 ---
 
 
 # Etymon
-
-
 
 #### Péterfai János írja:
 

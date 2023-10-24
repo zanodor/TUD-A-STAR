@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/H/Húg/","title":"Húg","tags":["dg_uploaded"],"created":"2023-10-23T04:20","updated":"2023-10-23T04:20"}
+{"dg-publish":true,"permalink":"/H/Húg/","title":"Húg","tags":["dg_uploaded"],"created":"2023-10-23T04:20","updated":"2023-10-25T01:36"}
 ---
-
-
 
 
 # Húg
@@ -12,7 +10,7 @@ Másutt már írtam, [[G/GIR\|GIR]] címnél és [[G/Girl\|girl]]nél, hogy [[N/
 #### Péterfai János is:
 
 > Húg szavunk valószínűleg a Hu-[[U/UG\|Ug]] összetételből ered, aminek pontos jelentése Menny Fia – Fia. Az Ug Labatnál is Fia. A Hu-Ug összevonása Húg formát ad ki.  
-> 
+>
 > Az [[U/UG\|Ug]] a szumer nyelvben is jelen van, Fiú, Gyerek értelemmel, ami egyben az Ug és Húg szavak között is kapcsolatot bizonyít.  
 - Azaz másutt különveszi a két értelmet, Ug a fiú, Húg a lány szava.  
 

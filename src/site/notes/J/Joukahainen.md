@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/J/Joukahainen/","title":"Joukahainen","tags":["formatted🟢"],"created":"2023-10-15T02:46","updated":"2023-10-15T02:46"}
+{"dg-publish":true,"permalink":"/J/Joukahainen/","title":"Joukahainen","tags":["dg_uploaded"],"created":"2023-10-15T02:46","updated":"2023-10-25T01:38"}
 ---
 
 
 # Joukahainen
-
-
 
 A Wiki csak annyit ír róla, amit JM könyveiből ill. a Hamlet Malmából már tudtunk:  
 > Joukahainen is a character in the [[K/Kalevala\|Kalevala]], the Finnish epic poem of **fifty parts**. He is the rival of the main character, [[V/Väinämöinen\|Väinämöinen]]. After losing a singing contest, he pledges his sister Aino to Väinämöinen, but she drowns herself rather than marry him. Joukahainen, still envious of Väinämöinen, then shoots the stag of his rival from under him, plunging him into the waters of [[P/Pohjola\|Pohjola]].  

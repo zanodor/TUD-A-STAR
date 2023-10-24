@@ -1,22 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/H/Harkály/"}
+{"dg-publish":true,"permalink":"/H/Harkály/","title":"Harkály","tags":["dg_uploaded"],"created":"2023-10-21T04:51","updated":"2023-10-25T01:34"}
 ---
-
----
-title: Harkály
-aliases:
-  - harkály
-tags:
-  - formatted🟢
-share: true
-dg-publish: true
-dg-created: 2023-10-21T04:51
-dg-updated: 2023-10-21T04:51
-dg_upload_status: 🟢
-date created: 2022-12-14
-date modified: 2023-08-05
----
-
 
 
 # Harkály

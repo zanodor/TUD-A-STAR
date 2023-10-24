@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/J/Juma/","title":"Juma","tags":["formatlooksokayonsmallerfiles"],"created":"2023-10-15T02:38","updated":"2023-10-15T02:38"}
+{"dg-publish":true,"permalink":"/J/Juma/","title":"Juma","tags":["dg_uploaded"],"created":"2023-10-15T02:38","updated":"2023-10-25T01:38"}
 ---
 
 
 # Juma
-
-
 
 #### Varga Géza Az Éden írásában írja:
 

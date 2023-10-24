@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/E/Erikafa/","title":"Erikafa","tags":["formatted🟢"],"created":"2023-10-14T07:04","updated":"2023-10-14T07:04"}
+{"dg-publish":true,"permalink":"/E/Erikafa/","title":"Erikafa","tags":["dg_uploaded"],"created":"2023-10-14T07:04","updated":"2023-10-25T01:16"}
 ---
 
 
 # Erikafa
-
-
 
 Az [[E/Erikapeosz\|Erikapeosz]] címnél írottak szerint Örök-Fa értelmű és a Tejút fája ez is. Ahogy ez JM írásai alapján ki is derül:  
 > Mítosza szerint a halott Oziriszt (Oriont) is a Níluson (a Tejúton) viszi a koporsója Bübloszba, ahol erikafa (ez is a Tejút jelképe) növi körül koporsós tetemét[^1].  

@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/D/DUG/","title":"DUG","tags":["formatted🟢"],"created":"2023-10-13T02:24","updated":"2023-10-13T02:24"}
+{"dg-publish":true,"permalink":"/D/DUG/","title":"DUG","tags":["dg_uploaded"],"created":"2023-10-13T02:24","updated":"2023-10-25T01:15"}
 ---
 
 
 # DUG
-
-
 
 #### Péterfai János írja:
 
@@ -23,7 +21,7 @@ Dr. Gyárfás Ágnes a Fordulat – Hitvilág, mítoszok, legendák című PD
 
 Jeremy Black és Anthony Green Gods, Demons and Symbols in Ancient Mesopotamia című könyvében található nevek közül:  
 
-Az [[I/Imdugud\|Imdugud]] nevű mítikus lény nevében is szerepel, mely így Im-Dug-Ud felbontásban értelmezhető.
+Az [[I/Imdugud\|Imdugud]] nevű mitikus lény nevében is szerepel, mely így Im-Dug-Ud felbontásban értelmezhető.
 
 [[G/Gatumdug\|Gatumdug]] Lagaš városállam istennője volt, akit [[B/Bau\|Bau]]-val szokás azonosítani (Bau pedig Baba néven is ismert).  
 Udug démonnévnek adatolt, mely [[O/Ördög\|ördög]] szavunkkal mutat hasonlóságot, de U-Dug felbontásban a Mindörökké/Határtalanul Szent jelentésével épp ellentétesnek beállított, már ott is.  
@@ -35,8 +33,8 @@ Jól kiegészíti a fentieket, hogy az orosz nyelvben `dukh` = spirit, azaz szel
 
 Perzsa `dugh` = tej és az etimon (PJI által megállapított) DUG = szent értelmét jártuk körül [[K/KU\|KU]], [[G/God\|God]] és [[M/MISZ\|MISZ]], [[K/Kumisz\|kumisz]] címszavaknál (némi info ide is betéve, de a végkövetketésekez lásd ott):  
 Természetesen nehéz egyértelműen kinevezni egy-egy szót eredetként úgy, hogy ennyi hasonló szó közül lehet válogatni (a magyar nyelvben, Isten nyelvében minden mindennel szorosan összefügg). A [[F/Freyja\|Freyja]] istennőnél is írottak szerint és MA adataival való összevetése után a skandináv Goð, germán Gott és [[G/God\|God]] nemcsak a kutyák szentségére utalhat, hanem a(z Indiában szent) tehenek tejének szentségére: a magyarok nézete szerint lelkünk a [[T/Tejút\|Tejút]]ról való, és a [[G/Galactic centre\|Galactic centre]]-nél írottak alapján a maják szerint is onnan származunk.  
-A God, Dog, Dug (mely tej értelmű perzsában, lásd azóta átírt [[D/Daughter\|daughter]]) szavakban keveredik a kutya, szent, tej, tehén értelem. A [[K/KU\|KU]] etymon tisztázásával felfedjük a rejtélyt, mely alapján pontossá válik God értelme is.  
-A KU viszont kúszik igénk kiindulója, gyöke is, és a táltosokról, druidákról – ahogy [[E/Életfa\|életfa]] címnél szó esett róla – tudjuk, hogy fára, [[T/Tölgy\|tölgy]]fára másztak. A [[T/Tölgy\|tölgy]] szónál és a [[M/MISZ\|MISZ]] etymonnál szóltunk arról, hogy a tölgyfa a Tejút jelképezője, így a tölgy valójában tőgy: ahonnan a tej jön. Ír nyelvben egyébként udder, azaz [[T/Tőgy\|tőgy]], `ùth`, mondhatni "Tej-Úth."  
+A God, Dog, Dug (mely tej értelmű perzsában, lásd azóta átírt [[D/Daughter\|daughter]]) szavakban keveredik a kutya, szent, tej, tehén értelem. A [[K/KU\|KU]] etimon tisztázásával felfedjük a rejtélyt, mely alapján pontossá válik God értelme is.  
+A KU viszont kúszik igénk kiindulója, gyöke is, és a táltosokról, druidákról – ahogy [[E/Életfa\|életfa]] címnél szó esett róla – tudjuk, hogy fára, [[T/Tölgy\|tölgy]]fára másztak. A [[T/Tölgy\|tölgy]] szónál és a [[M/MISZ\|MISZ]] etimonnál szóltunk arról, hogy a tölgyfa a Tejút jelképezője, így a tölgy valójában tőgy: ahonnan a tej jön. Ír nyelvben egyébként udder, azaz [[T/Tőgy\|tőgy]], `ùth`, mondhatni "Tej-Úth."  
 
 [[T/Tölgy\|Tölgy]] szónál új információkat is szerepeltettünk azóta. Ezek alapján dugh valójában a tölgy > tőgy (tud, minthogy Fehérlófia is a Tejút-tudást a kanca = ló = Nyilas csillagkép tejéből nyeri) származási vonalon érthető meg. A tőgy tűgy kiejtésű is lehetett, T>D és GY>G szabályos hangfejlődéssel könnyen eljutunk a [[D/Dugh\|dugh]] szóhoz. De mondom közben: azóta a valódi megoldás megszületett.  
 

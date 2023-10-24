@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/E/Etana/","title":"Etana","tags":["dg_uploaded"],"created":"2023-10-23T02:55","updated":"2023-10-23T02:55"}
+{"dg-publish":true,"permalink":"/E/Etana/","title":"Etana","tags":["dg_uploaded"],"created":"2023-10-23T02:55","updated":"2023-10-25T01:17"}
 ---
-
-
 
 
 # Etana

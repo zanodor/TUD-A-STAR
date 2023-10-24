@@ -1,22 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mancs/"}
+{"dg-publish":true,"permalink":"/M/Mancs/","title":"Mancs","tags":["dg_uploaded"],"created":"2023-10-20T07:09","updated":"2023-10-25T01:45"}
 ---
-
----
-title: Mancs
-aliases:
-  - mancs
-tags:
-  - formatted🟢
-share: true
-dg-publish: true
-dg-created: 2023-10-20T07:09
-dg-updated: 2023-10-20T07:09
-dg_upload_status: 🟢
-date created: 2022-12-14
-date modified: 2023-08-05
----
-
 
 
 # Mancs

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gyakorítás/","title":"Gyakorítás","tags":["nyelvészet","Götz","formatted🟢"],"created":"2023-10-05T02:55","updated":"2023-10-05T02:55"}
+{"dg-publish":true,"permalink":"/G/Gyakorítás/","title":"Gyakorítás","tags":["nyelvészet","Götz","dg_uploaded"],"created":"2023-10-05T02:55","updated":"2023-10-25T01:23"}
 ---
 
 

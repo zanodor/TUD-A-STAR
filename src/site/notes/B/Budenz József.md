@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/B/Budenz József/","title":"Budenz József","tags":["formatted🟢"],"created":"2023-10-13T12:39","updated":"2023-10-13T12:39"}
+{"dg-publish":true,"permalink":"/B/Budenz József/","title":"Budenz József","tags":["dg_uploaded"],"created":"2023-10-13T12:39","updated":"2023-10-25T01:06"}
 ---
 
 
 # Budenz József
-
-
 
 "Az összehasonlító finnugor nyelvtudomány atyja"-ról [ezen](https://m.nyest.hu/hirek/a-magyarorszagi-finnugrisztika-megalapozoja-budenz-jozsef-175-eve-szuletett) Nyest cikkben emlékeznek meg.  
 

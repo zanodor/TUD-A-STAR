@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Miska/","title":"Miska","tags":["formatted🟢"],"created":"2023-10-20T12:54","updated":"2023-10-20T12:54"}
+{"dg-publish":true,"permalink":"/M/Miska/","title":"Miska","tags":["dg_uploaded"],"created":"2023-10-20T12:54","updated":"2023-10-25T01:49"}
 ---
 
 

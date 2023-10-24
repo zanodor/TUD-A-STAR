@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Föd/","title":"Föd","tags":["formatted🟢"],"created":"2023-10-21T10:13","updated":"2023-10-21T10:13"}
+{"dg-publish":true,"permalink":"/F/Föd/","title":"Föd","tags":["dg_uploaded"],"created":"2023-10-21T10:13","updated":"2023-10-25T01:19"}
 ---
 
 

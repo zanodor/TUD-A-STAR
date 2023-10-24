@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fekete napistenek/","title":"Fekete napistenek","tags":["dg_uploaded"],"created":"2023-10-23T02:58","updated":"2023-10-23T02:58"}
+{"dg-publish":true,"permalink":"/F/Fekete napistenek/","title":"Fekete napistenek","tags":["dg_uploaded"],"created":"2023-10-23T02:58","updated":"2023-10-25T01:17"}
 ---
-
-
 
 
 # Fekete napistenek

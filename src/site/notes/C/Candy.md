@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Candy/","title":"Candy","tags":["formatlooksokayonsmallerfiles"],"created":"2023-10-17T11:09","updated":"2023-10-17T11:09"}
+{"dg-publish":true,"permalink":"/C/Candy/","title":"Candy","tags":["dg_uploaded"],"created":"2023-10-17T11:09","updated":"2023-10-25T01:08"}
 ---
 
 

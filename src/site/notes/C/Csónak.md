@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csónak/","title":"Csónak","tags":["formatted🟢"],"created":"2023-10-19T03:06","updated":"2023-10-19T03:06"}
+{"dg-publish":true,"permalink":"/C/Csónak/","title":"Csónak","tags":["dg_uploaded"],"created":"2023-10-19T03:06","updated":"2023-10-25T01:13"}
 ---
 
 

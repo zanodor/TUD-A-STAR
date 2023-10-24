@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kacor király mese/","title":"Kacor király mese","tags":["formatted🟢"],"created":"2023-10-13T01:36","updated":"2023-10-13T01:36"}
+{"dg-publish":true,"permalink":"/K/Kacor király mese/","title":"Kacor király mese","tags":["dg_uploaded"],"created":"2023-10-13T01:36","updated":"2023-10-25T01:39"}
 ---
 
 
 # Kacor király mese
-
-
 
 Ugyan közben Illyés Gyulánál is megtaláltam, az alábbi változat Benedek Elektől való:  
 – Volt egyszer egy szegény özvegyasszony, s annak egy macskája. Ez a macska olyan kajtár \[más változatban: nyalánk\], olyan falánk volt, hogy minden fazékba, minden lábasba beleütötte az orrát. A szegény asszony megelégelte a macska kajtárságát, s egyszer, mikor a macska a [[T/Tej\|tej]]eslábast egészen kiürítette, fogta a seprűt, jól megverte, s mondta neki:  

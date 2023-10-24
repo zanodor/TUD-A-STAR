@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cymbo-/","title":"Cymbo-","tags":["formatted🟢"],"created":"2023-10-19T03:07","updated":"2023-10-19T03:07"}
+{"dg-publish":true,"permalink":"/C/Cymbo-/","title":"Cymbo-","tags":["dg_uploaded"],"created":"2023-10-19T03:07","updated":"2023-10-25T01:14"}
 ---
 
 

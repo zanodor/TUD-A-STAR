@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flott/","title":"Flott","tags":["formatted🟢"],"created":"2023-10-22T05:08","updated":"2023-10-22T05:08"}
+{"dg-publish":true,"permalink":"/F/Flott/","title":"Flott","tags":["dg_uploaded"],"created":"2023-10-22T05:08","updated":"2023-10-25T01:19"}
 ---
 
 

@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lugnasad/","title":"Lugnasad","tags":["unformatted⚪"],"created":"2023-10-15T02:48","updated":"2023-10-15T02:48"}
+{"dg-publish":true,"permalink":"/L/Lugnasad/","title":"Lugnasad","tags":["dg_uploaded"],"created":"2023-10-15T02:48","updated":"2023-10-25T01:43"}
 ---
 
 
 # Lugnasad
-
-
 
 #### Jankovics Marcell A fa mitológiája..
 

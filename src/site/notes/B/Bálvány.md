@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bálvány/","title":"Bálvány","tags":["dg_uploaded","containstransclusions"],"created":"2023-10-21T04:29","updated":"2023-10-23T04:25"}
+{"dg-publish":true,"permalink":"/B/Bálvány/","title":"Bálvány","tags":["dg_uploaded","containstransclusions"],"created":"2023-10-21T04:29","updated":"2023-10-25T01:02"}
 ---
 
 

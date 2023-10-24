@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kacor/","title":"Kacor","tags":["formatted🟢"],"created":"2023-10-13T01:34","updated":"2023-10-13T01:34"}
+{"dg-publish":true,"permalink":"/K/Kacor/","title":"Kacor","tags":["dg_uploaded"],"created":"2023-10-13T01:34","updated":"2023-10-25T01:39"}
 ---
 
 
 # Kacor
-
-
 
 A [[C/Cat\|cat]] címnél említett [[K/Kacor király mese\|Kacor király]] névvel nem foglalkoztam volna külön itt, főleg nem ezen...  
 - CzF adata:  

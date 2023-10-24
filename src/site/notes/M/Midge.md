@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Midge/","title":"Midge","tags":["formatted🟢"],"created":"2023-10-21T04:26","updated":"2023-10-21T04:26"}
+{"dg-publish":true,"permalink":"/M/Midge/","title":"Midge","tags":["dg_uploaded"],"created":"2023-10-21T04:26","updated":"2023-10-25T01:49"}
 ---
 
 

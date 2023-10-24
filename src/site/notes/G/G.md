@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["formatted🟢"],"created":"2023-10-19T11:35","updated":"2023-10-19T11:35"}
+{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["dg_uploaded"],"created":"2023-10-19T11:35","updated":"2023-10-25T01:20"}
 ---
-
-
 
 
 # G

@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/M/Medve/","title":"Medve","tags":["unformatted⚪"],"created":"2023-10-14T05:41","updated":"2023-10-14T05:41"}
+{"dg-publish":true,"permalink":"/M/Medve/","title":"Medve","tags":["dg_uploaded"],"created":"2023-10-14T05:41","updated":"2023-10-25T01:47"}
 ---
 
 
 # Medve
-
-
 
 Dr. Lónay Gyula az általa sajátosan értelmezett [[M/Megy\|megy]] szó értelméből kiindulva azt mondja, hogy a medve a nehézkes mozgásáról (med- = moz- nála lényegében) kapta nevét (míg a [[M/Meddig\|meddig]] a mozgás méretére vonatkozna).  
 
