@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ablak/","title":"Ablak","tags":["formatted🟢"],"created":"2023-10-21T03:47","updated":"2023-10-21T03:47"}
+{"dg-publish":true,"permalink":"/A/Ablak/","title":"Ablak","tags":["dg_uploaded"],"created":"2023-10-21T03:47","updated":"2023-10-25T12:19"}
 ---
 
 
