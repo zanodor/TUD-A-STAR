@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fold/","title":"Fold","tags":["formatted🟢"],"created":"2023-10-10T10:49","updated":"2023-10-21T04:28"}
+{"dg-publish":true,"permalink":"/F/Fold/","title":"Fold","tags":["dg_uploaded"],"created":"2023-10-10T10:49","updated":"2023-10-25T01:19"}
 ---
 
 
