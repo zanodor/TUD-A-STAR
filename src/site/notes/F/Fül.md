@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fül/","title":"Fül","tags":["formatted🟢"],"created":"2023-10-03T09:41","updated":"2023-10-04T08:29"}
+{"dg-publish":true,"permalink":"/F/Fül/","title":"Fül","tags":["dg_uploaded"],"created":"2023-10-03T09:41","updated":"2023-10-25T01:20"}
 ---
 
 
@@ -7,12 +7,13 @@
 
 A fül angolul [[E/Ear\|ear]], ahol sok érdekes dologról volt szó. Emlékezzünk még Pap Gábor szavaira és a nála bemutatottakra, hogy a fül sokszor hangsúlyos (elnagyolt) a népművészetben, arra célzóan, hogy az első ill. legfőbb érzékelés az igével teremtett világ hangjára utal. [[M/Menyét\|Menyét]] és [[S/Száj\|száj]] címnél esett szó fülön át nemzésről, mely a [[L/Logosz\|logosz]]ra utal FK szerint.  
 
-Fül szavunk [[F/FUL\|FUL]] etymonnal való összecsengése mellett vizsgálandó [[F/FU\|FU]] mentén is.  
+Fül szavunk [[F/FUL\|FUL]] etimonnal való összecsengése mellett vizsgálandó [[F/FU\|FU]] mentén is.  
 A CzF szótár a fül szóban a fel(álló) (és kiálló) értelmet keresi, azzal rokonít.   
 
-Fül szavunkkal mutat egyezést a francia `feuille` = (fa)levél (talán a kutya füléhez hasonlíttatott); [[F/File\|file]] címnél is előjött a fül. Igeként fül a fől és fűt (és a fú(j)) szavainkkal rokon. Valószínűbb, hogy a francia szó és a [[F/Foliage\|foliage]] címnél is említett latin elődje inkább fúj (szél) szavunkkal rokonítandó.  
+Fül szavunkkal mutat egyezést a francia `feuille` = (fa)levél (talán a kutya füléhez hasonlíttatott). [[F/File\|File]] címnél is előjött fül.  
+Igeként fül a fől és fűt (és a fú(j)) szavainkkal rokon. Valószínűbb, hogy a francia szó és a [[F/Foliage\|foliage]] címnél is említett latin elődje inkább [[F/Fúj\|fúj]] (szél) szavunkkal rokonítandó.  
 Fül rokon a [[F/Fürj\|fürj]] für elemével is.  
-![assets/Fül_image1.png](/img/user/F/assets/F%C3%BCl_image1.png)  
+![assets/Fül_image1.png|undefined](/img/user/F/assets/F%C3%BCl_image1.png)  
 
 A fül megint csak egy olyan szó, melybe többféle ideát kellett belesuvasztani. Egyrészt valóban rokon vele a [[F/Fel\|fel]], hiszen a figyelmes [[K/Kutya\|kutya]] felfelé álló füle [[S/Szarv\|szarv]]ként volt értelmezett. A másik használható fogalmi kapcsolódás a [[F/Fél\|fél]] szavunkkal van. A két fül két iránya a téridőnek és a teremtett világ dualisztikus rendjének felel meg. A fülben így tündéri füleket, mint a szellem házából, a fejből kivezetett függelékeket, apró szárnyakat kell látni. Olyanokat, melyekről [[D/Dió\|dió]] és frissen [[F/Fin\|fin]] címnél is volt szó.  
 
