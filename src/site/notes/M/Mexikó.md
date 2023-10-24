@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mexikó/","title":"Mexikó","tags":["formatted🟢"],"created":"2023-10-03T11:29","updated":"2023-10-03T11:29"}
+{"dg-publish":true,"permalink":"/M/Mexikó/","title":"Mexikó","tags":["dg_uploaded"],"created":"2023-10-03T11:29","updated":"2023-10-25T01:49"}
 ---
 
 
