@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["formatted🟢"],"created":"2023-10-14T04:41","updated":"2023-10-14T04:41"}
+{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["dg_uploaded"],"created":"2023-10-14T04:41","updated":"2023-10-25T01:35"}
 ---
 
 
 # Héber
-
-
 
 #### Péterfai János írja:
 
@@ -78,7 +76,7 @@ A héber/ibér szavakhoz köthető [[H/Hybrid\|hybrid]] szót illetően lásd ot
 Héber-jiddis eredetű [[H/Haver\|haver]] szavunk is a héber alaki változata.  
 
 Még mindig a kutyáknál maradunk. Ugyanis a héber népnevet az `ibri` ill. `ivri` = átkelni igéből is kívánják levezetni. Mint tudjuk, az igék utólag képzettek, így ez nem lehet faktor, mégis érdekes az adat.  
-Ez lényegében ugyanaz a szó(eredetre megy vissza), mint annak az [[E/Ember\|ember]] címnél a Borbola János Ősi Gyökér 2012/2-4. sz. megjelent cikkében idézett Otrokocsi Fóris Ferenc Origines Hungaricae című letöltésre elérhető latin nyelvű kétkötetes munkájának első kötetében (147-149. oldal, valamint 292-293. oldalon) adatolt, vándor jelentésben közölt [[E/Ember#^9dqg03\|héber abar és ober szavak]] eredete, melyek kapcsán [[A/Avar\|avar]] címnél is írtuk, hogy Orion és/vagy Nagy Kutyájára utaló név (az Ikrek és Rák cikkelyében is van Úr, Eb/Íjazó és Orion; ez okozza a gondot).  
+Ez lényegében ugyanaz a szó(eredetre megy vissza), mint annak az [[E/Ember\|ember]] címnél a Borbola János Ősi Gyökér 2012/2-4. sz. megjelent cikkében idézett Otrokocsi Fóris Ferenc Origines Hungaricae című latin nyelvű kétkötetes munkájának első kötetében (147-149. oldal, valamint 292-293. oldalon) adatolt, vándor jelentésben közölt [[E/Ember#^9dqg03\|héber abar és ober szavak]] eredete, melyek kapcsán [[A/Avar\|avar]] címnél is írtuk, hogy Orion és/vagy Nagy Kutyájára utaló név (az Ikrek és Rák cikkelyében is van Úr, Eb/Íjazó és Orion; ez okozza a gondot).  
 A héber, illetve egy Wiktionary oldalon arámiként megtaláltנד (`abar`) = elhagy, felhagy jelentéseit...  
 - Krizsa Katalin és Karvaly Katalin A magyar nyelv gyöknyelv c. az Ősi Gyökér 2013/4. sz. megjelent cikkükben a héberül tudó Krizsa a héber `avar` = az elmúlt, átmenő, átköltöző, folyón átkelő jelentéseit adja meg \[v = b ugye\].
 
@@ -154,7 +152,7 @@ A Quorán az albán nacionalista Ken Pira hívja fel a figyelmet a görög nevet
 Itt különösen az Epir névre hívnám fel a figyelmet, a héber szó összevetésének lehetősége miatt. [Ezen](https://en.wikipedia.org/wiki/Epirus) oldalon arról van szó, hogy ez a hegyes terület lenne az ókori Görögország szárazföldi része. Még az is lehet, hogy a név hegyre utal.  
 A Wiki oldal etymologiai része:  
 > The name Epirus is derived from the Greek: Ἤπειρος, romanized: Ḗpeiros (Doric Greek: Ἄπειρος, romanized: Ápeiros), meaning "mainland" or terra firma. It is thought to come from an Indo-European root \*apero- 'coast', and was originally applied to the mainland opposite Corfu and the Ionian islands. The local name was struck on the coinage of the unified Epirote commonwealth: "ΑΠΕΙΡΩΤΑΝ" (Ancient Greek: Ἀπειρωτᾶν, romanized: Āpeirōtân, Attic Greek: Ἠπειρωτῶν, romanized: Ēpeirōtôn, i.e. "of the Epirotes", see image right). The Albanian name for the region, which derives from the Greek, is Epiri.  
-![assets/Héber_image1.png](/img/user/H/assets/H%C3%A9ber_image1.png)  
+![assets/Héber_image1.png|undefined](/img/user/H/assets/H%C3%A9ber_image1.png)  
 
 A szövegben érdekes a fentebb már említett/tárgyalt part jelentésűnek meghatározás. A Tejút két partra osztja az eget. Mivel másutt (például [[R/Range\|range]] címnél) volt szó arról, hogy a Tejút hegyvonulatok nevét is adhatja, itt is lehet erről szó, de nem kizárt, hogy a héber [[H/Habiru\|Habiru]] címnél sorolt ilyen-olyan változatainak egy újabb instanciájáról van szó.
 
