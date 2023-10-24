@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Haver/","title":"Haver","tags":["formatted🟢"],"created":"2023-10-17T03:07","updated":"2023-10-17T03:07"}
+{"dg-publish":true,"permalink":"/H/Haver/","title":"Haver","tags":["dg_uploaded"],"created":"2023-10-17T03:07","updated":"2023-10-25T01:34"}
 ---
 
 
