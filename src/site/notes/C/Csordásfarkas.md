@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csordásfarkas/","title":"Csordásfarkas","tags":["formatted🟢"],"created":"2023-10-21T04:35","updated":"2023-10-21T04:35"}
+{"dg-publish":true,"permalink":"/C/Csordásfarkas/","title":"Csordásfarkas","tags":["dg_uploaded"],"created":"2023-10-21T04:35","updated":"2023-10-25T01:13"}
 ---
 
 
