@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Emberevés/","title":"Emberevés","tags":["formatted🟢"],"created":"2023-10-21T03:45","updated":"2023-10-21T04:14"}
+{"dg-publish":true,"permalink":"/E/Emberevés/","title":"Emberevés","tags":["dg_uploaded"],"created":"2023-10-21T03:45","updated":"2023-10-25T01:16"}
 ---
 
 
