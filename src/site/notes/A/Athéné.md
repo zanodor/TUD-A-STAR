@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/A/Athéné/","title":"Athéné","tags":["formatted🟢"],"created":"2023-10-13T01:08","updated":"2023-10-13T01:08"}
+{"dg-publish":true,"permalink":"/A/Athéné/","title":"Athéné","tags":["dg_uploaded"],"created":"2023-10-13T01:08","updated":"2023-10-25T12:35"}
 ---
 
 
 # Athéné
-
-
 
 #### Péterfai János Atlantiszról szóló írásában közli:  
 
