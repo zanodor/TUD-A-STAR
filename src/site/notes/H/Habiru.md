@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["dg_uploaded"],"created":"2023-10-04T02:14","updated":"2023-10-25T01:32"}
+{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["dg_uploaded"],"created":"2023-10-04T02:14","updated":"2023-10-25T01:33"}
 ---
 
 
@@ -8,13 +8,13 @@
 Robert Graves adata szerint ilyen néven hívták az egyiptomiak a [[H/Héber\|héber]]eket. Az interneten egy doktoriban talált info szerint:  
 > A 'termékeny félhold' országaiban a `habiru` szó – jelentése '[[K/Kóbor\|kóbor]]ló', 'vándorló' tulajdonképpen 'poros' –, annak a sémita nomád pásztornépeknek a neve, amely állatot tenyészt, karavánokkal járja az utakat, fegyverese annak, aki megfizeti és gyakran a rablástól, útonállástól se riad vissza.  
 
-[[H/Hargita Csaba Ferenc\|Hargita Csaba Ferenc]] nehezen kalauzolható honlapjának [ezen](http://www.imninalu.net/Habiru.htm) oldalán taglalja a habirukat. A mellékelt nemzetségtábláról az olvasható le, hogy Ever-től kezdve lehet habirukról beszélni.  
+[[H/Hargita Csaba Ferenc\|Hargita Csaba Ferenc]] nehezen kalauzolható honlapjának [ezen](http://www.imninalu.net/Habiru.htm) oldalán taglalja a habirukat. A mellékelt nemzetségtábláról az olvasható le, hogy **Ever**-től kezdve lehet habirukról beszélni.  
 ![assets/Habiru_image1.jpg|undefined](/img/user/H/assets/Habiru_image1.jpg)  
-
 A cikket is ezen név említésével nyitja:  
-"Shem, the father of all the children of 'Ever..." Bereshyit 10:21  
+> "Shem, the father of all the children of 'Ever..." Bereshyit 10:21  
+
 A csak angol nyelven elérhetőnek mutatkozó cikkben azt írja még, hogy RG adatához kapcsolódva **Apiru** néven is hívták őket az egyiptomiak (falfeliratokon olvashatók) és abban az időben munkások voltak náluk (szolgasorban, ahogy divatos náluk mondani, majd említi a habiruk gyakorlatilag lopás általi terjeszkedésüket).  
-Ezután rátér a sumér forrásokra, amelyek a habirukat említik, majd asszír és újra egyiptomi kapcsolatokat mutat be. Nem tudom, hogy ezen rejtélyes, interneten sehol sem lekövethető Hargita Csaba írta-e a szöveget, vagy mástól származik, mindenesetre erősen a héberek magasabb rendűségét (továbbá a hykszoszok sémi jellegét) bemutatóan fogalmaz és a weboldala is a cigányok és a héberek kulturális tevékenységét mutatja be, nyilván a magyarság kárára. Jó lesz vigyázni vele, holott a Nevek titka című dolgozatában sok hasznos adatot mutatott be. (Nos, mint kiderül, egyes írásokban csak társszerző, de a másik nevet nem tudtam kideríteni.)  
+Ezután rátér a sumér forrásokra, amelyek a habirukat említik, majd asszír és újra egyiptomi kapcsolatokat mutat be. Nem tudom, hogy ezen rejtélyes, interneten sehol sem lekövethető Hargita Csaba írta-e a szöveget, vagy mástól származik, mindenesetre erősen a héberek magasabb rendűségét (továbbá a hikszoszok sémi jellegét) bemutatóan fogalmaz és a weboldala is a cigányok és a héberek kulturális tevékenységét mutatja be, nyilván a magyarság kárára. Jó lesz vigyázni vele, holott a Nevek titka című dolgozatában sok hasznos adatot mutatott be. (Nos, mint kiderül, egyes írásokban csak társszerző, de a másik nevet nem tudtam kideríteni.)  
 
 A Hargita Csaba Ferenc közreműködésével készült A magyarok őstörténete – a magyar-héber kapcsolat című dolgozatban azt írják, hogy [[A/Ábrahám\|Ábrahám]]ot az egyiptomiak egyértelműen \[a fentebbi apiru változataként számítható\] **apir**ként azonosították, de azt tudjuk, hogy az apir kifejezés nem egy jól meghatározott nemzetiséget jelölt, hanem sokkal inkább társadalmi helyzetet.  
 
