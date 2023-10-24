@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Coquette/","title":"Coquette","tags":["formatted🟢"],"created":"2023-10-13T01:32","updated":"2023-10-21T04:28"}
+{"dg-publish":true,"permalink":"/C/Coquette/","title":"Coquette","tags":["dg_uploaded"],"created":"2023-10-13T01:32","updated":"2023-10-25T01:11"}
 ---
 
 
