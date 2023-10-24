@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/I/Ilmatar/","title":"Ilmatar","tags":["formatted🟢"],"created":"2023-10-10T03:40","updated":"2023-10-10T03:40"}
+{"dg-publish":true,"permalink":"/I/Ilmatar/","title":"Ilmatar","tags":["dg_uploaded"],"created":"2023-10-10T03:40","updated":"2023-10-25T01:37"}
 ---
 
 
 # Ilmatar
-
-
 
 Finn ég- illetve légistennő, a kalevalai [[V/Väinämöinen\|Väinämöinen]] anyja (lásd történetet alant). JM tengeristennőnek[^1] mondja, holott a germán [[R/RÁN\|Rán]] istennő és a magyar [[T/Tenger\|tenger]] szó értelmezése óta is tudjuk, hogy a tenger eredetileg ég jelentésű, azaz Ilmatar Égistennő és az alábbiak szerint is [[M/Magna Mater\|Magna Mater]]ek sorába tartozik.  
 [[M/MA\|MA]] címnél taglaltuk, hogy a névben meglévő finn `ilma`[^2] = lég szó eredete Ilmatarból eredhet, mintsem fordítva.  
