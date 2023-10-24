@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Köszön/","title":"Köszön","tags":["formatted🟢"],"created":"2023-10-17T08:48","updated":"2023-10-17T08:48"}
+{"dg-publish":true,"permalink":"/K/Köszön/","title":"Köszön","tags":["dg_uploaded"],"created":"2023-10-17T08:48","updated":"2023-10-25T01:41"}
 ---
 
 
