@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Dale/","title":"Dale","tags":["formatted🟢"],"created":"2023-10-17T09:35","updated":"2023-10-17T09:35"}
+{"dg-publish":true,"permalink":"/D/Dale/","title":"Dale","tags":["dg_uploaded"],"created":"2023-10-17T09:35","updated":"2023-10-25T01:14"}
 ---
 
 
