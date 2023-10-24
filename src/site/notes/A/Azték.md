@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Azték/","title":"Azték","tags":["formatted🟢"],"created":"2023-10-03T10:45","updated":"2023-10-05T10:12"}
+{"dg-publish":true,"permalink":"/A/Azték/","title":"Azték","tags":["dg_uploaded"],"created":"2023-10-03T10:45","updated":"2023-10-25T12:36"}
 ---
 
 
