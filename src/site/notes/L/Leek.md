@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/L/Leek/","title":"Leek","tags":["unformatted⚪"],"created":"2023-10-15T03:55","updated":"2023-10-15T03:55"}
+{"dg-publish":true,"permalink":"/L/Leek/","title":"Leek","tags":["dg_uploaded"],"created":"2023-10-15T03:55","updated":"2023-10-25T01:42"}
 ---
 
 
 # Leek
-
-
 
 Póré[[H/Hagyma\|hagyma]]. Hogy mennyire összefügg [[L/Lélek\|lélek]] szavunkkal,...  
 
