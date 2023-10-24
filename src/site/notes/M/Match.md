@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/M/Match/","title":"Match","tags":["formatted🟢"],"created":"2023-10-20T07:12","updated":"2023-10-20T07:12"}
+{"dg-publish":true,"permalink":"/M/Match/","title":"Match","tags":["dg_uploaded"],"created":"2023-10-20T07:12","updated":"2023-10-25T01:45"}
 ---
-
-
 
 
 # Match
