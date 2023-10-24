@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/A/A-/","title":"A-","tags":["formatted🟢"],"created":"2023-10-13T01:13","updated":"2023-10-13T01:13"}
+{"dg-publish":true,"permalink":"/A/A-/","title":"A-","tags":["dg_uploaded"],"created":"2023-10-13T01:13","updated":"2023-10-25T12:18"}
 ---
 
 
 # A-
-
-
 
 #### Kolumbán Sándor írja:
 
