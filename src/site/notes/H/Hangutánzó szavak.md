@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hangutánzó szavak/","title":"Hangutánzó szavak","tags":["nyelvészet","Götz","formatted🟢"],"created":"2023-10-05T03:29","updated":"2023-10-05T03:29"}
+{"dg-publish":true,"permalink":"/H/Hangutánzó szavak/","title":"Hangutánzó szavak","tags":["nyelvészet","Götz","dg_uploaded"],"created":"2023-10-05T03:29","updated":"2023-10-25T01:34"}
 ---
 
 
@@ -8,7 +8,7 @@
 #### Péterfai János írja:
 
 > [[V/Varga Géza\|Varga Géza]], különben kitűnő írásában, azt mondja, a Ten kezdetben a mennydörgés hangját utánzó szó. Felsorolja a Döng, Dördül, Dong, Zeng, Peng, Pendül szavakat, gondolata alátámasztására. A hangutánzó szavak csak a nyelvek fejlődésének kései szakaszában jelennek meg. A magyar nyelvben kezdetben nem voltak hangutánzó szavak.  
-> Minden nyelvkutatónak tudnia kell, eredetileg nincsenek hangutánzó szavak. Ha alaposan megvizsgáljuk az etymonok rendszerét, egy pillanat alatt ráébredünk erre az alaptényre. Viszont később egyes szavakhoz hangutánzó és hangfestő tartalmakat gondoltak a modern és legmodernebb korokban. Így alakult ki a hangutánzó szavak fogalma.  
+> Minden nyelvkutatónak tudnia kell, eredetileg nincsenek hangutánzó szavak. Ha alaposan megvizsgáljuk az etimonok rendszerét, egy pillanat alatt ráébredünk erre az alaptényre. Viszont később egyes szavakhoz hangutánzó és hangfestő tartalmakat gondoltak a modern és legmodernebb korokban. Így alakult ki a hangutánzó szavak fogalma.  
 > Huhog szavunk az éjszaka szava. A bagolyhoz kötjük ezt a szót, holott a Hu az éjszaka csillaga. A bagoly is éji madár, a csillagokhoz közeli, amikor száll a magasban. A Huhog ezért két magyar szó, a Huh és az Og összetétele. *Nem hangutánzó* ez a szavunk sem.  
 
 [Ezen](https://qr.ae/pvYGHs) a magyar nyelv ismeretlen eredetű szavainak kapcsán írt Quora válaszban is kitérek arra, hogy könnyű kiút a nyelvészek számára a hangutánzó szavakra való visszavezetés. Hiszen az ősi metaforákra épülő magyar világlátás felfogása ismeretlen számukra.  
