@@ -1,23 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/M/MES/"}
+{"dg-publish":true,"permalink":"/M/MES/","title":"MES","tags":["dg_uploaded"],"created":"2023-10-21T04:46","updated":"2023-10-21T04:46"}
 ---
-
----
-title: MES
-aliases:
-  - Mes
-  - mes
-tags:
-  - formatted🟢
-share: true
-dg-publish: true
-dg-created: 2023-10-21T04:46
-dg-updated: 2023-10-21T04:46
-dg_upload_status: 🟢
-date created: 2022-12-14
-date modified: 2023-08-05
----
-
 
 
 # MES
@@ -36,8 +19,8 @@ De alterhez igen hasonló az [[A/Altar\|altar]] = oltár név is, és ahogy JM �
 
 > [[G/Gilgames\|Gilgames]] nevét akkádnak minősítik, holott színmagyar név. A név helyesen Gil-Ga-Mes elemekből áll. Mind a három elem magyar szó, semmi köze az akkádokhoz, hacsak az akkádok nem magyarul beszéltek. Gil a Galamb egyik neve, lásd Gilice, ami galambot jelent, és a Gil becézése. A perzsa `Gil` szintén galamb, a perzsa szó kétségtelenül a magyar nyelvből ered, csak vessük össze a két nyelv létezésének idejét. A Ga egyértelműen Ház, a Mes Ifjú, mint a Mes-E szavunkban is. Ez a Galamb-Házi-Ifjú jelentés a hős galamb lelkű viselkedésére vonatkozik. Elsősorban édesanyja nevezte Gilnek, gyakran Gisnek.  
 > Az Ifjú szónak több változata van, mint Mesz, Mász, Mosz, Mes, Mis és egyebek.  
-- RHA könyvében Oroszlán csk. [[R/Regulus\|Regulus]] csillagánál írja, hogy a turáni népeknél `Masu` = [[H/Hős\|hős]] volt a neve. PJI-nél is az Ifjú és Hős jelentések keverednek, de keletkezés jelentéssel is adatolják e szavakat.  <br/>
-Lásd még fiú jelentések kapcsán [[M/MAS\|MAS]] és [[M/Más\|más]], valamint [[M/Mózes\|Mózes]]. 
+- RHA könyvében Oroszlán csk. [[R/Regulus\|Regulus]] csillagánál írja, hogy a turáni népeknél `Masu` = [[H/Hős\|hős]] volt a neve. PJI-nél is az Ifjú és Hős jelentések keverednek, de keletkezés jelentéssel is adatolják e szavakat. <br/>
+Lásd még fiú jelentések kapcsán [[M/MAS\|MAS]] és [[M/Más\|más]], valamint [[M/Mózes\|Mózes]].
 
 Ezek alapján MES jelentése [[M/MISZ\|MISZ]]-hez is hasonló(an ifjú, fiú jelentésű), de Gavin White Babylonian Star Lore című könyvének adata szerint MES egyszerűen többes számot jelöl:  
 > Late astrology texts sometimes refer to the Crab simply as 'the Waters' (A-meš).  
