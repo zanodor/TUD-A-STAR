@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ágas-bogas/","title":"Ágas-bogas","tags":["formatted🟢"],"created":"2023-10-22T02:40","updated":"2023-10-22T02:40"}
+{"dg-publish":true,"permalink":"/A/Ágas-bogas/","title":"Ágas-bogas","tags":["dg_uploaded"],"created":"2023-10-22T02:40","updated":"2023-10-25T12:21"}
 ---
-
-
 
 
 # Ágas-bogas
