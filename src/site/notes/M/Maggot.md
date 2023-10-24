@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/M/Maggot/","title":"Maggot","tags":["formatted🟢"],"created":"2023-10-21T04:30","updated":"2023-10-21T04:30"}
+{"dg-publish":true,"permalink":"/M/Maggot/","title":"Maggot","tags":["dg_uploaded"],"created":"2023-10-21T04:30","updated":"2023-10-25T01:43"}
 ---
-
-
 
 
 # Maggot
