@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/A/Alak/","title":"Alak","tags":["formatted🟢"],"created":"2023-10-19T10:49","updated":"2023-10-19T10:49"}
+{"dg-publish":true,"permalink":"/A/Alak/","title":"Alak","tags":["dg_uploaded"],"created":"2023-10-19T10:49","updated":"2023-10-25T12:30"}
 ---
-
-
 
 
 # Alak
