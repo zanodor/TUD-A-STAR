@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelv ősisége/","title":"Magyar nyelv ősisége","tags":["formatted🟢"],"created":"2023-10-13T12:27","updated":"2023-10-13T12:27"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelv ősisége/","title":"Magyar nyelv ősisége","tags":["dg_uploaded"],"created":"2023-10-13T12:27","updated":"2023-10-25T01:44"}
 ---
 
 
 # Magyar nyelv ősisége
-
-
 
 #### Péterfai János...
 
