@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Eszter/","title":"Eszter","tags":["formatted🟢"],"created":"2023-10-22T02:45","updated":"2023-10-22T02:48"}
+{"dg-publish":true,"permalink":"/E/Eszter/","title":"Eszter","tags":["dg_uploaded"],"created":"2023-10-22T02:45","updated":"2023-10-25T01:17"}
 ---
 
 
