@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/E/End/","title":"End","tags":["formatted🟢"],"created":"2023-10-17T08:29","updated":"2023-10-17T08:29"}
+{"dg-publish":true,"permalink":"/E/End/","title":"End","tags":["dg_uploaded"],"created":"2023-10-17T08:29","updated":"2023-10-25T01:16"}
 ---
 
 
 # End
 
-Vég, vége vminek, végződik.  
+Vég, vége valaminek, végződik.  
 
 #### Magyar Adorján írja...
 
