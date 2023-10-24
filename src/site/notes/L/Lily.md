@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lily/","title":"Lily","tags":["unformatted⚪"],"created":"2023-10-15T03:54","updated":"2023-10-15T03:54"}
+{"dg-publish":true,"permalink":"/L/Lily/","title":"Lily","tags":["dg_uploaded"],"created":"2023-10-15T03:54","updated":"2023-10-15T03:54"}
 ---
 
 
 # Lily
-
-
 
 Liliom. Liliom szavunkat latinból átvettnek veszik, de...  
 
