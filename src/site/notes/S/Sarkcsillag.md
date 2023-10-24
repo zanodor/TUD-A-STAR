@@ -1,23 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sarkcsillag/"}
+{"dg-publish":true,"permalink":"/S/Sarkcsillag/","title":"Sarkcsillag","tags":["dg_uploaded"],"created":"2023-10-13T12:33","updated":"2023-10-24T11:51"}
 ---
-
----
-title: Sarkcsillag
-aliases:
-  - 
-tags:
-  - formatted🟢
-share: true
-dg-publish: true
-dg-created: 2023-10-13T12:33
-dg-updated: 2023-10-21T03:49
-dg_upload_status: 🟢
-class: dg_uploaded
-date created: 2023-04-17
-date modified: 2023-10-13
----
-
 
 
 # Sarkcsillag
