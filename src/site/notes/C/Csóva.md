@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csóva/","title":"Csóva","tags":["formatted🟢"],"created":"2023-10-21T05:17","updated":"2023-10-21T05:17"}
+{"dg-publish":true,"permalink":"/C/Csóva/","title":"Csóva","tags":["dg_uploaded"],"created":"2023-10-21T05:17","updated":"2023-10-25T01:13"}
 ---
 
 
