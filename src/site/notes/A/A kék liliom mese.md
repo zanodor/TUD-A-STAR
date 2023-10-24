@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/A kék liliom mese/","title":"A kék liliom mese","tags":["formatted🟢"],"created":"2023-10-22T12:46","updated":"2023-10-22T12:46"}
+{"dg-publish":true,"permalink":"/A/A kék liliom mese/","title":"A kék liliom mese","tags":["dg_uploaded"],"created":"2023-10-22T12:46","updated":"2023-10-25T12:12"}
 ---
 
 
