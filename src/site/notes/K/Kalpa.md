@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kalpa/","title":"Kalpa","tags":["formatted🟢"],"created":"2023-10-19T02:45","updated":"2023-10-19T02:45"}
+{"dg-publish":true,"permalink":"/K/Kalpa/","title":"Kalpa","tags":["dg_uploaded"],"created":"2023-10-19T02:45","updated":"2023-10-25T01:39"}
 ---
 
 
