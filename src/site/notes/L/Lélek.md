@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["dg_uploaded"]}
+{"dg-publish":true,"permalink":"/L/Lélek/","created":"2023-10-15T09:46","updated":"2023-10-23T02:39"}
 ---
 
 
@@ -350,7 +350,7 @@ De más idegen nyelv segítségét is hívhatjuk: a latin `spirare` = lélegzeni
 > Az [[I/Illat\|illat]] a virág lehelleteként fogatott föl, de ugyanígy azonosíttatott egymással a lélek és lehellet is, amit tanúsít e két szó azonos alakja, valamint "kilehelte a lelkét" = meghalt, mondásunk, de amelynek meg pontos megfelelője a latin-olasz `spirare` (szpiráre) = meghalni, holott a spiritus szó egyaránt jelent lehelletet, szellőt, szellemet. Aminthogy a magyarban is szellem, szellet, szellő, szél szavaink azonos alakúak. Viszont a latin-olasz `respirare` = lélegzeni, amely szavunk meg lélek szavunkkal azonos.  
 
 Ne feledjük itt még a [[S/Székely-magyar rovásírás#Gy\|székely-magyar rovásírás gy]] és [[S/Székely-magyar rovásírás#Sz\|sz]] betűit sem, GA olvasatát és a sumér Ász jelet:  
-Grandpierre Attila A királyi mágusok című dolgozatának adata szerint és [ezen](https://youtu.be/5qLoX6R_IGk) előadásának adata szerint az ősi magyar rovásírás "[[E/Egy\|egy]]" jele egyháromság (mely a lélektől egy, mert ha a lélek elhagyja a testet, akkor szerinte szétesik ez a egység): ahol a három vonal értelme az ember szintjén és kozmikus szinten a következő: **a függőleges vonal a lélek, ami az élet elve, az alsó vonal az anyagé/testé és a felső vonal értelemé/szelleme**.  
+Grandpierre Atilla A királyi mágusok című dolgozatának adata szerint és [ezen](https://youtu.be/5qLoX6R_IGk) előadásának adata szerint az ősi magyar rovásírás "[[E/Egy\|egy]]" jele egyháromság (mely a lélektől egy, mert ha a lélek elhagyja a testet, akkor szerinte szétesik ez a egység): ahol a három vonal értelme az ember szintjén és kozmikus szinten a következő: **a függőleges vonal a lélek, ami az élet elve, az alsó vonal az anyagé/testé és a felső vonal értelemé/szelleme**.  
 [[S/Szellem#Szellem és lélek\|Szellem és lélek]] cím/alcímnél szerepelt a (jó helyről) Delitzsch-től származó adat: a **lélek az összekötő kapocs a test és a szellem között**.  
 Amiről GA sem beszél viszont az az, hogy a székely-magyar rovás *egy* számnevet kifejező jele (megegyezik: magyar-egyiptomi-etruszk-latin I) is éppen azonos a rovás GY függőleges vonalával és a rovás SZ jelével is, melynek [[S/SZA\|SZA]] és [[I/ISZ\|isz]]/[[A/Ász\|Ász]] olvasatokat is adtunk (mástól előjött szellem, de az nem elég rövid elnevezés). Ha eszerint az elgondolás szerint megyünk, akkor az Isz/[[I/Isa\|isa]]-nak megfelelő lélek kellene legyen a függőleges vonalnak, viszont mi ezt adtuk meg egyúttal a szentlélek/szent szellemnek is. GA felső vízszintes vonalának mi felelne meg?  
 (Az is érdekes még itt, bár nyilván véletlennek vehető egybeesés (vagy olyan fogalmi viszonyt lehet köztük felállítani, mint a lélek [[K/Kut\|kut]] és [[G/Guta\|guta]] nevei és a germán isten Gott/[[G/God\|God]] nevei között), hogy [[J/Jézus\|Jézus]] turáni neve is Isza volt, ki pedig [[N/Négy#Négy és az ötödik irány\|négy és az ötödik irány]] cím/alcímnél a szent/isteni közép volt.)  
@@ -425,7 +425,8 @@ Fentebb már volt szó Istenről. De mi lenne, ha Istent Istennőnek neveznénk?
 Kezdjünk neki, és bontsuk ki a témát.  
 A lélektan fontos része a [[T/Tudatalatti\|tudatalatti]], mely az istennőhöz tartozó terület, ahogy FK könyvében is volt erről szó. [[O/Ösztön\|Ösztön]] címnél (ahol az alábbi passzus is szerepelt) pedig arról, hogy az [[I/Isten\|Isten]] és főleg az istennő tartozik hozzá.  
 [[B/Babona\|Babona]] és [[V/Vallás\|vallás]] címnél is szerepelt Jankovics Marcell Ahol a madár se jár című könyvének Kényszercselekvés és szabad akarat című fejezetében álló passzusa:  
-A vallás(osság) – ez már az én előfeltevésem –, legalább a szimbolizáció és a ritualizálás tekintetében ösztöni eredetű. Nem tudom, merte-e már valaki rajtam kívül [[C/Carl Jung\|Carl Jung]] **archetípus és kollektív tudattalan fogalmát egyszerűen ösztönnek nevezni**? \[Ösztön = Isten.\]  
+> A vallás(osság) – ez már az én előfeltevésem –, legalább a szimbolizáció és a ritualizálás tekintetében ösztöni eredetű. Nem tudom, merte-e már valaki rajtam kívül [[C/Carl Jung\|Carl Jung]] **archetípus és kollektív tudattalan fogalmát egyszerűen ösztönnek nevezni**?  
+- Ösztön = Isten.
 
 Amennyiben a babona fentebbi említése e tárgyban magyarázatra szorul, íme. Felfogásom szerint a babona, hiedelem, néphit és vallásos hit között csupán fejlődéstörténeti jellegű a különbség. A meg nem értett jelenségekkel kapcsolatos, még kialakulatlan képzelgéseket és a vallásos hit kiürült, érvényüket vesztett, tartalmukat feledett formáit szokás babonának nevezni, túl azon, hogy hívő emberek hajlamosak a másvallásúak hitét is babonává kicsinyelni.  
 
@@ -508,7 +509,7 @@ Tőle való még:
 
 ## Lélekutazás – a sámán csillagutazása a világfán
 
-#### Grandpierre Attila Karácsony eredete és jelentősége...
+#### Grandpierre Atilla Karácsony eredete és jelentősége...
 
 ...című dolgozatában szól a lélekutazásról (a fentieket is újra elmondja a szabadlélekről):  
 > A Magyar Néprajzi Lexikon "lélek" szócikke alatt (1987, 3.. kötet, 438-440) Pócs Éva a következőket írja:  
@@ -534,7 +535,7 @@ Tőle való még:
 >
 > A lélekutazáshoz rendkívüli tudatállapotra van szükség. Nem árt tudni, hogy korunkban már a rendszeres nyugati tudomány is kezd eljutni a valóság rendkívüli megismerési módjának felfedezéséhez.  
 
-A Grandpierre Attila Karácsonyról szóló írását olvasó...
+
 
 #### Antal Zsuzsanna az Ősi Gyökér 2011/1. sz. megjelent cikkében...
 
