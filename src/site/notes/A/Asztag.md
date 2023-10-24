@@ -1,14 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/A/Asztag/","title":"Asztag","tags":["formatted🟢"],"created":"2023-10-11T05:44","updated":"2023-10-11T05:44"}
+{"dg-publish":true,"permalink":"/A/Asztag/","title":"Asztag","tags":["dg_uploaded"],"created":"2023-10-11T05:44","updated":"2023-10-25T12:34"}
 ---
 
 
 # Asztag
 
-
-
 1\. Régies: Felhalmozott gabonakévék, a learatott gabona kévéiből rakott széles, terjedelmes, több méter magas halom; alakja házra emlékeztet; így védik a gabonát az esőtől, beázástól a cséplésig.  
-![assets/Asztag_image1.png](/img/user/A/assets/Asztag_image1.png)  
+![assets/Asztag_image1.png|undefined](/img/user/A/assets/Asztag_image1.png)  
 Ma, a kombájnok korában már nem látni asztagokat a földeken, mert az aratógép rögtön ki is csépeli a gabonaszemeket. Régen fáradságos munka volt a kévék asztagba rakása.  
 2\. Átvitt értelemben: Nagy tömeg, nagy mennyiség; egyféle dologból nagyon sok.  
 A kutató a könyvtárban ki se látszott a könyvek asztagából. A búvárok az elsüllyedt 16. századi hajón aranyérmékkel teli ládaasztagot találtak.  
