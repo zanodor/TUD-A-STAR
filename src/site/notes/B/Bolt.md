@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bolt/","title":"Bolt","tags":["titleandheadingonedontmatch","multipleentries","stitched","dg_uploaded"],"created":"2023-10-10T10:45","updated":"2023-10-23T04:22"}
+{"dg-publish":true,"permalink":"/B/Bolt/","title":"Bolt","tags":["titleandheadingonedontmatch","multipleentries","stitched","dg_uploaded"],"created":"2023-10-10T10:45","updated":"2023-10-25T01:05"}
 ---
 
 
