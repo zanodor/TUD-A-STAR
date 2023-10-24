@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csinvát/","title":"Csinvát","tags":["formatted🟢"],"created":"2023-10-14T06:58","updated":"2023-10-14T06:58"}
+{"dg-publish":true,"permalink":"/C/Csinvát/","title":"Csinvát","tags":["dg_uploaded"],"created":"2023-10-14T06:58","updated":"2023-10-25T01:12"}
 ---
 
 
 # Csinvát
-
-
 
 Perzsa szöveggyűjteményben Chínavad alakban is előfordul. Arab neve ennek a hídnak Szirát.  
 
