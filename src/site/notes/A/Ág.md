@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ág/","title":"Ág","tags":["formatted🟢"],"created":"2023-10-13T05:13","updated":"2023-10-13T05:13"}
+{"dg-publish":true,"permalink":"/A/Ág/","title":"Ág","tags":["dg_uploaded"],"created":"2023-10-13T05:13","updated":"2023-10-25T12:21"}
 ---
 
 
 # Ág
-
-
 
 #### Tomory Zsuzsa...
 
