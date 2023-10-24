@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Abrak/","title":"Abrak","tags":["formatted🟢"],"created":"2023-10-21T04:37","updated":"2023-10-21T04:37"}
+{"dg-publish":true,"permalink":"/A/Abrak/","title":"Abrak","tags":["dg_uploaded"],"created":"2023-10-21T04:37","updated":"2023-10-25T12:20"}
 ---
 
 

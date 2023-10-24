@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ashmog/","title":"Ashmog","tags":["containstransclusions","dg_uploaded"],"created":"2023-10-23T02:53","updated":"2023-10-23T02:53"}
+{"dg-publish":true,"permalink":"/A/Ashmog/","title":"Ashmog","tags":["containstransclusions","dg_uploaded"],"created":"2023-10-23T02:53","updated":"2023-10-25T12:34"}
 ---
-
-
 
 
 # Ashmog
@@ -18,11 +16,7 @@ Láss csodát, [[S/Széth\|Széth]]-tel azonosítja és kutyakísérőről is sz
 > In the Book of Tobit, Tobit is the lucky eighth, the new Zeus bridegroom, who escapes his fate when the reigning Zeus has to die at the end of his term. Asmodeus is the Persian counterpart of Set, the yearly murderer of Osiris, but he is charmed away with the fish of immortality and flees to his southern deserts. Tobit's dog is a helpful clue; he always accompanied Hercules Melkarth, or his Persian counterpart Sraosha, or the Greek Aesculapius, wherever he went.  
 
 Nyilván Asmodeus számomra inkább Ashmog-Deus összevonása lenne, mintsem Aeshma Deus/Daeva, melyet a Wikipédia oldal is erőltet. Egyébiránt a júdaizmusban és a Talmudban szintén előjön ezen név vagy variánsa:  
-> Judaism's Asmodeus (Talmudic `ʼšmdʼy`, Book of Tobit `asmodios`) derives from Avestan `aeshmadaeva`. The Georgian language word for devil – `eshmaki` – likewise derives from aeshma.  
-
-#### Zajti Ferenc Zsidó volt-e Jézusában ugyanez:
-
-> Jób könyvében megjelenik az Aveszta Sátán-fogalma. Tóbiás könyvében feltűnik a lelki bajokat okozó Asmodeus alakja, az Aveszta Asma-devája.  
+> Judaism's Asmodeus (Talmudic `ʼšmdʼy`, Book of Tobit `asmodios`) derives from Avestan `aeshmadaeva`. The Georgian language word for devil – `eshmaki` – likewise derives from aeshmadaeva.  
 
 Ami a szóvégi g és másutt d hang megjelenését illeti, nyilván a közös az lehet bennük, hogy a kiinduló szó gy hangos. Igaz, [[C/Csomag\|csomag]] címnél is előjött perzsa rokon szó, de d-vel a végén.  
 

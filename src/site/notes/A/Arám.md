@@ -1,23 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arám/"}
+{"dg-publish":true,"permalink":"/A/Arám/","title":"Arám","tags":["dg_uploaded"],"created":"2023-10-20T06:58","updated":"2023-10-25T12:32"}
 ---
-
----
-title: Arám
-aliases:
-  - arám
-  - arámi
-tags:
-  - formatted🟢
-share: true
-dg-publish: true
-dg-created: 2023-10-20T06:58
-dg-updated: 2023-10-20T06:58
-dg_upload_status: 🟢
-date created: 2022-12-14
-date modified: 2023-09-15
----
-
 
 
 # Arám

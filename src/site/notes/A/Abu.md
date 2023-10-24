@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/A/Abu/","title":"Abu","tags":["formatted🟢"],"created":"2023-10-13T12:17","updated":"2023-10-13T12:19"}
+{"dg-publish":true,"permalink":"/A/Abu/","title":"Abu","tags":["dg_uploaded"],"created":"2023-10-13T12:17","updated":"2023-10-25T12:20"}
 ---
 
 
 # Abu
-
-
 
 Az arabban `abu` = apu, ahogy [[S/Sphinx\|Sphinx]] címnél is szó esett róla. A japániban `abu` = dongó, mely ugye [[N/Napjelkép\|Napjelkép]].  
 Az arab **Abubakar** (Abu Bakr) név tulajdonképpen Bak-Úr Apa értelmű (az első kalifa neve is ez volt). (Bak-Úr, Bog-Ár a Magur, Magor nevek változatának is tartható.)  

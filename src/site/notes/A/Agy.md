@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/A/Agy/","title":"Agy","tags":["formatted🟢"],"created":"2023-10-13T12:35","updated":"2023-10-13T12:35"}
+{"dg-publish":true,"permalink":"/A/Agy/","title":"Agy","tags":["dg_uploaded"],"created":"2023-10-13T12:35","updated":"2023-10-25T12:21"}
 ---
 
 
 # Agy
-
-
 
 Götz László Keleten kél a Nap című könyvének 487. oldalától tallózik olyan [[B/Budenz József\|Budenz József]] által finnugornak meghatározott szavakból, melyeket [[V/Vámbéry Ármin\|Vámbéry Ármin]] elemzett, majd a TeSz féle származtatásokat is megadja:  
 Oszt. `oñit`, vog. `ant` "szarv".  

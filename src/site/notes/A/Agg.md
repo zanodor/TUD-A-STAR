@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/A/Agg/","title":"Agg","tags":["formatted🟢"],"created":"2023-10-13T12:40","updated":"2023-10-13T12:40"}
+{"dg-publish":true,"permalink":"/A/Agg/","title":"Agg","tags":["dg_uploaded"],"created":"2023-10-13T12:40","updated":"2023-10-25T12:21"}
 ---
 
 
 # Agg
-
-
 
 #### Péterfai János írja:
 

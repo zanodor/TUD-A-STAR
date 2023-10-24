@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/A/Abraxas/","title":"Abraxas","tags":["formatted🟢"],"created":"2023-10-20T01:23","updated":"2023-10-20T01:23"}
+{"dg-publish":true,"permalink":"/A/Abraxas/","title":"Abraxas","tags":["dg_uploaded"],"created":"2023-10-20T01:23","updated":"2023-10-25T12:20"}
 ---
-
-
 
 
 # Abraxas

@@ -1,22 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/A/Akkád/"}
+{"dg-publish":true,"permalink":"/A/Akkád/","title":"Akkád","tags":["dg_uploaded"],"created":"2023-10-20T06:53","updated":"2023-10-25T12:22"}
 ---
-
----
-title: Akkád
-aliases:
-  - akkád
-tags:
-  - formatted🟢
-share: true
-dg-publish: true
-dg-created: 2023-10-20T06:53
-dg-updated: 2023-10-20T06:53
-dg_upload_status: 🟢
-date created: 2022-12-14
-date modified: 2023-08-13
----
-
 
 
 # Akkád
@@ -37,7 +21,7 @@ Nálam Ak-Kád, vagy A-Kád, Háza az Égnek/Istennek értelmű lenne, de (talá
 > Ezt a hódító kosi néprajt a bennszülött sémiták akkád, vagy sumir néven nevezték maguk között. ([Lásd 16. old.](zotero://open-pdf/library/items/VZZUZWZ2?page=16&annotation=B7ADL7QG))  
 > ...  
 > Az akkádok turáni természetük szerint se ki nem verték, se le nem ölték a meghódított sémitákat, hanem mintegy ezer esztendeig nagylelkűen és emberségesen uralkodtak felettük. Ezalatt azonban a sémiták kiismerték gyengéiket, szervezkedtek ellenük és utoljára belülről megdöntötték uralmukat. Az akkád birodalom romjaiból két sémita állam keletkezett: a babiloni és tőle északra a ninivei, vagy assyr. ([Lásd 16. old.](zotero://open-pdf/library/items/VZZUZWZ2?page=16&annotation=NJB49ZB4))  
-- Pálfi Károly idézett könyvében továbbá istentelen jelentéssel adja meg nevüket; egy helyen, a 32. oldalon a sémi Jupitert Gád-nak nevezi és ha ez lett volna isten számban tartva, akkor [[A/A-\|a-]] fosztóképzővel eredne akkád istentelen értelme? Mert ezt nem látom nála kifejtve, de azt igen, hogy sokszor két-három nyelv jellegzetességeivel kombinál.  <br/>
+- Pálfi Károly idézett könyvében továbbá istentelen jelentéssel adja meg nevüket; egy helyen, a 32. oldalon a sémi Jupitert Gád-nak nevezi és ha ez lett volna isten számban tartva, akkor [[A/A-\|a-]] fosztóképzővel eredne akkád istentelen értelme? Mert ezt nem látom nála kifejtve, de azt igen, hogy sokszor két-három nyelv jellegzetességeivel kombinál. <br/>
 De egyébként sem ez a megoldás.  
 
 Az Agade-t mutató kis térkép [[G/Gutium\|Gutium]] címnél is szerepelt.  

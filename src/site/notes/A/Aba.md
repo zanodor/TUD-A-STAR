@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/A/Aba/","title":"Aba","tags":["titleandheadingonedontmatch","multipleentries","stitched","formatted🟢"],"created":"2023-10-12T07:13","updated":"2023-10-12T07:13"}
+{"dg-publish":true,"permalink":"/A/Aba/","title":"Aba","tags":["titleandheadingonedontmatch","multipleentries","stitched","dg_uploaded"],"created":"2023-10-12T07:13","updated":"2023-10-25T12:18"}
 ---
 
 
 # Aba 1)
-
-
 
 [[A/Apa\|Apa]] jelentésű, ahogy Aba Sámuel nevében is megvan; az arab [[A/Abu\|abu]] = apu. A B = P azonosság talán a leginkább ismert az összes mássalhangzó-hasonlóság közül. Senki előtt nem vitatott, hogy az ami egyszer [[A/Apa\|apa]] lehet, másutt lehet aba.  
 [[A/AB\|AB]] címnél taglaltuk még az apa jelentést, ahol Götz László adataként láttuk a szumér `AB` = apa szót és a mellé tett latin `avus` = előd szót (mely [[A/Ava\|ava]] címhez is bekerült).  

@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/A/Apple/","title":"Apple","tags":["formatted🟢"],"created":"2023-10-11T10:10","updated":"2023-10-11T10:10"}
+{"dg-publish":true,"permalink":"/A/Apple/","title":"Apple","tags":["dg_uploaded"],"created":"2023-10-11T10:10","updated":"2023-10-25T12:32"}
 ---
 
 
 # Apple
-
-
 
 [[A/Alma\|Alma]]. Apró alma is létezik, amit kötényébe gyűjthet az ember. [[A/Apron\|Apron]] angolul kötény. A német alma viszont `apfel`, mondhatnánk, köténykédbe kapd fel.  
 Ha App-Ul alakokká bontjuk, Apa-Fia jelentést kapunk. Az Apa a Nap, kisebbik mása az alma, ez esetben. Nem esik messze az alma a fájától, mondjuk ma is.  

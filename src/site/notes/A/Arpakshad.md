@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arpakshad/","title":"Arpakshad","tags":["formatted🟢"],"created":"2023-10-04T02:46","updated":"2023-10-04T02:46"}
+{"dg-publish":true,"permalink":"/A/Arpakshad/","title":"Arpakshad","tags":["dg_uploaded"],"created":"2023-10-04T02:46","updated":"2023-10-25T12:33"}
 ---
 
 

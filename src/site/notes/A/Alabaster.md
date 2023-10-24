@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Alabaster/","title":"Alabaster","tags":["formatted🟢"],"created":"2023-10-05T03:49","updated":"2023-10-05T03:49"}
+{"dg-publish":true,"permalink":"/A/Alabaster/","title":"Alabaster","tags":["dg_uploaded"],"created":"2023-10-05T03:49","updated":"2023-10-25T12:22"}
 ---
 
 

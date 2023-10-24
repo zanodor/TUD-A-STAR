@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Awe/","title":"Awe","tags":["formatted🟢"],"created":"2023-10-19T05:40","updated":"2023-10-19T05:40"}
+{"dg-publish":true,"permalink":"/A/Awe/","title":"Awe","tags":["dg_uploaded"],"created":"2023-10-19T05:40","updated":"2023-10-25T12:36"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Atum/","title":"Atum","tags":["formatted🟢"],"created":"2023-10-03T11:35","updated":"2023-10-03T11:38"}
+{"dg-publish":true,"permalink":"/A/Atum/","title":"Atum","tags":["dg_uploaded"],"created":"2023-10-03T11:35","updated":"2023-10-25T12:35"}
 ---
 
 
@@ -42,9 +42,9 @@ Az At Random: Thoughts and Observations on Life, Morality, Sex, Time, Truth and 
 Mivel [[N/Nimrud\|Nimrud]] neve Nemző Rúd és [[O/Orion\|Orion]] címnél volt szó vízfakasztás kapcsán másról is, mondható Atum Orionnal egyeztethető Atya istennek?  
 
 Borbola János A magyarok istene című Ősi Gyökér 2005/1. sz. megjelent tanulmányából való a mellékelt kép. Mutatja, hogy a név másképp is olvasható, de az ő olvasatát sem találom jónak.  
-![assets/Atum_image1.jpeg](/img/user/A/assets/Atum_image1.jpeg)  
+![assets/Atum_image1.jpeg|undefined](/img/user/A/assets/Atum_image1.jpeg)  
 [Ezen](https://www.borbolajanos.com/images/stories/cikkek/Birok.pdf) oldaláról származó másik képén tovább erőlteti.  
-![assets/Atum_image2.png](/img/user/A/assets/Atum_image2.png)  
+![assets/Atum_image2.png|undefined](/img/user/A/assets/Atum_image2.png)  
 
 Egészen hasonló név hozzá az Aten változataként is ismert [[A/Aton\|Aton]]. Az Atum Tum-je lehetne [[D/DON\|DON]] és [[T/TEN\|TEN]] nevekkel összevethető.  
 Igen hasonló módon képzett az indián nyelvű, eredetű, de magyarul tökéletesen értelmezhető [[T/Totem\|totem]]. Lásd még [[A/Atom\|atom]].  

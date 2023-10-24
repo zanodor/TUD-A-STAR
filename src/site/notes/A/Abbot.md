@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Abbot/","title":"Abbot","tags":["formatted🟢"],"created":"2023-10-22T12:48","updated":"2023-10-22T12:48"}
+{"dg-publish":true,"permalink":"/A/Abbot/","title":"Abbot","tags":["dg_uploaded"],"created":"2023-10-22T12:48","updated":"2023-10-25T12:19"}
 ---
 
 

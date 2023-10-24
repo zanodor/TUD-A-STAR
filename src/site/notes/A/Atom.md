@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Atom/","title":"Atom","tags":["formatted🟢"],"created":"2023-10-04T12:34","updated":"2023-10-04T12:34"}
+{"dg-publish":true,"permalink":"/A/Atom/","title":"Atom","tags":["dg_uploaded"],"created":"2023-10-04T12:34","updated":"2023-10-25T12:35"}
 ---
 
 

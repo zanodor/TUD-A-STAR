@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/A/AB/","title":"AB","tags":["formatted🟢"],"created":"2023-10-20T05:11","updated":"2023-10-20T05:11"}
+{"dg-publish":true,"permalink":"/A/AB/","title":"AB","tags":["dg_uploaded"],"created":"2023-10-20T05:11","updated":"2023-10-25T12:18"}
 ---
-
-
 
 
 # AB
