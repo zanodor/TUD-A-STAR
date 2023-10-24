@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["formatted🟢"],"created":"2023-10-04T02:14","updated":"2023-10-04T02:48"}
+{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["dg_uploaded"],"created":"2023-10-04T02:14","updated":"2023-10-25T01:31"}
 ---
 
 
@@ -9,7 +9,7 @@ Robert Graves adata szerint ilyen néven hívták az egyiptomiak a [[H/Héber\|h
 > A 'termékeny félhold' országaiban a habiru szó – jelentése '[[K/Kóbor\|kóbor]]ló', 'vándorló' tulajdonképpen 'poros' –, annak a sémita nomád pásztornépeknek a neve, amely állatot tenyészt, karavánokkal járja az utakat, fegyverese annak, aki megfizeti és gyakran a rablástól, útonállástól se riad vissza.  
 
 [[H/Hargita Csaba Ferenc\|Hargita Csaba Ferenc]] nehezen kalauzolható honlapjának [ezen](http://www.imninalu.net/Habiru.htm) oldalán taglalja a habirukat. A mellékelt nemzetségtábláról az olvasható le, hogy Ever-től kezdve lehet habirukról beszélni.  
-![assets/Habiru_image1.jpg](/img/user/H/assets/Habiru_image1.jpg)  
+![assets/Habiru_image1.jpg|undefined](/img/user/H/assets/Habiru_image1.jpg)  
 
 A cikket is ezen név említésével nyitja:  
 "Shem, the father of all the children of 'Ever..." Bereshyit 10:21  
@@ -61,7 +61,7 @@ Habur a Wikipédia adata szerint az [[E/Eufrátesz\|Eufrátesz]] mellékfolyója
 
 Azt jegyezzük meg egyébként, hogy az indo-európai nyelvcsaládba sorolt örmény nyelvben `hawaṙi` = víz kilóg a sorból[^3], talán mert Habúr eredetre megy vissza.  
 
-Namármost, a letöltött Sirius in Ancient Greek and Roman Literature című cikkben Al-Habur (másutt Al-Abur[^4]) előjön a [[S/Szíriusz\|Szíriusz]] arab neveként:  
+Namármost, a Sirius in Ancient Greek and Roman Literature című cikkben Al-Habur (másutt Al-Abur[^4]) előjön a [[S/Szíriusz\|Szíriusz]] arab neveként:  
 > In Carmina Burana, based on the pastoral songs of the 13th century, the whiteness of Sirius is compared to that of ivory. Geoffrey Chaucer, in 1391, relates that the Arabians call Sirius Al-Habur, the beautiful white star.  
 
 Mivel a Szíriusz közvetlenül szorosan kapcsolódik a Tejúthoz, nem lenne meglepő, hogy a folyó neve vitetett át a csillag nevére. Ami még itt érdekes, hogy az elefáncsont-fehérség is szóba jön. Márpedig az [[E/EB\|EB]] és [[I/Ivory\|ivory]] címnél előjövő latin ebur és kelta ebor és főleg Eb-Úr, és a [[S/Szíriusz\|Szíriusz]] címnél szereplő passzusnál említett [[A/Ábra\|ábra]] és [[O/Over\|over]] címnél előjövő szavak is hasonló alakúak mind. Közben lásd [[H/Hab\|hab]] cím alján szereplő adatokat is, új felfedezéssel.  
