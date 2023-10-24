@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magda/","title":"Magda","tags":["formatted🟢"],"created":"2023-10-21T03:58","updated":"2023-10-22T03:32"}
+{"dg-publish":true,"permalink":"/M/Magda/","title":"Magda","tags":["dg_uploaded"],"created":"2023-10-21T03:58","updated":"2023-10-25T01:43"}
 ---
 
 
