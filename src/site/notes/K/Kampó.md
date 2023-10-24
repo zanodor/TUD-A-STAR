@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kampó/","title":"Kampó","tags":["formatted🟢"],"created":"2023-10-19T03:25","updated":"2023-10-19T03:25"}
+{"dg-publish":true,"permalink":"/K/Kampó/","title":"Kampó","tags":["dg_uploaded"],"created":"2023-10-19T03:25","updated":"2023-10-19T03:25"}
 ---
 
 
