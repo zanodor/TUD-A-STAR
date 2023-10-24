@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cheese/","title":"Cheese","tags":["formatted🟢"],"created":"2023-10-13T02:06","updated":"2023-10-13T02:06"}
+{"dg-publish":true,"permalink":"/C/Cheese/","title":"Cheese","tags":["dg_uploaded"],"created":"2023-10-13T02:06","updated":"2023-10-25T01:10"}
 ---
 
 
 # Cheese
-
-
 
 Sajt. Az angol `cheese` és német `käse` mellett Tóth Alfréd egy rét nyelvű `chaschöl` szót hoz fel, a magyar [[K/Kása\|kása]] szavunkat velük párosítva. S>K átmenettel sajtolból is kijöhet, de inkább azt kell látni, hogy a hatalmas [[H/HAT\|HAT]] (honnan hajt és vélhetően sajt) szócsoporthoz tartoznak e szavak.  
 
