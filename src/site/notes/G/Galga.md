@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Galga/","title":"Galga","tags":["dg_uploaded"],"created":"2023-10-23T03:07","updated":"2023-10-25T01:20"}
+{"dg-publish":true,"permalink":"/G/Galga/","title":"Galga","tags":["dg_uploaded"],"created":"2023-10-23T03:07","updated":"2023-10-25T01:21"}
 ---
 
 
