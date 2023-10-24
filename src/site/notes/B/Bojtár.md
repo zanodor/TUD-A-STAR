@@ -1,13 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bojtár/","title":"Bojtár","tags":["formatted🟢"],"created":"2023-10-11T06:13","updated":"2023-10-11T06:13"}
+{"dg-publish":true,"permalink":"/B/Bojtár/","title":"Bojtár","tags":["dg_uploaded"],"created":"2023-10-11T06:13","updated":"2023-10-25T01:04"}
 ---
 
 
 # Bojtár
 
-
-
-VCs adata szerint bojtár eredne a boly szóból, miből: bolyong, bojtár ugyanis kódorgót, bolyongót jelent, csak áttételes jelentése a "fiú," ahogy [[B/Boy\|boy]] címnél szerepelt. Ez rendben is volna. VCs viszont nem ismerte az etymonrendszert.  
+VCs adata szerint bojtár eredne a boly szóból, miből: bolyong, bojtár ugyanis kódorgót, bolyongót jelent, csak áttételes jelentése a "fiú," ahogy [[B/Boy\|boy]] címnél szerepelt. Ez rendben is volna. VCs viszont nem ismerte az etimonrendszert.  
 
 Sorairól a [[B/Betyár\|betyár]] címnél írottak jutnak eszembe. Szinte biztos, hogy csillag(kép)név, hiszen [[T/TÁR\|tár]] = csillag és [[B/BOJ\|BOJ]] = Nap. Bojtár lehet ugye bármily nyáj vagy csorda, ménes mellett segédként a fiatal legény. Erős a késztetés, hogy a [[P/Papszukkal\|Papszukkal]] címnél írottak jussanak eszembe. Mindenképp nyári csillagzat.  
 
