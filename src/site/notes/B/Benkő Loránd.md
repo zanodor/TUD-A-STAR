@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Benkő Loránd/","title":"Benkő Loránd","tags":["dg_uploaded"],"created":"2023-10-23T03:42","updated":"2023-10-23T03:48"}
+{"dg-publish":true,"permalink":"/B/Benkő Loránd/","title":"Benkő Loránd","tags":["dg_uploaded"],"created":"2023-10-23T03:42","updated":"2023-10-25T01:03"}
 ---
 
 
