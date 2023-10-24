@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/E/Eke/","title":"Eke","tags":["titleandheadingonedontmatch","multipleentries","stitched","formatted🟢"],"created":"2023-10-20T01:30","updated":"2023-10-20T01:30"}
+{"dg-publish":true,"permalink":"/E/Eke/","title":"Eke","tags":["titleandheadingonedontmatch","multipleentries","stitched","dg_uploaded"],"created":"2023-10-20T01:30","updated":"2023-10-25T01:15"}
 ---
-
-
 
 
 # Eke 1)
