@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Egyéb/","title":"Egyéb","tags":["formatted🟢"],"created":"2023-10-22T01:21","updated":"2023-10-22T01:21"}
+{"dg-publish":true,"permalink":"/E/Egyéb/","title":"Egyéb","tags":["dg_uploaded"],"created":"2023-10-22T01:21","updated":"2023-10-25T01:15"}
 ---
 
 
