@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["dg_uploaded"],"created":"2023-10-06T12:05","updated":"2023-10-23T05:02"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["dg_uploaded"]}
 ---
 
 
