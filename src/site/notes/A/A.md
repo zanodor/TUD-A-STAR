@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["formatted🟢"],"created":"2023-10-13T01:11","updated":"2023-10-13T01:11"}
+{"dg-publish":true,"permalink":"/A/A/"}
 ---
 
 
 # A
-
-
 
 #### Péterfai János írja:
 
@@ -62,7 +60,7 @@ Megpróbálom egy gyors skiccel felvázolni, miről van szó, de ennél sokkal s
 [[E/Eire\|Eire]] címnél pedig szöveges háttéranyag is szerepel.  
 Az előhang nélküli és előhangos állatnevek kapcsán legutóbb [[U/UR#UR szóval képzett állatnevek\|ur szóval képzett állatnevek]] cím/alcímnél is szóltunk.  
 
-![assets/A_image1.png](/img/user/A/assets/A_image1.png)  
+![assets/A_image1.png|undefined](/img/user/A/assets/A_image1.png)  
 
 
 #### Borbola János A magyarok istene...
@@ -73,7 +71,7 @@ Az előhang nélküli és előhangos állatnevek kapcsán legutóbb [[U/UR#UR sz
 
 Ami tehát azt a szabályt illeti, hogy a magyar nyelvében a mássalhangzók "viszik" a szó jelentését, igaz, viszont a mássalhangzó magában nem lehet szó. Ki sem tudod ejteni őket magánhangzó nélkül (PG az [[S/SZ\|SZ]] hangzót félmagánhangzónak titulálja). Ezért hívjuk őket mássalhangzónak. A mássalhangzók csak a vázat adják meg, a testet. A lelket//szellemet a magánhangzók hordozzák a szavakban, mely szavak a magyar nyelvben egy betűből is állhatnak, de sosem mássalhangzóként.  
 
-Kapát Ka-Pa felbontásban is lehet értelmezni. [[C/Cápa\|Cápa]] címnél is volt arról szó legutóbb, hogy a magyar nyelvre az jellemző, hogy többféleképpen elemezhetőek a szavak. Ezért is járnak (rész)sikerrel a CzF szótár szerkesztői is és az etymonokat nem ismerő magyar gondolkodók is, mint például MA. Hiszen (a Cá-Pa/Szá-Pa = Száj-Fej értelmezés mellett) Cáp-A felbontásban Cáp a hímségi [[C/Csap\|csap]] igével is egyeztethető, utalva a csapott fejére, vagy akár fogaira is. A szóvégi A hangról meg lehet az, amiről fentebb szó volt.  
+Kapát Ka-Pa felbontásban is lehet értelmezni. [[C/Cápa\|Cápa]] címnél is volt arról szó legutóbb, hogy a magyar nyelvre az jellemző, hogy többféleképpen elemezhetőek a szavak. Ezért is járnak (rész)sikerrel a CzF szótár szerkesztői is és az etimonokat nem ismerő magyar gondolkodók is, mint például MA. Hiszen (a Cá-Pa/Szá-Pa = Száj-Fej értelmezés mellett) Cáp-A felbontásban Cáp a hímségi [[C/Csap\|csap]] igével is egyeztethető, utalva a csapott fejére, vagy akár fogaira is. A szóvégi A hangról meg lehet az, amiről fentebb szó volt.  
 
 ## 'A' a nevek elején (névelő?)
 
