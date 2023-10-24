@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/H/Humbaba/","title":"Humbaba","tags":["dg_uploaded"],"created":"2023-10-23T03:13","updated":"2023-10-23T03:13"}
+{"dg-publish":true,"permalink":"/H/Humbaba/","title":"Humbaba","tags":["dg_uploaded"],"created":"2023-10-23T03:13","updated":"2023-10-25T01:36"}
 ---
-
-
 
 
 # Humbaba
@@ -13,7 +11,7 @@
 > A hetita Kubaba nem más, mint a mai magyar Kü-Baba, Kő-Baba. A Ku magyar szó Száj és Kő értelmű. A Kő-Babák állítása sokáig érvényben volt, amiket Kő Bálványnak is neveztek őseink, isteneink és halottaink emlékére. A török Gül- Baba Rózsák-Apja, a Baba ebben az értelemben megy a csillagok felé, meg fog halni, csillaggá lesz. Tehát a török Baba tiszteletreméltó öreg, az orosz Bábuska szintén. Ám a magyar Ba Gyerek, tehát a Baba Gyerek, Tündér, az angol `Baby` is Tündérem, mint a magyar Babám. Ezek a szavak mind a magyar nyelvből erednek. Az ember a csillagokból születik, és csillaggá lesz.  
 ![assets/Humbaba_image1.jpeg|undefined](/img/user/H/assets/Humbaba_image1.jpeg)  
 > A `Vava` finn szó Tiszteletre Méltó Öreg értelmű. A szumir Hu-Vava ezért Csillag-Öreg értelmű, egy olyan istenség, aki a csillagokkal kapcsolatos, a Hu jelentése által. Gilgames és Enkidu tehát egy olyan istenséget győzött le, aki félig a földön, félig az égben lakott. Cédrus démon, kőbaba, kiléte elmosódott, nem tudni, sajnáljuk-e, vagy örüljünk megölésének? Hős Enkidu sérülése a csatában halált okozott, de Gilgames kimentette őt a halál országából. Láthatjuk finn rokonaink nyelvét is az ókori nevekben, ami azt jelzi, a szumir korban a finnségiek már léteztek, de indoeurópaiak, szemiták még nem.  
-> 
+>
 > Humbaba kezében [[T/Tükör\|tükör]] van, jelezve isteni minőségét. A Tükör a magyarok egyik fontos jelképe. A Tükrösök jelképe a Tükör, ami a Napot jelképezi. A név megmutatja, miről van szó. Tu a Nap, és a Kör a Nap formája. Ebből alakult ki a TuKör szavunk, ami ma Tükör formában él a nyelvben. Az ősi Tukris – Tükrös országnevek is erről beszélnek. Vajon a Tükrösök nevének van-e köze a Türk népnévhez? Azt tudni, hogy a kazár király előtt tükröt emeltek a magasba, amikor vonult seregével. A kazárok a magyarok egyik törzse volt.  
 > Kubaba neve később átalakul Kübelé alakra. Kü-Bél-É jelentése Kő-Nagy/Ragyogó-Ház. A Kárpát-medencében a Kebele folyó neve nagyon hasonlít hozzá, ami nem lehet véletlen. Még később a név Cybele alakú lett, egészen Rómáig elterjedt, ami természetesen magyar alapítású város.  
 
