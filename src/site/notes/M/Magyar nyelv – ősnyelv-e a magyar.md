@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelv – ősnyelv-e a magyar/","title":"Magyar nyelv – ősnyelv-e a magyar","tags":["formatted🟢"],"created":"2023-10-09T06:38","updated":"2023-10-13T12:26"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelv – ősnyelv-e a magyar/","title":"Magyar nyelv – ősnyelv-e a magyar","tags":["dg_uploaded"],"created":"2023-10-09T06:38","updated":"2023-10-25T01:43"}
 ---
 
 
 # Magyar nyelv – ősnyelv-e a magyar
-
-
 
 Bevezetést lásd [[M/Magyar nyelv ősisége\|magyar nyelv ősisége]].  
 
@@ -206,7 +204,7 @@ Az itt sorolt bantu szavak [[F/Folyó\|folyó]], [[G/Gólya\|gólya]] és [[K/Ki
 
 > My amazement grew as I continued to compare the Bantu and Magyar words, where both form and content were so identical that it made the common origin of the two languages evident. But this was only the beginning. The more dictionaries and languages I consulted, the result was the same. I took the blinders off – which were designed to keep horses in line – and by now I started to look around in a 360 degree arc in all the languages around the world to find the words identical to MAGYAR words.  
 > **The Magyar identity in the languages, the immense volume, is shocking. It is an enormous amount of material! Their cataloging, organization, explanation requires a whole lifetime of dedication. The end-result of such studies can be only one thing: The Magyar language is mankind's first language, the language of creation, the ancestral language**.  
-> Még mindig Nagyernyei Szabó Zoltán misszionárius pap Tomory Zsuzsa Magyar-English word origins című letöltésre elérhető könyvéhez csapott addendumában európai ősműveltségünk bizonyítékaiként sorol adatokat. Például  
+> Még mindig Nagyernyei Szabó Zoltán misszionárius pap Tomory Zsuzsa Magyar-English word origins című könyvéhez csapott addendumában európai ősműveltségünk bizonyítékaiként sorol adatokat. Például  
 > The American Linguistic Seminar at Bochum University, Germany, including Russian and other linguists accepting The One Language of Mankind as a fact based on up to date computerized linguistic research rejected the existence of a separate Finno-Ugric language family – elvetvén a külön magábanlétezését az u.n. "finnugor nyelvcsaládnak" megállapították, hogy egy nyelvezete van az emberiségnek és a magyar nyelvet az ősnyelv elágazásának jelenlegi állapotában az Elámo-Dravida/Uralo-Dravida törzs jellegéhez legközelebbállónak találták, s ezt ennek közelebbi kiágazásaival az Afro-Ázsia-i, Káartveli, Indo-Európa-i és altaival együtt egy közös nyelvnek Nostratic névvel jelölt egyik főbb nyelvtörzseként ismertették. Láthatólag ezt a szétvándorlást és nem a nyelvben hordozott ősműveltség belső lelki fejlettségének kifejező erejét vette figyelembe (Walter Koch: Language in the Upper Pleistocene, 1991 Bockmeyer, Bochum, Germany az ősnyelvi elágazások ábráival: az 5.1 számú Koch 1991. kezdetén-, az 5.2 számú Vitaly Shevoroskin 1990. évi és az 5.3 számu Bateman 1990-ben készült ábráját mutatja).  
 
 #### Magyar Adorján Kérdések...
