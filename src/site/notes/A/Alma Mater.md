@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/A/Alma Mater/","title":"Alma Mater","tags":["formatted🟢"],"created":"2023-10-11T04:42","updated":"2023-10-21T03:36"}
+{"dg-publish":true,"permalink":"/A/Alma Mater/","title":"Alma Mater","tags":["dg_uploaded"],"created":"2023-10-11T04:42","updated":"2023-10-25T12:30"}
 ---
-
-
 
 
 # Alma Mater
