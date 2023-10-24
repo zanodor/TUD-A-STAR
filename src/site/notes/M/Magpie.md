@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magpie/","title":"Magpie","tags":["formatted🟢"],"created":"2023-10-21T04:51","updated":"2023-10-21T04:51"}
+{"dg-publish":true,"permalink":"/M/Magpie/","title":"Magpie","tags":["dg_uploaded"],"created":"2023-10-21T04:51","updated":"2023-10-25T01:43"}
 ---
 
 
