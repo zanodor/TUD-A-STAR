@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Földevők/","title":"Földevők","tags":["formatted🟢"],"created":"2023-10-21T04:05","updated":"2023-10-21T04:05"}
+{"dg-publish":true,"permalink":"/F/Földevők/","title":"Földevők","tags":["dg_uploaded"],"created":"2023-10-21T04:05","updated":"2023-10-25T01:19"}
 ---
 
 
