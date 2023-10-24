@@ -1,26 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arimaszpa/"}
+{"dg-publish":true,"permalink":"/A/Arimaszpa/","title":"Arimaszpa","tags":["dg_uploaded"],"created":"2023-10-20T06:59","updated":"2023-10-25T12:33"}
 ---
-
----
-title: Arimaszpa
-aliases:
-  - arimaszpa
-  - arimaszpá
-  - arimaszposz
-  - Arimaspoi
-  - Arimaspian
-tags:
-  - formatted🟢
-share: true
-dg-publish: true
-dg-created: 2023-10-20T06:59
-dg-updated: 2023-10-20T06:59
-dg_upload_status: 🟢
-date created: 2022-12-14
-date modified: 2023-08-05
----
-
 
 
 # Arimaszpa
