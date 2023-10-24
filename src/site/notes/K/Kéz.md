@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kéz/","title":"Kéz","tags":["formatted🟢"],"created":"2023-10-13T02:12","updated":"2023-10-13T02:12"}
+{"dg-publish":true,"permalink":"/K/Kéz/","title":"Kéz","tags":["dg_uploaded"],"created":"2023-10-13T02:12","updated":"2023-10-25T01:41"}
 ---
 
 
 # Kéz
-
-
 
 #### Péterfai János Baráth Tibort idézi:
 
