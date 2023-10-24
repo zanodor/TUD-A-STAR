@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/A/Aranyszóló pintyőke mese/","title":"Aranyszóló pintyőke mese","tags":["unformatted⚪"],"created":"2023-10-14T07:38","updated":"2023-10-14T07:38"}
+{"dg-publish":true,"permalink":"/A/Aranyszóló pintyőke mese/","title":"Aranyszóló pintyőke mese","tags":["dg_uploaded"],"created":"2023-10-14T07:38","updated":"2023-10-25T12:32"}
 ---
 
 
 # Aranyszóló pintyőke mese
-
-
 
 Hol volt, hol nem volt, hetedhét ország ellen volt, az Óperenciás-tengeren is túl, de az öreganyám házán is túl volt, élt a világon egy király. Annak volt három fia.  
 Már nagyon öreg volt, a szemét úgy kellett vasvillával feltámasztani. Azt mondja egyszer a fiainak:  
