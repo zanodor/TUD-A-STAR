@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/A/Álmos/","title":"Álmos","tags":["formatted🟢"],"created":"2023-10-11T04:38","updated":"2023-10-21T03:37"}
+{"dg-publish":true,"permalink":"/A/Álmos/","title":"Álmos","tags":["dg_uploaded"],"created":"2023-10-11T04:38","updated":"2023-10-25T12:30"}
 ---
-
-
 
 
 # Álmos
