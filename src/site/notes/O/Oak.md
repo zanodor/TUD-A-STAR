@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Oak/","title":"Oak","tags":["dg_uploaded"],"created":"2023-10-11T04:44","updated":"2023-10-25T02:01"}
+{"dg-publish":true,"permalink":"/O/Oak/","title":"Oak","tags":["dg_uploaded"],"created":"2023-10-11T04:44","updated":"2023-10-25T02:03"}
 ---
 
 
@@ -27,7 +27,7 @@ Robert Graves The White Goddess című könyvében is megtalálható az összeve
 J. E. Cirlot Dictionary of Symbols című könyvében stag címnél írja:  
 > Its symbolic meaning is linked with that of the Tree of Life, because of the resemblance of its antlers to branches.  
 
-Szántai Lajos és Pap Gábor is beszél az Íj és a Nyíl ösvényeről (lásd Evernote), arról, hogy a cél az [[A/Agancs\|agancs]]ok által jelképezett szellemiség. Az agancs és a tölgyfa ágai (lásd még róla aranyág) analogikusan egymásnak megfelelettek.  
+Szántai Lajos és Pap Gábor is beszél az Íj és a Nyíl ösvényéről (lásd Evernote), arról, hogy a cél az [[A/Agancs\|agancs]]ok által jelképezett szellemiség. Az agancs és a tölgyfa ágai (lásd még róla aranyág) analogikusan egymásnak megfeleltettek.  
 A szarvasagancs-tölgyfaág analógia előjött [[H/Hart\|hart]] = szarvasbika címnél is, mivel a szó szinte azonos a baszk `haritz`, `harizki` = tölgy szóval.  
 
 A [[D/Deer\|deer]] szó pedig az életfa [[T/Tree\|tree]] szavával mutat ugyanilyen párhuzamot illetve azonosságot.  
@@ -37,12 +37,12 @@ Jankovics Marcell könyveinek adata szerint a (szibériai) evenkik nyelvén [[T/
 Ezen szavak lesznek tehát azok, melyek az indo-európai nyelvekben megjelennek.  
 ([[T/Tree\|Tree]] és [[S/Szarvas\|szarvas]] címnél is szerepelt.)
 
-Az elmondottak alapján nagyon valószínű, az oak etimológiáját is figyelembevéve, hogy az angol tölgy [[A/Ágas\|ágas]] (ágos, ákos) szavunkról kapta nevét. Ennek megerősítéseként a türk karakalpak nyelvben is `ag'ash` = fa, illetve a török (tatár, türkmén) `ağaç` is ezt jelenti (nem [[A/Akác\|akác]] szavunk keresendő benne).  
+Az elmondottak alapján nagyon valószínű, az oak etimológiáját is figyelembe véve, hogy az angol tölgy [[A/Ágas\|ágas]] (ágos, ákos) szavunkról kapta nevét. Ennek megerősítéseként a türk karakalpak nyelvben is `ag'ash` = fa, illetve a török (tatár, türkmén) `ağaç` is ezt jelenti (nem [[A/Akác\|akác]] szavunk keresendő benne).  
 Azt pedig láttuk, hogy a fa és a tölgy fogalmai egymással megfeleltek (egyes nyelveken a fa és tölgy ugyanazon szóalak).  
 
 Ugyanakkor szóba hozható még az MA által említett [[O/ÓG\|ÓG]], mely a földbe vájt (és DGW Dog-Man könyvének 176-177. oldalain található kínai adatai alapján bármely, nemcsak földbe vájt kialakítású) lak, ház füstkieresztő nyílásán kívül jelentenie kellett a [[S/Sarkcsillag\|Sarkcsillag]]ot is, minthogy minden lak közepén életfa volt leszúrva (sátor merevítője is ez), és ez mutatott a Sarkcsillagra (lásd erről diagramot [[I/Íj és a nyíl\|íj és a nyíl]]).  
 
-Nem Sarkcsillagot, de Medvét említ RHA Star Names című könyvében, kinek forrása, Lockyer szerint, Āk = Szem nevű a [[U/Ursa Maior\|Nagy Medve csillagkép]] alfája, Dubhe. Nem írja, milyen nyelven, de ÓK/ÓG szem jelentésével egyező. PJI adata szerint az udmurt és komi `oh` = medve. Ez stimmel is. Nem vehette észre a csillagászati értelmet.
+Nem Sarkcsillagot, de Medvét említ RHA Star Names című könyvében, kinek forrása, Lockyer szerint, **Āk** = Szem nevű a [[U/Ursa Maior\|Nagy Medve csillagkép]] alfája, Dubhe. Nem írja, milyen nyelven, de ÓK/ÓG szem jelentésével egyező. PJI adata szerint az udmurt és komi `oh` = medve. Ez stimmel is. Nem vehette észre a csillagászati értelmet.
 
 Párhuzamát is megtaláljuk a szónak:  
 RHA Star Names című könyvében írja, hogy az észak-amerikai bennszülött [[I/Indián\|indián]]ok hagyományaiban [[U/Ursa Maior\|Ursa Maior]] neve **Ok**uari és Paukunawa: mely nevek jelentése szintén medve. Ezen adat [[I/Isten\|Isten]] címnél is szerepelt.  
