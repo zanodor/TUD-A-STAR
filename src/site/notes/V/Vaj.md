@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vaj/","title":"Vaj","tags":["formatted🟢"],"created":"2023-10-13T01:59","updated":"2023-10-13T01:59"}
+{"dg-publish":true,"permalink":"/V/Vaj/","title":"Vaj","tags":["dg_uploaded"],"created":"2023-10-13T01:59","updated":"2023-10-25T02:21"}
 ---
 
 
 # Vaj
-
-
 
 Fontos szavunk lehet, mert nemcsak a [[V/Vajk\|Vajk]] és [[V/Vajda\|vajda]], de a vajúdik \[baj-údik/bajlódik\], váj és [[V/Vajákos\|vajákos]] nevek/szavak alkotója is.  
 A vajákos vaj- előrésze azonos a [[B/Baj\|baj]] szóval. Lásd még [[B/Baján\|baján]].  
