@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/R/Rét/","title":"Rét","tags":["formatted🟢"],"created":"2023-10-13T02:03","updated":"2023-10-13T02:03"}
+{"dg-publish":true,"permalink":"/R/Rét/","title":"Rét","tags":["dg_uploaded"],"created":"2023-10-13T02:03","updated":"2023-10-25T02:08"}
 ---
 
 
 # Rét
-
-
 
 #### Péterfai János írja:
 
