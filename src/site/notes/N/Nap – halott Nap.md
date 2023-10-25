@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["dg_uploaded"],"created":"2023-10-03T11:13","updated":"2023-10-25T04:59"}
+{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["dg_uploaded"],"created":"2023-10-03T11:13","updated":"2023-10-25T05:00"}
 ---
 
 
