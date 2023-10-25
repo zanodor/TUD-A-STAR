@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Q/Quoth/","title":"Quoth","tags":["formatlooksokayonsmallerfiles"],"created":"2023-10-17T08:31","updated":"2023-10-17T08:31"}
+{"dg-publish":true,"permalink":"/Q/Quoth/","title":"Quoth","tags":["dg_uploaded"],"created":"2023-10-17T08:31","updated":"2023-10-25T02:07"}
 ---
 
 
