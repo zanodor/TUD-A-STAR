@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["dg_uploaded"],"created":"2023-10-03T11:13","updated":"2023-10-25T01:59"}
+{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["dg_uploaded"],"created":"2023-10-03T11:13","updated":"2023-10-25T04:59"}
 ---
 
 
@@ -40,7 +40,7 @@ Igen ám, de a Dög-Úr lehet a [[G/Gödör\|gödör]] ellentételezéseként Sz
 > A jelképes lajtorja fokainak száma megegyezik a planéták illetve a planéta-szférák számával – a késő antik csillaghit felfogása szerint a túlvilági lélekútnak a bolygó(szférá)k az állomásai –, másfelől azonban a fokok egy mérce fokai is! Nocikáme, a vícsol indiánok napgyermek-istene minden nap egy létrán mászik föl az égbe. [[L/Létra\|Létrá]]jának [[F/FOK\|fok]]ai a nappali órákat jelzik. A gnómon-oszlop végül a Napnak szentelt hegytemplomok kultikus tárgyává válik, mint a siva[[L/Lingam\|lingam]].  
 
 [[F/Fekete napistenek\|Fekete napistenek]] címnél már szerepelt az alábbi sorokból (nem minden):  
-Már [[K/Krishna\|Krishná]]nál (fekete cseresznye?) és [[R/RÁ\|RÁ]]nál (lásd [[K/Kara\|kara]]) is szóba került fekete értelmük. A kimmerek főistene [[C/Crom\|Crom]]/Krum/stb. neve alapján szintén fekete jelentésű lehet, hiszen PJI adata szerint is korom szavunkkal mutat egyezést. (Lásd még [[C/Cromlech\|cromlech]].)  
+Már [[K/Krishna\|Krishná]]nál (fekete cseresznye?) és [[R/RÁ\|Rá]]-nál (lásd [[K/Kara\|kara]]) is szóba került fekete értelmük. A kimmerek főistene [[C/Crom\|Crom]]/Krum/stb. neve alapján szintén fekete jelentésű lehet, hiszen PJI adata szerint is korom szavunkkal mutat egyezést. (Lásd még [[C/Cromlech\|cromlech]].)  
 
 #### Magyar Adorján írja:  
 
