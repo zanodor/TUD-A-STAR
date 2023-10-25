@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Slump/","title":"Slump","tags":["formatted🟢"],"created":"2023-10-21T10:34","updated":"2023-10-21T10:34"}
+{"dg-publish":true,"permalink":"/S/Slump/","title":"Slump","tags":["dg_uploaded"],"created":"2023-10-21T10:34","updated":"2023-10-25T02:10"}
 ---
 
 
