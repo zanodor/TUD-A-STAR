@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Z/Zsuzsanna/","title":"Zsuzsanna","tags":["formatted🟢"],"created":"2023-10-18T07:55","updated":"2023-10-19T03:33"}
+{"dg-publish":true,"permalink":"/Z/Zsuzsanna/","title":"Zsuzsanna","tags":["dg_uploaded"],"created":"2023-10-18T07:55","updated":"2023-10-25T02:23"}
 ---
 
 
