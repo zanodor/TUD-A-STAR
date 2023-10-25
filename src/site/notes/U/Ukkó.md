@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/U/Ukkó/","title":"Ukkó","tags":["formatted🟢"],"created":"2023-10-13T12:45","updated":"2023-10-13T12:45"}
+{"dg-publish":true,"permalink":"/U/Ukkó/","title":"Ukkó","tags":["dg_uploaded"],"created":"2023-10-13T12:45","updated":"2023-10-25T02:18"}
 ---
 
 
 # Ukkó
-
-
 
 Eredetileg finnségi főisten ([[O/Öregisten\|Öreg isten]]), majd félreértések során a Napistenre is értették.
 
