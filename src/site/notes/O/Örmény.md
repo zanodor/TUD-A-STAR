@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/O/Örmény/","title":"Örmény","tags":["formatted🟢"],"created":"2023-10-20T06:56","updated":"2023-10-20T06:56"}
+{"dg-publish":true,"permalink":"/O/Örmény/","title":"Örmény","tags":["dg_uploaded"],"created":"2023-10-20T06:56","updated":"2023-10-25T02:04"}
 ---
-
-
 
 
 # Örmény
