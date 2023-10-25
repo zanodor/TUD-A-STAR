@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Örül és őrül/","title":"Örül és őrül","tags":["formatted🟢"],"created":"2023-10-20T07:02","updated":"2023-10-20T07:02"}
+{"dg-publish":true,"permalink":"/O/Örül és őrül/","title":"Örül és őrül","tags":["dg_uploaded"],"created":"2023-10-20T07:02","updated":"2023-10-25T02:05"}
 ---
 
 
