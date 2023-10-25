@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/S/Saracen/","title":"Saracen","tags":["formatted🟢"],"created":"2023-10-20T09:20","updated":"2023-10-20T09:20"}
+{"dg-publish":true,"permalink":"/S/Saracen/","title":"Saracen","tags":["dg_uploaded"],"created":"2023-10-20T09:20","updated":"2023-10-25T02:09"}
 ---
-
-
 
 
 # Saracen
