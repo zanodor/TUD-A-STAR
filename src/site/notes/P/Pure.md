@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pure/","title":"Pure","tags":["formatted🟢"],"created":"2023-10-04T12:42","updated":"2023-10-04T12:42"}
+{"dg-publish":true,"permalink":"/P/Pure/","title":"Pure","tags":["dg_uploaded"],"created":"2023-10-04T12:42","updated":"2023-10-25T02:07"}
 ---
 
 
