@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Talk/","title":"Talk","tags":["formatted🟢"],"created":"2023-10-21T10:35","updated":"2023-10-21T10:35"}
+{"dg-publish":true,"permalink":"/T/Talk/","title":"Talk","tags":["dg_uploaded"],"created":"2023-10-21T10:35","updated":"2023-10-25T02:14"}
 ---
 
 
