@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tömör/","title":"Tömör","tags":["formatted🟢"],"created":"2023-10-20T01:52","updated":"2023-10-20T01:52"}
+{"dg-publish":true,"permalink":"/T/Tömör/","title":"Tömör","tags":["dg_uploaded"],"created":"2023-10-20T01:52","updated":"2023-10-25T02:17"}
 ---
 
 
