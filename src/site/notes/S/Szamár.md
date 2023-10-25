@@ -1,17 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["formatted🟢"],"created":"2023-10-15T10:43","updated":"2023-10-16T02:02"}
+{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["dg_uploaded"],"created":"2023-10-15T10:43","updated":"2023-10-25T02:11"}
 ---
 
 
 # Szamár
 
-
-
 [[S/Széth\|Széth]] címnél már esett szó a szamárról. Egyes itt is szereplő adatok ott is megjelentek.  
 
 #### Péterfai János írja:  
 
-> A Szamár neve egyértelműen azonosítható a [[S/Sumer\|Sumer]] névvel. Ebből az is következik, hogy az első szamarakat a szumerok szelídítették meg. A nemzetközi tudomány is elfogadja ezt az azonosítást, amit sokan ismernek. A szamár a teherhordás és kocsivontatás állata volt, de makacs állat lévén, sok baj volt vele. A harciszekerek elé is szamarakat fogtak szumer rokonaink, de a szamár nem akarta vonszolni a szekeret. A szamarak a karavánok teherhordóiként, messze elvándoroltak az őskori világban. A népek a szamarakat, az igavontatókat, gazdáikról nevezték el, a szumer szó alapján. Nagyon furcsa a Szamár neve. Azt hihetnénk, hogy az akkád uralom után keletkezett a szumer (szamár) név, de a gabona széthordása és árusítása az akkádok megjelenésénél sokkalta régebbi tevékenység volt. Erről Kemény Ferenc is értekezik. A szamarak nagy testű, erős equidák voltak, a mai szamár csak gyenge utánzata az ókori harci szamaraknak. Az arab és a szomáli vadszamár ma is büszke, nemes vad, és nagy termetű. A Szamár és a Szumer összevetése más fogalom alapján is kézenfekvő. De a szamár, makacssága miatt, alkalmatlan volt harci tevékenységekre. A Ló, amelyet talán húszezer évvel ezelőtt szelídítettünk meg, sokkal alkalmasabb volt harci eljárások alkalmazására.  
+> A Szamár neve egyértelműen azonosítható a [[S/Sumer\|Szumer]] névvel. Ebből az is következik, hogy az első szamarakat a szumerok szelídítették meg. A nemzetközi tudomány is elfogadja ezt az azonosítást, amit sokan ismernek. A szamár a teherhordás és kocsivontatás állata volt, de makacs állat lévén, sok baj volt vele. A harciszekerek elé is szamarakat fogtak szumer rokonaink, de a szamár nem akarta vonszolni a szekeret. A szamarak a karavánok teherhordóiként, messze elvándoroltak az őskori világban. A népek a szamarakat, az igavontatókat, gazdáikról nevezték el, a szumer szó alapján. Nagyon furcsa a Szamár neve. Azt hihetnénk, hogy az akkád uralom után keletkezett a szumer (szamár) név, de a gabona széthordása és árusítása az akkádok megjelenésénél sokkalta régebbi tevékenység volt. Erről Kemény Ferenc is értekezik. A szamarak nagy testű, erős equidák voltak, a mai szamár csak gyenge utánzata az ókori harci szamaraknak. Az arab és a szomáli vadszamár ma is büszke, nemes vad, és nagy termetű. A Szamár és a Szumer összevetése más fogalom alapján is kézenfekvő. De a szamár, makacssága miatt, alkalmatlan volt harci tevékenységekre. A Ló, amelyet talán húszezer évvel ezelőtt szelídítettünk meg, sokkal alkalmasabb volt harci eljárások alkalmazására.  
 > Mellesleg a Sza-Már jelentése lehet a Magyarok-Ifja is, amit nem értek. A Magyar, vagyis a Sza Ifjú (Gyerek) talán szamár volt a tanítókhoz, táltosokhoz képest, vagy csupán tréfás neve a gyerekeknek? Matematika órákon, de talán más órákon is elhangzott az őskorban ez a szamár név? A gyerek szamár neve ment át a csacsira, vagy a szumer szó volt a szamár szó őse?  
 > A nyelvészek a magyar Szamár szót az olasz `Somaro` – Teherhordó Állat szóra vetítik vissza. Valamely szláv nyelvet emlegetnek közvetítőként, mert a szlovén `Somar` ua., megfelelői cseh és szlovák szavak, továbbá Nyereg jelentésben szerb, horvát, bulgár szavakat is találtak. De akkor mi a szamár olaszul, meg bulgárul? Egyszerűen lehetetlen, hogy a 30.000 évnél régebbi magyar nyelvben nem volt szamár név. Az indoeurópai nyelvek meg a magyar nyelvből keletkeztek, alig 3.000 évvel ezelőtt jöttek létre, tehát szavakat nem adhattak át a magyar nyelvnek, mert saját szókincsük gyakorlatilag teljes egészében a magyarból keletkezett.  
 >
@@ -80,7 +78,7 @@ A **Szimbólumtár** adatsora:
 > • A görög-római mitológiában Dionüszosz, ill. a kíséretéhez tartozó Szilénosz/Silenus hátasa. Priaposzt, a termékenység fallikus istenét szamáralakban is tisztelték, áldozati állatai közé tartozott a szamár (fallosz). A szamár misztérium-hordozó szerepe antik hagyományokban gyökerezik. Arisztophanész Békák c. komédiájában a Dionüszosszal az alvilág felé tartó rabszolga, Xanthiasz ezt mondja: "a szentségvivő szamár vagyok." Oknosz mítoszában is pusztító elvként szerepel: az alvilágban kötelet fonó Oknosz munkájának eredményét szamara minduntalan felfalja (kötél). Apollón, Midasz frígiai király érzéki csábításokra hajló füle helyére – amiért Pán sípjátékát többre becsülte az ő hangszerének hangjánál – szamárfület varázsolt (Ovid. Met., XI. 161-179). Rómában Venus szent állataként tisztelték. Apuleius Az aranyszamár c. regényének hőse, a túlbuzgó testi vágyaiért és a boszorkányság iránti kíváncsiságáért szamár alakban vezeklő Lucius, csak Ízisz temploma előtt, Ízisz rózsakoszorúját elfogyasztva változhat vissza. Lucius kilépése a szamárbőrből lelki feltámadást, szellemi, vallásos rajongásban való újjászületést jelent.  
 > • A zsidó és keresztény hagyományban a bírák, a királyok és a próféták szent állata. Bileam (Bálám) szamara (Szám 22,23) okosabb gazdájánál, hamarabb felismeri az Isten által útjukba állított angyalt. A Ter 49,11 ("A szőlőtőhöz köti csikaját, és a szőlővesszőhöz a nőstény szamár fiát") keresztény értelmezése az "Én vagyok a szőlőtő" (Jn 15,1) alapján, a nőstényszamarat a zsidósággal, a nemes venyigét Krisztussal, a szamár csikaját pedig az általa megszabadított pogánysággal azonosítja. A középkori művészetben csökönyössége miatt az Eklézsia és Zsinagóga ábrázolásain az utóbbit megszemélyesítő allegorikus alak állata.
 >
-> ![assets/Szamár_image1.png](/img/user/S/assets/Szam%C3%A1r_image1.png)  
+> ![assets/Szamár_image1.png|undefined](/img/user/S/assets/Szam%C3%A1r_image1.png)  
 > *Eklézsia és Zsinagóga a Megváltás fájánál (Biblia Pauperum, 1330 k., Bp., Szépm. Múz.).*
 >
 > A keresztény szimbolikában emellett a béke és az alázat jelképe. Krisztus életének számos epizódjában fontos szerepet kap. Krisztus születésének hagyományos ábrázolásain – "az ökör megismeri gazdáját, és a szamár urának jászolát" (Iz 1,3) –, ill. Pszeudo-Máté apokrif evangéliuma alapján a szamár az istállóban, az ökör társaságában jelenik meg. Az ökröt mint áldozati állatot Krisztus áldozatának szimbólumaként, a szamarat mint teherhordót pedig a világ bűneit magára vevő Krisztusként is értelmezték. Az Egyiptomba való menekülés ábrázolásain Mária szamárháton ül a gyermekkel, míg József gyalogszerrel kíséri őket. Zakariás jövendölését (amelyben a szamár a harci ménnel szemben a szelídség megtestesítője: Zak 9,9) Jézusra vonatkoztatták, aki egy "szamárnak csikaján" vonult be Jeruzsálembe. Fra Angelico Jézus élete című táblakép-sorozatának Jézus születése, A Szent család menekülése Egyiptomba és a Bevonulás Jeruzsálembe c. részein szerepel (1450 k., Firenze, Museo San Marco).  
@@ -120,12 +118,12 @@ Fentebb már JM soraiban kiemeltük ezt a részt.
 
 Fentebb volt szó a szamár hátán lévő kereszt alakú jelről is és egy Jézus keresztrefeszítését ábrazoló képen is ott volt a szamár.  
 Namost, milyen érdekes, hogy Rómában egy (Jézus keresztrefeszítésének bizonyítékául bemutatott?) rajzon szamarat látunk keresztrefeszítve. (Forrás: Wikipédia Crucifixion oldal.)  
-![assets/Szamár_image2.jpeg](/img/user/S/assets/Szam%C3%A1r_image2.jpeg)  
+![assets/Szamár_image2.jpeg|undefined](/img/user/S/assets/Szam%C3%A1r_image2.jpeg)  
 A szamarat "mint teherhordót" nem a világ bűneit magára vevő Krisztusként kell itt értelmezni, hanem mint évköri jelképállatot kell meglátni.  
 Tulajdonképpen a szamár azért is választatott a Rák váltóállatának, mert a kereszt a [[C/Colure\|colure]] címnél is taglalt napfordulós metszéspontra, keresztezésre utal.  
 
 Egyébiránt az interneten, köztük a Quorán is beszélik, hogy minden szamár hátán ott a vállkeresztnek is nevezett kereszt, tulajdonképpen ugyanolyan megbízhatósággal, mint ahogy a zebrán a csíkok megtalálhatóak. A "majomtól származó" Darwin is értekezett a lóneműek csíkozásáról.  
-![assets/Szamár_image3.jpeg](/img/user/S/assets/Szam%C3%A1r_image3.jpeg)  
+![assets/Szamár_image3.jpeg|undefined](/img/user/S/assets/Szam%C3%A1r_image3.jpeg)  
 
 Talán a spanyol `burro` = vadszamár is onnan vette a nevét, hogy a kereszt a Nap ([[B/BAR\|BAR]]) jele.  
 
@@ -150,7 +148,7 @@ Szumma szummárum ("szammárom"), az [[O/Ökör\|ökör]] valóban Ő-Kör, azaz
 - [[M/Manger\|Manger]] címnél lásd a szamár ilyen alakú neveiről szóló írást. 
 
 A mellékelt kép az [alábbi](https://ujember.hu/a-jaszol-okre-es-szamara/) oldalról való.  
-![assets/Szamár_image4.png](/img/user/S/assets/Szam%C3%A1r_image4.png)  
+![assets/Szamár_image4.png|undefined](/img/user/S/assets/Szam%C3%A1r_image4.png)  
 A [[J/Jászol\|jászol]] nyilván Jász-Ól,Jász-Öl, azaz az Ász-Öle, az istenasszony öle. Lehet Jász-Ul-ként az Íjász/Orion Fia értelmű is, de az már erőltetett.  
 
 ## Szamár magyar/hungár (és szumer) névvel való kapcsolatai – csillagképi és jellembéli kapcsolat
