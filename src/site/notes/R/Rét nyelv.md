@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/R/Rét nyelv/","title":"Rét nyelv","tags":["formatted🟢"],"created":"2023-10-13T02:04","updated":"2023-10-13T02:04"}
+{"dg-publish":true,"permalink":"/R/Rét nyelv/","title":"Rét nyelv","tags":["dg_uploaded"],"created":"2023-10-13T02:04","updated":"2023-10-25T02:08"}
 ---
 
 
 # Rét nyelv
-
-
 
 Wikipédia adatsora:  
 > A rét nyelvet az i. sz. 3. századig beszélték az Alpok vidékén, főleg a mai Olaszország északkeleti részén (a mai Dél-Tirollal bezárólag) illetve a mai Ausztria területén (Tirolban és Vorarlbergben), Svájc keleti részén, Liechtensteinben és Bajorország déli részein. Sok de sajnos mindig csak rövid felirat maradt fenn különféle használati tárgyakon, többféle ábécét használva, amelyek azonban mind az ősi itáliai írásokhoz sorolhatóak.  
