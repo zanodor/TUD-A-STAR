@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tufa/","title":"Tufa","tags":["unformatted⚪"],"created":"2023-10-13T05:45","updated":"2023-10-13T05:45"}
+{"dg-publish":true,"permalink":"/T/Tufa/","title":"Tufa","tags":["dg_uploaded"],"created":"2023-10-13T05:45","updated":"2023-10-25T02:17"}
 ---
 
 
 # Tufa
-
-
 
 Megszilárdult vulkánikus hamu, lávakő, tufa, például amilyet Kelet-Törökországban, Kappadódiában találni.  
 A Húsvét-szigeteki szobrokat is tán ebből faragták.  
