@@ -1,15 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szampó/","title":"Szampó","tags":["formatted🟢"],"created":"2023-10-10T03:42","updated":"2023-10-10T03:42"}
+{"dg-publish":true,"permalink":"/S/Szampó/","title":"Szampó","tags":["dg_uploaded"],"created":"2023-10-10T03:42","updated":"2023-10-25T02:12"}
 ---
 
 
 # Szampó
 
-
-
 Több helyen ([[K/Kampó\|kampó]], [[K/Komp\|komp]], [[C/Comb\|comb]], [[J/Jump\|jump]], [[H/Hamlet malma\|Hamlet malma]], [[P/Precesszió\|precesszió]] és legutóbb [[D/Daru\|daru]] címnél) volt róla szó.  
 A mellékelt képhez hasonlóak MA jóvoltából előjöttek [[M/Mestergerenda\|mestergerenda]] és [[M/Motolla\|motolla]] címnél.  
-![assets/Szampó_image1.png](/img/user/S/assets/Szamp%C3%B3_image1.png)  
+![assets/Szampó_image1.png|undefined](/img/user/S/assets/Szamp%C3%B3_image1.png)  
 [[C/Comb\|Comb]] címnél írottak szerint egészen biztos, hogy ebből a szavunkból ered (ahol comb = lábszár = kacsaláb), de nem lehet a csámpa/csámpás szavakat sem kizárni.  
 Hivatalosan a szanszkrit `skambha` = oszlop, pózna szóból eredeztetik.  
 
