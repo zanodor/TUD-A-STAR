@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/R/Rovarok/","title":"Rovarok","tags":["formatted🟢"],"created":"2023-10-21T04:07","updated":"2023-10-21T04:07"}
+{"dg-publish":true,"permalink":"/R/Rovarok/","title":"Rovarok","tags":["dg_uploaded"],"created":"2023-10-21T04:07","updated":"2023-10-25T02:08"}
 ---
 
 
