@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Polis/","title":"Polis","tags":["formatted🟢"],"created":"2023-10-19T01:38","updated":"2023-10-19T01:38"}
+{"dg-publish":true,"permalink":"/P/Polis/","title":"Polis","tags":["dg_uploaded"],"created":"2023-10-19T01:38","updated":"2023-10-25T02:07"}
 ---
 
 
