@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nurture/","title":"Nurture","tags":["formatted🟢"],"created":"2023-10-20T01:24","updated":"2023-10-20T01:24"}
+{"dg-publish":true,"permalink":"/N/Nurture/","title":"Nurture","tags":["dg_uploaded"],"created":"2023-10-20T01:24","updated":"2023-10-25T02:01"}
 ---
 
 
