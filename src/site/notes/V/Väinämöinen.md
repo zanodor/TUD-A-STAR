@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/V/Väinämöinen/","title":"Väinämöinen","tags":["formatted🟢"],"created":"2023-10-15T02:43","updated":"2023-10-15T02:43"}
+{"dg-publish":true,"permalink":"/V/Väinämöinen/","title":"Väinämöinen","tags":["dg_uploaded"],"created":"2023-10-15T02:43","updated":"2023-10-25T02:21"}
 ---
 
 
 # Väinämöinen
-
-
 
 #### Varga Zsigmond Az ősmagyar mitológia...
 
