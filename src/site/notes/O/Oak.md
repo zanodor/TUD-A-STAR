@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/O/Oak/","title":"Oak","tags":["formatted🟢"],"created":"2023-10-11T04:44","updated":"2023-10-11T04:44"}
+{"dg-publish":true,"permalink":"/O/Oak/","title":"Oak","tags":["dg_uploaded"],"created":"2023-10-11T04:44","updated":"2023-10-25T02:03"}
 ---
 
 
 # Oak
-
-
 
 [[T/Tölgy\|Tölgy]]fa. [[T/Táltos\|Táltos]]ok, [[D/Druida\|druidá]]k fája. A magyar tölgy inkább boncolgatható és hasonlítható tőgyhöz, amiből a táltost tápláló tej származik.  
 Az angol oak elődei a magyar [[O/OK\|OK]], [[E/Ég\|ég]], [[E/Egy\|egy]], [[A/Ág\|ág]] szavaink bármelyikére utalhatnak. Az Ok PJI adata szerint Csillag.   
@@ -22,14 +20,14 @@ Az ([[E/Elk\|elk]] címnél is említett) ónorvég `eik` egyszerre tölgyfa és
 
 Lásd erről MA Csodaszarvasának anyagát képekkel [[A/Ágas-bogas\|ágas-bogas]]. Egy képet ide is tehetünk:  
 
-![assets/Oak_image1.png](/img/user/O/assets/Oak_image1.png)  
+![assets/Oak_image1.png|undefined](/img/user/O/assets/Oak_image1.png)  
 Robert Graves The White Goddess című könyvében is megtalálható az összevetés:
 > From Sardinia comes a Bronze Age figurine of a man-stag with horns resembling the foliage of an oak, a short tail, an arrow in one hand and in the other a bow that has turned into a wriggling serpent.  
 
 J. E. Cirlot Dictionary of Symbols című könyvében stag címnél írja:  
 > Its symbolic meaning is linked with that of the Tree of Life, because of the resemblance of its antlers to branches.  
 
-Szántai Lajos és Pap Gábor is beszél az Íj és a Nyíl ösvényeről (lásd Evernote), arról, hogy a cél az [[A/Agancs\|agancs]]ok által jelképezett szellemiség. Az agancs és a tölgyfa ágai (lásd még róla aranyág) analogikusan egymásnak megfelelettek.  
+Szántai Lajos és Pap Gábor is beszél az Íj és a Nyíl ösvényéről (lásd Evernote), arról, hogy a cél az [[A/Agancs\|agancs]]ok által jelképezett szellemiség. Az agancs és a tölgyfa ágai (lásd még róla aranyág) analogikusan egymásnak megfeleltettek.  
 A szarvasagancs-tölgyfaág analógia előjött [[H/Hart\|hart]] = szarvasbika címnél is, mivel a szó szinte azonos a baszk `haritz`, `harizki` = tölgy szóval.  
 
 A [[D/Deer\|deer]] szó pedig az életfa [[T/Tree\|tree]] szavával mutat ugyanilyen párhuzamot illetve azonosságot.  
@@ -39,12 +37,12 @@ Jankovics Marcell könyveinek adata szerint a (szibériai) evenkik nyelvén [[T/
 Ezen szavak lesznek tehát azok, melyek az indo-európai nyelvekben megjelennek.  
 ([[T/Tree\|Tree]] és [[S/Szarvas\|szarvas]] címnél is szerepelt.)
 
-Az elmondottak alapján nagyon valószínű, az oak etimológiáját is figyelembevéve, hogy az angol tölgy [[A/Ágas\|ágas]] (ágos, ákos) szavunkról kapta nevét. Ennek megerősítéseként a türk karakalpak nyelvben is `ag'ash` = fa, illetve a török (tatár, türkmén) `ağaç` is ezt jelenti (nem [[A/Akác\|akác]] szavunk keresendő benne).  
+Az elmondottak alapján nagyon valószínű, az oak etimológiáját is figyelembe véve, hogy az angol tölgy [[A/Ágas\|ágas]] (ágos, ákos) szavunkról kapta nevét. Ennek megerősítéseként a türk karakalpak nyelvben is `ag'ash` = fa, illetve a török (tatár, türkmén) `ağaç` is ezt jelenti (nem [[A/Akác\|akác]] szavunk keresendő benne).  
 Azt pedig láttuk, hogy a fa és a tölgy fogalmai egymással megfeleltek (egyes nyelveken a fa és tölgy ugyanazon szóalak).  
 
 Ugyanakkor szóba hozható még az MA által említett [[O/ÓG\|ÓG]], mely a földbe vájt (és DGW Dog-Man könyvének 176-177. oldalain található kínai adatai alapján bármely, nemcsak földbe vájt kialakítású) lak, ház füstkieresztő nyílásán kívül jelentenie kellett a [[S/Sarkcsillag\|Sarkcsillag]]ot is, minthogy minden lak közepén életfa volt leszúrva (sátor merevítője is ez), és ez mutatott a Sarkcsillagra (lásd erről diagramot [[I/Íj és a nyíl\|íj és a nyíl]]).  
 
-Nem Sarkcsillagot, de Medvét említ RHA Star Names című könyvében, kinek forrása, Lockyer szerint, Āk = Szem nevű a [[U/Ursa Maior\|Nagy Medve csillagkép]] alfája, Dubhe. Nem írja, milyen nyelven, de ÓK/ÓG szem jelentésével egyező. PJI adata szerint az udmurt és komi `oh` = medve. Ez stimmel is. Nem vehette észre a csillagászati értelmet.
+Nem Sarkcsillagot, de Medvét említ RHA Star Names című könyvében, kinek forrása, Lockyer szerint, **Āk** = Szem nevű a [[U/Ursa Maior\|Nagy Medve csillagkép]] alfája, Dubhe. Nem írja, milyen nyelven, de ÓK/ÓG szem jelentésével egyező. PJI adata szerint az udmurt és komi `oh` = medve. Ez stimmel is. Nem vehette észre a csillagászati értelmet.
 
 Párhuzamát is megtaláljuk a szónak:  
 RHA Star Names című könyvében írja, hogy az észak-amerikai bennszülött [[I/Indián\|indián]]ok hagyományaiban [[U/Ursa Maior\|Ursa Maior]] neve **Ok**uari és Paukunawa: mely nevek jelentése szintén medve. Ezen adat [[I/Isten\|Isten]] címnél is szerepelt.  
@@ -68,7 +66,7 @@ A tölgy párja a [[B/Bükk\|bükk]]fa, szintén Világfa-jelkép. Ugyan AJ adat
 De ha már ennyire ragaszkodunk **a germán Ok alakú szóhoz, nem szabad kihagyni, hogy a japáni `ōku` = tölgy azonos a germánnal**.  
 A Falk Nóra által adatolt északi lapp `oaksi` = ág is tökéletesen megfelel mind a magyar, mind a taglalt angol szónak. Az északi lapp `áksán` = agancs(ozat), agancskorona jelentésű.  
 
-Az [[O/Oxygen\|oxygen]] és [[O/Oxymoron\|oxymoron]] szavaknál is előjövő [[O/OK\|OK]], [[O/OG\|OG]] etymonok kapcsán vetődött fel, hogy a bükk- és tölgyfákkal azonosuló [[V/Világfa\|világfá]]k egyben világtengelyek is; így lehet, hogy [[A/Axis\|axis]] = tengely (és a [[H/Hamlet malma\|Hamlet malma]] és [[H/Honey\|honey]] címnél előjövő perzsa `ās`, `āsiyā` = malom(kő)) szavak összefüggenek.  
+Az [[O/Oxygen\|oxygen]] és [[O/Oxymoron\|oxymoron]] szavaknál is előjövő [[O/OK\|OK]], [[O/OG\|OG]] etimonok kapcsán vetődött fel, hogy a bükk- és tölgyfákkal azonosuló [[V/Világfa\|világfá]]k egyben világtengelyek is; így lehet, hogy [[A/Axis\|axis]] = tengely (és a [[H/Hamlet malma\|Hamlet malma]] és [[H/Honey\|honey]] címnél előjövő perzsa `ās`, `āsiyā` = malom(kő)) szavak összefüggenek.  
 Előjött még [[O/Oxter\|oxter]] = hónalj jelentésű szónál is.  
 De ha már itt tartunk, az [[O/Okád\|okád]], valamint [[C/Csudaszarvas\|Csudaszarvas]] és [[Z/Zodiac\|zodiac]] címnél is előjövő asztrális [[O/Ökör\|ökör]] Ök-Őr (Ég/Tűz-Őr) vagy Ő-Kör (Örök/Isten Köre) felbontásban való értelmezése alapján, az ökör a cirkumpoláris csillagok hajtására vonatkozhat; lásd [[A/Arctic\|arctic]], [[A/Arcturus\|Arcturus]], stb. Ezen nevek mind hasonlóak, és akkor még nem beszéltünk ocsúdik = ébred szavunkról.  
 
@@ -82,8 +80,8 @@ A lengyelek Alexandra-Dorothea-nak Andor-"Dávid"-on keresztül hozzám jutó in
 > Deer's antlers were considered to be the symbol of fertility.  
 - Nálunk is az ág > agancs szó, hogy Dávid is észreveszi. Meg ugye sok szkíta ábrázoláson a szarvas fején faágak vannak.
 
-![assets/Oak_image2.jpeg](/img/user/O/assets/Oak_image2.jpeg)  
-![assets/Oak_image3.jpeg](/img/user/O/assets/Oak_image3.jpeg)  
+![assets/Oak_image2.jpeg|undefined](/img/user/O/assets/Oak_image2.jpeg)  
+![assets/Oak_image3.jpeg|undefined](/img/user/O/assets/Oak_image3.jpeg)  
 > In Poland there is legend about the golden deer but it is considered a fairy tale for children. And the ancient Slavs in Poland were worshipping the holy oak.  
 > It had spiritual meaning for them...they loved nature generally.  
 > \[...\]  

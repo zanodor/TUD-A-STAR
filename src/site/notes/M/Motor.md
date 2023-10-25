@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/M/Motor/","title":"Motor","tags":["formatted🟢"],"created":"2023-10-20T12:57","updated":"2023-10-20T12:57"}
+{"dg-publish":true,"permalink":"/M/Motor/","title":"Motor","tags":["dg_uploaded"],"created":"2023-10-20T12:57","updated":"2023-10-25T01:58"}
 ---
-
-
 
 
 # Motor

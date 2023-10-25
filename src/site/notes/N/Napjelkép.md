@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/N/Napjelkép/","title":"Napjelkép","tags":["formatted🟢"],"created":"2023-10-13T12:20","updated":"2023-10-13T12:20"}
+{"dg-publish":true,"permalink":"/N/Napjelkép/","title":"Napjelkép","tags":["dg_uploaded"],"created":"2023-10-13T12:20","updated":"2023-10-25T02:00"}
 ---
 
 
 # Napjelkép
-
-
 
 Imitt-amott már esett szó napjelképekről, például ilyen a [[T/Tükör\|tükör]], [[K/Kenyér\|kenyér]], [[S/Szekér\|szekér]], [[P/Pénz\|pénz]], [[V/Virág\|virág]], mindenféle kerek gyümölcs és bogyóféle, továbbá a [[H/Hordó\|hordó]], [[U/Üst\|üst]], stb. Az alábbiakban...
 

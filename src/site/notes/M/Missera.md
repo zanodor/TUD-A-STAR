@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/M/Missera/","title":"Missera","tags":["unformatted⚪"],"created":"2023-10-16T08:03","updated":"2023-10-16T08:03"}
+{"dg-publish":true,"permalink":"/M/Missera/","title":"Missera","tags":["dg_uploaded"],"created":"2023-10-16T08:03","updated":"2023-10-25T01:57"}
 ---
 
 
 # Missera
-
-
 
 Kezdjük a missera szó eredetével. Alex MacBain kelta etimológia szótárában kelta `aimsir` = idő szócikknél előjön egy lehetséges kelta \*amessarā, melyet biz. Ascoli és Stokes ad-messara-ként a latin ad-mensura szókapcsolatból eredőnek vél, így e kör lefutásával tulajdonképpen az derül ki, hogy missera tulajdonképpen [[M/Measure\|measure]] szóval vetendő össze. Ugyanezt a measure szót az ófrancia `mesure` útján a latin `mensure`-ból eredeztetik és az idő és mérése össze is függenek (minden mérés, matematika elsődlegesen az égi mozgásokkal kapcsolatosan végeztetett), de akkor mi újság mérés, méret szavainkkal és miért éppen fél évet jelent missera? Mintha itt megint két (sőt, vagy több!) hasonló alakú és értelmű magyar szó okozná a zavart a szó előtagjában. Ugyanis létezik [[M/Metsz\|metsz]] szavunk is, mely éppen utalhat kettévágásra is. Mivel a nőiségi [[M/Meddő\|meddő]] szavunk is idetartozik; tulajdonképpen itt arról lehet szó, hogy missera, hasonló a zseniálisnak tartott [[S/Sine\|szinusz]] szóhoz (mármint kialakulásához), szintén kettős jelentést hordoz: előtagjának van egyszer egy fényes [[M/MISZ\|MISZ]] és egy fényhiányos (meddő) [[M/Mis- prefixum\|mis-]]/[[M/Miss#Miss 2)\|miss]] (szócikkeknél taglalt) értelme. Az, hogy a méret, mérés és a latin szavak hasonlóak, csak egy dolog.  
 Misz-Éra felbontásban Éra (lásd [[E/Era\|era]]) adja az időegységre vonatkozó információt, Misz pedig a kettősséget, azaz felességet: ne feledjük a fél homoníma, azaz két teljesen más értelmet épít magában a magyarban is.  
@@ -58,7 +56,7 @@ Továbbá, a görögöknél:
 - A kérdés is felvetődik: [[H/Hunor és Magor\|Hunor és Magor]] is ilyen félesztendőkön utalkodó Napok? Lásd erről [[F/Fehér és fekete#Fehér és fekete Napistenek ill. mitológiai alakok – világos és sötét félév ikeristenségei\|fehér és fekete]] címnél.  
 
 Az ekliptika csatolt szinusz-görbéje is két (Kis Éves) félévre osztható. Igaz, a tagolás itt napéjegyenlőségi pontoktól pontokig tart, nem napfordulóktól fordulókig.  
-![assets/Missera_image1.png](/img/user/M/assets/Missera_image1.png)  
+![assets/Missera_image1.png|undefined](/img/user/M/assets/Missera_image1.png)  
 
 Ami a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] (élet)útjának négyes felosztását, annak kettőre való egyszerűsítését illeti, egyrészt a csatolt szinusz-görbe mutat rá, miért kellett felezni, másrészt pedig az, hogy mi okoz fontosabb változást a Nap-Föld fényviszonyok napi, éves és [[N/Nagy Év\|Nagy Év]]es ciklusában.  
 
@@ -147,7 +145,7 @@ Michel-Gerald Boutet Druidical Astrology című dolgozatában igen érdekes dolg
 > **The Pleiades express the female aspects of the seven cows as opposites to the male Rishis represented by the seven bulls. These fourteen powers combined, act through seven of the astral signs in accordance with the Brahma (Dagda) via the unseen spiritual Sun often referred to, by esotericists, as "the Great Central Sun" or Spiritual Sun**. Yogins understand this as the guiding principle of the three rays of energy emanating from the cosmic centres. Neo-druids claim to a similar notion in the form of the Tribann (three rays). These invisible forces, seen only through the inner eye are termed as "akashic", "electric", and "pranic". In turn, these seven Rishis, take part in the seven cosmic orders of the universe. On earth they manifest themselves as the first race of primeval giant Manu who fathered the seven Manavas and who sired the first humans.  
 > \[...\]  
 > The seven principle Fairy stars of the Pleiadean group, were at some remoter time part of the Polar groups. Slowly, they migrated to the summer regions thus creating the allegorical shift from the kingdom of Pwyll to that of [[A/Arawn\|Arawn]]. Since then, the Pleiades have received a negative influence.  
-![assets/Missera_image2.png](/img/user/M/assets/Missera_image2.png)  
+![assets/Missera_image2.png|undefined](/img/user/M/assets/Missera_image2.png)  
 > The Welsh texts illustrate how Arawn was the hunter king of Annwn (Andumnon), "the No-world", name of a metaphysical concept of one of the "other worlds", which was confused by some people with the \*Anderodumnon = the "Nether World."  
 
 Az alsó/sehol/túl világ nem azonos az alvilággal; [[A/Annwfn\|Annwfn]] a kelták másvilága, se mennyország, se pokol, hanem egy e világgal párhuzamos világ.  

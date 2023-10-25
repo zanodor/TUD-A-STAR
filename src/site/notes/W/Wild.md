@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/W/Wild/","title":"Wild","tags":["formatted🟢"],"created":"2023-10-21T10:39","updated":"2023-10-21T10:39"}
+{"dg-publish":true,"permalink":"/W/Wild/","title":"Wild","tags":["dg_uploaded"],"created":"2023-10-21T10:39","updated":"2023-10-25T02:23"}
 ---
 
 

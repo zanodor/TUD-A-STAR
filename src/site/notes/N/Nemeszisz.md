@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nemeszisz/","title":"Nemeszisz","tags":["formatted🟢"],"created":"2023-10-14T07:03","updated":"2023-10-14T07:03"}
+{"dg-publish":true,"permalink":"/N/Nemeszisz/","title":"Nemeszisz","tags":["dg_uploaded"],"created":"2023-10-14T07:03","updated":"2023-10-25T02:00"}
 ---
 
 
 # Nemeszisz
-
-
 
 #### Jankovics Marcell Jelkép-kalendárium...
 

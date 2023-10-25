@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vándor/","title":"Vándor","tags":["formatted🟢"],"created":"2023-10-20T10:10","updated":"2023-10-20T10:10"}
+{"dg-publish":true,"permalink":"/V/Vándor/","title":"Vándor","tags":["dg_uploaded"],"created":"2023-10-20T10:10","updated":"2023-10-25T02:22"}
 ---
-
-
 
 
 # Vándor

@@ -1,23 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sárga/"}
+{"dg-publish":true,"permalink":"/S/Sárga/","title":"Sárga","tags":["dg_uploaded"],"created":"2023-10-20T09:28","updated":"2023-10-25T02:09"}
 ---
-
----
-title: Sárga
-aliases:
-  - sárga
-  - sárgá
-tags:
-  - formatted🟢
-share: true
-dg-publish: true
-dg-created: 2023-10-20T09:28
-dg-updated: 2023-10-20T09:28
-dg_upload_status: 🟢
-date created: 2023-04-07
-date modified: 2023-08-05
----
-
 
 
 # Sárga

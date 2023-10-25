@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mozzanatos igék/","title":"Mozzanatos igék","tags":["formatted🟢"],"created":"2023-10-05T03:29","updated":"2023-10-05T03:29"}
+{"dg-publish":true,"permalink":"/M/Mozzanatos igék/","title":"Mozzanatos igék","tags":["dg_uploaded"],"created":"2023-10-05T03:29","updated":"2023-10-25T01:58"}
 ---
 
 
 # Mozzanatos igék
-
-
 
 #### A Pallas Nagy Lexikona adatsora:
 

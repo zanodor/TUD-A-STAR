@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["dg_uploaded"],"created":"2023-10-05T06:45","updated":"2023-10-23T03:56"}
+{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["dg_uploaded"],"created":"2023-10-05T06:45","updated":"2023-10-25T02:17"}
 ---
 
 

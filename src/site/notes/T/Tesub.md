@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tesub/","title":"Tesub","tags":["formatted🟢"],"created":"2023-10-07T10:07","updated":"2023-10-07T10:07"}
+{"dg-publish":true,"permalink":"/T/Tesub/","title":"Tesub","tags":["dg_uploaded"],"created":"2023-10-07T10:07","updated":"2023-10-25T02:16"}
 ---
 
 
 # Tesub
-
-
 
 Tesub heta/hettita isten családfája PJI adata szerint (bővebben lásd [[H/Hettita istenek\|hettita istenek]]):  
 > A heták főistene Alalu, az Ég Királya. Alalu fia Anu. Anu fia Kumarbi. Alalut letaszítja a trónról Anu, Anut letaszítja Kumarbi, az istenek atyja. Szép kis család! Kumarbinak két fia születik: Tesub és Ullikummi. A két isten különböző, bár [[S/Sitchin, Zecharia\|Sitchin, Zecharia]] azt állítja, hogy a két név egy isten kétféle neve. Ullikummi anyja Vasitta.  
@@ -18,7 +16,7 @@ Wiki adatsora:
 > Teshub (also written Teshup or Tešup; cuneiform dIM; hieroglyphic Luwian (DEUS) TONITRUS, read as Tarhunzas) was the Hurrian god of sky and storm. Taru was the name of a similar Hattic Storm God, whose mythology and worship as a primary deity continued and evolved through descendant Luwian and Hittite cultures. In these two, Taru was known as Tarhun/Tarhunt-/ Tarhuwant-/Tarhunta, names derived from the Anatolian root \*tarh "to defeat, conquer".  
 > Taru/Tarhun/Tarhunt was ultimately assimilated into and identified with the Hurrian Teshub around the time of the religious reforms of Muwatalli II, ruler of the Hittite New Kingdom in the early 13th century BCE. These reforms can generally be categorized as an official incorporation of Hurrian deities into the Hittite pantheon, with a smaller number of important Hurrian gods (like Teshub) being explicitly identified with preexisting major Hittite deities (like Taru). Teshub reappears in the post-Hurrian cultural successor kingdom of Urartu as Tesheba, one of their chief gods; in Urartian art he is depicted standing on a bull.  
 
-![assets/Tesub_image1.png](/img/user/T/assets/Tesub_image1.png)  
+![assets/Tesub_image1.png|undefined](/img/user/T/assets/Tesub_image1.png)  
 A mellékelt, [innen](https://www.peopleofar.com/2015/08/26/why-a-roman-god-wears-an-armenian-tiara/amp/) való képen a testtartást figyelembe véve azt látjuk, hogy [[B/Bál\|Bál]] (lásd ott [[B/Bál#Bál mint Nimród\|Bál mint Nimród]] alcímet) testtartására, azaz Orion testtartására emlékeztet. Tarhun igen is lehet Nimród/Hunor csillagkép.  
 
 Mivel a Tesub nevet Tesup formában is megtaláltam, illetve ami a késői hurri Tesheba nevet illeti, Tesz-Apa/Tűz-Apa tökéletesen megfelel Égistennek/Orionnak. Még a dilettáns SzM-nak is Nimród jut eszébe a képről. A [[T/Taru\|Taru]] névvel kapcsolatos értekezést lásd ott.  

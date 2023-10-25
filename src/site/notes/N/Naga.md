@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/N/Naga/","title":"Naga","tags":["formatted🟢"],"created":"2023-10-13T01:24","updated":"2023-10-13T01:24"}
+{"dg-publish":true,"permalink":"/N/Naga/","title":"Naga","tags":["dg_uploaded"],"created":"2023-10-13T01:24","updated":"2023-10-25T01:59"}
 ---
 
 
 # Naga
-
-
 
 #### Bakos Attila A Duna Evangéliuma...
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tame/","title":"Tame","tags":["formatted🟢"],"created":"2023-10-17T08:15","updated":"2023-10-17T08:15"}
+{"dg-publish":true,"permalink":"/T/Tame/","title":"Tame","tags":["dg_uploaded","containstransclusions"],"created":"2023-10-17T08:15","updated":"2023-10-25T02:15"}
 ---
 
 

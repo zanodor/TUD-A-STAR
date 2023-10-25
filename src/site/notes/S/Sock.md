@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sock/","title":"Sock","tags":["formatted🟢"],"created":"2023-10-16T03:59","updated":"2023-10-19T03:31"}
+{"dg-publish":true,"permalink":"/S/Sock/","title":"Sock","tags":["dg_uploaded"],"created":"2023-10-16T03:59","updated":"2023-10-25T02:11"}
 ---
 
 

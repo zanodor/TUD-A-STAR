@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Téridő/","title":"Téridő","tags":["dg_uploaded"],"created":"2023-10-22T03:36","updated":"2023-10-23T04:04"}
+{"dg-publish":true,"permalink":"/T/Téridő/","title":"Téridő","tags":["dg_uploaded"],"created":"2023-10-22T03:36","updated":"2023-10-25T02:15"}
 ---
 
 

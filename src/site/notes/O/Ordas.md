@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ordas/","title":"Ordas","tags":["formatted🟢"],"created":"2023-10-21T03:45","updated":"2023-10-21T03:45"}
+{"dg-publish":true,"permalink":"/O/Ordas/","title":"Ordas","tags":["dg_uploaded"],"created":"2023-10-21T03:45","updated":"2023-10-25T02:04"}
 ---
 
 

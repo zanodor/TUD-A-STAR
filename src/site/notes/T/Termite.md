@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/T/Termite/","title":"Termite","tags":["formatted🟢"],"created":"2023-10-21T04:17","updated":"2023-10-21T04:17"}
+{"dg-publish":true,"permalink":"/T/Termite/","title":"Termite","tags":["dg_uploaded"],"created":"2023-10-21T04:17","updated":"2023-10-25T02:16"}
 ---
-
-
 
 
 # Termite

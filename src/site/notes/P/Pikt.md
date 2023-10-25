@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pikt/","title":"Pikt","tags":["formatted🟢"],"created":"2023-10-21T05:06","updated":"2023-10-21T05:06"}
+{"dg-publish":true,"permalink":"/P/Pikt/","title":"Pikt","tags":["dg_uploaded"],"created":"2023-10-21T05:06","updated":"2023-10-25T02:06"}
 ---
 
 

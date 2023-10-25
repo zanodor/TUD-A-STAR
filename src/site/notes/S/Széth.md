@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["dg_uploaded"],"created":"2023-10-16T01:30","updated":"2023-10-23T02:40"}
+{"dg-publish":true,"permalink":"/S/Széth/"}
 ---
 
 

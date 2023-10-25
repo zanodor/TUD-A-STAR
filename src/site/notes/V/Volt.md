@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/V/Volt/","title":"Volt","tags":["formatted🟢"],"created":"2023-10-08T01:51","updated":"2023-10-08T01:51"}
+{"dg-publish":true,"permalink":"/V/Volt/","title":"Volt","tags":["dg_uploaded"],"created":"2023-10-08T01:51","updated":"2023-10-25T02:23"}
 ---
 
 
 # Volt
-
-
 
 Többféleképpen értelmezhető volt szavunk. Egyrészt M>V váltással kijön [[M/Múlt\|múlt]] szavunkból, másrészt megfelel a forgásra utaló [[V/Vált\|vált]] szavunknak is, ahogy [ezen](https://qr.ae/pKIRyJ) Quora válaszban[^1] is szerepelt.  
 [[B/Bolt\|Bolt]] pedig az égbolt, ami (illetve rajta a csillagok) szintén forog(nak).  

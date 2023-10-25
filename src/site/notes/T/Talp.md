@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Talp/","title":"Talp","tags":["formatted🟢"],"created":"2023-10-21T10:36","updated":"2023-10-21T10:36"}
+{"dg-publish":true,"permalink":"/T/Talp/","title":"Talp","tags":["dg_uploaded"],"created":"2023-10-21T10:36","updated":"2023-10-25T02:15"}
 ---
 
 

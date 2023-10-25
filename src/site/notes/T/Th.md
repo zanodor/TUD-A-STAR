@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/T/Th/","title":"Th","tags":["formatted🟢"],"created":"2023-10-21T04:27","updated":"2023-10-21T04:27"}
+{"dg-publish":true,"permalink":"/T/Th/","title":"Th","tags":["dg_uploaded"],"created":"2023-10-21T04:27","updated":"2023-10-25T02:16"}
 ---
-
-
 
 
 # Th

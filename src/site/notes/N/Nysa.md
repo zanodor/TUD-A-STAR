@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nysa/","title":"Nysa","tags":["unformatted⚪","containstransclusions"],"created":"2023-10-04T04:05","updated":"2023-10-04T04:07"}
+{"dg-publish":true,"permalink":"/N/Nysa/","title":"Nysa","tags":["dg_uploaded","containstransclusions"],"created":"2023-10-04T04:05","updated":"2023-10-25T02:01"}
 ---
 
 
@@ -15,7 +15,7 @@ Görög mitológiai Paradicsom az északi-sarkon (legalábbis az egyik, hiszen a
 
 > Dionüszosz jelentése "nűszai Zeusz"; Nűsza helységnév, több is volt belőle, a hívek az isten kultuszhelyeit rendre Nűszának nevezték.  
 
-[[N/NISZ\|NISZ]] etymonnál szerepelt...
+[[N/NISZ\|NISZ]] etimonnál szerepelt...
 
 #### Péterfai János adata:
 

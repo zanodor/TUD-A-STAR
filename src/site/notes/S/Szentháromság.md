@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szentháromság/","created":"2023-10-14T07:28","updated":"2023-10-14T07:28"}
+{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["dg_uploaded"]}
 ---
 
 

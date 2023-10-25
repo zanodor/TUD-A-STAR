@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","tags":["formatted🟢"],"created":"2023-10-13T05:41","updated":"2023-10-13T05:41"}
+{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","tags":["dg_uploaded"],"created":"2023-10-13T05:41","updated":"2023-10-25T02:20"}
 ---
 
 
 # Vadász
-
-
 
 Bevezetést lásd [[V/Vad\|vad]].  
 Vad, Vadász szavunk megjelenik a hindiben, ahol (lásd bővebben [[S/Szíriusz\|Szíriusz]] és [[M/Mriga\|mriga]]) Mrigavyadha = Szarvasölő elnevezés. Ez a `Vyadha` nem más, mint Vadász szavunk, mely [[O/Orion\|Orion]] neve is. Az egyik norvég nyelvjárásban (nynorsk) is `veidar` és `veidemann` = vadász.  
@@ -25,7 +23,7 @@ CzF szótár vadol szónál írja:
 ## Nagy vadász
 
 Nimród nagy vadász volt az Úr előtt, írja a Biblia. Bognár Ferenc A magyarok istene című cikkében bemutatja, hogy különböző nyelveken hogyan nézett ki ez az összefüggés, hogy Nagy Vadász majd egy másik bibiliai helyet is bemutat:  
-![assets/Vadász_image1.jpeg](/img/user/V/assets/Vad%C3%A1sz_image1.jpeg)  
+![assets/Vadász_image1.jpeg|undefined](/img/user/V/assets/Vad%C3%A1sz_image1.jpeg)  
 Gen 10.9 (Nimród) nagy vadász (volt az Úr előtt):  
 Namost, a (kétes) latin eredetre visszavitt francia `chasseur`, spanyol `cazador` és olasz `cacciatore` = vadász szavak (idetartozik az angol [[C/Chase\|chase]] = űz ige is) olyan hazar/kazár alakú törzsre visszavihetőek[^1], mint a [[H/Hazard\|hazard]] címnél előjövő perzsa `házár` = garázdálkodás és a CzF ugyancsak házsárt címszavánál taglalt, franczia szótárakban ismeretlen viaskodási jelentések is előjönnek.  
 
@@ -52,7 +50,7 @@ Ami még a Hágár név változatait illeti, Hacer török női név. Hacser Jó
 A többi nyelven is fussunk végig. A szláv `lovec`, `лове́ц`, stb. alakok egyértelműen `lövész` szavunkat árulják el. A germán szavaknál is a nyíllövő az íjász, aki ugye a vadász is. De ha már lövész, nem-e a [[L/Love\|love]] szó is [[A/Ámor\|Ámor]] és [[C/Cupid\|Cupid]] címnél írottak alapján lövés szavunk törzse? Azaz a szanszkrit [[L/Lubdhaka\|Lubdhaka]] dakák lövője lenne? A szláv szavak gyöke erre enged következtetni. A [[L/Lubdhaka\|Lubdhaka]] névvel [[S/Szíriusz\|Szíriusz]] címnél találkoztunk már; [[L/Love\|love]] címnél is említettük közben, hogy a lövés és lövész törzse lehet.  
 A lengyel `myśliwy` a [[M/MISZ\|MISZ]] előtag miatt érdekes; emlékeztet a [[L/Luna\|Luna]] címnél elővett lengyel `miesiąc` = holdsarló, hold szóra, mely felveti, hogy a közös fogalom bennük az ív/ij(asság) (hasonlóan az arab `kamr` = Hold, de a héber `hamor` = íjász).  
 A görög `κυνηγός` = vadász a `κύων` = kutya előtagot viszi, de az utótagot nem magyarázza meg a Wiktionary. Beekes etymologia szótárában elő sem jön a szó, de egy hasonlót megad kutyavezető néven. Én éppen erre az etymologiára gondoltam: csak az égre kell nézni.  
-A török `avci` és azeri `ovçu` = vadász talán [[A/Ács\|ács]] vagy [[J/Jász\|jász]] illetve (a PJI szerint akár a magyar [[H/Heta\|heta]] nevünkhöz köthető) kínai [[J/Jüecsi\|jüecsi]] átvétele (a [[H/Hét\|hét]] pedig észak ugye) (a shor nyelvű añçı hasonló még (sőt, ismét N = V?)).  
+A török `avci` és azeri `ovçu` = vadász talán [[A/Ács\|ács]] vagy [[J/Jász\|jász]] illetve (a PJI szerint akár a magyar [[H/Heta\|heta]] nevünkhöz köthető) kínai [[J/Jüecsi\|jüecsi]] átvétele (a [[H/Hét\|hét]] pedig észak ugye) (a shor nyelvű `añçı` hasonló még (sőt, ismét N = V?)).  
 [[J/Jüecsi\|Jüecsi]] címnél arról szóltunk legutóbb, hogy a [[J/Jász\|jász]] nevünk kell legyen, és valóban, a jász = íjász = vadász.  
 Mint kiderül, [[H/Hágár\|Hágár]] fia, [[I/Izmael\|Izmael]] is vadász, de atyja [[A/Ábrahám\|Ábrahám]] is Orion alak.  
 
@@ -72,7 +70,7 @@ Valóban vadászni nem más, mint szexuálisan űzni. Ilyen értelemben a kár =
 > A mitopoetikus gondolkodásban kapcsolat áll fenn a vadászat és a [[N/Nász\|nász]] között.  
 > A vadászrítus kozmikus [[L/Lakodalom\|lakodalom]] formáját ölti, a lakodalmi szertartás pedig vadászat jellegű. Ennek az ősi tudattartalomnak kései felmerülése Vörösmarty Szép Ilonkájának kezdő képe: "A vadász ül hosszú, méla lesben, / vár felajzott nyílra gyors vadat". Az íj vadász (harci) jellege és szexuális vonatkozása tehát egyaránt megjelenik az avatási szertartásban. A férfivá váláshoz mindkét ismeret hozzá tartozik. Ha pedig a történetet koherens egységnek tekintjük, és belőle indulunk ki és semmi másból, akkor csak így válaszolhatunk: azért adja Földszülőanyja az íjat, mert tőle származik a nemiség, hiszen ő faragja ki a gyermekek nemi szerveit.  
 > \[...\]  
-> A vadászat és a házasság \[szexualitás\] között mitikus kapcsolat van. Hogy ez így volt a mi ősi kultúránkban is, azt mutatják [[S/Szeret\|szeret]]-szerez, talán bír-birkózik, [[O/Öl\|öl]]-ölel szavaink, és kettős értelmű ajz \[honnan a török [[A/AJ\|AJ]] = hold\] szavunk. Továbbá, hogy a por frátria asszonyait a rege a Fiastyúkkal azonosítja, a Fiastyúk pedig szemben áll az égi vadásszal.  
+> A vadászat és a házasság \[szexualitás\] között mitikus kapcsolat van. Hogy ez így volt a mi ősi kultúránkban is, azt mutatják [[S/Szeret\|szeret]]-szerez, talán bír-birkózik, [[O/Öl\|öl]]-ölel szavaink, és kettős értelmű ajz \[honnan a török [[A/AJ\|aj]] = hold\] szavunk. Továbbá, hogy a por frátria asszonyait a rege a Fiastyúkkal azonosítja, a Fiastyúk pedig szemben áll az égi vadásszal.  
 - A szemben kifejezés kissé pontatlan: a közben a fajd eredetre visszavitt [[P/Pleiadok\|Pleiadok]]ra szegezi az íjat. <br/>
 Lásd még hasonlókról [[F/Fuvar\|fuvar]].  
 Legutóbb [[J/Játék\|játék]] és [[G/Game\|game]] címnél volt szó arról, hogy a játék valójában véresen komoly és a nemzésről, az életkörön való kőrözésről van szó.  

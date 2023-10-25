@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Obi-ugor/","title":"Obi-ugor","tags":["formatted🟢"],"created":"2023-10-20T05:16","updated":"2023-10-20T05:16"}
+{"dg-publish":true,"permalink":"/O/Obi-ugor/","title":"Obi-ugor","tags":["dg_uploaded"],"created":"2023-10-20T05:16","updated":"2023-10-25T02:04"}
 ---
 
 

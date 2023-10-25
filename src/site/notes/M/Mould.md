@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mould/","title":"Mould","tags":["formatted🟢"],"created":"2023-10-21T10:18","updated":"2023-10-21T10:18"}
+{"dg-publish":true,"permalink":"/M/Mould/","title":"Mould","tags":["dg_uploaded"],"created":"2023-10-21T10:18","updated":"2023-10-25T01:58"}
 ---
 
 

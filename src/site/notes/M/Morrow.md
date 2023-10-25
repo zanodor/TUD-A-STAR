@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/M/Morrow/","title":"Morrow","tags":["formatted🟢"],"created":"2023-10-20T12:56","updated":"2023-10-20T12:56"}
+{"dg-publish":true,"permalink":"/M/Morrow/","title":"Morrow","tags":["dg_uploaded"],"created":"2023-10-20T12:56","updated":"2023-10-25T01:58"}
 ---
-
-
 
 
 # Morrow

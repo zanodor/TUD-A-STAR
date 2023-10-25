@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sand/","title":"Sand","tags":["formatted🟢"],"created":"2023-10-17T11:40","updated":"2023-10-21T04:27"}
+{"dg-publish":true,"permalink":"/S/Sand/","title":"Sand","tags":["dg_uploaded"],"created":"2023-10-17T11:40","updated":"2023-10-25T02:09"}
 ---
 
 

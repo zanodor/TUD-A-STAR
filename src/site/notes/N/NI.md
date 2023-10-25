@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/N/NI/","title":"NI","tags":["titleandheadingonedontmatch","multipleentries","stitched","formatted🟢"],"created":"2023-10-09T04:33","updated":"2023-10-16T04:00"}
+{"dg-publish":true,"permalink":"/N/NI/","title":"NI","tags":["titleandheadingonedontmatch","multipleentries","stitched","dg_uploaded"],"created":"2023-10-09T04:33","updated":"2023-10-25T02:00"}
 ---
 
 
 # NI 1)
-
-
 
 #### Péterfai János írja:
 

@@ -1,22 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/U/Ugor/","created":"2023-10-20T09:42","updated":"2023-10-20T09:42"}
+{"dg-publish":true,"permalink":"/U/Ugor/","title":"Ugor","tags":["dg_uploaded"],"created":"2023-10-20T09:42","updated":"2023-10-25T02:18"}
 ---
-
----
-title: Ugor
-aliases:
-  - ugor
-tags:
-  - formatted🟢
-share: true
-dg-publish: true
-dg-created: 2023-10-20T09:42
-dg-updated: 2023-10-20T09:42
-dg_upload_status: 🟢
-date created: 2023-06-29
-date modified: 2023-10-20
----
-
 
 
 # Ugor

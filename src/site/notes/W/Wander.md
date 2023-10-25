@@ -1,22 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/W/Wander/"}
+{"dg-publish":true,"permalink":"/W/Wander/","title":"Wander","tags":["dg_uploaded"],"created":"2023-10-20T10:19","updated":"2023-10-25T02:23"}
 ---
-
----
-title: Wander
-aliases:
-  - wander
-tags:
-  - formatted🟢
-share: true
-dg-publish: true
-dg-created: 2023-10-20T10:19
-dg-updated: 2023-10-20T10:19
-dg_upload_status: 🟢
-date created: 2023-07-02
-date modified: 2023-10-20
----
-
 
 
 # Wander

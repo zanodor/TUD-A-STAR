@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Uttara/","title":"Uttara","tags":["formatted🟢"],"created":"2023-10-17T08:05","updated":"2023-10-17T08:05"}
+{"dg-publish":true,"permalink":"/U/Uttara/","title":"Uttara","tags":["dg_uploaded"],"created":"2023-10-17T08:05","updated":"2023-10-25T02:20"}
 ---
 
 

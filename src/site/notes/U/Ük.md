@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/U/Ük/","title":"Ük","tags":["formatted🟢"],"created":"2023-10-13T12:46","updated":"2023-10-13T12:46"}
+{"dg-publish":true,"permalink":"/U/Ük/","title":"Ük","tags":["dg_uploaded"],"created":"2023-10-13T12:46","updated":"2023-10-25T02:18"}
 ---
 
 
 # Ük
-
-
 
 Úgy tűnik, hogy az [[O/OK\|OK]] = csillag és [[A/AG\|AG]], [[A/Agg\|agg]] párja. A halott ősök a csillagokba távoznak haláluk után (de a vének is fényesek, tudásuk szerint, vagy a fényes csillagokba tartók, hisz hamarosan meghalnak), valamint felsők, amely az [[E/Ég\|ég]] iránya.  
 [[U/Ukkó\|Ukkó]] címnél ...

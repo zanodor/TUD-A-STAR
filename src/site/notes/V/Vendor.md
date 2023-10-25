@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vendor/","title":"Vendor","tags":["formatted🟢"],"created":"2023-10-20T10:13","updated":"2023-10-20T10:13"}
+{"dg-publish":true,"permalink":"/V/Vendor/","title":"Vendor","tags":["dg_uploaded"],"created":"2023-10-20T10:13","updated":"2023-10-25T02:22"}
 ---
 
 
