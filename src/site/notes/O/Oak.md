@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/O/Oak/","title":"Oak","tags":["formatted🟢"],"created":"2023-10-11T04:44","updated":"2023-10-11T04:44"}
+{"dg-publish":true,"permalink":"/O/Oak/","title":"Oak","tags":["dg_uploaded"],"created":"2023-10-11T04:44","updated":"2023-10-25T02:01"}
 ---
 
 
 # Oak
-
-
 
 [[T/Tölgy\|Tölgy]]fa. [[T/Táltos\|Táltos]]ok, [[D/Druida\|druidá]]k fája. A magyar tölgy inkább boncolgatható és hasonlítható tőgyhöz, amiből a táltost tápláló tej származik.  
 Az angol oak elődei a magyar [[O/OK\|OK]], [[E/Ég\|ég]], [[E/Egy\|egy]], [[A/Ág\|ág]] szavaink bármelyikére utalhatnak. Az Ok PJI adata szerint Csillag.   
@@ -22,7 +20,7 @@ Az ([[E/Elk\|elk]] címnél is említett) ónorvég `eik` egyszerre tölgyfa és
 
 Lásd erről MA Csodaszarvasának anyagát képekkel [[A/Ágas-bogas\|ágas-bogas]]. Egy képet ide is tehetünk:  
 
-![assets/Oak_image1.png](/img/user/O/assets/Oak_image1.png)  
+![assets/Oak_image1.png|undefined](/img/user/O/assets/Oak_image1.png)  
 Robert Graves The White Goddess című könyvében is megtalálható az összevetés:
 > From Sardinia comes a Bronze Age figurine of a man-stag with horns resembling the foliage of an oak, a short tail, an arrow in one hand and in the other a bow that has turned into a wriggling serpent.  
 
@@ -68,7 +66,7 @@ A tölgy párja a [[B/Bükk\|bükk]]fa, szintén Világfa-jelkép. Ugyan AJ adat
 De ha már ennyire ragaszkodunk **a germán Ok alakú szóhoz, nem szabad kihagyni, hogy a japáni `ōku` = tölgy azonos a germánnal**.  
 A Falk Nóra által adatolt északi lapp `oaksi` = ág is tökéletesen megfelel mind a magyar, mind a taglalt angol szónak. Az északi lapp `áksán` = agancs(ozat), agancskorona jelentésű.  
 
-Az [[O/Oxygen\|oxygen]] és [[O/Oxymoron\|oxymoron]] szavaknál is előjövő [[O/OK\|OK]], [[O/OG\|OG]] etymonok kapcsán vetődött fel, hogy a bükk- és tölgyfákkal azonosuló [[V/Világfa\|világfá]]k egyben világtengelyek is; így lehet, hogy [[A/Axis\|axis]] = tengely (és a [[H/Hamlet malma\|Hamlet malma]] és [[H/Honey\|honey]] címnél előjövő perzsa `ās`, `āsiyā` = malom(kő)) szavak összefüggenek.  
+Az [[O/Oxygen\|oxygen]] és [[O/Oxymoron\|oxymoron]] szavaknál is előjövő [[O/OK\|OK]], [[O/OG\|OG]] etimonok kapcsán vetődött fel, hogy a bükk- és tölgyfákkal azonosuló [[V/Világfa\|világfá]]k egyben világtengelyek is; így lehet, hogy [[A/Axis\|axis]] = tengely (és a [[H/Hamlet malma\|Hamlet malma]] és [[H/Honey\|honey]] címnél előjövő perzsa `ās`, `āsiyā` = malom(kő)) szavak összefüggenek.  
 Előjött még [[O/Oxter\|oxter]] = hónalj jelentésű szónál is.  
 De ha már itt tartunk, az [[O/Okád\|okád]], valamint [[C/Csudaszarvas\|Csudaszarvas]] és [[Z/Zodiac\|zodiac]] címnél is előjövő asztrális [[O/Ökör\|ökör]] Ök-Őr (Ég/Tűz-Őr) vagy Ő-Kör (Örök/Isten Köre) felbontásban való értelmezése alapján, az ökör a cirkumpoláris csillagok hajtására vonatkozhat; lásd [[A/Arctic\|arctic]], [[A/Arcturus\|Arcturus]], stb. Ezen nevek mind hasonlóak, és akkor még nem beszéltünk ocsúdik = ébred szavunkról.  
 
@@ -82,8 +80,8 @@ A lengyelek Alexandra-Dorothea-nak Andor-"Dávid"-on keresztül hozzám jutó in
 > Deer's antlers were considered to be the symbol of fertility.  
 - Nálunk is az ág > agancs szó, hogy Dávid is észreveszi. Meg ugye sok szkíta ábrázoláson a szarvas fején faágak vannak.
 
-![assets/Oak_image2.jpeg](/img/user/O/assets/Oak_image2.jpeg)  
-![assets/Oak_image3.jpeg](/img/user/O/assets/Oak_image3.jpeg)  
+![assets/Oak_image2.jpeg|undefined](/img/user/O/assets/Oak_image2.jpeg)  
+![assets/Oak_image3.jpeg|undefined](/img/user/O/assets/Oak_image3.jpeg)  
 > In Poland there is legend about the golden deer but it is considered a fairy tale for children. And the ancient Slavs in Poland were worshipping the holy oak.  
 > It had spiritual meaning for them...they loved nature generally.  
 > \[...\]  
