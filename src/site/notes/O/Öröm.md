@@ -1,21 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/O/Öröm/"}
+{"dg-publish":true,"permalink":"/O/Öröm/","title":"Öröm","tags":["dg_uploaded"],"created":"2023-10-20T07:00","updated":"2023-10-25T02:04"}
 ---
 
----
-title: Öröm
-aliases:
-  - öröm
-tags:
-  - formatted🟢
-share: true
-dg-publish: true
-dg-created: 2023-10-20T07:00
-dg-updated: 2023-10-20T07:00
-dg_upload_status: 🟢
-date created: 2023-08-28
-date modified: 2023-08-28
----
 
 # Öröm
 
