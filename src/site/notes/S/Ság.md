@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/S/Ság/","title":"Ság","tags":["unformatted⚪"],"created":"2023-10-14T06:22","updated":"2023-10-14T06:22"}
+{"dg-publish":true,"permalink":"/S/Ság/","title":"Ság","tags":["dg_uploaded"],"created":"2023-10-14T06:22","updated":"2023-10-25T02:08"}
 ---
 
 
 # Ság
-
-
 
 #### Péterfai János írja:
 
