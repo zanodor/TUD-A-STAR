@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vámbéry Ármin/","title":"Vámbéry Ármin","tags":["formatted🟢"],"created":"2023-10-13T05:10","updated":"2023-10-13T05:10"}
+{"dg-publish":true,"permalink":"/V/Vámbéry Ármin/","title":"Vámbéry Ármin","tags":["dg_uploaded"],"created":"2023-10-13T05:10","updated":"2023-10-25T02:21"}
 ---
 
 
 # Vámbéry Ármin
-
-
 
 Eredeti nevén Wamberger Hermann, kiről szép kis történetet írt Magyar Adorján; lásd [[T/Történelemhamisítás\|történelemhamisítás]].  
 Viszont Kubínyi Tamás több ízben pozitív alakként került lefestésre. Például betegen valamilyen könyvet ([[T/Tarihi Üngürüsz\|Tarihi Üngürüsz]]t talán) hazahozott.  
