@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/P/Patala/","title":"Patala","tags":["formatted🟢"],"created":"2023-10-13T01:18","updated":"2023-10-13T01:18"}
+{"dg-publish":true,"permalink":"/P/Patala/","title":"Patala","tags":["dg_uploaded"],"created":"2023-10-13T01:18","updated":"2023-10-25T02:05"}
 ---
 
 
 # Patala
-
-
 
 A Wikipedia szerint az alvilág ([[P/Pata\|Pata]]-[[L/LA\|La]] formában meg is felel):  
 > In Indian religions, Patala (Sanskrit: पाताल, IAST: pātāla, lit. that which is below the feet), denotes the subterranean realms of the universe – which are located under the earthly dimension. Patala is often translated as underworld or netherworld. Patala is described as more beautiful than Svarga (subtle dimensions, loosely translated as heaven). Patala is described as filled with splendid jewels, beautiful groves and lakes.  
@@ -44,7 +42,7 @@ Várkonyi Nándor Az elveszett Paradicsomában Pátála-Amerika benépesítésé
 
 A Pátála elnevezéssel azért is csínján kell bánni, mert William F. Warren Paradise Found: Cradle of the Human Race at the North Pole című könyvéből tudjuk, hogy:  
 1\. az égtájakat sokszor Észak-Délről Kelet-Nyugat irányúvá változtatták;  
-2\. az elnevezéseket nem szabad geográfiai névértékben venni, hisz elsősorban mítikus-csillagászati területeket jelöl (ha Patala a [[P/Pokol\|pokol]], akkor az az [[A/Alvilág\|alvilág]]) (és ha hihetünk Magyar Adorján elméletének vagy a [[H/Hyperborea\|Hyperborea]] c. alatt [[C/Charles Hapgood\|Charles Hapgood]] földkéreg-elcsúszás elméletének, az az észak már amúgy sem is ott van, ahol ma keresik).  
+2\. az elnevezéseket nem szabad geográfiai névértékben venni, hisz elsősorban mitikus-csillagászati területeket jelöl (ha Patala a [[P/Pokol\|pokol]], akkor az az [[A/Alvilág\|alvilág]]) (és ha hihetünk Magyar Adorján elméletének vagy a [[H/Hyperborea\|Hyperborea]] c. alatt [[C/Charles Hapgood\|Charles Hapgood]] földkéreg-elcsúszás elméletének, az az észak már amúgy sem is ott van, ahol ma keresik).  
 
 Ami Patala Amerikára vonatkozó jelentése mellett szól, az az, hogy Amerikát rengeteg természeti katasztrófa sújtja (vesd össze a kietlen [[P/Patagonia\|Patagonia]] nevével; az is azon a kontinensen van). Summa summárum, a hunok sokfelé eljutottak, maguk adtak nevet a helyeknek, és csak bízni tudunk abban, hogy az átvevő és feljegyzést készítő népek hitelesen őrizték meg őket.  
 
