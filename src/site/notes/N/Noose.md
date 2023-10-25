@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/N/Noose/","title":"Noose","tags":["formatted🟢","containstransclusions"],"created":"2023-10-15T09:23","updated":"2023-10-16T07:04"}
+{"dg-publish":true,"permalink":"/N/Noose/","title":"Noose","tags":["dg_uploaded","containstransclusions"],"created":"2023-10-15T09:23","updated":"2023-10-25T02:00"}
 ---
 
 
 # Noose
-
-
 
 [[H/Hurok\|Hurok]]. A hurok szorít és fojtogat, elsősorban nyakat, például akasztott emberét. Nyúz szavunk közel áll úgy értelemben, mint jelentésben. Ahogy a görög `hamma` = kötél, hurok [[H/Hám\|hám]] szavunkból ered, úgy köthető szintén lovakhoz a noose is, mely nyűg szavunkból (k hang vagy ez esetben g rokona sokszor változik sz-szé, ezt másutt is láttuk) is eredhet. [[N/Nyűg\|Nyűg]] azon kötél, melyen a ló lábát kötik le, hogy messze ne kóboroljon.  
 De ha már szóba kerültek a lovak, jöjjenek a kutyák ([[K/Kutyafejű\|kutyafejű]]ek) is, melyek orra az azonos [[N/Nose\|nose]].  Elképzelhető, hogy a [[N/Nyolc\|nyolc]] szavunk adja ki e szót.  
