@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ostya/","title":"Ostya","tags":["formatted🟢","containstransclusions"],"created":"2023-10-21T03:35","updated":"2023-10-21T03:38"}
+{"dg-publish":true,"permalink":"/O/Ostya/","title":"Ostya","tags":["dg_uploaded","containstransclusions"],"created":"2023-10-21T03:35","updated":"2023-10-25T02:05"}
 ---
 
 
@@ -14,7 +14,7 @@ Ami az áldozati szerepet illeti, [[O/Oszt\|oszt]] tulajdonképpen itt akár a [
 [[V/Végvári József\|Végvári József]] Hit és anyanyelv című dolgozatában írja oszt – ostya – test/tészta/tiszta, valamint lakik és lakk vonalon ([[T/Test\|test]] címnél is szerepelt):  
 > Keresztény hitünk egyik kulcskérdéséről van szó: Jézus úgy lakik bennem, hogy én egyúttal jól is lakom vele. Ez a megvilágosító többértelműség esete mai világunkban, amelyben igen sokan törekednek az állandó, már-már rögeszmés egyértelműsítésre, holott a világ nem úgy működik. Legvégül tegyünk egy K betűt vizsgált szavunk végére: kapjuk a LaKK-ot, melynek eredetileg élőfa a forrása (skarlát tölgyből nyerték), szerepe pedig az, hogy megfényesítse a tárgyakat (Andics Árpád barátom szép gondolata). Jézusnak – a "világ világának" – talán nem az a szerepe, hogy fénybe öltöztesse a világot?  
 
-Végvári József Kölcsönszavak c. YouTube-ra feltöltött előadásában említi az "ennivaló gyermek," "meg kell ezt a gyereket zabálni," "egyem a zúzádat" kifejezéseket. Arról van szó, hogy Jézus felajánlja testét és vérét, hogy ebből fogyasztva az ő testvéreivé váljunk (test-vér csak magyarban testvér). VJ felhívja még itt a figyelmet arra, hogy az indo-germán magyarellenes törekvések szerint az [[O/Ogre\|ogre]] = emberevő óriás szót az ugor (hungár) szavakkal akarja megfeleltetni, így csínján kell bánni az ennivaló gyermek angolra fordításával: 
+Végvári József Kölcsönszavak c. YouTube-ra feltöltött előadásában említi az "ennivaló gyermek," "meg kell ezt a gyereket zabálni," "egyem a zúzádat" kifejezéseket. Arról van szó, hogy Jézus felajánlja testét és vérét, hogy ebből fogyasztva az ő testvéreivé váljunk (test-vér csak magyarban testvér). VJ felhívja még itt a figyelmet arra, hogy az indo-germán magyarellenes törekvések szerint az [[O/Ogre\|ogre]] = emberevő óriás szót az ugor (hungár) szavakkal akarja megfeleltetni, így csínján kell bánni az ennivaló gyermek angolra fordításával:
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/e/embereves/#1sdmzu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
