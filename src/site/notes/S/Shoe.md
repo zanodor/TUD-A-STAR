@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/S/Shoe/","title":"Shoe","tags":["unformatted⚪"],"created":"2023-10-16T03:56","updated":"2023-10-16T03:56"}
+{"dg-publish":true,"permalink":"/S/Shoe/","title":"Shoe","tags":["dg_uploaded"],"created":"2023-10-16T03:56","updated":"2023-10-25T02:10"}
 ---
 
 
 # Shoe
-
-
 
 Cipő.   
 CzF adata vezethet eredményre:  
