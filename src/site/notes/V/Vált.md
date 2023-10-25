@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vált/","title":"Vált","tags":["formatted🟢"],"created":"2023-10-10T10:44","updated":"2023-10-10T10:44"}
+{"dg-publish":true,"permalink":"/V/Vált/","title":"Vált","tags":["dg_uploaded"],"created":"2023-10-10T10:44","updated":"2023-10-25T02:21"}
 ---
 
 
 # Vált
-
-
 
 A keringő [[W/Waltz\|waltz]] neve a német `walzen` = fordulni, perdülni szótól ered. Igaza volt MA-nak, mikor arról szólt, hogy a vált szavunk fordulni jelentéssel is állt.  
 
