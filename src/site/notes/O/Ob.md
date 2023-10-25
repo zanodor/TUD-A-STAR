@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ob/","title":"Ob","tags":["formatted🟢"],"created":"2023-10-20T05:14","updated":"2023-10-20T05:14"}
+{"dg-publish":true,"permalink":"/O/Ob/","title":"Ob","tags":["dg_uploaded"],"created":"2023-10-20T05:14","updated":"2023-10-25T02:03"}
 ---
-
-
 
 
 # Ob
