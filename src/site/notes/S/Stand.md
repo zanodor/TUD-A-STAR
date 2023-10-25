@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Stand/","title":"Stand","tags":["dg_uploaded"],"created":"2023-10-17T09:33","updated":"2023-10-23T02:39"}
+{"dg-publish":true,"permalink":"/S/Stand/","title":"Stand","tags":["dg_uploaded"],"created":"2023-10-17T09:33","updated":"2023-10-25T02:11"}
 ---
 
 
