@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gravetti/","title":"Gravetti","tags":["dg_uploaded"],"created":"2023-10-14T04:07","updated":"2023-10-25T02:05"}
+{"dg-publish":true,"permalink":"/G/Gravetti/","title":"Gravetti","tags":["dg_uploaded"],"created":"2023-10-14T04:07","updated":"2023-10-25T03:54"}
 ---
 
 
 # Gravetti
 
-#### [[G/Grandpierre Atilla\|Grandpierre Atilla]] A magyar nemzettudat történelmi alapjai...
+#### Grandpierre Atilla A magyar nemzettudat történelmi alapjai...
 
 ...című cikkében írja:  
 > Az emberi civilizáció főútján a következő korszakalkotó lépés a nyíl, az íj használata. Az istállóskői barlangban talált leletek szerint az íjat a [[K/Kárpát-medence\|Kárpát-medencé]]ben találta fel a későbbiekben nyílhegyeiről gravetti népnek nevezett nép i. e. 35 000 körül (Gáboriné Csánk Vera, 1980, 177.). A mai Franciaország területén hasonló régészeti leletek csak 5-6000 évvel későbbiek (uo., 178). A gravetti műveltség a [[S/Selyemút\|Selyemút]] övezetében őrződött meg legtovább, egészen az újkőkorig, amikor a civilizáció fejlődésének vezérfonalát átadta a Kárpát-medencében kifejlődött Ősi Európa civilizációnak.  
