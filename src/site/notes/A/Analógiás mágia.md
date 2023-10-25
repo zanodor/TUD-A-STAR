@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Analógiás mágia/","title":"Analógiás mágia","tags":["dg_uploaded"],"created":"2023-10-15T02:36","updated":"2023-10-25T12:31"}
+{"dg-publish":true,"permalink":"/A/Analógiás mágia/","title":"Analógiás mágia","tags":["dg_uploaded"],"created":"2023-10-15T02:36","updated":"2023-10-25T02:01"}
 ---
 
 
@@ -14,7 +14,7 @@ A szakirodalom ezt hívja annak, amikor a (pogány) népek például segíteni p
 
 Mivel itt először különösen a napfordulós tűzgyújtásról lesz szó, elsőként vegyük észre, hogy a [[M/Mágia\|mágia]] és a [[M/Máglya\|máglya]] szavak úgy hasonlítanak egymásra, mint a [[P/Parázs\|parázs]] és a [[V/Varázs\|varázs]].  
 
-#### [[G/Grandpierre Atilla\|Grandpierre Atilla]] Karácsony eredete és jelentősége...
+#### Grandpierre Atilla Karácsony eredete és jelentősége...
 
 ...című cikkének [[P/Parázs\|parázs]], [[L/Ló\|ló]] ([[L/Ló#Ló – Fehér ló\|ló – fehér ló]] alcímnél), [[N/Nap – halott Nap\|Nap – halott Nap]] és [[T/Tűz\|tűz]] címnél álló adatsorai ide is tehetőek ömlesztve azzal kapcsolatosan, hogy a régi ember hogyan figyelte meg a Nap működését és mit tett azért, hogy "meggyógyítsa." A bevezető után tehát GA kitér az ókori világ, a Nap újjászületését segítő szertartásaira, annak nyomaira is:  
 > A [[N/Napfogyatkozás\|Napfogyatkozás]]okat megfigyelő ember számára a Nap jelentette az élet központját, forrását és fenntartóját, amihez érzéseiben rendkívül szorosan kötődött, számára a Nap fogyatkozása a Nap elgyengülésének képzetét vetette fel, amit egy élet-szerető ember nem nézhetett tétlenül. Mit tehet ilyenkor azért az ember, hogy a Nap minél előbb visszanyerje teljes erejét? Az ősi magyarság kultúrájában a tűz és a lélek rokontermészetűek \[etimon-szinten azonos alapszavakból is indulnak ki\], mindketten lángolók, tüzesek, érzékenyek. A lélek maga az érzésvilág, és az érzésekről tudjuk, hogy képesek egymást kigyújtani. Minden ember tudja, hogy milyen érzések gyúlnak ki például egy anya és gyermeke, vagy két szerelmes között. Az egyik lélekben kigyúló érzés kiváltja a másik, rokon lélekben a hasonló érzés kigyulladását. A kölcsönösség természeti törvény az együttérzést ápoló népek kultúrájában. Kisgyermekkorban, amíg a mesterséges társadalom pusztító hatása még csak kevésbé érvényesül, az egyik gyermek sírása, nevetése szinte törvényszerűen magával vonja a másik gyermek együttérzését, sírását, nevetését. Tény, hogy még a legelvetemültebb bűnözőkben is fiziológiailag kimutatható az együttérzés, az érzéseket kísérő bőrellenállás-változások mérésével. Erőszakos cselekmények elkövetése vagy akárcsak közvetett átélése során az érzésvilág hullámzását jól mérhető fiziológiai jelenségek kísérik (a bőr elektromos vezetőképességének változása stb.), amelyek az együttérzés fellépését mutatják (Arno Gruen, A normalitás tébolya, 2003, 77-79. oldal).  
