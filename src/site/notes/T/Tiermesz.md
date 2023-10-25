@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tiermesz/","title":"Tiermesz","tags":["formatted🟢"],"created":"2023-10-13T12:47","updated":"2023-10-13T12:47"}
+{"dg-publish":true,"permalink":"/T/Tiermesz/","title":"Tiermesz","tags":["dg_uploaded"],"created":"2023-10-13T12:47","updated":"2023-10-25T02:16"}
 ---
 
 
 # Tiermesz
-
-
 
 Lapp viharisten, kiről [[C/Csudaszarvas\|Csudaszarvas]], [[A/Arctic\|arctic]] címnél és külön alcímnél [[I/Íj és a nyíl\|íj és a nyíl]] címnél is volt szó. A pogány lappok viharistenének, Tiermesz-nek a mi Nagy Medvénk ([[U/Ursa Maior\|Ursa Maior]]) volt a megfeszített íja. Szegre akasztott íját, tegzét a Kis Medvével ([[U/Ursa Minor\|Ursa Minor]]) azonosította a lappok képzelete.  
 
