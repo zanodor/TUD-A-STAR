@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vezér/","title":"Vezér","tags":["formatted🟢"]}
+{"dg-publish":true,"permalink":"/V/Vezér/","title":"Vezér","tags":["dg_uploaded"],"created":"2023-10-20T01:40","updated":"2023-10-25T02:22"}
 ---
-
-
 
 
 # Vezér
