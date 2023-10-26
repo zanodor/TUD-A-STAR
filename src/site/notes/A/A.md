@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-13T01:11","updated":"2023-10-26T06:55"}
+{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-13T01:11","updated":"2023-10-26T06:58"}
 ---
 
 
@@ -106,7 +106,7 @@ A szláv nevet szintén taglaló [[A/Aszklépiosz\|Aszklépiosz]] címnél tagla
 
 [^1]: Lábjegyzet:  
 Ide is tehető:  
-A hosszú magánhangzó rövidülésével járó balanszírozott formák közül immáron ismerjük: úr – uru, út – utu, [[A/Ács\|ács]] – acsa, [[I/Íz\|íz]] – [[I/Isa\|isa]], valamint [[H/Húgy\|húgy]] – [[H/Hugya\|hugya]] párokat.  
+A hosszú magánhangzó rövidülésével járó balanszírozott formák közül immáron ismerjük: [[U/UR\|úr]] – uru, [[U/UT\|út]] – utu, [[A/Ács\|ács]] – acsa, [[I/Íz\|íz]] – [[I/Isa\|isa]], valamint [[H/Húgy\|húgy]] – [[H/Hugya\|hugya]] párokat.  
 
 [^2]: Lábjegyzet:  
 A szumer nyelvet négy magánhangzóval értelmezik, az U, A, E, I hangzókkal, mintha a többi magánhangzót nem ismerték volna rokonaink.  
