@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/P/Perro/","title":"Perro","tags":["dg_uploaded"],"created":"2023-10-26T02:46","updated":"2023-10-26T02:46"}
+{"dg-publish":true,"permalink":"/P/Perro/","title":"Perro","tags":["dg_uploaded"],"created":"2023-10-26T02:46","updated":"2023-10-26T02:48"}
 ---
-
-
 
 
 # Perro
@@ -13,7 +11,7 @@ Spanyolul [[K/Kutya\|kutya]], nőneme `perra` = szuka (nőre, szajhára is haszn
 Mivel asztrális kutyát kell benne látni, Per-Ro, Per-Ra felhontásban Nap Háza értelmű és rokon a [[B/Barát\|barát]] szavunkkal, mely szerint is tellurisan az ember legjobb, leghűségesebb barátja.  
 A kutyát (is) jelentő [[S/Saka\|saka]] név is a Fény Háza értelemmel bír. De lényegében nem dőreség [[P/Piros\|piros]] szavunkkal is rokonítani perro-t.  
 
-Jankovics Marcell Jelkép-kalendáriumában szól január 18., Piroska napja (lásd [[P/Piroska és a farkas\|Piroska és a farkas]]) kapcsán arról, hogy Kerényi Károly a görög Perszusz[^1] naphérosz nevét a `perra` = "Nap" szóból származtatja. Azt nem írják, milyen nyelven, de korábban görög eredetű nevekről volt szó. Akárhogy is, ~~ezzel~~ újfent beigazolódik, hogy a kutya Nap.  
+Jankovics Marcell Jelkép-kalendáriumában szól január 18., Piroska napja (lásd [[P/Piroska és a farkas\|Piroska és a farkas]]) kapcsán arról, hogy Kerényi Károly a görög Perszusz[^1] naphérosz nevét a `perra` = "Nap" szóból származtatja. Azt nem írják, milyen nyelven, de korábban görög eredetű nevekről volt szó. Akárhogy is, újfent beigazolódik, hogy a kutya Nap.  
 
 Hasonló szó a [[P/Perron\|perron]], melyet nagy kőnek fordítanak, fallikus kövekre értve (a kutya és hímvesszeje itt újra találkozik).  
 
