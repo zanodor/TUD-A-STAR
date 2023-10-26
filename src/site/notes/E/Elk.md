@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Elk/","title":"Elk","tags":["dg_uploaded"],"created":"2023-10-11T04:43","updated":"2023-10-25T01:15"}
+{"dg-publish":true,"permalink":"/E/Elk/","title":"Elk","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-11T04:43","updated":"2023-10-27T01:57"}
 ---
 
 
@@ -26,4 +26,7 @@ Lásd még elsősorban [[D/Deer\|deer]], [[M/Moose\|moose]], továbbá [[S/Stag\
 TZs [[I/Ilk\|ilk]] szóra is az Ilka nevünket jelölte meg, nyilván kb. ugyanolyan alapon, ahogy PJI Chichen Itza város nevében Ica nevünket (Tündér Ilona becézését) látta meg.  
 
 [^2]: Lábjegyzet:  
-A sentiment that derives from the Song of the Forest Trees: 'Of all trees whatsoever the critically best is holly.' In each stanza of the carol, with its apt chorus about 'the rising of the Sun, the running of the deer', some property of the tree is equated with the birth or passion of Jesus: the whiteness of the flower, the redness of the berry, the sharpness of the prickles, the bitterness of the bark. 'Holly' means 'holy'. Yet the holly which is native to the British Isles is unlikely to be the original tree of the alphabet: it has probably displaced the evergreen scarlet-oak with which it has much in common, including the same botanical name ilex, and which was not introduced into the British Isles until the sixteenth century. \[Folyt. lásd [[C/Crimson\|crimson]].\]  
+A sentiment that derives from the Song of the Forest Trees: 'Of all trees whatsoever the critically best is holly.' In each stanza of the carol, with its apt chorus about 'the rising of the Sun, the running of the deer', some property of the tree is equated with the birth or passion of Jesus: the whiteness of the flower, the redness of the berry, the sharpness of the prickles, the bitterness of the bark. 'Holly' means 'holy'. Yet the holly which is native to the British Isles is unlikely to be the original tree of the alphabet: it has probably displaced the evergreen scarlet-oak with which it has much in common, including the same botanical name ilex, and which was not introduced into the British Isles until the sixteenth century.  
+—  
+Ez az érzés az Erdei fák énekéből származik: "Minden fa közül a kritikailag legjobb a magyal". Az ének minden egyes strófájában, amelynek találó refrénje "a napfelkeltéről, a szarvasok futásáról" szól, a fa valamely tulajdonságát Jézus születésével vagy szenvedésével azonosítják: a virág fehérségét, a bogyó vörösességét, a tüskék éles voltát, a kéreg keserűségét. A "magyal" jelentése "szent". A brit szigeteken őshonos magyal azonban valószínűleg nem az ábécé eredeti fája: valószínűleg kiszorította az örökzöld skarlát-tölgyet, amellyel sok közös vonása van, beleértve az ilex ilex botanikai nevet is, és amely csak a XVI. században került a brit szigetekre.  
+Folyt. lásd [[C/Crimson\|crimson]].  
