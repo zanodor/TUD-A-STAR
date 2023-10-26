@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Alma Mater/","title":"Alma Mater","tags":["dg_uploaded"],"created":"2023-10-11T04:42","updated":"2023-10-26T05:37"}
+{"dg-publish":true,"permalink":"/A/Alma Mater/","title":"Alma Mater","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-11T04:42","updated":"2023-10-26T05:37"}
 ---
 
 
@@ -47,7 +47,6 @@ Az [alábbi](https://qr.ae/TZfUX1) Quora kérdésre adott angol cikkemben is fel
 > Ugyanúgy feltehetnénk a kérdést: mely alán vagy oszét szavak származnak a magyar nyelvből? Például tökéletesen értjük az [[A/Asszony\|asszony]] szavunkat, mint Ősanya (a Nap anyjára utalva, ahol az angol Fiú és Nap szavak okkal hasonlítanak egymásra), de mit szól egy alán/oszét beszélő az `achsin`-hoz? Mi a jelentés a szavak jelentése mögött? Ha az [[A/Alma\|almá]]t a törököktől vennénk, ha ezt a szót valóban ők találták volna ki, vajon ők, a kedves kölcsönvevők valaha is szükségét éreznék-e annak utánajárni, hogy a szó a gyümölcsre vagy a mögöttes szimbolikus jelentésre utal-e? A titok kulcsát csak egy magyar anyanyelvű ember agyán keresztül lehet megtalálni. És rengeteg titkot kell megfejteni.  
 > Ahhoz, hogy visszatérjünk az iráni/alán `achsin`-hez, meg kell értenünk, hogy egy bizonyos szórésznek sok szóalakja volt. Így például a magyar `Ász` (az `Ős` változata, és mint ős, szintén Isten/Istennő) rokonságban áll az `Ág` = (a világfa felső) ágával; míg az Ég = Ég, Mennyország. Az angol [[S/Sin\|sin]] = bűn magyarul `Szín` néven áll rendelkezésre, ami rokon a `sün` (süt) = ragyogni (hasonlítsa össze a német `schön` és más germán szavakat, mint a `Sun`, `Sonne`, `shien` stb.). Bár az iráni szó már nem igazán eredeti szó, amely a tesztelés során megállja a helyét, a megfelelő megközelítés alkalmazása esetén mégis megfelelően értelmezhető. A nem iráni, hanem turáni [[A/Anahita\|Anahita]] istennő alapvetően ugyanarra az Asszony ([[M/Magna Mater\|Magna Mater]]) tulajdonságra utal. Most az a kérdés, hogy mire utal valójában az Alma Mater?
 - Itt még a régebbi asszony értelmezést adtam, de azóta pontosítva lett.  
-
 És ha akartam volna, kitérhettem volna arra, hogy vajon Alma Mater fogalma mögött és [[E/Éva\|Éva]] (és [[A/Aphrodité\|Aphrodité]]) almája között lehet-e összefüggés...  
 
 ## Lábjegyzetek
