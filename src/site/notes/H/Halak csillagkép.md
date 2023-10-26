@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Halak csillagkép/","title":"Halak csillagkép","tags":["dg_uploaded"],"created":"2023-10-14T04:19","updated":"2023-10-27T01:55"}
+{"dg-publish":true,"permalink":"/H/Halak csillagkép/","title":"Halak csillagkép","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T04:19","updated":"2023-10-27T01:58"}
 ---
 
 
