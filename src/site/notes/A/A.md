@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/A/"}
+{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-13T01:11","updated":"2023-10-26T06:55"}
 ---
 
 
@@ -28,6 +28,8 @@ Hasonló eset lehet [[B/Bölcső\|bölcső]], [[T/Tüsző\|tüsző]], és hasonl
 
 Amikor [ezen](https://qr.ae/pG1gGA) John Comper féle válaszra adott David Mandic féle kommentre válaszoltam, nagyon érdekes dolog ötlött fel. Igazságtartalmát fenntartom:  
 > Archaic words are made up of one vowel, or a vowel+consonant (usually an extra 'a' or 'u' put at the end of a word for balance: Magyar ana, utu, uru, etc.). Magyar is an archaic language.  
+> —  
+> Az archaikus szavak egy magánhangzóból vagy egy magánhangzó+mássalhangzóból állnak (általában egy plusz "a" vagy "u" betű kerül a szó végére az egyensúly érdekében: Magyar ana, utu, uru stb.). A magyar egy archaikus nyelv.  
 
 Tehát egy ősszó lehet egy magánhangzó és egy mgh+msh-pár. Viszont láttuk másutt, [[U/U\|U]] címnél is, hogy különösen a hosszú mássalhangzót bíró szavakban a szókezdő mgh. rövidülésével együtt járóan a szó végére egy u hang került. Azaz megfordítva időben ősibbnek mondott a rövid magánhangzó-kezdéses utu és uru, vagy egyszerűen tájjellegű. Amit viszont a nyelvész D. Mandicnak írtam, miszerint egyensúlyba hozatalról is lehet szó, egy egész érdekes, újszerű ötlet.  
 
@@ -58,7 +60,7 @@ A fentiekkel nagyjából egyetértek és dícséret illeti MA-t az észrevétel�
 Az AN, ÁN, EN, IN, ON, UN alapszavak mind az isteniség és a menny(beliség) szavai. Ezekhez járulnak a B-P-V, H-G-K, M-N és S-SZ-T előhangok.  
 Megpróbálom egy gyors skiccel felvázolni, miről van szó, de ennél sokkal szebben és jobban ki kell majd dolgozni, mint ahogy terveztem is.  
 [[E/Eire\|Eire]] címnél pedig szöveges háttéranyag is szerepel.  
-Az előhang nélküli és előhangos állatnevek kapcsán legutóbb [[U/UR#UR szóval képzett állatnevek\|ur szóval képzett állatnevek]] cím/alcímnél is szóltunk.  
+Az előhang nélküli és előhangos állatnevek kapcsán legutóbb [[U/UR#UR szóval képzett állatnevek\|UR szóval képzett állatnevek]] cím/alcímnél is szóltunk.  
 
 ![assets/A_image1.png|undefined](/img/user/A/assets/A_image1.png)  
 
@@ -111,4 +113,6 @@ A szumer nyelvet négy magánhangzóval értelmezik, az U, A, E, I hangzókkal, 
 
 [^3]: Lábjegyzet:  
 [Ezen](https://qr.ae/pNZVWF) Quora válaszban a román író is a balkáni nyelvek azon funkciójáról szól, mely szerint a szavak végéhez csapják szintén a névelőt:  
-In Romanian, "vulturul", meaning "the vulture" is the declension of the noun "vultur", "-ul" being an enclitic definite article, equivalent to the English "the". Romanian, in addition to being a Romance language, is also part of the Balkan Sprachbund, wherein definite articles are enclitic.  
+In Romanian, `vulturul`, meaning "the vulture" is the declension of the noun "vultur", "-ul" being an enclitic definite article, equivalent to the English "the". Romanian, in addition to being a Romance language, is also part of the Balkan Sprachbund, wherein definite articles are enclitic.  
+—  
+A román nyelvben a `vulturul`, azaz "a keselyű" a "vultur" főnév deklinációja, az "-ul" pedig az angol "the" szóval egyenértékű enklitikus határozott névelő. A román nyelv, amellett, hogy román nyelv, a balkáni nyelvkészlet része is, ahol a határozott névelők enklitikusak.  
