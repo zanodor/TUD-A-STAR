@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Halak csillagkép/","title":"Halak csillagkép","tags":["dg_uploaded"],"created":"2023-10-14T04:19","updated":"2023-10-25T01:33"}
+{"dg-publish":true,"permalink":"/H/Halak csillagkép/","title":"Halak csillagkép","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T04:19","updated":"2023-10-27T01:58"}
 ---
 
 
@@ -56,7 +56,9 @@ A kilencedik századi Abu Mashar – akit Al Biruni csillagászati kérdésekben
 
 #### Richard H. Allen Star Names című könyvében tudósít róla:  
 
-> In his Revolution of Years, he wrote of the Creation as having taken place when "the seven planets" – the Sun, Moon, Mercury, Venus, Mars, Jupiter, and Saturn – were in conjunction in Aries, and foretold the destruction of the world when they should be in the same position in the last degree of Pisces.
+> In his Revolution of Years, he wrote of the Creation as having taken place when "the seven planets" – the Sun, Moon, Mercury, Venus, Mars, Jupiter, and Saturn – were in conjunction in Aries, and foretold the destruction of the world when they should be in the same position in the last degree of Pisces.  
+> —  
+> Az Évek forradalma című művében úgy ír a teremtésről, hogy az akkor történt, amikor "a hét bolygó" – a Nap, a Hold, a Merkúr, a Vénusz, a Mars, a Jupiter és a Szaturnusz – együttállásban volt a Kosban, és megjósolta a világ pusztulását, amikor ugyanebben a helyzetben lesznek a Halak utolsó fokán.  
 
 Al Biruni véleménye ide vagy oda, "Apu Magyar" jövendölése azért is tűnik helyesnek, mert a Halak a Halál szavunkkal alkot párt, így szükségszerűen, annak utolsó órájában, ha a bolygók együttállnak, valóban történnie kell valaminek.  
 
@@ -71,9 +73,13 @@ Richard H. Allen Star Names című könyvének adata szerint a Kos korszaka kb. 
 
 ...című k. második kötetének 380. oldalán hozott adata szerint az egyiptomi `Ah` = ház, anyaméh (ilyen kettős jelentéssel hozza[^3]!) szó h-ja különös jelentőségű:  
 > In Jehovah we have Khefa, with the Hebrew terminal ה, the letter out of which all came, the sign of the feminine abode, the Ah (Eg.) for house and womb.  
+> —  
+> A Jehovában van Khefa, a héber ה végződéssel, a betűvel, amelyből minden származik, a női lakóhely (ház és az anyaméh) jele, az Ah (Eg..  
 
 Aztán lábjegyzetben:  
 > The H or Heta in Coptic has the numeral value of 8, the number of Smen, the place of beginnings out of which all came.  
+> —  
+> A H vagy Heta a kopt nyelvben a 8-as számértékkel bír, a Smen száma, a kezdetek helye, ahonnan minden származik.
 
 Ennek az egyiptomi-kopt-héber betű- és számmisztikának vajon lehet-e magyar eredete? Vagy inkább hun eredete, tekintve hogy a japán `hacsi` = nyolc éppen ilyen alakú!  
 Nyilván igen (persze inkább egy kevesebb hanggal számoló hun ábécében). Vegyük elő először is az árja nyolc szám nevét, melynek acht/atta/ohto neve a – nemcsak hímségi értelmű(!) – [[A/ATA\|ATA]] névvel azonos, de GM írhatta volna, hogy az angol [[E/Eight\|eight]] kiejtése és a h "éjcs" kiejtése is egyezik.  
@@ -106,7 +112,9 @@ Ahogy másutt is kifejtettem, Carl Jung tudománya illetve annak megjelenéséne
 Vegyük észre, hogy ez a fajta halál => élet, azaz [[O/Öl\|öl]]ni/[[H/HAL\|hal]]ni kell az új élet létrejöttéhez, mindenhol érvényes. A Nagy Évben a Halak korszakban meg kell halnunk, hogy újraszülessünk. A Kis Évben a Nyilasban meg kell haljon a Nap, hogy a Bakban feltámadjon/újraszülessen. A magyar nyelv sajátja is, hogy az [[O/Öl\|öl]] egyben nemzés értelmű is (melyből lesz a szül, a "másik" Nyilasban/a Nyílásban).  
 
 JMJ könyvének 139. oldalán egy váratlan megjegyzést tesz az eddig is "gyanús" [[N/Nyolc\|nyolc]]assággal kapcsolatosan, de ezt is a megszokott módon intézi el azzal, hogy itt ismét a Tejútközponttal együtt álló Napra utalhatnak:  
-> The sacred ogdoad of the early Christian Gnostics might be the same as this occult spiritual sun, and it is said to be "**the sun behind the Sun**"-possibly meaning the Sun in alignment with the Galactic Center.  
+> The sacred ogdoad of the early Christian Gnostics might be the same as this occult spiritual sun, and it is said to be "**the sun behind the Sun**" – possibly meaning the Sun in alignment with the Galactic Center.  
+> —  
+> A korai keresztény gnosztikusok szent ogdoadja talán ugyanaz, mint ez az okkult szellemi nap, és azt mondják róla, hogy "**a Nap mögötti nap**" – ami valószínűleg a Galaktikus Középponttal együttálló Napra értendő.  
 
 A [[S/Székely-magyar rovásírás#B\|rovás b]] és (főleg) [[S/Székely-magyar rovásírás#H\|h]] betűknél említett témával folytassuk itt még.  
 [Ezen](https://www.youtube.com/watch?v=HyX4A9zqKu0) ÁKTV műsorban a rovásírást tanító Gizike 1:13:10-nél amikor azt mondja, hogy a rovás H szögletesebb formája megfelel két egymás tetejére helyezett rovás X-nek, "Eb"-nek (B régi magyaros ejtése), nagyon érdekes, tekintve, hogy a precessziós [[N/Nagy Év\|Nagy Év]]ben is a Halak-Vízöntő váltópontján van a felezés, ahogy kis évben a nyári és téli napfordulón végzi ezt a Ebcsillag Szíriusz. Tehát a [[J/Janus\|Janus]] címnél is taglalt két fél alapján értelmezhető Halak jel kettős, többes volta és az [[E/EB\|EB]] [[F/Félév\|félév]]-jelző ([[K/Kalb\|kalb]] – halb is erről tanúskodik) szerepe szépen állnak össze.  
@@ -125,6 +133,8 @@ A Halak az egyéni élet keretéül szolgáló "kis Nap-évben" jelöli az utols
 —  
 John Major Jenkins Galactic Alignment című könyvének 116. oldalán is írja, a precessziós Nagy Év végére utalóan:  
 As we shall see in chapter 16, this complication derives from using the equinox rather than the solstice to indicate each zodiacal age; thus the important solstice reference is actually three signs away. In other words, we might say "the Age of equinox in Aquarius" is equivalent to the "Age of solstice in Scorpio." Since Pisces is the twelfth and last sign of the zodiac, the end of the Age of Pisces-which is where we are now-indicates the end of an entire 26,000-year precession cycle, or manvantara in Vedic terms.  
+—  
+Amint azt a 16. fejezetben látni fogjuk, ez a bonyodalom abból adódik, hogy az egyes állatövi korszakok jelölésére a napéjegyenlőséget és nem a napfordulót használják; így a fontos napfordulós utalás valójában három jegyre van. Más szóval azt mondhatnánk, hogy "a Vízöntő napéjegyenlőségi kora" egyenértékű a "Skorpió napfordulós korával". Mivel a Halak az állatöv tizenkettedik és egyben utolsó jegye, a Halak korának vége – ahol most vagyunk – egy teljes 26 000 éves precessziós ciklus, vagy védikus kifejezéssel **manvantara** végét jelzi.  
 
 [^2]: Lábjegyzet:  
 [[T/Tavaszi évkezdés\|Tavaszi évkezdés]] címnél írottak alapján is logikus, illetve nyilván más a Kis Év és a Nagy Év, bár az is tény, hogy régen a [[T/Téli napforduló\|téli napforduló]] után kezdődött az újév. Azt kellene valahogy megtudni, vagy eldönteni, hogy egyrészt mennyire lehet MA-nak igaza arról, hogy a tavaszi évkezdés hyperboreai hagyomány (abból az időből származik, amikor a magyarok az északi sarkkörön éltek, vagyis amikor a Kárpát-medence volt az északi sarkon), másrészt hogy a magyar-maya felfogás szerint hogyan álltak a dolgok.  
