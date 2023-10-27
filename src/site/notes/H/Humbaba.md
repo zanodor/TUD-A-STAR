@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Humbaba/","title":"Humbaba","tags":["dg_uploaded"],"created":"2023-10-23T03:13","updated":"2023-10-25T01:36"}
+{"dg-publish":true,"permalink":"/H/Humbaba/","title":"Humbaba","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-23T03:13","updated":"2023-10-27T02:48"}
 ---
 
 
@@ -28,6 +28,8 @@ Robert Temple Sirius Mystery könyve 110. oldalán szól arról, hogy a Humbaba-
 Az [alábbi](https://qr.ae/pNr3PT) Quora oldalon is leírtam válaszomban, hogy a Gilgames eposzban olvasható cédrus [[E/Erdő\|erdő]] az Istennő [[V/Vulva\|vulvá]]ját jelképezi (az eredő helye, hogy a fa a nimfa/tündér, aki [[B/Baba\|baba]] is lehet, és hogy a szavak átvezetnek más nyelvekbe, de leginkább azt kell látni, hogy az első mesék, mítoszok magyar nyelvűek voltak). Humbabára is kitértem, arra, hogy a [[W/Womb\|womb]] eredete mi lehet.  
 Az tény, hogy a baba szerepel a névben és a [[W/Womb\|womb]] = méh is hasonló, sőt, azonosnak látszó szó, RHA Star Names című könyvének 48. oldalának adatára alapozva:  
 > On the Ganges, as in China, Acquarius began the circle of the zodiacal signs; and Al Biruni said that at one time in India it was Khumba[^2], or Kumbaba, which recalls the Elamite divinity of that name, the Κόμβη, or Storm God, of Hesychios. This, too, was the Tamil title for it; La Lande writing it Coumbum.  
+> —  
+> A Gangesznél, akárcsak Kínában, a Vízöntő kezdte az állatövi jegyek körét; és Al Biruni szerint Indiában egykor Khumba vagy Kumbaba volt a neve, ami az ilyen nevű elámi istenségre, vagy Hesychios Viharistenére, Κόμβη-ra emlékeztet. Ez volt a tamil elnevezése is; La Lande Coumbumnak írja.  
 
 Márpedig a Vízöntő két világhónappal ezelőtt a [[T/Téli napforduló\|téli napforduló]] csillagképe volt. Erről volt szó [[V/Vízöntő csillagkép\|Vízöntő csillagkép]] címnél is Krishna halála kapcsán.  
 [[V/Vízöntő paradoxon\|Vízöntő paradoxon]] címnél a paradoxonról szintén tudó Bakos Attila A Duna Evangéliuma című könyvének 100. oldalán Gilgames és Enkidu Humbaba elleni harcáról pedig azt írja, hogy átlépünk a ([[H/Halak korszak\|Halak korszak]]nak megfelelő) [[K/Kali Yuga\|Kali yugá]]ból az új korba.  
@@ -62,4 +64,12 @@ In Hindu mythology and scriptures, several references are found of **human being
 In several religious ceremonies and rituals, kumbhas or kalashas filled with water and leaves and decorated with intricate motifs, sometimes with ornaments, play an important role in ancient India. These rituals still survive in India.  
 In Hindu astrology, the kumbha stands for the zodiac sign Aquarius and is ruled by 2 important planets (Saturn and Rahu). Kumbha is also associated with the Kumbh Mela, which happens when the planet Brihaspati moves into Aquarius.  
 In Hindu epic [[R/Ramayana\|Ramayana]], Ravana's brother Kumbhakarna had a son named Kumbha, who was killed by Sugriva.  
-In the Hindu religion, Kumbha referred to one of the Surname of Schedule tribe Community named Yerukala in Andhra Pradesh.  
+In the Hindu religion, Kumbha referred to one of the Surname of Schedule tribe Community named Yerukala in Andhra Pradesh.
+—  
+A hindu, dzsainista és buddhista mitológiában **a kumbha az anyaméhet szimbolizálja**. A termékenységet, az életet, az emberi nemzőerőt és a táplálékszerzést jelképezi, és általában a devikhez, különösen a [[G/Ganga\|Gangá]]hoz társítják.
+A hindu mitológia szerint az első kumbhát Prajapati hozta létre Siva házassága alkalmával, így ő volt az első kumbhara "fazekas". Egy másik mítosz szerint az első fazekat Vishvakarman alkotta az óceán kavargása alkalmával az első Amrit Sancharhoz.  
+A hindu mitológiában és szentírásokban számos utalás található **a kumbhából született emberi lényekre**. Egy legenda szerint a rishi Agastya egy kumbhából született.  
+Számos vallási szertartásban és rituáléban fontos szerepet játszottak az ősi Indiában a vízzel és levelekkel töltött, bonyolult motívumokkal, néha díszekkel díszített kumbhák vagy kalasák. Ezek a rituálék még ma is élnek Indiában.  
+A hindu asztrológiában a kumbha a Vízöntő állatövi jegyet jelöli, amelyet 2 fontos bolygó (Szaturnusz és Rahu) ural. A Kumbha a Kumbh Melához is kapcsolódik, amely akkor történik, amikor a Brihaspati bolygó a Vízöntőbe lép.  
+A hindu eposzban, a [[R/Ramayana\|Rámáyaná]]ban Rávana testvérének, Kumbhakarnának volt egy Kumbha nevű fia, akit Sugriva megölt.  
+A hindu vallásban a Kumbha az Andhra Pradeshban élő Yerukala nevű törzsközösség egyik vezetéknevére utalt.  
