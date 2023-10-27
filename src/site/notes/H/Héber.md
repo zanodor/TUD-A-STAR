@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2023-10-27T02:18"}
+{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2023-10-27T02:30"}
 ---
 
 
@@ -125,7 +125,8 @@ Természetesen az átjárás a Nap négy fordulópontjára utalva keresztez igé
 És még mindig a kutyánál, Szíriusznál maradunk akkor, ha a téli napfordulós együttállásra gondolunk. [[H/Hibernate\|Hibernate]] címnél frissen írottakat lásd.  
 
 És még mindig a témánál maradunk amikor a Czuczor-Fogarasi szótár majom címénél írott sorokból akarjuk kihámozni a lényeget (mármint hogy a téridőbeli helyre vonatkozó eredet ismét lehetséges):  
-> A majom latinul `Simia`, valószinüleg a `simus` (lapított, sima) szótól, minthogy feltünő tulajdonsága a lapított, sima orr ("dicuntur autem simiae a naribus simis hoc est depressis." Fabri Thesaurus); de lehet a `similis`, `simulo` szókkal azonegy gyökü is. Németül: `Affe`, mely rokon gyökünek látszik a mást, ismétlést és utánzást jelentő **Aber** és [[A/After\|after]] szókkal, mintha a német utánzó tulajdonságáról nevezte volna el, mely ez állatban igen jellemzetes.  
+> A majom latinul `Simia`, valószinüleg a `simus` (lapított, sima) szótól, minthogy feltünő tulajdonsága a lapított, sima orr ("dicuntur autem simiae a naribus simis hoc est depressis." Fabri Thesaurus); de lehet a `similis`, `simulo` szókkal azonegy gyökü is. Németül: `Affe`, mely rokon gyökünek látszik a mást, ismétlést és utánzást jelentő **Aber** és [[A/After\|after]] szókkal, mintha a német utánzó tulajdonságáról nevezte volna el, mely ez állatban igen jellemzetes; vagy talán fogalmi viszonyban áll a szájtátást jelentő `gaffen` (régi felső német `chapfen`) igével, mert a majom igen szereti száját vonogatni és nyitogatni. Úgy látszik, a magyar ezen tulajdonságot vette tekintetbe a majom elnevezésénél, mert gyöke egy a rágicsálást, szájmozgatást jelentő majzol és máhol igék mah gyökével, minél fogva majom annyi volna, mint mahó (máskép mohó), mahov, mahom, majom, azaz maholó, majzoló állat.  { #vkg4sh}
+
 - Az Affe az [[A/Ape\|ape]] párja inkább.  
 
 A [[M/Más\|más]] az Eb-Úr/Éber téridőbeli helye. [[A/After\|After]] címhez is betéve, ahol másról is szó esett.  
