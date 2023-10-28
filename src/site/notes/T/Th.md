@@ -1,14 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/T/Th/","title":"Th","tags":["dg_uploaded"],"created":"2023-10-21T04:27","updated":"2023-10-25T02:16"}
+{"dg-publish":true,"permalink":"/T/Th/","title":"Th","tags":["dg_uploaded"],"created":"2023-10-21T04:27","updated":"2023-10-28T08:06"}
 ---
 
 
 # Th
 
 Angol, arab és spanyol nyelvben Sz és T között álló hang, mely angolban zöngés (például that) és zöngétlen (például mouth) formát is felvehet. Mondhatjuk az északi germán eth (ð) és thorn (þ) változataiként is.  
-![assets/Th_image1.png|undefined](/img/user/T/assets/Th_image1.png)  
+![assets/Th_image1.png](/img/user/T/assets/Th_image1.png)  
  
 Például [[M/Mithra\|Mithra]] nevében is ez a hang lehetett meg, hiszen a kiinduló [[M/MISZ\|MISZ]] változik Mith-re.  
+- Azt jegyezzük meg, hogy Mithra nevét immáron Mhir < [[M/Mger\|Mger]] < [[M/Magor\|Magor]] nevéből ill. fejlődési sorozattal is levezettük.  
+
 A [[M/Mithra\|Mithra]] címnél taglalt arab `miḏhra` = vasvilla szóban (a szót mithrā-ként ejti ki az arab gépi hang, mint az angol that, nem a mouth th-ját). Ezek szerint th az arabban is megvan és a spanyol talán tőlük vette át.  
 Egy másik példa a ثَنيّة (`ṯaniyya`) = út.  
 

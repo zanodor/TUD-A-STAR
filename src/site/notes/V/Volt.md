@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Volt/","title":"Volt","tags":["dg_uploaded"],"created":"2023-10-08T01:51","updated":"2023-10-25T02:23"}
+{"dg-publish":true,"permalink":"/V/Volt/","title":"Volt","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-08T01:51","updated":"2023-10-28T08:47"}
 ---
 
 
@@ -24,3 +24,14 @@ Are the Latin and Germanic words expressing volition and future tenses connected
 See also, for example, `habere`, `haben` are used for possession and present/past perfect. But in order to be in a state of possession or have done something, you must have come into the possession or state of having done something. Hungarian `kap` = come in possession of, receive. Is it a coincidence? Although I am sure we never used a variation of `kap` for any of these tenses; we used `volt` and `vala`.  
 The suffixal future forms of Old Hungarian (`-and`, `-end`) crop up in present continuous tenses, e.g. in Spanish “Estoy trabajando.” = "I am working". How come? Is it somewhere in Latin as well?  
 And of course, as always, history — properly told — will give the answers on just what kind of people are living in Europe. Science, as long as it is a servant of those running the show called usury civilization, “will not want” to “come in possession” of truth and reality. Science is a “had-been” or a “have be going to.”  
+—  
+*Léteznek-e az angol "have be going to" vagy "will have been gone" kifejezéshez hasonló összetett szerkezetek a finn, észt, magyar és török nyelvben? Miért és miért nem? Hogyan fejezik ki?*
+A "Have be going to" helytelen angol kifejezés.  
+A "Will have been gone" szintén alig használatos az angolban. Ezek eléggé hiányos esetek.
+Ami a magyart illeti, a nyelvnek sokkal több esete volt, beleértve a jövő időt is (`jövend` = jönni fog; vö. `jövendő` = jövő (költői, formális); `jövő` = jövő (normál használat)), de a magyarellenes erők (Vatikán/katolicizmus, legfőképpen a jezsuiták, majd a Habsburg uralom) sokat ártottak a nyelvnek.
+Ha alaposan megnézzük a magyar nyelv régi alakjait (`volt`, `vala` az egyszerű múlt és/vagy a befejezett múlt idő képzésére), és azt, hogy a latin és a germán (latin alapú) nyelvek grammatikai- szintaktikai felépülése hogyan fest, akkor azt mondhatjuk, hogy ezek egy olyan nyelven alakulhattak ki, amely könnyen lehetett volna maga a magyar is.  
+Vajon a latin és germán akaratot és jövő időt kifejező szavak kapcsolatban állnak a mi `volt` és `vala` szavainkkal, azon a tényen alapulva, hogy az idő körforgásában a múltból jövő lesz (ami körbeér, az körbeér)?
+(A `volt` egyébként egyenlő a `múlt` = múlt, ha esetleg a magyarok kíváncsiak lennének rá. Valójában ezek a szavak rokonok a `vált` = változás; fordulat igével is.)  
+Lásd még például a `habere`, `haben` birtoklásra és perfekt jelen/múltra használatos. De ahhoz, hogy birtokosává váljunk valaminek vagy valamit megtehessünk, azt előbb birtokba kell kerítenünk vagy a "valami megtevésének állapotába" kell kerülnünk. A magyar `kap` = birtokba kerít, kap. Ez véletlen egybeesés? Bár biztos vagyok benne, hogy mi soha nem használtuk a `kap` szót egyik igeidőre sem, a `volt` és a `vala` változataként; mi ezeket használtuk.
+Az ómagyar szuffixális jövő idejű alakjai (`-and`, `-end`) felbukkannak a jelen idejű folyamatos időkben, pl. a spanyolban "Estoy trabajando". = "Dolgozom". Hogyhogy? Megvan valahol a latinban is?
+És persze, mint mindig, a történelem – megfelelően elbeszélve – választ ad arra, hogy milyen emberek élnek Európában. A tudomány, amíg azoknak a szolgája, akik az uzsorás civilizációnak nevezett show-t vezetik, "nem akar" az igazság és a valóság "birtokába jutni". A tudomány egy "letűnt volt" vagy egy "lesz, ami lesz".  
