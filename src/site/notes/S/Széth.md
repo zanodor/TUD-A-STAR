@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/S/Széth/"}
+{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["dg_uploaded"],"created":"2023-10-16T01:30","updated":"2023-10-28T03:57"}
 ---
 
 
 # Széth
 
-Fontos egyiptomi mitológiai alak, ki egyfelől testvérének, Ozirisznek, és – a Hamlet Malma című könyv írói által sokat taglalt – unokaöccsének, [[H/Hórusz\|Hórusz]]nak ellenlábasa. Alakjáról bevezetésként lásd Jankovics Marcell írását és Robert Graves adatát [[S/Szamár\|szamár]], továbbá, szintén JM írásokkal kiegészített [[O/Osiris és Set\|Osiris és Set]] címet. [[A/Apep\|Apep]] címnél is szóba került.  
+Fontos egyiptomi mitológiai alak, ki egyfelől testvérének, Ozirisznek, és – a Hamlet Malma című könyv írói által sokat taglalt – unokaöccsének, [[H/Hórusz\|Hórusz]]nak ellenlábasa. Alakjáról bevezetésként lásd Jankovics Marcell írását és Robert Graves adatát [[S/Szamár\|szamár]], továbbá, szintén Jankovics Marcell írásokkal kiegészített [[O/Osiris és Set\|Osiris és Set]] címet. [[A/Apep\|Apep]] címnél is szóba került.  
 Kevés olyan alak van, akit vagy 5-6 vagy még több csillagászati formával, égitesttel, csillagképpel is azonosítottak. Ez is mutatja, hogy rendkívül bonyolulttá vált az ősi tudás követése.  
 Az [alábbi](https://youtu.be/umyX-ZHVKgA) ÁKTV műsorban 1:29:25-nél KT azt mondja, hogy a zsidóknak volt Adonai-uk, Elohim-jük és Széth-jük, tehát különböző sátáni személyekből választották ki Jahvét. Nos, valójában ez egy leegyszerűsítése a dolgoknak; gondoljunk csak [[S/Szutek\|Szutek]]ra és [[E/El Shaddai\|El Shaddai]]-ra.  
 
@@ -19,19 +19,23 @@ A könyv 279. oldalán is érdekes dolgokat ír. Például:
 > A zavaros állapotok után Séth az új rendet szolgálta. Tudomásul vette, hogy a világegyetem szabályozadan erői lettek az urak. A mozgásba jött új renddel a létezés követelményeiből eredően segítette fönntartani[^1] azt. Az Oziris fesztiválokon ezek után Séth volt a hajón a kapitány, amely vitte Oziris képmását végig a Níluson. Vitte a Napot, az éjszaka vizes mélységein keresztül.  
 
 A mellékelt kép(en, ahol **Sít** nevűnek adatolt) Archibald Henry Sayce, Gaston Maspero – The Dawn of Civilization – Egypt and Chaldæa című könyvük 133. oldaláról való.  
-![assets/Széth_image1.png|undefined](/img/user/S/assets/Sz%C3%A9th_image1.png)  
+![assets/Széth_image1.png](/img/user/S/assets/Sz%C3%A9th_image1.png)  
 
 Egy bazaltfaragáson nejével, [[N/Nephthys\|Nephthys]]-szel látjuk hasonló fejformával.  
-![assets/Széth_image2.jpeg|undefined](/img/user/S/assets/Sz%C3%A9th_image2.jpeg)  
+![assets/Széth_image2.jpeg](/img/user/S/assets/Sz%C3%A9th_image2.jpeg)  
 Edward P. Butler igen profin összeállított (Wikipédiánál sokkal részletesebb, gazdagabb adatokkal szolgáló) [oldalán](https://henadology.wordpress.com/theology/netjeru/) [[E/Egyiptom istenei\|Egyiptom istenei]]ről közöl adatokat. Az [alábbi](https://henadology.wordpress.com/theology/netjeru/anat/) oldalon Széth kapcsán azt írja, hogy fiának neve [[M/Maga\|Maga]] és krokodilként ábrázolták. (A [[M/MAG\|mag]] (gyök) sok nyelvben fiú jelentésű; gondolom itt nem a [[M/Magor\|Magor]] nevet kell keresni azért.)  
 Butler minden, különösen Széth-tel kapcsolatos adata fontos lehet.  
 
-Egyre inkább úgy tűnik, hogy kezdetben vagy régebben (még a poláris korszakban) nem volt ismert Ozirisz és Hórusz személye, és Széth olyanféle név volt, amely önmagában is tárolni tudta a fényes ([[S/Süt\|süt]]) és fényhiányos ([[S/Söt\|söt]]) minőséget. Csak azért, mert lemegy a Nap, még nem hívom máshogy, csak mert tudom, hogy nem látható. Maximum halott Napnak hívom. Mai fejjel.  
+Úgy tűnik, hogy kezdetben vagy régebben (még a poláris korszakban) nem volt ismert Ozirisz és Hórusz személye, és Széth olyanféle név volt, amely önmagában is tárolni tudta a fényes ([[S/Süt\|süt]]) és fényhiányos ([[S/Söt\|söt]]) minőséget. Csak azért, mert lemegy a Nap, még nem hívom máshogy, csak mert tudom, hogy nem látható. Maximum költőien halott Napnak hívom. Mai fejjel.  
 Robert Graves The White Goddess című könyvében is írja, hogy Széth – a Clementine syncretic theory szerint – [[J/Jézus\|Jézus]] korábbi inkarnációja volt. Valójában nem a Nap, csak Nap kis éves téridőbeli helye Orion-Szíriuszban, teszem én hozzá.  
 > Gwion is hinting that Eve, whom he identifies with [[R/Rhea\|Rhea]], brought forth thirty children in all – and then the Divine Child Seth. Thirty doubtless because the 'reign of Saturn' lasted thirty days and culminated with the mid-winter feast which afterwards became Yule, or Christmas.  
+> —  
+> Gwion arra utal, hogy Éva, akit ő [[R/Rhea\|Rhea]]-val azonosít, összesen harminc gyermeket szült – majd az Isteni Gyermeket, Seth-et. Harmincat kétségtelenül azért, mert a "Szaturnusz uralma" harminc napig tartott, és a tél közepén tartott ünneppel tetőzött, amely később Yule, azaz Karácsony lett.  
 
 Másutt Napistennek mondja ismét:  
 > Set, the Egyptian Sun-god, disguised as a boar, kills Osiris of the ivy, the lover of the Goddess Isis.  
+> —  
+> Set, az egyiptomi napisten vadkannak álcázva megöli a borostyánból származó Oziriszt, Ízisz istennő szeretőjét.  
 
 [[S/Szutek\|Szutek]] címnél is az állt, hogy a keta-egyiptomi napisten Széthtel azonos lehetett (valójában a süt <> set/söt ellenpárt inkább láttatja). JM is írja:  
 > Széth a forró júniusban **vette át fivérétől a hatalmat**, az ő uralmának kezdetét jelezte a hónap csillagképében, a Rákban lévő két [[S/Szamár\|szamár]] csillag. Idővel a két isten megítélésének dialektikus egyensúlya felborult, Ozirisz és fia, [[H/Hórusz\|Hórusz]] javára, Széth mint testvérgyilkos egyre ördögibb alakot öltött. Ennek történelmi oka is van. Amikor a [[H/Hykszosz\|hykszosz]]ok meghódították Egyiptomot (i.e. XVIII.sz.), Kisázsiából és Palesztinából egy szamáristen kultuszát hozták magukkal, akit Egyiptomban Szethtel azonosítottak. Ettől kezdve Szeth az ország ellenségeinek istene lett. (E palesztinai szamárkultusznak tulajdonítható, hogy jóval később a rómaiak a zsidókat és keresztényeket azzal csúfolták, hogy istenüknek szamárfeje van. Vö. a bibliai Sét nevével.)  
@@ -39,12 +43,14 @@ Másutt Napistennek mondja ismét:
 
 Egyébiránt Széth az [alábbi](https://www.ancient.eu/Set_(Egyptian_God)/) oldalon is úgy jön elő, hogy [[S/Szutek\|Szutek]] néven is ismerték, ergo ez a másneve (érdekes még hogy [[T/Taweret\|Taweret]], nemcsak [[N/Nephthys\|Nephthys]] lenne a neje):  
 > Set, also known as Seth and Suetekh, was the Egyptian god of war, chaos and storms, brother of Osiris, Isis, and Horus the Elder, uncle to Horus the Younger, and brother-husband to Nephthys. His other consort was the goddess Tawaret.  
+> —  
+> Set, más néven Seth és [[S/Szutek\|Szutek]], a háború, a káosz és a viharok egyiptomi istene, Ozirisz, Ízisz és az idősebb Hórusz testvére, az ifjabb Hórusz nagybátyja és Nephthisz testvér-férje. Másik hitvese Tawaret istennő volt.  
 - Másutt [[S/Satet\|Satet]] is a neje, de ne feledkezzünk meg [[I/Ízisz\|Ízisz]] testvérhúgáról sem.  
 
 Széth Napistenként kezelése tehát leginkább úgy képzelhető el, hogy ő a Hunor-hoz hasonló sötét (öreg) Napisten. Hunor és Széth Szíriusszal való kapcsolata miatt alakulnak ki más aspektusai.  
 
 Magyar Adorján Ősműveltség című könyvének (a PDF) 1725. oldalán mint Földisten jön elő, mondhatjuk forrásai nyomán tévesen, hiszen [[N/Nut\|Nut]] alatt [[G/Geb\|Geb]] kell legyen. Lásd a csatolt képen.  
-![assets/Széth_image3.png|undefined](/img/user/S/assets/Sz%C3%A9th_image3.png)  
+![assets/Széth_image3.png](/img/user/S/assets/Sz%C3%A9th_image3.png)  
 
 De úgy tűnik másutt is áll ez a felfogás. BL írja:  
 > Az egyiptomiak, akárcsak őseink, a világot dualisztikusan (kettős osztályozással) értelmezték (Ég-Föld, Hórusz-Szét, Észak-Dél, két ország, két part, stb.).  
@@ -75,9 +81,11 @@ Ezek alapján (és a bibliai [[E/El Shaddai\|El Shaddai]] névvel való azonoss�
 Persze hogy mi minősül "eredeti" istennek, ezzel csínján kell bánni, mert a végén ráfogják, hogy az eredeti tanítások náluk vannak. A Széth féle eredetiség a sátán istennő által képviselt szűzállapotra és csillagvallási időkre utal. Évköri értelmezésben Széth már a káosz erőit testesíti meg, ahogy Huszárik László Denderai csillagképek, hónapok és mítoszok c. a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXXIII./10. sz. megjelent cikkében is írja[^2]:  
 > A(z egyiptomi részről látható) hasonlóságok felvetik a (babiloni) ráhatás lehetőségét, a csillag elnevezések emlékeztetnek Gilgames történetre, de az egyiptomiak saját történetüket teremtették meg. Ábrázolásaik azt mutatják az égbolton, amit a földön szerettek volna látni. Széth káosz erőinek megfékezését üzenik, Ozirisz szeretet isten és követői segítségével.  
 
-![assets/Széth_image5.png|undefined](/img/user/S/assets/Sz%C3%A9th_image5.png)  
+![assets/Széth_image5.png](/img/user/S/assets/Sz%C3%A9th_image5.png)  
 A mellékelt Széth állatjelét ábrázoló képekhez tartozó info:  
 > In ancient Egyptian art, the Set animal, or sha, is the totemic animal of the god Set. Because Set was identified with the Greek Typhon, the animal is also commonly known as the Typhonian animal or Typhonic beast.  
+> —  
+> Az ókori egyiptomi művészetben a Set állat, vagy sha, Set isten totemállata. Mivel Setet a görög Tüphonnal azonosították, az állatot általában Tüphón- vagy tüphóni állatnak is nevezik.  
 
 Ezen Sha lehet [[S/SA\|SA]], [[S/SZA\|SZA]] is és fény ill. száj az alapjelentése, csak úgy, mint a sakál-[[J/Jackal\|jackal]] előrészének és kutya szavunk [[K/KU\|KU]] elemének.  
 
@@ -87,19 +95,24 @@ A Széth név és a kutya kapcsán talán érdemes itt elmondani, hogy [[C/Csill
 1\. Sokatmondó a mindig álló farok két ágra ágazása:  
 > The sha is usually depicted as a slender canid[^3], resembling a greyhound or a jackal, with three distinguishing features: a stiff tail, often forked at the end, which stands straight up or at an angle, whether the animal is sitting, standing, or walking; its ears, also held erect, are usually depicted as squarish or triangular, narrowest at the base and widest at the squarish tops; and a long nose, often with a slight downward curve. It is normally depicted as black, but may also have been reddish.  
 > Depictions of the Set animal as an animal appear distinctly canine, but the precise identity of the animal has never been firmly established. It is sometimes described as a jackal or some other wild dog, although the jackal is usually identified with the god Anubis. In connection with Anubis, the jackal is never depicted with the distinguishing features of the Set animal: the stiff, often forked tail; the squared ears; and the long, slightly curved nose. It is conceivable that these features were added to representations of the jackal solely in order to distinguish Set from Anubis. Early representations of the Set animal frequently omit the fork at the end of the tail, or show it with something resembling a tuft instead, so the idea of the forked tail may have been symbolic.  
+> —  
+> A sha-t általában karcsú, agárra vagy sakálra emlékeztető kutyaként ábrázolják, három jellegzetes vonással: merev, gyakran villás farok, amely akár ül, akár áll, akár sétál, a farka egyenesen vagy ferdén áll; a füle, amelyet szintén felállítva tartanak, általában négyzet vagy háromszög alakú, a tövénél keskenyebb, a szögletes csúcsánál szélesebb; és hosszú, gyakran enyhén lefelé görbülő orr. Általában feketének ábrázolják, de lehetett vöröses is.  
+> A Set állatként ábrázolt állatok ábrázolásai egyértelműen kutyafélének tűnnek, de az állat pontos azonosságát soha nem sikerült egyértelműen megállapítani. Néha sakálként vagy más vadkutyaként írják le, bár a sakált általában Anubisz istennel azonosítják. Anubisszal kapcsolatban a sakált soha nem ábrázolják a Set állat megkülönböztető jegyeivel: a merev, gyakran villás farokkal, a szögletes fülekkel és a hosszú, enyhén ívelt orral. Elképzelhető, hogy a sakál ábrázolásához ezeket a vonásokat kizárólag azért adták hozzá, hogy megkülönböztessék Setet Anubisztól. A Set állat korai ábrázolásain gyakran hiányzik a farok végén lévő villa, vagy helyette valami tincsre hasonlítót ábrázolnak, így a villás farok ötlete szimbolikus lehetett.  
 - A JMJ Galactic Alignment c. könyvének 206. oldalán is említett Tejút két [[V/Villa\|villá]]ra való ágazását (bifurcation) jelölheti a Nyilastól északra. Nyilvánvaló, hogy a Széth-kutya égi jelkép. Lásd még az elágazásról bővebben [[S/Sziget\|sziget]]. <br/>
 Ami hegyes füleit illeti, [[E/Éber\|éber]] és [[E/Ear\|ear]] címnél már taglaltuk a témát. Ami ide tehető:  
 Arról már volt szó, hogy az [[E/Éber\|éber]], figyelmes kutyának felfelé állnak a fülei (hegyezi őket). Ilyenkor a fülek kis szarvakat ("kozmikus adóvevőket") jelképeznek és ezt igen érdekesnek gondolták jelképekben gondolkodó őseink. Nem tartom elképzelhetetlennek, hogyha az Éb-Er összefüggés utótagja ilyenképpen a (kimondottan a felfelé álló[^4]) füleknek nevét adja, honnan a germán [[E/Ear\|ear]].  
 
-2\. A sha determináns a Tejútanya [[N/Nut\|Nut]]-hez is kapcsolt:  
+2\. A sha determináns a Tejútanya [[N/Nut\|Nut]]-hoz is kapcsolt:  
 > The sha was also used as a determinative in the names of Set and the goddess Nut, who may be identified with [[N/Nephthys\|Nephthys]], the wife of Set.  
+> —  
+> A sha egy determinizmus Set és Nut istennő nevében is, aki azonosítható [[N/Nephthys\|Nephthys]]-szel, Set feleségével.  
 
 
 De ha már itt tartunk, a Szíriusz [[S/Sothis\|Sothis]] nevénél (és immáron külön is) taglalt [[S/Satet\|Satet]] istennő nevében is megvan Sa. (Nem ez a lényeg, hanem, hogy Széth elválasztó, pontosabban **évet szétválasztó: szít és setét** kettős mivoltára mutat rá.)  
 
 Mindezen fentiek alapján is érthetetlen, hogy az [[O/Orion övcsillagai\|Orion övcsillagai]]nál szereplő Bauval/Hancock kettős által felvázolt képen miért azonosítják Széthet a Lepus (Nyúl) csillagképpel. (Az igaz, hogy az [[A/Agár\|agár]] és a [[H/Hare\|hare]] erdete is lehet egy, akár, vagy hasonló.)  
 
-![assets/Széth_image6.png|undefined](/img/user/S/assets/Sz%C3%A9th_image6.png)  
+![assets/Széth_image6.png](/img/user/S/assets/Sz%C3%A9th_image6.png)  
 Nevének értelmét a [[S/SZET\|SZET]], setét, [[S/Sátán\|Sátán]] nevekkel feleltettük meg, hiszen ő az egyik erő az [[E/Ellentétek harca\|ellentétek harcá]]ban (lásd legutóbb [[E/Ellen\|ellen]] címnél írottakat is), az [[I/Istenek háborúi\|istenek háborúi]]ban, azaz a [[S/Szét és össze\|szét és össze]] címnél írottak alapján Széth képviselheti a [[S/Szét\|szét]], Ozirisz az [[O/Össze\|össze]] fogalmát. De a mellékelt táblázatba foglalt PJI adat szerint szét a [[T/Tesz\|tesz]] szavunk megfordításaként, ellentettjeként is felfogható, illetve azt se feledjük, hogy [[S/SZET\|SZET]] = kezdet, márpedig minden földi élet a [[K/Kutyanemzés\|kutyanemzés]]sel kezdődött.  
 
 A SZET = kezdet tehát nem más, mint [[S/Szít\|szít]], mely (egyfelől) nemzés (másfelől széthúzás) értelmével ugyanaz, mint az a Szűz, melyről [[S/Szűz csillagkép#Szűz és Sátán\|szűz és Sátán]] cím/alcímnél úgy írtunk, hogy ezen Sátán és Szűz minőségek megfeleltethetők egymásnak. Ezáltal megfelelnek Széth-nek is (nemcsak Szíriusz [[A/Androgün\|androgün]]itását figyelembevéve, hanem azt is, hogy a Széth-jelképállatok közül a [[K/Kutya\|kutya]] és [[S/Szamár\|szamár]] is termékenység-jelkép).
@@ -111,7 +124,7 @@ Lásd még [[F/FU\|FU]], [[D/Dévák és Aszúrák\|Dévák és Aszúrák]], [[A
 
 A fentebb álló Fáy Elek féle adat a setétségről és a német Brugsch által adatolt Setat név is a [[S/Satet\|Satet]] címnél írottak alapján érthető meg még. Azon címnél legalul végkövetkeztetésként írtuk, hogy a Satet név tulajdonképpen bizonyságot ad [[S/Széth\|Széth]] sötét[^5] és szíriuszi karakterére (a [[S/Sothis\|Sothis]] név, bár az indo-európai kutatók számára hasonló név, mégsem azonos vele és inkább a pozitív aspektusára utal Szíriusznak). Afféle rámutatásnak tűnik ez, mint a [[M/Magyar\|magyar]] címnél álló adat, miszerint (egy thebai monda szerint) [[H/Herkules\|Herkules]] neje Megara nevezetű volt (ezzel utalnak Herkules és [[M/Magor\|Magor]] azonosságára), vagy hogy a trójai Helene apja neve Tünderaosz, mely együtt rámutat, hogy a nőalakban Tündér Ilonát kell látni.  
 
-![assets/Széth_image7.jpeg|undefined](/img/user/S/assets/Sz%C3%A9th_image7.jpeg)  
+![assets/Széth_image7.jpeg](/img/user/S/assets/Sz%C3%A9th_image7.jpeg)  
 Sokatmondó, hogy fejét [[S/Szamár\|szamár]]- és kutyaábrázolással jelenítik meg (lásd képet is [[K/Kutya\|kutya]] és [[K/Kutyafejű\|kutyafejű]]; de ide is csatoltam[^6]), viszont ilyenformán éppen, hogy nem szabadna negatív alaknak lennie (eredetileg nem is volt).  
 A [[S/Szamár\|szamár]] mellett a [[V/Vadkan\|vadkan]] még az, mely vele kapcsolatba hozatott és tudjuk, hogy a [[K/Kutya\|kutya]] és a [[D/Disznó\|disznó]] milyen negatív megítélésű, tisztátalannak tartott állatok voltak egyes kultúrákban:  
 
@@ -136,12 +149,15 @@ Ezen a ponton pedig jusson eszünkbe (fentebb lábjegyzetben szerepelt is), hogy
 Kenneth Grant The Magical Revival című Aleister Crowley anyagát feldolgozó könyvének kimondottan a harmadik fejezetében többször is szó esik Széth [[S/Szíriusz\|Szíriussz]]al való azonosításáról:  
 > Crowley identified the heart of the Thelemic current with one particular Star. In Occult Tradition, this is "the Sun behind the Sun", the Hidden God[^8], the vast star Sirius, or Sothis, which opened the zodiacal year of 365 days as well as the Great Year of approximately 26000 years.  
 > "Our Sun was thrown off from another Sun, around which it revolves, taking 25,827 years to perform its cycle of One Year" – the Great Year of the Egyptians.  
->
 > According to Herodotus (Bk. II, 58), the Egyptians celebrated the annual return of this Star, or God, with obscene rites characterized by bestial copulation. Thus, the Dog-Star. Crowley knew that no rite of antiquity was without a magical purpose.  
->
 > Set is the initiator, the Opener of man's consciousness to the rays of the Undying God typified by Sirius – the Sun in the South – even as he is, astronomically speaking the opener of the zodiacal year and the Great Cycle of 1460 years.  
->
-> (Crowley insists that "devil" was a god, the god Set, Shaitan, or Satan, degraded to the status of a demon by later cults in exactly the same way that the Polar Light (Nut) – the Dragon of the Seven Stars, became the Evil Mother, the primordial Witch-Woman, goddess of the night and of dark infernal rites.)
+> (Crowley insists that "devil" was a god, the god Set, Shaitan, or Satan, degraded to the status of a demon by later cults in exactly the same way that the Polar Light (Nut) – the Dragon of the Seven Stars, became the Evil Mother, the primordial Witch-Woman, goddess of the night and of dark infernal rites.)  
+> —  
+> Crowley a thelemikus áramlat szívét egy bizonyos Csillaggal azonosította. Az okkult hagyományban ez "a Nap a Nap mögött", a Rejtett Isten[^8], a hatalmas csillag, a Szíriusz vagy Szothisz, amely megnyitotta a 365 napos állatövi évet, valamint a körülbelül 26000 éves Nagy Évet.  
+> "A mi Napunk egy másik Napból lett kilökve, amely körül kering, és 25827 évbe telik, hogy elvégezze az Egy Év ciklusát" – az egyiptomiak [[N/Nagy Év\|Nagy Év]]ét.  
+> Hérodotosz szerint (Bk. II, 58) az egyiptomiak ennek a csillagnak, vagy istennek az éves visszatérését obszcén rítusokkal ünnepelték, melyeket bestiális közösülés jellemzett. Így a Kutya-csillag. Crowley tudta, hogy az ókor egyetlen rítusa sem volt mágikus cél nélkül.  
+> Set a beavató, az ember tudatának megnyitója a Szíriusz - a déli Nap - által tipizált Halhatatlan Isten sugarai felé, ahogy csillagászatilag is ő az állatövi év és az 1460 éves Nagy Ciklus nyitója.  
+> (Crowley ragaszkodik ahhoz, hogy az "ördög" egy isten volt, Set, Shaitan vagy Sátán istene, akit a későbbi kultuszok pontosan úgy degradáltak démoni rangra, ahogyan a Sarki Fény (Nut) - a Hét Csillag Sárkánya - a Gonosz Anyává, az ősi Boszorkány-Nővé, az éjszaka és a sötét pokoli szertartások istennőjévé vált).  
 
  (Arról másutt, [[N/North\|north]], [[B/Bal\|bal]], [[B/Bal és jobb\|bal és jobb]], [[B/Baj\|baj]], [[B/Bál\|Bál]], [[A/Ahriman\|Ahriman]], stb. címszavaknál is esett szó, hogy változik a megítélés egyes nézeteket illetően.)  
 WFW adata szerint Plutarkhosz[^9] épp az északi cirkumpoláris [[U/Ursa Maior\|Nagy Medve csillagkép]]pel azonosította Széthet: ezt azzal magyarázza (ha ez ebben a formában magyarázat), hogy kezdetben ő sem volt negatív isten (merthogy a hyperboreai, "pogány" hagyomány szerint [[E/Észak\|észak]] az istenek, dél a sátán/ördög/démonok lakhelye, de itt nem csak erről van szó).  
@@ -155,10 +171,10 @@ Plutarkhosz magyarázata még az lehetett volna, hogy a Nagy[[G/Göncöl\|Gönc�
 
 ...című könyvében írja Széth-ről:  
 > Sok ismert rege \[lásd például [[M/Mithra és a bika\|Mithra és a bika]]\] a héroszoknak a bikával vívott küzdelméről szól. Ezek egy része a [[T/Tavaszpont\|tavaszpont]] birtoklásáért folyik a régi tulajdonos, a Bika, és az utód, a Kos képviselője között. Az elbeszélő ezekben a történetekben az új korszak pártján áll, ezért a Bika a letűnt világ, immár alvilág képviselője.  
-> ![assets/Széth_image8.png|undefined](/img/user/S/assets/Sz%C3%A9th_image8.png)  
+> ![assets/Széth_image8.png](/img/user/S/assets/Sz%C3%A9th_image8.png)  
 
 > Egyiptomban ez a harc a Széth bika és Hórusz napisten között folyik. Persze Hórusz győz – a Széth-kultusz az óbirodalom végén lehanyatlik Egyiptomban –, a napisten megölt ellenfelét földarabolja, combját a [[S/Sarkcsillag\|Sarkcsillag]]hoz kötözi. A "Marhacomb" csillagkép \[lásd Huszárik László adataival [[M/Meszehtiu\|Meszehtiu]]\] a mi [[G/Göncöl\|Göncöl]]szekerünk, amelyet egy római korból való csillagtérképen ugyanolyan kos őriz, amilyen az állatövi jegyek sorában is található, A krétai Minotaurusz-mítosz egyik lehetséges jelentése szintén ez.  
-- Folyt. JM könyvének 119. oldalán.  
+- Folytatást lásd JM könyvének 119. oldalán.  
 Egy kérdés közben: a marhacomb/bikacomb és [[S/Széth sakála\|Széth sakála]] egy és ugyannak az alternatív nevei? Nos, a denderai zodiákuson külön vannak (Huszárik László írja):  
 > Ezek az északi pólus körül látható csillagképek: a Marhacomb és Ökörcombnak is nevezett Mellsőláb, mellette a Sakál, Vízilószörny és Pávián jegyek.  
 
@@ -190,25 +206,36 @@ Az alábbiak [[T/Trója\|Trója]] címnél is szerepeltek és JMJ is erről szó
 
 ...című könyvében a Florence és Kenneth Wood által írt Homer's Secret Iliad c. könyv The Changing Heavens and the Fall of Troy c. fejezetében arról van szó, hogy Trója bukása a [[P/Precesszió\|precesszió]] okozta "Göncöl leesésére" is vonatkoztatható. JMJ írja:  
 > This interpretation has a parallel in Mayan cosmology. In Maya Cosmogenesis 2012, in the section devoted to early Izapan astronomy, I noted that **the precession-caused movement of the winter solstice sun toward the Milky Way is counterposed in the north by the movement of the Big Dipper away from the North Celestial Pole**.  
+> —  
+> Ennek az értelmezésnek van párhuzama a maja kozmológiában. A 2012-es maja kozmogenezisben, a korai izapai csillagászatnak szentelt részben megjegyeztem, hogy **a téli napforduló Napjának precesszió okozta mozgását a Tejútrendszer felé északon a Nagy Medve mozgása ellensúlyozza az Északi Égi Sarktól való távolodással**.  
 - Nyilván ezért lehet, hogy Széth aspektusai megjelennek több helyen és a [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] kapcsolata is ebben állhat.  
 
 > I also identified how this astronomical process was encoded into Mayan mythology: the "fall" of Seven Macaw (the Big Dipper) out of his tree symbolizes the precession-caused movement of the Big Dipper away from the polar center – movement that accelerated around 1000 B.C.  
+> —  
+> Azt is azonosítottam, hogy ez a csillagászati folyamat hogyan volt kódolva a maja mitológiába: a Hét Arának (a Nagy Medve) a fájáról való "leesése" a Nagy Medve precesszió okozta elmozdulását szimbolizálja a sarki középponttól – egy olyan mozgást, amely Kr.e. 1000 körül gyorsult fel.  
+- Ara = arapapagáj.  
 
 A történet másutt képpel is ellátva:  
 > In the Izapan-Mayan Creation myth, Seven Macaw (the Big Dipper) had to be defeated before the Hero Twins' father (One Hunahpu, the December solstice sun) could take his place as the next World Age ruler. The earlier circumpolar deity of the Olmec (the Big Dipper) had to be dethroned, and I have suggested that precessional movement was the basis of this myth. In other words, the story of Seven Macaw's fall encoded the astronomical process by which the Big Dipper "fell away" from the North Celestial Pole (fig. 2.1).  
-![assets/Széth_image9.png|undefined](/img/user/S/assets/Sz%C3%A9th_image9.png)  
+> —  
+> Az Izapan-maja teremtésmítoszban a Hét Arát (a Nagy Göncölszekér) le kellett győzni, mielőtt a Hős Ikrek apja (One Hunahpu, a decemberi napforduló Napja) elfoglalhatta volna helyét a következő világkorszak uralkodójaként. Az olmékok korábbi cirkumpoláris istenségét (a Nagy Göncölszekeret) kellett trónfosztani, és azt javasoltam, hogy a precessziós mozgás volt e mítosz alapja. Más szóval, a Hét Ara bukásának története azt a csillagászati folyamatot kódolta, amelynek során a Nagy Medve "elesett" az Északi Égi Sarktól (2.1. ábra).  
+![assets/Széth_image9.png](/img/user/S/assets/Sz%C3%A9th_image9.png)  
 
 Legutóbb [[T/Typhon\|Typhon]] címnél is szerepelt...
 
 #### Richard H. Allen Star Names...
 
 ...című könyvének Ursa Maior-nál szereplő adata (hasonlókról szó esett [[C/Cynosure\|Cynosure]] címnél is és betehető [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] címhez is):  
-> Hewitt writes of Set in his earliest form as [[H/Hapi\|Kapi]], the Ape-God, stars of our [[C/Cepheus\|Cepheus]] marking his head; while at one time on the Nile the [[W/Wain\|wain]] \[Göncöl\] stars seem to have been **the Dog of Set or of Typhon**. This may have given rise to the title Canis Venatica that La Lande cited, if this be not more correctly considered as the classic Kallisto's hound; and the same idea appears in the Catuli, Lap-dogs, and Canes Laconicae, the Spartan Dogs, that Caesius cited for both of the Wains.  
+> Hewitt writes of Set in his earliest form as [[H/Hapi\|Kapi]], the Ape-God, stars of our [[C/Cepheus\|Cepheus]] marking his head; while at one time on the Nile the [[W/Wain\|Wain]] stars seem to have been **the Dog of Set or of Typhon**. This may have given rise to the title Canis Venatica that La Lande cited, if this be not more correctly considered as the classic Kallisto's hound; and the same idea appears in the Catuli, Lap-dogs, and Canes Laconicae, the Spartan Dogs, that Caesius cited for both of the Wains.  
+> —  
+> Hewitt azt írja, hogy Set a legkorábbi formájában [[H/Hapi\|Kapi]], a Majomisten, a mi [[Cepheusunk\|Cepheusunk]] csillagai jelölik a fejét; míg egykor a Níluson a [[W/Wain\|Wain]] \[Göncöl\] csillagok úgy tűnik, hogy **Set vagy Typhon Kutyája** voltak. Ebből adódhatott a La Lande által idézett Canis Venatica elnevezés, ha ezt nem tekintjük helyesebben a klasszikus Kallisto kutyájának; és ugyanez a gondolat jelenik meg a Catuli, ölbeli kutyák és a Canes Laconicae, a spártai kutyák elnevezésében, amelyet Caesius mindkét Wain (Szekér csillagzat) esetében idézett.  
 
 Majd lábjegyzetben:  
 > Set, also Anubis, Apap, Apepi, Bes, Tebha, Temha, and Typhoeus according to Plutarch, was one of Egypt's greatest gods, who subsequently became the Greek giant Typhon, father of the fierce winds, but slain by Zeus with a thunderbolt and buried under Mount Aetna.  
+> —  
+> Set, Plutarkhosz szerint Anubisz, Apap, Apepi, Bes, Tebha, Temha és Typhoeus is, Egyiptom egyik legnagyobb istene volt, aki később a görög óriás Typhon, a heves szelek atyja lett, de Zeusz villámcsapással megölte és eltemette az Etna hegy alatt.  
 
-Tüphon is tehát arra a sorsra jutott, mint minden régen tisztelt nagy Isten. A fény-árnyék változások során a korábbi istenek befeketülnek a papság és a nép szemében: démonizálva lesznek. Lásd mi történt Bál-lal és a [[D/Dévák és Aszúrák\|dévák és aszúrák]] is megérnek egy misét. Minderről szóltunk [[M/Magyarellenesség\|magyarellenesség]] címnél is: hogy feledte el a világ Szíriusz és a hun-magyarság jótétényeit.  
+Tüphon is tehát arra a sorsra jutott, mint minden régen tisztelt nagy Isten. A fény-árnyék változások során a korábbi istenek befeketülnek a papság és a nép szemében: démonizálva lesznek. Lásd mi történt Bál-lal és a [[D/Dévák és Aszúrák\|dévák és aszúrák]] is megérnek egy misét. Minderről szóltunk [[M/Magyarellenesség\|magyarellenesség]] címnél is: hogy feledte el a világ Szíriusz és a hun-magyarság jótéteményeit.  
 
 #### Várkonyi Nándor írja ugyanerről:
 
@@ -230,16 +257,27 @@ A Hamlet Malmában is szó volt időháborúkról és In Search of the Cradle of
 > The ancients appear to have been aware of the precession of the vernal equinox, and they sought to do justice to it by translating Orion's mythology into the symbolic language of the era of Taurus and later the era of Aries.  
 > Thus, according to Egyptian mythology, Osiris was killed by his hostile brother **Seth (Ursa Major)**, and, in Indic mythology, Tvashtri Dyauspita and [[P/Prajapati\|Prajapati]] were killed by their youngest son, namely Indra or [[R/Rudra\|Rudra]] (Sirius). Prajapati's death at the hands of Rudra marks the passage of the vernal equinox from Orion (or zodiacal Gemini) to Taurus.  
 >
-> De Santillana and von Dechend have plausibly argued that the Vedic God [[A/Agni\|Agni]], who is said to be born in the "highest sky" and who had three other Agnis precede him \[három meg egy az [[N/Négy\|négy]]\], **Represents the heliacal rising of Sirius at the vernal equinox**. There is overwhelming evidence, as these two scholars have noted, that Agni and Soma[^13] ("lord of the world poles") represent the equinoctial colures (the two great circles of the celestial sphere which intersect each other at the poles). They particularly pointed to the so-called [[S/Sunasepa\|Sunasepa]] hymns of the first book of the Rig-Veda, identifying Sunasepa as [[C/Cynosure\|Cynosoura]], "Dog's Tail," that is, Ursa Minor.
+> De Santillana and von Dechend have plausibly argued that the Vedic God [[A/Agni\|Agni]], who is said to be born in the "highest sky" and who had three other Agnis precede him, **represents the heliacal rising of Sirius at the vernal equinox**. There is overwhelming evidence, as these two scholars have noted, that Agni and Soma[^13] ("lord of the world poles") represent the equinoctial colures (the two great circles of the celestial sphere which intersect each other at the poles). They particularly pointed to the so-called [[S/Sunasepa\|Sunasepa]] hymns of the first book of the Rig-Veda, identifying Sunasepa as [[C/Cynosure\|Cynosoura]], "Dog's Tail," that is, Ursa Minor.
 >
 > Vedic mythology introduces Sunasepa as the adopted son of the sage [[V/Vishvamitra\|Vishvamitra]], who represents one of the stars of [[U/Ursa Maior\|Ursa Maior]]. This appears to point to a noteworthy conjunction of two stars. Sunasepa is the second of three brothers, who are given names that also mean "dog's tail." This suggests that, astronomically speaking, Sunasepa stands for the star Delta in Ursa Minor.  
+> —  
+> Úgy tűnik, hogy a régiek tisztában voltak a tavaszi napéjegyenlőség precessziójával, és igyekeztek igazságot tenni ennek az Orion-mitológiát a Bika-korszak, majd később a Kos-korszak szimbolikus nyelvére lefordítva.
+> Így az egyiptomi mitológia szerint Oziriszt ellenséges testvére, **Seth (Ursa Major)** ölte meg, az indiai mitológiában pedig Tvashtri Dyauspita és [[P/Prajapati\|Prajapati]] legkisebb fia, nevezetesen Indra vagy [[R/Rudra\|Rudra]] (Szíriusz). Prajapati halála Rudra kezétől jelzi a tavaszi napéjegyenlőség átmenetét az Orionból (vagy az állatövi Ikrekből) a Bikába.
+>
+> De Santillana és von Dechend hihetően állították, hogy a védikus isten [[A/Agni\|Agni]], akiről azt mondják, hogy a "legmagasabb égbolton" született, és akit három másik Agni előzött meg \[három meg egy az [[N/Négy\|négy]]\], **megjeleníti a Szíriusz heliákus felkelését a tavaszi napéjegyenlőségkor**. Megdönthetetlen bizonyíték van arra, amint azt e két tudós megjegyezte, hogy Agni és Soma[^13] ("a világ pólusainak ura") az ekvinoktiális kólurokat (az égi szféra két nagy körét, amelyek a pólusoknál metszik egymást) jelképezik. Különösen a Rig-Véda első könyvének úgynevezett [[S/Sunasepa\|Sunasepa]] himnuszaira mutattak rá, azonosítva Sunasepát [[C/Cynosure\|Cynosoura]]-val, a "kutya farkával", azaz az Ursa Minorral.
+>
+> A védikus mitológia Sunasepát a bölcs [[V/Vishvamitra\|Vishvamitra]] fogadott fiaként mutatja be, aki az [[U/Ursa Maior\|Ursa Maior]] egyik csillagát képviseli. Ez úgy tűnik, hogy két csillag figyelemre méltó együttállására utal. Sunasepa a második a három testvér közül, akiknek olyan neveket adtak, amelyek szintén "kutyafarkat" jelentenek. Ez arra utal, hogy csillagászati értelemben Sunasepa az Ursa Minorban található Delta csillagot jelöli.  
 
 #### Robert Graves The White Goddess...
 
 ...című könyvének 290. oldalán – ahogy [[O/Orion övcsillagai\|Orion övcsillagai]] címnél is említettük – **Széth phalloszá**ról szól, de a normális esetben Oziriszhez köthető Orionnal hozza kapcsolatba:  
 > The appeal is to the baleful God Set, whose starry phallus appears in the Constellation Orion, to restrain his anger.  
+> —  
+> A felhívás a gonosz Set istenhez szól, akinek csillagfallosza az Orion csillagképben jelenik meg, hogy fékezze meg haragját.  
 - Jane B. Sellers, The Death of Gods in Ancient Egypt című könyvének adata szerint "száműzték" volna Orion helyére:  
-> Seth ... originally connected with the Hyades, the V-shaped, head-like part of our constellation, Taurus. As the brother of Osiris, his position in the sky was adjacent to Orion ... an important court decision gave the office of Osiris to Horus, and Seth was banished to a position bearing the 'southernʼ constellation of Orion ... ʼ  
+> Seth ... originally connected with the Hyades, the V-shaped, head-like part of our constellation, Taurus. As the brother of Osiris, his position in the sky was adjacent to Orion ... an important court decision gave the office of Osiris to Horus, and Seth was banished to a position bearing the 'southern' constellation of Orion...
+> —  
+> Seth ... eredetileg a Hyadokhoz, a Bika csillagképünk V alakú, fejszerű részéhez kapcsolódott. Mint Ozirisz testvére, az égbolton az Orion szomszédságában helyezkedett el ... egy fontos bírósági döntés Ozirisz hivatalát Hórusznak adta, és Széthet száműzték az Orion "déli" csillagképét hordozó pozícióba...
 - A Hyades-ben lévő [[A/Aldebaran\|Aldebaran]]nal való azonosítás másutt is mintha előjött volna már valahol.  
 
 Az [[A/Ászok és Vánok\|Ászok és Vánok]] neveit PJI elemzi, és másutt is megfeleltettük őket Ozirisz (Hórusz) és Széth, [[D/Dévák és Aszúrák\|Dévák és Aszúrák]] tagjaival, de arról [[A/Ashen\|ashen]] szócikknél szóltunk, hogy nemcsak a fényes, hanem egyben a fényhiányos elnevezéseik is megfigyelhetők: Asz(ott)ok és Ván(yadt)ok.   
@@ -273,6 +311,8 @@ A babiloni és egyiptomi mítoszaikban észrevehetők hasonlóságok, Istár sir
 
 [^3]: Lábjegyzet:  
 Egyptologist Ken Moss has suggested the Set animal is in fact the Saluki, as it is one of the oldest breeds of domesticated dog, has a curved snout and nearly identical body, and is native to the region. Further, when the Saluki runs, its ears and tail become vertical, and cropped ears are a common and historic practice performed on hunting dogs throughout the Levant. The Saluki is further depicted in hieroglyphs without a connection to Set, suggesting its commonplace nature among ancient Egyptian people.  
+—  
+Ken Moss egyiptológus szerint a Set állat valójában a szaluki, mivel ez az egyik legrégebbi háziasított kutyafajta, görbe orrú és közel azonos testű, és a régióban őshonos. Továbbá, amikor a szaluki fut, a füle és a farka függőlegesen áll, és a fül levágása gyakori és történelmi gyakorlat volt a vadászkutyáknál az egész Levantban. A szaluki továbbá a hieroglifákon Set-tel való kapcsolat nélkül szerepel, ami arra utal, hogy az ókori egyiptomiak körében mindennapos volt.  
 
 [^4]: Lábjegyzet:  
 Márpedig minden, ami felfelé irányuló, törő, ék- és hegy(es) alakú, az a kúnok/hunok leszármazási helyére utalhat. Ér szavunk igeként magasságra, távolságra, célba érésre utal, de még fontosabb, hogy ered szavunk törzsöke er-. Márpedig a származás/eredet az egyik legfontosabb az emberi nemmel kapcsolatosan.  
@@ -280,6 +320,8 @@ Márpedig minden, ami felfelé irányuló, törő, ék- és hegy(es) alakú, az 
 [^5]: Lábjegyzet:  
 Az, hogy sötét Gerald Massey számára is ismert volt. John G. Jackson Christianity before Christ című könyvében idézi, Sut-ként:  
 Then Horus as the sun-god and the vanquisher of Sut, **the power of darkness**, could be called the reconstitutor of Osiris in the moon.  
+—  
+Akkor Hórusz, mint a napisten és Sut, **a sötétség hatalmának** legyőzője, Osiris újjáteremtőjének nevezhető a Holdban.  
 
 [^6]: Lábjegyzet:  
 Jankovics Marcell írja:  
@@ -288,8 +330,10 @@ Jankovics Marcell írja:
 A Wikipédiáról hasonló info (sokatmondó az onager név, mert kulan rokona):  
 The god Set was usually depicted as a man with a head resembling that of the **sha**, usually with a long, slightly curved nose, and erect ears, squared at the tops. Occasionally he was represented in animal form as the sha itself, although he was also depicted in the form of an onager or as a black pig.  
 —  
+Set istent általában férfiként ábrázolták, akinek a feje a **sha** fejére hasonlított, általában hosszú, enyhén ívelt orral és felálló, a tetején szögletes fülekkel. Alkalmanként állati alakban ábrázolták, mint magát a sha-t, bár ábrázolták onager vagy fekete disznó alakjában is.  
+—  
 Huszárik László Denderai csillagképek, hónapok és mítoszok című a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXXIII./10. sz. megjelent cikkében némileg váratlanul közli, hogy az antilop Széth egyik állati megtestesülése:  
-Hóruszt az ábrázolások gyakran mutatják a kártékony állatok legyőzőjeként, skorpió is megmarta, Thot mentette meg. A legyőzött állatok gyakran Széth megjelenések, ostobának [mint a szamár] tartott állatok, mint a krokodil, víziló és antilop.  
+Hóruszt az ábrázolások gyakran mutatják a kártékony állatok legyőzőjeként, skorpió is megmarta, Thot mentette meg. A legyőzött állatok gyakran Széth megjelenések, ostobának \[mint a szamár\] tartott állatok, mint a krokodil, víziló és antilop.  
 Később írja, hogy a disznó szintén "Széth állat," amelytől az istenek undorodtak.  
 
 [^7]: Lábjegyzet:  
@@ -297,10 +341,16 @@ Ezzel furcsamód Hórusz – Széth csatározásának egy egészen bagatell napf
 A Hold egy egyiptomi "történet szerint Séth fejéből született meg. Séth mégis ellensége a Holdnak, s annak fázisváltozásait összefüggésbe hozták a Hóros és Séth között lefolyt harccal, amelynek során Séth kitépte és megkárosította Hóros szemét, a Holdat." (Kákosy 1978:33. (Alighanem két különböző égi jelenség, a holdváltozás és a fogyatkozások magyarázata keveredik ebben az elbeszélésben. Hórusz egyfelől égisten, akinek ép jobb szeme a Nap, havonta megvakuló balszeme a Hold. Másfelől Hórusz napisten is, Ré-Harahti néven, akiben Ízisz és Ozirisz fia Rével egyesült. Mítoszuk szerint ez a Hórusz győzte le Széthet. A fenti történet tehát úgy is értelmezhető, hogy a holdfejű Széth a Nap-Hóruszt fosztja meg szeme világától, azaz világosságától, értsd: okoz napfogyatkozást.  
 
 [^8]: Lábjegyzet:  
-The Hidden God is Set, represented astronomically by Sirius, the Dog-Star. Erre magam is rájöttem.  
+The Hidden God is Set, represented astronomically by Sirius, the Dog-Star.  
+—  
+A Rejtett Isten Set, akit csillagászatilag a Szíriusz, a Kutya-csillag képvisel.  
+  
 
 [^9]: Lábjegyzet:  
-Más is: Diodorus Siculus says Isis was in Sirius, Horus in Orion, Typhon in the Great Bear.  
+Más is:  
+Diodorus Siculus says Isis was in Sirius, Horus in Orion, Typhon in the Great Bear.  
+—  
+Diodorus Siculus szerint Ízisz a Szíriuszban, Hórusz az Orionban, Tüphon a Nagy Medvében volt.  
 Plutarkhosz anyagára (is) látszik építeni Crowley is.  
 
 [^10]: Lábjegyzet:  
@@ -316,4 +366,7 @@ Lásd még erről [[N/Nap – halott Nap\|Nap – halott Nap]], valamint [[B/Bie
 [[O/Osiris és Set\|Ozirisz és Széth]] címnél is elhangzott, hogy Széth nem volt mindig negatív. Ergo itt korszakváltozásokról van szó; minden körben halad.  
 
 [^13]: Lábjegyzet:  
-The overwhelming amount of evidence on Agni and Soma ("lord of the world poles") as colures will have to be dealt with in the fitting frame, by means of an investigation of the so-called Shunashepa Hymns of the first Mandala of the Rig Veda, Shunashepa being literally the same as Cynosoura, "Dog's Tail," i.e.. Ursa Minor. In the present context we wish to point to only one more name of Agni-being himself a title that is, [[A/Apam Napat\|Apam Napat]], a designation which belongs also to Iranian Tishtriya, Sirius. \[Hamlet's Mill\]  
+A Hamlet Malmában szerepel:  
+The overwhelming amount of evidence on Agni and Soma ("lord of the world poles") as colures will have to be dealt with in the fitting frame, by means of an investigation of the so-called Shunashepa Hymns of the first Mandala of the Rig Veda, Shunashepa being literally the same as Cynosoura, "Dog's Tail," i.e.. Ursa Minor. In the present context we wish to point to only one more name of Agni-being himself a title that is, [[A/Apam Napat\|Apam Napat]], a designation which belongs also to Iranian Tishtriya, Sirius.  
+—  
+Azzal a hatalmas mennyiségű adattal, mely [[A/Agni\|Agni]] és Szóma ("a világpólusok ura") napfordulós és napéjegyenlőségi szerepkörei mellett szól, a megfelelő keretek között majd foglalkozni kell, mégpedig a Rigvéda első mandalája úgynevezett Sunasepa-himnuszainak vizsgálata révén, minthogy [[S/Sunasepa\|Sunasepa]] szó szerint [[C/Cynosure\|Cynosoura]], "Kutya-farok", azaz Ursa Minor. Jelen kontextusban csak egy további Agni-névre kívánunk rámutatni, amely maga is egy cím, [[A/Apam Napat\|Apam Napat]], egy olyan elnevezés, amely szintén az iráni Tishtriya, Szíriusz nevéhez tartozik.  
