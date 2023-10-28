@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/T/Therapy/","title":"Therapy","tags":["dg_uploaded"],"created":"2023-10-27T10:21","updated":"2023-10-27T10:21"}
+{"dg-publish":true,"permalink":"/T/Therapy/","title":"Therapy","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-27T10:21","updated":"2023-10-28T08:10"}
 ---
+
+
 
 
 # Therapy
@@ -9,7 +11,9 @@ Kezelés, terápia. A görög `therapeia` = gyógyítás, míg igeként `therape
 Könnyen lehet, hogy előtagja valójában [[S/Szer\|szer]] szavunk, és hogy a kutya vagy a Kutyacsillag szerepe lesz gyógyító hatású. Nos, vélhetően az [[O/Öleb\|öleb]]bel lesz dolgunk, míg a therapeia nyilvánvalóan [[S/Serapis\|Serapis]] nevű "kitalált" isten neve mellett a [[S/Seraph\|seraph]] névvel üt még össze.  
 Nyilván ha a kutyával való gyógyítás itt a lényeg, akkor a [[S/Szíriusz\|Szíriusz]] név előtagja és az [[E/EB\|EB]] = kutya fogalmai számba vehetők még.  
 
-Acharia S "Suns of God" című könyvének 116. oldalán egy Therapeutae kultuszról szól, Alexandria központtal:  
+#### Acharia S Suns of God...
+
+...című könyvének 116. oldalán egy Therapeutae kultuszról szól, Alexandria központtal:  
 > International exchange is also demonstrated in the stories of Osiris and Isis in India, in Egyptian or "Ethiopian" colonies in India, and in Indian colonies in Egypt, long before the common era. In this regard, there was reputedly a colony of "gymnosophs," i.e., Buddhists, Jains or Indian monks, at Lake Mareotis near Alexandria, Egypt, ages before the establishment of Christianity. During the centuries just before and after the beginning of the Christian era, Indians were abundant in Alexandria, the true crucible of Christianity. Some of the monks in Egypt were certainly Buddhist priests or "Rahans" who left India in opposition to the Brahman priests Another "Buddhist" or ascetic group situated near Mareotis constituted the Therapeuts, who were highly instrumental in the creation of Christianity. Many other inferences of Buddhistic and monastic communities in Egypt and elsewhere outside of India may be found in Higgins's Anacalypsis. Other monastic communities became known as Essenes, Gnostics, Christians, etc. Furthermore, Gnosticism contains much of the Persian religion, and at Nag Hammadi were discovered Gnostic texts called Revelations of Zoroaster and Apocalypse of Zoroaster. The religion of Zoroaster and the Persian language are traceable to India.  
 > —  
 > A nemzetközi cserekapcsolatokról tanúskodnak az indiai Ozirisz és Ízisz történetei, az indiai egyiptomi vagy "etiópiai" kolóniák és az egyiptomi indiai kolóniák is, jóval a közös korszak előtt. Ebben a tekintetben állítólag az egyiptomi Alexandria melletti Mareotisz-tónál volt egy "gimnózisták", azaz buddhisták, dzsainák vagy indiai szerzetesek kolóniája, korokkal a kereszténység kialakulása előtt. A keresztény korszak kezdete előtti és utáni évszázadokban az indiaiak bőven voltak jelen Alexandriában, a kereszténység igazi olvasztótégelyében. Az Egyiptomban élő szerzetesek egy része minden bizonnyal buddhista papok vagy "rahanok" voltak, akik a bráhmana papokkal szemben hagyták el Indiát Egy másik "buddhista" vagy aszketikus csoport, amely a Mareotisz közelében helyezkedett el, a Therapeutok voltak, akik nagyban hozzájárultak a kereszténység létrejöttéhez. Higgins Anakalüpszis című művében számos más, Egyiptomban és Indián kívül máshol élő buddhista és szerzetesi közösségekre vonatkozó következtetés olvasható. Más szerzetesi közösségek esszénusok, gnosztikusok, keresztények stb. néven váltak ismertté. Továbbá a gnoszticizmus sok mindent tartalmaz a perzsa vallásból, és Nag Hammadiban felfedezték a Zarathusztra kinyilatkoztatásai és Zarathusztra apokalipszise nevű gnosztikus szövegeket. Zarathusztra vallása és a perzsa nyelv Indiáig vezethető vissza.  
@@ -30,7 +34,9 @@ Egyes állatoknak és bőreiknek gyógyító hatást tulajdonítottak. Előbb sz
 
 DGW Dogs Die című könyvének 294-295. oldalán szól kutyával kapcsolatos terápiás rítusról.  
 
-Több info Sophia Menache Dogs: God's Worst Enemies? című tanulmányából:  
+#### Sophia Menache Dogs God's Worst Enemies?...
+
+...című tanulmányából:  
 > As an additional facet of their mysterious character, therapeutic virtues were seen as an integral attribute of canines. Dogs became part of the ancient Greeks' menu, and curative effects were attributed to their meat. Puppies were used as scape-animals against intestinal and stomach disorders (Burris, 1935). From the long list of therapeutic qualities credited to dogs, Pliny the Elder mentions the effectiveness of their blood as an antidote for poison (Naturalis historiae, XXIX: 58) and as a remedy for itching (XXX: 121). Canine blood, if placed under the threshold, was believed to keep away evil spirits, especially those of the dead thought to haunt the location and bring harm to the living members of the family (XXX: 82). The flesh of a suckling puppy eaten with wine and myrrh was considered an expedient against epilepsy (XXX: 27). The ashes of a dog's head when mixed with wine and honey were thought to ward off jaundice (XXX: 28); the ashes alone, to cure bums and chilblains (XXX: 35; XXX: 9). Bitches had special curative powers: their menstrual blood was used against mad dog bites (XXIX: 98), and their milk was thought to prevent hair growth (XX: 46) (Gourevitch, 1968).  
 > —  
 > Titokzatos jellemük további aspektusaként a terápiás erényeket a kutyák szerves tulajdonságának tekintették. A kutyák az ókori görögök étlapjának részévé váltak, és húsuknak gyógyító hatást tulajdonítottak. A kölyökkutyákat bél- és gyomorbántalmak ellen pólyaállatként használták (Burris, 1935). A kutyáknak tulajdonított terápiás tulajdonságok hosszú listájából Plinius az idősebb megemlíti vérük hatékonyságát méreg ellenszerként (Naturalis historiae, XXIX: 58) és viszketés elleni gyógyszerként (XXX: 121). Úgy vélték, hogy a kutyavér, ha a küszöb alá helyezik, távol tartja a gonosz szellemeket, különösen a halottakét, akikről úgy gondolták, hogy kísértenek az adott helyen, és kárt okoznak a család élő tagjainak (XXX: 82). A borral és mirhával elfogyasztott szopós kölyökkutyahúst epilepszia ellen tartották gyógyírnak (XXX: 27). A kutyafej hamuját borral és mézzel keverve úgy gondolták, hogy elűzi a sárgaságot (XXX: 28); a hamu önmagában gyógyítja a csülköt és a gyermekbajt (XXX: 35; XXX: 9). A szukáknak különleges gyógyító erejük volt: menstruációs vérüket veszett kutyaharapás ellen használták (XXIX: 98), tejükről pedig úgy gondolták, hogy megakadályozza a szőrnövekedést (XX: 46) (Gourevitch, 1968).  
@@ -48,14 +54,17 @@ Kátay-Barba Rafael Péter Kynologia című írásában találjuk:
 #### Kátay-Barba Rafael Péter írja:  
 
 > A kutyák gyógyító hatásuk mellett élő hősugárzóként védték az embert:  
-> A Yucatán félsziget híres maja rommezőin a régészek felálló fülű kutyák agyagszobrocskáit tárták fel. Ezek az ebek minden valószínűség szerint szőrtelenek voltak. A modellekből a testméretre természetesen nem lehet következtetni. Tudjuk viszont, hogy a kor embere, kihasználva 40 C°-os testhőjüket, ezeket az ebeket éjszakára ágyába fektette a takaró alá, s ezekkel az eleven "hőpárnákkal" gyógyította magát reuma, asztma és malária esetén. Emlékezzünk, ezzel a felhasználási móddal már Tibet hegyei között is találkozhattunk!
+> A Yucatán félsziget híres maja rommezőin a régészek felálló fülű kutyák agyagszobrocskáit tárták fel. Ezek az ebek minden valószínűség szerint szőrtelenek voltak. A modellekből a testméretre természetesen nem lehet következtetni. Tudjuk viszont, hogy a kor embere, kihasználva 40 C°-os testhőjüket, ezeket az ebeket éjszakára ágyába fektette a takaró alá, s ezekkel az eleven "hőpárnákkal" gyógyította magát reuma, asztma és malária esetén. Emlékezzünk, ezzel a felhasználási móddal már Tibet hegyei között is találkozhattunk!  
 
-Kutyaharapást szőrével, mondja a magyar. Angelo de Gubernatis Zoological Mythology című könyvének (a PDF) 510. oldalán szicíliai szokásról írja:  
+#### Angelo de Gubernatis Zoological Mythology...
+
+...című könyvének (a PDF) 510. oldalán szicíliai szokásról írja:  
 > When one is bitten by a dog in Sicily, a tuft of hair is cut off the dog and plunged into wine with a burning cinder this wine is given to be drunk by the man who has been bitten. In Aldrovandi, I read, on the other hand, that to cure the bite of a mad dog, it is useful to cover the wound with wolf's skin.  
 > —  
 > Ha valakit megharap egy kutya Szicíliában, egy szőrcsomót levágnak a kutyáról, és égő hamuval borba mártják, ezt a bort pedig a megharapott embernek adják inni. Aldrovandiban viszont azt olvasom, hogy a veszett kutya harapásának gyógyítására hasznos a sebet farkasbőrrel betakarni.  
+- Kutyaharapást szőrével, mondja a magyar.  
 
-Az [alábbi](https://www.origo.hu/tudomany/20190811-egyedi-sajatos-szagprofillal-kepesek-kiszagolni-a-rakos-megbetegedest.html) oldalon érdekes a kutya és rák kapcsolata. Nyilván számomra azért is mert a [[C/Cancer\|Cancer]] szóban benne van a kan, de persze másért. Digi World műsorban is elhangzott, hogy a kutyák meg tudják különböztetni a rosszindulatú rákos daganatokat a jóindulatú daganatoktól, kb. 90-100 százalékos eséllyel.  
+Az [alábbi](https://www.origo.hu/tudomany/20190811-egyedi-sajatos-szagprofillal-kepesek-kiszagolni-a-rakos-megbetegedest.html) oldalon érdekes a kutya és rák kapcsolata. Nyilván számomra azért is mert a [[C/Cancer\|Cancer]] szóban benne van a kan, de persze másért. Egy ismeretterjesztő műsorban is elhangzott, hogy a kutyák meg tudják különböztetni a rosszindulatú rákos daganatokat a jóindulatú daganatoktól, kb. 90-100 százalékos eséllyel.  
 
 SzM is mondja, hogy a melléd fekvő kutya és macska leveszi rólad a negatív energiákat. De a növényekben is megvan ez a képesség, mert élet van bennük. Nyilván a kutya- és lóterápia is ilyen alapon működik.  
 
