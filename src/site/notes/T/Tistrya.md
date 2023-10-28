@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tistrya/","title":"Tistrya","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-28T03:55","updated":"2023-10-28T03:56"}
+{"dg-publish":true,"permalink":"/T/Tistrya/","title":"Tistrya","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-28T03:55","updated":"2023-10-28T08:15"}
 ---
+
+
 
 
 # Tistrya
@@ -23,17 +25,18 @@ Hogy vajon a 19. század végén írt Orionjában Tilak volt az első, aki ezt m
 > —  
 > A Tistrya csillagot a Szíriusszal azonosították, és az azonosítás, ha nem is teljesen helyes, de legalábbis általános célokra eléggé az.  
 > De úgy gondolom, hogy magát a szót még nem sikerült kielégítően megmagyarázni. Javaslom, hogy a Tistryát a Tri-str̥i szóból származtassuk, ami a szanszkritban három csillagot jelent. A Tri-str̥i könnyen elrontható Tistri vagy Tister szóvá. A Tister tehát azonos a [[C/Cerberus\|Kerberossz]]al vagy Trishiras-szal, és az a tény, hogy a Tistrya a modern perzsában [[T/Tír\|Tír]]-nek, azaz nyílnak nevezik, tovább erősíti ezt a levezetést, mivel az Aitareya Brahmana (iii. 33) [[R/Rudra\|Rudra]] háromcsillagos vagy háromágú nyilának nevezi az égben.
-> Ha a nyári napfordulóval kezdjük, és \[az Avesta\] Fravashinamot az év első hónapjának tekintjük, **Tistreye** megfelel Margashirsha \[lásd [[M/Mrigashira\|Mrigashira]]\].
+> Ha a nyári napfordulóval kezdjük, és \[az Aveszta\] Fravashinamot az év első hónapjának tekintjük, **Tistreye** megfelel Margashirsha \[lásd [[M/Mrigashira\|Mrigashira]]\].
 > Az Avesta-naptár negyedik hónapja Tishtryehe vagy Tistrya hónapja volt, amelyet \[eredetileg\] a Szíriusz csillaggal azonosítottak. A Bhadrapada[^1] nyári napfordulóval számolva a hindu naptár negyedik hónapja a Margashirsha vagy a Mrigashira hónapja lenne, amely nakshatra (holdház) egészen közel van a Szíriuszhoz.
 > Ha a Tister etimológiailag az Orion övét értjük, akkor a hónapoknak ez az egybeesése jobban megmagyarázható. Ezért azon a véleményen vagyok, hogy a Tistryát nem a Szíriusszal, hanem az Orion övével kell azonosítani.
+- [[N/Nimrud\|Nimrud]] és [[R/Rudra\|Rudra]] címnél írottak alapján összetartoznak.  
 
-[[N/Nimrud\|Nimrud]] és [[R/Rudra\|Rudra]] címnél írottak alapján összetartoznak.  
 > We can the better understand why the star should have been spoken of as Tristryeni[^2] probably indicating more stars than one and also Pauryeni, the first.  
 > —  
 > Így jobban megérthetjük, hogy miért beszéltek a csillagról Tristryeni[^2] néven, ami valószínűleg több csillagra utal, mint egy, és Pauryeni, az első.  
-- JM Mély a múltnak kútja c. könyvének 39. oldalán is írja, hogy az iráni források az Oriont, az Orion övét rendszerint együtt emlegetik a szomszédos Szíriusszal. A Szíriusz egyik\[?!\] iráni neve, Tistrja azt jelenti: három égitestből álló csillagképhez tartozó. A szóban forgó csillagkép, ebben a szövegmagyarázók megegyeznek, az Orion öve.
+- JM Mély a múltnak kútja c. könyvének 39. oldalán is írja, hogy az iráni források az Oriont, az Orion övét rendszerint együtt emlegetik a szomszédos Szíriusszal. A Szíriusz egyik\[?!\] iráni neve, **Tistrja azt jelenti: három égitestből álló csillagképhez tartozó**. A szóban forgó csillagkép, ebben a szövegmagyarázók megegyeznek, az Orion öve.
 
-Az iráni adat megintcsak nem egyedülálló. A világ minden részéből, például Kínából, Egyiptomból, Indiából, a finn ősiségből tudunk csillagmítoszi példát felhozni arra nézve, hogy **az Orion övét és a Szíriuszt régen összetartozónak tekintették**. \[Itt arról szól még, hogy ennek égi pocizionális oka is van, hiszen a három csillagból húzott egyenes Szíriuszhoz visz le. A gondolatmenetet más mezsgyén folytatja; ezeket az infokat lásd [[S/Szíriusz mint istenanya\|Szíriusz mint istenanya]].\]  
+Az iráni adat megintcsak nem egyedülálló. A világ minden részéből, például Kínából, Egyiptomból, Indiából, a finn ősiségből tudunk csillagmítoszi példát felhozni arra nézve, hogy **az Orion övét és a Szíriuszt régen összetartozónak tekintették**.  
+Itt arról szól még, hogy ennek égi pocizionális oka is van, hiszen a három csillagból húzott egyenes Szíriuszhoz visz le. A gondolatmenetet más mezsgyén folytatja; ezeket az infokat lásd [[S/Szíriusz mint istenanya\|Szíriusz mint istenanya]].   
 
 Az alábbi passzus (és még más is) szerepelt [[S/Szent László és a leányszöktető kun\|Szent László és a leányszöktető kun]] címnél is:  
 > A László-legendák keletkezésében nagy szerep jutott az eleinket ért iráni hatásoknak is. Az iráni mitológiának van egy különös alakja, Tistrija, a "Ragyogó Csillag", az "Első Csillag", a "Vizek Magva", az "Eső és a Termékenység Forrása". A jótékony nyári esőzés istene volt, aki kozmikus párviadalt vív Apaoszával, a szárazság tüzet fúvó démonával. Tistrija neve annyit tesz: "a három égitestből álló csillagképhez tartozó", és az égboltnak az Orion övéhez közel eső legfényesebb csillagával, a Szíriusszal szokás azonosítani. Tistrijáé volt a Rák hava, amikor az aszály a még lábon álló termést fenyegeti, és amikor a Szíriusz nem látható, mivel a Nappal együtt áll. Iránban tehát a Szíriusz ugyanúgy vizet hozó csillagisten volt, mint Egyiptomban, ahol eltűnése a Nílus közelgő áradását jelezte. Tistrija-Szíriuszt az irániak is íjásznak (Íjnak, Nyílnak, Nyílhegynek, Célpontnak) képzelték attól függően, hogy a jelzett naptári időszakban hozzá képest hol állt a Nap. (Erre abból a bizonytalanságból is következtethetünk, ami a Tistrija név valódi jelentését övezi; nem lehet pontosan tudni, hogy a Szíriuszt értsük-e alatta, vagy pedig az Orion-övhöz tartozó más csillagot.) Mindazonáltal végiggondolt, tudományosan is megalapozott eszmerendszerrel van dolgunk, ezt utolsó példám is megvilágítja. Az Ikrek cikkelyében "otthonos" planétát, a Merkúrt Iránban [[T/Tír\|tír]]nek ("Nyílnak") nevezik. De mint az íjász Tistrija "Nyílvesszőjének", Tír volt a neve a Szíriusznak is, amit mint az "Ikrek csillagát" a Merkúr csillagmásának tekintettek Iránban. Hasonlóan ahhoz, ahogy az egyiptomi-keresztény szimbolika a Vénusznak feleltette meg.  
