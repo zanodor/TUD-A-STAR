@@ -3,8 +3,6 @@
 ---
 
 
-
-
 # Megtévesztés
 
 Ma ennek a korát éljük. **Machiavelli A fejedelem** című könyvében ezt tanítja a zsidóknak. Hogyan kell megtévesztéssel operálni, manipulálni.  
