@@ -7,7 +7,7 @@
 
 #### Péterfai János írja:
 
-> [[M/Milu\|Milu]] – A legnagyobb földi szarvas faj neve, amely az Amur környékén él Távol-Keleten. Nem hun név, erre nincs bizonyíték, de az biztos, hogy magyar név. Mi-Lu jelentése Fény-Ember, vagy Fény és Fény, Fények. Alapvetően az éjszakai csillagos égbolt neve, mint a [[S/Szarvas\|szarvas]], és [[R/RÉN\|Rén]]. A szumer Amélu, Amilu nemesi rangnévben is jelen van. Ez a fogalom hozta létre a Millió szót, ami az égbolt millió csillagának a számnévi megfelelése. Ha a Mi-Lu szót megfordítjuk, a Lu-Mi(neszcensz) alakhoz jutunk, ami szintén a fénnyel kapcsolatos, és szintén magyar eredetű, de latin szó.  
+> [[M/Milu\|Milu]] – A legnagyobb földi szarvas faj neve, amely az Amur környékén él Távol-Keleten. Nem hun név, erre nincs bizonyíték, de az biztos, hogy magyar név. Mi-Lu jelentése Fény-Ember, vagy Fény és Fény, Fények. Alapvetően az éjszakai csillagos égbolt neve, mint a [[S/Szarvas\|szarvas]], és [[R/RÉN\|Rén]]. A szumer `Amélu`, `Amilu` nemesi rangnévben is jelen van. Ez a fogalom hozta létre a Millió szót, ami az égbolt millió csillagának a számnévi megfelelése. Ha a Mi-Lu szót megfordítjuk, a Lu-Mi(neszcensz) alakhoz jutunk, ami szintén a fénnyel kapcsolatos, és szintén magyar eredetű, de latin szó.  
 
 #### Magyar Adorjánnak...
 
