@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["dg_uploaded"]}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2023-10-29T02:44"}
 ---
+
+
 
 
 # Megtévesztés
@@ -14,8 +16,7 @@ A megtévesztés és hazudozás nagymesterei a kabbalista zsidók, akiket Yarosl
 
 A **csalás művészeté**ről [[D/Dialektika\|dialektika]] bevezető soraiban is volt szó.  
 
-Az alábbiakban a [[S/Sátán\|Sátán]] **hatalomtechnikai eszközei**ről lesz szó, külön alcímek alatt, nemcsak a megtévesztésről.
-{ #ypmbnt}
+Az alábbiakban a [[S/Sátán\|Sátán]] **hatalomtechnikai eszközei**ről lesz szó, külön alcímek alatt, nemcsak a megtévesztésről.{ #ypmbnt}
 
 
 Az [alábbi](https://youtu.be/Vlu5QxrwHEs) ÁKTV műsorban Czékus Jób beszél arról, hogy egyes tévéműsorokat úgy készítenek el, hogy a nemzetérzelmű embert szólítják meg, 60-80%-ban az igazat látszanak mondani és belekevernek olyan torzításokat, hazugságokat, hogy az egészről végül kiderül, hogy az ellenségeink nézőpontját akarja ránk erőltetni, belénk nevelni. Ha az ember 10-ből 6-8 dolgot hall, amiről érzi, tudja, hogy igaz lehet, akkor azt gondolja, hogy a többi is. Ami az egészben érdekes, hogy éppen egy nappal ezen műsor előtt is ezt a kritikát fogalmaztam meg a csatorna-üzelmeltető felé:  
@@ -48,7 +49,7 @@ A másik trükk, amikor nem is akarja magát alcázni. Székely Ildikó ÁKTV m�
 > **Az ismeretlen háttérhatalom földi helytartói már rég rájöttek a hatalomgyakorlás egyik mesterfogására: akinek nincsenek titkai, azt leleplezni se lehet**. A társadalom a megigézettség (hipnózis) állapotában van. Az igézők már rég nem rejtőzködnek, már rég nem titkolják szándékaikat. Mi, leleplezők pedig az igézők nyitott kapuit döngetjük, ahelyett, hogy a megigézetteket végre kivonnánk az igézők hatása alól.  
 - Megjegyzés: a hipnózis alatt állókat hogy lehetne egy csettintéssel észhez téríteni[^1]?  
 
-Quorán fő cikkemben is írtam, hogy ha hazudni kell, a legnagyobb hazugságot kell választani, olyat, amiről senki sem gondolná, hogy át lehetett volna vele verni. Lám, Adolf [[H/Hitler\|Hitler]] is klasszikus példa arra a tényre, hogy "Ha kellően nagy hazugságot mondasz, és elég gyakran ismétled, elhiszik." "A hazugság legyen nagy, legyen egyszerű, ismételd sokszor, és végül el fogják hinni."  
+Quorán fő cikkemben is írtam, hogy ha – valaki odáig fajul, hogy – hazudni kell, a legnagyobb hazugságot kell választani, olyat, amiről senki sem gondolná, hogy át lehetett volna vele verni. Lám, Adolf [[H/Hitler\|Hitler]] is klasszikus példa arra a tényre, hogy "Ha kellően nagy hazugságot mondasz, és elég gyakran ismétled, elhiszik." "A hazugság legyen nagy, legyen egyszerű, ismételd sokszor, és végül el fogják hinni."  
 ("If you tell a big enough lie and tell it frequently enough, it will be believed." "Make the lie big, make it simple, keep saying it and eventually they will believe it." – Adolf Hitler and his Propaganda Minister Joseph Goebbels (both used this tactic and quoted it)).  
 
 Egyébként a megtévesztés téveszt és [[T/Téved\|téved]] szavai elemeinek [[T/Tévely\|tévely]] párja a [[D/Devil\|devil]] szóval azonosul, csak jelzem (lentebb újra megismétlem). Lentebb [[M/Megtévesztés#Rágalmazás\|rágalmazás]] résznél is szóba kerülnek a sátán és ördög jelentésű szavak definíciójaként adott fogalmak (körülírás).  
@@ -57,6 +58,8 @@ A **csúsztatás** kifejezést is használjuk.
 [Ezen](https://www.youtube.com/watch?v=oNULoLMuX8w) Ne Legyen Áldozatos videóban végig többször használja a kifejezést Pap Gábor. 15:40-nél a Népszabadság bevált módiját meséli el. Először a szájába adja valakinek a hamis szöveget (PG-vel is megtörtént), amit ő soha nem mondott, utána azt cáfolták.  
 [Ezen](http://www.magtudin.org/Maracz%20L.%20Untenability%20of%20Finno-Ugric%20Theory.htm) cikkében Marácz László is említi a finnugristák kelléktárából ezt:  
 > We should put words, that he did not say, into the mouth of the person who judges us, and then we should contradict this.  
+> —  
+> Olyan szavakat kell a felettünk ítélkező személynek a szájába adnunk, amit nem ő mondott, és aztán ezt cáfoljuk.  
 
 A Ne Legyen Áldozat YouTube csatornán elérhető Pap Gáborral folytatott másik [beszélgetésben](https://youtu.be/O8DXMM_g3Q4) beszél arról, hogy a csúsztatás iskolapéldája: úgy teszek, mintha azt állítaná a másik fél, hogy (jelen esetben, hogy az embernek három részt tulajdonító tábor szerint két lelke[^2] lenne az embernek) és azt cáfolom. A megtévesztő szándékú kezdeményezés első mozdulata az efféle csúsztatás. Ugyanis utána már senki nem foglalkozik a kiinduló premisszával (jelen esetben, hogy most hány részből is állt az ember eredendően), csak a cáfolattal (hiszen a jóhiszemű ember azt gondolja, minden változtatás jobbító szándékú, a fejlődés jegyében). Ezen utóbbi gondolatokat már én teszem hozzá.  
 [Ezen](https://www.youtube.com/watch?v=734RGzc46us) Ne Legyen Áldozatos videóban 14:15-től szól arról PG, hogy a csak eredetileg hozzájuk szóló messiás-tudatot általánossá tétele sérti a zsidóságot és a kiválasztottság-tudatukat (megkérdőjelezné azt). Utána mondja PG, hogy nem tudja igazán megmondani, mikor és kik terjesztették ki a messiás-képzetet a judeo-kereszténységben: mikor lett rácsúsztatva a messiás fogalom az egyetemes megváltó fogalomra? Ez az a csúsztatás, melyet másutt **összemosás**nak, behelyettesítésnek hívtunk.  
@@ -87,13 +90,17 @@ Mondja még KT a PC-t bunkósbotnak, vállalhatatlan modorosságnak is.
 Az [alábbi](https://youtu.be/6q18nmOojWY) Szent Korona fény nélkül című VNTV adásban Facsar Imre 8:40-nél mondja, hogy a szkíta evangéliumból zsidó evangéliumot csináltak, viszont amíg előbbi a szabadságra, a zsidók mózesi törvényei a zsarnokságra alapul. A kettő pedig nem összeegyeztethető. A megtévesztés egyik eszköze a szemben álló dolgokat egylényegűnek mondani.  
 Itt jut eszembe KT egyik ÁKTV műsorának azon mondása (de [[P/Politikai korrektség\|politikai korrektség]] 4. pont alatt is erről volt szó), hogy ami ma megy, az vélemények ütköztetése (például Habsburgok kapcsán, valakik szerint milyen jó volt a magyarságnak). Elsikkad az igazság és annak megkeresésének vágya, csak a félrebeszélés működik. Ezt a Quorán is megírtam a minap:  
 > There is no sense of truth and untruth today in the minds of people, they see only differences in opinion. And while they are bogged down in important matters brought down to the level of pub quiz seriousness, important decisions are being made over their heads (with their consent and voting power).  
+> —  
+> Az emberek fejében ma már nincs meg az igazság és valótlanság érzete, csak a véleménykülönbségeket látják. És miközben a kocsmai kvíz-vetélkedő komolyságának szintjére süllyesztett fontos ügyekben vergődnek, a fejük felett (beleegyezésükkel és szavazati jogukkal) fontos döntéseket hoznak.  
 
-Az [alábbi](https://www.youtube.com/watch?v=XIB7tmuFFtc) Atilla akták 1. rész című ÁKA előadásban KT 1:07:33-nál megint szól arról, hogy a mai világban nincs jó és rossz, igaz és hamis, csak különböző nézőpontok vannak. Ezzel hülyítik a gyermekeket és azt akarják elhitetni, hogy az emberiség olyan pályán fejlődik, amelyben végsősoron ők osztják le a szerepeket és mindenki más a statiszta.  
+Az [alábbi](https://www.youtube.com/watch?v=XIB7tmuFFtc) Atilla akták 1. rész című ÁKA előadásban KT 1:07:33-nál megint szól arról, hogy a mai világban nincs jó és rossz, igaz és hamis, csak különböző nézőpontok vannak. Ezzel hülyítik a gyermekeket és azt akarják elhitetni, hogy az emberiség olyan pályán fejlődik, amelyben végső soron ők osztják le a szerepeket és mindenki más a statiszta.  
 [Ezen](https://qr.ae/pN2ypz) Quora válaszomban is hasonlóképpen írom:  
 > "The global imperialists from Rome onwards use these (Judaism as an ideology) as their action plan or screenplay; life is a theatre, and we are supposed to be the mute dumb dummies."  
 
 De maradjunk még ennél a kérdésnél. Az Anne Wright Constellations oldaláról való, a görög `doxa` = vélemény szóról szóló Platóntól származó, [[M/Miss#Miss 2)\|miss]] és [[I/Íj és a nyíl\|íj és a nyíl]] címnél szereplő passzusa rávilágít, hogy nemcsak az Íj és a nyíl ösvényéről, hanem az isteni igazságtól eltérő, ördögi-tévelygő ([[D/Devil\|devil]] = [[T/Tévely\|tévely]]; honnan [[T/Téved\|téved]]) véleményekről van szó (aki ezeket terjeszti, nemcsak célt téveszt, hanem Isten és isten népe, a magyarok ellen vét):  
-> In Cratylus by Plato, Hermogenes asks: "What do you think of doxa (opinion), and that class of words?" and Socrates answers: "Doxa is either derived from dioxis (pursuit), and expresses the march of the soul in the pursuit of knowledge, or from the shooting of a bow (toxon); the latter is more likely, and is conﬁrmed by oiesis (thinking), which is only oisis (moving), and implies the movement of the soul to the essential nature of each thing just as boule (counsel) has to do with shooting (bole); and boulesthai (to wish) combines the notion of aiming and deliberating – all these words seem to follow doxa, and all involve the idea of shooting, just as aboulia, absence of counsel, on the other hand, is a mishap, or missing, or mistaking of the mark, or aim, or proposal, or object."  
+> In Cratylus by Plato, Hermogenes asks: "What do you think of `doxa` (opinion), and that class of words?" and Socrates answers: "Doxa is either derived from `dioxis` (pursuit), and expresses the march of the soul in the pursuit of knowledge, or from the shooting of a bow (`toxon`); the latter is more likely, and is conﬁrmed by `oiesis` (thinking), which is only `oisis` (moving), and implies the movement of the soul to the essential nature of each thing just as `boule` (counsel) has to do with shooting (`bole`); and `boulesthai` (to wish) combines the notion of aiming and deliberating – all these words seem to follow doxa, and all involve the idea of shooting, just as `aboulia`, absence of counsel, on the other hand, is a mishap, or missing, or mistaking of the mark, or aim, or proposal, or object."  
+> —  
+> Platón Krátyluszában Hermogenész azt kérdezi: Mit gondolsz a doxáról (véleményről) és a szavaknak erről az osztályáról?", mire Szókratész így válaszol: "A `doxa` vagy a `dioxis`-ból (törekvés) származik, és a lélek menetelését fejezi ki a tudás keresésében, vagy az íjjal való lövésből (`toxon`); az utóbbi a valószínűbb, és az `oiesis` (gondolkodás) konﬁrmálja, ami csak `oisis` (mozgás), és a léleknek az egyes dolgok lényegi természetére irányuló mozgását jelenti, ahogyan a `boule` (tanács) a lövéshez (`bole`) kapcsolódik; és a `boulesthai` (kívánni) a célzás és a tanácskozás fogalmát ötvözi – mindezek a szavak mintha a doxa után következnének, és mind a lövés gondolatát foglalják magukban, ahogyan az `aboulia`, a tanács hiánya, másfelől a cél, a célzás, a javaslat vagy a tárgy elhibázása, eltévesztése vagy eltévesztése."  
 
 A megtévesztés tehát arra való, hogy az emberek tévedjenek; mindenféle ködösítés a helyes út megtalálásában akadályoz. Isten és a helyes szellemiség a helyes út. Mindezt, ha a Quorára fel szeretném írni, még kell említeni azt is, hogy nem a démonizált Nimród az emberiség ellensége (ahogy [[N/Nimrud#Nimrud és Jahve\|Nimrud és Jahve]] cím/alcímnél erre latin kifejezést is láttunk), hanem az a Jahve, aki a szemiták sátáni-ördögi istene. Az ő propagandájuk az emberiség kárára van.  
 
@@ -113,6 +120,8 @@ A kommunista pénzmaffia végig összejátszott a kapitalistával, hiszen eredet
 KT is egy műsorában saját maga írásából olvassa fel: a közvéleménynek azt állítják/tanítják, hogy a kommunizmus a munkások mozgalma azért, hogy elpusztítsák a [[K/Kapitalizmus\|kapitalizmus]]t. Valójában ez a két rendszer ugyanazon kézből indított és irányított volt.  
 [Ezen](https://en.wikipedia.org/wiki/L._Fry) oldalon is szerepel, hogy Leslie Fry alias Paquita Louise de Shishmareff Waters Flowing Eastward (1931) című írásában is bizonyítani igyekezett, hogy a Cion bölcseinek jegyzőkönyvében megfogalmazták hogy a két rendszer látszólagos ellentétet képez:  
 > She attempted to prove that the Protocols were part of a plot to destroy Christian civilization. The **apparent conflict between Communism and Capitalism** was a smoke-screen for Jewish domination, as outlined in the Protocols.  
+> —  
+> Megpróbálta bebizonyítani, hogy a Jegyzőkönyvek a keresztény civilizáció elpusztítására irányuló összeesküvés részei. A kommunizmus és a kapitalizmus közötti **látszólagos konfliktus** a zsidó uralom füstfüggönye volt, ahogyan azt a Jegyzőkönyvek felvázolták.  
 
 [[F/Fascism\|Fascism]] címnél a bolsevizmus és fasizmus egygyökerűségéről volt szó; azok sem ellentétek.  
 Ugyanígy látszólagos ellentét van a politikai [[B/Bal és jobb\|bal és jobb]] oldal között, ahogy ott külön alcím alatt foglalkoztunk is vele.  
@@ -223,6 +232,10 @@ Erről szóltam legutóbb az [alábbi](https://qr.ae/pvKJSX) Quora válaszban, a
 > Hungarian being Uralic is Habsburg/Western propaganda pushed by the Academy run by foreign interests. Then they say you can have Turkic descent as long as you forget about all else (Scythians whose past is in great demand). A classic case of bilateral tactics (both choices being wrong and untrue) with the truth not in dicussion (only in underground workshops, based on authentic facts, by the way). A similar thing happens in the Hungarian political scene. The third way (a party called Our Homeland) managed 6-7 percent of all votes (with basically no air/face time on Hungarian channels and blocked by the globalist mass manipulator FaceBook).  
 > As for the Turks and Mongols, all data on the eastern way of life is useful, so we can say that Hungarian research in all things Turkic and Mongolian is useful. But it would be just as useful to research Egypt (like Egyptologist Janos Borbola does with an improved way of transliteration) and other areas.  
 > Whatever gets the most focus and funding will be the "status quo of Hungarian prehistory." It's all about focus, like they do in the media for media manipulation (ignore all major news and repeat the same thing over and over again).  
+> —  
+> Az, hogy a magyar nyelv uráli eredetű, Habsburg/nyugati propaganda, amit az idegen érdekek által irányított Akadémia tol. Aztán azt mondják, hogy lehet török származású, amíg minden mást elfelejtünk (szkíták, akiknek a múltja nagyon keresett). A kétoldalú taktika klasszikus esete (mindkét választás téves és valótlan), az igazság nem a dikcióban (csak a földalatti műhelyekben, egyébként hiteles tényeken alapuló). Hasonló történik a magyar politikai színtéren is. A harmadik út (a Mi Hazánk nevű párt) a szavazatok 6-7 százalékát szerezte meg (gyakorlatilag a magyar csatornákon nem volt műsoridejük, és a globalista tömegmanipulátor FaceBook blokkolta).  
+> Ami a törököket és a mongolokat illeti, a keleti életmódról minden adat hasznos, tehát mondhatjuk, hogy a magyar kutatások minden török és mongol témában hasznosak. De ugyanilyen hasznos lenne Egyiptom (ahogy Borbola János egyiptológus teszi, az átírás javított módjával) és más területek kutatása is.  
+> Ami a legtöbb figyelmet és támogatást kapja, az lesz a magyar őstörténet "status quo-ja". Az egész a fókuszról szól, ahogy a médiában is teszik a médiamanipuláció érdekében (minden fontosabb hírt figyelmen kívül hagynak, és ugyanazt ismétlik újra és újra).  
 
 A kiindulópont az, hogy az ősi turáni (magyar) szemléletet a [[S/Szemiták és árják\|szemiták és árják]] nézőpontjából tárják elénk (de már a használt nyelveken is megmutatkozik: sumer szöveg akkádul, majd ez a nyugati tudomány német, francia vagy angol nyelvére fordítva és onnan magyarítva kerül hozzánk; szép kört írunk le turánitól turániig, ki tudja hány erőszaktevésen végigmenve). Arról is kell itt beszélni, hogy sok isten nőiségből hímséggé lett, és hogy mi csak a leírt szöveges hagyományokra támaszkodhatunk. Az egész helyzet ahhoz hasonlítható, mint mikor a hongkongi akció-vígjátékban Kis Kappan a hotel lobbiban elvesztett öngyújtóját a lámpafény alatt keresi, pedig nem ott, hanem a tér sötét sarkában veszítette el. Ma a Napot leárnyékoló szemita és árja zseplámpások fényét követve próbálunk keresgélni, ráadásul úgy, hogy az ő bal agyféltekés gondolkodásukat közben ránk erőltetik. Nekünk minden könyvet a sorok között olvasva kell olvasni és a lelkünkön, tudatalattinkon kell átszűrni. Ez a helyes út. Efféle témáról már [[B/Bal és jobb\|bal és jobb]] címnél is volt szó.  
 
@@ -231,7 +244,9 @@ A kiindulópont az, hogy az ősi turáni (magyar) szemléletet a [[S/Szemiták �
 Épp fentebb említettem. Alkalomadtán lehet valamit írni róla. A hatalomnak például finnugristáknak bármit lehet, de az ellenük szólóknak semmit. A zsidókról már nem is beszélve: róluk rosszat *mondani* nem lehet, de nekik *tenni* bármit (gójok kiirtása) szabad. A jogrendszer is így működik.  
 
 Marácz László [ezen](http://www.magtudin.org/Maracz%20L.%20Untenability%20of%20Finno-Ugric%20Theory.htm) cikkében a finnugrászok kettős mércéjét említi:  
-5\. Double standards are permitted for Finno-Ugric linguists.  
+> 5\. Double standards are permitted for Finno-Ugric linguists.  
+> —  
+> A finnugor nyelvészek számára a kettős mérce megengedett.  
 
 #### Götz László Keleten kél a Nap című könyvében írja:
 
@@ -249,7 +264,7 @@ Kifelé jótékonyságot mutatnak, karitatív, spirituális szervezetnek tüntet
 Eszközeik: a kettős beszéd, mely más mint a sima hazugság, ez sokkal kifinomultabb. Ezt átvette a sajtó, a média, a politikusok és a papok. Platón, Arisztotelész és Cicero erkölcstelennek nyilvánítva náluk.  
 A kettős játszma úgy néz ki, hogy nem szervezet, csak jótékonyság (ez a látszat); nem hierarchiára épülne, de mégis (33 fokozata van a szabadkőműves beavatottaknak).  
 
-![assets/Megtévesztés_image1.png|undefined](/img/user/M/assets/Megt%C3%A9veszt%C3%A9s_image1.png)  
+![assets/Megtévesztés_image1.png](/img/user/M/assets/Megt%C3%A9veszt%C3%A9s_image1.png)  
 [Ezen](https://www.youtube.com/watch?v=ZFBRVdsICSE) Feltámadás című húsvéti ÁKA előadásban 18:08-nál szól KT arról a kettős hatalmi játékról, ami (nemcsak) Magyarországon zajlik: Magyarországon a magyar emberek szavazatával bekerülnek a politikusok az országgyűlésbe majd pedig ott olyanokat (zsidó uzsoráztató maffia-háttérerőket) kezdenek szolgálni, akiket a magyarság sohasem választott (volna) meg. És amikor kiderül valódi természetük, valódi kötődésük, valódi hitrendszerük, akkor a kettős játékban a politikusnak az a dolga, hogy azt mondja, ami mindenki számára tetszetős: a választónak hogy, "ne idegeskedjetek, mi a ti érdeketekben teszünk mindent," majd a gyarmattartónak ugyanúgy, "ne idegeskedjetek, mi a ti érdeketekben teszünk mindent."  
 
 ## Proto-címkék és negációk
@@ -270,9 +285,9 @@ De így operál – hatalmas anachronizmusos csúsztatással és démonizáló c
 
 ## Projekció
 
-A **projekció**ról valamelyik Quora kérdésben adott válaszomban ([[K/Káin és Ábel\|Káin és Ábel]] címnél lehetett) is ejtettem szót: a saját nézőpontjukat kiterjesztik másokra, jó emberekre, nemzetekre.  
+A projekcióról valamelyik Quora kérdésben adott válaszomban is ejtettem szót: a saját nézőpontjukat kiterjesztik másokra, jó emberekre, nemzetekre.  
 [[H/Honfoglalás\|Honfoglalás]] címnél is arról volt szó, hogy projekcióval is elérik, hogy ne ők legyenek az egyedüliek, akik csalással vagy erőszakkal nyerték hazájukat.  
-[[B/Bálvány#Bálványimádó Jahve-imádó zsidók\|Bálványimádó Jahve-imádó zsidók]] cím/alcímnél is szóltunk arról legutóbb, hogy az egyénen kívül helyezett istenkép, mint amilyen a zsidóké, bálványimádásnak tekinthető. Tehát pont azok a zsidók beszélnek Jézus kapcsán bálványimádásról, akik maguk is bálványimádók (ráadásul [[J/Jahve\|Jahve]] csillagkép, ami nem valódi isten). Klasszikus esete a projekciónak.  
+[[B/Bálvány#Bálványimádó Jahve-imádó zsidók\|Bálványimádó Jahve-imádó zsidók]] cím/alcímnél is szóltunk arról legutóbb, hogy az egyénen kívül helyezett istenkép, mint amilyen a zsidóké, bálványimádásnak tekinthető. Tehát pont azok a zsidók beszélnek Jézus kapcsán bálványimádásról, akik maguk is bálványimádók (ráadásul [[J/Jahve\|Jahve]] csillagkép, nem valódi/teremtő isten). Klasszikus esete a projekciónak.  
 
 ## Zavarkeltés, ködösítés, elhomályosítás
 
@@ -317,6 +332,8 @@ Fentebb volt már szó arról, hogy szánkba adnak valamit, amit soha nem mondtu
 
 [Ezen](https://qr.ae/pGjcly) [[S/Szemitizmus\|szemitizmus]] címnél is bővebben idézett Quora válaszban is írtam Magyarország Trianonnal megtorolt háborús bűnei kapcsán:  
 > ...make you believe yourself to be guilty of something you didn't commit. This last line is especially true of Hungary, against which the global propaganda is ongoing. Not even Germany fared so badly as Hungary following the banker-orchestrated WW's. But of course, it all didn't start then.  
+> —  
+> ...elhitetik veled, hogy bűnös vagy valamiben, amit nem követtél el. Ez utóbbi sor különösen igaz Magyarországra, amely ellen folyamatos a globális propaganda. Még Németország sem járt olyan rosszul, mint Magyarország a bankárok által megrendezett világháborúk után. De persze az egész nem akkor kezdődött.  
 
 Ugyanis akkor is ment a vádaskodás. Arra kényszerítik a magyarságot, és ez nem ma kezdődött el, hogy azt fájlalja, azt utálja meg amit el sem követett.  
 
@@ -400,21 +417,33 @@ Még Ráháb történetéhez visszakanyarodva, tulajdonképpen arról van szó, 
 Utána arról az Ausztráliába költöző zsidó kolóniáról beszél, akik a helyi lakosokat zavarják, de ha felszólalnak ellene (és ezzel az antiszemita címkét is kiérdemlik), akkor rájuk mondják, hogy zavarják a rendet.  
 Demonstrációkra is fegyveres "békefenntartó" egységek mennek ki, akik provokálják a békés tüntetőket, hogy azok ha erőszakot alkalmaznak, rájuk lehessen fogni, hogy éppen ezért van szükség fegyveres jelenlétre és megfékezésükre.  
 De hát ez az inverz felfogás mindenhol ott van, például [ezen](https://qr.ae/pGLH2t) Quora válaszban is arról szóltam, hogy a félretájékozatás (spam és scam) tömegméreteket ölt:  
-Why were my Quora answers flagged as spam?  
+> *Why were my Quora answers flagged as spam?*  
 > Because Quora wants to protect people. Same way as Bill Gates wanted to protect people from dying of Covid, remember.  
 > These people (bots, algorithms) want to save all of you. They are (the products of) philanthropists. They want you to have proper information, a proper education, a proper (or shall I say *proppa*) view of the world.  
 > Or do you think I'm being ironic?  
 > This is what I got today as my answer on the real background of the Russian invasion got taken down.  
+> —  
+> *Miért jelölték a Quora válaszaimat spamnek?*
+> Mert a Quora meg akarja védeni az embereket. Ugyanúgy, ahogy Bill Gates is meg akarta védeni az embereket a Covid halálától, emlékszel?  
+> Ezek az emberek (botok, algoritmusok) meg akarnak menteni titeket. Ők (a) filantrópok termékei. Azt akarják, hogy megfelelő információkkal, megfelelő oktatással, megfelelő (vagy mondhatnám: *tutkó*) világnézettel rendelkezzetek.  
+> Vagy azt hiszed, hogy ironizálok?  
+> Ezt kaptam ma, mivel az orosz invázió valós hátteréről szóló válaszomat leszedték.  
+- A képet most nem csatolom.  
 
-Képet most nem csatolom.  
 > They don't want my take on it. I was deemed important enough (despite the fact that the answer was shown to only 6-7 people, while other answers mirroring the worldwide propaganda is shown to thousands, easily) to have someone or something take down my measly view on the world, which by the way, was not really mine, either, as it was mostly a video made by a Hungarian politician (one of the good(?) ones out there) who had taken FaceBook to court for censoring him and deleting his account before (right before election time, no less; I mean how disgusting is that; well, just as disgusting as the Ukrainian president's gay-dance on prime-time TV, featured in the video as well).  
 > This is what's happening, folks. What they have in the way of mass manipulation, the equivalent of weapons of mass destruction (soon to be used on all of us Europeans if push comes to shove; that's what the philantrophists in "Captain America"-land want anyway) is simply not enough for them to feel secure, they want to dispossess you of your own homemade little slingshot as well, that's how insecure, petty and cowardly little scum they are.  
 > **They say you are spamming or spreading hate speech, whatever, while it's exactly them who're doing it on a mass scale**. This is what you get for using their products: online services, personal computers, smart this, smart that...  
 > Don't use any of their products (or only until you are real up and smart with their phoney ways) and just say no.  
 > Say no to taking arms (in war) as well. You are only their pawns on a chess board that should have been smashed to pieces a long time ago.  
 > Today disinformation is shown as real information and truth-seekers' stuff as spam. Let me remind you that **God was also thrown out and substituted with Satan before. Hence you have Judeo-Christianity**, responsible for mass murdering hundreds of millions of people without cars, smart phones or lexicons. No great loss, right? Well, let me remind you, there are plans that you don't own anything soon, either. Satan's in charge and you're rooting for him without actually knowing you are. That's information for you right there. The most useful information you've received all your life.  
-
-Használtam a szövegben az irónia kifejezést. Ez is érdekes, mert éppen az inverz gondolkodásra mutat rá. Hogy úgy tűnik, mintha egyetértenék, de közben kiderül, hogy nem. A szerepek megcseréléséről van szó.  
+> —  
+> Nem kíváncsiak az én véleményemre. Elég fontosnak tartottak ahhoz (annak ellenére, hogy a választ csak 6-7 embernek mutatták meg, míg más, a világméretű propagandát tükröző válaszokat simán több ezernek), hogy valaki vagy valakik leszedjék a világról alkotott nyomorult véleményemet, ami egyébként nem is igazán az enyém volt, hiszen leginkább egy magyar politikus (az egyik jó(?) politikus), aki már korábban bíróság elé vitte a FaceBook-ot, amiért cenzúrázta és törölte a fiókját (ráadásul pont a választások előtt; mármint milyen gusztustalan ez; legalább annyira gusztustalan, mint az ukrán elnök főműsoridős meleg-tánca a tévében, ami szintén szerepelt a videóban).  
+> Ez történik, emberek. Ami a tömegmanipuláció, a tömegpusztító fegyverek megfelelője (amit hamarosan mindannyiunk ellen, európaiak ellen is bevetnek, ha úgy hozza a sors; az "Amerika kapitány"-ország filantrópjai amúgy is ezt akarják) egyszerűen nem elég nekik ahhoz, hogy biztonságban érezzék magukat, még a saját házi kis csúzlitoktól is meg akarnak fosztani benneteket, ennyire bizonytalan, kicsinyes és gyáva kis söpredék a maguk részéről.  
+> **Azt mondják, hogy te spammelsz vagy gyűlöletbeszédet terjesztesz, vagy akármi, miközben pont ők azok, akik ezt tömegesen teszik**. Ezt kapod azért, mert az ő termékeiket használod: online szolgáltatások, személyi számítógépek, okos ez, okos az...  
+> Ne használd egyik terméküket sem (vagy csak addig, amíg nem vagy igazán talpraesett és okos az álságos módszereikkel szemben), és egyszerűen mondj nemet.  
+> Mondj nemet a fegyverkezésre (háborúban) is. Ti csak a gyalogjaik vagytok egy sakktáblán, amit már régen darabokra kellett volna törni.  
+> Ma a dezinformációt valódi információként, az igazságkeresők dolgait pedig spamként tüntetik fel. Hadd emlékeztesselek, hogy **Istent is kidobták és a Sátánnal helyettesítették korábban. Ezért van a zsidó-kereszténység**; ez felelős több százmillió ember tömeges meggyilkolásáért, akiknek se autójuk, se okostelefonjuk, se lexikonjuk nem volt. Nem nagy veszteség, igaz? Nos, hadd emlékeztesselek titeket, vannak olyan tervek, hogy hamarosan ti sem rendelkeztek semmivel. A Sátán a főnök, és te neki drukkolsz, anélkül, hogy valójában tudnád, hogy így van. Itt van az információ. A leghasznosabb információ, amit egész életedben kaptál.  
+- Használtam a szövegben az irónia kifejezést. Ez is érdekes, mert éppen az inverz gondolkodásra mutat rá. Hogy úgy tűnik, mintha egyetértenék, de közben kiderül, hogy nem. A szerepek megcseréléséről van szó.  
 
 Mindennek a kiindulójaként ott van az Isten és Sátán küzdelme (ahogy Max Igan is jól érzékeli, jelenleg egy spirituális háború zajlik a Földön) (üdvtörténet szavuk nyilván nincs). Ahogy láttuk, az ördög neve is istenéből jön létre.  
 Maga a megtévesztés szó mentén pedig azon [[T/Téved\|téved]] és [[T/Tévely\|tévely]] (illetve [[T/Téboly\|téboly]]) szavakat lásd, melyek egyértelműen [[D/Devil\|devil]] vonatkozásúak.  
@@ -439,6 +468,11 @@ A VIII. egyetemes konstantinápolyi zsinat 11. kánonjára utal, mint a csúszta
 Never. These "languages" are hypothetical. Linguists take all words they find (most of them from the last 200-500 years), put them in a bag, mix them up and take liberties with projecting word forms back into a past they know nothing about. They usually use proto- tags to mean "we don't know," "we don't want to talk about it, for cultural-political reasons," etc. But because it all sounds scientific, and also because they teach it at universities, they become the norm. Basically everywhere in the world with other types of sciences and ideologies as well, they try to strong-arm you, force you to believe in what they cooked up. And as good liberals people gobble it up. Anything to muddy the waters, is their credo.  
 The problem is that even people who know that these languages never existed use these technical terms to be able to convey what they mean, and through general use, they "come alive."  
 Many, many schools of thought have suffered the same fate.  
+—  
+*Mikor beszélték az ősszláv nyelvet?*
+Soha. Ezek a "nyelvek" hipotetikusak. A nyelvészek fognak minden szót, amit találnak (a legtöbbet az elmúlt 200-500 évből), beleteszik őket egy zsákba, összekeverik őket, és szabadon vetítik vissza a szóalakokat egy olyan múltba, amelyről semmit sem tudnak. Általában proto-címkéket használnak arra, hogy "nem tudjuk", "kulturális-politikai okokból nem akarunk róla beszélni" stb. De mivel mindez tudományosnak hangzik, és azért is, mert az egyetemeken tanítják, ezek válnak a normává. Alapvetően mindenhol a világon más típusú tudományokkal és ideológiákkal is megpróbálják erőltetni, kényszeríteni, hogy higgy abban, amit ők kitaláltak. És mint jó liberálisok, az emberek bekebelezik. Bármi, ami zavarossá teszi a vizet, ez a hitvallásuk.  
+A probléma az, hogy még azok is, akik tudják, hogy ezek a nyelvek soha nem léteztek, ezeket a szakkifejezéseket használják, hogy át tudják adni, amiről beszélnek, és az általános használat révén "életre kelnek".  
+Sok-sok iskola ugyanerre a sorsra jutott.  
 
 [^4]: Lábjegyzet:  
 Viszont [ezen](https://en.wikipedia.org/wiki/Assumption_of_Mary) oldal szerint 1948-ban Magyarország megszüntette állami ünnepként való megünneplését. Vajon miért?  
