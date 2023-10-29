@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Ephebe/","title":"Ephebe","tags":["dg_uploaded"],"created":"2023-10-27T10:24","updated":"2023-10-27T10:24"}
+{"dg-publish":true,"permalink":"/E/Ephebe/","title":"Ephebe","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-10-27T10:24","updated":"2023-10-29T11:20"}
 ---
 
 
