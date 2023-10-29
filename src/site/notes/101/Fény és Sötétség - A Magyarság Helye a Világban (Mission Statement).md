@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["dg_uploaded","gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-10-29T04:28"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["dg_uploaded","gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-10-29T08:02"}
 ---
 
 
@@ -83,7 +83,7 @@ Az egyes helyeken található ún. Zotero linkek (ahol oldalszámokra lehet katt
 
 A lexikális adatok (lásd őket `ilyen` vagy főképpen tulajdon- és istennevek esetében **Ilyen** szedéssel) helyességére különösen ügyeltem, de becsúszhat itt-ott elírás vagy pedig a forrásom téved (vagy annak forrása). Olyan is előfordul, hogy minden igyekezetem ellenére nem sikerült minden lexikális adatot külön kiemeléssel jelölni. Ha látok valamit, menet közben javítom és ennek jogát fenntartom.  
 
-Menet közben úgy döntöttem, hogy a fontosabbnak ítélt (az esetek 90-95%-a) angol nyelvű részeket lefordítom. Ehhez a kitűnő DeepL fordítót használom. A kész fordításokban csak a látványos vagy ordító hibát javítom, de elképzelhető, hogy helyenként kissé magyartalan marad a szöveg. Az említett fordító így is messze felülmúlja a konkurrensek magyarra fordító képességét – mindez a 21. században.  
+Menet közben úgy döntöttem, hogy a fontosabbnak ítélt angol nyelvű részeket (az esetek mintegy 90-95%-a lehet) lefordítom. Ehhez a kitűnő DeepL fordítót használom. A kész fordításokban csak a látványos vagy ordító hibát javítom, de elképzelhető, hogy helyenként kissé magyartalan marad a szöveg. (Az említett fordító így is messze felülmúlja a nagynevű világcégek magyar nyelvre fordító képességét – történik mindez a 21. században...)  
 
 ### A tartalom
 
