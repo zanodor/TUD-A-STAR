@@ -1,13 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sarkcsillag/","title":"Sarkcsillag","tags":["dg_uploaded"],"created":"2023-10-13T12:33","updated":"2023-10-25T02:10"}
+{"dg-publish":true,"permalink":"/S/Sarkcsillag/","title":"Sarkcsillag","tags":["dg_uploaded"],"created":"2023-10-13T12:33","updated":"2023-10-29T02:59"}
 ---
+
+
 
 
 # Sarkcsillag
 
 Azon csillag, mely az égkör sarkához legközelebb áll. A mi éjszaki égkörünkön azon csillag a [[U/Ursa Minor\|Kis Medve csillagkép]]ben, mely az éjszaki sarknak legközelében van. Másképp: gönczcsillag. (Stella polaris). A Föld tengelye megközelítőleg 4320 évenként mindig egy másik csillagképre, jelenleg az Ursa Minor (Kisgöncöl) csillagképben lévő [[P/Polaris\|Polaris]] nevű csillag irányába mutat.  
 A mellékelt képen a Sarkcsillag [[P/Precesszió\|precesszió]] következtébeni vándorlását láthatjuk.  
-![assets/Sarkcsillag_image1.jpeg|undefined](/img/user/S/assets/Sarkcsillag_image1.jpeg)  
+![assets/Sarkcsillag_image1.jpeg](/img/user/S/assets/Sarkcsillag_image1.jpeg)  
 
 #### Gesztesi Albert csillagász A világ négy sarka...
 
@@ -38,7 +40,7 @@ Az alábbiak Hamlet Malmából származnak és szintén az előbb említett [[A/
 
 Azt pedig WFW könyvéből is tudjuk, hogy az istenek hyperboreai északi sarki trónja a – későbbi mindenkori – Sarkcsillag, mely ma is Polaris, az Kis Medve alfája.  
 
-![assets/Sarkcsillag_image2.png|undefined](/img/user/S/assets/Sarkcsillag_image2.png)  
+![assets/Sarkcsillag_image2.png](/img/user/S/assets/Sarkcsillag_image2.png)  
 A régi korok népei szerint, ha – mi már tudjuk hogy a [[P/Precesszió\|precesszió]] eredményeként (illetve a magyarok is ismerték, de a szájhagyomány nem őrzi meg a tudományos okfejtést, ez a terület a táltosok privilégiuma) – a sarkcsillagot hordozó csillagkép leeseik az égről, akkor eljön a világvége.  
 Néhány példa a Hamlet Malma című könyvből:  
 > A szibériai kirgizek a Kis Göncölnek a Sarkcsillaghoz legközelebb eső, és ívet formázó három csillagát "kötélnek" nevezik, melyhez a csillagkép két nagyobb csillaga, a két ló hozzá van kötve. Az egyik ló fehér, a másik kékesszürke. A Nagy Göncöl hét csillagát a hét őrnek nevezik, akiknek feladata megvédeni a lovakat az ólálkodó farkastól. Ha egyszer a farkasnak sikerül megölnie a lovakat, eljön a világvége.  
@@ -73,7 +75,7 @@ A Sarkcsillag nevei egyes nyelveken [[T/TÁT\|TÁT]], és, ahogy [[P/Pole\|pole]
 Ahogy [[S/Sarok\|sarok]] és [[S/Sárkány\|sárkány]] címnél is szerepelt, sárkány felbontható lehetne még Sark-Án alakban. A sárkány név ugyanis – más fontos szavainkhoz hasonlóan – több információt kell magában eltároljon. Az kevéssé valószínű, hogy a sárkány (közvetlenül/csak) a [[S/Sárkány csillagkép\|Sárkány csillagkép]]et jelentené (eredetileg). Bár kétségtelen, hogy [[E/Észak\|észak]]on található és a Sárkány csillagkép egyes csillagai voltak már/lesznek még sarkcsillagok.  
 Közben megoldottuk a kérdést [[S/Sárkány csillagkép\|Sárkány csillagkép]] címnél és [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] címnél:  
 RHA könyvének 208-209. oldalán a Sárkány csillagkép gammájáról szól: Lockyer adatából kiindulva mondja, hogy több más istennőben, [[S/Sekhet\|Sekhet]]-tel egyetemben a Nílust tisztelték, mely szimbolikusan a Sárkány gammájához volt kötött.  
-Amint [[S/Sárkány csillagkép\|Sárkány csillagkép]]nél szó volt róla, istenanya (sumér [[A/AN, ÁN\|AN]], [[A/Anu\|Anu]] esetében is) égi hona az északi terület, melynek kivételes helye a [[S/Sarkcsillag\|Sarkcsillag]], mely előtagja éppen szerepel is a Sárkány névben, mely így lehet Sark-Án, az Ég Sarka értelmű is! Azaz Sárkány egyszerre utal a Szíriuszra és a Sárkány csillagképre is, éppúgy, ahogy az RHA könyvének 204. oldalán említett asszír-babiloni `Sir` = kígyó (sárkány is lehet) egyszerre utalhat a Sárkány csillagképre/vagy a Tejútra és Szíriuszra is! Zseniális névalkotás magyarjainktól. Szár-Kan a Szíriusz, Sark-Án a Sárkány csillagkép, mely ugye a Sarkcsillagot hordozta a sumér időkben ([[T/Thuban\|Thuban]] volt a Sarkcsillag, melyből a [[T/Typhon\|Typhon]] név is származott).  
+Amint [[S/Sárkány csillagkép\|Sárkány csillagkép]]nél szó volt róla, istenanya (sumér [[A/AN, ÁN\|AN]], [[A/Anu\|Anu]] esetében is) égi hona az északi terület, melynek kivételes helye a [[S/Sarkcsillag\|Sarkcsillag]], mely előtagja éppen szerepel is a Sárkány névben, mely így lehet Sark-Án, az Ég Sarka értelmű is! Azaz Sárkány egyszerre utal a Szíriuszra és a Sárkány csillagképre is, éppúgy, ahogy az RHA könyvének 204. oldalán említett asszír-babiloni `sir` = kígyó (sárkány is lehet) egyszerre utalhat a Sárkány csillagképre/vagy a Tejútra és Szíriuszra is! Zseniális névalkotás magyarjainktól. Szár-Kan a Szíriusz, Sark-Án a Sárkány csillagkép, mely ugye a Sarkcsillagot hordozta a sumér időkben ([[T/Thuban\|Thuban]] volt a Sarkcsillag, melyből a [[T/Typhon\|Typhon]] név is származott).  
 
 ## Nap – Sarkcsillag szimbolika
 
@@ -103,10 +105,14 @@ A Szaturnusz-analógiáknak itt nincs vége. Úgy tűnik, miután – ahogy mond
 A Hamlet Malmában írják:  
 > A\[z Orion csillagképhez köthető bolygó-istenség\] Szaturnusz, a kozmosz mértékeinek adója, Babilonban a "Törvény és Igazságosság Csillaga", a "Nemezis Csillaga" Egyiptomban, de a Szükségszerűség és Megtorlás Uralkodója, röviden a Császár. Kínában Szaturnusznak a címe "Génie du pivot", mint a **Középpont felett ügyelő isten, s ugyanezt a címet kapja a Sarkcsillag**.  
 
-Fontosabb, hogy JM Ahol a madár se jár című könyvében a Tejútistennő köldökét és ezzel méhét a Sarkcsillaggal azonosítja ([[G/Göncöl\|Göncöl]], valamint [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] címnél is szerepelt):  
+Fontosabb, hogy...
+
+#### Jankovics Marcell Ahol a madár se jár...
+
+...című könyvében a Tejútistennő köldökét és ezzel méhét a Sarkcsillaggal azonosítja ([[G/Göncöl\|Göncöl]], valamint [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] címnél is szerepelt):  
 > A Sarkcsillagot hordozó szarvas képzete szervesen illeszkedik a Nappal, kereszttel, világfával "viselős" állatistennő képzetéhez. A **Sarkcsillag nemcsak a világfába vert arany Szögcsillag**[^2], **de a tejútistennő köldöke** is, s egyiptomi példa nyomán nagyon valószínű, hogy a régiek úgy hitték, a télen halott (a magas északon hosszabb időre a horizont alatt rekedt) Nap északon, az istennő méhében (a köldöke mögött) várja keleti újjászületését.  
 
-[[C/Csudaszarvas\|Csudaszarvas]] címnél pedig azt láttuk, hogy ami egy helyen Szíriuszra utaló csillag, az másutt, északi népeknél a Sarkcsillag (a szarvas homlokán). (Másutt még Vénusz.)  
+[[C/Csudaszarvas\|Csudaszarvas]] címnél pedig azt láttuk, hogy ami egy helyen Szíriuszra utaló csillag, az másutt, északi népeknél a Sarkcsillag (a szarvas homlokán). (Másutt még – na de melyik "fényös" – Vénusz.)  
 
 ## Sarkcsillag és Szíriusz azaz miben áll a Sarkcsillag – Szíriusz kapcsolata
 
@@ -118,7 +124,7 @@ Ugyanakkor itt azt le kell szögezni, hogy a forgástengelyek tekintetében a Va
 Van más kapcsolat is a Szíriusz és a Sarkcsillag között, elnevezések (és mögöttük álló fogalmak) szintjén (talán már megvolt valahol hasonló okfejtés).  
 [[K/Kontár\|Kontár]] címnél legutóbb írottak alapján tudjuk, hogy ami egyszer Hun-Ter = Vadász, máskor Kantár, Kontár, mely mutatja, hogy ellen-Napról van szó (Orion-Hunor csillagkép [[M/Magor\|Magor]] születési helyével szemben áll). Az [[A/Andra\|Andra]] és [[O/Other\|other]] (valamint [[A/Anta\|anta]] és [[A/Anti-\|anti-]]) címnél írottak alapján is látjuk, hogy a másik Nap, az [[N/Nap#Nap – Ellen-Nap\|ellen-Nap]] az, amiről itt szó van. Igen ám, de igen hasonló alakú szavak a [[C/Centre\|centre]] = központ és a [[K/Kampó\|kampó]] és [[K/Kantár\|kantár]] címnél is előjövő török [[K/Kuntar\|kuntar]] = kampó is. Ezen szavak már inkább a Sarkcsillagra látszanak utalni. [[C/Centre\|Centre]] lehet még persze a [[G/Galactic centre\|Galactic centre]], a Tejútközpont is. Az egész rendszer működését a szavak alapján le kellene már fixálni ([[D/Dzsed\|dzsed]] és más címnél már volt erről szó, ki tudja mennyire helyesen megrajzolt diagramos adatokkal is).  
 Továbbmenve, a (japán `kuma` névvel is [[C/Comet\|comet]] címnél hasonlított) kínai `Kan` = medve elnevezése is annak (Kutya Kan-hoz hasonló) északisága viszonylatában látandó (PJI írja):  
-A kínai népi hagyományban Ti-Sa, a névben a Ti – Föld, a Sa – Szellemek ártalmas hatása –, 72 csillag ártó szelleme. A Ti-Sa szemben áll a Nagy Medve csillagainak 36 szellemével, őket Tien-Kannak nevezik, Tien – Ég, Kan – a Nagy Medve.  
+> A kínai népi hagyományban Ti-Sa, a névben a Ti – Föld, a Sa – Szellemek ártalmas hatása –, 72 csillag ártó szelleme. A Ti-Sa szemben áll a Nagy Medve csillagainak 36 szellemével, őket Tien-Kannak nevezik, Tien – Ég, Kan – a Nagy Medve.  
 
 Érdekes a Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (második kötetének) 185. oldalán hozott akkád **Dugga** Sarkcsillag elnevezés, mert a Dug a Kutyának ([[D/DOG#Dog 2)\|dog]]) is alkalmas neve, ugyanakkor [[D/Dög\|dög]] = halál és a [[N/Nap – halott Nap\|Nap – halott Nap]] helye a Sarkcsillag.  
 
@@ -131,7 +137,7 @@ A kínai népi hagyományban Ti-Sa, a névben a Ti – Föld, a Sa – Szellemek
 
 Mind a föntiek után nem lesz többé oly érthetetlen előttünk az sem amit némely népmesénk mond, hogy Tündér Ilona vára aranyláncon arany csillaghoz erősítve függ és mindig arra fordul amerre az Áldott Nap. Ez aranycsillag tehát a Sarkcsillag.  
 
-Ezen MA által kifejtett téma azért érdekes (hogy épp most látom), mert éppen írni készültem egy [[A/AN, ÁN\|AN, ÁN]]/[[A/Anu\|Anu]], [[T/Throne\|throne]], [[I/Idő\|idő]], [[S/Sárkány csillagkép\|Sárkány csillagkép]], [[E/Észak\|észak]], [[K/Korona\|korona]], [[C/Corona Borealis\|Corona Borealis]], [[C/Caer Arianrhod\|Caer Arianrhod]] és más címnél írottakból valahová egy összefoglalást. Még nem tudom hová, milyen címmel.  
+
 
 Robert Graves The White Goddess című könyvében ugye nem a (Sarkcsillagot valaha is hordozó) Sárkány és Medve csillagképeket, hanem a [[C/Caer Arianrhod\|Caer Arianrhod]]-dal (és mi van [[C/Caer Sidi\|Caer Sidi]]-vel?) is kapcsolatba hozott [[C/Corona Borealis\|Corona Borealis]] csillagképet helyezte előtérbe istennő/tündéri lakóhely értelemben.  
 
