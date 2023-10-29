@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Oak/","title":"Oak","tags":["dg_uploaded"],"created":"2023-10-11T04:44","updated":"2023-10-25T02:03"}
+{"dg-publish":true,"permalink":"/O/Oak/","title":"Oak","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-11T04:44","updated":"2023-10-29T02:55"}
 ---
 
 
@@ -19,15 +19,19 @@ Az ([[E/Elk\|elk]] címnél is említett) ónorvég `eik` egyszerre tölgyfa és
 > A magyaroknál párhuzamát találjuk a tölgyfa ágai és a közönséges szarvas agancsa ágasbogossága azonos vonalritmusában, amit népünk ma is ezen ágasbogas szavunkkal nevez meg, amivel azután egyeznek a magyar-kún ág, makk, makk-fa (tölgy-fa) valamint e szarvasfaj egykori ágos, ákos neve; emlékezünk pedig, hogy regös-énekeink a Csodaszarvas "ezer ágaboga"-ról szólanak.  
 
 Lásd erről MA Csodaszarvasának anyagát képekkel [[A/Ágas-bogas\|ágas-bogas]]. Egy képet ide is tehetünk:  
+![assets/Oak_image1.png](/img/user/O/assets/Oak_image1.png)  
 
-![assets/Oak_image1.png|undefined](/img/user/O/assets/Oak_image1.png)  
 Robert Graves The White Goddess című könyvében is megtalálható az összevetés:
 > From Sardinia comes a Bronze Age figurine of a man-stag with horns resembling the foliage of an oak, a short tail, an arrow in one hand and in the other a bow that has turned into a wriggling serpent.  
+> —  
+> Szardíniáról származik egy bronzkori ember-szarvas figura, amelynek szarvai egy tölgyfa lombozatára emlékeztetnek, rövid farka van, egyik kezében nyílvessző, a másikban pedig egy tekergő kígyóvá változott íj.  
 
 J. E. Cirlot Dictionary of Symbols című könyvében stag címnél írja:  
 > Its symbolic meaning is linked with that of the Tree of Life, because of the resemblance of its antlers to branches.  
+> —  
+> Szimbolikus jelentése az élet fájához kapcsolódik, mivel agancsa hasonlít az ágakhoz.  
 
-Szántai Lajos és Pap Gábor is beszél az Íj és a Nyíl ösvényéről (lásd Evernote), arról, hogy a cél az [[A/Agancs\|agancs]]ok által jelképezett szellemiség. Az agancs és a tölgyfa ágai (lásd még róla aranyág) analogikusan egymásnak megfeleltettek.  
+Szántai Lajos és Pap Gábor is beszél az Íj és a Nyíl ösvényéről, arról, hogy a cél az [[A/Agancs\|agancs]]ok által jelképezett szellemiség. Az agancs és a tölgyfa ágai (lásd még róla aranyág) analogikusan egymásnak megfeleltettek.  
 A szarvasagancs-tölgyfaág analógia előjött [[H/Hart\|hart]] = szarvasbika címnél is, mivel a szó szinte azonos a baszk `haritz`, `harizki` = tölgy szóval.  
 
 A [[D/Deer\|deer]] szó pedig az életfa [[T/Tree\|tree]] szavával mutat ugyanilyen párhuzamot illetve azonosságot.  
@@ -42,7 +46,7 @@ Azt pedig láttuk, hogy a fa és a tölgy fogalmai egymással megfeleltek (egyes
 
 Ugyanakkor szóba hozható még az MA által említett [[O/ÓG\|ÓG]], mely a földbe vájt (és DGW Dog-Man könyvének 176-177. oldalain található kínai adatai alapján bármely, nemcsak földbe vájt kialakítású) lak, ház füstkieresztő nyílásán kívül jelentenie kellett a [[S/Sarkcsillag\|Sarkcsillag]]ot is, minthogy minden lak közepén életfa volt leszúrva (sátor merevítője is ez), és ez mutatott a Sarkcsillagra (lásd erről diagramot [[I/Íj és a nyíl\|íj és a nyíl]]).  
 
-Nem Sarkcsillagot, de Medvét említ RHA Star Names című könyvében, kinek forrása, Lockyer szerint, **Āk** = Szem nevű a [[U/Ursa Maior\|Nagy Medve csillagkép]] alfája, Dubhe. Nem írja, milyen nyelven, de ÓK/ÓG szem jelentésével egyező. PJI adata szerint az udmurt és komi `oh` = medve. Ez stimmel is. Nem vehette észre a csillagászati értelmet.
+Nem Sarkcsillagot, de Medvét említ RHA Star Names című könyvében, kinek forrása, Lockyer szerint, **Āk** = Szem nevű a [[U/Ursa Maior\|Nagy Medve csillagkép]] alfája, [[D/Dubhe\|Dubhe]]. Nem írja, milyen nyelven, de ÓK/ÓG szem jelentésével egyező. PJI adata szerint az udmurt és komi `oh` = medve. Ez stimmel is. Nem vehette észre a csillagászati értelmet.
 
 Párhuzamát is megtaláljuk a szónak:  
 RHA Star Names című könyvében írja, hogy az észak-amerikai bennszülött [[I/Indián\|indián]]ok hagyományaiban [[U/Ursa Maior\|Ursa Maior]] neve **Ok**uari és Paukunawa: mely nevek jelentése szintén medve. Ezen adat [[I/Isten\|Isten]] címnél is szerepelt.  
@@ -54,6 +58,9 @@ A Nagy Medvénél maradva, az ősi csillagkép-istent benne kereső...
 ...című könyvében a tölgyről szólva a fát is ezen csillagképben látja (valójában a Tejút maga a fa, ennek északi, égbe nyúló ágai lehetnének a cirkumpoláris csillagképek; nála a tölgyfa ága-bogaival hasonlítható szarvas szarv-as-ként "Horned One," míg amit a utána ír, azt is értem):  
 > The representation of a tree can be located within the boundaries of the constellation of Ursa Major (Fig 37). Thus, as we have seen, whilst Ursa Major can be viewed as a cup, chariot, stag, swan, plough, throne etc., there is strong evidence to support the view that the full pattern of the constellation could also be perceived as "the tree."  
 > On the basis of everything we have discovered thus far, this tree is located in "the house of God" and could actually be regarded as a representation of God himself. Since (apart from the base of the trunk) the tree in Fig 37 does not fall outside the boundaries of the constellation this could imply that Ursa Major in its entirety is the location of Paradise. If the constellation of Ursa Major is synonymous with the tree of knowledge then the tree is associated with The Horned One, Pluto and the Serpent that tempted Eve. At the same time it holds within its branches a selection of benevolent and divine personalities such as Adonis and Osiris. The Garden of Eden becomes therefore a place where good and evil, God and the Devil, Adonis and Beelzebub co-exist in a prolonged cycle of alternating dominance.  
+> —  
+> A fa ábrázolása az Ursa Major csillagkép határain belül található (37. ábra). Így, mint láttuk, míg az Ursa Major tekinthető kupának, szekérnek, szarvasnak, hattyúnak, szántónak, trónnak stb. is, erős bizonyítékok támasztják alá azt a nézetet, hogy a csillagkép teljes mintázata "faként" is felfogható.  
+> Mindazok alapján, amit eddig felfedeztünk, ez a fa "Isten házában" található, és tulajdonképpen magának Istennek az ábrázolásának tekinthető. Mivel (a törzs tövétől eltekintve) a 37. ábrán látható fa nem esik ki a csillagkép határain kívülre, ez arra utalhat, hogy az Ursa Major a maga teljességében a Paradicsom helye. Ha az Ursa Major csillagkép a tudás fájának szinonimája, akkor a fa a Szarvassal, a Plútóval és az Évát megkísértő kígyóval hozható kapcsolatba. Ugyanakkor ágai között válogatott jóindulatú és isteni személyiségeket tart, mint például Adonisz és Ozirisz. Az Édenkert tehát olyan hellyé válik, ahol a jó és a rossz, Isten és az ördög, Adonisz és Belzebub egymás mellett élnek a váltakozó uralom hosszan tartó ciklusában.  
 
 (Az európai jávorszarvas neve angolul [[E/Elk\|elk]] (Amerikában a fontos M-SZ vázzal [[M/Moose\|moose]]).)  
 
@@ -73,17 +80,26 @@ De ha már itt tartunk, az [[O/Okád\|okád]], valamint [[C/Csudaszarvas\|Csudas
 Egy távolabbi hasonlítási kísérlet lehet [[O/Őz\|őz]] = ős szavunk, de MA megoldása a helyes. (Ez itt ilyenkor már csak játék a szavakkal, és azért kerülnek ide, mert valamikor átolvasva új gondolatokat ébreszthetnek más témákkal (való kapcsolódás) irányában.)  
 
 Lásd még a Tejút-tölggyel azonosuló Csudaszarvasünő agancsaival kapcsolatba hozható Tejút-ágas ([[V/Villa\|villa]]) szerű képződmény [[M/Magyar térrendezés\|magyar térrendezés]]ben való megjelenése kapcsán [[G/Gable\|gable]], valamint szintén MA adatait, rajzait [[A/Axis\|axis]] és [[T/Toll#Toll 2)\|toll]] címnél.  
-De ha már axis, nem lehet, hogy ez is ágas, ákos szavunk, ahogy a Tejút-folyó [[O/Oxus\|Oxus]] is innen vehette nevét? A fentebbi görög szavak is mind ide tartoznak, ehhez a képhez.  
+De ha már `axis`, nem lehet, hogy ez is ágas, ákos szavunk, ahogy a Tejút-folyó [[O/Oxus\|Oxus]] is innen vehette nevét? A fentebbi görög szavak is mind ide tartoznak, ehhez a képhez.  
 
-A lengyelek Alexandra-Dorothea-nak Andor-"Dávid"-on keresztül hozzám jutó információja szerint:  
+A lengyelek Alexandra-Dorothea információja szerint:  
 > In Slavic/Polish mythology the deer is often associated with the tree of life (oak).  
 > Deer's antlers were considered to be the symbol of fertility.  
-- Nálunk is az ág > agancs szó, hogy Dávid is észreveszi. Meg ugye sok szkíta ábrázoláson a szarvas fején faágak vannak.
+> —  
+> A szláv/lengyel mitológiában a szarvast gyakran az élet fájával (tölgy) hozzák kapcsolatba.  
+> A szarvas agancsát a termékenység szimbólumának tartották.  
+- Nálunk is az ág > agancs szó. Meg ugye sok szkíta ábrázoláson a szarvas fején faágak vannak.
 
-![assets/Oak_image2.jpeg|undefined](/img/user/O/assets/Oak_image2.jpeg)  
-![assets/Oak_image3.jpeg|undefined](/img/user/O/assets/Oak_image3.jpeg)  
-> In Poland there is legend about the golden deer but it is considered a fairy tale for children. And the ancient Slavs in Poland were worshipping the holy oak.  
+![assets/Oak_image2.jpeg](/img/user/O/assets/Oak_image2.jpeg)  
+![assets/Oak_image3.jpeg](/img/user/O/assets/Oak_image3.jpeg)  
+> In Poland there is legend about the golden deer but it is considered a fairy tale for children. And Ancient Slavs in Poland were worshipping the holy oak.  
 > It had spiritual meaning for them...they loved nature generally.  
 > \[...\]  
-> Yes, all good and the ancient Slavs in Poland, for example, were worshiping oaks, the holy oaks, the mighty oaks. The cult of trees was always very strong here. In modern times it is enclosed in the notion of protection and preservation of nature and its habitats, forests, woodlands, tree, in fact only Slavic languages differentiate the various types of woodland, depending on the type of the tree or the species of trees...  
-> Even in the past Polish kings imposed laws of non-killing important animals or trees from certain parts of the Polish forests, doing it was punishable even by death and it was not important who you were, a magnate, the noble or the peasant. In fact the only surviving primeval forest in Europe is in Poland with its largest European mammal, the European bison = `żubr`.  
+> Ancient Slavs in Poland, for example, were worshiping oaks, the holy oaks, the mighty oaks. The cult of trees was always very strong here. In modern times it is enclosed in the notion of protection and preservation of nature and its habitats, forests, woodlands, tree; in fact only Slavic languages differentiate between the various types of woodland, depending on the type of the tree or the species of trees...  
+> Even in the past Polish kings imposed laws of non-killing important animals or trees from certain parts of the Polish forests; doing so was punishable even by death and it was not important who you were, a magnate, a noble or a peasant. In fact the only surviving primeval forest in Europe is in Poland with its largest European mammal, the European bison = `żubr`.  
+> —  
+> Lengyelországban létezik egy legenda az aranyszarvasról, de ez egy gyerekeknek szóló mese. Az ősi lengyelországi szlávok pedig a szent tölgyet imádták.  
+> Spirituális jelentése volt számukra...általában szerették a természetet.  
+> \[...\]  
+> Az ősi szlávok Lengyelországban például imádták a tölgyeket, a szent tölgyeket, a hatalmas tölgyeket. A fák kultusza itt mindig is nagyon erős volt. A modern korban a természet és élőhelyei, az erdők, erdőségek, fák védelmének és megőrzésének fogalmába burkolózik; tulajdonképpen csak a szláv nyelvek tesznek különbséget a különböző erdőtípusok között, a fafajok vagy fafajok típusától függően...  
+> A lengyel királyok már a múltban is törvényeket hoztak arról, hogy a lengyel erdők bizonyos részein nem szabad fontos állatokat vagy fákat megölni; ha valaki ezt megteszi, akár halállal is büntethető, és nem volt fontos, hogy ki volt az illető, mágnás, nemes vagy paraszt. Valójában Európa egyetlen fennmaradt őserdeje Lengyelországban található, a legnagyobb európai emlősállattal, az európai bölénnyel (`żubr`).  

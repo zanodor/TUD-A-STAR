@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["dg_uploaded"]}
+{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2023-10-29T03:03"}
 ---
 
 
@@ -44,8 +44,10 @@ Záhonyi András A somogyi rovástábla és az Arvisura című az Ősi Gyökér 
 - A rovástábláról magam semmit sem tudok, így kénytelen vagyok a vele foglalkozóknak hinni.  
 
 Perzsa Szentháromságról [[A/Ardvisura Anahita\|Ardvisura Anahita]] címnél is volt szó:  
-Perzsiában az Achaemenida Artaxerxes II[^2] uralkodó által építetett szobrok, templom-építmények feliratain Anahita szerepének fontossága olymód tűnik ki, hogy közvetlenül Ahura Mazda mellett említik:  
+Perzsiában az Achaemenida Artaxerxes II[^2] uralkodó által építtetett szobrok, templom-építmények feliratain Anahita szerepének fontossága olymód tűnik ki, hogy közvetlenül Ahura Mazda mellett említik:  
 > Artaxerxes' inscription at Susa reads: "By the will of Ahura Mazda, Anahita, and Mithra I built this palace. May Ahura Mazda, Anahita, and Mithra protect me from all evil" (A²Hc 15-10). This is a remarkable break with tradition; no Achaemenid king before him had invoked any but Ahura Mazda alone.  
+> —  
+> Artaxerxész szúszai felirata így szól: "Ahura Mazda, Anahita és Mithra akaratából építettem ezt a palotát. Ahura Mazda, Anahita és Mithra óvjon meg engem minden gonosztól" (A²Hc 15-10). Ez figyelemre méltó szakítás a hagyományokkal; előtte egyetlen akajmenida király sem hivatkozott másra, csak egyedül Ahura Mazdára.  
 - Ez a szentháromság megvan sok kultúrában, de erről az Encyclopedia Iranica írói nem tesznek említést.  
 
 #### Gyárfás Ágnes lánya, Tibold Makk Szabina Aranykalickából kiröppenő gondolatok...
@@ -63,18 +65,18 @@ Perzsiában az Achaemenida Artaxerxes II[^2] uralkodó által építetett szobro
 
 ...című könyvének 135. oldalán iráni, egyiptomi, krétai és magyar párhuzamokra építve írja:  
 > **A legrégibb szentháromság-rendszer az anya-leánya-fiúgyermek harmasság**; e hármas összefüggéséről beszél az iráni, az egyiptomi, a krétai és a mi kultúránk is[^3]. Ez a képzet változott át a bronzkor kései szakaszában[^4] atya-anya-fiú hármasságra, majd a \[judeo-\]kereszténységben teljes férfiúi hármasságra (atya, szentlélek, fiú). A három rendszer változása pontosan követhető emlékeinkben.  
-![assets/Szentháromság_image1.png|undefined](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image1.png)  
+![assets/Szentháromság_image1.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image1.png)  
 
 Nyilván a [[N/Nagyboldogasszony\|Nagyboldogasszony]] és [[K/Kisasszony\|Kisasszony]] lenne az [[A/Anya#Kettős anyaság\|kettős anyaság]] cím/alcímnél is taglalt két nőiség. A fiú neve nála ki lenne? Nyilván nem Magor vagy Jézus. Esetleg az Éganyára, Holdanyára és a Napra gondolt? És mi a helyzet a Földanyával? Ha a hármasságot meg akarjuk tartani, melyik esne ki?  
 
 Arról is lehet beszélni, hogy az ősi, csillagászati-kozmikus alapú világkép leginkább az anya-fiú kettősségen alapult (a Napvallások korában az anya jelentősége elhalványult). A kettősségből pedig úgy lesz háromság, hogy a lány az anya fiatalkori énje, míg a fiú felnőve apa lesz (Magorból Hunor-Orion). Ez a fajta szemlélet nyilván kevésbé ismert magyar őskutatási berkekben.  
 
 Egyébként a magyaroktól árjákhoz került szavakat elnézve Magyar (Ilona) > [[M/Mother\|mother]], Tündér (Ilona) > [[D/Daughter\|daughter]] és Sün/Szony > Sun/[[S/Son\|son]] meg is felelne, de az árják nem olyan régiek. Falvaynak igaza is lehet tehát, de szívesen megnézném azokat az egyiptomi, iráni és krétai istenháromságokat. A mellékelt képek mennyire biztosan azt ábrázolják, amit szeretnénk látni? Magyar részről, Metterciáról lásd itt[^5]. (Egy másik csatolt képen is lásd.)  
-![assets/Szentháromság_image2.png|undefined](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image2.png)  
+![assets/Szentháromság_image2.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image2.png)  
 Még egy pillanatra visszatérve: a [[L/Lány\|lány]]/[[S/Szűz\|szűz]] a későbbi (szülő)anya fiatal önmaga. A lány a magyar nyelvben kettős jelentésű. A germán nyelvekben alakult ki a külön lány (fiatal nő) és a lánya valakinek jelentésű két szó. Igaz, a [[D/Daughter\|daughter]] is éppen az anya fiatalkori tündér/szűz önmagára utal, de ezt már a mai nyelvet használók nem tudják. Ezért is gondolnám, hogy külön a magyar lány-aspektussal nem kellene annyira törődni (dacára a mellékelt mykénéi ábrázolás jelentőségére). [[A/Anya#Kettős anyaság\|kettős anyaság]] cím/alcímnél írottak alapján is a két ábrázolt nő lehet Nagyboldogasszony – Boldogasszony párosa, illetve Boldogasszony – Kisasszony párosa ugye.  
 (Lásd még lány/fiatal nő és szűz jelentésű szavak kapcsolatát és félreérthetőségét [[P/Parthenogenesis\|parthenogenesis]].)  
 A másutt előjövő Falvay Károly által adatolt passzusból kiderül, hogy a mítoszalkotó görögök félreértették[^6] az eredeti képet (ezért sem szabad feltétlenül más kultúrákból kiindulnunk), hiszen a [[T/Tejútanya\|Tejútanya]] fiatal/szűz aspektusa nem lánya, hanem önmaga fiatalabb énje:  
-![assets/Szentháromság_image3.png|undefined](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image3.png)  
+![assets/Szentháromság_image3.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image3.png)  
 [[D/Démétér\|Démétér]] Zeusszal történő nászában inkább a Nagy [[R/Rhea\|Rhea]] Anyának (anyjuknak) a hasonmása volt, aki saját fiával nemzette Perszephonét (más néven a szűz Korét \[= lányt\]), és leányában önmagát szülte újjá. \[Hogy\] erről a misztériumról nyíltan igen keveset meséltek \[érthető is\].  
 
 JM írása ugyanerről ([[H/Három istennő\|három istennő]] címnél is szerepelt:  
@@ -111,10 +113,12 @@ FK könyvének 391. oldalán újra előveszi az anya, lánya és annak fia hárm
 > Azt hiszem, [[A/Anna\|Anna]] és [[K/Kisasszony\|Kisasszony]] címnél alaposan körbejártuk a dolgot közben. De jegyezzük azért itt is meg, hogy a női kettős tehát Nagyboldogasszony és a Boldogasszonyként értelmezett Kisasszony (melynek Kisboldogasszony másneve mutat rá a Boldogasszony és Kisasszony egységére, vagy ha úgy tetszik, "kettősség-azonosságára").  
 
 Tarnóczi Zoltán Anyajogú nyelv című rövid írásából való a mellékelt kép (Nagyboldogasszony, Kis(boldog)asszony és a Gyermek (MarosszentANNA)).  
-![assets/Szentháromság_image4.jpeg|undefined](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image4.jpeg)  
+![assets/Szentháromság_image4.jpeg](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image4.jpeg)  
 
 Akkor tehát jegyezzük meg, hogy régen kétféle Szentháromság létezett, ahogy azt az [alábbi](https://qr.ae/pNK70C) Quora válaszomban is kifejtettem:  
 > In the old days, the Holy Trinity consisted of Mother, Daughter and Son (in matriarchal societies) or Mother, Father and Son (in (pre-)patriarchal societies) (compare the Judeo-Christian Father, Son, Holy Spirit trinity, which doesn't even care for Mothers anymore, let alone the opinion of Magyars). In the astro-mythological sense however, the Mother can bear only a Son, the Sun himself (the celestial Mother is the Sky/Milky Way Goddess, Magna Mater).  
+> —  
+> Régen a Szentháromság Anyából, Lányból és Fiúból (matriarchális társadalmakban) vagy Anyából, Apából és Fiúból ((pre)patriarchális társadalmakban) állt (vö. a zsidó-keresztény Atya, Fiú, Szentlélek szentháromsággal, amely már az Anyákkal sem törődik, nemhogy a magyarok véleményével). Asztro-mitológiai értelemben viszont az Anya csak egy Fiút, magát a Napot szülheti (az égi Anya az Ég/Tejútistennő, Magna Mater).  
 - Persze itt is kifejthettem volna azt az alant is említett tételt, hogy két háromságot vontak egybe.  
 
 Takács György Babba Mária – adalékok a magyarság őszintének istenanya-alakjához című Ősi Gyökér 2004/3. sz. megjelent cikkében fontos adatokat oszt meg:  
@@ -127,6 +131,8 @@ Takács György Babba Mária – adalékok a magyarság őszintének istenanya-a
 
 Az [alábbi](https://www.quora.com/Im-very-curious-about-Jews-whom-do-Jews-worship-And-do-they-still-read-Torah) Quora kérdésre válaszoló Stanley Luntz válaszára kommentelő, már másutt is citált olasz Saverio Sciaccha szerint az Atya, Fiú, Szentlélek hármasság eredete sumér lenne:  
 > The original concept of God was Sumerian, Indo-Aryan An. The Canaanites adopted & adapted said religion & named their God Semitic El. Christianity took over the Sumerian concept of the Trinity of Father, Son & Holy Ghost.  
+> —  
+> Az eredeti istenfogalom sumér, indo-árja An. A kánaániak átvették és adaptálták az említett vallást, és Istenüket szemita El-nek nevezték el. A kereszténység átvette az Atya, a Fiú és a Szentlélek Szentháromságának sumér fogalmát.  
 
 [[E/Enlil#Enlil és Enki dualizmusa – sumir teológia Badiny Jós Ferenc olvasatában\|Enlil és Enki dualizmusa – sumir teológia Badiny Jós Ferenc olvasatában]] cím/alcímnél a Szentháromság eredetét sumirnak írja le szintén:  
 > A Lélekbeni Isten \[Enlil\] Ereje teremteni akart. Átválozik, átlényegül. Létrehozza az ANYAGOT melybe szintén Isteni Erőt helyez és bármikor felvehető "anyagi formájában" az Isten Fiát már ÉN-KI-nek \[[[Enki\|[Enki]]\] írja ősi hagyományunk. Megszületett tehát ősvallásunk szemléletében az Isten Fiának dualizmusa, aki a Lélek és az anyag Ura – az Aya-Isten erejével uralkodva. Ennek szimbóluma az egyenlő szárú háromszög, mely a mi ősi Hitünk Szentháromság-Tanának jelképe.  
@@ -136,7 +142,9 @@ Arról, hogy ez a mi ősi hitünk lenne, nos, jász-szkíta leszármazottainké.
 
 Nos, mivel [[A/Anu\|Anu]] is hímségi lett náluk, nem lennék meglepve, ha valóban már náluk és akár szemita hatás nélkül kimaradt volna az Anya. De lehetséges-e mindez?  
 F. A. Raffa Quantamplation című könyvében amit ír a témáról:  
-> Over one third's world population believe in the Christian Trinity in conjunction with one God in Judaism and Islam. The idea of a Holy Trinity was not new or unique when Christian doctrines were formed in the Council of Nicaea in 325 AD. As many other ancient religions also had Trinities. The ancient and pagan trinities were reflections of the Father Mother & Son Trinity or Three God Trinity. The Egyptians did honor both with Amon, Ra and Ptah (Three in one God) and then Osiris, Isis and Horus as the Father, Mother and Son. The idea of both could well have been an adaption of Babylon's Nimrod, Ishtar and Tammuz (Father, Mother and Son) and Sumerian's Anu, Enki and Enlil (Father and two son god), the mystery is they all form part of God and are equal. The Roman Catholic Holy Trinity "Father, Son and Holy Ghost" is unique in that the Trinity is all 3 are one and equal. It is a unique mystical concept but undoubtedly stems from Ancient Sumeria, Babylon, India, Egypt and Pagan Rome. It also excluded the Feminine essence of the Mother which also empowered the trinity concept. Islam picked up on this in the Koran sacred text when it states "And remember when Allah will say (on the Day of Resurrection): 'O 'lesa (Jesus), son of Maryam (Mary)! Did you say unto men: Worship me and my mother as two gods besides Allah?' He will say: 'Glory be to you! It was not for me to say that which I had no right (to say)." Islam denounces the Holy Trinity however honors the Mother and reflects on the unofficial Triad of Christianity God (Holy Father), Mary (Mother), Jesus (Son).  
+> Over one third's world population believe in the Christian Trinity in conjunction with one God in Judaism and Islam. The idea of a Holy Trinity was not new or unique when Christian doctrines were formed in the Council of Nicaea in 325 AD. As many other ancient religions also had Trinities. The ancient and pagan trinities were reflections of the Father Mother & Son Trinity or Three God Trinity. The Egyptians did honor both with Amon, Ra and Ptah (Three in one God) and then Osiris, Isis and Horus as the Father, Mother and Son. The idea of both could well have been an adaption of Babylon's Nimrod, Ishtar and Tammuz (Father, Mother and Son) and Sumerian's Anu, Enki and Enlil (Father and two son god), the mystery is they all form part of God and are equal. The Roman Catholic Holy Trinity "Father, Son and Holy Ghost" is unique in that the Trinity is all 3 are one and equal. It is a unique mystical concept but undoubtedly stems from Ancient Sumeria, Babylon, India, Egypt and Pagan Rome. It also excluded the Feminine essence of the Mother which also empowered the trinity concept. Islam picked up on this in the Koran sacred text when it states "And remember when Allah will say (on the Day of Resurrection): 'O 'Iesa (Jesus), son of Maryam (Mary)! Did you say unto men: Worship me and my mother as two gods besides Allah?' He will say: 'Glory be to you! It was not for me to say that which I had no right (to say)." Islam denounces the Holy Trinity however honors the Mother and reflects on the unofficial Triad of Christianity God (Holy Father), Mary (Mother), Jesus (Son).  
+> —  
+> A világ népességének több mint egyharmada hisz a keresztény Szentháromságban, a judaizmusban és az iszlámban pedig az egy Istenben. A Szentháromság eszméje nem volt új vagy egyedülálló, amikor a keresztény tanokat a Kr. u. 325-ben tartott nikeai zsinaton kialakították. Ahogyan sok más ősi vallásnak is volt Szentháromsága. Az ősi és pogány hármasságok az Atya- Anya és Fiú Szentháromság vagy a Három Isten Szentháromság tükörképei voltak. Az egyiptomiak mindkettőt tisztelték Amonnal, Ré-vel és Ptah-val (Három egy Istenben), majd Ozirisz, Ízisz és Hórusz mint Atya, Anya és Fiú. A kettő eszméje akár a babiloni Nimród, Istár és Tammuz (Atya, Anya és Fiú) és a sumér Anu, Enki és Enlil (Atya és két fiú isten) adaptációja is lehetett, a titokzatosság az, hogy mindannyian Isten részét képezik és egyenlőek. A római katolikus Szentháromság "Atya, Fiú és Szentlélek" egyedülálló abban, hogy a Szentháromság mind a 3 egy és egyenlő. Ez egy egyedülálló misztikus fogalom, de kétségtelenül az ókori Sumériából, Babilonból, Indiából, Egyiptomból és a pogány Rómából származik. Kizárta az Anya nőies lényegét is, amely szintén a Szentháromság koncepciót erősítette. Az iszlám felvette ezt a Korán szent szövegében, amikor azt mondja: "És emlékezzetek, amikor Allah azt fogja mondani (a Feltámadás Napján): "Ó 'Iesa (Jézus), Máriám (Mária) fia! Mondtad-e az embereknek: Imádjatok engem és anyámat, mint két istent Allah mellett?" Ő azt fogja mondani: "Dicsőség neked! Nem volt jogom olyat mondani, amit nem volt jogom (mondani).". Az iszlám elítéli a Szentháromságot, azonban tiszteli az Anyát, és a kereszténység nem hivatalos triászára reflektál: Isten (Szentatya), Mária (Anya), Jézus (Fiú).  
 
 A teljesebb passzussal [[J/Jézus#Jézus születése\|Jézus születése]] cím/alcímnél jelentkező Gesztesi Albert csillagász A világ négy sarka című cikkében írja (úgy tűnik, nem saját kútfőből):  
 > Adrian G. Gilbert ókori egyiptomi párhuzamot vél felfedezni. Máté egy keresztény gnosztikus volt. Valószínű, hogy antiokhiai vagy alexandriai lakos volt és ismerte az egyiptomi vallás és pogány kultusz elemeit.  
@@ -199,6 +207,10 @@ Thomas Inman Ancient Pagan and Modern Christian Symbolism című könyvében fol
 > The Biblical conception of the necessary supremacy of man over woman is alien to the British mind: among all Britons of sensibility the rule is 'ladies first' on all social occasions. The chivalrous man dies far more readily in the service of a queen than of a king: self-destruction is indeed the recognized proof of grand passion:  
 > *And for bonnie Annie Laurie I wad lay me doon and dee.*  
 > There is an unconscious hankering in Britain after goddesses, if not for a goddess so dominant as the aboriginal Triple Goddess, at least for a female softening of the all-maleness of the Christian Trinity. The male Trinity corresponds increasingly less with the British social system, in which woman, now that she has become a property owner and a voter, has nearly regained the position of respect which she enjoyed before the Puritan revolution. True, the male Trinity antedated the Puritan revolution but it was a theological not an emotional concept: as has been shown, the Queen of Heaven with her retinue of female saints had a far greater hold in the popular imagination between the Crusades and the Civil War than either the Father or the Son.  
+> —  
+> A britek számára idegen az a bibliai felfogás, amely szerint a férfi szükségszerűen elsőbbséget élvez a nő felett: az érzékeny britek körében minden társadalmi eseményen a "hölgyeké az elsőbbség" szabály érvényesül. A lovagias férfi sokkal szívesebben hal meg egy királynő, mint egy király szolgálatában: az önpusztítás valóban a nagy szenvedély elismert bizonyítéka:  
+> *And for bonnie Annie Laurie I wad lay me doon and dee.*  
+> Britanniában öntudatlan vágyakozás van az istennők után, ha nem is egy olyan domináns istennő után, mint az őslakosok hármas istennője, de legalább a keresztény Szentháromság minden férfiasságának női lágyítása után. A férfi Szentháromság egyre kevésbé felel meg a brit társadalmi rendszernek, amelyben a nő, most, hogy tulajdonossá és szavazóvá vált, majdnem visszanyerte azt a tiszteleti pozíciót, amelyet a puritán forradalom előtt élvezett. Igaz, hogy a férfi Szentháromság megelőzte a puritán forradalmat, de ez egy teológiai, nem pedig érzelmi fogalom volt: ahogyan az már kiderült, a keresztes hadjáratok és a polgárháború között az égi királynő és női szentek kísérete sokkal nagyobb befolyással bírt a nép képzeletében, mint akár az Atya, akár a Fiú.  
 
 Falvay Károly Nagyboldogasszony című könyvének 117. oldalán viszont a női elv hármasságáról és a hím elv egységéről szól. Majd később, a magyar [[M/Mony\|mony]] jelentéseinek (tojást/herét és hímvesszőt, sőt, ondót is adatol, továbbá harang nyelvét is) megadása után írja:  
 > Az egy és a kettő, külön-külön önmagában minőségileg azonos szám. Ez a gondolat megjelenik a [[F/Fibonacci-számsor\|Fibonacci-számsor]] első négy számában (1, 1, 2, 3). A magyar gondolkodás szerint a két szám ezért fél-fél Egységet (kezem, lábam, fülem) képez. Az emberi élet folyamatosságát nem a kettősség hanem a hármasság biztosítja.  
@@ -240,9 +252,9 @@ Közös mindkettőben a [[F/FU\|FU]] etimon. De a biológia ([[B/Biology\|biolog
 > Háromszögletű napjelkép is van, bármily hihetetlen. Az például az egyiptomi [[P/Piramis\|piramis]], mely a "Fényhegyek" ([[V/Világhegy\|Világhegy]]) kőből rakott mása. A "fényhegy", az [[A/Ahet\|ahet]] hieroglifa azt a helyet jelöli, ahol a Nap lenyugszik és fölkel, vagyis ahol – két hegy között – az egyik világból a másikba átlép. Kákosy László a fényhegy-metafora alapjának azt a valóban gúla vagy háromszög alakú fénypiramist tartja, mely Egyiptomban olykor naplementekor a nyugati égbolton, napkeltekor keleten látszik (lásd még "állatövi fény"). Magát a Napot is ábrázolják [[G/Gúla\|gúla]] alakúnak, amiből arra következtet, hogy a piramist napjelképnek is felfoghatjuk. Háromszögbe kristályosodó forma az egyiptomi [[O/Obeliszk\|obeliszk]], mely a napsugár gránitba faragott (egykor aranylemezzel burkolt) metaforája. A napsugarakat pedig kis háromszögekből álló füzérek formájában ábrázolták (például a denderai Hathor templomban).  
 > És hát mi más lenne, mint "napháromszög" a **Szentháromság** napsugaras háromszöge?  
 > A Szentháromság minden egyes személyéről a néphit tudni véli, hogy a Napban lakozik; Isten mindent látó szemét egy hagyomány szintén a Nappal azonosítja – szó lesz róla alább –, s az egyenlő oldalú háromszög mint a tökéletesség jelképe is utal az isteni tökéletességű Napra.  
-> ![assets/Szentháromság_image6.png|undefined](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image6.png)  
+> ![assets/Szentháromság_image6.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image6.png)  
 > Szeged népművészetének jellegzetességei a napsugaras oromdíszű házhomlokzatok. (47. rajz.) Mint Bosnyák Sándor írja, a tető mintázatában "a szegedi parasztok a napfelkeltét, a delelést, a napnyugtát, a alul a zárt rekeszekben az éjszakát látják."  
-> ![assets/Szentháromság_image7.png|undefined](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image7.png)  
+> ![assets/Szentháromság_image7.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image7.png)  
 
 Bálint Sándor szerint e napsugaras háromszög szentháromság-jelkép volt, szerintem napszimbólum is.  
 
@@ -257,8 +269,8 @@ Berényi László Géza Holisztikus világszemlélet 7000 éve a Kárpát-medenc
 > Láthatóan a szentháromság fogalom a világegyetem szerkezeti jellemzője, kicsiben és nagyban egyformán jellemző modellje. A zsidókeresztény felfogásban a Föld és az Ég elválasztásra került, a látható (anyagi) világ és a nem látható (transzcendens) szféra elkülönült. A kettő között a kapcsolat már nem magától értetődő, hanem csak alkalmas közvetítők, (például papok) segítségével tartható fenn. A mesterségesen létrehozott Atya, Fiú, Szentlélek modellnek a Természetben nincs analógiája.  
 - Folytatást lásd képpel [[K/Köristen\|Köristen]].  
 
-![assets/Szentháromság_image8.png|undefined](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image8.png)  
-![assets/Szentháromság_image9.png|undefined](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image9.png)  
+![assets/Szentháromság_image8.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image8.png)  
+![assets/Szentháromság_image9.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image9.png)  
 
 #### Berényi László Géza Hogyan lett a Köristen tudatból zsidókeresztény hit?...
 
@@ -280,7 +292,7 @@ Szentháromságnak mondja egy internetes cikk szerzője az Anya, Gyermek és a [
 
 A már a címében is mutatólagos L. Kecskés András Háromkirályok – Szentháromság című az Ősi Gyökér 2013/1-2. sz. megjelent cikkében a [[G/Gáspár\|Gáspár]], [[M/Menyhért\|Menyhért]], [[B/Boldizsár\|Boldizsár]], és az általuk ajándékként hozott [[A/Arany\|arany]], [[T/Tömjén\|tömjén]] és [[M/Mirha\|mirha]] kapcsán szól a témáról.  
 
-![assets/Szentháromság_image10.jpeg|undefined](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image10.jpeg)  
+![assets/Szentháromság_image10.jpeg](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image10.jpeg)  
 Bakk István Miért apostoli királyság Magyarország? című az Ősi Gyökér 2013/3. sz. megjelent cikkében van egy rész, amely a [[P/Pálos\|pálos]] rend alapításáról szól. Ami a legérdekesebb benne, hogy benne Özsébet, mint a nagykutya nemzetségből valót említi; ugyanott (lásd témát [[K/Kutya\|kutya]] címnél) GYÁ Szentháromságra utaló kijelentést is tesz: Mária országának mennyei királysága az égi térképen látható, és ennek a földi mása a szentháromság megjelölése: a (Holló, Bak és a Nagykutya) csillagképek által határolt terület. \[Lényegében a [[T/Tejútanya\|Tejútanya]] csillagteste.\]  
 
 ## Judeo-keresztény szentháromság
@@ -343,7 +355,7 @@ A Ne Legyen Áldozat YouTube csatornán elérhető Pap Gáborral folytatott besz
 Ugyanakkor erről már korábban rendelkeztek.  
 Egy [másik](https://youtu.be/O8DXMM_g3Q4) Ne Legyen Áldozatos videó legvégén egy 869-es konstantinápolyi zsinatról volt szó, ahol már rendelkeztek korábban a kivételről. (De azóta [ezen](https://www.youtube.com/watch?v=oNULoLMuX8w) videóban egy teljes adást szántak a témának Tímárék. Lásd [[Z/Zsinat\|zsinat]].)  
 Tehát, ahogy 8:00-nál mondja PG, amíg az első vizsgált esetben – a 451-es khalkedóni zsinat rendelkezésének eredményeképpen az istenkép-torzulását érzékeljük (lásd [[J/Jahve\|Jahve]] címnél, külön alcímnél erről), addig a 869-es zsinaton az emberkép-torzulást/torzítást érhetjük tetten.  
-![assets/Szentháromság_image11.png|undefined](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image11.png)  
+![assets/Szentháromság_image11.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image11.png)  
 Beszél arról, hogy a három komponens (szellem, lélek, test) neve a héberben, görögben és latinban is megvolt, tehát addig élő hagyománya volt ennek. Utána a háromból kettő úgy lett, hogy a szellemet és lelket összevonták (megjegyzem, ennek nyomát a nyelvben is megtaláljuk, ugyanis a szellem, szellet a germán nyelvekben Seele és `soul` = lélek jelentésű). Furcsamód, ahogy 11:55-nél mondja, még a [[R/Reformáció\|Reformáció]] sem vette elő ezt a kérdést, hogy vissza kellene állítani.  
 [Ezen](https://qr.ae/pGJjru) műsorban 3:00 előtt is szólt erről röviden. Teljesen kézenfekvőnek veszik az egyházi személyek a kérdést, mondván, "lélek, szellem, az ugyanaz." A hívő pedig már eleve nem is nagyon meri feltenni a kérdést.  
 14:55-nél megint elhangzik, hogy aki ragaszkodik a háromrétegűséghez, az kétféle lelket tételez fel és az eretnekség. Utána beszél a csúsztatás[^11] fogalmáról a kapcsán, hogy addig témáznak a dologról, hogy a végén már ne lehessen tudni, hogy eredetileg három rétegű volt az ember vagy csak két külön nevet adtak volna korábban ugyanannak, vagy hogy is volt.  
@@ -373,8 +385,7 @@ A 21. század elején a Szent Pál Akadémia bibliafordítása hozott alapvető 
 A lélek és szellem kérdésében fontos megjegyezni amiről [[L/Lélek#Lélekszékhely\|lélekszékhely]] cím/alcímnél is volt szó, jelesen, hogy magas kultúrákban is már a fejbe-agyba helyezték a lelket. Azaz a zsinatokon taglalt folyamatnak/félreértéseknek/rácsúsztatásnak is megvoltak az előzményei. A magas tudásúnak gondolt kultúrákban is különféle felfogással találkozunk. Mit is mondtak (VN tolmácsolásában) ([[H/Harmadik szem\|harmadik szem]] címnél is megvolt) a lélek és szellem fogalmainak összetévesztésére utaló információkat tekintve:  
 > A **szimpatikus idegrendszert a görögök a lélek székhelyének** tették meg, Schleich a kozmikus kapcsolatok felfogó szervének, Jung a faji emlékezés tárházának; vele azonosíthatók a hindu jóga csakrái, vagyis az életerő áramának központjai.  
 > A görögök viszont, egyiptomi és babiloni mestereik nyomán azt tanították, hogy a lélek lakóhelye a rekeszizom alatt levő idegköteg, a nap-fonadék (plexus solaris).  
-
-A védikus bölcselet **a lelket az agyalapi mirigybe helyezte**, olvassuk tovább VN-től.  
+- A védikus bölcselet **a lelket az agyalapi mirigybe helyezte**, olvassuk tovább VN-től.  
 
 [Ezen](https://youtu.be/utJDVPYkMXA) Ne Legyen Áldozatos Főbb nemzetgyilkossági kísérletek 1. rész című műsor YouTube kommentfelületén hozzászóló LostBoyz is tulajdonképpen azt járja körül, hogy a lélek és szellem között nehezen tettek különbséget:  
 > Kedves Pap Gábor! Minden tiszteletem az Öné, viszont sokszor felmerül a trichotómia vagy dichotómia kérdése. Én úgy tudom, hogy akik a trichotómiát vallják, ők azt mondják, hogy a fizikai test az, ami összeköt minket a körülöttünk levő fizikai világgal; **a lélek a lényünk lényege, míg a szellem az, ami összeköt minket Istennel**. Azok, akik szerint az ember dichotóm, ugyanazt vallják a testről, de nézetükben a szellem a lélek azon része, amely kapcsolódik Istenhez. Tehát a kettő együtt kapcsolódik Istenhez. Szóval a dichotómia és trichotómia kérdése lényegében abból áll, hogy a lélek és a szellem az ember anyagtalan részének különálló egységei, vagy a szellem pusztán a lélek része, és a lélek teszi ki az ember teljes anyagtalan részét. Melyik nézet a helyes? Úgy tűnik, helytelen volna dogmatikus kijelentéseket tenni. Mindkét elmélet biblikusan alátámasztható. Egyik értelmezés sem eretnekség.  
@@ -422,7 +433,7 @@ Az (igen profin megírt) [alábbi](https://henadology.wordpress.com/theology/net
 A tudósok szerint az utána következő Arszakidák ősüknek tartották őt. Ezen a tudomány fanyalog, mert nem ismerik az irániak eredetét.  
 Valószínűleg a későbbi Kusánok, a szasszanida irániak, a Parthusok, és a közép-ázsiai birodalmak uralkodó családjainak nevei között rengeteg magyar nyelvű uralkodói nevet találunk. Ezek a vezető családok magyar eredetűek voltak, ami miatt igen sok magyar eredetű nevet használtak. A nevek felderítése ma sem történt meg.  
 —  
-The first Achaemenid king known publicly to have acknowledged "Anāhit(a)."  
+The first Achaemenid king known publicly to have acknowledged "Anāhit(a)." (Az első Achaemenida király, akiről ismert, hogy nyilvánosan elismerte "Anāhit(a)"-t.)  
 
 [^3]: Lábjegyzet:  
 Az ősi Eurázsiában kialakult sajátosan kettős Nagy Istenanya mindenkor és mindenütt nemcsak az embereknek, de minden élőlénynek, a növényeknek és az állatoknak is istenasszonya, úrnője lett. Leánya a földi emberek számára szolgált közreműködőként, mediatrixként, mint azt görög, római párhuzamok is mutatják. \[Írja másutt FK.\]  
@@ -461,7 +472,7 @@ Grandpierre Atilla Történelmünk visszavétele: Ősi Magyarország – A Kárp
 [^11]: Lábjegyzet:  
 15:40-nél a Népszabadság bevált módiját meséli el. Először a szájába adja valakinek a hamis szöveget (PG-vel is megtörtént), amit ő soha nem mondott, utána azt cáfolták.  
 [Ezen](http://www.magtudin.org/Maracz%20L.%20Untenability%20of%20Finno-Ugric%20Theory.htm) cikkében Marácz László is említi a finnugristák kelléktárából ezt:  
-We should put words, that he did not say, into the mouth of the person who judges us, and then we should contradict this.  
+We should put words, that he did not say, into the mouth of the person who judges us, and then we should contradict this. (Olyan szavakat kell a felettünk ítélkező személynek a szájába adnunk, amit nem mondott, és aztán ezt cáfoljuk.)  
 —  
 A Ne Legyen Áldozat YouTube csatornán elérhető Pap Gáborral folytatott másik beszélgetésben (lásd [itt](https://youtu.be/O8DXMM_g3Q4) beszél arról, hogy a csúsztatás iskolapéldája: úgy teszek, mintha azt állítaná a másik fél, hogy (jelen esetben, hogy az embernek három részt tulajdonító tábor szerint két lelke lenne az embernek) és azt cáfolom. A megtévesztő szándékú kezdeményezés első mozdulata az efféle csúsztatás. Ugyanis utána már senki nem foglalkozik a kiinduló premisszával (jelen esetben, hogy most hány részből is állt az ember eredendően), csak a cáfolattal (hiszen a jóhiszemű ember azt gondolja, minden változtatás jobbító szándékú, a fejlődés jegyében). Ezen utóbbi gondolatokat már én teszem hozzá. (Mindezen sorok [[M/Megtévesztés\|megtévesztés]] címnél is megvoltak.)  
 

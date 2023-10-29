@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tartód/","title":"Tartód","tags":["dg_uploaded"],"created":"2023-10-26T06:27","updated":"2023-10-26T06:27"}
+{"dg-publish":true,"permalink":"/T/Tartód/","title":"Tartód","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-26T06:27","updated":"2023-10-29T03:08"}
 ---
 
 

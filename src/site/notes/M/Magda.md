@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magda/","title":"Magda","tags":["dg_uploaded"],"created":"2023-10-21T03:58","updated":"2023-10-25T01:43"}
+{"dg-publish":true,"permalink":"/M/Magda/","title":"Magda","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-21T03:58","updated":"2023-10-29T02:41"}
 ---
 
 
@@ -61,3 +61,5 @@ Spárta királya Tündaraosz, a Tündér Király. Két lánya van, Tündér Ilon
 [^2]: Lábjegyzet:  
 Sophia Menache Dogs, God's Worst Enemies című dolgozatában (melynek kivonatát lásd [[K/Kutyaellenesség\|kutyaellenesség]]) is írja:  
 Widows, for example, were urged to avoid keeping dogs so as to exclude any possibility of bestiality (Baba Metzia, 71 a), an injunction much later incorporated into the medieval code of Jewish Law, the Shulhan Aruch.  
+—  
+Az özvegyeket például felszólították, hogy kerüljék a kutyatartást, hogy kizárják a bestiális kapcsolat lehetőségét (Baba Metzia, 71a), és ez a felszólítás jóval később bekerült a középkori zsidó törvénykönyvbe, a Sulhán Aruchba.  

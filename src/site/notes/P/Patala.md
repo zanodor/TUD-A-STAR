@@ -1,20 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/P/Patala/","title":"Patala","tags":["dg_uploaded"],"created":"2023-10-13T01:18","updated":"2023-10-25T02:05"}
+{"dg-publish":true,"permalink":"/P/Patala/","title":"Patala","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-13T01:18","updated":"2023-10-29T02:56"}
 ---
 
 
 # Patala
 
 A Wikipedia szerint az alvilág ([[P/Pata\|Pata]]-[[L/LA\|La]] formában meg is felel):  
-> In Indian religions, Patala (Sanskrit: पाताल, IAST: pātāla, lit. that which is below the feet), denotes the subterranean realms of the universe – which are located under the earthly dimension. Patala is often translated as underworld or netherworld. Patala is described as more beautiful than Svarga (subtle dimensions, loosely translated as heaven). Patala is described as filled with splendid jewels, beautiful groves and lakes.  
-- Lásd még képet [[L/LÁB#Visnu lába\|Visnu lába]] cím/alcímnél.  
+> In Indian religions, Patala (Sanskrit: पाताल, IAST: `pātāla`, lit. that which is below the feet), denotes the subterranean realms of the universe – which are located under the earthly dimension. Patala is often translated as underworld or netherworld. Patala is described as more beautiful than Svarga (subtle dimensions, loosely translated as heaven). Patala is described as filled with splendid jewels, beautiful groves and lakes.  
+> —  
+> Az indiai vallásokban a patala (szanszkrit: पाताल, IAST: `pātāla`, lit. ami a lábak alatt van) az univerzum földalatti birodalmait jelöli – amelyek a földi dimenzió alatt helyezkednek el. A patalát gyakran fordítják alvilágnak vagy alvilágnak. A Patalát szebbnek írják le, mint a Svarga-t (finom dimenziók, szabad fordításban mennyország). Patalát úgy írják le, hogy tele van pompás ékszerekkel, gyönyörű ligetekkel és tavakkal.  
+- Ezek alapján a Patala lehetne maga a föld, ahol az anyagi és az érzékek világban élő ember él.  
+Lásd még képet [[L/LÁB#Visnu lába\|Visnu lába]] cím/alcímnél.  
 
 Ipolyi Arnold Magyar mythologia című könyvének 447. oldalán mint a hindu világkép pokláról szól róla (a szanszkrit `patal`, `patala` nevet a [[P/Pokol\|pokol]] szóval is veti össze).  
 
 #### Várkonyi Nándor...
 
 ...is [[A/Alvilág\|alvilág]]nak írja le:  
-> Pátála a "verem" is, az Alvilág, az újjászületés helye. Ide szállnak le a beavatandók, s ezért kellett Arjunának "leszállnia". Pátála mélységeit "az új Nap fénye járja át", s ennek dicsőségébe jut az "újszülött", miután átment az "üsző" méhén. Ez a leírás a beavatás rítusait jelzi a szokott képletes módon. Az üsző, Surabi, Visnu szent állata, a "bőség borja", a "tej és aludttej forrása", a teremtéskor a Tejtengerből "extrahálták", s innen ered a szarvasmarha vallásos tisztelete Indiában.  
+> Pátála a "verem" is, az Alvilág, az újjászületés helye. Ide szállnak le a beavatandók, s ezért kellett Arjunának "leszállnia". Pátála mélységeit "az új Nap fénye járja át", s ennek dicsőségébe jut az "újszülött", miután átment az "üsző" méhén. Ez a leírás a beavatás rítusait jelzi a szokott képletes módon. Az üsző, **Surabi**, Visnu szent állata, a "bőség borja", a "tej és aludttej forrása", a teremtéskor a Tejtengerből "extrahálták", s innen ered a szarvasmarha vallásos tisztelete Indiában.  
 - Valójában ősi képzet; a [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]].  
 A fenti passzus fontossága miatt [[K/Krisztus#Krisztus a szarvasfiú születése az üsző méhéből, a Tejútközpontban\|Krisztus a szarvasfiú születése az üsző méhéből, a Tejútközpontban]] cím/alcímnél is szerepelt.  
 

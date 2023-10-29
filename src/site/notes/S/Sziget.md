@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["dg_uploaded"],"created":"2023-10-04T01:59","updated":"2023-10-25T02:14"}
+{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-04T01:59","updated":"2023-10-29T03:05"}
 ---
 
 
@@ -11,7 +11,7 @@ Sziget a Nap Tája értelmet adja, de mivel minden Napnévnek van extra hímség
 
 > Sziget szavunkban a Szig a Nap neve, a Szik párja. A Szig-Et második része Föld, Hely értelmű, megfelelően a Ta jelentésének. A Sziget kiemelkedő a vízből, továbbá a többi földtől elválaszott, vagyis Szigetelt terület. A Szigetel ezért elválasztó. De a Szig, mint Nap, azt is jelenti, hogy az Égi Szigetek szintén napok, vagyis a csillagok a Nap testvérei. Nehéz nem gondolni arra, hogy az Égi Szigetek a magyarok, és az emberiség őshazája is lehet! Továbbá a Sziget lehet ország is, Mezopotámia, Alsó-Egyiptom, Kárpát-medence, és más területek.  
 - De lehet (elsődlegesen) égi terület is, mint a mellékelt, másutt is szereplő képen.  
-![assets/Sziget_image1.png|undefined](/img/user/S/assets/Sziget_image1.png)  
+![assets/Sziget_image1.png](/img/user/S/assets/Sziget_image1.png)  
 
 #### Jankovics Marcell is írja:  
 
@@ -43,12 +43,12 @@ Sziget a Nap Tája értelmet adja, de mivel minden Napnévnek van extra hímség
 Magyar Adorján fentebbi sorai arról, hogy eleink a szarvasokat követve hogyan jutottak át a Nász Szigetére úszva vagy tömlők segítségével is[^2], visszaköszön. Aztán másutt írja:  
 > Úgy az ősidőkben lovaglásra használt szarvast mint a később erre szintén használt óriás-kost, illetve az egyszarvút is, nevezhették `jáziri` = járó[^3] néven, amely név azután a latin nyelv kialakulásakor ebbe is átment. Kérdés eszerint csak az marad, hogy a latin `asinus` szó -us végzése csak latin toldás-e, avagy a mi az névelőnk, amely egykor a szó végén ragként állott és amelynek régen uz és ú alakja is volt, ami szerint jázinuz, jázinú annyi volt mint járó, a járó. Igaz ugyan hogy ezek szerint inkább csak a kiherélt óriáskosra és egyszarvúra vagyis egy teljesen megszelídített és lovaglásra használt állatra következtettünk, de lehetséges hogy jázinusz avagy jázinú volt valamikor neve a még szabadon élő óriáskosnak és egyszarvúnak is, illetve hogy a jászok már ezt is igy nevezték.  
 
-![assets/Sziget_image2.png|undefined](/img/user/S/assets/Sziget_image2.png)  
+![assets/Sziget_image2.png](/img/user/S/assets/Sziget_image2.png)  
 Csodaszarvasának (a PDF) 291-292. oldalán a nász szigetét is a Vízöntő csillagképhez közelinek tartja (nos, valóban nincs messze Nyilastól):  
 > Őseink két Tündérországról azaz két Paradicsomról regéltek. Egyik volt a Földi Tündérország, amely szerintük a Duna által képezett [[C/Csallóköz\|Csallóköz]] volt (ezt ábrázolja leegyszerűsítve, azaz sematikusan az ide mellékelt rajz, a [[N/Négy\|négy]] Duna ággal és az általuk képezett három szigettel azaz a két külsővel és középen a főszigettel), az Aranyidő (Aranykor) boldog idejében, a másik, vagyis a Mennyország vagy Égi Tündérország pedig az Égben, a Égi Duna azaz a Tejút által képezett sziget volt, a Vízöntő csillagzata közelében.  
 > \[...\]  
 > De volt őseinknél a Csallóköznek, mint az emberiség eredethelyének még más jelképes értelmezése is, éspedig az, hogy ez az anyaföld nemző ölét is jelképezi. És való igaz, hogy a fönti rajz a nő nemi részére is hasonlít.  
-> A két külső sziget[^4] a két kisszeméremajkat jelképezte, amit a latin `Limbus` név is tanúsít, mert hiszen a [[L/Lip\|lip]], limb, lap, leb alakú szótő különböző nyelvekben valóban jelent ajkat vagy ajakhoz hasonló lebbenyszerű valamit. A latinban `labium`, a németben `Lippe` = ajak. Oláh `limba` = nyelv, német `Leber` = máj, amely szavakhoz hozzá tehetjük a magyar lebeny, lebenye = lapszerű vékony, levélhez hasonló valami és a szarvasmarha nyakán alul lecsüngő bőr. Magyar lep, lepel = takaró szövet vagy szövetszerű anyag, lép = a májhoz hasonló, lebenyszerű belső szerv, lapi = falevél az erdélyi tájszólásokban. Lepke, lepedő, lepény, lomb, lomp és sok más szó is mind ide sorolható. Finn `lepakko` = denevér. Olasz `lempo` = valaminek lebenyszerű széle, ami tehát úgy a kisszeméremajkakat is eszünkbe juttathatja mint azt, hogy a Limbus a Csallóköz két szélső szigetével azonos.  
+> A két külső sziget[^4] a két kisszeméremajkat jelképezte, amit a latin `Limbus` név is tanúsít, mert hiszen a [[L/Lip\|lip]], limb, lap, leb alakú szótő különböző nyelvekben valóban jelent ajkat vagy ajakhoz hasonló lebbenyszerű valamit. A latinban `labium`, a németben `Lippe` = ajak. Oláh `limba` = nyelv, német `Leber` = máj, amely szavakhoz hozzá tehetjük a magyar lebeny, lebenye = lapszerű vékony, levélhez hasonló valami és a szarvasmarha nyakán alul lecsüngő bőr. Magyar lep, lepel = takaró szövet vagy szövetszerű anyag, [[L/Lép\|lép]] = a májhoz hasonló, lebenyszerű belső szerv, `lapi` = falevél az erdélyi tájszólásokban. Lepke, lepedő, lepény, lomb, lomp és sok más szó is mind ide sorolható. Finn `lepakko` = denevér. Olasz `lempo` = valaminek lebenyszerű széle, ami tehát úgy a kisszeméremajkakat is eszünkbe juttathatja mint azt, hogy a Limbus a Csallóköz két szélső szigetével azonos.  
 > Viszont a clitoris és vaginanyílás közötti sík rész a Selyemrét jelképe volt. Meglepő tehát hogy némely régibb orvosi könyvben is e rész Nisai mezőnek neveztetik.  
 - Lásd még erről [[N/Nysa\|Nysa]][^5].  
 
@@ -95,13 +95,13 @@ A két hasadékot másutt is említi (talán a Hegy Úrnője címből vagy más,
 
 Lásd még szexuális tartalomról [[I/Íj és a nyíl\|íj és a nyíl]].  
 
-![assets/Sziget_image3.png|undefined](/img/user/S/assets/Sziget_image3.png)  
+![assets/Sziget_image3.png](/img/user/S/assets/Sziget_image3.png)  
 Margaret Merisante Cloths of Fate: Inter-weavings of Finnic Goddess Embroidery című dolgozatában finn(ugor) hímzésekkel és istenanyákkal (annak ló és hattyú állatalakjaival) foglalkozik. A hímzések – kimondhatjuk – ősmagyar szimbolikát viselnek magukon. Blogjában (Mythwoman.com) is több esetben szól a [[T/Tejútanya\|Tejútanya]] illetve a nők vulvájáról, macskával való azonosításról, stb. A mellékelt képen széttett lábbal álló Tejútistennő egyértelműen a fentebb taglalt szigetet jeleníti meg. (Felveti mindez azt is, hogy a [[C/Crotch\|crotch]] és [[S/Straddle\|straddle]] szavak eredete asztrális.)  
 A lába közé gondolja a finn és magyar felmenőkkel rendelkező Merisante asszony a finn `väki` = teremtő energia, szellem jelentésű szó/fogalom helyét.  
 A [[L/LÁB\|láb]]ak házat is formáznak, mely [[H/Ház\|ház]] szóról kimondtuk, hogy a [[T/Tejútanya\|Tejútanya]] lába köze/méhe/stb.  
 A képet újabb gondolatokkal [[L/LÁB\|láb]], [[H/Harmony\|harmony]] és [[O/Orion övcsillagai\|Orion övcsillagai]] címnél is szerepeltettük.  
 
-![assets/Sziget_image4.png|undefined](/img/user/S/assets/Sziget_image4.png)  
+![assets/Sziget_image4.png](/img/user/S/assets/Sziget_image4.png)  
 
 #### Molnár V. József Világ-virág...
 
@@ -113,7 +113,7 @@ A képet újabb gondolatokkal [[L/LÁB\|láb]], [[H/Harmony\|harmony]] és [[O/O
 ...című könyvének 240. oldalán írja hídlábakról:  
 > Milyen misztikus és mégis természeti tulajdonságot rejt a "Miből lesz a híd lába?" kérdés? Ma már a néprajzosok közül is csak kevesek előtt ismert a válasz értelme: "Bürökből és bodzából, Cigányaszszony kontyából." A bodzafa ága hártyás belsejéből készítették régen a falusi gyerekek a bodzafapuskát. A bodzafaág belsejének hártyás részét kitolva készült el maga a puskacső. Ebből származik a hídláb "eltörése" (**a test hídtörzse két oszloplábon áll**), és a benne esett hiba rendbe hozásának az ötlete bürökből, bodzából, sóska káposztából (káposzta torzsából). A két láb, a két szimbolikus oszlopköze ismert más kultúrákból is. Az első jeruzsálemi templom bejárata előtt is már vasoszlopokként ott álltak, (semmiféle terhet nem tartottak) de ismertek kőből rakottan a kínai temetők bejárata előtt is. (A közöttük kijövő és bemenő ember képzete azonos az újjászületés és meghalás képzetével.)  
 
-![assets/Sziget_image5.png|undefined](/img/user/S/assets/Sziget_image5.png)  
+![assets/Sziget_image5.png](/img/user/S/assets/Sziget_image5.png)  
 
 Még könyvének 47. oldalán is szó esik a [[L/LÁB\|láb]] = oszlopokról. A két oszlop mint a nagy anyaistennő tér-idő szimbóluma számos más helyen is megfigyelhető. Többek között az első jeruzsálemi templom, amelyet Salamon építtetett (Kr. e. 950 körül). A jobb oldali oszlopot Jachinnak, a bal oldalit Bo'as-nak nevezték, de már senki sem tudja miért.  
 Bizonyos Ehrlich is jól gondolja:  
@@ -122,7 +122,7 @@ Bizonyos Ehrlich is jól gondolja:
 A két oszlop mint mérőrúd megjelenik az [[I/Idő\|idő]] címnél szereplő Heh ábrázoláson is.  
 Szólni kell még itt a [[K/Kapu\|kapu]] fogalmáról és a [[G/Gate\|gate]] szóról is, mely igen fontos, hogy [[G/Göd\|Göd]]-vázú. Kapuról szó esett [[S/Szexualitás jelképekben, használati tárgyakban, gyermekjátékokban, stb\|szexualitás jelképekben, használati tárgyakban, gyermekjátékokban]] címnél is.  
 
-![assets/Sziget_image6.png|undefined](/img/user/S/assets/Sziget_image6.png)  
+![assets/Sziget_image6.png](/img/user/S/assets/Sziget_image6.png)  
 
 A nőiségi-princípium [[K/Kehely\|kehely]] (= [[H/Hüvely\|hüvely]]) alakot formázó U és V betűk mellett az Y is ilyen. Az Y elágazásról [[T/Trivial\|trivial]] és [[H/Hekate\|Hekate]] címnél is volt szó. A mellékelt kis kép [[Y/Yoni\|yoni]]-val emlékeztetett erre az összefüggésre.  
 
@@ -130,7 +130,7 @@ A nőiségi-princípium [[K/Kehely\|kehely]] (= [[H/Hüvely\|hüvely]]) alakot f
 
 ...ismét szeméremrészek kapcsán igen érdekeset ír ([[F/Fa#Három ágú fa\|fa]] címnél is szerepelt):  
 > A hármas elágazású fáknál a középső ág, mivel az ott kevesebb napfényt kapott, többnyire elcsenevészedett, majd el is száradott, úgy hogy idővel csak kis csonkja maradott meg. Az ilyen fák törzséből azt megfordítva, készítették az ősök hímistenségeik bálványait, az ágcsonkot penisként fogva föl, míg a kétágú villás elágazásúakból nőistenségeik bálványai készültek. Az ilyen fák elágazásában pedig a női szeméremrészhez valóban meglepően hasonlító képződményt látunk.  
-![assets/Sziget_image7.jpeg|undefined](/img/user/S/assets/Sziget_image7.jpeg)  
+![assets/Sziget_image7.jpeg](/img/user/S/assets/Sziget_image7.jpeg)  
 
 Ősműveltségében bővebben ír erről:  
 > Magát az egész hársfát ősvallási fölfogásunk szerint nőnemű fának tekinthetjük, azért mert fája lágy és mert sohasem ilyen háromágú elágazású mint például az igen kemény fájú kőris, hanem mindig kettős, azaz egyszerű villás elágazású; azt pedig már láttuk hogy a páratlan számok hímneműekként voltak fölfoghatók, a párosak pedig nőneműekként. Ezenkívül a hársfa minden villája elágazásában, a fa növekedése által a kéreg egy a nő ágyékrészéhez csodálatosan hasonlító ránc képződik. Képződik ugyan ehhez némileg hasonló ránc más kettős ágazású fáknál is, például a jegenyénél, de a nő említett részéhez sohasem annyira hasonlóan mint a hársfánál. Az egyetlen dolog ami a hársfánál nem egyező, az hogy virágai ötszirmúak. A hársfáról azonban bővebben palóc őstörzsünk fakultuszával kapcsolatban kellend írnom. (Lássad 11. számú rajzon a c-t.)
@@ -201,11 +201,13 @@ Ha a csillagászati-mitológiai lehetőségeinket figyelembe vesszük, központk
 
 [^6]: Lábjegyzet:  
 Acharia S nem érti a Tejútistennők szűzen szülésének okát, így szerinte, illetve forrása, Szent Albert szerint, a szűz-motívum attól asztroteologikus, hogy december 25-én éjjel, a születéskor a Szűz csillagkép felkel a horizonton:  
-As Albert the Great acknowledged, the virgin-birth motif is astrotheological, referring to the hour of midnight, December 25th, when the constellation of Virgo rises on the horizon. The Assumption of the Virgin, celebrated in Catholicism on August 15th, represents the summer sun's brightness blotting out Virgo. Mary's Nativity, celebrated on September 8th, occurs when the constellation is visible again. Such is what these "Christian" motifs and holidays represent, as has obviously been known by the more erudite of the Catholic clergy. Hence, the virgin who will conceive and bring forth is Virgo, and her son is the sun....  
+As Albert the Great acknowledged, the virgin-birth motif is astrotheological, referring to the hour of midnight, December 25th, when the constellation of Virgo rises on the horizon. The Assumption of the Virgin, celebrated in Catholicism on August 15th, represents the summer sun's brightness blotting out Virgo. Mary's Nativity, celebrated on September 8th, occurs when the constellation is visible again. Such is what these "Christian" motifs and holidays represent, as has obviously been known by the more erudite of the Catholic clergy. Hence, the virgin who will conceive and bring forth is Virgo, and her son is the sun...  
+—  
+Amint azt Nagy Albert is elismerte, a szűzi születés motívuma asztroteológiai eredetű, és a december 25-i éjféli órára utal, amikor a Szűz csillagkép felkel a horizonton. Szűz Mária mennybevétele, amelyet a katolicizmusban augusztus 15-én ünnepelnek, a nyári nap fényességét jelképezi, amely eltakarja a Szűz csillagképet. Mária születése, amelyet szeptember 8-án ünnepelnek, akkor következik be, amikor a csillagkép ismét láthatóvá válik. Ilyeneket jelentenek ezek a "keresztény" motívumok és ünnepek, amit nyilván a katolikus klérus műveltebbjei is tudtak. Ezért a szűz, aki fogan és szülni fog, a Szűz, a fia pedig a Nap...  
 
 [^7]: Lábjegyzet:  
 Október 24/25-ével kezdődik a Skorpió hava. Vége a föld termékeny periódusának, halált susog az őszi szél, vigasztalanul esik; a szürke ég, a feketülő táj gyászol. Ez a holtak hava (ld. halottak napja). Nem csoda, hogy összegyűlnek az orvosszentek jeles napjai a hónap közeledtével, s Rafael, a haldoklók vigasztalója áll a Skorpió ajtajában, az év betegágyánál. Ám a természet halála nem végleges. E halál tetszhalál csupán, téli álom, magzati állapot. A mag földbe temetése új termést, újjászületést ígér. Ez a vigasztaló gondolat hatja át a hónap szimbólum-világát.  
 
 [^8]: Lábjegyzet:  
 Bakos Attila A Duna Evangéliuma című könyvének 217. oldalán MA nyomán ugyanezt leírja:  
-A magyar őshagyomány szerint [[C/Csallóköz\|Csallóköz]] volt az emberiség aranykori őshazája, ahol az emberek éltek Tündér llona Aranykertjében. Tündér llona minden tavasszal nászra kelt Magyar \[helyett [[M/Magor\|Magor]]\] Napistennel s ekkor fölvette a Magyar Ilona nevet. Ez a földi Aranykert volt a földi mása a Tejútban rejtező hosszúkás szigetnek, amit mondánk Tündérországnak tart. A Tejútban Hattyú α és ξ elágazásánál található a Tündérhaza. Itt, Tündér Ilona Aranykertjében állt az a mitologikus gyümölcsű tiltott fa, amelynek jelentősége, értelme oly régen elhomályosult. Ez a tanítás szerencsére indiai ősnépünknél megőrződött (itt utal egy helyre a könyvben, amely nem lett sehol beszkennelve).  
+A magyar őshagyomány szerint [[C/Csallóköz\|Csallóköz]] volt az emberiség aranykori őshazája, ahol az emberek éltek Tündér Ilona Aranykertjében. Tündér Ilona minden tavasszal nászra kelt Magyar \[helyett [[M/Magor\|Magor]]\] Napistennel s ekkor fölvette a Magyar Ilona nevet. Ez a földi Aranykert volt a földi mása a Tejútban rejtező hosszúkás szigetnek, amit mondánk Tündérországnak tart. A Tejútban Hattyú α és ξ elágazásánál található a Tündérhaza. Itt, Tündér Ilona Aranykertjében állt az a mitologikus gyümölcsű tiltott fa, amelynek jelentősége, értelme oly régen elhomályosult. Ez a tanítás szerencsére indiai ősnépünknél megőrződött (itt utal egy helyre a könyvben, amely nem lett sehol beszkennelve).  

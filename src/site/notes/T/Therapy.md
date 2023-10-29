@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/T/Therapy/","title":"Therapy","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-27T10:21","updated":"2023-10-28T08:10"}
+{"dg-publish":true,"permalink":"/T/Therapy/","title":"Therapy","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-27T10:21","updated":"2023-10-29T03:07"}
 ---
-
-
 
 
 # Therapy
@@ -20,7 +18,6 @@ Nyilván ha a kutyával való gyógyítás itt a lényeg, akkor a [[S/Szíriusz\
 - Nyilván táltosok által művelt orvosi beavatkozásról lehet szó eredendően, vagy kutyákkal való gyógyításról, ahogy [[V/Vrâtya\|Vrâtya]] és [[P/Psychopomp\|psychopomp]] címnél volt erről szó.
 
 Egyes állatoknak és bőreiknek gyógyító hatást tulajdonítottak. Előbb szóljunk a kutyáról.  
->
 > Dogs may have been seen as healers, for they accompany such goddesses as the continental healing goddess [[S/Sirona\|Sirona]]. Dogs lick their wounds until they heal; this may have led to the common (if mistaken) belief in Celtic countries that dogs can heal human wounds through licking[^1].  
 > Dogs were presumably blessed with healing power in their tongues, were linked to the rites of [[A/Aszklépiosz\|Asclepius]], the god of healing, and frequently wandered about in the temples of this god.  
 >

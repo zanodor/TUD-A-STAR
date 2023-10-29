@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szűzanya/","title":"Szűzanya","tags":["dg_uploaded"],"created":"2023-10-25T02:34","updated":"2023-10-25T02:34"}
+{"dg-publish":true,"permalink":"/S/Szűzanya/","title":"Szűzanya","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-25T02:34","updated":"2023-10-29T03:05"}
 ---
-
-
 
 
 # Szűzanya
@@ -35,3 +33,5 @@ Hasonló eredetű lehet [[H/Hosanna\|hosanna]].
 [^1]: Lábjegyzet:  
 Meg is becstelenítik. Patricia Monaghan Encyclopedia of Goddesses and Heroines című könyvében írja a bibliai alakról:  
 The story of the falsely accused beauty, Susanna, appears in the apocryphal scriptures, where she was described as beautiful and completely loyal to her husband, Joakim. But several elders who frequented their house became obsessed with her beauty and decided to find a way to rape her. The opportunity arose when, believing the garden to be empty on a hot day, Susanna bathed in cooling water. The hidden elders leapt forward and threatened her, but Susanna called for help loudly. Finding her in this compromising position, naked and accused of having been entertaining a lover in the garden, Joakim went along with the demand that she be put to death for adultery. But a young man, Daniel, believed in Susanna's innocence and trapped the elders into revealing their plot. The elders were put to death for bearing false witness, and innocent Susanna went free.  
+—  
+A tévesen megvádolt szépség, Susanna története az apokrif írásokban jelenik meg, ahol gyönyörűnek és férjéhez, Joakimhoz teljesen hűségesnek írták le. Ám több vén, aki gyakran megfordult a házukban, a szépségének megszállottja lett, és elhatározták, hogy kitalálják, hogyan erőszakolhatják meg. Az alkalom akkor adódott, amikor Susanna egy forró napon üresnek hitt kertjében megfürdött a hűsítő vízben. Az elrejtett vének előugrottak és megfenyegették, de Susanna hangosan segítségért kiáltott. Mivel Joakim ebben a kompromittáló helyzetben találta őt, meztelenül, és azzal vádolták, hogy szeretőjét szórakoztatta a kertben, belement a követelésbe, hogy házasságtörés miatt öljék meg. Egy fiatalember, Daniel azonban hitt Susanna ártatlanságában, és csapdába ejtette az öregeket, hogy felfedjék összeesküvésüket. A véneket hamis tanúskodásért halálra ítélték, az ártatlan Susanna pedig szabadon távozhatott.  

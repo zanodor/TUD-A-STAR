@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["dg_uploaded"],"created":"2023-10-03T11:13","updated":"2023-10-25T05:00"}
+{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-03T11:13","updated":"2023-10-29T02:45"}
 ---
 
 
 # Nap – halott Nap
 
 Jankovics Marcell A Nap könyve című könyvének ([[H/Háromszögletű Nap\|háromszögletű Nap]] címnél is szereplő) adata szerint az ókori Egyiptomban négy Napot azaz Napminőséget[^1] különböztettek meg: a kelő/reggeli (neve a galacsinhajtó bogár, a [[H/Hórusz\|Hórusz]] és [[S/Scarabeus\|scarabeus]] címnél is említett Kheper), delelő (Ré-Harahti) és az öregember lenyugvó ([[A/Atum\|Atum]]) Nap alkotta a nappali triászt, mely kiegészült az éjszakai (halott) na pisten (Ozirisz) személyével. Magyar analógiája is létezik mindennek.  
-![assets/Naphalott_image1.png|undefined](/img/user/N/assets/Naphalott_image1.png)  
+![assets/Naphalott_image1.png](/img/user/N/assets/Naphalott_image1.png)  
 Beszámol ugyanis Bosnyák Sándor arról, hogy a szegedi házhomlokzatok, tetők mintázatában "a szegedi parasztok a napfelkeltét, a delelést, a napnyugtát, alul a zárt rekeszekben az éjszakát látják."  
 
 Elterjedt hiedelem szerint a [[G/Göncöl\|Göncöl]]szekér szállítja a túlvilágra a halott napisten tetemét.  
@@ -67,7 +67,9 @@ Persze nemcsak Nietzsche tartotta a Holdat éjjeli Napnak; a képzet egyetemes. 
 A görög mitológiánál maradva (az élő Nap) Héraklésszel szemben álltak olyan halott Napistennek beillő alakok, mint Augeiász vagy Eurüsztheusz. Ahogy Graves mondaná, az emelkedő és a hanyatló Nap istenei álltak szemben egymással; erről szóltunk [[O/Osiris és Set\|Osiris és Set]], valamint [[M/Missera\|missera]] címnél is.  
 
 Robert Graves The White Goddess című könyvében írja:  
-> The sacred king, then, is a Sun-king and returns at death to the Universal Mother, the White Moon Goddess, who imprisons him in the extreme north. Why the north? Because that is the quarter from which the Sun never shines, from which the wind brings snow; only dead suns are to be found in the cold polar north. The Sun-god is born at mid-winter when the Sun is weakest and has attained his most southerly station; therefore his representative, the Sun-king, is killed at the summer solstice when the Sun attains his most northerly station[^3].
+> The sacred king, then, is a Sun-king and returns at death to the Universal Mother, the White Moon Goddess, who imprisons him in the extreme north. Why the north? Because that is the quarter from which the Sun never shines, from which the wind brings snow; only dead suns are to be found in the cold polar north. The Sun-god is born at mid-winter when the Sun is weakest and has attained his most southerly station; therefore his representative, the Sun-king, is killed at the summer solstice when the Sun attains his most northerly station[^3].  
+> —  
+> A szent király tehát Napkirály, és halálakor visszatér az Egyetemes Anyához, a Fehér Hold Istennőhöz, aki a legészakibb északon tartja fogva. Miért északon? Mert az az a negyed, ahonnan a Nap soha nem süt, ahonnan a szél havat hoz; a hideg sarki északon csak halott napok találhatók. A Napisten a tél közepén születik, amikor a Nap a leggyengébb, és elérte legdélebbi állását; ezért képviselőjét, a Napkirályt a nyári napforduló idején ölik meg, amikor a Nap eléri legészakibb állását[^3].  
 
 Az etruszk [[C/Cautha\|Cautha]], akit JM a lenyugvó Nap etruszk – hüllőbőrű – istenének nevez meg, nevének etimológiája igen érdekes.  
 
@@ -83,7 +85,7 @@ A Sarkcsillag az az éjszakai Nap, mely körül ugyanúgy kőröznek a csillagok
 A Nap – halott Nap és [[N/Nap#Nap – Ellen-Nap\|ellen-Nap]] cím/alcímeket eleddig nem kapcsoltam össze. Ugye a [[S/Sarkcsillag\|Sarkcsillag]] címnél is volt [[S/Sarkcsillag#Sarkcsillag és Szíriusz azaz miben áll Sarkcsillag – Szíriusz kapcsolata\|Sarkcsillag és Szíriusz azaz miben áll Sarkcsillag – Szíriusz kapcsolata]] alcím. Az a közös kapocs.  
 A halott Nap kapcsán érdekes még a [[K/Kelet és észak\|kelet és észak]] címnél szereplő passzus.  
 
-![assets/Naphalott_image2.png|undefined](/img/user/N/assets/Naphalott_image2.png)  
+![assets/Naphalott_image2.png](/img/user/N/assets/Naphalott_image2.png)  
 Falvay Károly Nagyboldogasszony című könyvének 164-165. oldalán szól égtájakról és mitikus kapcsolatukról. Nála is nyilván az elnyugvás helye nyugat, a többit lásd a csatolt képen. Egyiptomi példát is hoz, melyről JM ezt írja Ahol a madár se jár című könyvében:  
 > Egyiptomi példa nyomán nagyon valószínű, hogy a régiek úgy hitték, **a télen halott (a magas északon hosszabb időre a horizont alatt rekedt) Nap északon, az istennő méhében (a köldöke mögött) várja *keleti* újjászületését**.  
 
@@ -117,7 +119,7 @@ Csillagászati, teridőbeli helyét tekintve mikor hal meg a Nap? Mert ugyebár 
 > A Mérleg havának kezdőnapja az [[O/Őszi napéjegyenlőség\|őszi napéjegyenlőség]] napja, határ "Innen" és "Túlnan" között[^5], hiszen az ősi hagyomány szerint ekkor halt meg a Nap. Az asztrológia a halál házának a Skorpiót tartja, ami nem ellentmondás a Mérleg korábbi nevének \["Skorpió csápja"\] ismeretében, de azért sem, mert abban az időben, amikor a nyári napforduló az Oroszlán csillagképbe esett \[lásd erről [[Z/Zep Tepi\|Zep Tepi]] bevezetőjét\], a Skorpió volt az őszpont csillagképe.  
 
 Másutt a Mérlegről írja (de itt már a korábbi Szűz is szóba kerül, melyről lásd [[S/Szűz csillagkép#Szűz mint vég\|Szűz mint vég]], valamint [[S/Szűz csillagkép#Szűz mint kezdet\|Szűz mint kezdet]] cím/alcímnél írottakat, folytatásként):  
-> A [[M/Merkúr\|Merkúr]] bolygó az ég két pontján "teszi igazán a dolgát". Mint az [[I/Ikrek csillagkép\|Ikrek csillagkép]] és jegy planétaura az ég látható kapuinak egyikében, a Tejút és az Állatöv keresztútján lélekvezetői (pszükhopomposzi; lásd [[P/Psychopomp\|psychopomp]]) feladatának tesz eleget. Mint **a Szűz csillagkép és jegy planétaura az év halálba mutató fordulópontján**, amely korábban a Szűz és Mérleg csillagképek határára, utóbb a Szűz csillagképbe esett, a holt lelkek és az évvel meghaló istenek tetteinek, magyarán az év eredményeinek mérlegelését végzi (pszükhosztászisz). Hermész-[[T/Thot\|Thot]]nak mint a kereskedés és a számolás, mérés istenének szintén nélkülözhetetlen eszköze a mérleg.  
+> A [[M/Merkúr\|Merkúr]] bolygó az ég két pontján "teszi igazán a dolgát". Mint az [[I/Ikrek csillagkép\|Ikrek csillagkép]] és jegy planétaura az ég látható kapuinak egyikében, a Tejút és az Állatöv keresztútján lélekvezetői ([[P/Psychopomp\|pszükhopomposzi]]) feladatának tesz eleget. Mint **a Szűz csillagkép és jegy planétaura az év halálba mutató fordulópontján**, amely korábban a Szűz és Mérleg csillagképek határára, utóbb a Szűz csillagképbe esett, a holt lelkek és az évvel meghaló istenek tetteinek, magyarán az év eredményeinek mérlegelését végzi (pszükhosztászisz). Hermész-[[T/Thot\|Thot]]nak mint a kereskedés és a számolás, mérés istenének szintén nélkülözhetetlen eszköze a mérleg.  
 
 Másutt is a Skorpió szerepel a halál helyeként:  
 > A Skorpió hava – mint mondottuk – a "halál háza". Naptári, asztrális vonatkozásban viszont a halál sohasem végleges, hiszen emberi tapasztalattal mérve az égi mozgások, és a földi természet változásai örökkön-örökké ismétlődnek.  
@@ -156,15 +158,22 @@ Még a mérgezés is stimmelni látszik, ahogy JM soraiból kiderül (a méregge
 [^1]: Lábjegyzet:  
 Hasonló RG-től:  
 According to Macrobius, the oracle of Colophon, one of the twelve Ionian cities of Asia Minor, gave the nature of the transcendent God Iao as fourfold. In the Winter he was Hades, or Cronos; in the Spring, Zeus; in the Summer, Helios (the Sun); in the Autumn Iao, or Dionysus.  
+—  
+Macrobius szerint Kolophón, Kis-Ázsia tizenkét ión városa közül az egyik, jósa négyszeresnek adta a transzcendens Iao Isten természetét. Télen Hádész vagy Kronosz volt; tavasszal Zeusz; nyáron Helios (a Nap); ősszel Iao vagy Dionüszosz.  
 
 [^2]: Lábjegyzet:  
 William F. Warren Paradise Found: Cradle of the Human Race at the North Pole című művében idéz valakit amikor azt írja, hogy a nem-árja gondok szokása szerint a halottak fejét dél és a lábukat észak felé fektették:  
 "In burying they lay the head to the South and the feet to the North, as the home of their gods is supposed to be in the latter direction. They call the North **Deoguhr** sometimes, and the South, Muraho, is looked upon as a region of terror; so the feet are laid towards Deoguhr in order that they may carry the dead man in the right direction."  
+—  
+"A temetés során a fejüket délre, a lábukat északra teszik, mivel isteneik otthona ez utóbbi irányban van. Északot néha **Deoguhr**-nak hívják, a delet pedig Muraho-nak, a rémület vidékének tekintik, ezért a lábukat Deoguhr felé tegyék, hogy a halottat a megfelelő irányba vigyék."  
 
 [^3]: Lábjegyzet:  
 És még előtte, sejtelmesen:  
 It will be objected that man has as valid a claim to divinity as woman. That is true only in a sense; he is divine not in his single person, but only in his twinhood. As Osiris, the Spirit of the Waxing Year he is always jealous of his weird, Set, the Spirit of the Waning Year, and vice-versa; he cannot be both of them at once except by an intellectual effort that destroys his humanity, and this is the fundamental defect of the Apollonian or Jehovistic cult. Man is a demi-god: he always has either one foot or the other in the grave; woman is divine because she can keep both her feet always in the same place, whether in the sky, in the underworld, or on this earth. Man envies her and tells himself lies about his own completeness, and thereby makes himself miserable; because if he is divine she is not even a demi-goddess-she is a mere nymph and his love for her turns to scorn and hate.  
 Woman worships the male infant, not the grown man: it is evidence of her deity, of man's dependence on her for life. She is passionately interested in grown men, however, because the love-hate that Osiris and Set feel for each other on her account is a tribute to her divinity. She tries to satisfy both, but can only do so by alternate murder, and man tries to regard this as evidence of her fundamental falsity, not of his own irreconcilable demands on her.  
+—  
+Ellenvetésként elhangzik, hogy a férfi ugyanolyan jogos igényt tarthat az isteniségre, mint a nő. Ez csak bizonyos értelemben igaz; a férfi nem a saját személyében, hanem csak az ikertestvériségében isteni. Oziriszként, a növekvő év szellemeként mindig féltékeny a furcsaságára, Setre, a fogyó év szellemére, és fordítva; nem tud egyszerre mindkettő lenni, csak olyan szellemi erőfeszítéssel, amely lerombolja az emberségét, és ez az apollóni vagy jehovista kultusz alapvető hibája. A férfi félisten: mindig vagy az egyik, vagy a másik lába a sírban van; a nő isteni, mert mindkét lábát mindig ugyanazon a helyen tudja tartani, akár az égben, akár az alvilágban, akár ezen a földön. A férfi irigyli őt, és hazugságokat mesél magának a saját teljességéről, és ezzel szerencsétlenné teszi magát; mert ha isteni, akkor a nő még csak nem is félistennő - ő csak egy egyszerű nimfa, és az iránta érzett szeretete megvetésbe és gyűlöletbe fordul.  
+A nő a férfi csecsemőt imádja, nem a felnőtt férfit: ez az ő istenségének bizonyítéka, a férfi életének tőle való függőségének. A felnőtt férfiak iránt azonban szenvedélyesen érdeklődik, mert az a szeretet-gyűlölet, amelyet Ozirisz és Set egymás iránt éreznek miatta, az ő istenségének tisztelete. Mindkettőjüknek igyekszik megfelelni, de ezt csak váltakozó gyilkossággal tudja megtenni, és az ember ezt igyekszik úgy tekinteni, mint alapvető hamisságának bizonyítékát, nem pedig a vele szemben támasztott saját kibékíthetetlen igényeinek.  
 
 [^4]: Lábjegyzet:  
 [[K/Kata\|Kata]] címnél is erről volt szó:  
