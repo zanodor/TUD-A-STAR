@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/A/Abyss/","title":"Abyss","tags":["dg_uploaded"],"created":"2023-10-26T05:33","updated":"2023-10-26T05:33"}
+{"dg-publish":true,"permalink":"/A/Abyss/","title":"Abyss","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-26T05:33","updated":"2023-10-29T01:45"}
 ---
-
-
 
 
 # Abyss
@@ -29,6 +27,8 @@ Hamlet Malma című könyvben:
 #### Nancy M. Tischler írja Biblia Enciklopédiájában:  
 
 > Also called the "bottomless pit" or "the deep," abyss sometimes refers to the primordial waters at the Creation, particularly the waters under the earth. More specifically, it seems to represent the realm of the dead in the underworld, the dwelling place of evil spirits under Satan or Apollyon.  
+> —  
+> A "feneketlen mélységnek" vagy "mélységnek" is nevezett mélység néha a teremtéskori ősvizekre utal, különösen a föld alatti vizekre. Konkrétabban úgy tűnik, hogy a holtak birodalmát jelképezi az alvilágban, a gonosz szellemek lakhelyét a Sátán vagy Apollyon alatt.  
 
 Lásd még [[A/Annwfn\|Annwfn]].  
 
@@ -38,3 +38,6 @@ Lásd még [[A/Annwfn\|Annwfn]].
 Santillana más írásában bővebben kifejti ([[I/Íj és a nyíl\|íj és a nyíl]] és más címnél is szerepelt):  
 The bow and the arrow are constantly reaffirmed as basic images, keystones of the arch of theory; both are found in the heavens: the bow of Marduk, the Babylonian Jupiter, the bow celebrated by the Poem of the Beginning, with which he won power and established universal order. Then again, it is the bow the Chinese emperors received on their accession. With this bow one cannot fail to "hit" Sirius, "he" – so says the great Babylonian ritual of Akitu – "who measures the depths of the sea".  
 The star, Sirius, has been an object of fascination in many latitudes and frequently obscure allusions are found to its links with the sea – right down to Aristotle and Pliny. Sirius seems to have been a kind of pivot for a number of intersecting lines drawn from various regions of the heavens. The main alignment places Sirius on the line joining the Poles, terminating in the south at [[C/Canopus\|Canopus]]. This is another very fascinating star, the seat of Yama Agastaya for the Hindus, the mythical city of Eridu for the Sumerians and for the Arabs Suhayl – the Heavy, because it marked the bottom of the "celestial sea" of the southern hemisphere. The other alignments linked Sirius with the "four corners of the heavens", equinoxes and solstices which owing to the [[P/Precession\|precession]] were moving imperceptibly throughout the centuries; the line of the North Pole passed over all the stars of the Great Bear in turn, like a needle moving round a huge dial. It seems that these angular measurements were solemnly and carefully checked on high days and holidays. It was conceived that by means of Sirius the earth was indeed "anchored to the depths of the Abyss" and "hitched" to the southern heavens; through this star it was possible to check whether the universe was functioning properly. This, so far as we can divine it, was the mythical and ceremonial role of the Bow of the gods.  
+—  
+Az íj és a nyíl folyamatosan megerősödik mint alapképek, az elmélet ívének zárókövei; mindkettő az égben található: Marduk íja, a babiloni Jupiter íja, a Kezdet költeménye által ünnepelt íj, amellyel hatalmat nyert és egyetemes rendet teremtett. Aztán megint csak az az íj, amelyet a kínai császárok kaptak trónra lépésekor. Ezzel az íjjal nem lehet nem "eltalálni" Szíriuszt, "őt" – így szól a nagy babiloni [[A/Akitu\|Akitu]] szertartás – "aki a tenger mélységeit méri".  
+A csillag, a Szíriusz, számos földrajzi szélességen a bűvölet tárgya volt, és gyakran találunk homályos utalásokat a tengerrel való kapcsolatára - egészen Arisztotelészig és Pliniusig. Úgy tűnik, hogy a Szíriusz egyfajta forgópontja volt számos, az égbolt különböző régióiból húzott, egymást metsző vonalnak. A fő vonalvezetés a Szíriuszt a pólusokat összekötő, délen a [[C/Canopus\|Canopus]]-nál végződő vonalra helyezi. Ez egy másik nagyon lenyűgöző csillag, a hinduknál Yama Agastaya székhelye, a suméroknál Eridu mitikus városa, az araboknál pedig Suhayl - a Nehéz, mert a déli félteke "égi tengerének" alját jelölte. A többi együttállás a Szíriuszt az "égbolt négy sarkához", a napéjegyenlőségekhez és napfordulókhoz kötötte, amelyek a [[P/Precession\|precesszió]] miatt az évszázadok során észrevétlenül mozogtak; az Északi-sark vonala a Nagy Medve összes csillagán sorban áthaladt, mint egy hatalmas számlap körül mozgó tű. Úgy tűnik, hogy ezeket a szögméréseket ünnepélyesen és gondosan ellenőrizték a jeles napokon és ünnepnapokon. Úgy gondolták, hogy a Szíriusz segítségével a Föld valóban "lehorgonyzott a mélység mélyén", és a déli égbolthoz "csatolták"; ezen a csillagon keresztül lehetett ellenőrizni, hogy a világegyetem megfelelően működik-e. Amennyire meg tudjuk ítélni, ez volt az istenek íjának mitikus és szertartásos szerepe.  
