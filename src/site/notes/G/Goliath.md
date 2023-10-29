@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Goliath/","title":"Goliath","tags":["dg_uploaded","containstransclusions"],"created":"2023-10-29T11:24","updated":"2023-10-29T11:24"}
+{"dg-publish":true,"permalink":"/G/Goliath/","title":"Goliath","tags":["dg_uploaded","containstransclusions"],"created":"2023-10-29T11:24","updated":"2023-10-30T12:33"}
 ---
 
 
