@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Labyrinth/","title":"Labyrinth","tags":["dg_uploaded"],"created":"2023-10-22T03:46","updated":"2023-10-25T01:41"}
+{"dg-publish":true,"permalink":"/L/Labyrinth/","title":"Labyrinth","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-22T03:46","updated":"2023-10-29T02:40"}
 ---
 
 
@@ -50,7 +50,7 @@ A témát kifejtve, újraértelmezve lásd még [[L/Love\|love]].
 Egy fontos szót JM sehol sem említ: a latin-francia-angol [[L/Labour\|labour]] jelentése szülés.  
 
 Dr. Gyárfás Ágnes az Ősi Gyökér 2005/1-2. sz. megjelent Kecskehal című cikkének bevezetőjében említ örvényt és labirintust, mely passzust lásd [[T/Téli napforduló\|téli napforduló]].  
-Majd a folyóirat 58. oldalán ismét szóba kerül, mint állítólagos képjele a Ma, Mah, Mada neveknek, melyeket persze a magyarokkal, népnevükkel hoz kapcsolatba, de inkább földet jelentenek. A labirintus-piktogram így ![assets/Labyrinth_image2.png|undefined](/img/user/L/assets/Labyrinth_image2.png) (Labat 342) néz ki. Hogy hogyan lehet [[M/Magyar\|Magyar]] istenanya méhének jele, itt most megmondani nem tudom (kontextusban kellene látni, de a sumér kontextus sem sokat segít, ismerve az önkényes jelentés-asszociációs gyakorlatokat). Az 59. oldalon még (érthetetlenül) Magur képjelének is mondja (két piktogrammból kellene álljon). Az tény, hogy mindezen dolgokról Kecskehalról szóló cikkében ír és [[M/Makara\|Makara]] címnél elő is jön Magur Bak(hal)ra értve.  
+Majd a folyóirat 58. oldalán ismét szóba kerül, mint állítólagos képjele a Ma, Mah, Mada neveknek, melyeket persze a magyarokkal, népnevükkel hoz kapcsolatba, de inkább földet jelentenek. A labirintus-piktogram így ![assets/Labyrinth_image2.png](/img/user/L/assets/Labyrinth_image2.png) (Labat 342) néz ki. Hogy hogyan lehet [[M/Magyar\|Magyar]] istenanya méhének jele, itt most megmondani nem tudom (kontextusban kellene látni, de a sumér kontextus sem sokat segít, ismerve az önkényes jelentés-asszociációs gyakorlatokat). Az 59. oldalon még (érthetetlenül) Magur képjelének is mondja (két piktogrammból kellene álljon). Az tény, hogy mindezen dolgokról Kecskehalról szóló cikkében ír és [[M/Makara\|Makara]] címnél elő is jön Magur Bak(hal)ra értve.  
 GYÁ cikke záró sorában kimondja, hogy a barlang-labirintus az ősanya Boldogasszony méhének szimbóluma, mélytudatunk legrejtettebb pontja; mégsem sikerült a cikkben megfelelően kifejteni, mi is a Bak jelentősége és a Magyar és Magur nevek hogyan és miért jelennek meg keleten.  
 
 Dr. Gyárfás Ágnes egy másik cikkében is szól csigavonalról. [[U/Újév\|Újév]] és [[K/Kalács\|kalács]] címnél ábrával szereplő írását lásd.  
@@ -63,9 +63,13 @@ Egyiptomi párhuzamát a jelnek lásd [[M/Magor\|Magor]], ahol több Gyárfás f
 
 #### Acharia S The Christ Conspiracy...
 
-...című könyvéből származó passzusa [[L/Lingam\|lingam]] és [[Y/Yoni\|yoni]] címnél is szerepelt:  
+...című könyvéből származó passzusa [[P/Phallic\|phallic]], [[V/Vulva\|vulva]], [[L/Lingam\|lingam]] és [[Y/Yoni\|yoni]] címnél is szerepelt:  
 > Despite its antisex attitude and pretensions, Christianity incorporated many sexual images, including the ancient and ubiquitous [[L/Lingam\|lingam]] symbol, evident in the church steeple, and the [[Y/Yoni\|yoni]] or womb, symbolized by the church nave. From the earliest times, in fact, temples and churches themselves served as wombs, into which the priest, with his phallus-shaped hat would enter, beseeching the Deity for fertility and fecundity. As Allegro says:  
 > The temple was designed with a large measure of uniformity over the whole of the Near East now recognizable as a microcosm of the womb. It was divided into three parts: the Porch, representing the lower end of the vagina up to the hymen, or Veil; the Hall, or vagina itself; and the inner sanctum, or Holy of Holies, the uterus. The priest, dressed as a penis, anointed with various saps and resins as representing the divine semen, enters through the doors of the Porch, **the "labia" of the womb**, past the Veil or "hymen" and so into the Hall.  
+> —  
+> Antiszexuális hozzáállása és igényessége ellenére a kereszténység számos szexuális képet épített be, beleértve az ősi és mindenütt jelenlévő [[L/Lingam\|lingam]] szimbólumot, amely a templomtoronyban látható, és a [[Y/Yoni\|yoni]] vagy méh, amelyet a templomhajó szimbolizál. A legkorábbi időktől fogva a templomok és a templomok maguk is méhként szolgáltak, ahová a pap fallosz alakú kalapjával belépett, és termékenységért és termékenységért könyörgött az Istenséghez. Ahogy Allegro mondja:  
+> A templomot nagyfokú egységességgel tervezték az egész Közel-Keleten, amely ma már felismerhetően az anyaméh mikrokozmoszának tekinthető. Három részre volt osztva: a Bejárat, amely a hüvely alsó végét jelképezte a szűzhártyáig, vagyis a Fátyolig; a Csarnok, vagyis maga a hüvely; és a belső szentély, vagyis a Szentek Szentje, a méh. A pap, pénisznek öltözve, különböző nedvekkel és gyantákkal felkenve, amelyek az isteni ondót jelképezik, belép a Bejárat ajtaján, **a méh "szeméremajkán" keresztül**, a Fátyolon vagy "szűzhártyán" át, és így a Csarnokba.  { #dgfln7}
+
 
 Hasonló téma jön elő Falvay Károly Nagyboldogasszony c. k. 234. oldalán, ahol írja:  
 > Egészen az 1500-as évekig a házasulandó felek az egyezséget egész Európában a templom kapujában kellett kimondják.  
