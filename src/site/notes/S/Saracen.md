@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Saracen/","title":"Saracen","tags":["dg_uploaded"],"created":"2023-10-20T09:20","updated":"2023-10-25T02:09"}
+{"dg-publish":true,"permalink":"/S/Saracen/","title":"Saracen","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-20T09:20","updated":"2023-10-29T02:57"}
 ---
 
 
@@ -18,7 +18,9 @@ Ami a lényeg, és ezt [[K/Kumán\|kumán]] címnél is elmondtuk, hogy (az ott 
 #### Yaroslav Kesler The Perception of Open-Ended Time...
 
 ...című cikkében a keleti értelem kapcsán fontos dologra hívja fel a figyelmet (bár mondjuk ennek akkor lenne/lett volna értelme, ha a `charqiyin` szó belső fejlődésű arab szó; bár mondjuk mindegy, mert a nyugatra használt [[M/Maghreb\|Maghreb]] szava sem belső fejlődésű és abból is levontuk a következtetéseket):  
-> It already has been said that the word "Saracen" (sarrasin) was noted in the French language simultaneously with the word "synagogue" (1080), although, according to traditional history, these same Saracen-Moslems (!) intruded on the territory of France as early as the 8th century. At the same time, this word from the Arabic is "charqiyin," that is, literally: "eastern," that is, Saracens are EASTERN people with regard to the Arabs themselves!  
+> It already has been said that the word "Saracen" (sarrasin) was noted in the French language simultaneously with the word "synagogue" (1080), although, according to traditional history, these same Saracen-Moslems(!) intruded on the territory of France as early as the 8th century. At the same time, this word from the Arabic is "charqiyin," that is, literally: "eastern," that is, Saracens are EASTERN people with regard to the Arabs themselves!  
+> —  
+> Azt már mondták, hogy a "szaracén" (sarrasin) szót a francia nyelvben a "zsinagóga" szóval egy időben jegyezték fel (1080), noha a hagyományos történelem szerint ugyanezek a szaracén-moszlimok(!) már a 8. században behatoltak Franciaország területére. Ugyanakkor ez a szó az arabból (`charqiyin`) való, mely szó szerint: "keleti", vagyis a szaracénok KELETI népek magukhoz az arabokhoz képest!  
 - Az ő szemszögükből keleti a szaracén.
 
 #### Varga Csaba Mire lehet büszke a magyar?...
