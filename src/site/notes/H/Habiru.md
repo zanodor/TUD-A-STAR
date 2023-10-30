@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-04T02:14","updated":"2023-10-30T12:07"}
+{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-04T02:14","updated":"2023-10-30T08:57"}
 ---
 
 
@@ -38,18 +38,17 @@ Fáy Elek A magyarok őshona című könyvének 114. oldalán a [[H/Habur\|Habur
 
 Szintén Fáy Elek A magyarok őshona című könyvének 70. oldalán említi a Habur folyó melléki sumér illetve szingarországi Magarisz város nevét, ahogy fentebb is szerepelt.  
 Namost a Habur/Habiru nevek kapcsán előjön alant a Szíriusz arab neve, **Al-Habur**, de Dr. Gyárfás Ágnes az Ősi Gyökér 2007/1. PDF 71. oldalán Eb a hite kölykei című cikkében közli Dr. Kovács Sándor adatát, aki a Labat szótár segítségével kimutatta, hogy a Nagy Kutya csillagkép \[akkor ezek szerint nem a Szíriuszé?\] neve MA-GAR, s el is nevezte a "Magyarok Csillagának" (Stella Hungarorum). \[Akkor most a csillagé a név? Kovács cikkének neve Stella Hungarorum, Ősi Gyökér 1999. Másik cikkében Mahgar-nak írja.\]  
-Namost nem-e ezen Magarisz város az, amely az égre helyezve Magarként kiolvasott? Hiszen Magar, Magor, Magur a Solaris Nap neve és nem lehetne Szíriusz neve is. Hacsak nem arról van szó, hogy a [[M/Magor\|Magor]] és [[M/Makara\|Makara]] címnél felfejtett téma nyomán vitetett át a név Szíriuszra, mert a téli napfordulón vele együttállás van:  
+Na most nem-e ezen Magarisz város az, amely az égre helyezve Magarként kiolvasott? Hiszen Magar, Magor, Magur a Solaris Nap neve és nem lehetne Szíriusz neve is. Hacsak nem arról van szó, hogy a [[M/Magor\|Magor]] és [[M/Makara\|Makara]] címnél felfejtett téma nyomán vitetett át a név Szíriuszra, mert a téli napfordulón vele együttállás van:  
 Valószínűleg, mivel több nyelvben a Bakban születő Nap neve révén a Bak neve lett és ilyenkor együttállás történik a Szíriusszal, az elnevezés még átment arra is. Vagy valamilyen kontextusbeli hiba van Kovácsnál is, mint Sitchinnél. Sajnos ha nincs meg a forrás, nehéz bármit mondani.  
 Másutt GYÁ Ur Magar-ként is utal rá. Könnyen lehet, hogy az [[U/UR\|UR]] az, ami viszi benne a kutya értelmet, annál is inkább mert kutyafejjel jelzik ezt a szót.  
 Az ír kutyát jelentő madadh és madra szavakat ugyan [[M/Magyar\|magyar]]ral azonosítottam, mondván, a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] között a kutyának is kell lennie.  
-Egyébként Hunor kellene Szíriusz legyen. Nem hiszem, hogy át kell értékelnem a dolgokat (bár közben született egy [[M/Magyar mint Szíriusz\|Magyar mint Szíriusz]] cím is).  
+Egyébként Hunor kellene Szíriusz legyen. Nem hiszem, hogy át kell értékelnem a dolgokat (viszont közben született egy [[M/Magyar mint Szíriusz\|Magyar mint Szíriusz]] cím is).  
 
 A helyzet az, hogy mivel minden [[F/Folyó\|folyó]] a Tejútfolyó és magukat a Tejútról származtatták az emberek, ezért egyes népek (számuk egyre növekedni látszik, ahogy megfejtjük őket) nevei is vagy magából a magyar Tejút/Teut névből vagy egyes folyók nevéből ered. Ezen megfontolás alapján a [[H/Héber\|héber]]ek neve eredhetne a Habur folyó nevéből, de ha közvetlenül nem, akkor a [[K/Kabar\|kabar]]ok nevéből, míg a kabarok neve a Habur/Habor folyó nevéből.  
 Az igaz, hogy a kabar viszont a [[K/Kabir\|kabir]] névvel is rokon, mely a [[S/Szabir\|szabir]] k-s ([[K/Kentum\|kentum]]os) kiejtése lehet.  
 Namost ezen Kabir viszont előjön az araboknál (láttam Quora választ ilyen kérdésben), mint Allah jelzője, mely Allah-hal kapcsolatosan pedig előjön a Szíriusszal azonosítás. Nem nehéz így belátni, hogy Kabir = Eb-Úr szintén.  { #d05agb}
 
-
-Még kentum-szatem témában (is) érdekes, hogy a [[S/Savant\|savant]] címnél említett arab `khabar` = (meg)ismer, (meg)tud szó (mely [[S/Szatem\|szatem]] változatának is tarthatjuk a francia savoir és a spanyol `saber` = ismer, tud szavakat) eredhet a [[H/Habur\|Habur]] Tejút(folyam) elnevezésétől, mint ahogy a mi [[T/Tud\|tud]] szavunk eredete is lehet Teut-Tejút (hacsak nem a [[K/KAP\|KAP]] (ismeretet) igénk áll egyszerűen mögötte, ahogy a latin `habere` mögött is).  
+- Még kentum-szatem témában (is) érdekes, hogy a [[S/Savant\|savant]] címnél említett arab `khabar` = (meg)ismer, (meg)tud szó (mely [[S/Szatem\|szatem]] változatának is tarthatjuk a francia `savoir` és a spanyol `saber` = ismer, tud szavakat) eredhet a [[H/Habur\|Habur]] Tejút(folyam) elnevezésétől, mint ahogy a mi [[T/Tud\|tud]] szavunk eredete is lehet Teut-Tejút (hacsak nem a [[K/KAP\|KAP]] (ismeretet) igénk áll egyszerűen mögötte, ahogy a latin `habere` mögött is).  
 
 Habur a Wikipédia adata szerint az [[E/Eufrátesz\|Eufrátesz]] mellékfolyója:  
 > The Khabur River (Arabic: الخابور al-khābūr, Kurdish: Xabûr, Syriac: ḥābur/khābur, Turkish: Habur, Ancient Greek: Χαβώρας or Ἀβόρρας or Ἀβούρας – Chaboras, Aborrhas, or Abura, Latin: Chabura) is the largest perennial tributary to the Euphrates in Syrian territory. Although the Khabur originates in Turkey, the karstic springs around Ra's al-'Ayn are the river's main source of water. Several important wadis join the Khabur north of Al-Hasakah, together creating what is known as the Khabur Triangle, or Upper Khabur area. From north to south, annual rainfall in the Khabur basin decreases from over 400 mm to less than 200 mm, making the river a vital water source for agriculture throughout history. The Khabur joins the Euphrates near the town of Busayrah.  
@@ -57,7 +56,7 @@ Habur a Wikipédia adata szerint az [[E/Eufrátesz\|Eufrátesz]] mellékfolyója
 > A Habur folyó (arabul: الخابور al-khābūr, kurdul: Xabűr, szír: ḥābur/khābur, török: Habur, ógörög: Χαβώρας vagy Ἀβόρρας vagy Ἀβούρας – Chaboras, Aborrhas vagy Abura, latinul: Chabura) az Eufrátesz legnagyobb évelő mellékfolyója Szíria területén. Bár a Habur Törökországban ered, a Ra's al-'Ayn környéki karsztforrások jelentik a folyó fő vízforrását. Al-Haszakától északra több fontos wadis csatlakozik a Khaburhoz, amelyek együttesen alkotják a Khabur-háromszög vagy Felső-Khabur területét. Északról dél felé haladva a Khabur medencéjében az éves csapadékmennyiség 400 mm-ről 200 mm alá csökken, így a folyó a történelem során a mezőgazdaság számára létfontosságú vízforrássá vált. A Khabur Busayrah városa közelében egyesül az Eufrátesszel.  
 
 [[U/Urshanabi\|Urshanabi]] címnél is említett adat szerint Hubur Mezopotámiában a Halál/Holtak folyama volt (mely ugyanúgy a Tejút, ahogy Styx is). A Wiki szerint is azonos a fentiekben taglalt folyóval:  
-> Hubur (ḪU.BUR, Hu-bur) is a Sumerian term meaning "river", "watercourse" or "netherworld." It is usually the "river of the netherworld."  
+> Hubur (`ḪU.BUR`, Hu-bur) is a Sumerian term meaning "river", "watercourse" or "netherworld." It is usually the "river of the netherworld."  
 > A connection to Tiamat has been suggested with parallels to her description as "Ummu-Hubur". Hubur is also referred to in the Enuma Elish as "mother sea Hubur, who fashions all things". The river Euphrates has been identified with Hubur as the source of fertility in Sumer.  
 > \[...\]  
 > Delitzch has suggested the similar Sumerian word Habur probably meant "mighty water source", "source of fertility" or the like.  
@@ -67,7 +66,6 @@ Habur a Wikipédia adata szerint az [[E/Eufrátesz\|Eufrátesz]] mellékfolyója
 > \[...\]  
 > Delitzch szerint a hasonló sumér Habur szó valószínűleg "hatalmas vízforrást", "termékenység forrását" vagy hasonlót jelentett.  
 - A Wiki oldal szerkesztői nem jönnek rá, hogy az Élet folyója a Halál folyója is egyben.  
-
 Azt jegyezzük meg egyébként, hogy az indo-európai nyelvcsaládba sorolt örmény nyelvben `hawaṙi` = víz kilóg a sorból[^3], talán mert Habúr eredetre megy vissza.  
 
 Namármost, a Sirius in Ancient Greek and Roman Literature című cikkben Al-Habur (másutt Al-Abur[^4]) előjön a [[S/Szíriusz\|Szíriusz]] arab neveként:  
@@ -75,7 +73,7 @@ Namármost, a Sirius in Ancient Greek and Roman Literature című cikkben Al-Hab
 > —  
 > A 13. századi pásztorénekeken alapuló Carmina Buranában a Szíriusz fehérségét az elefántcsonthoz hasonlítják. Geoffrey Chaucer 1391-ben arról számol be, hogy az arabok a Szíriuszt Al-Haburnak, a gyönyörű fehér csillagnak nevezik.  
 
-Mivel a Szíriusz közvetlenül szorosan kapcsolódik a Tejúthoz, nem lenne meglepő, hogy a folyó neve vitetett át a csillag nevére. Ami még itt érdekes, hogy az elefáncsont-fehérség is szóba jön. Márpedig az [[E/EB\|EB]] és [[I/Ivory\|ivory]] címnél előjövő latin ebur és kelta ebor és főleg Eb-Úr, és a [[S/Szíriusz\|Szíriusz]] címnél szereplő passzusnál említett [[A/Ábra\|ábra]] és [[O/Over\|over]] címnél előjövő szavak is hasonló alakúak mind. Közben lásd [[H/Hab\|hab]] cím alján szereplő adatokat is, új felfedezéssel.  
+Mivel a Szíriusz közvetlenül szorosan kapcsolódik a Tejúthoz, nem lenne meglepő, hogy a folyó neve vitetett át a csillag nevére. Ami még itt érdekes, hogy az elefáncsont-fehérség is szóba jön. Márpedig az [[E/EB\|EB]] és [[I/Ivory\|ivory]] címnél előjövő latin `ebur` és kelta `ebor` és főleg Eb-Úr, és a [[S/Szíriusz\|Szíriusz]] címnél szereplő passzusnál említett [[A/Ábra\|ábra]] és [[O/Over\|over]] címnél előjövő szavak is hasonló alakúak mind. Közben lásd [[H/Hab\|hab]] cím alján szereplő adatokat is, új felfedezéssel.  
 
 [[S/Szíriusz mozgása\|Szíriusz mozgása]] címnél szerepelt J. Ellard Gore némi adata, kinek Astronomical Curiosities c. könyvében írja:  
 > The Proper Motion of Sirius.  
