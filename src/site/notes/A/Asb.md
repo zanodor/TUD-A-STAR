@@ -3,8 +3,6 @@
 ---
 
 
-
-
 # Asb
 
 Perzsa nyelven `asb` = ló. `Aspa` ló Aveszta nyelvben, `asp` a pahlaviban, az óindben `asva`.  
