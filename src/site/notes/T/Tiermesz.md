@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tiermesz/","title":"Tiermesz","tags":["dg_uploaded"],"created":"2023-10-13T12:47","updated":"2023-10-25T02:16"}
+{"dg-publish":true,"permalink":"/T/Tiermesz/","title":"Tiermesz","tags":["dg_uploaded"],"created":"2023-10-13T12:47","updated":"2023-10-30T07:57"}
 ---
+
+
 
 
 # Tiermesz
@@ -26,12 +28,13 @@ Még mindig északon járunk, egészen pontosan a lappoknál, ahol két M-SZ, M-
 [[C/Csudaszarvas\|Csudaszarvas]] címnél Jankovics hosszabban:  
 > A vadásztársaságnak tagja még **Favtna, más néven Tiermesz, a medve** alakban járó lapp viharisten. A finn szerzők az [[O/Ökörhajcsár csillagkép\|Ökörhajcsár csillagkép]]pel azonosítják[^2]. A csillagisten megfeszített és nyilakat lövöldöző íja a [[J/Jávor\|jávor]]szarvas csillagzatra "mutató" Nagy Medve (Ursa Maior) csillagkép.  
 > Bár ideillő lapp nevét a szerzők nem közlik, az égi mondában \[a Joseph Fontenrose Orionjában is taglalt görög mítoszokhoz hasonlóan\] a Tejút mentén folyik a vadászat, s ez, látni fogjuk, lényeges a monda jelentése szempontjából is. Erről most csak annyit, hogy a Jávorszarvas csillagzat, az Orion és az Ikrek egyaránt a [[T/Tejút\|Tejút]] csillagképei.  
-> Bizonyos értelemben a Kis Medve (Ursa Minor) is beleillik a képbe. Egy följegyzés szerint ui., amikor Favtna (Tiermesz) nem vadászik, íját szögre, a Sarkcsillagra ([[P/Polaris\|Polaris]]) akasztja; ez a Kis Medve csillagkép legfényesebb csillaga. (A két Medve csillagzat ilyetén együvé kapcsolása általános; lásd a Kis Medve – Nagy Medve, Kis Göncöl – Nagy Göncöl neveket.) Alapos okunk van arra is, hogy a Bika csillagképet (Taurus) – ennek vállán kotlik a Fiastyúk – szintén a menekülő szarvasok csapatába soroljuk, ám ennek bizonyítása már szétfeszítené írásunk kereteit.  
+> Bizonyos értelemben a Kis Medve (Ursa Minor) is beleillik a képbe. Egy följegyzés szerint ui., amikor Favtna (Tiermesz) nem vadászik, íját szögre, a Sarkcsillagra ([[P/Polaris\|Polaris]]) akasztja; ez a Kis Medve csillagkép legfényesebb csillaga. (A két Medve csillagzat ilyetén együvé kapcsolása általános; lásd a Kis Medve – Nagy Medve, Kis Göncöl – Nagy Göncöl neveket.) Alapos okunk van arra is, hogy a Bika csillagképet ([[T/Taurus\|Taurus]]) – ennek vállán kotlik a Fiastyúk – szintén a menekülő szarvasok csapatába soroljuk, ám ennek bizonyítása már szétfeszítené írásunk kereteit.  
 > A lapp csillagnevek mögött fölsejlő rege kozmogóniai – a világegyetem kialakulásával kapcsolatos – értelmet hordoz. A lappok hiedelme szerint a világ addig áll fenn, amíg Tiermesz le nem teríti Miantas-Pirrét, az égi szarvast. Miantas-Pirre hordja agancsán az égboltozat zárókövét, a Sarkcsillagot (agancslapátja, a Cassiopeia a Sarkcsillag szomszédságában van), s ha Tiermesz nyilától találva összerogy, elvesztvén támasztékát, az égbolt is a földre omlik. A mítosz borúlátása ellenére, úgy tűnik, a lappok nem féltek a világ végétől. Miantas-Pirre éppúgy utolérhetetlennek tűnik, miként a legtöbb monda szarvasa, hiszen aligha éri meg az emberiség, hogy Tiermesz nyílvesszeje Miantas-Pirrébe fúródjék, azaz a Nagy Medve Muscida nevű csillaga az Auriga csillagképbe vándoroljon. Elemi szinten ez a csillagmonda lényege: a napi, évi körforgással örökkön-örökké ismétlődő égi vadászat, a csillagképek közt (remélhetőleg) soha nem csökkenő távolság a világ fönnmaradásának szemmel látható bizonyítéka volt a lappok szemében.  
 > Ha fentiek nyomán felébred a kíváncsiságunk, és csillagnézőbe indulunk, tapasztalni fogjuk, hogy Miantas-Pirre vadászata nem mindig követhető az égen. A felsorolt csillagképek ugyanis együtt ősztől tavaszig láthatók csupán. Az év másik felében az ég nappali térfelén tartózkodnak, fényüket a Nap homályosítja éppen el. Ez nem volt mindig így. \[Itt a precesszió jelenségéről ír.\]  
 > A [[P/Precesszió\|precesszió]] következtében az égitestek koordinátái is állandóan változnak. 13000 évvel ezelőtt tehát a nyári égboltunkon ragyogtak azok a csillagképek, amelyek ma a téli égbolton láthatók, némiképp az egykoritól különböző alakban. Ugyanis ha lassan is, de a csillagokat is elmozdulni látjuk egymáshoz képest. "Mai" – legalább 4-5000 éve tartó – téli csillagkép voltuk magyarázza, miért vált a szarvas a téli ünnepkör állatává, s természetesen azt is, miért folyik a lapp, s tegyük hozzá, a legtöbb finnugor mondában a vadászat sítalpon, hótalpon.  
 
 A név tehát lehet Orion+Tejút \[[[MISZ\|[MISZ]]\] összetételű, majd talán a finnségiek északra való visszatérése után északi csillagképre cserélhették.  
+Még utólag: az előtag a pártus-perzsa [[T/Tír\|tír]] szóban nyílvessző jelentésű volt.  
 
 ## Lábjegyzetek
 
