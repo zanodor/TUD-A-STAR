@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fabricate/","title":"Fabricate","tags":["dg_uploaded"],"created":"2023-10-31T10:46","updated":"2023-10-31T10:46"}
+{"dg-publish":true,"permalink":"/F/Fabricate/","title":"Fabricate","tags":["dg_uploaded","containscallouts"],"created":"2023-10-31T10:46","updated":"2023-10-31T10:48"}
 ---
 
 
@@ -22,7 +22,7 @@ Amit ír:
 >> In Latin "ferrarius" can be:  
 >> - an adjective meaning "of/about iron"; so a smith is a "faber ferrarius" (in Italian: "fabbro ferraio"), i.e. an artisan that works with iron;  
 >> - a noun meaning "smith"; In Italian it's the same: "ferraio" means smith but it is not common at all (I didn't even know it existed as a word).  
->> 
+>>
 >> In Italian, ferrarius went out of use and "fabbro ferraio" became just fabbro (at the same time, "fabbro" began to be used only for smiths, and not other artisans).
 >
  Válaszom:  
