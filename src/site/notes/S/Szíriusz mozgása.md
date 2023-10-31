@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["dg_uploaded"],"created":"2023-10-30T07:03","updated":"2023-10-31T06:03"}
+{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["dg_uploaded"],"created":"2023-10-30T07:03","updated":"2023-10-31T06:04"}
 ---
 
 
