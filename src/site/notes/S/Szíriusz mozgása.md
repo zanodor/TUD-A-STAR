@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["dg_uploaded"],"created":"2023-10-30T07:03","updated":"2023-10-30T07:03"}
+{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["dg_uploaded"],"created":"2023-10-30T07:03","updated":"2023-10-31T06:04"}
 ---
-
-
 
 
 # Szíriusz mozgása
@@ -27,8 +25,10 @@ Arról, hogy az Orion csillagkép és a vele szemközti Nyilasban lévő Tejútk
 Lásd még egyáltalán más infókért [[S/Szíriusz és a naprendszer\|Szíriusz és a naprendszer]].  
 
 [[K/Kovács és a kutya\|Kovács és a kutya]] címnél tettük fel legutóbb a kérdést, hogy jó lenne tudni, Szíriusz miképpen lép ki az [[O/Orion övcsillagai\|Orion övcsillagai]] által összekötött és abból tovább húzott egyeneshez mérten. Mert hát a mítosz csillagászati, csak érteni kell. Lásd folytatást [[S/Szíriusz mozgása#Szíriusz ketyegő, oszcilláló mozgása\|Szíriusz ketyegő, oszcilláló mozgása]] alcímet lejjebb.  
-[[N/Naprendszerünk mozgása\|Naprendszerünk mozgása]] címnél is szerepelt:  
+
 ![assets/Sziriuszmozgasa_image3.png](/img/user/S/assets/Sziriuszmozgasa_image3.png)  
+
+[[N/Naprendszerünk mozgása\|Naprendszerünk mozgása]] címnél is szerepelt:  
 A 19. század végén írott RHA-féle Star Signs könyvben is szerepel, hogy Naprendszerünk a [[H/Herkules csillagkép\|Herkules csillagkép]] ([[M/Maasym\|Maasym]] csillaga) felé tart (*Apex of the Sun's Way*-nek hívják[^1], azaz a Napút Legmagasabb Pontjának), de ami érdekesebb, hogy az ellenpontot, a *Sun's Quit*-et, mely ez Apex-szel szemközti helyen van az űrben, a [[S/Szíriusz\|Szíriusz]] és a [[C/Canopus\|Canopus]] közé helyezik.  
 A fentebb jobbra mellékelt kép tanúsága szerint viszont, ha a Szíriusszal bináris rendszerben lenne Napunk, akkor nagy (relatív) sebességgel ("balra") halad a Tejútközpont körül, de egy (relatíve lassabb) ellentétes sebességgel kellene ("jobbra") mozognia, hogy Szíriusszal táncra perdüljön – persze mindezt úgy, hogy a Földről nézve a háttércsillagok által kiadott (elsősorban) zodiákusbeli csillagzatok megbízható, (kvázi-)körkörös módon következzenek a Nagy Évben és a Kis Évben is értelmezhetően.  
 
@@ -146,9 +146,9 @@ Nem lennék meglepve, ha az alábbi ...
 > A Szíriusz nem volt mindig az a fényes kék csillag, amelyet manapság a déli égbolton látunk, mert a Naphoz és a körülötte keringő Földhöz képest a Szíriusz mozog. Körülbelül ötmillió évvel ezelőtt a Lynx csillagképben volt, több mint 70°-kal távolabb a mostani helyzetétől, és sokkal halványabban jelent meg.
 >
 > A Szíriuszról Dr. Rob van Gent készített egy aktuális paramétereket tartalmazó diagramot (3.6. ábra).  
-> ![assets/Sziriuszmozgasa_image10.png](/img/user/S/assets/Sziriuszmozgasa_image10.png)
-> A Szíriusz látszólagos helyváltoztatása az égen, a Naprendszerből nézve, több mozgás kombinációja. Először is, az α CMa saját mozgást végez a galaxisban; ugyanígy a Nap és az egész Naprendszer is. Ez okozza, hogy mind a tárgy helyzete, amelyet nézünk, mind a hely, ahonnan nézzük, idővel változik. Mi csak a Szíriusz relatív helyváltoztatását ismerjük a "fix" csillagokhoz képest, amelyek a valóságban sokkal távolabb vannak, mint a Szíriusz, ezért látszólagos mozgásuk kicsi vagy elhanyagolható. A két mozgás kombinációja a "sajátmozgás", és a Szíriusz relatív helyzetének változását jelenti. Egységei a legtöbb csillag esetében századonként ívmásodperc, a legközelebbi, gyorsan mozgó csillagok esetében pedig évenként ívmásodperc (a Szíriusz sajátmozgása az egyik legnagyobb az égbolton: a Hipparcos műhold által mért 1".34 yr¯¹, a Barnard-csillag esetében 10".3 yr¯¹). A 3.5. ábrán látható ábra a Szíriusz ∼100 éves sajátmozgását ábrázolja, és Flammarion (1884) munkájából származik, aki megemlíti, hogy a Szíriusz általános környezetében lévő többi fényes csillag alig változtatja a helyzetét ilyen csillagászatilag rövid időintervallumban.
-> A Szíriusz a jobbra emelkedés (nyugat) és a deklináció (dél) alacsonyabb értékei felé mozog, ahogy Flammarion ábrája is mutatja (lásd a 3.5. ábrát).
+> ![assets/Sziriuszmozgasa_image10.png](/img/user/S/assets/Sziriuszmozgasa_image10.png)  
+> A Szíriusz látszólagos helyváltoztatása az égen, a Naprendszerből nézve, több mozgás kombinációja. Először is, az α CMa saját mozgást végez a galaxisban; ugyanígy a Nap és az egész Naprendszer is. Ez okozza, hogy mind a tárgy helyzete, amelyet nézünk, mind a hely, ahonnan nézzük, idővel változik. Mi csak a Szíriusz relatív helyváltoztatását ismerjük a "fix" csillagokhoz képest, amelyek a valóságban sokkal távolabb vannak, mint a Szíriusz, ezért látszólagos mozgásuk kicsi vagy elhanyagolható. A két mozgás kombinációja a "sajátmozgás", és a Szíriusz relatív helyzetének változását jelenti. Egységei a legtöbb csillag esetében századonként ívmásodperc, a legközelebbi, gyorsan mozgó csillagok esetében pedig évenként ívmásodperc (a Szíriusz sajátmozgása az egyik legnagyobb az égbolton: a Hipparcos műhold által mért 1".34 yr¯¹, a Barnard-csillag esetében 10".3 yr¯¹). A 3.5. ábrán látható ábra a Szíriusz ∼100 éves sajátmozgását ábrázolja, és Flammarion (1884) munkájából származik, aki megemlíti, hogy a Szíriusz általános környezetében lévő többi fényes csillag alig változtatja a helyzetét ilyen csillagászatilag rövid időintervallumban.  
+> A Szíriusz a jobbra emelkedés (nyugat) és a deklináció (dél) alacsonyabb értékei felé mozog, ahogy Flammarion ábrája is mutatja (lásd a 3.5. ábrát).  
 > A teljes sajátmozgás a Szíriusz távolságában ∼15 km s¯¹ keresztirányú térbeli sebességet jelent. Ez az a sebesség, amellyel a Szíriusz a Naptól nézve a látóvonalra merőlegesen mozog.  
 
 ![assets/Sziriuszmozgasa_image11.png](/img/user/S/assets/Sziriuszmozgasa_image11.png)  
