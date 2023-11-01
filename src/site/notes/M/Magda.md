@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magda/","title":"Magda","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-21T03:58","updated":"2023-10-29T02:41"}
+{"dg-publish":true,"permalink":"/M/Magda/","title":"Magda","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-21T03:58","updated":"2023-11-02T12:40"}
 ---
 
 
@@ -12,7 +12,7 @@
 > Mindenek előtt azonban ki kell emelnünk a következő egyezéseket:  
 > A magyarság hagyományában [[T/Toldi Miklós\|Toldi Miklós]] kedvese: **Magda**. (Láttuk, hogy Toldi Miklós azonos ősi Napistenünkkel.)  
 
-#### Bakos Attila A Duna Evangéliuma",
+#### Bakos Attila A Duna Evangéliuma
 
 ...című könyvének 248. oldalán olyanról tud, hogy Arany János ezt a Magdát idegen névnek tartva lecserélte Piroskára.  
 > A Bibliában a [[J/Jézus\|Jézus]]sal közelebbi kapcsolatba hozott leány neve (Magdalai Mária (Mária Magdaléna/Magdolna; lásd még róla [[M/Mária\|Mária]]), aki a hagyomány szerint így azért neveztetett mivel Magdala városából származott \[megjegyzés: a város neve sokszor sokszor csak "vezetéknévként" való magyarázat[^1]\]. Említettük, hogy Jézus is tulajdonképen Napisten, illetve *amennyiben létezett is*, de utóbb annyi ősi naphitrege alkalmaztatott rá, hogy e mondai anyag a történelmit teljesen elborította.  
