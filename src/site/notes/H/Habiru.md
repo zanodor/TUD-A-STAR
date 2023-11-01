@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-04T02:14","updated":"2023-10-30T08:57"}
+{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-04T02:14","updated":"2023-11-01T09:18"}
 ---
 
 
@@ -91,7 +91,7 @@ Mivel a Szíriusz közvetlenül szorosan kapcsolódik a Tejúthoz, nem lenne meg
 > A [[P/Procyon\|Procyon]]ra utalva Al-Sufi azt mondja, hogy amikor a Szíriusz "áthaladt a Tejúton", a Procyon "a Tejúttól északkeletre eső területen maradt". Ez is helyes, mert a Procyon sajátmozgása (1,25" 214,5°-os szögre) nagyon hasonló irányú és nagyságú, mint a Szíriuszé, és 60 000 évvel ezelőtt a Rák csillagképben volt, nem messze az η Cancri csillagtól.  
 > 60 000 év múlva a Procyon a θ Canis Majoris csillag közelében lesz, és akkor a maga részéről már át fog haladni a Tejútrendszeren.  
 > Tisztelettel, Dublin, 1903, szeptember 8. J. ELLARD GORE.  
-- Úgy tűnik, JEG hibát vét akkor, amikor egy arab igére és mesére alapoz. Hiszen az igékből nem szabad kiindulni. Az arab (vagy bármely) nyelv és szavai nem hitelesek, azért, mert a szent magyar nyelv lerontásai és az adott szavakhoz saját értelmet párosítanak. Ettől még kell őket vizsgálni.
+- Úgy tűnik, JEG hibát vét akkor, amikor egy sémi igére és mesére alapoz. Hiszen az igékből nem szabad kiindulni. Látjuk, hogy a [[H/Héber\|héber]] nevet is egyszerűen egy átkelni igére vezetik vissza. Az arab (vagy bármely) nyelv és szavai nem hitelesek, azért, mert a szent magyar nyelv lerontásai és az adott szavakhoz saját értelmet párosítanak. Ettől még kell őket vizsgálni.
 
 Ugye itt a helyzet az, hogy sok helyen azt írtam mostanában, hogy a Szíriusz az [[O/Orion övcsillagai\|Orion övcsillagai]]hoz és a Tejúthoz (ténylegesen és mítoszok szintjén) annyira szervesen kapcsolódik, hogy nem szabadna változtassa a helyét (bármennyire is szerettem volna korábban). Igen ám, de ez lehet, hogy csak elmúlt 1-2 ezer évben látszik így, innen, a Halakból nézve. Hol az igazság?  
 
@@ -119,6 +119,10 @@ Közben [[H/Héber\|héber]], [[E/Éber\|éber]] és [[I/Ibér\|ibér]] címnél
 
 [[A/Ábrahám\|Ábrahám]] eredeti Ábrám nevéről megállapíttatott, hogy akár Apa- vagy Eb-Uram olvasata lehet.  
 A magyar [[G/Gábor\|Gábor]] név egy az egyben megfelel a Habur alakjának és fogalmának, mint kiderül.  
+
+### Átkel akkor a Szíriusz a Tejúton vagy sem?
+
+Csillagászati szempontból, nem tudnám megmondani, de nyelvészeti és csillagmitológiai szempontból azt igen, hogy az átkelés [[P/Pészah\|Pészah]] és [[H/Héber\|héber]] címnél is a Napra vonatkozott. Ergo az arab beszámolók már konflációt tartalmaznak és a Tejút másik oldalára történő átkelés, áthaladás ágense a Szíriusz és nem a Nap, mely Földről nézett útján áthalad a Tejút sávján.  
 
 ## Lábjegyzetek
 
