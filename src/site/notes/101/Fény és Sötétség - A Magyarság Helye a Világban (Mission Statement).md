@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["dg_uploaded","gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-10-30T08:45"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["dg_uploaded","gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-11-02T12:39"}
 ---
 
 
@@ -52,6 +52,9 @@ Go back home*"
 Azaz: itt nincs semmi; ha egy link vezetett ide, ez a bejegyzés még nem lett nyilvánosan létrehozva és a linkre kattintva ezen állományhoz kerülünk vissza. Lehet a böngésző bal felső sarkában a visszafelé nyíllal is hátrálni egyet ilyenkor.  
 
 A bal oldalon található fájlok listájában az A-Z mappák valamelyike alapból kinyitva mutatkozik. Erre vagy lesz valamiféle gyógyír, vagy a rókaszájakra kattintva bezárhatók (és újra kinyithatók).  
+
+Felül a borítékra kattintva lehet bármelyik oldalról email-t küldeni: az adott cikk alapértelmezetten témának lesz megadva. Legalul Disqus szolgáltatással lehet mindenki számára látható kommenteket küldeni.   
+A boríték mellett a három ikon értelemszerűen a téma színváltoztatását szolgálja: világos – sötét – automatikus. Legalábbis ez lett volna a cél; jelenleg leginkább átvált egyikről a másikra, mindegy hova kattint az ember, de ez is megfelel, sőt.  
 
 Amennyiben 1400 pixelszélességnél kisebb képernyőn tekinti meg az oldalt, akkor a mobil alkalmazásnak megfelelő nézetet kapja. Ilyenkor asztali gépen vagy laptopon az oldal jobb áttekinthetősége és funkcióinak könnyű elérése végett érdemes kipróbálni 90%-os nagyításban, mely állapothoz a CNTRL és mínusz gomb lenyomásaival juthat.  
 A jövőben erre is megoldás születik majd, így ezzel majd nem kell foglalkozni.  
