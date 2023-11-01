@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Rövidítések, referenciák/","title":"Rövidítések, referenciák","created":"2023-10-04T07:50","updated":"2023-10-23T04:01"}
+{"dg-publish":true,"permalink":"/101/Rövidítések, referenciák/","title":"Rövidítések, referenciák","created":"2023-10-04T07:50","updated":"2023-11-01T03:31"}
 ---
 
 
@@ -44,7 +44,7 @@ EvD - Erich von Däniken
 FDD - Frank Dénes Dániel  
 FE - Fáy Elek  
 FK - Falvay Károly  
-FKF - Feuerstein, Kak és Frawley In Search of the Cradle of Civilization  
+FKF - Feuerstein, Kak és Frawley (In Search of the Cradle of Civilization)  
 FMJ - Fehér M. Jenő  
 FZT - Forrai Zoltán Tamás  
 GA - Grandpierre Atilla  
@@ -97,6 +97,7 @@ TKS - Tímár Sándor AKA Timaru-Kast Sándor
 TZs - Tomory Zsuzsa  
 VCs - Varga Csaba  
 VG - Varga Géza  
+VHM - Victor H. Mair
 VJ - Végvári József  
 VJK - Vertráb József Kadocsa  
 VK - Virág Kálmán  
