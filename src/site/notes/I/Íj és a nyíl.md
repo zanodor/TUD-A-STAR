@@ -3,8 +3,6 @@
 ---
 
 
-
-
 # Íj és a nyíl
 
 #### Grandpierre Atilla A magyar nemzettudat történelmi alapjai...
@@ -18,7 +16,7 @@ Azóta [[I/I\|i]] címnél, külön alcímnél arra is kitértünk, hogy a szóv
 Lásd még [[N/Nyíl\|nyíl]] címszót, nemcsak etimológiai vizsgálatért. Asztrál-szexuális vonatkozást és phallosszal kapcsolatos adatokat lásd [[I/Íj csillagkép\|Íj csillagkép]] címnél. Bognár Ferenc Nimrudi hagyományunk Boldogasszony-tisztelete, és Fekete Madonnái című cikkének idevonatkozó adatait [[I/Io\|Io]] istennőről, íj ajzásáról, stb. lásd [[J/Jó\|Jó]] címnél.  
 
 Az íj és a nyíl rendszere mögött egy olyan ősi magyar csillagászati-filozófiai rendszer húzódik, mely elképesztő távlatokat nyit meg.  
-A nyíl a nőiség (a nőnek kell nyitni, nyílni; már eleve a nyíl a NI, NÉ = nő alapszóból képzett) és a nyílvessző a hímség. Erre alapul a Nyilas-Nyílás évköri rendszer. A magyar alapszavak megjelennek más nyelvekben; magyar [[N/Nyíl\|nyíl]] > níl > latin `nihil`, `nihilum` = semmi (a valami hiánya) (lásd [[N/Nihil\|nihil]]).  
+A nyíl a nőiség (a nőnek kell nyitni, nyílni; már eleve a nyíl a NI, NÉ = nő alapszóból képzett) és a nyílvessző a hímség. Erre alapul a Nyilas-Nyílás évköri rendszer. A magyar alapszavak megjelennek más nyelvekben; magyar [[N/Nyíl\|nyíl]] > \*níl > latin `nihil`, `nihilum` = semmi (a valami hiánya) (lásd [[N/Nihil\|nihil]]).  
 
 Itt alant a szexuális tartalommal fogjuk kezdeni, de annyival vezessük elő, hogy a szex a nő részéről a [[F/Fény és anyag\|fény és anyag]] címnél írottak alapján is a [[V/Vágy\|vágy]]ást, befogadást jelenti. A nőnek, nőiségnek megfelelő sötét, a fekete az, ami a fény hiányában vágyja (lásd erről még [[H/Hunger\|hunger]]) azt: hogy megtermékenyítse, vagy, életkör szempontból, hogy a Nap újra az emelkedő [[F/Félév\|félév]]be lépjen. A [[J/Jón\|jón]] címnél álló, széthúzott szavakkal logikailag jól megfér a [[K/Kíván\|kíván]] címnél is említett arab `hawan` = szerelem, vágy szó, melynek [[L/Love\|love]] címnél is taglalt Szíriuszos-[[I/Íj csillagkép\|Íj csillagkép]]es értelmezését ugyan nem találjuk, de az ég ([[H/Heaven\|heaven]]) ívével látszik kapcsolatba hozható lenni.  
 Kijelenthető, hogy ahol ív (és íj) van, illetve ahol görbe, homorú, hajlást kifejező szavak előkerülnek, ott az íj értelem is meg fog jelenni valahol és ott a nőiségi hiányt (és az ennek megfelelő sötét, fekete, stb. értelmeket) találjuk, más nyelvekben nyelvi szinten is. A hiány pedig nem más, mint [[E/Éh\|éh]], [[V/Vágy\|vágy]] és az nem más, mint (testi) szerelem/szexualitás/nemzés, melyben természetesen már az üldöző/[[V/Vadász\|vadász]] hím is megjelenik, ezzel a nyílvesszős/hímtagos ideák mentén a [[K/Kutya\|kutya]] (és hímtagja), továbbá vezetés/[[V/Vezér\|vezér]] fogalmai, bot, öv és hasonló értelmek; így jönnek létre a magyar utódnyelvek szavai.  
@@ -59,11 +57,11 @@ A szavak egyébként akkád nyelvűek. Az alábbi anyag a Stephanie Lynn Budin W
 A Gal-La igen hasonló a [[G/Gula\|Gula]] névhez, így ott is szerepelt. Amiket Budin itt még ír, emlékeztetnek arra az Acharia S féle szövegre[^2], ami több helyen is szerepelt.  
 
 ![assets/Ijesnyil_image3.png](/img/user/I/assets/Ijesnyil_image3.png)  
-Ez a "pubic triangle" (szeméremháromszög) megtalálható Labat 554-es ékjelében is, amely (G)eme olvasatú (lásd [[G/Geme\|geme]] és [[E/Eme\|eme]]). Jól látható a képecskén miről van szó. Valójában alkímiai értelemben sincs meglepetés, hiszen a csúcsával lefelé álló háromszög nőiség (a víz és föld elementálok jele).  
+Ez a szeméremháromszög ("pubic triangle") megtalálható Labat 554-es ékjelében is, amely (G)eme olvasatú (lásd [[G/Geme\|geme]] és [[E/Eme\|eme]]). Jól látható a képecskén miről van szó. Valójában alkímiai értelemben sincs meglepetés, hiszen a csúcsával lefelé álló háromszög nőiség (a víz és föld elementálok jele).  
 Lásd még [[P/Pina#Női nemi rész – szentség/templom allegória\|női nemi rész – szentség/templom allegória]] cím/alcímet.  
 
-- Egy kutya szuka nemi részét jelentő 8. századra datált óholland `quintuc` szó előjött [[C/Cunt\|cunt]] címnél is. Nem hinném, hogy a szuka vaginájának nevét külön számon tartották volna. Inkább lehet arról szó, hogy ott is az emberi és kutya vagina hasonlítgatása került szóba. A [[S/Szuka\|szuka]], ahogy VN is írja, a ringyó szimbóluma, valóban a hetérák állatává tették meg. Homérosznál Helené saját magát szukának nevezi, Írisz pedig Athénét, Héra Artemiszt, a hazatérő Odüsszeusz ledér, hűtlen szolgálóit.  <br/>
-Egyébiránt mivel a sumér Boldogasszony [[B/Bau\|Bau]] kutyás ábrázolásokat kapott, ismét oda jutunk vissza, hogy a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] közül egyik a kutya volt. Így nyilván annak asztrális vulvájáról lehet szó.  <br/>
+- Egy kutya szuka nemi részét jelentő 8. századra datált óholland `quintuc` szó előjött [[C/Cunt\|cunt]] címnél is. Nem hinném, hogy a szuka vaginájának nevét külön számon tartották volna. Inkább lehet arról szó, hogy ott is az emberi és kutya vagina hasonlítgatása került szóba. A [[S/Szuka\|szuka]], ahogy VN is írja, a ringyó szimbóluma, valóban a hetérák állatává tették meg. Homérosznál Helené saját magát szukának nevezi, Írisz pedig Athénét, Héra Artemiszt, a hazatérő Odüsszeusz ledér, hűtlen szolgálóit. <br/>
+Egyébiránt mivel a sumér Boldogasszony [[B/Bau\|Bau]] kutyás ábrázolásokat kapott, ismét oda jutunk vissza, hogy a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] közül egyik a kutya volt. Így nyilván annak asztrális vulvájáról lehet szó. <br/>
 A [[B/Béna\|béna]] címnél előjövő cseh `běhna` = kurva szó a cseh `fena` = szuka párja. Itt ismét a kutya-szuka szexualitását vehetjük észre, de lehet egyszerűen [[P/Pina\|pina]] szavunkra is gondolni, hogy a fenti Zsolnay Ilona féle gondolatmenethez kapcsoljunk.  
 
 A nyílvesszős szexualitás előjön Thomas Inman Ancient Pagan and Modern Christian Symbolism című könyvében is. [[H/Hímség és nőiség\|Hímség és nőiség]] címnél szereplő passzusában viszont ő a nyílvessző hímséginek vétele mellett a célt/[[T/Tárgy\|tárgy]]at veszi nőiséginek, nem az íjat (a görbeség nőiség).  
@@ -98,7 +96,7 @@ Fáy Elek könyvének 236. oldalán (lásd csatolt képi anyagot [[O/Ouroboros\|
 
 A fentebb említett One Bow or Another – A Study of the Bow in Genesis 9:8-17 című Ellen van Wolde által írt dolgozat témája azért is fontos, mert felveti, hogy – éppen a Genezisben – az Íj csillagképnek jelentősége van. A Biblia fordítói, értelmezői viszont helytelenül [[S/Szivárvány\|szivárvánny]]al fordították a bibliai-héber `qĕšĕt` szót. Ilyen és efféle félreértelmezésekből ki tudja hány lehet.  
 
-A mellékelt, [[P/Pork\|pork]] címnél is meglévő, Michel-Gerald Boutet The St. Vigeans Drosten Pictish Stone című dolgozatában szereplő képen véleményem szerint szintén nemzésről van szó (nyilván tudták, hogy hamarosan korszakváltás következik).
+A mellékelt, [[P/Pork\|pork]] címnél is meglévő, Michel-Gerald Boutet The St. Vigeans Drosten Pictish Stone című dolgozatában szereplő képen véleményem szerint szintén nemzésről van szó (nyilván tudták, hogy hamarosan korszakváltás következik).  
 ![assets/Ijesnyil_image4.png](/img/user/I/assets/Ijesnyil_image4.png)  
 A mellékelt pikt képen ha nyilával a Nyilas nem ölni, hanem nemzeni akarja a vadkant, akkor benne [[E/Emse\|emse]]/[[E/Emese\|Emesé]]t kell látni, a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjá]]t, másrészről konkrétan méhét, melyről a [[G/Galactic centre\|Galactic centre]] és más címnél ([[K/Koca\|koca]], [[H/Ház\|ház]]) bőven volt szó.  
 Ezt megerősítendő, a latin `porcus` = disznó jelentése mellett éppúgy jelentette a női szeméremrészt, mint a [[K/Kurva\|kurva]] címnél taglalt ógörög `χοῖρος` (khoîros) is állt süldő/malac jelentés mellett punci (szűzlány pinája) jelentéssel.
@@ -127,26 +125,34 @@ Arról a [[D/Daughter\|daughter]], [[D/Dame\|dame]], [[D/Danu\|Danu]] és [[T/Ta
 ...című tanulmányának (bevezetőt/előzményeit lásd [[E/Észak és dél\|észak és dél]]) csodás sorai:  
 > A sámándobokon általában rajzok találhatók, a felület alsó felében sok esetben a kozmikus íj ábrázolata látható. Az íj húrja a világ vízszintes tengelyének, azaz a föld színének felel meg. Ez a középső világ síkja, a mi világunk. A függőleges tengely a nyílvessző, egyben világfa-szimbólum. A nyíl mellett egyik oldalon a Nap, másik oldalon a Hold látható. A rajz alsó felét tehát az íj foglalja el. Tudnunk kell, hogy e kultúra szimbólumrendszerében az íj íve az éjszakát, az alsó világot, a telet (talán mert északon nemcsak hideg és sötét, hanem tél is van) és a túlvilági életet jelenti. Két, mai fülünknek is csaknem azonos hangzású szó kerül ezzel egymás mellé: az [[E/Éj\|éj]] és az [[I/Íj\|íj]].  
 > A sámándobokon látható ábrák tanúsága szerint e két szó jelentése azonos fogalmat fed. Magyarul: a szimbólumrendszerben éj jelentésű az íj. És az íj: éj jelentésű. Miért? Az íj az egész világon elterjedt kozmikus [[A/Anyaméh\|anyaméh]] szimbólum. Ha az afrikai bennszülött gyermekáldásra vágyik, íjat aggat a fára, ázsiai rokonaink íjat akasztanak az ajtófélfára. "Hát te ki íja fia vagy?" – kérdezik a magyar népmesékben. A nyíl férfiúi szimbólum. Hogy ez így lehetett a mi őseinknél is, azt pontosan kifejezi ajz szavunk, amely jelentheti az íj felajzását, felhangolását, de éppúgy vonatkozhat a nő szexuális felizgatására is.  
-> A nyíl – mint már említettük – világfa-szimbólum. Lehet-e valami köze ahhoz a nyíl tőhöz, amelyből a nyílik, illetve a nyílás \[[[Nyilas csillagkép\|[Nyilas csillagkép]]nek is rébusza\] szavak származnak? A nyíl szó bevilágítja a világfa mitikus etimológiáját. Volt már szó róla, hogy a jurta középső oszlopa világfa-szimbólum, s hogy a mellette lévő lyuk, a füstnyílás teszi lehetővé a világok közötti utazást a sámán számára. Az obi-ugor Numi Tórem, a legfőbb isten is egy lyukon tekintget lefelé a felső világból, ezen át nézi meg időnként, hogy rendben mennek-e a dolgok nálunk. A nyíl mellett tehát nyílás van, talán épp a nyíl ütötte. De hogy kapcsolódik a nyíl ige ebbe a körbe? Hát úgy, hogy a világfa nyílik, virágzik. Mit virágzik a fa? Természetesen fényt, erre utal a mellette ábrázolt nap és hold. \[...Folytatást lásd világ és világ témában [[V/Virág\|virág]]...\]  
-> ![assets/Ijesnyil_image5.png](/img/user/I/assets/Ijesnyil_image5.png)  
+> A nyíl – mint már említettük – világfa-szimbólum. Lehet-e valami köze ahhoz a nyíl tőhöz, amelyből a nyílik, illetve a nyílás \[[[Nyilas csillagkép\|[Nyilas csillagkép]]nek is rébusza\] szavak származnak? A nyíl szó bevilágítja a világfa mitikus etimológiáját. Volt már szó róla, hogy a jurta középső oszlopa világfa-szimbólum, s hogy a mellette lévő lyuk, a füstnyílás teszi lehetővé a világok közötti utazást a sámán számára. Az obi-ugor Numi Tórem, a legfőbb isten is egy lyukon tekintget lefelé a felső világból, ezen át nézi meg időnként, hogy rendben mennek-e a dolgok nálunk. A nyíl mellett tehát nyílás van, talán épp a nyíl ütötte. De hogy kapcsolódik a nyíl ige ebbe a körbe? Hát úgy, hogy a világfa nyílik, virágzik. Mit virágzik a fa? Természetesen fényt, erre utal a mellette ábrázolt nap és hold.  
+- Folytatást lásd világ és világ témában [[V/Virág\|virág]].  
+
 > A dobra rajzolt világmodell kiegészíthető még egy érdekes nyelvi megfeleléssel; az íj két vége a mitikus tudatban a világ keleti és nyugati végét jelenti. E két végpontot összekötő [[H/HÚR\|húr]] ősi neve: [[I/Ideg\|ideg]].  
 - Folytatást lásd ott, bár sok érdekes nem hangzik el.  
 
 [[M/Mestergerenda\|Mestergerenda]] és [[I/Ideg\|ideg]] címnél írottak szerint érthető meg (a régi magyarok ugyanis tudvalevőleg az íjat kifeszítő [[H/HÚR\|húr]]t nevezték volt idegnek, aminthogy ezt mai irodalmi nyelvünk is nevezi még így), miről is van szó.  
 MA nagy szolgálatot tett rajzával is. Ugyanis Id-Eg annyit tesz, mint Isten Ege, és mivel íjról is szó van és a fentiek alapján tudjuk, hogy az íj = ív = év = ég és a nyíl = Níl(us) = Tejút, valamint hogy a húr nemcsak bél jelentésű de a [[T/Teknős\|teknős]] és [[L/Lapos Föld\|lapos Föld]] címnél is említett [[H/Horizon\|horizon]] szónak kiadója is, hogy itt [[S/Szakrális geometria\|szakrális geometria]] újabb és egyben legalapvetőbb példájával állunk szemben.  
 (Mellékelve lásd még a látható ég félgömbjét, a hupolagot, melyet PJI [[C/Csuda\|csudá]]nak hív.)  
-![assets/Ijesnyil_image6.png](/img/user/I/assets/Ijesnyil_image6.png)  
-![assets/Ijesnyil_image7.png](/img/user/I/assets/Ijesnyil_image7.png)  
-Szintén ide tehető a tűzfúró-szerszám [[T/Terebra\|terebra]] címnél is szereplő képe, mely nagyon hasonló az íj és a nyíl együtteséhez. A képekhez tartozó MA-féle magyarázatot lásd a lábjegyzetben[^7].  
-A saját diagramon pedig összefoglalva lásd, miként képzelhették el az eget.  
+![assets/Ijesnyil_image5.png](/img/user/I/assets/Ijesnyil_image5.png)  
 
-![assets/Ijesnyil_image8.jpeg](/img/user/I/assets/Ijesnyil_image8.jpeg)  
+Szintén ide tehető a tűzfúró-szerszám [[T/Terebra\|terebra]] címnél is szereplő képe, mely nagyon hasonló az íj és a nyíl együtteséhez.  
+![assets/Ijesnyil_image6.png](/img/user/I/assets/Ijesnyil_image6.png)  
+A képekhez tartozó MA-féle magyarázatot lásd a lábjegyzetben[^7].  
+A saját diagramon pedig összefoglalva lásd, miként képzelhették el az eget.  
+![assets/Ijesnyil_image7.png](/img/user/I/assets/Ijesnyil_image7.png)  
+
+Borbola János A keresztút című az Ősi Gyökér 2015/3-4. sz. megjelent cikkében mutatja be Hannig R.: Großes Handwörterbuch Ägyptisch-Deutsch című könyvéből adatát és a fentieknek megfelelő adatokat is szolgáltat. Amit ír, érdekes: az RMP43-as példájának 18. jele is a félgömb bemutatására a hímvesszőt, mint a gömb sugarát állítja példaképpen. (Az RMP a Rhind Matematikai Papirusz rövidítése.)  
 ![assets/Ijesnyil_image9.jpeg](/img/user/I/assets/Ijesnyil_image9.jpeg)  
-Borbola János A keresztút című az Ősi Gyökér 2015/3-4. sz. megjelent cikkében mutatja be Hannig R.: Großes Handwörterbuch Ägyptisch-Deutsch című könyvéből adatát és a fentieknek megfelelő adatokat is szolgáltat (amiket még nem értek egyelőre). Amit ír, érdekes: az RMP43-as példájának 18. jele is a félgömb bemutatására a hímvesszőt, mint a gömb sugarát állítja példaképpen. (Az RMP a Rhind Matematikai Papirusz rövidítése.)  
+![assets/Ijesnyil_image8.jpeg](/img/user/I/assets/Ijesnyil_image8.jpeg)  
 Az elliptoid/tojás alakú gömb az éggömb, középen a nyíl = Nílus = Tejút. Ezt ő persze nem írja.  
 
 [[D/Dob\|Dob]] címnél álló adatok is ide valóak:  
-A sámán naphangszeréről Varga Zsigmond Az ősmagyar mitológia című könyvének 166. oldalán[^8], Jankovics Marcell pedig A Nap könyve c. könyvének 159. oldalán ír (lásd ott bővebben):  
+A sámán naphangszeréről Varga Zsigmond Az ősmagyar mitológia című könyvének 166. oldalán[^8], míg...
+
+#### Jankovics Marcell A Nap könyve...
+
+...című könyvének 159. oldalán ír (lásd bővebben ott):  
 > A sámán hangszere a dob, régebben azonban az íj húrját pengetve kísérte magát. Itt-ott Szibériában a sámándobot "eredeti nevén" ma is "íj"-nak hívják, és az altáji dobok vázának felajzott és megfeszített ("útra kész") íjra utal a formája (119. rajz).  
 > ![assets/Ijesnyil_image10.png](/img/user/I/assets/Ijesnyil_image10.png)  
 > \[...\]  
@@ -154,13 +160,12 @@ A sámán naphangszeréről Varga Zsigmond Az ősmagyar mitológia című könyv
 > Más összefüggésben a dob az [[A/Anyaméh\|anyaméh]]et jelképezi, a dobverő és a furulya a falloszt. Együtt a kettő a termékenység és a teljesség szimbóluma.  
 - Hasonló esetet [[M/Mozsár\|mozsár]] címnél láttunk: mozsár az anyaméh és a törő a fallosz.
 
-![assets/Ijesnyil_image11.jpeg](/img/user/I/assets/Ijesnyil_image11.jpeg)  
-
 Közben előkerült egy sagitta szóhoz hasonló egyiptomi [[S/Szohit\|Szohit]] istennő-név is, melyet nyilván a [[S/Sothis\|Sothis]], [[T/Tistrya\|Tishtrya]], íj és a nyíl, valamint [[S/Szíriusz és a nyíl\|Szíriusz és a nyíl]] címnél írottak alapján kell vizsgálni.  
 
-A [[M/Mária\|Mária]] címnél taglalt tamil-hindu Māri eső/termékenység/anyaistennőt (Tejútistennőt) ábrázoló kegytárgyról készült képen én megint nem látok mást, mint íjat és nyilat. Lásd a csatolt képet ide is betéve.  
+A [[M/Mária\|Mária]] címnél taglalt tamil-hindu **Māri** eső/termékenység/anyaistennőt (Tejútistennőt) ábrázoló kegytárgyról készült képen én megint nem látok mást, mint íjat és nyilat. Lásd a csatolt képet ide is betéve.  
+![assets/Ijesnyil_image11.jpeg](/img/user/I/assets/Ijesnyil_image11.jpeg)  
 
-Az utolsó két képhez egészen hasonló a Molnár V. József Világ-Virág című könyvének 30. oldaláról való, [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]] és [[T/Tulipán\|tulipán]] címnél is szereplő/elemzett, 35. ábra néven futó képen taglalt Ikreknek megfelelő tulipános jelével szemközti, Nyilas-Íjas szimbolikának megfelő, általam itt hagymásnak jelölt képjel.  
+Az utolsó két képhez egészen hasonló a Molnár V. József Világ-Virág című könyvének 30. oldaláról való, [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]] és [[T/Tulipán\|tulipán]] címnél is szereplő/elemzett, 35. ábra néven futó képen taglalt Ikreknek megfelelő tulipános jelével szemközti, Nyilas-Íjas szimbolikának megfelelő, általam itt hagymásnak jelölt képjel.  
 ![assets/Ijesnyil_image12.jpeg](/img/user/I/assets/Ijesnyil_image12.jpeg)  
 (Arról, hogy mennyire helyes Atyának hívni a legfelső jelet, [[N/Négy#Négy és az ötödik irány\|négy és az ötödik irány]] cím/alcímnél is volt szó.)  
 
@@ -242,7 +247,8 @@ Morris Silver Talking Ancient Mythology című könyvének adata szerint a sumé
 > In continuing our exploration of the 'bow' we find Sumerian texts of the later third millennium in which commercial contractors finalize their agreement by passing the `gis-bana` 'bow' (Oppenheim 1948: 5556). Further, during the same era the 'rainbow' was identified with a feature of cult architecture, as is demonstrated by King Gudea's Cylinder: 'Its (referring to the new temple for the god Ningursu) curved gate posts standing at the gate were like a rainbow standing in the sky' (Jacobsen 1987a: 419). Similarly, in a hymn of the early second millennium from Nippur in Sumer the 'vault (`nir-gim-ma`) of the temple (the Ekur) is like a rainbow (`tir-an-na`)' (Sjöberg 1973: 29). Along the same line, seal-impressions from the Old Assyrian trading station at Kanesh (Anatolia) depict the winged gate, representing the rainbow, as an 'arched guilloche' or 'as an arch from which rain falls'.  
 > —  
 > A Biblia utalást ad a jelzőre, amely a körforgó kézműveseink által látogatott piactereket azonosítja. Az 1Móz 4.15-ben az Úr `'ōt` 'jelet, jelet, token'l' 'Káinnak' (nem 'rajta'!) állított (T.C. Mitchell 1982: 157). A Káint védeni hivatott 'ōt-t nem azonosították tovább. Az 1Móz 9.12-13-ban azonban az Isten és Noé közötti szövetség 'ōt-ját 'a felhőkben lévő íjjal' azonosítják – vagyis az íj az özönvíz utáni megbékélést hivatott jelképezni az ember és Isten között (lásd Sarna 1966: 68-69). Nem ésszerűtlen az a feltételezés, hogy az "égben lévő íj", mint a megbékélés és így a védelem szimbóluma, a "Káin jelképe" volt. Itt meg kell jegyezni, hogy a héber `qeshet` 'íj' szó jelentése 'íjász íja, szivárvány', és feltehetően 'égi boltozat', sőt, bármi, ami ív alakú. Az "íj" jelentéseinek ilyen széles skálája számos ősi nyelvben megtalálható. Így az óegyiptomi `pedjet` "íjat" és "égboltozatot" jelent (Mercer 1952: II, 183, 509); a sumér `ban-an-na` (és a korábbi `tir-an-na`) "íjat" és "szivárványt" jelent (lásd Hallo 1989: 69); a latin `arcus` "íjász íja, szivárvány, boltozat, boltozat, íves vonal" (OLD s.v.); a görög `toxon` pedig 'íjász íja, szivárvány, ív' (LSJ s.vv. `toxon`, `toxoomai`, `tonos`). Egy akkád szöveg a `gamlu` 'bot, ívelt kasza' ívét szintén a szivárvány ívéhez hasonlítja.  
-> Folytatva az "íj" feltárását, a későbbi harmadik évezredből származó sumér szövegeket találunk, amelyekben a kereskedelmi szerződő felek a `gis-bana` "íj" átadásával zárják le szerződésüket (Oppenheim 1948: 5556). Továbbá ugyanebben a korszakban a "szivárványt" a kultikus építészet egyik jellemzőjével azonosították, amint azt Gudea király hengerében olvashatjuk: "A (Ningursu isten új templomára utaló) ívelt kapuoszlopai, amelyek a kapunál álltak, olyanok voltak, mint az égen álló szivárvány" (Jacobsen 1987a: 419). Hasonlóképpen, egy a második évezred elején a sumér Nippurból származó himnuszban a "templom (az Ekur) boltozata (`nir-gim-ma`) olyan, mint egy szivárvány (`tir-an-na`)" (Sjöberg 1973: 29). Ugyanezen a vonalon a Kaneshben (Anatólia) található óasszíriai kereskedelmi állomásról származó pecsétlenyomatok a szivárványt ábrázoló szárnyas kaput "íves gilosminta"-ként vagy "olyan ívként, amelyből eső esik" ábrázolják.
+> Folytatva az "íj" feltárását, a későbbi harmadik évezredből származó sumér szövegeket találunk, amelyekben a kereskedelmi szerződő felek a `gis-bana` "íj" átadásával zárják le szerződésüket (Oppenheim 1948: 5556). Továbbá ugyanebben a korszakban a "szivárványt" a kultikus építészet egyik jellemzőjével azonosították, amint azt Gudea király hengerében olvashatjuk: "A (Ningursu isten új templomára utaló) ívelt kapuoszlopai, amelyek a kapunál álltak, olyanok voltak, mint az égen álló szivárvány" (Jacobsen 1987a: 419). Hasonlóképpen, egy a második évezred elején a sumér Nippurból származó himnuszban a "templom (az Ekur) boltozata (`nir-gim-ma`) olyan, mint egy szivárvány (`tir-an-na`)" (Sjöberg 1973: 29). Ugyanezen a vonalon a Kaneshben (Anatólia) található óasszíriai kereskedelmi állomásról származó pecsétlenyomatok a szivárványt ábrázoló szárnyas kaput "íves gilosminta"-ként vagy "olyan ívként, amelyből eső esik" ábrázolják.  { #c0w08y}
+
 
 RHA könyvében Tejútnál (minthogy az Asgard Bridge kifejezést a Tejútra és a szivárványra (ismét összefüggés a kettő között) is használták) előjön valamelyest bizonyos Minsheu tollából, többnyelvű szótárából az a régi isme, hogy az íjat nem (mindig) öldöklésre használták (nem fogalmazza meg a legjobban, de értjük, mire gondol):  
 > And here I may be pardoned for repeating a quaintly beautiful passage from Minsheu's definition of the Rainbow, although not connected with the Galaxy, nor strictly astronomical:  
@@ -449,7 +455,7 @@ Az Ősi Gyökér 2013/3. számában Gyárfás Ágnes által Béka királykisassz
 
 ### Hátrafelé lövő lovon ülő hunok
 
-![assets/Ijesnyil_image16.jpeg](/img/user/I/assets/Ijesnyil_image16.jpeg)  
+![assets/Ijesnyil_image16.jpeg|475](/img/user/I/assets/Ijesnyil_image16.jpeg)  
 ![assets/Ijesnyil_image17.jpeg](/img/user/I/assets/Ijesnyil_image17.jpeg)  
 Ismert a hun íjászok azon módszere, mely szerint menet közben, a lovon hátrafelé, amikor a ló négy lába a magasban volt, kellett lőniük (mindezt a megfelelő szögben és erővel, gondoljunk csak bele!). Erre vonatkozóan valahol valaki képábrázolással is hozott bizonyítékot, de meglepő, hogy – L. Kecskés András Etruszkok – Szabinok. Etruszk – magyarok? című az Ősi Gyökér 2011/4. sz. megjelent cikkében talált képi adat szerint – az etruszkoknál is találunk ilyen ábrázolást.  
 Angolul ezt így hívják: *Parthian shot*.  
