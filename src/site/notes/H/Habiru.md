@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-04T02:14","updated":"2023-11-01T09:18"}
+{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-04T02:14","updated":"2023-11-02T12:40"}
 ---
 
 
