@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["dg_uploaded"],"created":"2023-10-30T04:01","updated":"2023-10-30T04:01"}
+{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2023-11-02T05:15"}
 ---
 
 
@@ -98,7 +98,9 @@ Esetleg az asb szó egy újabb magyarázata lehetne?
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Irantxe, also known as Münkü and Menku(!), is an indigenous American language that is spoken in Mato Grosso, Brazil, by about 200 people. It is generally left unclassified due to lack of data.  
+Irantxe, also known as Münkü and Menku, is an indigenous American language that is spoken in Mato Grosso, Brazil, by about 200 people. It is generally left unclassified due to lack of data.  
+—  
+Az irantxe, más néven münkü és menku(!), egy őshonos amerikai nyelv, amelyet a brazíliai Mato Grossóban körülbelül 200-an beszélnek. Adathiány miatt általában besorolatlanul hagyják.  
 
 [^2]: Lábjegyzet:  
-Kenneth Grant The Magical Revival című A. Crowley anyagát feldolgozó könyvéből való. Wordsense-nél penis alatt nem jött elő. Steingass szótárában penisre keresve nem jön elő (vagy 15 szava van az arabnak erre; az egyik [[A/Atar\|atar]] = tűz szóval egyező).  
+Kenneth Grant The Magical Revival című A. Crowley anyagát feldolgozó könyvéből való. Wordsense-nél penis alatt nem jött elő. Steingass szótárában penis-re keresve nem jön elő (vagy 15 szava van az arabnak erre; az egyik [[A/Atar\|atar]] = tűz szóval egyező).  
