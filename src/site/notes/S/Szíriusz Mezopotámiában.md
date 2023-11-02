@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz Mezopotámiában/","title":"Szíriusz Mezopotámiában","tags":["dg_uploaded"],"created":"2023-10-30T09:06","updated":"2023-10-30T09:06"}
+{"dg-publish":true,"permalink":"/S/Szíriusz Mezopotámiában/","title":"Szíriusz Mezopotámiában","tags":["dg_uploaded"],"created":"2023-10-30T09:06","updated":"2023-11-02T04:40"}
 ---
 
 
