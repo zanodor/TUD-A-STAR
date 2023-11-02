@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2023-10-27T02:30"}
+{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2023-11-02T06:41"}
 ---
 
 
@@ -13,9 +13,10 @@
 > A Bar ma is gyakori zsidó névrész, megtartva eredeti és ősi magyar jelentését. A Bar is mérhetetlenül erős magyar-héber kapcsolatoknak a bizonyítéka.  
 
 Nos, valójában itt inkább hun, azon belül is avar-hun hatást kell látni.  
-[[B/Barabás\|Barabás]] címnél vetettem fel, hogy meglepne, ha a Quorán adott válaszomra valaki kommentként feltenné a kérdést: ha a héber `bar` = fiú szó avar-hun eredetű, akkor lehetséges-e a hunként jelzett [[A/Avar\|avar]]ok ilyen nevét a ma már sémi nyelveket beszélő arab és héber nép- és nyelvnevekkel azonosítani. Igen: avar szótag-megfordítva lehet [[A/Arab\|arab]] és a héber (alant említett/taglalt) régies [[E/Éber\|éber]] formája is analóg az avar névvel. - Ugyanakkor legutóbb [[M/Magyar\|magyar]], valamint [[A/Arab\|arab]] és [[H/Hunor és Magor\|Hunor és Magor]] címnél is írtuk (annak kapcsán, hogy az arab nép és nyelv neve az egyiptomi magyarok önelnevezése nyomán terjedt el, de már mint sémi nép és nyelv[^1]), hogy a héber is lehet avar, arab is lehet avar de magyar is. Az, hogy a magyar és hun/szkíta/avar nevek vagy jellegzetességeik egyazon területen is előfordulnak, talán azzal magyarázható, hogy az országok neve felváltva lehet Magyar és Hun, olyan megfontolás alapján, ahogy Egyiptom is Magaru és Hun felekre volt osztva: az égi területek vannak a földre leképezve.  
+[[B/Barabás\|Barabás]] címnél vetettem fel, hogy meglepne, ha a Quorán adott válaszomra valaki kommentként feltenné a kérdést: ha a héber `bar` = fiú szó avar-hun eredetű, akkor lehetséges-e a hunként jelzett [[A/Avar\|avar]]ok ilyen nevét a ma már sémi nyelveket beszélő arab és héber nép- és nyelvnevekkel azonosítani. Igen: avar szótag-megfordítva lehet [[A/Arab\|arab]] és a héber (alant említett/taglalt) régies [[E/Éber\|éber]] formája is analóg az avar névvel.  
+- Ugyanakkor legutóbb [[M/Magyar\|magyar]], valamint [[A/Arab\|arab]] és [[H/Hunor és Magor\|Hunor és Magor]] címnél is írtuk (annak kapcsán, hogy az arab nép és nyelv neve az egyiptomi magyarok önelnevezése nyomán terjedt el, de már mint sémi nép és nyelv[^1]), hogy a héber is lehet avar, arab is lehet avar de magyar is. Az, hogy a magyar és hun/szkíta/avar nevek vagy jellegzetességeik egyazon területen is előfordulnak, talán azzal magyarázható, hogy az országok neve felváltva lehet Magyar és Hun, olyan megfontolás alapján, ahogy Egyiptom is Magaru és Hun felekre volt osztva: az égi területek vannak a földre leképezve.  
 
-[[H/Hykszosz\|Hykszosz]] címnél is szóba került az avar/keta-szkíta hykszoszok héber-zsidókként való későbbi értelmezése.  
+[[H/Hykszosz\|Hykszosz]] címnél is szóba került az avar/keta-szkíta hikszoszok héber-zsidókként való későbbi értelmezése.  
 
 #### Péterfai János is írja:  
 
@@ -131,7 +132,7 @@ Természetesen az átjárás a Nap négy fordulópontjára utalva keresztez igé
 
 A [[M/Más\|más]] az Eb-Úr/Éber téridőbeli helye. [[A/After\|After]] címhez is betéve, ahol másról is szó esett.  
 [[A/After\|After]] címnél szó esett az [[A/April\|April]] címnél taglalt `aperire` = kinyílni, megnyitni igéről is, mely szintén ilyen szóvázú és kiderül róla (a [[P/Pünkösd\|Pünkösd]] tavasznyitó jellegéhez hasonlóan), hogy [[A/Aphrodité\|Aphrodité]]hez hasonlóan a nyári napfordulós téridőbeli pontot jelöli ki.  
-Utána [[A/Afrika\|Afrika]] és [[A/Afer\|afer]] címnél szereplő adatok átnézése után találkoztam az alábbi [[K/Kufri\|kufri]] szóhoz hasonló, és a [[K/Kufár\|kufár]] szóval másutt is az arabból magyarázott szóval [itt](https://en.wikipedia.org/wiki/Kaffir_(racial_term).  
+Utána [[A/Afrika\|Afrika]] és [[A/Afer\|afer]] címnél szereplő adatok átnézése után találkoztam az alábbi [[K/Kufri\|kufri]] szóhoz hasonló, és a [[K/Kufár\|kufár]] szóval másutt is az arabból magyarázott szóval [itt](https://en.wikipedia.org/wiki/Kaffir_(racial_term)).  
 Lásd továbbiakat/kitérőt [[K/Kufár\|kufár]].  
 
 Afrika után Európára nyergelünk át. Európa nevét az asszír-babiloni `eribu` = naplemente, sötétség szóból eredeztetik egyesek. E szó párja a héber `erebh` = este. Ezen szavakat az Eufrátesz völgyéhez képest értve veszik alapul az [[A/Arab\|arab]] névre vonatkozólag is ([[E/Európa\|Európa]] és [[A/Arab\|arab]] valóban azonos alakúak).  
@@ -157,7 +158,7 @@ A Quorán az albán nacionalista Ken Pira hívja fel a figyelmet a görög nevet
 - Itt különösen az Epir névre hívnám fel a figyelmet, a héber szó összevetésének lehetősége miatt. [Ezen](https://en.wikipedia.org/wiki/Epirus) oldalon arról van szó, hogy ez a hegyes terület lenne az ókori Görögország szárazföldi része. Még az is lehet, hogy a név hegyre utal.  
 A Wiki oldal etimológiai része:  
 > The name Epirus is derived from the Greek: Ἤπειρος, romanized: Ḗpeiros (Doric Greek: Ἄπειρος, romanized: Ápeiros), meaning "mainland" or terra firma. It is thought to come from an Indo-European root \*apero- 'coast', and was originally applied to the mainland opposite Corfu and the Ionian islands. The local name was struck on the coinage of the unified Epirote commonwealth: "ΑΠΕΙΡΩΤΑΝ" (Ancient Greek: Ἀπειρωτᾶν, romanized: Āpeirōtân, Attic Greek: Ἠπειρωτῶν, romanized: Ēpeirōtôn, i.e. "of the Epirotes", see image right). The Albanian name for the region, which derives from the Greek, is Epiri.  
-![assets/Héber_image1.png|undefined](/img/user/H/assets/H%C3%A9ber_image1.png)  
+![assets/Héber_image1.png](/img/user/H/assets/H%C3%A9ber_image1.png)  
 
 A szövegben érdekes a fentebb már említett/tárgyalt part jelentésűnek meghatározás. A Tejút két partra osztja az eget. Mivel másutt (például [[R/Range\|range]] címnél) volt szó arról, hogy a Tejút hegyvonulatok nevét is adhatja, itt is lehet erről szó, de nem kizárt, hogy a héber [[H/Habiru\|Habiru]] címnél sorolt ilyen-olyan változatainak egy újabb instanciájáról van szó.
 
