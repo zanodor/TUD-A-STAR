@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tejútanya-testtájékok/","title":"Tejútanya-testtájékok","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-01T02:57","updated":"2023-11-01T02:57"}
+{"dg-publish":true,"permalink":"/T/Tejútanya-testtájékok/","title":"Tejútanya-testtájékok","tags":["dg_uploaded","Englishtexttranslated","containstransclusions"],"created":"2023-11-01T02:57","updated":"2023-11-02T06:39"}
 ---
-
-
 
 
 # Tejútanya-testtájékok
