@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Maka/","title":"Maka","tags":["formatted🟢"],"created":"2023-10-19T05:43","updated":"2023-10-19T05:43"}
+{"dg-publish":true,"permalink":"/M/Maka/","title":"Maka","tags":["dg_uploaded"],"created":"2023-10-19T05:43","updated":"2023-11-02T02:49"}
 ---
 
 
