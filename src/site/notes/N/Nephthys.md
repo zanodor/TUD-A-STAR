@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nephthys/","title":"Nephthys","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-25T02:58","updated":"2023-11-02T06:41"}
+{"dg-publish":true,"permalink":"/N/Nephthys/","title":"Nephthys","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-25T02:58","updated":"2023-11-04T01:56"}
 ---
 
 
