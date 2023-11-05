@@ -1,0 +1,32 @@
+---
+{"dg-publish":true,"permalink":"/K/Kutya elődje/","title":"Kutya elődje","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-05T03:05","updated":"2023-11-05T03:05"}
+---
+
+
+# Kutya elődje
+
+[Ezen](https://www.ancient-origins.net/history/mighty-bear-dogs-breathless-bulldogs-how-human-manipulation-has-changed-shape-canines-021341) Ancient Origins oldalon sok érdekes dolog szerepel (még hogy a medve és a kutya őse is egy lett volna):  
+> The early ancestors of Gray Wolves were a group of carnivores named the creodonts that roamed the northern hemisphere between 100 and 120 million years ago. About 55 million years ago, the creodonts gave rise to the carnassials, a group of wolf-like animals that had specialized jaws for eating meat. One member of this family, Miacis, is thought to be the common ancestor of ALL present-day wolves, dogs, bears, raccoons, and weasels.  
+> ![assets/Kutyaelődje_image1.png](/img/user/K/assets/Kutyael%C5%91dje_image1.png)  
+> 60-55 million years ago: a species of dog existed known Miacis, which is a common ancestor to almost all modern-day carnivores, including canines.  
+> 45-2 million years ago: a massive species known as Bear Dogs (amphicyonidae; see pic) roamed North America, Europe, Africa, and Asia. Canis Lupus shared its existence with Bear Dogs and are one of the closest relatives to the Gray Wolf (Canis Lupus).  
+> 25 million years ago: a species known as Cynodictis split in two, evolving into African hunting dogs and Eurasian wolves and dogs. Tomarctus, with its incredibly powerful biting jaw, long tail, and sharp claws existed for around 7 million years and inhabited much of North America.  
+> For millions of years, humans and wolves shared bounty rich forests and hunting planes. It is unknown exactly when domestic dogs (Canis familiaris) evolved from the Gray Wolf (Canis lupus) but recent studies of dog mitochondrial DNA suggest they evolved alongside each other over 100,000 years ago. Until 2009, most experts believed domestication occurred about 14,000 years ago, but that idea was tipped on its head with the discovery of several dog skulls which had been ritually buried in a cave in the Czech Republic – dated to 30,000 BC.  
+> In 2011, a Paleolithic dog skeleton dated to 40,000 years ago was unearthed with a large mammoth bone in its mouth, suggesting that not only did prehistoric dogs haul mammoth tusks and meat on sleds for humans, but that they also consumed mammoths.  
+> The dog with the mammoth bone in its mouth had its brain carefully removed after death, suggesting ritual significance possibly related to the perceived process of releasing the animal's spirit.  
+> —  
+> A szürke farkasok korai ősei a kreodonták nevű ragadozó állatok egy csoportja voltak, amelyek 100 és 120 millió évvel ezelőtt az északi féltekén barangoltak. Körülbelül 55 millió évvel ezelőtt a kreodontákból alakultak ki a húsevők, a farkasszerű állatok egy csoportja, amelyeknek a húsevésre specializálódott állkapcsuk volt. E család egyik tagját, a Miacis-t, az összes mai farkas, kutya, medve, mosómedve és menyét közös ősének tartják.  
+> 60-55 millió évvel ezelőtt: létezett egy kutyafaj, a Miacis, amely szinte minden mai ragadozó, köztük a kutyák közös őse.  
+> 45-2 millió évvel ezelőtt: a medvekutyák (amphicyonidae; lásd a képet) néven ismert hatalmas faj bejárta Észak-Amerikát, Európát, Afrikát és Ázsiát. A Canis Lupus megosztotta létét a medvebocsokkal, és a szürke farkas (Canis Lupus) egyik legközelebbi rokona.  
+> 25 millió évvel ezelőtt: a Cynodictis néven ismert faj kettévált, és kialakultak az afrikai vadászkutyák és az eurázsiai farkasok és kutyák. A hihetetlenül erős harapóállkapcsával, hosszú farkával és éles karmaival rendelkező Tomarctus körülbelül 7 millió évig létezett, és Észak-Amerika nagy részét benépesítette.  
+> Az emberek és a farkasok évmilliókon át osztoztak a fejpénzben gazdag erdőkön és vadászterepeken. Nem tudni pontosan, hogy a házi kutyák (Canis familiaris) mikor fejlődtek ki a szürke farkasból (Canis lupus), de a kutyák mitokondriális DNS-ének legújabb vizsgálatai arra utalnak, hogy több mint 100 000 évvel ezelőtt egymás mellett fejlődtek ki. 2009-ig a legtöbb szakértő úgy vélte, hogy a háziasítás körülbelül 14 000 évvel ezelőtt történt, de ez az elképzelés a feje tetejére állt, amikor felfedeztek néhány kutyakoponyát, amelyeket rituálisan temettek el egy csehországi barlangban - a dátumot i. e. 30 000-re datálták.  
+> 2011-ben egy 40 000 évvel ezelőttre datált paleolitikus kutyacsontvázat tártak fel, amelynek szájában egy nagy mamutcsont volt, ami arra utal, hogy az őskori kutyák nemcsak mamutfogakat és húst vittek szánon az emberek számára, hanem mamutokat is fogyasztottak.  
+> A mamutcsontot a szájában tartó kutya agyát halála után gondosan eltávolították, ami rituális jelentőségre utal, és valószínűleg az állat szellemének felszabadításával kapcsolatos rituális folyamatra utal.  
+- [[S/Skull\|Skull]] címhez betéve.  
+
+> Another dog skull dated to 33,000 years ago was recovered with a human body at Razboinichya Cave in Siberia, telling us that man had domesticated hunting dogs by this time and that they had an important role within religious/spiritual beliefs.  
+> Modern theories suggest wolves first became attracted to human settlements because of discarded food scraps, and the species started becoming better scavengers than hunters. Tamer wolves that had learned to scavenge human campsites thrived, while the strongest predator wolves would be left behind, a hypothesis which backs up Darwin's theory of natural selection.  
+> —  
+> A szibériai Razboinichya-barlangban egy másik, 33 000 évvel ezelőttre datált kutyakoponya került elő egy emberi testtel együtt, ami arról árulkodik, hogy az ember ekkorra már háziasította a vadászkutyákat, és fontos szerepet játszottak a vallási/spirituális hiedelmekben.  
+> A modern elméletek szerint a farkasok először az eldobott ételmaradékok miatt vonzódtak az emberi településekhez, és a faj jobb dögevőkké kezdett válni, mint vadászokká. Azok a szelídebb farkasok, amelyek megtanultak az emberi táborhelyek döglésére, jól éltek, míg a legerősebb ragadozó farkasok hátramaradtak - ez a hipotézis alátámasztja Darwin természetes szelekcióról szóló elméletét.  
+- A folytatás a domesztikációval, tenyésztéssel kapcsolatban már nem fért ide.  
