@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["dg_uploaded","gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-11-02T12:39"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["dg_uploaded","gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-11-06T12:48"}
 ---
 
 
@@ -67,13 +67,13 @@ Szerkezetét tekintve referencia könyv, A-Z-ig, azaz ábécé rendbe szervezett
 A megfogalmazás helyenként bő, másutt tőmondatokba tömörített. Igyekszem egyértelműen fogalmazni, de néha talán túl is magyarázom és talán túl sok belső linkkel tarkítom (zavarom) a sorokat. A gyengébb színvonalú részek vagy régiek és még nem kerültek későbbi, rutinosabb önmagam elé lektorálásra ("öncenzúra elé"), vagy pedig betudhatók egy hirtelen, intuitív "automatikus írás" jellegnek. Azon részek hetekkel, hónapokkal, évekkel későbbi racionalizáló jellegű átfésülései igen nehéznek is bizonyulnának. Mivel az első (teszt) publikáció idején (2023. okt. eleje) már közel 14000 címszónál tartottam, embert próbáló egyesével keresni, hol lehetne valamit éppen kijavítani.  
 
 
-Lesznek olyan részek is, amelyek ismét a régi felfogásom tükrözik – ahol pl. a Nagy Kutya lucida-jának jelentőségét még a precessziós Nagy Éves körben tárgyalom, másutt a kis éves jelentőségének tárgyalására szorítkozom. A kutatás nehézsége, hogy sok mindent nem tudunk és legfeljebb hangosan gondolkodhatunk. Menet közben rostálja ki az ember az ocsút és ezt a kész tényekre, megoldásokra, a "tutira" vágyó érdeklődő nem kellene lássa.  
+Lesznek olyan részek is, amelyek ismét a régi felfogásom tükrözik – ahol pl. a Nagy Kutya lucida-jának jelentőségét még a precessziós Nagy Éves körben tárgyalom, másutt a kis éves jelentőségének magyarázatára szorítkozom. A kutatás nehézsége, hogy sok mindent nem tudunk és legfeljebb hangosan gondolkodhatunk. Menet közben rostálja ki az ember az ocsút és ezt a kész tényekre, megoldásokra, a "tutira" vágyó érdeklődő nem kellene lássa.  
 Vannak adatok kimondottan "fringe" címkét kapó (ők leginkább áltudományosnak számítanak, de a kérdés mindig marad: "ki képviseli a valódi tudományt?") szerzőktől, akik – ha azon a bizonyos "dobozon" kívül gondolkodásukkal jó ötletet adhatnak – véleménye lehet, hogy számít, lehet, hogy nem. Az ilyen emberek adataival való munka kockázata, hogy besorolják az embert közéjük, és utána a címkét soha sem tudja levakarni magáról az ember. Én alapvetően az "open mind" ("tárd ki az elméd") elvét követem, ami azzal is jár, hogy sok ellentmondó információval találkozom és rendet kell tennem köztük. Ez nekem nem okoz gondot (mert értem a lényeget). Aki az ilyen esetektől fél és félelmei ellen úgy menekül, hogy másokról (jelen sorok írójáról) ítélkezik, azokkal nekem nincs dolgom.  
 Alapvetően nálam az a szabály, hogy minden információ, amivel találkozom, kerüljön feldolgozásra. Legfeljebb mellé írom a kritikát, hogy helytelen, következetlen, stb.  
 Ahol ezt elmulasztom megtenni (mert a rengeteg anyag rengeteg törődést igényel és időből van a legkevesebb), az nem azt jelenti, hogy én is azt gondolom. Egyszerűen lehetetlennek látom jelen pillanatban, hogy idő szűkében minden adatot publikálásra alkalmassá fésüljek át.  
 Milyen egyszerű lenne az élet, ha a kútfők már akadémiai szinten – a világ sok ezer jól fizetett akadémistája által – szépen szűrve lennének. Nem is lenne itt dolgom. De a világ – akadémistával és azok póráztartóival együtt – nem így működik.  
 
-Ahogy mondtam, szerettem volna tökéletesre formálni mindent, de számolnom kell azzal, hogy ilyen-olyan okoknál fogva sosem jut el másokhoz, amit eddig felhalmoztam, ezért döntöttem mégis a folyamatos nyilvánosságra hozatal mellett.  
+Szerettem volna tökéletesre formálni mindent, de számolnom kell azzal, hogy ilyen-olyan okoknál fogva sosem jut el másokhoz, amit eddig felhalmoztam, ezért döntöttem mégis a folyamatos nyilvánosságra hozatal mellett.  
 
 
 A fentebb említett Péterfai János István (az írásokban gyakran röviden: PJI) sorai gyakran nyitják az egyes cikkeket, mint mérvadó, viszont külön helyen egyes – fogalmazzunk úgy – hibáira vagy következetlenségeire is felhívom a figyelmet.  
@@ -87,7 +87,9 @@ Az egyes helyeken található ún. Zotero linkek (ahol oldalszámokra lehet katt
 A lexikális adatok (lásd őket `ilyen` vagy főképpen tulajdon- és istennevek esetében **Ilyen** szedéssel) helyességére különösen ügyeltem, de becsúszhat itt-ott elírás vagy pedig a forrásom téved (vagy annak forrása). Olyan is előfordul, hogy minden igyekezetem ellenére nem sikerült minden lexikális adatot külön kiemeléssel jelölni. Ha látok valamit, menet közben javítom és ennek jogát fenntartom.  
 
 Menet közben úgy döntöttem, hogy a fontosabbnak ítélt angol nyelvű részeket (az esetek mintegy 90-95%-a lehet) lefordítom. Ehhez a kitűnő DeepL fordítót használom. A kész fordításokban csak a látványos vagy ordító hibát javítom, de elképzelhető, hogy helyenként kissé magyartalan marad a szöveg. (Az említett fordító így is messze felülmúlja a nagynevű világcégek magyar nyelvre fordító képességét – történik mindez a 21. században...)  
-Ez a lábjegyzetekre is kihatással lesz: az egyes lábjegyzetek mellett álló visszafelé nyilak közül az első az angol szövegre, a második a magyarra mutat.  
+Ez a lábjegyzetekre is kihatással lesz: az egyes lábjegyzetek mellett álló visszafelé nyilak közül az első az angol szövegre, a második a magyarra visz.  
+
+Az egyes szócikkek nagybetűvel való felvételének oka, hogy az alapszavakat vagy ún. etimonokat (és teoretikus etimonokat) meg kívántam különböztetni a többitől. Az olyan szavak, mint [[B/BOG\|BOG]], [[S/SZEK\|SZEK]], és társai Napot, napminôséget (hímségi princípiumot) jelentenek és változataik sok más szó részét képezik. Mivel nem kimondott – legalábbis nem az indoeurópai értelemben vett – szógyökök, hanem nemcsak a szavak elején szereplő szóelemek (szótagnyelv-elemek), ezért célszerű volt megkülönböztetni őket.  
 
 ### A tartalom
 
