@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2023-10-29T02:44"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2023-11-06T02:00"}
 ---
 
 
@@ -47,7 +47,7 @@ A másik trükk, amikor nem is akarja magát alcázni. Székely Ildikó ÁKTV m�
 > **Az ismeretlen háttérhatalom földi helytartói már rég rájöttek a hatalomgyakorlás egyik mesterfogására: akinek nincsenek titkai, azt leleplezni se lehet**. A társadalom a megigézettség (hipnózis) állapotában van. Az igézők már rég nem rejtőzködnek, már rég nem titkolják szándékaikat. Mi, leleplezők pedig az igézők nyitott kapuit döngetjük, ahelyett, hogy a megigézetteket végre kivonnánk az igézők hatása alól.  
 - Megjegyzés: a hipnózis alatt állókat hogy lehetne egy csettintéssel észhez téríteni[^1]?  
 
-Quorán fő cikkemben is írtam, hogy ha – valaki odáig fajul, hogy – hazudni kell, a legnagyobb hazugságot kell választani, olyat, amiről senki sem gondolná, hogy át lehetett volna vele verni. Lám, Adolf [[H/Hitler\|Hitler]] is klasszikus példa arra a tényre, hogy "Ha kellően nagy hazugságot mondasz, és elég gyakran ismétled, elhiszik." "A hazugság legyen nagy, legyen egyszerű, ismételd sokszor, és végül el fogják hinni."  
+Quorán fő cikkemben is írtam, hogy ha – valaki odáig fajul, hogy – hazudni kell, a legnagyobb hazugságot kell választani, olyat, amiről senki sem gondolná, hogy át lehetett volna vele verni. Lám, Adolf [[H/Hitler, Adolf\|Hitler, Adolf]] is klasszikus példa arra a tényre, hogy "Ha kellően nagy hazugságot mondasz, és elég gyakran ismétled, elhiszik." "A hazugság legyen nagy, legyen egyszerű, ismételd sokszor, és végül el fogják hinni."  
 ("If you tell a big enough lie and tell it frequently enough, it will be believed." "Make the lie big, make it simple, keep saying it and eventually they will believe it." – Adolf Hitler and his Propaganda Minister Joseph Goebbels (both used this tactic and quoted it)).  
 
 Egyébként a megtévesztés téveszt és [[T/Téved\|téved]] szavai elemeinek [[T/Tévely\|tévely]] párja a [[D/Devil\|devil]] szóval azonosul, csak jelzem (lentebb újra megismétlem). Lentebb [[M/Megtévesztés#Rágalmazás\|rágalmazás]] résznél is szóba kerülnek a sátán és ördög jelentésű szavak definíciójaként adott fogalmak (körülírás).  
