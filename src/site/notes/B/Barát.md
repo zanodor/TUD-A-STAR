@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["dg_uploaded"],"created":"2023-10-31T06:45","updated":"2023-10-31T06:45"}
+{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["dg_uploaded"],"created":"2023-10-31T06:45","updated":"2023-11-06T03:25"}
 ---
-
-
 
 
 # Barát
@@ -37,7 +35,7 @@ Aztán ott van a [[P/Pártus\|pártus]] címnél előjövő elnevezés (Parathas
 > Az aszuráknak a nap imádatával való összekapcsolása összhangban van a mezopotámiai feljegyzésekkel, amelyek szerint az aszurák napimádók voltak. Mind az `asur`, mind az `assur` fémművesek. Mindkettő a Rigvédában említett bhāratam janam (RV 3.53.1: viśvāmitrasya rakṣati brahmedam bhāratam janam). `Bharata` = fémek öntése öntőformába; `bharavum` = kitölteni; beletenni; beleönteni (gudzsarati) bengáli.  
 > \[...\]  
 > [[M/Mleccha\|Mleccha]] a `bharatiyo` (fémöntők) szubsztrátum nyelve volt, akik közül sokan a dvīpa (két folyó - Sindhu és Sarasvati - közötti földterület vagy a Kutch-öböl, a Khambat-öböl, Makran partvidéke és a Perzsa-öböl Meluhha régiója mentén fekvő szigetek) területén éltek.  
-- Ezen `bharatiyo`-hoz hasonló kifejezést, `bharatiya`-t használ a népek gyűjtőneveként is és ilyen név szerepel egy lexikális glossza az internetről is letölthető An Indian Lexicon – Comparative Dictionary of 25+ ancient Bharatiya languages című kiadvány nevében.  <br/>
+- Ezen `bharatiyo`-hoz hasonló kifejezést, `bharatiya`-t használ a népek gyűjtőneveként is és ilyen név szerepel egy lexikális glossza az internetről is letölthető An Indian Lexicon – Comparative Dictionary of 25+ ancient Bharatiya languages című kiadvány nevében. <br/>
 Egy másik, szintén letölthető Processions of hieroglyphs are classifiers of metalwork of Indus Script artisans című dolgozatában viszont (a milyen nyelvű?) `barad`, `barat` = ökör jelentéssel megadott de megadja a marathi nyelvű `bharata` = rézötvözet, cin jelentést is (rébuszként).  
 
 A fentiek alapján is valószínű, hogy az ...
@@ -95,8 +93,8 @@ A barát szót [ezen](https://qr.ae/pNsjGC) Quora cikkbe is felírtam, továbbá
 > - `burn` also has the B-R consonant base;  
 > - the names **Britain** and **Bretagne** come (not from India per se, but) from the expression Bar-At-On or Bar-At-An (Father Sun in the Sky; from Hunnic `an` comes `one` as well; the Magyar word for sky also yields the number one (`ég` > `egy`); this means that they had monotheistic religions and it's not the Jews who came up with that; the Sun was looked upon as Son, as the noun forms show: `Sun` = `son`).  
 > —  
-> Van néhány nyelvészeti adatunk arra, hogy ezek az avar hunok – akik nem voltak mások, mint az úgynevezett kus nép, kik, mikor átálltak a Nap imádására, és lettek Egyiptomtól egészen Észak-Indiáig fő meghatározó ereje –, területük nevét szanszkritul **Barata**-nak hívták, a Nap neve után, ami az avar hunoknál Bar-Ata (Nap-apa) volt.
-> Nálunk ez a név a magyarban is megvan, `barát` néven, ami barátot jelent. A Nap az egyetlen barátod, az egyetlen barát, aki soha nem hagy cserben (mármint a Földanya és lakói szempontjából): Ő mindig, anélkül, hogy bármit is kérne tőled, vagy bármit is elvinne cserébe, ránk szórja jóindulatú fényét és melegségét: ezt a melegséget akarod megtalálni egy igaz barátban, aki az igazságra is rávilágít (bármennyire nem tetszik is neked); a magyar barát tehát szimbolikus szó, mint még ezer más szó, a régi csillag- és napvallások termékei, amelyek az elmúlt évezredek során különböző rétegekből érkeztek be.
+> Van néhány nyelvészeti adatunk arra, hogy ezek az avar hunok – akik nem voltak mások, mint az úgynevezett kus nép, kik, mikor átálltak a Nap imádására, és lettek Egyiptomtól egészen Észak-Indiáig fő meghatározó ereje –, területük nevét szanszkritul **Barata**-nak hívták, a Nap neve után, ami az avar hunoknál Bar-Ata (Nap-apa) volt.  
+> Nálunk ez a név a magyarban is megvan, `barát` néven, ami barátot jelent. A Nap az egyetlen barátod, az egyetlen barát, aki soha nem hagy cserben (mármint a Földanya és lakói szempontjából): Ő mindig, anélkül, hogy bármit is kérne tőled, vagy bármit is elvinne cserébe, ránk szórja jóindulatú fényét és melegségét: ezt a melegséget akarod megtalálni egy igaz barátban, aki az igazságra is rávilágít (bármennyire nem tetszik is neked); a magyar barát tehát szimbolikus szó, mint még ezer más szó, a régi csillag- és napvallások termékei, amelyek az elmúlt évezredek során különböző rétegekből érkeztek be.  
 > A későbbi germán törzsek átvették ezt a nevet, és ebből fogalmazták meg legfontosabb szavaik egy részét, mint például a következőket:
 > - `bird` (Napmadár, tűzmadár, ezért a `fire` szó mássalhangzóilag hasonló alapú (vö. magyar `pír` is); barát is hasonló, és szép és első) (minden szó megérne egy alapos vizsgálatot, de itt nem);
 > - `bread` (a Nap melegével sütött, a Nap testeként is fogyasztották; később, a kereszténységben corpus Christi néven);
@@ -114,11 +112,11 @@ A Nap nevei, de legalábbis hímségi értelmű szavak szerepelnek a kér és ka
 > Look what happens with a love like that,  
 > It lights the whole sky."*  
 > —  
-> *"Még ennyi idő után sem
-> Mondja a Nap soha a Földnek,
-> "Tartozol nekem."
-> Nézd, mi származik egy ilyen szerelemből,
-> Az egész égboltot bevilágítja. "*  
+> *"Még ennyi idő után sem  
+> Mondja a Nap soha a Földnek,  
+> "Tartozol nekem."  
+> Nézd, mi származik egy ilyen szerelemből,  
+> Az egész égboltot bevilágítja."*  
 
 [Ezen](http://weekly.ahram.org.eg/2004/672/profile.htm) oldal adata szerint az óegyiptomi és arab `samir` = barát (`shamir` pedig a héberben); ez a Szem-Úr, Nap Úr értelmű összetétel olyan, mint a barát: a Nap a legfőbb (egyetlen) barátunk.  
 De az [ezen](https://en.wikipedia.org/wiki/Mitra) oldalon említett szanszkrit és indo-árja `mitra` = barát is Napnévből ([[M/Mithra\|Mithra]]) ered és a koreai `csingu` = barát is érthető.  
