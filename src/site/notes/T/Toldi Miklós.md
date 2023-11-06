@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/T/Toldi Miklós/","title":"Toldi Miklós","tags":["dg_uploaded"],"created":"2023-11-02T11:01","updated":"2023-11-02T11:01"}
+{"dg-publish":true,"permalink":"/T/Toldi Miklós/","title":"Toldi Miklós","tags":["dg_uploaded","containstransclusions"],"created":"2023-11-02T11:01","updated":"2023-11-06T01:06"}
 ---
 
 
 # Toldi Miklós
 
-Volt már róla szó [[T/Toll#Toll 2)\|toll]] és [[T/Tölgy\|tölgy]] címnél. Ami a Miklós nevet illeti, a szintén Nap-hős [[S/Szép Miklós mese\|Szép Miklós mese]][^1] nevében is megvan, továbbá lásd még [[M/Mikulás\|Mikulás]], valamint még [[M/Miska\|Miska]].  
+Volt már róla szó [[T/Toll#Toll 2)\|toll]] és [[T/Tölgy\|tölgy]] címnél. Ami a [[M/Miklós\|Miklós]] nevet illeti, a szintén Nap-hős [[S/Szép Miklós mese\|Szép Miklós mese]][^1] nevében is megvan, továbbá lásd még [[M/Mikulás\|Mikulás]], valamint még [[M/Miska\|Miska]].  
 
 #### Ipolyi Arnold Magyar mythologia...
 

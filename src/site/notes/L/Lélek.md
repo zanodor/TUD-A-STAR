@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/","created":"2023-10-15T09:46","updated":"2023-10-23T02:39"}
+{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["dg_uploaded"],"created":"2023-10-15T09:46","updated":"2023-11-06T01:21"}
 ---
 
 
@@ -134,11 +134,11 @@ Falvay Károly Nagyboldogasszony című könyvében Hoppál Mihályt idézve í
 
 #### Várkonyi Nándor írja:
 
-> A léleknek az egyiptomiak \[is\] kétféle formáját ismerték, az egyik volt a ká, az ember kicsiny, szellemi hasonmása, asztráltestszerű lény: a testben lakik, mint a magyar "[[I/Íz\|íz]]."  
+> A léleknek viszont kétféle formáját ismerték, az egyik volt a `ká`, az ember kicsiny, szellemi hasonmása, asztráltestszerű lény: a testben lakik, mint a magyar "[[I/Íz\|íz]]", vagy a mese Hüvelyk Matyija, de elválhat tőle, s a halál után el is hagyja. Az igazi lélek a `bá`, sokkal önállóbb lényeg, madár természetesen, mégpedig emberfejű és -kezű sólyommadár; a halál pillanatában ez is elrepül, de az örök életben ismét egyesül halhatatlanná lett földi porhüvelyével.  
 
-Ezen íz egyértelműen a árnyék- vagy másnéven szabadelket, azaz asztráltestet látszik tehát jelenteni.  
+Ezen íz egyértelműen a árnyék- vagy másnéven szabadlelket, azaz asztráltestet látszik tehát jelenteni.  
 Visszatérve az iménti gondolatmenetre, Varga Zsigmond is írja ([[T/Tüsszent\|tüsszent]] címnél is szerepelt):  
-> A lélek távozhat a testből önként, vagy erőszakos beavatkozás következtében. Az álom egy középforma, az altáji népek annak a jeléül fogják fel például a megijedést, hogy a lelket hatalmukba kerítik a gonosz szellemek. Ilyenkor a lelket különböző fogásokkal vissza kell csalogatni. Különösen kis gyermekeknél veszélyes a megijedés, mert ezek lelke végleg el is távozhatik. De a tüsszentés is arra szolgáló jel, hogy démoni beavatkozás történt. Innen ered a tüsszentésnél a szerencsekívánás. Magyar népünk még ma is gyakorolja e szokást. A lélek távozása a szájon, az orron, és a fülön át történhetik. Mihelyt a lélek eltávozik, az illető különösen érzi magát és ha huzamosabb ideig nem tér vissza, meg kell kísérelni mindent, hogy a visszatérést kikényszeritsék, mert az elhagyott beteg lesz és a végén még meg is halhat. A súlyosabb betegségek démonizáltatnak, s mint ilyenek tárgyi bizonyítékaivá válnak a szumir-ural-altáji azonos lélek-szemléleti módnak. Erről majd a démonvilág kialakulása című fejezetben lesz szó. A végleges távozása azonban csak a halálban következik el.  
+> A lélek távozhat a testből önként, vagy erőszakos beavatkozás következtében. Az álom egy középforma, az altáji népek annak a jeléül fogják fel például a megijedést, hogy a lelket hatalmukba kerítik a gonosz szellemek. Ilyenkor a lelket különböző fogásokkal vissza kell csalogatni. Különösen kis gyermekeknél veszélyes a megijedés, mert ezek lelke végleg el is távozhatik. De a tüsszentés is arra szolgáló jel, hogy démoni beavatkozás történt. Innen ered a tüsszentésnél a szerencsekívánás. Magyar népünk még ma is gyakorolja e szokást. A lélek távozása a szájon, az orron, és a fülön át történhetik. Mihelyt a lélek eltávozik, az illető különösen érzi magát és ha huzamosabb ideig nem tér vissza, meg kell kísérelni mindent, hogy a visszatérést kikényszerítsék, mert az elhagyott beteg lesz és a végén még meg is halhat. A súlyosabb betegségek démonizáltatnak, s mint ilyenek tárgyi bizonyítékaivá válnak a szumir-ural-altáji azonos lélek-szemléleti módnak. Erről majd a démonvilág kialakulása című fejezetben lesz szó. A végleges távozása azonban csak a halálban következik el.  
 > \[...\]  
 > Az árnyéklélek az emberi testből való kiszakadása után csak annyi kapcsolatot tart fenn a testtel, hogy a sír közelében tartózkodik, de többé nem alkotórésze annak. Egyébként, míg ki nem alakul a minden halottat befogadó közös alvilág képzete, addig kóborol a világűrben és csak éjszaka tér vissza szállására az elhagyott testbe. Ezt tükrözi a következő magyar szólásmondás: ''Csak hálni jár bele a lélek." Ma ugyan arra szokták mondani, aki felette rossz bőrben van, de valószínű, hogy nem ez volt az eredeti értelme.  
 
@@ -158,7 +158,7 @@ Visszatérve az iménti gondolatmenetre, Varga Zsigmond is írja ([[T/Tüsszent\
 
 ...című könyvének 479. oldalán áll azon adata, miszerint a Bhahavad-Gíta 2.20-ban szerepel adat a lélek halhatatlanságáról:  
 > "A lélek nem ismer sem születést, sem halált; ha már létezett, többé meg nem szűnhet; nem-született, örökkévaló, mindig-létező, halhatatlan és ősi, s ha a testet meg is ölik, ő meg nem ölhető."  
-- Ez a lélek nem más, mint az alább taglalt isteni lélek, őslélek, az isa.  
+- Ez a lélek nem más, mint az alább taglalt isteni lélek, őslélek, az `isa`.  
 
 ## Lélekvándorlás
 
@@ -232,7 +232,7 @@ Megállapítja, hogy a Halotti Beszéd "ysa" fogalma alatt azt a lelket értjük
 Mondja még itt korábban, hogy az ysa/isa a halhatatlan lélek, mely a katolikus vallásban megjelenő "örök élet"-re utal, valamint felteszi a kérdést:  
 Mi ok volt rá, hogy azt írják: ysa, por és hamu vagyunk? Hitük szerint éppen így megfelelt volna a TEST és LÉLEK kifejezés is!  
 Na ez egy érdekes kérdést fel, melyet lentebb és [[S/Szentháromság\|Szentháromság]] címnél is taglalunk.  
-![assets/Lélek_image2.jpeg|undefined](/img/user/L/assets/L%C3%A9lek_image2.jpeg)  
+![assets/Lélek_image2.jpeg](/img/user/L/assets/L%C3%A9lek_image2.jpeg)  
 
 Ha elfogadjuk, hogy a halotti beszéd "ysa" fogalma az isten által teremtett lélek – őseink lelke(!) – bizonyos, hogy a III. Béla kori magyarságban még élt ez a kettős lélekhit. Ezek szerint az embernek kettős lelke van: egy ysa-lelke és egy lélek-lelke, az előbbi az isteni lélek, az utóbbi pedig az élet-lélek. Az ysa-lelket pedig ezért nevezhetjük árnyék-léleknek, hiszen mint az árnyék követi az élet-lelket és az élet megszüntekor, a halálban \[ezt a lelket kíséri vissza a [[P/Psychopomp\|psychopomp]] kutya; innentől érthetővé válik a [[D/DOH\|DOH]] címnél taglalt szláv szavak értelme is\] visszatér az árnyékvilágba.  
 \[Hogy a mellékelt képeken valóban a kettős lélekhitre utaló ábrázolások vannak-e, ebben nem vagyok biztos, de legyen idetéve.\]  
@@ -385,12 +385,12 @@ Ha a szabadlélek = árnyéklélek és az árnyéklélek = vándorlélek, akkor 
 Igazságot tenni talán megint csak az idegen nyelvek segítéségével tehetünk (ha figyelembe vehetők). A latin `spirare` = lélegzeni szóra visszavezetett [[S/Spirit\|spirit]]us ezek szerint az a szellem, ami a lélegzet/lehelet-léleknek felelne meg.  
 Azért mondom, hogy megint, mert a germén seele/[[S/Soul\|soul]] = lélek szavak kapcsán egyszer már rámutattunk, hogy ezek meg éppen szél/szellet/szellem szavainkra mutatnak rá.  
 
-![assets/Lélek_image3.png|undefined](/img/user/L/assets/L%C3%A9lek_image3.png)  
+![assets/Lélek_image3.png](/img/user/L/assets/L%C3%A9lek_image3.png)  
 [[H/Harmadik szem\|Harmadik szem]] címnél szintén más, már a lélek és szellem fogalmainak összetévesztésére utaló információkat látunk:  
 A szimpatikus idegrendszert a görögök a \[melyik?\] lélek székhelyének tették meg, Schleich a kozmikus kapcsolatok felfogó szervének, Jung a faji emlékezés tárházának; vele azonosíthatók a hindu jóga csakrái, vagyis az életerő áramának központjai.  
 A görögök viszont, egyiptomi és babiloni mestereik nyomán azt tanították, hogy a lélek lakóhelye a rekeszizom alatt levő idegköteg, a nap-fonadék (plexus solaris).  
 Azaz mindenki beszél mindenről, lélek gyűjtőnév alatt, másrészt nem tudták már régen és ma sem, mi micsoda.  
-![assets/Lélek_image4.png|undefined](/img/user/L/assets/L%C3%A9lek_image4.png)  
+![assets/Lélek_image4.png](/img/user/L/assets/L%C3%A9lek_image4.png)  
 Itt egy újabb:  
 A védikus bölcselet a lelket \[melyiket?\] az agyalapi mirigybe helyezte, olvassuk tovább VN-től. Azaz, annak a [[Z/Zsinat\|zsinat]] címnél taglalt folyamatnak megvoltak az előzményei. A magas tudásúnak gondolt kultúrák nem voltak tisztában mi micsoda, vagy pedig tudták, csak nem a megfelelő neveken és indoklással.  
 Végül a lélek Szentháromságból való kivételéhez hozzájárult az, hogy a Halak-korszakban a materialista felfogás érvényesül: ahogy PG is fogalmaz, amit nem tudok definiálni (határok közé venni), az (mármint a lélek) nem is létezik.  
@@ -435,7 +435,7 @@ Amennyiben a babona fentebbi említése e tárgyban magyarázatra szorul, íme. 
 ...című tanulmányában amit az árnyéklélekről ír, szintén jól hangzik ösztön – isten témában (kérdés, mennyire tudálékoskodó):  
 > A [[V/Világügyelő\|világügyelő]] Férfi azonban a nappal ellentétben éjszaka jár Tovling-luván az égen – akárcsak Dia. Ha vizsgálat tárgyává tesszük az [[O/Őr\|őr]] funkciót – mert a Világügyelő Férfi a világ őre – az árnyéklélek fogalmához juthatunk. Hiszen **az árnyéklélek végső soron egy, a tudattalanunk éjszakájában lévő másik személyiség lehetősége, amely módosult tudatállapotban felszínre kerülhet és működni tud. Ez a második, mély én nemcsak minden tudásunk tartománya (ebből a régióból kerül felszínre, ami tudatosul), hanem vigyázó őrünk is**. Megfigyelték már, hogy valaki ránk szól vezetés közben, amikor közeledik az út széle, ha elkalandozik a fegyelmünk? Dia tehát fénykorában, az igazi mitikus időkben, mielőtt még kicsinyes *trickster* lett volna belőle, **a közösség közös árnyéklelké**t jelenítette meg, ennek megszemélyesített, és kivetített figurája volt, akárcsak Ekva-Piris, akit felfoghatunk úgy, mint a manysi nép **kollektív tudattalanjában vigyázó és figyelő őr**t.  
 
-![assets/Lélek_image5.png|undefined](/img/user/L/assets/L%C3%A9lek_image5.png)  
+![assets/Lélek_image5.png](/img/user/L/assets/L%C3%A9lek_image5.png)  
 Az [alábbi](https://youtu.be/aeRDLskUSZM) Turul és Szarvas II. rész című ÁKA előadásban KT 17:41-nél szól arról, mi a különbség a tudatos és [[T/Tudatalatti\|tudatalatti]] énünk között. Egy felfújt lufi az agyunk, mely lufi anyaga a tudatos énünk és ami benne van, az a tudatalatti énünk hordozója, mely képes őseink tudatalattiját (ez a Jung féle kollektív tudatalatti) is örökölni. Tehát ahogy az [alábbi](https://youtu.be/TsAxk6Dy2II) Turul és Szarvas III. rész című ÁKA előadásban 23:30-nál megint elmondja, hogy a tudatalatti arányaiban sokkal nagyobb mértékű, sokkal nagyobb erő, hatalom, tudás rejlik benne. Erre nem tér ki, de nem véletlen, hogy inkább a nőhöz tartozik, tehát amikor azt mondom, hogy női [[O/Ösztön\|ösztön]], ezzel megint csak azt bizonyítom, hogy a magyar felfogás szerint [[I/Isten\|Isten]] = inkább nő ([[B/Boldogasszony\|Boldogasszony]] PJI adata szerint is a táltosoknál a legnagyobb és a [[C/Csudaszarvas\|Csudaszarvas]] is ünő, márpedig a [[S/Szarvas\|szarvas]] a régi felfogásban isten).  
 
 Mindig, mindenütt azt hangoztatom és erről [[D/Dogma\|dogma]] és [[C/Címke\|címkézés]] címnél is volt szó, hogy a mai fogalmak tisztázása a magyar nyelv alapján mennyire fontos. Ennél is fontosabb a jelképek és a magyar szavak vizsgálata, ugyanis az analógiás/képi gondolkodásra építő őseink a mélyen a tudatalattinkba átmentett tudását kell felszínre hozni ahhoz, hogy a magyarság és a világ megmeneküljön. Ez a kulcs. Ezt lefordítva lehetne betenni a Quora főcikkem aljára is.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["dg_uploaded"],"created":"2023-10-16T01:30","updated":"2023-10-28T03:57"}
+{"dg-publish":true,"permalink":"/S/Széth/"}
 ---
 
 
@@ -52,8 +52,11 @@ Széth Napistenként kezelése tehát leginkább úgy képzelhető el, hogy ő a
 Magyar Adorján Ősműveltség című könyvének (a PDF) 1725. oldalán mint Földisten jön elő, mondhatjuk forrásai nyomán tévesen, hiszen [[N/Nut\|Nut]] alatt [[G/Geb\|Geb]] kell legyen. Lásd a csatolt képen.  
 ![assets/Széth_image3.png](/img/user/S/assets/Sz%C3%A9th_image3.png)  
 
-De úgy tűnik másutt is áll ez a felfogás. BL írja:  
+De úgy tűnik, másutt is áll ez a felfogás. BL írja:  
 > Az egyiptomiak, akárcsak őseink, a világot dualisztikusan (kettős osztályozással) értelmezték (Ég-Föld, Hórusz-Szét, Észak-Dél, két ország, két part, stb.).  
+- [[H/Hierogamy\|Hierogamy]] címnél is alulra került a férfi:  
+> Az ellentétek hierogámiai szintézisét (Felül/Alul, Ég/Föld, Nő/Férfi) lásd Tabula Smaragdina, 8: "Ascendit a terra in cœlum, iterumque descendit in terram"; lásd még op. cit., 2: "Quod est superius est sicut quod est inferius" and cf. Hērakleitos, Fragmenta, 60: "ὁδὸς ἄνω κάτω, µία καὶ ὠυτή".  
+
 - Azt még csak-csak megértem, hogy Széth Gebet kiváltva Nut nemzőjeként megjelenik, de miért Délt, miért nem Északot kapcsolták hozzá? Igaz, vigyázat, Egyiptomban a Nilus folyásiránya dél-északi.  
 
 A poláris korszakról [[H/Hyperborea-Atlantisz átállás\|Hyperborea-Atlantisz átállás]] címnél volt szó és másutt is arról, hogy az első (matriarchális) időkben a Tejútistennő tisztelete volt szokásban, majd idővel ebből mindössze (adott esetben a Szíriusszal való azonosulás elvesztésével is) nők kapcsán Holdistennő, Vénusz- illetve Földistennő tisztelet jött létre, de már szinte mindenütt egy hímségi égisten és annak fiának, a Napnak kultuszának árnyékában, annak elnyomatásában.  
@@ -250,7 +253,7 @@ Az egyiptomi történelem kezdetén Észak-Egyiptom sivatagi és háborúistene 
 Sőt, Széth is (épp egy [[F/Furka\|furka]] nevű; lásd [[F/FU\|FU]]) kereszten lett megfeszítve (mint az indiai [[A/Agni\|Agni]] és [[I/Indra\|Indra]] is, de [[K/Krishna\|Krishna]] halála is hasonló), amely eset valójában valódi Napokkal (a [[S/Szíriusz\|Szíriusz]] is Nap és Agni és Indra is Szíriusszal hozatott kapcsolatba) szokott megtörténni (és történelemben megőrzött, megszemélyesített táltos-típusú Napfiakkal).  
 
 [[S/Shut\|Shut]], [[S/Shadow\|shadow]], [[S/Shade\|shade]] és [[S/Sétanta\|Sétanta]] neveknél is felhoztuk, hogy a fényelzárásnak kozmikus ([[A/Apocalypse\|apocalypse]]-szerű) előzménye lehetett. Érdekes még fény rövidrezárásával kapcsolatban [[S/Sut\|sut]] és [[S/Suta\|suta]] szavaink, valamint [[S/Sutúl\|sutúl]] igénk.  
-És hogy a kutyákat továbbra is képben tartsuk, [[C/Cuchulainn\|Cúchulainn]] ír kutya-hős fiatalkori Sètanta nevénél is a setét szót láttuk neve előtagjába, ahol még az is szóba került, hogy a perzsa `sutūh` jelentései mind a félelemmel, szomorúsággal kapcsolatosak, és a kutya szóval szinte azonos suta/sutúl szavakról az is elképzelhető, hogy a [[C/Circumcision\|circumcision]] = körülmetélés szavai is lehetettek az ősnyelvben (mindenesetre asztrális fogalmának megfelelne, tekintve, hogy a Dogonok a Szíriuszt a körülmetélés csillagának is hívták).  
+És hogy a kutyákat továbbra is képben tartsuk, [[C/Cuchulainn\|Cúchulainn]] ír kutya-hős fiatalkori Sètanta nevénél is a setét szót láttuk neve előtagjába, ahol még az is szóba került, hogy a perzsa `sutūh` jelentései mind a félelemmel, szomorúsággal kapcsolatosak, és a kutya szóval szinte azonos suta/sutúl szavakról az is elképzelhető, hogy a [[C/Circumcision\|circumcision]] = körülmetélés szavai is lehetettek az ősnyelvben (mindenesetre asztrális fogalmának megfelelne, tekintve, hogy a dogonok a Szíriuszt a körülmetélés csillagának is hívták).  
 
 [[O/Osiris és Set\|Osiris és Set]] (valamint [[S/Szíriusz és a medvék\|Szíriusz és a medvék]]) címnél is szerepelt:  
 A Hamlet Malmában is szó volt időháborúkról és In Search of the Cradle of Civilization – India című könyvükben Feuerstein, Kak és Frawley is leírják, hogy a mítoszok a korszakváltozásokra (a tavaszpont egyik jegyből a másikba ért) utalnak:  
@@ -261,7 +264,7 @@ A Hamlet Malmában is szó volt időháborúkról és In Search of the Cradle of
 >
 > Vedic mythology introduces Sunasepa as the adopted son of the sage [[V/Vishvamitra\|Vishvamitra]], who represents one of the stars of [[U/Ursa Maior\|Ursa Maior]]. This appears to point to a noteworthy conjunction of two stars. Sunasepa is the second of three brothers, who are given names that also mean "dog's tail." This suggests that, astronomically speaking, Sunasepa stands for the star Delta in Ursa Minor.  
 > —  
-> Úgy tűnik, hogy a régiek tisztában voltak a tavaszi napéjegyenlőség precessziójával, és igyekeztek igazságot tenni ennek az Orion-mitológiát a Bika-korszak, majd később a Kos-korszak szimbolikus nyelvére lefordítva.
+> Úgy tűnik, hogy a régiek tisztában voltak a tavaszi napéjegyenlőség precessziójával, és igyekeztek igazságot tenni ennek az Orion-mitológiát a Bika-korszak, majd később a Kos-korszak szimbolikus nyelvére lefordítva.  
 > Így az egyiptomi mitológia szerint Oziriszt ellenséges testvére, **Seth (Ursa Major)** ölte meg, az indiai mitológiában pedig Tvashtri Dyauspita és [[P/Prajapati\|Prajapati]] legkisebb fia, nevezetesen Indra vagy [[R/Rudra\|Rudra]] (Szíriusz). Prajapati halála Rudra kezétől jelzi a tavaszi napéjegyenlőség átmenetét az Orionból (vagy az állatövi Ikrekből) a Bikába.
 >
 > De Santillana és von Dechend hihetően állították, hogy a védikus isten [[A/Agni\|Agni]], akiről azt mondják, hogy a "legmagasabb égbolton" született, és akit három másik Agni előzött meg \[három meg egy az [[N/Négy\|négy]]\], **megjeleníti a Szíriusz heliákus felkelését a tavaszi napéjegyenlőségkor**. Megdönthetetlen bizonyíték van arra, amint azt e két tudós megjegyezte, hogy Agni és Soma[^13] ("a világ pólusainak ura") az ekvinoktiális kólurokat (az égi szféra két nagy körét, amelyek a pólusoknál metszik egymást) jelképezik. Különösen a Rig-Véda első könyvének úgynevezett [[S/Sunasepa\|Sunasepa]] himnuszaira mutattak rá, azonosítva Sunasepát [[C/Cynosure\|Cynosoura]]-val, a "kutya farkával", azaz az Ursa Minorral.
@@ -275,7 +278,7 @@ A Hamlet Malmában is szó volt időháborúkról és In Search of the Cradle of
 > —  
 > A felhívás a gonosz Set istenhez szól, akinek csillagfallosza az Orion csillagképben jelenik meg, hogy fékezze meg haragját.  
 - Jane B. Sellers, The Death of Gods in Ancient Egypt című könyvének adata szerint "száműzték" volna Orion helyére:  
-> Seth ... originally connected with the Hyades, the V-shaped, head-like part of our constellation, Taurus. As the brother of Osiris, his position in the sky was adjacent to Orion ... an important court decision gave the office of Osiris to Horus, and Seth was banished to a position bearing the 'southern' constellation of Orion...
+> Seth ... originally connected with the Hyades, the V-shaped, head-like part of our constellation, Taurus. As the brother of Osiris, his position in the sky was adjacent to Orion ... an important court decision gave the office of Osiris to Horus, and Seth was banished to a position bearing the 'southern' constellation of Orion...  
 > —  
 > Seth ... eredetileg a Hyadokhoz, a Bika csillagképünk V alakú, fejszerű részéhez kapcsolódott. Mint Ozirisz testvére, az égbolton az Orion szomszédságában helyezkedett el ... egy fontos bírósági döntés Ozirisz hivatalát Hórusznak adta, és Széthet száműzték az Orion "déli" csillagképét hordozó pozícióba...
 - A Hyades-ben lévő [[A/Aldebaran\|Aldebaran]]nal való azonosítás másutt is mintha előjött volna már valahol.  
