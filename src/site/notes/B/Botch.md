@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Botch/","title":"Botch","tags":["formatlooksokayonsmallerfiles"]}
+{"dg-publish":true,"permalink":"/B/Botch/","title":"Botch","tags":["dg_uploaded"],"created":"2023-11-06T02:09","updated":"2023-11-06T02:09"}
 ---
 
 
