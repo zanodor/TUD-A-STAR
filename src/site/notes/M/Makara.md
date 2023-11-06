@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2023-10-29T08:34"}
+{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2023-11-06T01:05"}
 ---
 
 
@@ -57,14 +57,14 @@ A Constellations oldal szerzője, az RHA Star Names című könyvének adatait f
 - A Shahu név a [[S/Sah\|Sahu]]-nak megfelelő lehet: fej, fő jelentéssel.  
 
 Másutt asszír-babiloni `mahar` = fiú (Son, azaz Sun) értelmet találtam, megint másutt `mahar` = (tanú) jelenlétében, ill. előtt. Ez hasonló a más nyelvekben talált, lentebb is említett 'újra', 'visszatér' fogalmaihoz, és visszavihető [[M/Magor\|Magor]] (újbóli) megszületésére, hol: a Bak Magur/Makar(a) nevével is fémjelzett téridőbeli helyen.  
-Másutt az asszír `mahar` = szembenállni, rivalizálni értelmét találom (honnan lehet [[N/Nimrud\|Nimrud]] nevet magyarázni akaró héber `marad` = lázad ige is akár), melyekhez hasonló, rettegést kifejező szavakat HCSF gyűjtött (lásd [[M/Magyar\|magyar]]) és akár az M-G-R vázú [[L/Lemniszkáta\|lemniszkáta]] kapcsán is taglalt, alant is sorolt finnugor szavak párja is lehet (Magor ellenpárja Hunor).  
+Másutt az asszír `mahar` = szemben állni, rivalizálni értelmét találom (honnan lehet [[N/Nimrud\|Nimrud]] nevet magyarázni akaró héber `marad` = lázad ige is akár), melyekhez hasonló, rettegést kifejező szavakat HCSF gyűjtött (lásd [[M/Magyar\|magyar]]) és akár az M-G-R vázú [[L/Lemniszkáta\|lemniszkáta]] kapcsán is taglalt, alant is sorolt finnugor szavak párja is lehet (Magor ellenpárja Hunor).  
 Ha ez érdekes lehet. Hogy szerepelt [[K/Kazár\|kazár]] címnél?  
 > Medriczky A. dr. szóbeli közlése szerint pedig a `kadzar` és a `madzar` szavak az oszét nyelvben ma is ellentétes értelmet fejeznek ki.  
 
-#### Czeglédi Katalin több helyen idézett, A keleti magyar sezserék nyelvi tanulságai...
+#### Czeglédi Katalin A keleti magyar sezserék nyelvi tanulságai...
 
-...című az Ősi Gyökér 2007/4. sz. megjelent cikkében írja ([[M/Magyar\|magyar]] címnél nagyrészt ugyanez megvolt):  
-> Figyelemre méltó az or. siska (HADROVICS-GÁLDI 1951) címnél a mondás: на бедного Макара все шишки валятся: 'Szegény embert még az ág is húzza', ahol **az ember szóra az orosz szövegben Makar/Makara szerepel**. Az ág pedig 'a kiindulás, az eredet helye' értelmű (Czeglédi Katalin szerint).  
+...című az Ősi Gyökér 2007/4. sz. megjelent, több helyen idézett cikkében írja ([[M/Magyar\|magyar]] címnél nagyrészt ugyanez megvolt):  
+> Figyelemre méltó az or. siska (HADROVICS-GÁLDI 1951) címnél a mondás: на бедного Макара все шишки валятся: 'Szegény embert még az ág is húzza', ahol **az ember szóra az orosz szövegben Makar/Makara szerepel**. Az ág pedig 'a kiindulás, az eredet helye' értelmű \[Czeglédi szerint\].  
 
 Ág itt nyilván az agancson keresztül a szarvasra ([[M/Magor\|Magor]] a [[S/Szarvas csillagkép\|Szarvas csillagkép]]ben születik, ami Bak ma) utal, illetve lásd még [[P/Perennial\|perennial]] és [[Z/Zodiac\|zodiac]] címnél írottakat.  
 
@@ -96,7 +96,7 @@ A [[T/Turul#Turul és Csudaszarvas\|Turul és Csudaszarvas]] cím/alcímnél el�
 
 Eszembe jutott közben az is, hogy az akkád Magur/Makar nevek a Bak-Úr formának is megfelelnek (M>B) és Bak-nak [[B/BOK\|Bok]]/[[B/BOG\|Bog]]-ként és [[M/MAG\|Mag]]-nak is azért is lehet Fiú jelentése, mert valóban ekkor születik a Nap (Magor), de az M-K-R és B-K-R vázú szavak (ahogy [[K/Khamor\|Khamor]] címnél, külön alcímnél erről volt szó) is ezért kapcsolhatók az ív, íj és görbe ember/figura jelentésekhez.  
 
-A Bullinger adatokkal dolgozó Huszárik László Denderai csillagképek, hónapok és mítoszok című a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXXIII./10. sz. megjelent cikkében is említi a denderai zodiákusbeli, de kopt nyelvűként közölt Pimacre nevet Nyilas csillagképre elegancia jelentéssel, de Macre lehet megint Makar.  
+A Bullinger adatokkal dolgozó Huszárik László Denderai csillagképek, hónapok és mítoszok című a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXXIII./10. sz. megjelent cikkében is említi a denderai zodiákusbeli, de kopt nyelvűként közölt Pimacre nevet Nyilas csillagképre elegancia jelentéssel, de a Macre elem lehet megint Makar (mert a Pi- előrésznek meghatározott jelentése van).  
 
 Fentebb mondám, hogy de jó lenne egy ind csillagtérkép. Nos, a sumér-akkád csillagképek kapcsán Gavin White azt mondja ([[S/Szarvas\|szarvas]] és [[S/Suhurmasku\|Suhurmasku]] címnél), hogy a Kecskebakhal *felett* volt egy Szarvas csillagzat...  
 
@@ -113,7 +113,7 @@ De maradjunk a krokodilnál. Ugyanis Edward P. Butler, aki igen profin összeál
 > Note S1.7. It's remarkable that the Maya called the dark rift in the Milky Way to which the 2012 Winter Solstice Sun will align the 'Mouth of the Crocodile' or the 'Jaguar Toad'. This then may be no coincidence! Both Vedic and Maya cosmology may be referring to the same event using the same symbol of the crocodile to define the GCC. According to Jenkins the Maya defined this point as the moment that the Sun enters the mouth of the Crocodile (dark rift in the Milky Way), while in Vedic astrology this moment is connected with the alignment of sign MAKARA (Capricorn) with the Winter Solstice.  
 > (See also www.diagnosis2012.co.uk/1.htm and www.diagnosis2012.co.uk/jmj.htm).  
 > —  
-> Indiában és Egyiptomban ezek a Dhyanisok a Krokodilhoz kapcsolódtak, és lakóhelyük a Bakban van. Ezek **átalakítható kifejezések** az indiai asztrológiában, mivel az állatöv ezen (tizedik) jegyét Makarának hívják, ami szabad fordításban "Krokodil". Magát a szót okkult módon többféleképpen is értelmezik ...\[2, V.1, S.219\]  
+> Indiában és Egyiptomban ezek a Dhyanisok a Krokodilhoz kapcsolódtak, és lakóhelyük a Bakban van. Ezek **csereszabatos kifejezések** az indiai asztrológiában, mivel az állatöv ezen (tizedik) jegyét Makarának hívják, ami szabad fordításban "Krokodil". Magát a szót okkult módon többféleképpen is értelmezik ...\[2, V.1, S.219\]  
 > Ennek az egyiptomi vallási jelképnek a valódi, bár rejtett jelentésére az egyik magyarázat egyszerű. A krokodil az első, aki várja a hajnali nap emésztő tüzét, és találkozik vele, és nagyon hamar a napmeleg megszemélyesítőjévé vált. Amikor a nap felkelt, az olyan volt, mint "az isteni lélek megérkezése a földre és az emberek közé, amely tájékoztatja az isteneket". Innen a különös szimbolika. A múmia egy krokodil fejét öltötte magára, hogy jelezze, hogy a földről érkező lélekről van szó.  
 > A krokodil az egyiptomi sárkány. Ez volt az ÉG és a FÖLD KETTŐS SZIMBÓLUMA; ... az egyiptomiak a Napot egy hajóban, mint annak kormányosát ábrázolták, ezt a hajót egy krokodil vitte magával, "hogy a NAP MOZGÁSÁT mutassa a moystban (a TÉRBEN)". Ezenkívül ez volt Egyiptom jelképe is \[2, V.1, S.409\].  
 > S1.7. megjegyzés. Figyelemre méltó, hogy a maják a Tejútrendszerben lévő sötét hasadékot, amelyhez a 2012-es téli napforduló Napja igazodik, a "Krokodil szájának" vagy a "Jaguár varangynak" nevezték. Ez tehát nem lehet véletlen! A védikus és a maja kozmológia is ugyanarra az eseményre utalhat, ugyanazt a krokodil szimbólumot használva az [[G/Galactic centre\|Tejútközpont]] meghatározására. Jenkins szerint a maják ezt a pontot úgy határozták meg, mint azt a pillanatot, amikor a Nap belép a Krokodil szájába (sötét hasadék a Tejútrendszerben), míg a védikus asztrológiában ez a pillanat a MAKARA (Bak) jegy és a téli napforduló összehangolásához kapcsolódik.  { #hzurgv}
