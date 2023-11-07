@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mithra/","title":"Mithra","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-07T05:29","updated":"2023-11-07T05:29"}
+{"dg-publish":true,"permalink":"/M/Mithra/","title":"Mithra","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-07T05:29","updated":"2023-11-07T05:46"}
 ---
 
 
@@ -48,16 +48,14 @@ Még azt is mondhatjuk ezennel, hogy úgy a germán [[H/Hang#Hang 2)\|hang]] ige
 A szavak arról árulkodnak, hogy a Nap égi pályáján azon pontra ér, amikor haldoklik, majd feltámad. Ezért is fontosak az RHA által eufráteszinek adatolt, [[A/Anu\|Anu]] címnél említett Anu Nibat (a Sagittarius alfája lenne), az ind Anuradha és a tukanó Aña nevei, de tovább mehetünk az [[A/Annual\|annual]] és [[J/Janus\|Janus]] címnél előjövő szóformákkal is, melyek mind arra utalnak, hogy az év vége (halál) és az újév (feltámadás) jelzőhatárához érkezünk. [[O/Ötven\|Ötven]], [[H/Hekate\|Hekate]], [[T/Trivial\|trivial]] és más címnél szereplő adatok alapján lassan elegendő adat áll rendelkezésre egyszer és mindenkorra helyre tenni a dolgokat.  
 
 Joscelyn Godwin Arktos The Polar Myth című könyvének 162. oldalán lévő adata szerint a zoroasztianizmusban Mithra megjelenik poláris istenként, minthogy ([[A/Apolló\|Apollón]]hoz és [[A/Arthur\|Arthur]]hoz hasonlóan szoláris de hyperboreai-poláris istenként) az iráni Hara Albordzs [[V/Világhegy\|Világhegy]]en, illetve a felett lakik.  
-
-Ehhez annyit, hogy JM adatai szerint a [[N/Nap – halott Nap\|Nap – halott Nap]] (de innen feltámadó is!) lakóhelyének képzeltetett az északi Sarkcsillag. Mithra viszont nem halottt Nap, hanem épp a feltámadó, fiatal Nap kell legyen.
-
+- Ehhez annyit, hogy JM adatai szerint a [[N/Nap – halott Nap\|Nap – halott Nap]] (de innen feltámadó is!) lakóhelyének képzeltetett az északi Sarkcsillag. Mithra viszont nem halottt Nap, hanem épp a feltámadó, fiatal Nap kell legyen.  <br/>
 Az tény, hogy (főleg a hanyatló tudású népek számára) kellett egy olyan isten is, aki a Föld tengelyforgásáért felelős, mely forgás valóban független a Nap körül végzett forgásunktól. Ha egyáltalán a lehanyatlott tudású népek tudták-e, hogy valójában nem a Nap kering a Föld körül, hanem fordítva. Rengeteg problémát okoz, hogy a hanyatlott tudású népek adatai alapján és az azt értelmező indo-európai kutatók alapján kell okosnak lennünk. Ezért kell mindig a nevek jelentése és a feltételezett eredeti funkciójuk alapján magunknak (magyar kutatóknak) mindent újraértelmezni, helyre tenni.  
 Amennyiben Mithrában tehát a szuperkozmikus, mindenféle világtengelyek hajtásáért felelős Sarkcsillag felett lakó Istent látják, mint a Teremtő (Ten) Isten (egyik megnyilvánulásá)t, ám legyen, de ő – dualisztikus világképben csak az egyik szereplő, így szükségszerűen együtt kell említeni másik társával, aki, ha igaz, Varuna.  
 
 Polaritását úgy (is) képzelik el, hogy a halál után a lélek a bolygók hét szféráján túljutva a nyolcadikban a Sarkcsillaghoz, Mithrához(?) ér. Erről JM is írt: lásd [[S/Sphere\|sphere]].  
 Mithra tehát egyre inkább (nem [[S/Széth\|Széth]]hez hanem) [[O/Ozirisz\|Ozirisz]]hez hasonítható alak, és arra utal, hogy a megszületésével a precessziós 26000 év világosabbik felét hozza el. [[M/Mithra és a bika\|Mithra és a bika]] történetében viszont egyszerű korszakváltást hoz, de akkor nem tudhatták, hogy minden csak rosszabb lesz.  
 Ozirisszel való hasonlítása azért is ülni látszik, mert, mint alant látjuk, mindketten kapcsolatba hozattak [[O/Orion\|Orion]]nal is. Ugyan a [[N/Nap – halott Nap\|Nap – halott Nap]] címnél is szerepelt, hogy Ozirisz a halott Napot személyesíti meg, valójában a feltámadó Napot is érteni kell alatta. Épp ezt jelenti Mithra neve is: Fiatal (Csecsemő) Nap (aki ráadásul Jézushoz hasonlóan születik, még időben előtte).  
-Ugyanakkor itt ellentmondás van. [[H/Hunor és Magor#Hunor és Magor azaz inkább hunok és magyarok életköri szerepeinek ellentmondásai\|Hunor és Magor azaz inkább hunok és magyarok életköri szerepeinek ellentmondásai]] cím/alcímnél is írtuk:  
+- Ugyanakkor itt ellentmondás van. [[H/Hunor és Magor#Hunor és Magor azaz inkább hunok és magyarok életköri szerepeinek ellentmondásai\|Hunor és Magor azaz inkább hunok és magyarok életköri szerepeinek ellentmondásai]] cím/alcímnél is írtuk:  
 A Fiatal Nap jelentésű, Jézushoz hasonlóan barlangban, a téli napfordulón születő Mithra (akár mint Mithrász) csillag(kép)teste hogy lehet Orion? (És akkor ne feledjük a [[N/Nap#Nap és Orion\|Nap és Orion]] cím/alcímnél írottakat sem.)  
 
 Ahogy JM is írja:  
@@ -86,7 +84,7 @@ Tóth István ókortörténész írja Mithras, a misztériumok istene című dol
 - Lásd Tóth István szövégének folytatását [[M/Mithra és a bika\|Mithra és a bika]], ahol kiderül, hogy olyannyira nincsenek tisztában Mithra kilétével (ilyen néven szerepeltek még[^4]), hogy egyenesen vallásalapító prófétának hiszi(k)!  
 
 Neve a babiloni [[M/Marduk\|Marduk]]éhoz hasonlóan (Mit/MISZ-Ra felbontás illetve PJI alapadatai alapján) Fiatal Nap. (Az Avesztában napszakra értve így logikusan a reggelt[^5] személyesíti meg, míg a délutánért – állítólag – [[A/Apam Napat\|Apam Napat]] "felelős," de mivel Apam Napat inkább [[O/Orion\|Orion]] és Mithra párja [[V/Varuna\|Varuna]], ezért itt nagy a kuszaság.)  
-A reggeli Nap szerepköre mellett szól JM sora:  
+- A reggeli Nap szerepköre mellett szól JM sora:  
 > Avesztai jelzője "saját fénnyel telt", "ragyogó", "sohasem alvó". Úgy tartották, együtt jár a Nappal, pontosabban szólva, már a Nap előtt fenn van az égen (a védikus szövegekben ő kelti a Napot), és csak a Nap után tér nyugovóra.  
 
 Új, [[M/MISZ\|MISZ]]-nél taglalt információk szerint szabályos SZ>T változással MIT is fehér, fényes, stb. jelentéseket takar, mely szépen összevágni látszik a reggeli, dél felé, azaz ereje teljébe tartó Nap minőségének deskripciójával.  
@@ -108,8 +106,7 @@ Walter Cruttenden írja:
 > According to Michael S. Heiser, a [[C/Cuneiform\|cuneiform]] scholar of the highest magnitude, the Sumerians said the celestial object "Nibiru" drove precession.  
 > —  
 > Michael S. Heiser, a legnagyobb nagyságrendű ékírás tudós szerint a sumérok szerint a "Nibiru" nevű égi objektum vezérelte a precessziót.  
-- Ez a Heiser nem (vagy csak kezdetben?) volt [[S/Sitchin, Zecharia\|Sitchin, Zecharia]]-követő; ő volt az, aki tézisét támadta: lásd [[N/Nibiru\|Nibiru]]; ahol arról is szó esik, hogy nem igazán objektumról van szó.  
-
+- Ez a Heiser nem (vagy csak kezdetben?) volt [[S/Sitchin, Zecharia\|Sitchin, Zecharia]]-követő; ő volt az, aki tézisét támadta: lásd [[N/Nibiru\|Nibiru]]; ahol arról is szó esik, hogy nem igazán objektumról van szó.  <br/>
 Nem győzöm azt sem hangsúlyozni, hogy egy 120 éves perzsa-angol szótárban olyan természetességgel áll dog címnél a Szíriusz és maga Sirius címnél is a helyén, mintha csak egy perzsa fűszer neve lenne! (Lásd képecskéket róla [[S/Szíriusz Iránban\|Szíriusz Iránban]].) 
 
 #### Karcagi Oláh Imre Külföldi és magyar írók a magyar mitológiáról...
