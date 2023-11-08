@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Széth/"}
+{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["dg_uploaded"],"created":"2023-10-16T01:30","updated":"2023-11-08T01:42"}
 ---
 
 
@@ -16,7 +16,7 @@ Az [alábbi](https://youtu.be/umyX-ZHVKgA) ÁKTV műsorban 1:29:25-nél KT azt m
 - Kilenc [[N/Neteru\|Neteru]]-ról lásd ott.  
 
 A könyv 279. oldalán is érdekes dolgokat ír. Például:  
-> A zavaros állapotok után Séth az új rendet szolgálta. Tudomásul vette, hogy a világegyetem szabályozadan erői lettek az urak. A mozgásba jött új renddel a létezés követelményeiből eredően segítette fönntartani[^1] azt. Az Oziris fesztiválokon ezek után Séth volt a hajón a kapitány, amely vitte Oziris képmását végig a Níluson. Vitte a Napot, az éjszaka vizes mélységein keresztül.  
+> A zavaros állapotok után Séth az új rendet szolgálta. Tudomásul vette, hogy a világegyetem szabályozatlan erői lettek az urak. A mozgásba jött új renddel a létezés követelményeiből eredően segítette fönntartani[^1] azt. Az Oziris fesztiválokon ezek után Séth volt a hajón a kapitány, amely vitte Oziris képmását végig a Níluson. Vitte a Napot, az éjszaka vizes mélységein keresztül.  
 
 A mellékelt kép(en, ahol **Sít** nevűnek adatolt) Archibald Henry Sayce, Gaston Maspero – The Dawn of Civilization – Egypt and Chaldæa című könyvük 133. oldaláról való.  
 ![assets/Széth_image1.png](/img/user/S/assets/Sz%C3%A9th_image1.png)  
