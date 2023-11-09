@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Venue/","title":"Venue","tags":["dg_uploaded"],"created":"2023-11-10T12:18","updated":"2023-11-10T12:18"}
+{"dg-publish":true,"permalink":"/V/Venue/","title":"Venue","tags":["dg_uploaded"],"created":"2023-11-10T12:18","updated":"2023-11-10T12:21"}
 ---
 
 
@@ -15,7 +15,7 @@ Az indo-európai nyelvek más jönni jelentésű szavait is ezen megállapított
 > Mendegél igénk pannon megfelelője, illetve párhuzama: vándolni volt; ebből [[V/Vándor\|vándor]] és vándorolni, német `wandeln` = vándorolni, latin `venire` = jönni de amely szónak menni értelme is van, úgyhogy a latin-olasz `ventus`, `vento` = szél szót is a haladás-, futás-, menéssel kell összevetnünk, ugyanúgy mint a magyar szél szót a szaladással.  
 
 Továbbá:  
-> Föltűnő a pannonok vend, venéd, venét nevének a vándor, vándorlás, és az itt alább még fölhozandó szavakkal, egyezése, de amely vándorlás szó megvan a németben is, ahol `wandern` = vándorolni, wandeln pedig jelent ide-oda bolyongást is. Amely szavak arra mutatnak, hogy a vend névnek is ugyanúgy volt vándor értelme mint a palóc azaz pelazg névnek is és aminthogy a görögben plane bolyongást jelent, csakhogy míg emez inkább szárazföldönit, a szóban levő vánd- vend-, vent- szó ellenben valamikor, eredetileg, inkább a hajóval, tengerekeni bolyongást jelentette.  
+> Föltűnő a pannonok vend, venéd, venét nevének a vándor, vándorlás, és az itt alább még fölhozandó szavakkal, egyezése, de amely vándorlás szó megvan a németben is, ahol `wandern` = vándorolni, wandeln pedig jelent ide-oda bolyongást is. Amely szavak arra mutatnak, hogy a vend névnek is ugyanúgy volt vándor értelme mint a palóc azaz [[P/Pelaszg\|pelazg]] névnek is és aminthogy a görögben `plane` bolyongást jelent, csakhogy míg emez inkább szárazföldönit, a szóban levő vánd- vend-, vent- szó ellenben valamikor, eredetileg, inkább a hajóval, tengerekeni bolyongást jelentette.  
 
 Másutt:  
 > A vánd-, vend- szótő hajózás értelmű is lehetett. Tény, hogy az olaszban ma is a `ventura` szónak van ide-oda bolyongás, kalandozás értelme is, míg `venturlero` = kalandor. De a vitorlázással is kapcsolatban hozandó föl a latin-olasz `ventus`, `vento`, német \[és angol\] [[W/Wind\|Wind]] = szél szó.  
