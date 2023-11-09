@@ -122,7 +122,7 @@ A Nap nevei, de legalábbis hímségi értelmű szavak szerepelnek a kér és ka
 
 [Ezen](http://weekly.ahram.org.eg/2004/672/profile.htm) oldal adata szerint az óegyiptomi és arab `samir` = barát (`shamir` pedig a héberben); ez a Szem-Úr, Nap Úr értelmű összetétel olyan, mint a barát: a Nap a legfőbb (egyetlen) barátunk.  
 De az [ezen](https://en.wikipedia.org/wiki/Mitra) oldalon említett szanszkrit és indo-árja `mitra` = barát is Napnévből ([[M/Mithra\|Mithra]]) ered és a koreai `csingu` = barát is érthető.  
-Az ónorvég `vinr`, izlandi `vinur` = barát is így Fény-Úr-ként hasonlóan épül fel (hasonló a [[W/Wing\|wing]] eredetije). (Kicsit emlékeztet a város [[V/Vendég\|vendég]] szóalkotására).  
+Az ónorvég `vinr`, izlandi `vinur` = barát is így Fény-Úr-ként hasonlóan épül fel (hasonló a [[W/Wing\|wing]] eredetije). (Kicsit emlékeztet a [[V/Vendég\|vendég]] szóalkotására).  
 Vladimir Ivanovich Dal orosz értelmező szótárának adata szerint az orosz `konak`[^2] = `kunak` = az ázsiai országokban barát, elvtárs jelentésű (oroszban tehát jövevényszó); ezen szóban is Kun (vagy Kon) = Nap.  
 
 Alakjára nézve hasonló még a [[Z/Zsarát\|zsarát]].  
