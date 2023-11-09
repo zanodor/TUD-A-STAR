@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/B/Balta/","title":"Balta","tags":["dg_uploaded"],"created":"2023-11-09T04:42","updated":"2023-11-09T04:42"}
+{"dg-publish":true,"permalink":"/B/Balta/","title":"Balta","tags":["dg_uploaded"],"created":"2023-11-09T04:42","updated":"2023-11-09T11:17"}
 ---
 
 
 # Balta
 
 Mint hímségi fegyver, nem lepődünk meg, hogy a Bál-Ta felbontásban előtagja Nap(Isten)név. Az ilyen szóösszetételekben az utótag általában "földreleképező." Bál-Ta a Nap Tája. Hasonlóan képeztük le [[P/Plate\|plate]] szót is (ott a Nap kereksége veendő számításba).  
+
+Ugyanakkor sokkal több értelme lenne a Bal-Ata formában gondolkodni, annál is inkább, mert a Nap-Atya értelmű összetétel másutt is előfordul: lásd (avar-hun változatát) Bar-Ata > [[B/Bárd\|bárd]] (szintén balta féle eszköz/fegyver), továbbá a Nap-Ata a [[N/Nabateus\|nabateus]] és [[N/Napoca\|Napoca]] névben is megtalálható (továbbá [[A/Apam Napat\|Apam Napat]] nevében is).  
 
 #### Götz László Keleten kél a Nap...
 
@@ -23,6 +25,6 @@ Pap Gábor művészettörténész Icai fekete kövek rejtélye című három ré
 
 Lett nyelven `baltā` (nőnem), `baltais` (hímnem) fehér embert (kaukázusit) jelent (`balts` jelent általán fehéret). Mit is mondhatna egy balti nép szülöttje. Litvánul `balta` = fehér.  
 
-Lényegében a palóc Napisten Balota (Bál-Atya) nevét kell felfedezni a balta, az alaki változatának tekinthető [[P/Pálca\|pálca]] és [[P/Plate\|plate]], valamint a baszk/spanyol `pelota` nevekben. [[P/Palóc\|Palóc]] maga is lehet Pal-Ata, de ilyen hasonló nevek még palota ([[P/Palace\|palace]]) és akár a pilóta ([[P/Pilot\|pilot]]) is.  
+Lényegében a palóc Napisten **Balota** (Bál-Atya) nevét kell felfedezni a balta, az alaki változatának tekinthető [[P/Pálca\|pálca]] és [[P/Plate\|plate]], valamint a baszk/spanyol `pelota` nevekben. [[P/Palóc\|Palóc]] maga is lehet Pal-Ata, de ilyen hasonló nevek még [[P/Palace\|palota]] és akár a [[P/Pilot\|pilóta]] is.  
 
 [[B/Boldizsár\|Boldizsár]] Balthazár eredeti formájában is szerepel Bal(o)ta.  

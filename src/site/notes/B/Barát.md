@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["dg_uploaded"],"created":"2023-10-31T06:45","updated":"2023-11-06T03:25"}
+{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-31T06:45","updated":"2023-11-09T11:23"}
 ---
 
 
@@ -84,7 +84,7 @@ A másutt már említett indonéz és maláj `barat` = nyugat Nyugat-Pápua indo
 A [[P/Parád\|Parád]] név Par-Ad felbontásban az Atya Házát jelenti ugye. Figyeljük meg, a Barát név egy az egyben megfelel neki. Bar-At, Bar-Ata viszont a Nap Atyára utaló név, míg Paradicsom ([[P/Paradise\|Paradise]]) alatt inkább az eget/mennyet (mennyországot) értjük. Na most, nem-e arról van szó, hogy itt az avar-hunok által terjeszett [[N/Napvallás\|Napvallás]]ban már a Napban tiszelték magát istent és a lakhelyére utaló név (paradicsom) is arra utal? Vagy csak a [[P/Parázs\|parázs]] (Par-Ad-nak megfelel a parázs, ahonnan az arab `faraz` = (kanca)ló szó is ered és a [[P/Párd\|párd]] fogalma is) Isten Háza fogalmát kell itt keresni? Akárhogy is, az avar-hunok nyelve és Naptisztelete illetve vallási befolyásuk az, amely a mai világot oly negatívan meghatározza (árják, angolszászok és arabok-héberek befolyása). Erről [[S/Szemiták és árják\|szemiták és árják]], valamint [[M/Magyar és hun utódnépek vallásszakadása\|magyar és hun utódnépek vallásszakadása]] címnél is megkezdődtek az írások.  
 
 A barát szót [ezen](https://qr.ae/pNsjGC) Quora cikkbe is felírtam, továbbá, hogy az avarból lett germán törzsek a Bar-Ata névből nemcsak a [[B/Britain\|Britain]], hanem a [[B/Bird\|bird]], [[B/Beard\|beard]], [[B/Bread\|bread]], stb. szavakat is megalkották (bird Nap- ill. tűzmadár és a szakáll Napsugár-jelkép, stb.):  
-> We have some linguistic data to show that these Avaric Huns, who were none other than the so-called Cush people, when they switched to Sun worship, were the main force from Egypt all the way up to Northern India, called **Barata** in Sanskrit, after the name of the Sun, which was Bar-Ata (Sun-Father) in Avar Hunnic.  
+> We have some linguistic data to show that these Avaric Huns, who were none other than the so-called Cush people, when they switched to Sun worship, were the main force from Egypt all the way up to Northern India, called **Bharata** in Sanskrit, after the name of the Sun, which was Bar-Ata (Sun-Father) in Avar Hunnic.  
 > We have this name in Magyar as well, as `barát`, meaning friend. The Sun is your only friend, the only friend that will never let you down (that is, from the perspective of Mother Earth and her inhabitants): He will always, without charging you anything, or taking anything in return, cast his benevolent light and warmth on us: it is this warmth you want to find in a true friend, who also shines his light on the truth (no matter how you don't like it); thus Magyar barát is a symbolic word, like thousands more, the products of old star and Sun religions, coming in from different layers through the past millennia.  
 > The later Germanic tribes took this name and formulated some of their most important words from it, like the following:  
 > - `bird` (Sun bird, fire bird, that's why the word `fire` is similarly based consonant-wise (compare also Magyar `pír`); friend is also similar, and fair and first) (all words would merit a thorough examination but not here);  
@@ -93,7 +93,7 @@ A barát szót [ezen](https://qr.ae/pNsjGC) Quora cikkbe is felírtam, továbbá
 > - `burn` also has the B-R consonant base;  
 > - the names **Britain** and **Bretagne** come (not from India per se, but) from the expression Bar-At-On or Bar-At-An (Father Sun in the Sky; from Hunnic `an` comes `one` as well; the Magyar word for sky also yields the number one (`ég` > `egy`); this means that they had monotheistic religions and it's not the Jews who came up with that; the Sun was looked upon as Son, as the noun forms show: `Sun` = `son`).  
 > —  
-> Van néhány nyelvészeti adatunk arra, hogy ezek az avar hunok – akik nem voltak mások, mint az úgynevezett kus nép, kik, mikor átálltak a Nap imádására, és lettek Egyiptomtól egészen Észak-Indiáig fő meghatározó ereje –, területük nevét szanszkritul **Barata**-nak hívták, a Nap neve után, ami az avar hunoknál Bar-Ata (Nap-apa) volt.  
+> Van néhány nyelvészeti adatunk arra, hogy ezek az avar hunok – akik nem voltak mások, mint az úgynevezett kus nép, kik, mikor átálltak a Nap imádására, és lettek Egyiptomtól egészen Észak-Indiáig fő meghatározó ereje –, területük nevét szanszkritul **Bharatá**nak hívták, a Nap neve után, ami az avar hunoknál Bar-Ata (Nap-apa) volt.  
 > Nálunk ez a név a magyarban is megvan, `barát` néven, ami barátot jelent. A Nap az egyetlen barátod, az egyetlen barát, aki soha nem hagy cserben (mármint a Földanya és lakói szempontjából): Ő mindig, anélkül, hogy bármit is kérne tőled, vagy bármit is elvinne cserébe, ránk szórja jóindulatú fényét és melegségét: ezt a melegséget akarod megtalálni egy igaz barátban, aki az igazságra is rávilágít (bármennyire nem tetszik is neked); a magyar barát tehát szimbolikus szó, mint még ezer más szó, a régi csillag- és napvallások termékei, amelyek az elmúlt évezredek során különböző rétegekből érkeztek be.  
 > A későbbi germán törzsek átvették ezt a nevet, és ebből fogalmazták meg legfontosabb szavaik egy részét, mint például a következőket:
 > - `bird` (Napmadár, tűzmadár, ezért a `fire` szó mássalhangzóilag hasonló alapú (vö. magyar `pír` is); barát is hasonló, és szép és első) (minden szó megérne egy alapos vizsgálatot, de itt nem);
@@ -101,6 +101,8 @@ A barát szót [ezen](https://qr.ae/pNsjGC) Quora cikkbe is felírtam, továbbá
 > - `beard` (a haj a napsugarakat jelképezi);
 > - `burn` szintén a B-R mássalhangzó alapja;
 > - a **Britannia** és **Bretagne** nevek (nem önmagában Indiából származnak, hanem) a Bar-At-On vagy Bar-At-An (Atya Nap az égen; a hun `an`-ból származik az `one` is; a magyar ég szóból is az egy számnév származik (`ég` > `egy`); ez azt jelenti, hogy egyistenhitű vallásaik voltak, és ezt nem a zsidók találták ki; a Napra Fiúként tekintettek, ahogy a főnévi alakok mutatják: `Sun` = `son`).  
+- Kimaradt innen a balta r-hangos változataként számon tartható [[B/Bárd\|bárd]].  
+A szanszkrit pedig csak a feljegyző nyelv, és nem is napistent jelent a név (a névadók nem szanszkrit nyelven beszéltek).
 
 A fentiek írása idején még nem ismertem a [[N/Newton kő\|Newton kő]] címnél is említett L. A. Waddell The Phoenician Origin of Britons, Scots & Anglo-Saxons (1924) című könyvét, melyben **Barat** föníciaiként kerül bemutatásra.  
 
@@ -120,7 +122,7 @@ A Nap nevei, de legalábbis hímségi értelmű szavak szerepelnek a kér és ka
 
 [Ezen](http://weekly.ahram.org.eg/2004/672/profile.htm) oldal adata szerint az óegyiptomi és arab `samir` = barát (`shamir` pedig a héberben); ez a Szem-Úr, Nap Úr értelmű összetétel olyan, mint a barát: a Nap a legfőbb (egyetlen) barátunk.  
 De az [ezen](https://en.wikipedia.org/wiki/Mitra) oldalon említett szanszkrit és indo-árja `mitra` = barát is Napnévből ([[M/Mithra\|Mithra]]) ered és a koreai `csingu` = barát is érthető.  
-Az ónorvég `vinr`, izlandi `vinur` = barát is így Fény-Úr-ként hasonlóan épül fel (hasonló a [[W/Wing\|wing]] eredetije).  
+Az ónorvég `vinr`, izlandi `vinur` = barát is így Fény-Úr-ként hasonlóan épül fel (hasonló a [[W/Wing\|wing]] eredetije). (Kicsit emlékeztet a [[V/Vendég\|vendég]] szóalkotására).  
 Vladimir Ivanovich Dal orosz értelmező szótárának adata szerint az orosz `konak`[^2] = `kunak` = az ázsiai országokban barát, elvtárs jelentésű (oroszban tehát jövevényszó); ezen szóban is Kun (vagy Kon) = Nap.  
 
 Alakjára nézve hasonló még a [[Z/Zsarát\|zsarát]].  
