@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Perro/","title":"Perro","tags":["dg_uploaded"],"created":"2023-10-26T02:46","updated":"2023-10-26T02:48"}
+{"dg-publish":true,"permalink":"/P/Perro/","title":"Perro","tags":["dg_uploaded"],"created":"2023-10-26T02:46","updated":"2023-11-09T07:10"}
 ---
 
 
@@ -8,7 +8,7 @@
 Spanyolul [[K/Kutya\|kutya]], nőneme `perra` = szuka (nőre, szajhára is használt). Ismeretlen eredetűnek vélik, holott ha nagyon akarnák latin eredetre visszavezetni, alkalmas lenne a [[F/Feral\|feral]] címnél taglalt latin `fera` = vadállat szó.  
 
 [[P/Prick\|Prick]] szónál is szóba hoztuk a spanyol szót. Mivel az [[F/Farok\|farok]] szavunkból ered, rövidre zárhatnánk az ittenieket azzal, hogy ezen szavunk előrészét viheti tovább, de elemezzük másképpen is.  
-Mivel asztrális kutyát kell benne látni, Per-Ro, Per-Ra felhontásban Nap Háza értelmű és rokon a [[B/Barát\|barát]] szavunkkal, mely szerint is tellurisan az ember legjobb, leghűségesebb barátja.  
+Mivel asztrális kutyát kell benne látni, Per-Ro, Per-Ra felbontásban Nap Háza értelmű és rokon a [[B/Barát\|barát]] szavunkkal, mely szerint is tellurisan az ember legjobb, leghűségesebb barátja.  
 A kutyát (is) jelentő [[S/Saka\|saka]] név is a Fény Háza értelemmel bír. De lényegében nem dőreség [[P/Piros\|piros]] szavunkkal is rokonítani perro-t.  
 
 Jankovics Marcell Jelkép-kalendáriumában szól január 18., Piroska napja (lásd [[P/Piroska és a farkas\|Piroska és a farkas]]) kapcsán arról, hogy Kerényi Károly a görög Perszusz[^1] naphérosz nevét a `perra` = "Nap" szóból származtatja. Azt nem írják, milyen nyelven, de korábban görög eredetű nevekről volt szó. Akárhogy is, újfent beigazolódik, hogy a kutya Nap.  
