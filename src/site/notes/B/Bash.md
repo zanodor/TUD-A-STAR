@@ -5,4 +5,4 @@
 
 # Bash
 
-Erősen megüt, erős ütés. [[B/Basz\|Basz]] szavunkból. TZs feleslegesen bonyolítja, azzal, hogy egyébként szintén hímsegi [[C/Csap\|csap]] szavunk megfordításának véli. A basz a nyomorgatás szava: lásd még [[B/Boss\|boss]].  
+Erősen megüt, erős ütés. [[B/Basz\|Basz]] szavunkból. TZs feleslegesen bonyolítja, azzal, hogy egyébként szintén hímségi [[C/Csap\|csap]] szavunk megfordításának véli. A basz a nyomorgatás szava: lásd még [[B/Boss\|boss]].  
