@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Z/Zodiákus első jegye/","title":"Zodiákus első jegye","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-09T04:59","updated":"2023-11-09T04:59"}
+{"dg-publish":true,"permalink":"/Z/Zodiákus első jegye/","title":"Zodiákus első jegye","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-08T04:59:00","updated":"2023-11-09T07:10"}
 ---
 
 
@@ -41,8 +41,9 @@ A precessziós [[N/Nagy Év\|Nagy Év]] köréhez képest egy jeltartománnyal v
 Baktay Ervin írja:  
 > Valamikor, abban az időben, amikor a középtengeri művelődéskör csillagtulósai a Nappálya sarkalatos pontjait megállapították, a Tavaszpont a Kos csillagképének 0-fokára esett. Ezért a Nappályát is tizenkét szakaszra osztották és minden ilyen 30-30 fokos szakaszt az Állatöv egy-egy csillagképéről neveztek el.  
 
+Ahogy a Bak csillagkép látszik kezdőnek az alábbi, Krizsai Mónika Tudományos társaságok (akadémiák) a XV. századi Magyarországon című az Ősi Gyökér 2008/2. sz. megjelent cikkében csatolt, Vitéz János esztergomi studiolójának, Várnai Dezső által készített rekonstruktív rajzán, ahol a Zodiákus ívét jelenítette meg.   
 ![assets/Zodiakuselsojegye_image2.png](/img/user/Z/assets/Zodiakuselsojegye_image2.png)  
-Ahogy a Bak csillagkép látszik kezdőnek az alábbi, Krizsai Mónika Tudományos társaságok (akadémiák) a XV. századi Magyarországon című az Ősi Gyökér 2008/2. sz. megjelent cikkében csatolt, Vitéz János esztergomi studiolójának, Várnai Dezső által készített rekonstruktív rajzán, ahol a Zodiákus ívét jelenítette meg. Bal szélen a Bak, jobb szélen záróként a Nyilas szerepel. (Ezen alábbi (epitesz5.html) oldalon található írásban szerepelt a már idetett jobb minőségű kép.)  
+Bal szélen a Bak, jobb szélen záróként a Nyilas szerepel. (Ezen alábbi (epitesz5.html) oldalon található írásban szerepelt a már idetett jobb minőségű kép.)  
 
 Más.  
 Hogy a világ kezdetekor a Nap a Kos első fokán állt volna, kétséges, hiszen minden kort így hívhattak, zodiákus-kezdőként. RHA írja Taurus-nál:  
@@ -68,4 +69,4 @@ A Vízöntő az, ami a Nagy Évet a Halak/Halál után nyitja. Persze aligha leh
 Azaz kimondható, hogy a [[F/Fene\|fene]] szavunk is a [[F/Fény\|fény]] telluris vetületeként (továbbmegyek: a sárkány sáros vetülete, a boszorkány bosszús vetülete, a kutya kutas/kátyús, kussolós vetülete) annyit tesz, hogy önmaga megeszi a fényt, ahogy a rák a sejteket.  
 
 [^3]: Lábjegyzet:  
-A három hónapos diskrepancia csak úgy számolható el, ha a tavaszi évkezdő évet preferáló tulajdonképp 9 hónapos évvel (mely épp az ember vemhességi ideje is) számol (tkp. a vízöntővel fémjelzett három hónap "megy a levesbe"). Nyilván nem mindegy, milyen földrajzi helyen lakunk, de ahogy [[B/Bal és jobb\|bal és jobb]] címnél is szerepelt, az sem mindegy, hogy hyperboreai (északi sarki) Nap- és fényviszonyokkal számulunk vagy sem...  
+A három hónapos diskrepancia csak úgy számolható el, ha a tavaszi évkezdő évet preferáló tulajdonképp 9 hónapos évvel (mely épp az ember vemhességi ideje is) számol (tkp. a vízöntővel fémjelzett három hónap "megy a levesbe"). Nyilván nem mindegy, milyen földrajzi helyen lakunk, de ahogy [[B/Bal és jobb\|bal és jobb]] címnél is szerepelt, az sem mindegy, hogy hyperboreai (északi sarki) Nap- és fényviszonyokkal számolunk vagy sem...  
