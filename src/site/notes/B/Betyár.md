@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/B/Betyár/","title":"Betyár","tags":["dg_uploaded"],"created":"2023-10-05T03:21","updated":"2023-10-25T01:03"}
+{"dg-publish":true,"permalink":"/B/Betyár/","title":"Betyár","tags":["dg_uploaded"],"created":"2023-10-05T03:21","updated":"2023-11-09T07:08"}
 ---
 
 
 # Betyár
 
 Betyárokról esett szó [[R/Rogue\|rogue]] és [[R/Robin Hood\|Robin Hood]] címnél. De [[P/Patriot\|patriot]] szónál is szóba került:  
-![assets/Betyár_image1.jpeg|undefined](/img/user/B/assets/Bety%C3%A1r_image1.jpeg)  
+![assets/Betyár_image1.jpeg](/img/user/B/assets/Bety%C3%A1r_image1.jpeg)  
 Betyár szavunk is közrejátszhatott kialakulásában, nemcsak a latin [[P/Pater\|pater]]. A betyár többet tesz a népért, mint a politikus.  
 Ami a név elemzését illeti, hasonló hozzá [[B/Bátor\|bátor]] és [[P/Péter\|Péter]] (melyek mindketten a latin [[P/Pater\|pater]]-rel is összevethetők, de [[P/Patron\|patron]] szónál pátyolgatásról is volt szó), mely az Erő Háza értelmű. Robin Hood nevében [[R/Robin\|robin]] a Nap Házát jelenti.  
 Bet-Jár értelemben kb. ott a háza, ahol jár, azaz sehol, vagy éppen a dutyiban, vagy Pit-Jár értelemben úgy és ott jár, mint a csillagok, és mielőtt lehunyja a szemét, azokat látja (szabad ég alatt alszik).  
@@ -18,7 +18,7 @@ Bet-Jár értelemben kb. ott a háza, ahol jár, azaz sehol, vagy éppen a dutyi
 >
 > A név magyar eredetű, Bet Jár, vagyis Ház Jár az értelme. Mivel a Bet az Égbolt fogalmával is kapcsolatos, ezért a Bet-Járok Csillagjárók is. Éjszaka járnak zsákmány után, a Házak védik őket, a parasztházak az urak ellenében. A Bet-Yár a csillagok mozgását jól ismeri, valószínűleg az ókori, vagy őskori csillagismerettel is rendelkezik.  
 > A Betyár rend teljes felszámolása az 1950-es években ment végbe.  
-- [[M/Magyar\|Magyar]] címnél is szerepelt a furcsának ható, esetleges Mag-Yar felhontás.  
+- [[M/Magyar\|Magyar]] címnél is szerepelt a furcsának ható, esetleges Mag-Yar felbontás.  
 Lásd még [[B/Bitang\|bitang]].  
 
 #### Ipolyi Arnold írja:
@@ -33,7 +33,7 @@ Sokatmondó a Siklósi András Rózsa Sándor, a leghíresebb betyár című cik
 > betyár lennék a csárdában,  
 > betyár – az Isten házában!"*  
 
-![assets/Betyár_image3.png|undefined](/img/user/B/assets/Bety%C3%A1r_image3.png)  
+![assets/Betyár_image3.png](/img/user/B/assets/Bety%C3%A1r_image3.png)  
 Molnár V. József Világ-Virág című könyvének 168. oldalán közli a "[[V/Verekedő betyárok\|Verekedő betyárok]]"-at. A 166. oldalon elemzi is a képet, némiképp másként mint PG teszi egyik-másik előadásában. A képet (színes változatában) [[E/Ember#Ember szavunk Íjas (Íjász) értelme az Ikrek jegyére vonatkoztatva\|ember]] címnél, Ikrek témában is bemutatom.  
 Híres betyárunk a fentebb említett [[R/Rózsa Sándor\|Rózsa Sándor]]. Az ott említett Siklósi András féle cikkben nem csak róla volt szó.  
 
