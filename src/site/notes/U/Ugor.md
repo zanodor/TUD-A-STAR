@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Ugor/","title":"Ugor","tags":["dg_uploaded"],"created":"2023-10-20T09:42","updated":"2023-10-25T02:18"}
+{"dg-publish":true,"permalink":"/U/Ugor/","title":"Ugor","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-20T09:42","updated":"2023-11-10T06:07"}
 ---
 
 
@@ -94,15 +94,17 @@ Ez az ugor az, ami az [[O/Onogur\|onogur]] névben is szerepel és a hivatalos t
 > A magyarok ugor nevét továbbá nemcsak az északi szlávok Uhorsko és a szerb Ugarska névben (és az Ukrajna; lásd azóta más eredeztetéssel [[U/Ukrán\|ukrán]]) nevekben találjuk meg (orrhang nélkül). Ne feledjük, a [[P/Pozsonyi csata\|Pozsonyi csata]] címnél taglalt latin szövegben is előjött: "Ugros eliminandos esse." Azaz amit RFL [[M/Magyarok neve, nevei\|magyarok neve]] címnél (ahol a fentebbi sorok is megvoltak) ír, hogy az orrhangos változat a latin változat, nem egészen stimmel, mert itt a példa, hogy anélkül is megvolt a latinban.  
 
 [Ezen](https://qr.ae/Tju8oS) Quora válaszra érkezett szlovén szerzőtől való kommentben írja:  
-> In Slovene language old name for Hungarian is Oger (the name of the Austro-Hungarian empire is Avstrogrska in Slovene language), but in many dialects Slovenes say Voger. So there are surnames as Vogrič, Vogrin, Vogrinčič. We must know that many Slovenian dialects pronounce 'v' as english 'w' (this would be pretty close to Yugr).We have also a village called Vogrsko near today's Italian border Vogrsko. According to historians, Hungarians had a camp in this place near the entrance of Longobard kingdom in 9th century.  
+> In Slovene language old name for Hungarian is **Oger** (the name of the Austro-Hungarian empire is Avstrogrska in Slovene language), but in many dialects Slovenes say **Voger**. So there are surnames as Vogrič, Vogrin, Vogrinčič. We must know that many Slovenian dialects pronounce 'v' as english 'w' (this would be pretty close to Yugr).We have also a village called Vogrsko near today's Italian border Vogrsko. According to historians, Hungarians had a camp in this place near the entrance of Longobard kingdom in 9th century.  
+> —  
+> A szlovén nyelvben a magyar régi neve **oger** (az Osztrák-Magyar Monarchia neve szlovénul Avstrogrska), de sok szlovén nyelvjárásban a szlovének **voger**-t mondanak. Így vannak olyan családnevek, mint Vogrič, Vogrin, Vogrinčič. Tudnunk kell, hogy sok szlovén dialektusban a 'v'-t angol 'w'-nek ejtik (ez elég közel lenne a jugr-hoz). van egy Vogrsko nevű falunk is a mai olasz határ közelében Vogrsko. A történészek szerint a magyaroknak a 9. században táboruk volt ezen a helyen, a longobárd királyság bejárata közelében.  
 
-![assets/Ugor_image1.jpeg|undefined](/img/user/U/assets/Ugor_image1.jpeg)  
+![assets/Ugor_image1.jpeg](/img/user/U/assets/Ugor_image1.jpeg)  
 Egy Andor AKA Sz. Dávid által nekem átküldött, nagy felbontású korai állapotokat mutató [térképen](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~225715~5506605:Ethnographical-Map-of-Europe,-in-th) is a magyarok mint ugorok vannak jelölve. Kérdés, mikori és ekkor volt-e már ugrászat.  
 
 Remete Farkas László Magyarok eredete című tanulmányában – nem tudom milyen, talán szláv forrásra hivatkozva – azt írja, hogy a [[K/Kárpát\|Kárpát]] másik neve Ugor-hegyek (a magyarokra vonatkoztatva).  
 
 Czeglédi Katalin Magyar-török nyelvviszony című az Ősi Gyökér 2012/2-4. sz. megjelent cikkében írja:  
-> A görögök Sarkel erőd nevét 'fehér ház' jelentésben adták vissza, ami az orosz évkönyvekben Belaja Veža: 'fehér ház, fehér sátor, fehér nomádsátor, fehér torony'. A mansi sajr 'fehér' szó a bulgároktól való átvétel lehet, mansi nyelven a saragury jelentése belaja ugra 'fehér ugor' jelentésű. A nyenyeceknél a seser, sera, ser, siri 'fehér' jelentésben van meg.  
+> A görögök Sarkel erőd nevét 'fehér ház' jelentésben adták vissza, ami az orosz évkönyvekben Belaja Veža: 'fehér ház, fehér sátor, fehér nomádsátor, fehér torony'. A mansi `sajr` 'fehér' szó a bulgároktól való átvétel lehet, mansi nyelven a `saragury` jelentése `belaja ugra` 'fehér ugor' jelentésű. A nyenyeceknél a `seser`, `sera`, `ser`, `siri` 'fehér' jelentésben van meg.  
 > A belaja ugra megnevezés érdekessége, hogy az orosz ugra alakot használ és nőneműnek fogja fel. Mindemellett \[Mahmud al-\]Kāšgari \[oszmán-török etimológiai szótárában\] ugrak népet említ, akik az ő (mármint Kāšγ.) nyelvéhez hasonlót, ugyanazt beszélik. Ez azt jelenti, hogy i.sz. 1100 körül Kāšγar körzetében ugrak nép élt és török nyelven beszélt, amelynek az ugra, ugry, ugor alakokhoz köze van.  
 - Na de nekünk ez is csak annyit mond, hogy egyes népeink beolvadni kényszerültek.  
 
