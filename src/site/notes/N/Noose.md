@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/N/Noose/","title":"Noose","tags":["dg_uploaded","containstransclusions"],"created":"2023-10-15T09:23","updated":"2023-11-02T02:48"}
+{"dg-publish":true,"permalink":"/N/Noose/","title":"Noose","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-10-15T09:23","updated":"2023-11-10T03:25"}
 ---
 
 
 # Noose
 
-[[H/Hurok\|Hurok]]. A hurok szorít és fojtogat, elsősorban nyakat, például akasztott emberét. Nyúz szavunk közel áll úgy értelemben, mint jelentésben. Ahogy a görög `hamma` = kötél, hurok [[H/Hám\|hám]] szavunkból ered, úgy köthető szintén lovakhoz a noose is, mely nyűg szavunkból (k hang vagy ez esetben g rokona sokszor változik sz-szé, ezt másutt is láttuk) is eredhet. [[N/Nyűg\|Nyűg]] azon kötél, melyen a ló lábát kötik le, hogy messze ne kóboroljon.  
+[[H/Hurok\|Hurok]]. A hurok szorít és fojtogat, elsősorban nyakat, például akasztott emberét. Nyúz szavunk közel áll úgy értelemben, mint jelentésben. Ahogy a görög `hamma` = kötél, hurok [[H/Hám\|hám]] szavunkból ered, úgy köthető szintén lovakhoz a noose is, mely [[N/Nyűg\|nyűg]] szavunkból (k hang vagy ez esetben g rokona sokszor változik sz-szé, ezt másutt is láttuk) is eredhet. [[N/Nyűg\|Nyűg]] azon kötél, melyen a ló lábát kötik le, hogy messze ne kóboroljon.  
 De ha már szóba kerültek a lovak, jöjjenek a kutyák ([[K/Kutyafejű\|kutyafejű]]ek) is, melyek orra az azonos [[N/Nose\|nose]].  Elképzelhető, hogy a [[N/Nyolc\|nyolc]] szavunk adja ki e szót.  
 
 A nyelvészet a [[N/Node\|node]] szónál tárgyalt latin `nodus`-hoz köti, ófrancia közvetítésre gondolva.  
