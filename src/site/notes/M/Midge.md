@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Midge/","title":"Midge","tags":["dg_uploaded"],"created":"2023-10-21T04:26","updated":"2023-10-25T01:49"}
+{"dg-publish":true,"permalink":"/M/Midge/","title":"Midge","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-21T04:26","updated":"2023-11-10T10:55"}
 ---
 
 
@@ -10,5 +10,7 @@ A [[M/Mite\|mite]], [[M/Mosquito\|mosquito]] és [[M/Muscat\|muscat]] címnél �
 
 Az [[M/Magyar nyelv és nyelvcsaládok#Ausztráliai magyar nyelv\|ausztráliai magyar nyelv]] cím/alcímnél bemutatott [ezen](https://youtu.be/EnJ_qFgkdZ8) videó kommentjeiben író Goz írja:  
 > `Migy` is what the Ugar/Australian tribal men continent wide used to call the sand flies.  
+> —  
+> "Migy"-nek hívták az ugari/ausztrál törzseknél a homoki legyeket.  
 
 A latin szó egyező a magyarral; lásd (új, VZs-től származó adatokért) [[M/Muscat\|muscat]].  

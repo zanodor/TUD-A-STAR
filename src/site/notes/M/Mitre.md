@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mitre/","title":"Mitre","tags":["dg_uploaded"],"created":"2023-10-14T06:10","updated":"2023-10-25T01:58"}
+{"dg-publish":true,"permalink":"/M/Mitre/","title":"Mitre","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T06:10","updated":"2023-11-10T11:05"}
 ---
 
 
 # Mitre
 
 Püspöksüveg(gel ellát); alakja miatt 45°-ot is jelent. Lásd csatolt képet vélt(!) eredetéről. Ami a szófejtést illeti, elődje, a görög `mitra` = hajlekötő pánt, párta, nagyon hasonlít [[M/Mithra\|Mithra]] nevére.  
-![assets/Mitre_image1.png|undefined](/img/user/M/assets/Mitre_image1.png)  
+![assets/Mitre_image1.png](/img/user/M/assets/Mitre_image1.png)  
 
 Háttéradat: Jézus világra jöttével lépett át az emberiség a Halak világkorszakba. Jézus ezért is választotta \[a regeíró vele választatta\] az első apostolait a halászok közül. A keresztény szimbolika többszörösen is utal erre, hiszen a római katolikus (tátott szájú hal formájú) püspöksüveg, vagy a református templomtornyok kakas díszítése is erre utal (a [[K/Kakas\|kakas]] a Halak jegy keleti megfeleltetése).  
 Fontos kiemelni, hogy a [[H/HAL\|hal]] egyszerre női és hím szemérem jelkép. [[P/Phallic\|Phallic]] címnél volt szó kereszténységben is fellelhető szexuális jelképiségről templom (bejárat) kapcsán.  
@@ -27,3 +27,5 @@ Ne feledjük el azt sem, hogy az [[A/Anyaméh\|anyaméh]] egyik görög neve is 
 A közvetlen névben látható kapcsolat a kereszténység mithraista előképére valóban visszavezethető, ugyanis Rómában a kereszténység bevezetése előtt [[M/Mithra\|Mithra]]-kultusz volt (lásd külön alcímnél ott).  
 John G. Jackson Christianity before Christ című könyvében írja Arthur Weigall The Paganism in our Christianity címűkönyvének adata nyomán (részlet):  
 > The Pope's crown is called a tiara, but a tiara is Persian, and perhaps a Mithraic headdress.  
+> —  
+> A pápa koronáját tiarának nevezik, de a tiara perzsa, és talán egy mithraikus fejdísz.  
