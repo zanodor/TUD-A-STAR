@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arpakshad/","title":"Arpakshad","tags":["dg_uploaded"],"created":"2023-10-04T02:46","updated":"2023-10-25T02:05"}
+{"dg-publish":true,"permalink":"/A/Arpakshad/","title":"Arpakshad","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-04T02:46","updated":"2023-11-10T06:34"}
 ---
 
 
@@ -8,7 +8,7 @@
 #### Bíró Lajos...
 
 ...Álmos > Álmod > Amlodhi kapcsolatra mutató adata [[A/Álmos\|Álmos]] és [[H/Hamlet\|Hamlet]] címnél is szerepelt:  
-> A szabir águnk őshazája jól behatárolható: az ókori Szíria és Észak-Mezopotámia területén volt, ahol az egykori Árpád és Emesa városok is jelzik a nyomát. A szintén a Teremtés Könyvében szereplő Arpaksád és Álmodád neveket sem lehet elválasztani az Árpád és Álmos nevektől, már csak azért sem, mert mindketten Sém, azaz Szem ős-szülő leszármazottai! (Móz.I. 10,24 és 26.)
+> A szabir águnk őshazája jól behatárolható: az ókori Szíria és Észak-Mezopotámia területén volt, ahol az egykori Árpád és Emesa városok is jelzik a nyomát. A szintén a Teremtés Könyvében szereplő Arpaksád és Álmodád neveket sem lehet elválasztani az Árpád és Álmos nevektől, már csak azért sem, mert mindketten Sém, azaz Szem ős-szülő leszármazottai! (Móz.I. 10,24 és 26.)  
 
 #### Hargita Csaba Ferenc...
 
@@ -19,6 +19,8 @@ A Hargita Csaba Ferenc közreműködésével készült A magyarok őstörténete
 
 Az [alábbi](https://en.m.wikipedia.org/wiki/Chaldea) oldalon érdekes a Josephus Flavius-tól való adat:  
 > Jewish historian Flavius Josephus links Arphaxad and Chaldaea, in his Antiquities of the Jews, stating, "Arphaxad named the Arphaxadites, who are now called Chaldeans."  
+> —  
+> Flavius Josephus zsidó történetíró a Zsidók régiségei című művében összekapcsolja Arphaxadot és Káldeát, mondván: "Arphaxad nevezte el az arphaxaditákat, akiket ma káldeaiaknak neveznek".  
 
 Ezen Arphaxad előjön ...
 

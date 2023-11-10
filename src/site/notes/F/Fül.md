@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fül/","title":"Fül","tags":["dg_uploaded"],"created":"2023-10-03T09:41","updated":"2023-10-25T01:20"}
+{"dg-publish":true,"permalink":"/F/Fül/","title":"Fül","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-03T09:41","updated":"2023-11-10T06:22"}
 ---
 
 
@@ -13,7 +13,7 @@ A CzF szótár a fül szóban a fel(álló) (és kiálló) értelmet keresi, azz
 Fül szavunkkal mutat egyezést a francia `feuille` = (fa)levél (talán a kutya füléhez hasonlíttatott). [[F/File\|File]] címnél is előjött fül.  
 Igeként fül a fől és fűt (és a fú(j)) szavainkkal rokon. Valószínűbb, hogy a francia szó és a [[F/Foliage\|foliage]] címnél is említett latin elődje inkább [[F/Fúj\|fúj]] (szél) szavunkkal rokonítandó.  
 Fül rokon a [[F/Fürj\|fürj]] für elemével is.  
-![assets/Fül_image1.png|undefined](/img/user/F/assets/F%C3%BCl_image1.png)  
+![assets/Fül_image1.png](/img/user/F/assets/F%C3%BCl_image1.png)  
 
 A fül megint csak egy olyan szó, melybe többféle ideát kellett belesuvasztani. Egyrészt valóban rokon vele a [[F/Fel\|fel]], hiszen a figyelmes [[K/Kutya\|kutya]] felfelé álló füle [[S/Szarv\|szarv]]ként volt értelmezett. A másik használható fogalmi kapcsolódás a [[F/Fél\|fél]] szavunkkal van. A két fül két iránya a téridőnek és a teremtett világ dualisztikus rendjének felel meg. A fülben így tündéri füleket, mint a szellem házából, a fejből kivezetett függelékeket, apró szárnyakat kell látni. Olyanokat, melyekről [[D/Dió\|dió]] és frissen [[F/Fin\|fin]] címnél is volt szó.  
 
@@ -31,17 +31,21 @@ A fülek kapcsán már PJI írta, hogy a fentebb említett tündérfülekkel ék
 
 A felfelé álló fülek (nem csak kutyáé) kapcsán...
 
-#### Jankovics Marcell több helyen említett passzusát tegyük még ide:
+#### Jankovics Marcell...
 
+...több helyen említett passzusát tegyük még ide:
 > A szólás, hogy "letörte a szarvát", az ősi bikaáldozatra utal (Héraklész Akhelóiosz fölötti győzelme e szólás mítoszi forrása), s ugyancsak halál-jelentése lehetett eredetileg az e szólással látszólag éppen ellentétes értelmű felszarvazásnak". A túlvilágra költöző uralkodót, hőst, áldozatot ékesítették föl a csak "istent" megillető szarvakkal. Így illett a már túlnan lévők sorába. (Zolnay 1983: 272 skk.) Újabb kori értelmét a kifejezés annak köszönheti, hogy az elhunyt asszonyait utóda örökölte meg – nem egyszer épp az a személy, aki életét is kioltotta. Az alvilág fejedelmét, az ördögöt ([[K/Krampusz\|krampusz]]t) és a boszorkányt szarvas lénynek képzelték, ezért voltak "[[S/Szarvas\|szarvas]]" \[szarv-as\] állatok a kísérőik (bakkecske, fülesbagoly). A sorba illik maga a szarvas is (gör. `keraosz` "szarvas").  
 
 Mindenféle kinövés, kivált a fejből felfelé, szarvakhoz hasonlítható – [[S/Széth\|Széth]] állata (sha) és fülüket hegyező \[[[Hegy\|hegy]] = [[H/HAR\|HAR]] = [[E/Ear\|ear]]\] kutyák kapcsán is említett – fül isteni attributum (az isteni logosz – vesd össze [[E/Ég\|ég]] és [[I/Ige\|Ige]] – vételére is értve).  
+
 Ha már Egyiptom, ...
 
 #### Greg Rigby The God Secret...
 
 ...című könyvében is írja:  
 > The one place left of significance where one can readily demonstrate the existence of horned and winged Gods and Goddesses is Egypt. There, the study of the Heavens was integral to the Egyptian's religion and to the identity of the Gods in the Egyptian pantheon. Amongst the principal deities Osiris (Fig 26) was normally portrayed as horned and Anubis (Fig 27) portrayed with **ears that could just as easily be horns**. The Goddesses Hathor (Fig 28) and Isis were portrayed with cows' horns and Isis (Fig 29) and Maat with wings.  
+> —  
+> Az egyetlen jelentős hely, ahol a szarvas és szárnyas istenek és istennők létezése könnyen bizonyítható, az Egyiptom. Ott az Égiek tanulmányozása szerves része volt az egyiptomiak vallásának és az egyiptomi panteonban szereplő istenek identitásának. A fő istenségek közül Oziriszt (26. ábra) általában szarvasnak ábrázolták, Anubiszt (27. ábra) pedig **fülekkel ábrázolták, amelyek éppúgy lehetnek szarvak is**. Az istennőket, Hathort (28. ábra) és Íziszt tehénszarvakkal, Íziszt (29. ábra) és Maatot pedig szárnyakkal ábrázolták.  
 
 Ugyanezen témára vonatkozó megjegyzésem, hogy egy másik Bahador Alast videóban a domari (roma) `kan` = fül kutyáé lehet, és a vele (nyilván tévesen) párhuzamba állított szanszkrit `kárna` = fül a [[H/Horn\|horn]] szóval azonos.  
 
