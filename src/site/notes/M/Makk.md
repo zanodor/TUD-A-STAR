@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makk/","title":"Makk","tags":["dg_uploaded"],"created":"2023-10-21T04:46","updated":"2023-10-25T01:45"}
+{"dg-publish":true,"permalink":"/M/Makk/","title":"Makk","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-21T04:46","updated":"2023-11-10T11:09"}
 ---
 
 
@@ -17,6 +17,8 @@ Az egyik fő szempont, amiért a tölgy nagy tiszteletnek örvendett, az volt, h
 
 ...című könyvében írja:  
 > The cupped acorn stood for the glans penis in both Greek and Latin.  
+> —  
+> A csücsörített makk görögül és latinul is a pénisz makkját jelképezte.  
 
 A fa – makkfa – makk – mag analógia kapcsán lásd MA írását [[M/Máglya\|máglya]]. Saját kútfőből dolgokat ezen a vonalon lásd [[J/Jugular\|jugular]].  
 
