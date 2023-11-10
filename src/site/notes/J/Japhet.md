@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Japhet/","title":"Japhet","tags":["dg_uploaded"],"created":"2023-10-23T05:34","updated":"2023-11-02T04:32"}
+{"dg-publish":true,"permalink":"/J/Japhet/","title":"Japhet","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-23T05:34","updated":"2023-11-10T10:48"}
 ---
 
 
@@ -21,10 +21,12 @@ A görög **Japethosz** titán kapcsán is hasonló legenda[^1] kerül elő, min
 
 De korábbi babiloni [[V/Vízözön\|vízözön]]mondában **Japetosthes** néven jön elő Noé Japhetje elődjeként:  
 > The three sons of Xisuthrus were Titan, Zerovanos and Japetosthes. The three sons of Noah were Ham, Shem and Japheth.  
+> —  
+> Xisuthrus három fia Titán, Zerovanos és Japetosthes volt. Noé három fia Hám, Sém és Jáfet volt.  
 
 Valójában Kállay Ferenc A pogány magyarok vallása című könyvének 56. oldalán szereplő adatai alapján az utótag ugyanaz, mint az (itt szándékosan kisbetűvel adott) egyiptomi [[P/Ptah\|phtah]] = világ teremtő, továbbá a [[V/Vata\|Vata]] és más nevek. Azaz Jó-Fat/Fasz/Basz vonalon kell értelmezni (de nem ezek a konkrét kiindulói). Tudni kell, hogy ezen nyelveken beszélők már nem teljesen magyarok, így belső fejlődéssel alkotják ki azon neveket, amiket vissza lehet fejteni.  
 
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Kubínyi Tamás – nem is sejtve, hogy nyilván a mítoszkutató Erőss Diána AKA Bácsfi Boglárka a szerző, [ezen](https://vilagfigyelo.com/eltitkolt-osi-profeciak-a-vegiteletrol-a-hun-magyarsag-neperol/) oldalról olvas fel műsorában, ahol ez a téma említésre kerül.  
+Kubínyi Tamás – nem is sejtve, hogy nyilván a mítoszkutató Erőss Diána AKA Bácsfi Boglárka a szerző –, [ezen](https://vilagfigyelo.com/eltitkolt-osi-profeciak-a-vegiteletrol-a-hun-magyarsag-neperol/) oldalról olvas fel műsorában, ahol ez a téma említésre kerül.  
