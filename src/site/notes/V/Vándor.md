@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vándor/","title":"Vándor","tags":["dg_uploaded"],"created":"2023-10-20T10:10","updated":"2023-10-25T02:22"}
+{"dg-publish":true,"permalink":"/V/Vándor/","title":"Vándor","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-20T10:10","updated":"2023-11-10T07:19"}
 ---
 
 
@@ -9,13 +9,15 @@
 Össze is köthetnénk a dolgot: a régi, békés időkben azért is vándoroltak az emberek, mert az égi Vándort (az összetartozó Orion-Szíriuszt) látni akarták.  
 
 Egyébiránt (az Orion-kapcsolatú) [[I/Indra\|Indra]] címnél volt szó a vándor fogalmáról DGW könyvében:  
-> Among the Vedic gods, it is Indra (together with [[R/Rudra\|Rudra]]) who is most closely and frequently associated with various groups of wandering ascetics: one of these is known as the yatis, from yâ, "to go," or from yat , "to strive."  
+> Among the Vedic gods, it is Indra (together with [[R/Rudra\|Rudra]]) who is most closely and frequently associated with various groups of wandering ascetics: one of these is known as the yatis, from `yâ`, "to go," or from `yat` , "to strive."  
+> —  
+> A védikus istenek közül Indra ([[R/Rudra\|Rudrá]]val együtt) az, aki a legszorosabban és leggyakrabban a vándorló aszkéták különböző csoportjaival áll kapcsolatban: ezek egyike a yati-k, a `yâ`, "menni", vagy a `yat`, "törekedni" szóból.  
 
 Vajon Égi Vándorra keresve mit találunk az interneten? Például egy imát, mely alapján is Szíriuszról lehet szó:  
-*Csillag, csillag, fényes égi vándor, merre van a jászol? Mutass utat, hogy mindenki lásson!  
-Angyalének, szólj ma nagy örömről, szállj körül a Földön, hangod, hangod mindenkit betöltsön!  
-Én is, én is már közétek állok, pásztorok, királyok. Jézust, Jézust Énekelve áldjuk! Eljött, eljött véle minden áldás, boldog, aki hálás. Térj be, térj be! Van szívemben szállás.*  
-Torockai-Wigand Edénél vagy másutt egyelőre nem látok paraszti hagyományból utalást ilyen csillagra.  
+> *Csillag, csillag, fényes égi vándor, merre van a jászol? Mutass utat, hogy mindenki lásson!  
+> Angyalének, szólj ma nagy örömről, szállj körül a Földön, hangod, hangod mindenkit betöltsön!  
+> Én is, én is már közétek állok, pásztorok, királyok. Jézust, Jézust Énekelve áldjuk! Eljött, eljött véle minden áldás, boldog, aki hálás. Térj be, térj be! Van szívemben szállás.*  
+- Torockai-Wigand Edénél vagy másutt egyelőre nem látok paraszti hagyományból utalást ilyen csillagra.  
 Molnár V. József Világ-Virág című könyvének 86. oldalán amikor "sugárzó égi vándorról" ír, a Napra utal. A fentebbi imában is könnyen lehet, hogy a Napról van szó.  
 
 #### Tomory Zsuzsa Ősmagyar imádságaink 3. rész...
