@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Apple/","title":"Apple","tags":["dg_uploaded"],"created":"2023-10-11T10:10","updated":"2023-10-25T12:32"}
+{"dg-publish":true,"permalink":"/A/Apple/","title":"Apple","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-11T10:10","updated":"2023-11-10T06:40"}
 ---
 
 
@@ -9,9 +9,13 @@
 Ha App-Ul alakokká bontjuk, Apa-Fia jelentést kapunk. Az Apa a Nap, kisebbik mása az alma, ez esetben. Nem esik messze az alma a fájától, mondjuk ma is.  
 Persze az alma inkább bolygót szimbolizál (a [[K/Karácsonyfa\|karácsonyfá]]n például).  
 
-Robert Graves The White Goddess című könyvének 254. oldalán [[A/Avalon\|Avalon]]ról írja, hogy az almafák titkos szigete. A szavak hasonlóságára vonatkozóan nem tesz említést. A Wikipédia viszont igen; lásd ott. Avalon nevében PJI az (alant még említett) [[A/Avul\|avul]] szavunkat látja.  
+#### Robert Graves The White Goddess...
+
+...című könyvének 254. oldalán [[A/Avalon\|Avalon]]ról írja, hogy az almafák titkos szigete. A szavak hasonlóságára vonatkozóan nem tesz említést. A Wikipédia viszont igen; lásd ott. Avalon nevében PJI az (alant még említett) [[A/Avul\|avul]] szavunkat látja.  
 Még amit RG ír:  
 > The connexion of the apple-tree with immortality is ancient and wide-spread in Europe. What does 'apple' mean? According to the Oxford English Dictionary its etimology is unknown, but the word runs North-westward across Europe all the way from the Balkans to Ireland in a form approximating in most languages to **Apol**.  
+> —  
+> Az almafa és a halhatatlanság kapcsolata Európában ősi és széles körben elterjedt. Mit jelent az alma? Az Oxford English Dictionary szerint a szó etimológiája ismeretlen, de a szó északnyugat felé, a Balkántól Írországig, a legtöbb nyelvben az **Apol**-hoz közelítő alakban fut végig Európán.  
 
 A szláv nyelvek közül ilyen j-előtéttel és -ko kicsinyezéssel a szlovák `jablko` és szlovén `jabolko`.  
 
@@ -46,6 +50,8 @@ Persze nem muszáj rögtön a Nagy Évre ugrani. Elég ha a közben [[A/Apolló\
 
 Az Apolló vonalat folytatva, a nevet a-előtétesként, [[B/Bál\|Bál]] nevéhez tarthatóan értékelte Kállay, és ehhez hasonló módon láttam megközelítve egy Quora [válaszban](https://qr.ae/pKGlJP) is:  
 > Following Berger (1956), the American Heritage dictionaries suggested that the word \*abel 'apple', the only name for a fruit (tree) reconstructed for Proto-Indo-European, may have been borrowed from a language ancestral to Burushaski. ("Apple" and "apple tree" are `báalt` in modern Burushaski.)  
+> —  
+> Berger (1956) nyomán az American Heritage szótárak azt javasolták, hogy a \*abel 'alma' szó, az egyetlen gyümölcs (fa) név, amelyet a proto-indoeurópai nyelvből rekonstruáltak, egy olyan nyelvből származhat, amely a burushaski őse. ("Alma" és "almafa" a mai burushaski nyelvben `báalt`).
 - Azaz itt is a [[B/Bál\|Bál]] névre lehet gondolni: a gyümölcs [[N/Napjelkép\|Napjelkép]].  
 
 ## Apple cég neve és logója
