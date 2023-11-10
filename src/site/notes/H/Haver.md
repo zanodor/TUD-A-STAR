@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Haver/","title":"Haver","tags":["dg_uploaded"],"created":"2023-10-17T03:07","updated":"2023-10-25T01:34"}
+{"dg-publish":true,"permalink":"/H/Haver/","title":"Haver","tags":["dg_uploaded"],"created":"2023-10-17T03:07","updated":"2023-11-10T06:43"}
 ---
 
 
@@ -9,6 +9,8 @@ Gondoltam, hogy héber eredetre megy vissza. A héber `khavér` = társ, barát 
 
 K-előtétesen a finn nyelvben `kaveri`, melyre ezt írják:  
 > Either a loan from Yiddish `חבֿר`, or a portmanteau of kamraati and toveri.  
+> —  
+> Vagy a jiddis `חבֿר` kölcsönzése, vagy a `kamraati` és a `toveri` szó összetétele.  
 
 Az is lehetséges, hogy a [[K/Khamor\|Khamor]] és [[L/Love\|love]] címnél taglalt ideák mentén, szerető/társ > barát értelmi fejlődéssel és \*kamar alakú szóból K>H, M>V változással alakult.  
 De ha nem akkor is az [[I/Ikrek csillagkép#Ikrek mint testvér, társ, barát, szerető\|Ikrek mint testvér, társ, barát, szerető]] címnél írottak alapján is lehet gondolkodni.  
