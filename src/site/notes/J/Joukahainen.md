@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Joukahainen/","title":"Joukahainen","tags":["dg_uploaded"],"created":"2023-10-15T02:46","updated":"2023-10-25T01:38"}
+{"dg-publish":true,"permalink":"/J/Joukahainen/","title":"Joukahainen","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-15T02:46","updated":"2023-11-10T10:47"}
 ---
 
 
@@ -7,6 +7,8 @@
 
 A Wiki csak annyit ír róla, amit JM könyveiből ill. a Hamlet Malmából már tudtunk:  
 > Joukahainen is a character in the [[K/Kalevala\|Kalevala]], the Finnish epic poem of **fifty parts**. He is the rival of the main character, [[V/Väinämöinen\|Väinämöinen]]. After losing a singing contest, he pledges his sister Aino to Väinämöinen, but she drowns herself rather than marry him. Joukahainen, still envious of Väinämöinen, then shoots the stag of his rival from under him, plunging him into the waters of [[P/Pohjola\|Pohjola]].  
+> —  
+> Joukahainen egy szereplő a [[K/Kalevala\|Kalevalá]]ban, a **ötven részből álló** finn eposzban. Ő a főszereplő, [[V/Väinämöinen\|Väinämöinen]] riválisa. Miután elveszít egy énekversenyt, elígérkezik húgának, Ainónak Väinämöinenhez, de a lány inkább vízbe fojtja magát, minthogy hozzámenjen. Joukahainen, aki még mindig irigykedik Väinämöinenre, ekkor lövi ki alóla riválisa szarvasát, és ezzel a [[P/Pohjola\|Pohjola]] vizébe taszítja.
 
 #### Jankovics Marcell amit ír:  
 
@@ -28,6 +30,11 @@ A név etymologiája kapcsán [ezen](https://www.nordicnames.de/wiki/Joukahainen
 > (1) Finnish `joukea` = 'tall';  
 > (2) Sami word `jouku` which is associated with snow and ice;  
 > (3) Variant form of Joukkainen \[meaning white swan\].  
+> —  
+> Bizonytalan etimológiájú finn név a Kalevalából. A javaslatok a következők:  
+> (1) Finn `joukea` = 'magas';
+> (2) A lapp `jouku` szó, amely a hóval és jéggel kapcsolatos;
+> (3) A Joukkainen \[jelentése: fehér hattyú\] változata.  
 
 Na most, miért érdekes számunkra a név? Több szempontból. Egyrészt a Nyilazó/Orion mitológiai elem miatt, másrészt a név előrésze érdekes. Először a ([[H/Heka\|Heka]] névvel is rokonítható) Jóka (mint [[J/Játék\|játék]], amely vadászat is lehet) összefüggés ugrott be, utána közvetlenül ([[J/Jákob\|Jákob]] mentén) [[J/Jahve\|Jahve]], majd a német `Jäger` = vadász[^1], a jóga ([[Y/Yoga\|yoga]]) és még a [[J/Jaguar\|jaguar]] név is (az Ukkó és Akka nevekre is gondoltam, mely utóbbiról [[E/Ekva\|ekva]] címnél is volt szó). Egészen nyilvánvaló, hogy mindezen nevek az Ég Urára, Orionra, a három övcsillagára, az ősi csillagmitológiára utalnak. Kimondottan ez a finn név (azzal, hogy a finnségi nyelvek régebbiek is, mint a sémi nyelvek) az, amely perdöntőnek számíthat annak bizonyításában, hogy a [[J/Jahve\|Jahve]] név nem zsidó találmány, hanem egy mitológiai név, melyet kisajátítottak, és belőle törzsi istent gyártottak.  
 Milyen érdekes, hogy a Hamlet Malma írói is alsóbbrendűnek, rosszindulatúnak festik le Joukahainent, ahogy a Nimróddal (lásd [[N/Nimrud#Nimrud harca Jahve ellen\|Nimrud harca Jahve ellen]] cím/címnél) szintén nyilazós csatározásba keveredő [[J/Jahve\|Jahve]] is éppen ilyen (bosszúálló) (míg a másik fél persze lázadónak mondja Nimródot). Egyszerűen nem hiszem el, hogy valaki már a történelemben nem hasonlította össze a két párviadalt (Jahve kontra Nimród és Joukahainen kontra Väinämöinen)! Persze a neten hiába kerestem.  
