@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sarkcsillag/","title":"Sarkcsillag","tags":["dg_uploaded"],"created":"2023-10-13T12:33","updated":"2023-10-29T02:59"}
+{"dg-publish":true,"permalink":"/S/Sarkcsillag/","title":"Sarkcsillag","tags":["dg_uploaded"],"created":"2023-10-13T12:33","updated":"2023-11-10T07:39"}
 ---
-
-
 
 
 # Sarkcsillag
@@ -27,7 +25,8 @@ Az alábbi, általam [[A/Apam Napat\|Apam Napat]] és [[K/Korona\|korona]] címn
 
 ...című könyvének Azonos jelek az alaposztás négy mezejében címmel álló oldalán írja még, ami ide is tehető (az Atya egy napvallás kori felfogás lehetne):  
 > Az egyenlő szárú [[K/Kereszt\|kereszt]]nek több értelmezési lehetősége is van, de általában az "Atyát" jelöli, a világ minden dolgának rendezőjét: "A [[S/Sarkcsillag\|Sarkcsillag]] alatt, a Tetejetlen Fán áll Atyácska napfényes asztala, ő maga háttal ül a Sarkcsillagnak, hogy jól láthassa az Alsó Földet... amerre Atyácska jobbja mutat, arra van jobbra, amerre balja mutat, arra van balra."  
-> Majd a 23-24. oldalon:  
+
+Majd a 23-24. oldalon:  
 > Más forrás szerint: "A Sumeru-világhegyet a középázsiai népek éppen úgy, mint az osztjákok a 'várososzlopembert', 'atyá'-nak nevezték, ilyennek is tisztelték, s mivel egyúttal a föld [[K/Köldök\|köldök]]ét is képviselte, szent helynek tartották, ahol áldozatot mutattak be, s isteneikhez vagy szellemeikhez fordultak.  
 > Előázsia kultúrnépeinek vallási képzetei nyomán a perzsák, indusok, valamint ezen népek hatása alatt \[na ezért ez nem így volt; bár az atyaiságot mindenhová ők erőltették be\] az altáji és ugor népek felfogásában közös világkép alakult ki. Ez a világkép a világ közepére támaszkodik. Ezen megy át a föld és az ég köldökét összekötő tengely vagy ezen áll az eget alátámasztó világoszlop, [[V/Világhegy\|Világhegy]], s ennek tetején a tejtó vagy életvize négyágú forrása közepén a világfa."  
 > A **világfák csúcsán szerveződő képjel** – virág-csillag (az átlós és derékszögű osztás egyberótt képjele), kereszt alak – **feltehetően az égi biztos pont (az északi féltekén) az Északi Sarkcsillag képviselője**. A Nap ránézvést az életfák bal oldalán, a Hold pedig a jobb oldalon jelölődik.  
