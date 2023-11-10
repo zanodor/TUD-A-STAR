@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Huta/","title":"Huta","tags":["dg_uploaded"],"created":"2023-11-05T03:19","updated":"2023-11-05T03:19"}
+{"dg-publish":true,"permalink":"/H/Huta/","title":"Huta","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-05T03:19","updated":"2023-11-10T06:56"}
 ---
 
 
@@ -20,8 +20,12 @@ A Srini Kalyanaraman által feltöltött Uniquely orthographed hieroglyph, X-sha
 
 Közben a huta szó (nem német `Hütte`) eredetét megvédve [ezen](https://qr.ae/pND8Qc) oldalon írtam (persze a [[S/Szakrális geometria\|szakrális geometriá]]ba nem mehettem bele):  
 > What does `huta` mean in Hungarian place names like Vágáshuta, Répáshuta, or Újhuta? Does that refer to the Hutsul (Rusyn) peoples?  
-> No. `Huta` means a workshop where they were work with molten metal or glass (hence the furnace definition you will find online but it may not be the original meaning). Hu-Ta means hot place (which the furnace is, granted). The English word `hot` also comes from this premise. Magyar `hő` = heat comes from this [[H/HU\|HU]] etimon. [[T/TA\|TA]] is also an etimon.  
+> No. `Huta` means a workshop where they were work with molten metal or glass (hence the furnace definition you will find online but it may not be the original meaning). Hu-Ta means hot place (which the furnace is, granted). The English word `hot` also comes from this premise. Magyar `hő` = heat comes from this [[H/HU\|HU]] etimon. [[T/TA\|TA]] is also an etymon.  
 > Should the names in Vágáshuta, Répáshuta, Újhuta (there is also a Huta near where I am from, in the Pilis) refer to hills or mountains, I refer to you to Magyar `dagad` and Turkish [[D/DAG\|dag]]. In Sanskrit as well, one of the meanings of `kuta` = mountain, as in [Devakuta](https://www.wisdomlib.org/definition/devakuta). (Heat > volume > mountain.)  
+> —  
+> Mit jelent a "huta" az olyan magyar helynevekben, mint Vágáshuta, Répáshuta vagy Újhuta? Ez a hucul (ruszin) népekre utal?  
+> Nem. A `Huta` olyan műhelyt jelent, ahol olvadt fémmel vagy üveggel dolgoztak (innen a kemence definíció, amit az interneten találsz, de nem biztos, hogy ez az eredeti jelentés). A Hu-Ta forró helyet jelent (ami a kemence, természetesen). Az angol `hot` szó is ebből a premisszából származik. A magyar `hő` = hő is ebből a [[H/HU\|HU]] etimonból származik. A [[T/TA\|TA]] is egy etimon.  
+> Amennyiben a Vágáshuta, Répáshuta, Újhuta (van egy Huta is a Pilis közelében, ahonnan én származom) nevek dombokra vagy hegyekre utalnak, akkor a magyar `dagad`-ra és a török [[D/DAG\|dag]]-ra utalok. A szanszkritban is a `kuta` = hegy egyik jelentése, mint a [Devakuta](https://www.wisdomlib.org/definition/devakuta). (Hő > térfogat > hegy.)  
 
 A francia `côte` = domb is idevehető. A sziget = hegy fogalmainak összetartozását is észre kell itt venni.  
 
