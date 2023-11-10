@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fabricate/","title":"Fabricate","tags":["dg_uploaded","containscallouts"],"created":"2023-10-31T10:46","updated":"2023-10-31T10:48"}
+{"dg-publish":true,"permalink":"/F/Fabricate/","title":"Fabricate","tags":["dg_uploaded","containscallouts"],"created":"2023-10-31T10:46","updated":"2023-11-10T06:31"}
 ---
 
 
@@ -7,9 +7,11 @@
 
 Fabrikál.  
 ORIGIN: L fābrica fabric, from fāber a worker in hard materials; partly through Fr fabrique  
+—  
+Latin `fābrica` szövet, a `fāber` kemény anyagokkal dolgozó munkásból; részben a Fr `fabrique` révén
 
-Fa és aprít szavaink látszanak keveredni benne. Ábrá-zol szavunk is illik.  
-[[D/Daidalos\|Daidalos]] faképfaragó is eszünkbe jut: az első szobrászok fából faragtak.  
+Mintha fa és aprít szavaink látszanának keveredni benne. Ábrá-zol szavunk is illik.  
+[[D/Daidalos\|Daidalosz]] faképfaragó is eszünkbe jut: az első szobrászok fából faragtak.  
 
 #### Kolumbán Sándor írja:
 
@@ -23,9 +25,16 @@ Amit ír:
 >> - an adjective meaning "of/about iron"; so a smith is a "faber ferrarius" (in Italian: "fabbro ferraio"), i.e. an artisan that works with iron;  
 >> - a noun meaning "smith"; In Italian it's the same: "ferraio" means smith but it is not common at all (I didn't even know it existed as a word).  
 >>
->> In Italian, ferrarius went out of use and "fabbro ferraio" became just fabbro (at the same time, "fabbro" began to be used only for smiths, and not other artisans).
+>> In Italian, ferrarius went out of use and "fabbro ferraio" became just fabbro (at the same time, "fabbro" began to be used only for smiths, and not other artisans).  
+>> —  
+>> A latin "ferrarius" lehet:  
+>> - vassal kapcsolatos melléknév; kovács tehát "faber ferrarius" (olaszul: "fabbro ferraio"), azaz vasat megmunkáló kézműves;
+>> - "kovácsot" jelentő főnév; olaszul ugyanez: a "ferraio" kovácsot jelent, de egyáltalán nem gyakori (nem is tudtam, hogy létezik ilyen szó).  
+>>
+>> Az olaszban a ferrarius kikerült a használatból, és a "fabbro ferraio" csak fabbro lett (ugyanakkor a "fabbro" szót csak a kovácsokra kezdték használni, más kézművesekre nem).
 >
  Válaszom:  
 >>That's what I thought first too: fabric maker. And I seem to get what caused this confusion: in the old religious thinking the Blacksmith (that is Orion) was thought to be Deus Faber. By the way, fabricate originally referred to working with wood only, I think. Before working with metal was working with wood.  
->
->- Azaz mindebből arra következtetek, hogy lehet, hogy valójában nem is a fa megmunkálását kell itt nézni, hanem azt, hogy akár a kovácsolásból lett volna a másik ige, `fabricare` is.  
+>> —  
+>> Én is erre gondoltam először: (szerves) anyaggal dolgozó. És úgy tűnik, értem, mi okozta ezt a zavart: a régi vallásos gondolkodásban a Kovácsot (azaz Oriont) Deus Faber-nek gondolták. Egyébként a fabricate eredetileg csak a fával való munkára vonatkozott, azt hiszem. A fémmel való munka előtt a fával való munka volt.  
+- Azaz mindebből arra következtetek, hogy lehet, hogy valójában nem is fa megmunkálását kell nézni, hanem azt, hogy akár a kovácsolásból lett volna a másik ige, `fabricare` is.  
