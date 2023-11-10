@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bálvány/","title":"Bálvány","tags":["dg_uploaded","containstransclusions"],"created":"2023-10-21T04:29","updated":"2023-10-25T01:02"}
+{"dg-publish":true,"permalink":"/B/Bálvány/","title":"Bálvány","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-10-21T04:29","updated":"2023-11-11T12:35"}
 ---
 
 
@@ -8,13 +8,13 @@
 #### A Czuczor-Fogarasi szótár adata:
 
 > Általán bizonyos alakot képező szobor, vagy czobor, például kapubálvány, mely a kapuszárnyát ragasztókép tartja, s teteje fejet ábrázol; bálvány a borsajtóban, felálló rovátkos henger; szárazmalmi bálvány, a kerék tengelye. Ezekből látszik, hogy gyöke eredetileg áll, melyből lett: állvány, előtéttel bálvány, s megfelel neki alapfogalomban a latin `statua` s `stando`. Lóth felesége sóbálványnyá vált. Innen átv. ért. hamis isteni alakot képező faragvány, öntvény. Bálványokat imádni. Bálvány előtt térdepelni. Arany, kő bálvány. Úgy áll, mint bálvány. A képet nem arany, hanem az imádás teszi bálvánnyá. *"Isteni kéz maradványa! Égő szivemnek bálványa."* (Népdal.)  
-> Némelyek szerint a bibliai (ba'ál) szótól, mely latinosan [[B/Belus\|Belus]], pogány isten neve, vette volna e második értelmét, valamint a szláv `balvan`, `bolvan`, román `bolovan` is.  
+> Némelyek szerint a bibliai (`ba'ál`) szótól, mely latinosan [[B/Belus\|Belus]], pogány isten neve, vette volna e második értelmét, valamint a szláv `balvan`, `bolvan`, román `bolovan` is.  
 
 #### Kállay Ferenc A pogány magyarok vallása című könyvében írja:
 
 > Hogy a bálvány szó csak kölcsönözés az orosz nyelvben is, azt Schafárik sem tagadja, ki a kelta `peulwani`-ra figyelmeztet (Slav. alterth. I. 400), ugyanezt tanitja Reiffis "`bolvan` idole, bloc, celtique `peulwan` blocde pierre". ([Lásd 212. old.](zotero://open-pdf/library/items/DFI47XPY?page=212&annotation=J9SMKSQQ))
 >
-> Bullet kelta szótárában `peulwan` = pierre longve elevée perpendiculariement en guise de pilier, une colonne brute sans être travaille, brittül `peulwanon`, szerinte pel szóból = hosszú és maen = kő, de hogy Bullet a szók leszármaztatásaiban igen sokszor megtévedt, rég megismert dolog, ([Lásd 213. old.](zotero://open-pdf/library/items/DFI47XPY?page=213&annotation=JRSQFH7L))  
+> Bullet kelta szótárában `peulwan` = pierre longve elevée perpendiculariement en guise de pilier, une colonne brute sans être travaille, brittül `peulwanon`, szerinte `pel` szóból = hosszú és `maen` = kő, de hogy Bullet a szók leszármaztatásaiban igen sokszor megtévedt, rég megismert dolog. ([Lásd 213. old.](zotero://open-pdf/library/items/DFI47XPY?page=213&annotation=JRSQFH7L))  
 - "Hosszú kő, amelyet merőlegesen emeltek oszlopnak, durva oszlopot megmunkálás nélkül."  
 Végtére is Bullet népetimologizált.
 
@@ -32,14 +32,18 @@ Folytatás [[P/Pehlivan\|pehlivan]] címtől átemelve:
 </div></div>
 
 
-A lengyel Alexandra-Dorotheának Andor-Dávidon keresztül hozzám jutó információja szerint bálvány a lengyel nyelvben is megvan:  
-> When I was reading it made me think in Polish the word `balwan` is a snowman but also a dumb person, an idiot (in a light sense if you don't want to offend someone too much) and another derivative is the adjective balwochwalczy = worshiping the idols.  
+A lengyel Dorothea információja szerint bálvány a lengyel nyelvben is megvan:  
+> When I was reading it made me think in Polish the word `balwan` is a snowman but also a dumb person, an idiot (in a light sense if you don't want to offend someone too much) and another derivative is the adjective `balwochwalczy` = idol-worshipper.  
+> —  
+> Amikor olvastam, eszembe jutott, hogy a lengyel nyelvben a `balwan` szó hóembert jelent, de egyben buta embert, idiótát is (enyhébb értelemben, ha nem akarsz valakit túlságosan megbántani), és egy másik származéka a `balwochwalczy` melléknév = bálványimádó.  
 - [Ezen](https://qr.ae/pGAAtO) válaszban ugyanezt írja más is.
 
 Ipolyi Arnold Magyar mythologia című könyvének 563. oldalán szól róla.  
 
 Az alábbi Szergej Tokarevtől származó sorokból az tűnik ki, hogy a magyar-rokon [[E/Etruszk\|etruszk]]oknál nem volt kimondott bálványimádat és ennek bejövetele egyrészt a görögökhöz kapcsolható és a dekadencia jeleként fogható fel:  
 > In the early period the Romans did not have portrayals of gods, statues or idols. This was also a manifestation of the purely rational, unemotional and unpoetic nature of the Roman religion. Various objects, probably simple fetishes of the past, served as the material symbols of individual deities. Mars was symbolised by a spear, and Jupiter by a rock. The symbol of Vesta was, as already mentioned, a sacred eternal flame. The Romans began building statues of the gods only later, imitating the Greeks. At the same time, the peasants continued worshipping their customary symbols of the gods – old tree stumps and big rocks.  
+> —  
+> A korai időszakban a rómaiak nem rendelkeztek istenábrázolásokkal, szobrokkal vagy bálványokkal. Ez is a római vallás tisztán racionális, érzelem- és költészetmentes jellegének megnyilvánulása volt. Az egyes istenségek anyagi szimbólumaiként különböző tárgyak, valószínűleg a múltból származó egyszerű fétisek szolgáltak. Marsot egy lándzsa, Jupitert pedig egy szikla jelképezte. Vesta szimbóluma, mint már említettük, egy szent örök láng volt. A rómaiak csak később kezdtek szobrokat építeni az istenekről, a görögöket utánozva. Ugyanakkor a parasztok továbbra is imádták az istenek megszokott szimbólumait – öreg fatörzseket és nagy köveket.  
 - [[I/Istennevek\|Istennevek]] címnél is arról volt szó, hogy a judeo-krisztián értelmezések szerinti "a pogányok több-istenhívők voltak" elképzelés sem állja meg a helyét.
 
 Amennyiben az etruszkok emeltek is volna szobrokat Isteneiknek, az is a hanyatlás jele volt.  

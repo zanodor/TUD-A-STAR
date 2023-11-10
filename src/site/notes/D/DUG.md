@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/DUG/","title":"DUG","tags":["dg_uploaded"],"created":"2023-10-13T02:24","updated":"2023-10-25T01:15"}
+{"dg-publish":true,"permalink":"/D/DUG/","title":"DUG","tags":["dg_uploaded"],"created":"2023-10-13T02:24","updated":"2023-11-11T12:19"}
 ---
 
 
@@ -24,8 +24,7 @@ Jeremy Black és Anthony Green Gods, Demons and Symbols in Ancient Mesopotamia c
 Az [[I/Imdugud\|Imdugud]] nevű mitikus lény nevében is szerepel, mely így Im-Dug-Ud felbontásban értelmezhető.
 
 [[G/Gatumdug\|Gatumdug]] Lagaš városállam istennője volt, akit [[B/Bau\|Bau]]-val szokás azonosítani (Bau pedig Baba néven is ismert).  
-Udug démonnévnek adatolt, mely [[O/Ördög\|ördög]] szavunkkal mutat hasonlóságot, de U-Dug felbontásban a Mindörökké/Határtalanul Szent jelentésével épp ellentétesnek beállított, már ott is.  
-> Udug (Akkadian utukku) was a term for a particular type of demon, and like many such words it was originally neutral as regards the beneficial or baleful influence of the beings. Gudea, ruler of Lagas, asks a goddess for the protection of a 'good udug' and a 'good lama' to guide him. In a large collection of magical incantations intended for use against a wide range of malevolent demons, we read both of a specific 'evil udug' and in general terms of evil 'udugs' (where the term seems to include other demons as well).  
+[[Udug\|Udug]] démonnévnek adatolt, mely [[O/Ördög\|ördög]] szavunkkal mutat hasonlóságot, de U-Dug felbontásban a Mindörökké/Határtalanul Szent jelentésével épp ellentétesnek beállított, már ott is.  
 
 DUG sokjelentésű fontos alapszavunk, mely [[O/Ördög\|ördög]], [[B/Boldog\|boldog]] szavaink utótagjaként is szerepelhet (régies magyarsággal), Szent jelentéssel, de ugyanezen fényes, szent, fehér alapjelentést hordozza a [[D/Daughter\|daughter]] szónál előjövő (és azóta átértékelt) perzsa [[D/Dugh\|dugh]] = tej, mely a [[T/Táltos\|táltos]]ok kedvenc eledele és melyet az angol néphagyományok szerint is "dugni" kellett a boszorkányok elől. A fehér és a tej kapcsolatáról szóltunk [[F/Freyja\|Freyja]] skandináv istennőnél.  
 Dug viszont a [[D/DOG#Dog 2)\|dog]] = kutya szóval is egyezőnek látszik, márpedig a [[K/Kutya\|kutya]] és [[G/God\|God]] szavaknál írottak alapján a kutya szintén szent állat, a kúnoknál/hunoknál/szkítáknál.  

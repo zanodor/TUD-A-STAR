@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cur/","title":"Cur","tags":["dg_uploaded"],"created":"2023-11-05T01:48","updated":"2023-11-05T01:48"}
+{"dg-publish":true,"permalink":"/C/Cur/","title":"Cur","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-05T01:48","updated":"2023-11-11T12:22"}
 ---
 
 
 # Cur
 
 [[K/Korcs\|Korcs]]; emberre vonatkoztatva korhely (kurafi?) jelentése is van. Kór(cs) és kúr szavunk adja ki.  
-Milyen legyen egy korcs, ha nem kúrós. PJI írja, a görög Kurosz Ifjú, a Koré Ifjú Nő, vagyis Kör-É, egyszerűbben lány. Lásd bővebben [[K/KUR\|KUR]].  
+Milyen legyen egy korcs, ha nem kúrós. PJI írja, a görög `Kurosz` Ifjú, a `Koré` Ifjú Nő, vagyis Kör-É, egyszerűbben lány. Lásd bővebben [[K/KUR\|KUR]].  
 
 Ír nyelven `cú` viszont kutya: lásd még [[K/KU\|KU]].  
 A szláv `kur` = cövek és hímtag, perzsában is [[K/Kir\|kir]].  

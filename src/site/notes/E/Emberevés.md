@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Emberevés/","title":"Emberevés","tags":["dg_uploaded"],"created":"2023-10-21T03:45","updated":"2023-10-25T01:16"}
+{"dg-publish":true,"permalink":"/E/Emberevés/","title":"Emberevés","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-21T03:45","updated":"2023-11-11T12:42"}
 ---
 
 
@@ -42,6 +42,8 @@ VJ Hit és anyanyelv című írásában felhívja még itt a figyelmet arra, hog
 
 Patricia Monaghan könyvének [[S/Satire\|satire]] címnél is szereplő passzusában is előjön:  
 > In modern times satire has been defined as a literary work in which wit and irony are used to discredit vice and folly. Among the ancient Irish satire had a similar, but more urgently moral, purpose, and it was specifically poetic in form. The greatest satirical work in post-Celtic Irish literature, Jonathan Swift's bitter "A Modest Proposal," which proclaimed that **English landlords should devour "suckling children" because they were already eating the parents alive**, had much in common with its ancient forebears.  
+> —  
+> A modern korban a szatírát olyan irodalmi alkotásként definiálták, amelyben a szellemesség és az irónia a bűn és az ostobaság lejáratására szolgál. Az ókori íreknél a szatírának hasonló, de sürgetőbb erkölcsi célja volt, és kifejezetten költői formát öltött. A kelta utáni ír irodalom legnagyobb szatirikus műve, Jonathan Swift keserű "Egy szerény javaslat" című műve, amely azt hirdette, hogy az angol földesuraknak fel kellene falniuk a "szopós gyermekeket", mert már a szülőket is elevenen felfalják, sok közös vonást mutatott ősi elődeivel.  
 
 #### Várkonyi Nándor folytatja:
 
