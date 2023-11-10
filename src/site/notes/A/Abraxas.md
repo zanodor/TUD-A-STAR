@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Abraxas/","title":"Abraxas","tags":["dg_uploaded"],"created":"2023-10-20T01:23","updated":"2023-10-25T12:20"}
+{"dg-publish":true,"permalink":"/A/Abraxas/","title":"Abraxas","tags":["dg_uploaded"],"created":"2023-10-20T01:23","updated":"2023-11-10T06:41"}
 ---
 
 
@@ -9,6 +9,8 @@
 
 Eric Partridge írja:  
 > (Church Fathers') Abraxas, for Basilides the Gnostic's 'Αβρασάξ, Abrasax, the Lord of Heaven  
+> —  
+> (Az egyházatyák) Abraxas(-a), a gnosztikus Basilides 'Αβρασάξ, Abrasax, a mennyek ura.
 
 Ezek alapján Sax megfelel a [[S/Saka\|saka]] címnél sorolt neveknek ([[S/Sah\|Sahu]] és a [[S/Shah\|shah]] neveket említsük még itt meg), míg az előtagnak megfelel az [[A/Ábra\|ábra]] címnél említett perzsa `abr` = felhő és szanszkrit `abhra` = felhő.  
 Azaz a felhő az égben van. EP gnosztikus görög szóeredetét `Αβρα` névre jó lenne ismerni.  
