@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Medve/","title":"Medve","tags":["dg_uploaded"],"created":"2023-10-14T05:41","updated":"2023-10-25T04:57"}
+{"dg-publish":true,"permalink":"/M/Medve/","title":"Medve","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T05:41","updated":"2023-11-10T01:34"}
 ---
 
 
@@ -23,7 +23,9 @@ A magyar medve med- törzse látszik meg a kelta `mathghambhuin` = medve névben
 #### Greg Rigby The God Secret...
 
 ...című könyvében J A MacCulloch The Religion of the Ancient Celts című könyvéből idézi a gall Matu, ír Math neveket és ilyen összefüggésben tárja elénk:  
-> Another Celtic name for bear was the Gaulish Matu, Irish Math, found in Matugenos, "son of bear" and in MacMahon, which is the corrupt form of Mac-Mathghamhain "son the of bear's son" or "of the bear."  
+> Another Celtic name for bear was the Gaulish `Matu`, Irish `Math`, found in Matugenos, "son of bear" and in MacMahon, which is the corrupt form of Mac-Mathghamhain "son the of bear's son" or "of the bear."  
+> —  
+> A medve másik kelta neve a gall `Matu`, ír `Math` volt, amely megtalálható a Matugenosban, "medve fia" és a MacMahonban, amely a Mac-Mathghamhain "a medve fia" vagy "a medve fia" korrupt formája.  
 
 A kelta `math`[^2] = jó jelentésű is, ahogy a [[M/MISZ\|MISZ]] címnél levő diagramon is szerepelt. A jó = tej összefüggését korábban ismertük, továbbá tej = méz.  
 
