@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fabricate/","title":"Fabricate","tags":["dg_uploaded","containscallouts"],"created":"2023-10-31T10:46","updated":"2023-11-10T06:31"}
+{"dg-publish":true,"permalink":"/F/Fabricate/","title":"Fabricate","tags":["dg_uploaded","containscallouts","Englishtexttranslated"],"created":"2023-10-31T10:46","updated":"2023-11-11T01:54"}
 ---
 
 
