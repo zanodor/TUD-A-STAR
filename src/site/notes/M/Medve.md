@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Medve/","title":"Medve","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T05:41","updated":"2023-11-10T01:34"}
+{"dg-publish":true,"permalink":"/M/Medve/","title":"Medve","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T05:41","updated":"2023-11-11T03:09"}
 ---
 
 
@@ -15,10 +15,10 @@ Dr. Lónay Gyula az általa sajátosan értelmezett [[M/Megy\|megy]] szó értel
 > A kínai népi hagyományban Ti-Sa, a névben a Ti – Föld, a Sa – Szellemek ártalmas hatása –, 72 csillag ártó szelleme. A Ti-Sa szemben áll a Nagy Medve csillagainak 36 szellemével, őket Tien-Kannak nevezik, Tien – Ég, Kan – a Nagy Medve. Ti-Sa ugyan csillagok szelleme, de mégis a Föld gonosz erőinek a megtestesülése. Egy ifjú mágus parancsol a Ti-Sa szellemeinek. A két erő, a 72 és 36 a 108 összetevője. A Nagy Medve a Föld forgatásához is kell, Úr Sus az Úr Keze, továbbá a latinban Medve. A mágus a [[P/Precesszió\|precesszió]] ismerője lehet.  
 
 Magam [[B/Bier\|bier]], [[G/Göncöl\|Göncöl]] és a [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] címnél írottak alapján szintén úgy gondolom, hogy a medve "mézevő" jelentése szintén nem a fő, alapjelentés, csak másodlagos vagy belemagyarázható. Azt kell látni (ahogy [[M/Magyar tabu szavak\|magyar tabu szavak]] címnél is írtuk), hogy ez az állat is jelképállat: a medve (mint asztrális fogalom, mint csillagkép) kétszeresen kötődik a Tejúthoz, Tejútfához: egyrészt a mézet/[[M/MISZ\|MISZ]]-t, másrészt a fákban/életfában a kéregben megbúvó lárvákat keresi, eszi meg (maga a lárva is kötődik a Tejút fogalmához, hisz latinul szellemet, lelket is jelent). A csillagkép pedig nyilván azért került északra, mert a medve téli álmot alszik (éj – éjszak; lásd [[E/Észak\|észak]]) (lásd még [[H/Hibernate\|hibernate]]).  
-Úgy tűnik, a(z inkább kínai-hun, mintsem ainu eredetű?) japán `kuma` = medve név alapján, hogy a kún-hun nyelvnek efféle elnevezése lehetett a medvére és a medve magyar elnevezés. (A baekje/pekcse `koma` = medve és a taos nyelvű `kə́ona` = medve is idevehetők. Mivel **a medve is kutyához hasonlított állat lehetett** – kimondottan a medvebocs kutyaszerű – nagyon is elképzelhető a K-N váz okos megtartása, ugyanakkor ne feledjük, hogy K-M vázú a japán szellem/isten neve is \[kami; lásd [[K/KAN\|KAN]]\], és a medve is isten).  
+Úgy tűnik, a(z inkább kínai-hun, mintsem ainu eredetű?) japán `kuma` = medve név alapján, hogy a kún-hun nyelvnek efféle elnevezése lehetett a medvére és a medve magyar elnevezés. (A baekje/pekcse `koma` = medve és a taos nyelvű `kə́ona` = medve is idevehetők. Mivel **a medve is kutyához hasonlított állat lehetett** – kimondottan a medvebocs kutyaszerű – nagyon is elképzelhető a K-N váz okos megtartása, ugyanakkor ne feledjük, hogy K-M vázú a japán szellem/isten neve is \[`kami`; lásd [[K/KAN\|KAN]]\], és a medve is isten).  
 Egyébiránt [[I/Íj és a nyíl#Ainu témák\|ainu témák]] cím/alcímnél volt szó medveáldozásról. Lásd még [ezen](https://en.m.wikipedia.org/wiki/Kamuy) oldalt is.  
 [[C/Comet\|Comet]] címnél a japán szót szőrös ember oldaláról közelítettük még meg.  
-A magyar medve med- törzse látszik meg a kelta `mathghambhuin` = medve névben, melyet Alex MacBain próbál elemezni és oda jut, hogy a math viheti a medve jelentést. (Mac-kó is lehet.)  
+A magyar medve med- törzse látszik meg a kelta `mathghambhuin` = medve névben, melyet Alex MacBain próbál elemezni és oda jut, hogy a `math` viheti a medve jelentést. (Mac-kó is lehet.)  
 
 #### Greg Rigby The God Secret...
 
@@ -65,6 +65,11 @@ Kátay-Barba Rafael Péter Kynologia című írásában szerepel:
 Falvay Károly Nagyboldogasszony című könyvének 297. oldalán a legnagyobb erejű állatok kapcsán azt írja, hogy tulajdonképpen ami északon a medve, az délen az oroszlán és hogy mindkettő kötődne [[A/Artemisz\|Artemisz]]hoz is. [[U/Ursa Maior\|Nagy Medve csillagkép]] és [[O/Oroszlán\|oroszlán]] címnél volt szó arról, hogy a medve nevei inkább az oroszlán névalakjára emlékeztetnek.  
 
 Igen hasonló a medve névhez a lakota mitológia **Mato** (pajkos medveszellem) neve. Az [alábbi](https://en.m.wikipedia.org/wiki/List_of_Lakota_mythological_figures) Wiki oldalon található róla info.  
+
+## Medve jelentésű szavak egyes nyelvekben
+
+A madagaszkári malagasy/malgasi `maharitra`‎ = medve névben ott a [[M/Magyar\|magyar]] név.  
+A latin nyelvhez és `ursa` szóhoz nyilván semmi köze a szomáli `oorso` = szónak; inkább orsó szavunkhoz tartható.  
 
 ## Lábjegyzetek
 
