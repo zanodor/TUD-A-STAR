@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mastabbagalgal/","title":"Mastabbagalgal","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-12T01:10","updated":"2023-11-12T01:10"}
+{"dg-publish":true,"permalink":"/M/Mastabbagalgal/","title":"Mastabbagalgal","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-12T01:10","updated":"2023-11-12T03:03"}
 ---
 
 
@@ -7,10 +7,21 @@
 
 Helyesen Mas-Tab-Ba-Gal-Gal a sumér-babiloni zodiákus Ikrek jegyének neve, melyet [[M/MAS\|MAS]]-nál és [[M/Más\|más]]nál is emítettünk, minthogy MAS = [[M/Más\|más]].  
 
+#### Gavin White Babylonian Star Lore...
+
+...című könyvének adatai:  
 ![assets/Mastabbagalgal_image1.png](/img/user/M/assets/Mastabbagalgal_image1.png)  
 
-Varga Zsigmond Ősmagyar mitológia című könyvének (a PDF) 65-66. oldalán talált adat szerint a kettőzés itt többesszámot jelent; például `dingir gal-gal` = nagy istenek.  
-
+> The name of the Great Twins is written ‘Mul Maš-tab-ba-gal-gal'  
+> The Great Twins are known as `tū'amū rabûtu` in Akkadian. The Sumerian word `Maš`, meaning 'twin or companion' has also entered Akkadian as `māšū`.  
+> In Sumerian 'twin' can be conveyed by the Maš-sign alone, but more often 'twin' is written in a longer form as `Maštabba`. As an independent sign Tab signifies a 'companion or partner', so the idea of the 'twins' can be more literally translated as 'the two companions'.  
+> It is not known what the Gal-sign actually depicts suggestions include a crown or headdress of some sort. The sign is commonly used to mean 'great or big'. In the cuneiform writing system the final adjective (Gal) is often doubled to indicate plurality.  
+> —  
+> A Nagy Ikrek nevét úgy írják, hogy "Mul Maš-tab-ba-gal-gal".
+> A Nagy Ikreket akkád nyelven "tū'amū rabűtu"-ként ismerik. A sumér `Maš` szó, amely 'ikertestvér vagy társ' jelentésű, az akkád nyelvbe is bekerült `māšū` néven.  
+> A sumérban az "iker" kifejezést a Maš-jel önmagában is kifejezheti, de gyakrabban az "iker" szót hosszabb formában `Maštabba`-ként írják. Önálló jelként a Tab 'társat, partnert' jelent, így az 'ikrek' gondolata szó szerint 'a két társ' jelentéssel fordítható.  
+> Nem ismert, hogy a Gal-jel valójában mit ábrázol, a javaslatok szerint valamilyen koronát vagy fejdíszt. A jelet általában 'nagy' jelentéssel használják. Az ékírásos írásrendszerben az utolsó melléknév (Gal) gyakran megduplázódik, hogy a többes számot jelezze.  
+- Varga Zsigmond Ősmagyar mitológia című könyvének (a PDF) 65-66. oldalán talált adat szerint a kettőzés itt többesszámot jelent; például `dingir gal-gal` = nagy istenek.  <br/>
 Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (második kötetének) 73. oldala alján máshogy is magyarázza a nevet.  
 Lásd még [[G/Galgal\|galgal]].  
 
@@ -27,28 +38,23 @@ RHA Star Names című könyvében az Ikrek Csillagkép alfájánál szól egy é
 Az Ikrek(hez köthető) M-S vázú név/neve azért is érdekes, mert a [[M/Miscoatl\|Miscoatl]] címnél szereplő Giorgio de Santillanatól származó adat is az Ikreket hozza szóba, mint (esetleges) (hatalom)váltási pontot.  
 De mindkét névben az is közös, hogy a Tejút [[M/MISZ\|MISZ]] nevével de legalábbis M-S vázú nevével hozható kapcsolatba. A MAS keresztet formázó piktogramja is nyilván jelentékeny lehet ebben a kontextusban vizsgálva is.  
 
-Érdekes a mellékelt kiemelt képen a `mastabba`, mely akár [[M/Mostoha\|mostoha]] olvasatú is lehet (mostoha előjött [[O/Other\|other]] címnél is):  
+Érdekes a fenti szövegből `mastabba`, mely akár [[M/Mostoha\|mostoha]] olvasatú is lehet (mostoha előjött a más jelentésű [[O/Other\|other]] szónál is):  
 Igen érdekes, amit [[G/Gemination\|gemination]] címnél, a [[G/Gyám\|gyám]] fogalma kapcsán vetettünk fel, [[J/Jézus\|Jézus]] nevelőapja, [[J/József\|József]] gyám illetve mostoha szerepe alapján. Azt, hogy a [[M/Más\|más]] és [[O/Other\|other]] címnél írottak alapján meghatározott téridőbeli helynek (mely, ahogy [[U/UR\|UR]] címnél is láttuk, Ikrek és Orionra értelmezettnek egyaránt vehető) megfelel József-Orion téridőbeli helye és lám, az Ikrek Mastabbagalgal nevének Mastabba előrésze (melyből a [[M/Mustafa\|Mustafa]] nevet is eredőnek véltem) megegyezni látszik az értelmi és eredeztetési nehézségeket rejtő [[M/Mostoha\|mostoha]] szavunkkal.  
-
-Még a kiemelt képen is említett `mastabba` kapcsán mondjuk el, hogy ...
 
 #### Czeglédi Katalin A piramis...
 
-...című az Ősi Gyökér 2015/1-2. sz. megjelent cikkében is említi a szót arabként, biz. Bakos nyomán:  
+...című az Ősi Gyökér 2015/1-2. sz. megjelent cikkében is említi a `mastabba` szót arabként, biz. Bakos nyomán:  
 > A `masztaba` arab óegyiptomi, csonka gúla alakú építmény, amely alatt a tulajdonképpeni sírhely 10-20 méter mélyen van elrejtve.  
-- Hogy itt akkor a masztaba (sémi kiejtéssel mastaba) sírhely, építmény, gúla vagy micsodára utaló, nem derül ki, de mivel hozzákapcsolt értelem, talán mindegy is. Az alapkiinduló idea nyilván a téridőbeli hely. [Ezen](https://en.m.wiktionary.org/wiki/%D9%85%D8%B5%D8%B7%D8%A8%D8%A9#Arabic) és [ezen](https://en.m.wikipedia.org/wiki/Mastaba) oldalon írottak[^1] alapján (kő)padozat lenne.
-
+- Hogy itt akkor a masztaba (sémi kiejtéssel mastaba) sírhely, építmény, gúla vagy micsodára utaló, nem derül ki, de mivel hozzákapcsolt értelem, talán mindegy is. Az alapkiinduló idea nyilván a téridőbeli hely. [Ezen](https://en.m.wiktionary.org/wiki/%D9%85%D8%B5%D8%B7%D8%A8%D8%A9#Arabic) és [ezen](https://en.m.wikipedia.org/wiki/Mastaba) oldalon írottak[^1] alapján (kő)padozat lenne.  
 Bár ha figyelembe vesszük, hogy az Ikrek a Nap kulminációs ponton jár az Ikrekben, akkor a gúla/hegy értelem szépen megfér itt.  
 
 ## Nagy Ikrek, Kis Ikrek – Nagy Kutya, Kis Kutya
 
-A Mastabbagalgal tehát Nagy Ikrek, és ahogy a lentebb szereplő adatok is mutatják, Kis Ikrek is léteztek, azaz ugyanúgy megvan a kis-nagy páros, mint az éppen az Ikrek cikkelyében található Kutyáknál.  
-
-Az alábbiakban...
+A Mastabbagalgal tehát Nagy Ikrek, és ahogy a lentebb szereplő adatok is mutatják, Kis Ikrek is léteztek, azaz ugyanúgy megvan a kis-nagy páros, mint az éppen az Ikrek cikkelyében található Kutyáknál ([[C/Canis Minor\|Canis Minor]] és [[C/Canis Maior\|Canis Maior]]).  
 
 #### Gavin White Babylonian Star Lore...
 
-...című könyvének adatai kerülnek bemutatásra (a fenti táblázat is onnan való).  
+...című könyvének további adatai:  
 
 > THE SUMMER SOLSTICE PERIOD  
 > 
