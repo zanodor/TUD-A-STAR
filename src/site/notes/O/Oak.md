@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Oak/","title":"Oak","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-11T04:44","updated":"2023-10-29T02:55"}
+{"dg-publish":true,"permalink":"/O/Oak/","title":"Oak","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-11T04:44","updated":"2023-11-13T05:45"}
 ---
 
 
@@ -30,6 +30,11 @@ J. E. Cirlot Dictionary of Symbols című könyvében stag címnél írja:
 > Its symbolic meaning is linked with that of the Tree of Life, because of the resemblance of its antlers to branches.  
 > —  
 > Szimbolikus jelentése az élet fájához kapcsolódik, mivel agancsa hasonlít az ágakhoz.  
+
+#### Jankovics Marcell A fa mitológiája...
+
+...című könyvének 189. oldalán is szól majd róla:  
+> A világfát gyakran ábrázolják szarvassal, némelyik körül egész szarvasnyáj legelészik. A skandináv [[Y/Yggdrasil\|Yggdrasil]] lombját 4 rénszarvas harapdálja (a 4 égtáj képviseletében?), de a levelét eszi a Valhöll \[[[Valhalla\|Walhalla]]\] tetején állva a tölgyfaagancsú **Eiktymir** rénszarvas és Heidrun, a kiapadhatatlan tejű kecske. A szarvas, éppúgy mint a farkas vagy a kígyó azonosulhat a fával (l. "tölgyfaagancsú" Eiktymir).  
 
 Szántai Lajos és Pap Gábor is beszél az Íj és a Nyíl ösvényéről, arról, hogy a cél az [[A/Agancs\|agancs]]ok által jelképezett szellemiség. Az agancs és a tölgyfa ágai (lásd még róla aranyág) analogikusan egymásnak megfeleltettek.  
 A szarvasagancs-tölgyfaág analógia előjött [[H/Hart\|hart]] = szarvasbika címnél is, mivel a szó szinte azonos a baszk `haritz`, `harizki` = tölgy szóval.  
