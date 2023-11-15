@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Phallic/","title":"Phallic","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-09T05:11","updated":"2023-11-09T05:11"}
+{"dg-publish":true,"permalink":"/P/Phallic/","title":"Phallic","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-09T05:11","updated":"2023-11-15T04:31"}
 ---
 
 
@@ -9,7 +9,7 @@ Fallikus.
 
 #### Magyar Adorján írja:  
 
-> Görögül `phallos` (fallosz) = hímtag, de szóvégi sz hang csak azon szóvégzés, amelyet a görögök az idegenből átvett szavakhoz is hozzá szoktak volt tenni. Ámde hiszen ezen fallo szóval teljesen azonos a magyar faló szó is, márpedig úgy a [[T/Trója\|Trójá]]ról szóló regében, mint a magyar mesében is fa-lóról van szó. Ha pedig a magyar [[F/Fa\|fa]] szóhoz csak egy sz hangot teszünk hozzá, akkor is a hímtag \[[[Fasz\|fasz]]\] nevét kapjuk.  
+> Görögül `phallos` (fallosz) = hímtag, de szóvégi sz hang csak azon szóvégzés, amelyet a görögök az idegenből átvett szavakhoz is hozzá szoktak volt tenni. Ámde hiszen ezen fallo szóval teljesen azonos a magyar `faló` szó is, márpedig úgy a [[T/Trója\|Trójá]]ról szóló regében, mint a magyar mesében is fa-lóról van szó. Ha pedig a magyar [[F/Fa\|fa]] szóhoz csak egy sz hangot teszünk hozzá, akkor is a hímtag \[[[Fasz\|fasz]]\] nevét kapjuk.  
 
 MA jól láthatja a Fa-Ló kapcsolatot, de nem ismeri a [[L/Ló\|LÓ]]/[[L/LU\|LU]] többjelentésű alapszót. Fa-Lu a [[L/Lingam\|lingam]]-nál is előjött erotikus jelképként értelmezhető fatörzs, mely olykor a phallosz helyett áll (a faodú viszont mindig az [[A/Anyaméh\|anyaméh]], nyílása pedig a [[V/Vulva\|vulva]] szimbóluma; lásd még [[F/Fa és férfi\|fa és férfi]] valamint [[F/Fa és nő\|fa és nő]]).  
 
@@ -136,7 +136,10 @@ Fentebb volt már szó istenszobrokról és a szóeredeteztetés kapcsán arról
 </div></div>
   
 
-Nemcsak Crowley (és PJI) látott phalloszt az övcsillagok környékére. Maga a három övcsillag a bot/fallosz, Robert Graves The White Goddess c. könyvének 290. oldalán is [[S/Széth\|Széth]] phalloszának mondja ([[I/Íj csillagkép\|Íj csillagkép]], [[I/Íj és a nyíl\|íj és a nyíl]], valamint [[S/Széth\|Széth]] és [[K/Kutyanemzés\|kutyanemzés]] címnél írottak alapján stimmelne is), viszont Orion leginkább Ozirisszel azonosíttatott. Robert Bauval Orion Mystery című könyvében (ahogy [[O/Orion\|Orion]] és [[S/Széth\|Széth]] címnél is szerepelt) phallosza is van [[S/Sah\|Sahu]]-nak:  
+Nemcsak Crowley (és PJI) látott phalloszt az övcsillagok környékére. Maga a három övcsillag a bot/fallosz, Robert Graves The White Goddess c. könyvének 290. oldalán is [[S/Széth\|Széth]] phalloszának mondja ([[I/Íj csillagkép\|Íj csillagkép]], [[I/Íj és a nyíl\|íj és a nyíl]], valamint [[S/Széth\|Széth]] és [[K/Kutyanemzés\|kutyanemzés]] címnél írottak alapján stimmelne is), viszont Orion leginkább Ozirisszel azonosíttatott.  
+#### Robert Bauval Orion Mystery...  
+
+...című könyvében (ahogy [[O/Orion\|Orion]] és [[S/Széth\|Széth]] címnél is szerepelt) szól arról, hogy phallosza is van [[S/Sah\|Sahu]]-nak:  
 > The body of Osiris in the sky was the giant Sahu sky-image, which we saw as a striding man with one arm outstretched, the open palm cupping a star. The sexual part, i.e., the phallus, is clearly fixed with the stars of Orionʼs Belt, and these must have evoked the sexual potency and seeding of the stellar Osiris. In the Osiris-Isis myth, the crucial moment was the making by Isis of an **artificial phallus**[^4] so that she could fertilise her womb with the seed of Osiris, and become pregnant.  
 > That the Osirian year originally consisted of thirteen twenty-eight day months, with one day over, is suggested by the legendary length of Osiris's reign, namely twenty-eight years-years in mythology often stand for days, and days for years-and by the number of pieces into which he was torn by Set, namely thirteen apart from his phallus which stood for the extra day. When Isis reassembled the pieces, the phallus had disappeared, eaten by a letos-fish. This accounts for the priestly fish-taboo in Egypt, relaxed only one day in the year.  
 > —  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Anyakultusz – apakultusz/","title":"Anyakultusz – apakultusz","tags":["dg_uploaded","Englishtexttranslated","containstransclusions"],"created":"2023-11-14T03:26","updated":"2023-11-14T03:26"}
+{"dg-publish":true,"permalink":"/A/Anyakultusz – apakultusz/","title":"Anyakultusz – apakultusz","tags":["dg_uploaded","Englishtexttranslated","containstransclusions"],"created":"2023-11-14T03:26","updated":"2023-11-15T04:34"}
 ---
 
 
@@ -185,7 +185,7 @@ Robert Graves könyvének 400. oldalán a nők szexuális prédáiról szól rö
 
 [Ezen](https://www.youtube.com/watch?v=-HN1dPS6Q9c) CMM műsor elején Facsar Imre azt mondja, hogy nem létezett kimondott matriarchalizmus és patriarchalizmus, mert régen, a munkamegosztás jegyében, mindenki tudta, mi a dolga: a férfi erősebb lévén férfimunkát végzett, a nő a gyereket nevelte. Mondja még, hogy a férfi-női kapcsolatot nem szabad elválasztani egymástól, mert az egy: ezért mondja a magyar, hogy [[F/Feleség\|feleség]]em. Tehát nincs olyan, hogy "én vagyok a főnök." (Ezzel egyetértek, PJI is megírta, hogy nem volt a régi magyar felfogásban olyan, hogy egyik nem a másik fölé helyeződött volna, de azért azt tudnia kell, hogy az istennőket a legtöbb helyen teljesen leselejtezték.)  
 
-Legutóbb [[S/Szemiták és árják#Déli- vagy fekete magyarok/hunok, arabok, kabarok, héberek évköri nevei\|déli- vagy fekete magyarok/hunok, arabok, kabarok, héberek évköri nevei]] cím/alcímnél arra mutattunk rá, hogy az arab/héber hogyan vált apa-figurává (a négereket is ide vehetjük).  
+Legutóbb [[S/Szemiták és árják#Déli- vagy fekete magyarok/hunok, arabok, kabarok, héberek évköri nevei\|déli- vagy fekete magyarok/hunok, arabok, kabarok, héberek évköri nevei]] cím/alcímnél arra mutattunk rá, hogy az arab/héber hogyan vált apa-figurává (a mostanában – nemcsak az afrocentrista propagandával – nagyon nyomott négereket is ide vehetjük).  
 
 Könnyen lehet, hogy a hegyen, állattartással foglalkozók körében terjedt el az isten Atya kultusz és a sík területeken, völgyekben/medencékben élő, elsődlegesen növénytermesztéssel foglalkozó népek voltak az istent Anyaként felfogó népek.  
 Egyébiránt [ezen](https://qr.ae/pNs7rV) oldalon a Why was the Hungarian language spoken almost exclusively in the flat areas of the Kingdom of Hungary? kérdés ide tartozhat, persze nem mindegy melyik idősíkban gondolkodunk (így a válaszokat sem tartom sokra). Az tény, hogy a matriarchális(abb) magyarok inkább voltak növénytermesztők, és azok fogyasztása is aranykori szokás.  
