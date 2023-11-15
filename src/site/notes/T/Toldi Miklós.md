@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Toldi Miklós/","title":"Toldi Miklós","tags":["dg_uploaded","containstransclusions"],"created":"2023-11-02T11:01","updated":"2023-11-06T01:06"}
+{"dg-publish":true,"permalink":"/T/Toldi Miklós/","title":"Toldi Miklós","tags":["dg_uploaded","containstransclusions"],"created":"2023-11-02T11:01","updated":"2023-11-15T04:11"}
 ---
 
 
@@ -23,9 +23,10 @@ Volt már róla szó [[T/Toll#Toll 2)\|toll]] és [[T/Tölgy\|tölgy]] címnél.
   
 - Megjegyzés: az, hogy a hős ifjúsága aljas és ismeretlen, már Jézusnál is tapasztalható volt: annyit tesz, hogy nem lényeges.  
 
-#### Magyar Adorján Csodaszarvasának (a PDF) 97. oldalán írja:  
+#### Magyar Adorján Csodaszarvasának...  
 
-> Néprajztudósaink rég megállapították már, hogy Toldi Miklós nem történelmi személy – költők, írók bármennyire igyekeztek is személyének történelmi hátteret adni –, mert hiszen történelmünk róla soha egyetlen szóval sem emlékezik.  
+...(a PDF) 97. oldalán írja:  
+> Néprajztudósaink rég megállapították már, hogy **Toldi Miklós nem történelmi személy** – költők, írók bármennyire igyekeztek is személyének történelmi hátteret adni –, mert hiszen történelmünk róla soha egyetlen szóval sem emlékezik.  
 - Folytatást lásd a könyvében vagy Ősműveltségének adatát [[T/Toll#Toll 2)\|toll]].  
 
 > A magyarság hagyományában Toldi Miklós kedvese: [[M/Magda\|Magda]]. (Láttuk, hogy Toldi Miklós azonos ősi Napistenünkkel.)  
