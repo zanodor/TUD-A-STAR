@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Miscoatl/","title":"Miscoatl","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-21T02:18","updated":"2023-10-29T02:44"}
+{"dg-publish":true,"permalink":"/M/Miscoatl/","title":"Miscoatl","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-21T02:18","updated":"2023-11-15T01:14"}
 ---
 
 
