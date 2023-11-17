@@ -1,14 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["dg_uploaded","containstransclusions"],"created":"2023-11-16T11:50","updated":"2023-11-16T11:50"}
+{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-17T03:47","updated":"2023-11-17T03:47"}
 ---
 
 
 # Fehér és fekete
 
-Így is lehetett volna nevezni akár a [[F/Fény és sötétség\|fény és sötétség]] című részt.  
+Így is lehetett volna nevezni a [[F/Fény és sötétség\|fény és sötétség]] című részt.  
 Kezdjük a [[D/Dialektikus ellentét\|dialektikus ellentét]] címnél álló adatokkal.  
 Már [[B/Black\|black]] címnél felhívtuk a figyelmet arra, hogy az újlatin nyelvek fehéret jelentő szavak igen hasonló az angol feketét jelentő szavához. Azóta [[B/Bleach\|bleach]] és [[B/Black\|black]] (valamint [[F/Fakó\|fakó]], [[F/FÉK\|fék]], [[H/Halvány\|halvány]]) címnél írottakat is érdemes újra elolvasni (ugyebár én mindig mindennek csillagászati(lag is helytálló) értelmezést adok; a fék a vak Orion után következik be, a sötét territóriumába ([[F/Félév\|félév]]be) lépéssel).  
-A dialektikus ellentét iskolapéldája [[M/Martu\|Martu]] címnél állt, miszerint a fehér és fekete színnel lehet ugyanazt (jelen esetben a halált) jelölni[^1] (PJI írja):  
+A dialektikus ellentét iskolapéldája [[M/Martu\|Martu]] címnél állt, miszerint a fehér és fekete színnel lehet ugyanazt (jelen esetben a halált) jelölni[^1]:  
+
+#### Péterfai János írja:
+
 > De miért viseli a Mar egyszerre az Ifjúság és a Halál értelmet? A [[M/Mars\|Mars]] istennév is jó választ ad kérdésünkre, de az eredet Martu istenhez kapcsolható. Martu isten neve ugyanis Nyugat értelmű, a nyugati irányban terjeszkedő szumerok a nyugati részeket, mint Szíriát, Libanont, új területként kezelték. Így a Martu fogalomhoz kapcsolódott az Ifjú, Új fogalom, továbbá a Halál, Pusztulás fogalma, mert a Napisten mindig nyugaton megy le. A magyar és a hun (ami ugyanaz) színrendszerben a Nyugat ezért viseli a Fehér színt, ami, egyik értelemben a Halál színe, a Fekete mellett. Mar-Tu szó szerint Nyugat-Táj, Ifjú-Táj.  
 
 #### Magyar Adorján is írja:  
@@ -28,8 +31,9 @@ A szlávnál maradva, ezét lehet a szláv `západ` = nyugat [[S/Sápad\|sápad]
 > Holott láttuk hogy **a magyarok az ős-Anyaistennőt a Tejúttal azonosítva, épen ellenkezőleg fehérnek[^3] képzelték és őt fehér szarvasünővel jelképezték**. Vagyis láthatjuk ezekből is, hogy őseink jelképes regéiket teljesen szabadon és tetszésük szerint költötték, habár ezekkel mindig természeti valóságokat igyekeztek költőileg kifejezni.  
 > A vallási türelmetlenség, felekezeti gyűlölködés és vakhit, amely egymás ellen uszítja a különböző felfogású embereket, csak igen későn, más népek elszaporodásával vette kezdetét, különösen pedig a mai prófétai vallások elterjedésével.  
 
-Falvay Károly Nagyboldogasszony című könyvében igen érdekes 
-dolgokat oszt meg ([[B/Bal és jobb\|bal és jobb]] címnél is szerepelt):  
+#### Falvay Károly Nagyboldogasszony...  
+
+...című könyvében igen érdekes dolgokat oszt meg ([[B/Bal és jobb\|bal és jobb]] címnél is szerepelt):  
 > 1978-ban Bodor György a székely nemzetségi szervezet kereszténység előtti alapformáiról szóló írásában a hármas székely nemzetségi szervezet kozmikus összefüggéseiről ír. Deér előbbiekben vázolt ismertetését sajátosan egészítette ki. Megállapította, hogy a "XVI. századra kialakult területi intézmények a letelepülés előtti intézményekből fejlődtek ki. A legrégebbi oklevelek három székely rendről szólnak, melyek előzményéből feltehetően három székely nemzetség rejlik. Az ezekből kialakult tisztviselői rend – az egész székelységnek körülbelül egyhatod része – Udvarhely-, Maros-, Csík- székekben két nemből állt és mindegyik nem négy-négy ágra oszlott. Ez a 24 ág, pontosan meghatározott sorrendben, évenként felváltva viselte a katonai és polgári tisztségeket, a hadnagyságot és a bíróságot.  
 > A türk írások családjába tartozó rovásírás mellett ez a sorrend a székely régmúlt legarchaikusabb emléke. \[...\] A nemzetség két neme, Nap és Hold s így katonai és polgári irányítása az idő ciklus alatt mindig tükörképszerűen helyezkedett el."  
 > Bodor György László Gyulára hivatkozik, mily fontos szerepe volt a török népek életében a "megfordítás" törvényének: "A túlvilágot például az élet [[T/Tükör\|tükör]]képének tekintették, ami tehát az életben jobboldal volt, a túlvilágon baloldal lett és megfordítva. E törvénynek azonban nemcsak az élet és a túlvilág viszonylatában, hanem a jelenvaló világ dolgaiban is nagy szerepe volt: **a jobb és a balszárnyra tagozódás és egyes néprészek "fehér" és "fekete" elnevezései is mind e törvény különbözű formájú alkalmazásai**."
@@ -66,7 +70,7 @@ Várkonyi Nándor Sziriat oszlopai című könyvében írja, hogy a türk népek
 
 ...című Ősi Gyökér 2004/4. sz. megjelent cikkében hivatkozik egy korábbi cikkére:  
 > Más munkámban elvégeztem a szakrális kettős királyság tematikus feldolgozását. Bemutattam, csak a magyarnál van kozmikus vonatkozása, ezért magyar eredetű intézmény. A Tarján a Naptól származtatta magát, ezért néprészével együtt a kelő-nyugvó Nap irányába tájolták sírjaikat. A Gyula a Holdtól származtatta magát, néprészével a "rossz oldal" sötétség kultikus Ny-K irányba tájoltak. Elvileg ennek felel meg az É-D is. Bizonyítottnak tekinthető, hogy a kettős királyságból eredő kétféle temetkezés különbözősége várhun-székely és Árpád népe (besenyő) között nem etnikai másságot jelent. László Gyula észrevette Árpádék temetkezésében, hogy a tárgyak ellenkező oldalon, tükörképszerűen lettek elhelyezve, mint életükben használták. Magyarázata szerint azért, mert az alvilágot (halál) a fenti világ (élet) fordítottjának tartották. Magyarázata nem kielégítő. Szerintem a Holdat (Gyula) a Nap (Tarján) tükörképének (ikrek) tartották, ezért a két király és népe egymáshoz képest tükörképszerűen temetkezett. A részleges ló\[vas [[T/Temetkezés\|temetkezés]] Árpád népét tekintve\] K-Ny tükörképe egész ló Ny-K.  
-- A szöveg második része több helyre betéve.  
+- A szöveg második része több helyre bekerült.  
 
 #### Pintye Mihály Anonymus végzetes névcseréje – Kik voltak a besenyők?...
 
@@ -97,7 +101,7 @@ Bakk István Miért apostoli királyság Magyarország? című az Ősi Gyökér 
 </div></div>
 
 
-Tóth Gyula Maghreb PDF-ében van egy Fekete magyarok, fehér magyarok című fejezet is.  
+Tóth Gyula Maghreb blogos anyagában van egy Fekete magyarok, fehér magyarok című fejezet is. #todo
 
 [[F/Fischer Károly Antal\|Fischer Károly Antal]] A hunok és magyarok fekete, ill. fehér elnevezésének megfejtése címmel létezik írása, melyből alkalomadtán további adatok szűrhetők ki. #todo
 
@@ -105,16 +109,20 @@ Ha már [[S/Szűr\|szűr]], éppen erről is szó van tőle [[F/Fehér és feket
 
 **Harsányi Ildikó: Fekete magyarok, fehér magyarok** című könyvét egyelőre nem sikerült beszerezni. #todo
 
-A The Viking World című könyv 355. oldalán érdekes adatokat találni (a megelőző passzust nem teszem ide) (vajon fehér és fekete hunokról van itt szó és a [[F/Finn\|finn]]ek neve netán innen származhat):  
-> The other aspect of nomenclature which is characteristic of Gaelic and (probably derivatively) Welsh usage is the recognition of a pair of groups of vikings characterised by the preﬁxed adjectives Old Gaelic ﬁnd (Middle Gaelic ﬁnn, Modern Gaelic ﬁonn) and Old Gaelic and Old Welsh dub: literally, these mean 'light' and 'dark', 'white' and 'black', and there has long been speculation as to their usage in relation to vikings, when compounded with Gaelic gen(n)ti (Welsh gint, gynt) and Gaill. Racial or ethnic interpretations have long been favoured in modern scholarship, a characteristic reﬂex of contemporary culture (Downham 2004b). Seventeenth-century Gaelic writers took this opposition to mean 'the former' / 'the latter', and some recent scholars have accepted this usage (Smyth 1974-7; Dumville 2004): it allows us to see a distinction between two politically and genealogically deﬁned groups of vikings operating in the Insular world (particularly in the ninth century) and especially associated with Dublin (Downham 2007).  
+#### Stefan Brink és Neil Price The Viking World...  
+
+...című könyvük 355. oldalán érdekes adatokat találni(vajon fehér és fekete hunokról van itt szó és a [[F/Finn\|finn]]ek neve netán innen származhat):  
+> The other aspect of nomenclature which is characteristic of Gaelic and (probably derivatively) Welsh usage is the recognition of a pair of groups of vikings characterised by the preﬁxed adjectives Old Gaelic `ﬁnd` (Middle Gaelic `ﬁnn`, Modern Gaelic `ﬁonn`) and Old Gaelic and Old Welsh `dub`: literally, these mean 'light' and 'dark', 'white' and 'black', and there has long been speculation as to their usage in relation to vikings, when compounded with Gaelic gen(n)ti (Welsh `gint`, `gynt`) and Gaill. Racial or ethnic interpretations have long been favoured in modern scholarship, a characteristic reﬂex of contemporary culture (Downham 2004b). Seventeenth-century Gaelic writers took this opposition to mean 'the former' / 'the latter', and some recent scholars have accepted this usage (Smyth 1974-7; Dumville 2004): it allows us to see a distinction between two politically and genealogically deﬁned groups of vikings operating in the Insular world (particularly in the ninth century) and especially associated with Dublin (Downham 2007).  
+> —  
+> A nevezéktan másik, a gael és (valószínűleg származékosan) a walesi nyelvhasználatra jellemző aspektusa a vikingek két csoportjának felismerése, amelyeket az ógael `ﬁnd` (középgael `ﬁnn`, modern gael `ﬁonn`) és az ógael és ówalesi `dub` preﬁxed melléknevek jellemeznek: szó szerint ezek jelentése "világos" és "sötét", "fehér" és "fekete", és régóta találgatások folynak a vikingekkel kapcsolatos használatukról, amikor a gael gen(n)ti (walesi `gint`, `gynt`) és a Gaill. A faji vagy etnikai értelmezéseket a modern tudományosság már régóta előnyben részesíti, ami a kortárs kultúra jellegzetes reﬂexe (Downham 2004b). A XVII. századi gael írók ezt a szembenállást az "előbbi"/"utóbbi"-ra értették, és néhány újabb tudós elfogadta ezt a használatot (Smyth 1974-7; Dumville 2004): lehetővé teszi, hogy különbséget tegyünk a szigetvilágban (különösen a IX. században) működő, politikailag és genealógiailag deﬁnált viking csoportok között, amelyek különösen Dublinhoz kapcsolódtak (Downham 2007).  
 
 Bakos Attila A Duna evangéliuma című könyvének 265. oldalon kitér valamennyire a kusok kapcsán a fekete magyarokra is. Kérdés, hogy valódi fekete magyarok voltak, vagy magyarul beszélő civilizáltak, mint a Max Igan és [[F/Flink Attila\|Flink Attila]] féle ausztrál "magyarok" (ahol fehér bőrű bennszülöttek is éltek a feketékkel).  
 
-Talán a [[M/Mór\|mór]]oknak a Fekete Magyarokhoz is közük van, írja PJI.  
+Talán a [[M/Mór\|mór]]oknak a fekete magyarokhoz is közük van, írja PJI.  
 
 ## Fehér és fekete pap ill. sámán
 
-Fáy Elektől és másoktól már láttunk olyan papneveket, amelyek a fehér és feketére és akár kutyára (a [[K/Kutya\|kutya]] választja el a fehér és fekete, azaz a világos és sötét térfeleket; lásd [[F/Félév\|félév]]) vonatkozatottak. A [[K/Khamor\|Khamor]] címnél taglalt iráni Khamor tűzpapok neve mellett PJI-nél ([[S/Szótagmegfordítás\|szótagmegfordítás]]sal) Makhor szumer királyi-papi nemzetség nevéről, [[H/Hargita Csaba Ferenc\|Hargita Csaba Ferenc]]nél a csillagászatban jártas sumér magir papságról volt szó (ez bizonyíték lehet a papságok névalkotása mögötti felfogásunk helyességét igazolóan), továbbá a [[G/Guda\|Guda]] sumér papi kaszt nevére gondoltam még (ahol más papsággal kapcsolatos infók is szerepeltek). De ne feledjük el a [[S/Sidó\|sidó]] mezopotámiai papi rend nevét sem.  
+Fáy Elektől és másoktól már láttunk olyan papneveket, amelyek a fehér és feketére és akár kutyára (a [[K/Kutya\|kutya]] választja el a fehér és fekete, azaz a világos és sötét térfeleket; lásd [[F/Félév\|félév]]) vonatkozatottak. A [[K/Khamor\|Khamor]] címnél taglalt iráni **Khamor** tűzpapok neve mellett PJI-nél ([[S/Szótagmegfordítás\|szótagmegfordítás]]sal) **Makhor** szumer királyi-papi nemzetség nevéről, [[H/Hargita Csaba Ferenc\|Hargita Csaba Ferenc]]nél a csillagászatban jártas sumér **magir** papságról volt szó (ez bizonyíték lehet a papságok névalkotása mögötti felfogásunk helyességét igazolóan), továbbá a [[G/Guda\|Guda]] sumér papi kaszt nevére gondoltam még (ahol más papsággal kapcsolatos infók is szerepeltek). De ne feledjük el a [[S/Sidó\|sidó]] mezopotámiai papi rend nevét sem.  
 Amit legutóbb ott járva gondoltam, hogy a sötét oldal papjai mögött nem kell fekete mágiára gondolni, hanem arra, amiről a pálosok/Hunyadiak kapcsán a [[H/Holló\|holló]]ról szólva [[F/Fény és anyag\|fény és anyag]] címnél is taglaltunk: a [[S/Széth\|Széth]] nevével is jelzett [[S/Szűz\|szűz]]-kiindulóállapot keresendő a feketében, nemcsak a "butaság," gonoszság.  
 (Ezen adatsor első fele más adatokkal együtt [[H/Hunor és Magor\|Hunor és Magor]] címnél is szerepelt.)  
 
@@ -127,8 +135,9 @@ Diószegi Vilmos Sámánizmus című művének 36-37. oldalán szól a fehér é
 #### Varga Zsigmond Az ősmagyar mitológia...
 
 ...című könyvében is ír fehér és fekete sámánokról illetve mágiáról:  
-> Szumir és ural-altáji sámán egyaránt lehetett férfi és nő, akinek megvoltak hozzá a lelki és fizikai tulajdonságai. Hogy melyik előzte meg a másikat, ránk nézve közömbös kérdés. Csak az a fontos, hogy mind a két nem egyformán szolgáltathatott fehér és fekete sámánokat. Mindig az emberhez való viszony szabta meg, hogy ki hova tartozik. Mégis az ún. [[B/Boszorkány\|Boszorkány]]ok túlnyomóan női sámánok voltak. A megkülönböztetés alapja az a hit, hogy a fehér sámánok sohasem tesznek az embernek rosszat, és mindig a felső, a fény, a világosság isteneihez fordulnak. A fekete sámánok ennek éppen az ellenkezőjét csinálják.  
-> Arról VZs nem ír, hogy a fekete és fehér (mely színek egyszerű kombinációja máig népi viselet) színek itt mit jelképeznek. Nyilván a fehér ellenereje a fekete: ahogy a [[J/Jin és jang\|jin és jang]] címnél is szerepelt, a két princípium adja meg az egyensúlyt. Talán fehér ruhások voltak a télitől nyári napfordulóig "üzemelők," nyáritól téliig a fekete ruhásoké volt. A fekete az [[A/Alvilág\|alvilág]] színe, a fehér az égé, a felvilágé. Mindkettő a Nap útjára is vonatkozik. VZs amit még ír róla:  
+> Szumir és ural-altáji sámán egyaránt lehetett férfi és nő, akinek megvoltak hozzá a lelki és fizikai tulajdonságai. Hogy melyik előzte meg a másikat, ránk nézve közömbös kérdés. Csak az a fontos, hogy mind a két nem egyformán szolgáltathatott fehér és fekete sámánokat. Mindig az emberhez való viszony szabta meg, hogy ki hova tartozik. Mégis az ún. [[B/Boszorkány\|boszorkány]]ok túlnyomóan női sámánok voltak. A megkülönböztetés alapja az a hit, hogy a fehér sámánok sohasem tesznek az embernek rosszat, és mindig a felső, a fény, a világosság isteneihez fordulnak. A fekete sámánok ennek éppen az ellenkezőjét csinálják.  
+
+Arról VZs nem ír, hogy a fekete és fehér (mely színek egyszerű kombinációja máig népi viselet) színek itt mit jelképeznek. Nyilván a fehér ellenereje a fekete: ahogy a [[J/Jin és jang\|jin és jang]] címnél is szerepelt, a két princípium adja meg az egyensúlyt. Talán fehér ruhások voltak a télitől nyári napfordulóig "üzemelők," nyáritól téliig a fekete ruhásoké volt. A fekete az [[A/Alvilág\|alvilág]] színe, a fehér az égé, a felvilágé. Mindkettő a Nap útjára is vonatkozik. VZs amit még ír róla:  
 > Minden fajta sámánkodásnak az indító oka az a félelem, hogy a testből kilépő lélek gonosz démonok hatalmába jut, kik sietnek azt levinni az [[A/Alvilág\|alvilág]]ba. Tehát a sámánnak a lelket minden áron vissza kell szereznie, különben a páciens meghal. A kezdeti fejlődés fokán még nincsenek felvilági istenek, akikhez fordulhatna, csak démonok állnak egymással szemben, tehát legjobb lesz egyenesen az alvilági démonokat engesztelni meg, akár áldozatokkal, akár egy alvilági út keretében átnyújtandó ajándékokkal – a fő dolog, hogy a lélek visszakerüljön. Ezért Harvával mi is a később rossz hírbe hozott ún. fekete mágiát tartjuk a sámánizmus eredeti kezdő fokozatának (RVAV. 485. 1.). Ez az állapot azonban időileg föl sem mérhető, mert m ár az antik törvényadások megbélyegzik és üldözik a fekete mágiát. A hivatalos szumir sámánizmus is úgy tekinti a boszorkányok működését, mint m áglyahalálra érdemes bűncselekményt. A közép és újkor boszorkányperei pedig még friss emlékezetünkben vannak.  
 > \[...\]  
 > Némely halotti lelkek nem szívesen válnak meg régi otthonuktól, ezeket bizonyos idő múlva le kell kísérni az alvilágba. Itt külön sámáni feladat, a halotti lélek befogadása, hogy rendelkezhető legyen. A betegségről az a közös szumir-ural-altáji felfogás, hogy a lélek önként, vagy nem önként időlegesen eltávozhatik a testből – kóbor halotti lelkek –, az alvilági fejedelem küldöttei leselkednek reá, hogy az alvilágba bevigyék, vagy megeszik. Ha ez utóbbi eset következik be, a léleknek menthetetlenül vége van. A páciens pedig meghal; Sierovsky ilyen esetről tudósít a jakutokkal kapcsolatban. Ha azonban a lélek az alvilágba kerül, vagy az égbe, akkor a sámánnak kell vállalkoznia az alvilági vagy égi útra. A halotti lélek lekísérése az alvilágba is kapcsolódhatik égi úttal, mikor is a sámán azért vállalja, hogy informálódjék az égiek akaratáról, és hogy személyesen adja át az égistennek a haláleset által érintett embernek áldozati ajándékát. Az altáji sámánnak ez utazásai mindmegannyi szimbolizmusok, és revült állapotban mennek végbe. Fölmerül a kérdés, a két út közül vajon melyik az ősi, az eredeti? Az alvilági utat tekintik ősibbnek, de igen régi, még az ősközösség korából való lehet, az égi utazás képzete is. Inanna-Istar az alvilágba száll alá, hogy halott szerelmesét megkeresse és új életre keltse, de késői fogalmazása ellenére ősi szumir képzeteket tükröző Etana mitosz hőse már az égbe óhajt felutazni a csodaszülés gyógyfüvéért. Kezdetben még nem istenek, hanem démonok állanak egymással szemben, tehát a sámánnak nem volt miért az égbe utaznia – eleinte az alvilági démonokat kellett kiengesztelnie ajándékokkal, áldozatokkal. E sorrend felel meg a lélekhit ősi karakterének is.  
@@ -140,7 +149,7 @@ Diószegi Vilmos Sámánizmus című művének 36-37. oldalán szól a fehér é
 
 ## Fehér és feketének számítható jó és rossz tündérek, démonok
 
-Tündérek kapcsán volt már szó a témáról, illetve [[D/Demon\|demon]] címnél PJI szól agatho- és kakodémonokról: előbbiek, a jók fehérek, a rosszak feketék.  
+Tündérek kapcsán volt már szó a témáról (lásd [[F/Firtos\|Firtos]] vs. [[T/Tartód\|Tartód]]), illetve [[D/Demon\|demon]] címnél PJI szól agatho- és kakodémonokról: előbbiek, a jók fehérek, a rosszak feketék.  
 
 ## Fehér és fekete kutya
 
@@ -162,9 +171,9 @@ Tündérek kapcsán volt már szó a témáról, illetve [[D/Demon\|demon]] cím
 
 [[K/Kutya – fehér kutya, fekete kutya, vörös kutya\|Kutya – fehér kutya, fekete kutya, vörös kutya]] címnél szerepelt, hogy a fehér kutyához inkább a pozitív, a feketéhez szinte mindig a negatív tulajdonságok társulnak.  
 Legutóbb egy japán filmben szólított vagy pontosabban a két kutya közül a fehér és fekete kutya megkülönböztetésül használt 'shiro és kuro chan \[chan itt nem a 'kan' neve, hanem becéző vagy tisztelet kifejezésére használt szóforma\]' kifejezések nyomán ötlött fel, hogy a japán `kuro` = fekete (ezek szerint főnév és nem melléknév) a fekete kutya neve lehetett eredetileg, mint ahogy a japán `shiro` = fehér kapcsán [[S/Szíriusz\|Szíriusz]] címnél is írtuk, hogy Shiro gyakori neve fehér kutyáknak Japánban.  
-(Más filmben Koro nevű kutya világosbarna, de nem is ez a lényeg, hanem, hogy a `kara` = üres, `kuro` = fekete és koro megölésre, ezzel halálra (kór is ilyen szavunk) utaló jelentései mind összefüggenek.)  
+(Más filmben Koro nevű kutya világosbarna, de nem is ez a lényeg, hanem, hogy a `kara` = üres, `kuro` = fekete és `koro` megölésre, ezzel halálra (kór is ilyen szavunk) utaló jelentései mind összefüggenek.)  
 Könnyen lehet, és erre az [[O/Ördög#Ördög: fekete kutya; Isten: fehér kutya\|ördög: fekete kutya; Isten: fehér kutya]] cím/alcímnél írottak is bizonyítékul szolgálnak, hogy a fekete kutya a sötét félévre, a fehér a világosra utal (alant Csontváry képén fekete és fehér lovak utalhatnak ugyanerre). A kuro tehát elképzelésem szerint ugyanúgy a kutya neve lehetett eredetileg, ahogy a finnben (`koira`) és maori nyelvben (`kurī`) is ilyen alakú, [[K/KUR\|KUR]]/[[K/Kúr\|kúr]] nyomán, de a [[P/Pene\|pene]]/[[F/Fene\|fene]] kutya is a fényre vagy éppen a másik oldalra, a sötétre utal.  
-[Ezen](https://qr.ae/pNzbcz) válaszban a török-mongol `kara`-`har` és a japán `kuro` = fekete szavak közös eredetéről adtak választ, ahol az az érdekes adat jött elő, hogy a proto-mongol ([[J/Jón\|jón]] címhez is betett) Yowan/Niowan = fekete szót váltotta fel. Mindkettő kapcsolatot mutat kutyával: koira, KUR, stb., valamint a mongol `nokhoi` = kutya is hasonló, de főleg a jón-hunok héber yavan nevére emlékeztet és az összesen keresztül a hun = han = kutya összefüggést értjük.  
+[Ezen](https://qr.ae/pNzbcz) válaszban a török-mongol `kara`-`har` és a japán `kuro` = fekete szavak közös eredetéről adtak választ, ahol az az érdekes adat jött elő, hogy a proto-mongol ([[J/Jón\|jón]] címhez is betett) yowan/niowan = fekete szót váltotta fel. Mindkettő kapcsolatot mutat kutyával: koira, KUR, stb., valamint a mongol `nokhoi` = kutya is hasonló, de főleg a jón-hunok héber yavan nevére emlékeztet és az összesen keresztül a hun = han = kutya összefüggést értjük.  
 A japánban a fehér szó, `shiro` is kutyanév.  
 [[J/Jón\|Jón]] címnél hasonló szavakat találtunk még.  
 Megjegyzés: [ezen](https://en.wikipedia.org/wiki/Cyborg_Kuro-chan) oldalon álló adat szerint Kuro macska neve (is lehet).  
@@ -174,11 +183,13 @@ A másik megjegyzés, hogy ez a K-R vázú fekete jelentés megvan a szlávban a
 
 Mivel a Kutya választja el a fehér és fekete azaz fényes és sötét félévet, ezért is lehet azonos szóalakú a [[S/Szabad\|szabad]] illetve [[S/Sofa\|sofa]] címnél említett perzsa `sufid` = fehér és `shab` = éjszaka. [[B/Black\|Black]] és [[B/Bleach\|bleach]] címnél a fehér jelentésről volt már szó.  
 
-A [[L/Lemniszkáta\|lemniszkáta]] címnél is említett futó kutya (lásd [[K/Kutya – futó kutya\|kutya – futó kutya]]) definíciója igen érdekes:  
-A tengeri hullámok tarajának stilizált és ismétlődő motívuma, ahol a fekete illetve sötét, és fehér illetve világos színek foltértékére törekedtek.  
-Kíváncsi vagyok, ki nevezte el futó kutyának, mivel a Kutya éppen a sötét és világos félévek határoló jelképállata.  
+A [[L/Lemniszkáta\|lemniszkáta]] címnél is említett [[L/Lemniszkáta#Lemniszkáta és futó kutya\|futó kutya]] definíciója igen érdekes:  
+> A tengeri hullámok tarajának stilizált és ismétlődő motívuma, ahol a fekete illetve sötét, és fehér illetve világos színek foltértékére törekedtek.  
+- Kíváncsi vagyok, ki nevezte el futó kutyának, mivel a Kutya éppen a sötét és világos félévek határoló jelképállata.  
 
-[[F/Fáklya\|Fáklya]] címnél (bővebben) is szerepelt JM adatsora:  
+#### Jankovics Marcell...  
+
+...adatsora [[F/Fáklya\|fáklya]] címnél (bővebben) is szerepelt:  
 > A domonkos rendet egy fekete-fehér foltos kutya jelképezi, szájában égő fáklyával. A hagyomány szerint Szent Domonkos \[spanyol Domingo: jelentése vasárnap\] anyja álmában egy ilyen tarka kutyát látott, amint szájában a fáklyával föl s alá rohangált, és lángba borította a földet. Az álomképben később a lángoló szavú, könyv- és eretnekégető, a fekete-fehér csuhás Domingo magára ismert.  
 
 [[F/Fáklya\|Fáklya]] címnél szerepeltek a lentebb is még előjövő [[C/Cautes és Cautopates\|Cautes és Cautopates]] alakjai is, kiknek nevük szóváza kapcsán vetődött fel, hogy:  
@@ -204,7 +215,7 @@ A [[K/Khuit\|Khuit]] címnél szereplő Edward P. Butler Henadology című blogj
 
 ...című [[A/Ápisz\|Ápisz]] címnél is taglalt cikkében kiderül (Plutarchos révén is), hogy mind Széth és Ozirisz alakja kapcsolódik Ápiszhoz:  
 > Hórusz szintén harcba indult, mint Gilgames. A Bika figuráját az egyiptomiak is a büntetéssel, halállal kötötték össze, Bika jegyük magába olvasztotta a Plejádokat. A Bika legfényesebb csillaga káld\[?\] Al Debaran 'követő, vezető' jelentéssel használták. Béta csillagát az arabok El Nathja 'sebesült' vagy 'leölt' értelmű szóval jelölték. Hórusz "az erős bika" többször is háborút indított Széth ellen, aki trónkövetelő volt. A Bika eredeti színe azonban vörösesbarna, az egyiptomi áldozati rítusok előírták a vörös szín használatát például a káosz erőit jelképező viaszfiguráknál. Széth a káosz erőit képviselte. Küzdelme során Hórusz a Széth bikát ökörré változtatta. A másik, [[E/Egyiptomi szalag zodiákus\|egyiptomi szalag zodiákus]] ábrázoláson viszont Ápisz bika tűnik fel Ozirisz lelkét képviselve. Plutarkhosz is hivatkozik rá, hogy egyfajta misztikus egység van a két isten között.  
-> Mivel Ozirisz és Széth Orion Jupiter és [[S/Szaturnusz\|Szaturnusz]]i részéhez köthetők, azaz a világos és [[S/Sötét félév\|sötét félév]]hez, a bikák színe de legalábbis kettőssége is innen származik.  
+- Mivel Ozirisz és Széth Orion Jupiter és [[S/Szaturnusz\|Szaturnusz]]i részéhez köthetők, azaz a világos és [[S/Sötét félév\|sötét félév]]hez, a bikák színe de legalábbis kettőssége is innen származik.  
 
 ## Fehér és fekete patak
 
@@ -226,9 +237,9 @@ A [[K/Khuit\|Khuit]] címnél szereplő Edward P. Butler Henadology című blogj
 ## Fehér és fekete hegy
 
 [[V/Világhegy\|Világhegy]] címnél szerepelt VZs egyik passzusa, ahol a fehér és fekete hegynek megfelelő [[H/Hegy és völgy\|hegyek és völgyek]] adják ki a Nap járásának [[S/Sine\|szinusz]]-görbéjét:  
-> A világhegy fogalma mellett ismerik a sémi-babiloniak a szintén kétcsúcsú napfelkelte és napnyugta hegyét \[lásd [[A/Ahet\|ahet]] fényhegyeket\] is. Különösen pecsétcilindereken gyakori. Az elsőnek a neve ḫarsag Babbara vagy [[K/KUR\|Kur]] Babbar (világos hegy), a másodiké ḫarsag gigga, vagy kur gig (fekete hegy). E nevek is a kozmosz és a körforgás lényegi azonosságában bírják alapjukat és a kettős hegycsúcs a napjárásnak az égfelületén hegy és völgy között való föl- és leszállását akarja érzékeltetni.  
+> A világhegy fogalma mellett ismerik a sémi-babiloniak a szintén kétcsúcsú napfelkelte és napnyugta hegyét \[lásd [[A/Ahet\|ahet]] fényhegyeket\] is. Különösen pecsétcilindereken gyakori. Az elsőnek a neve `ḫarsag Babbara` vagy `Kur Babbar` (világos hegy; lásd etimont [[K/KUR\|KUR]]), a másodiké `ḫarsag gigga`, vagy kur gig (fekete hegy). E nevek is a kozmosz és a körforgás lényegi azonosságában bírják alapjukat és a kettős hegycsúcs a napjárásnak az égfelületén hegy és völgy között való föl- és leszállását akarja érzékeltetni.  
 
-A szumér szókapcsolatkban szereplő ḫarsag [[O/Ország\|ország]] és [[H/Harság\|harság]] címnél is szerepelt említve.  
+A szumér szókapcsolatokban szereplő `ḫarsag` [[O/Ország\|ország]] és [[H/Harság\|harság]] címnél is szerepelt említve.  
 
 Annyit még tegyünk hozzá, hogy a felfelé és lefelé álló hegyek megfelelnek a [[J/Jin és jang\|jin-jang]] jelnek és így azonos vagy közel azonos szóelemekkel utalhatunk rájuk: lásd [[K/KUR\|KUR]], [[K/Kut\|Kut]] címnél szereplő életkör-diagramot, stb.  
 William F. Warren Paradise Found: Cradle of the Human Race at the North Pole című művében is írja, hogy a mitológiai [[M/Meru\|Meru]]-ból kettőt képzeltek el: Su-Merut északon, Brahma lakhelyét, Ku-Merut délen, a Földgömb átellenes pontján (ahová is minden nép hagyománya a pokolt, a démonok lakhelyét helyezi).  
@@ -243,15 +254,15 @@ Ezen nevekhez hasonló a Ma-Kar és Kumaru/[[K/Khamor\|Khamor]] kettős (tovább
 JM más mesei példákat is hoz; lásd [[P/Pelican\|pelican]], [[A/Ablak\|ablak]] címnél...  
 
 A [[P/Pengő királyfi mese\|Pengő királyfi mesé]]ben előjövő Gyémántvár fekete és fehér színtoposzáról érdemes még itt szólni:  
-− No, te királyfi, jól megjegyezd, hogy ebben a várban minden fekete, még étellel is csak fekete étellel kínálnak. De te, akármit csináljanak veled, akárhogy megkínozzanak, egyebet el ne fogadj fehér ételnél. Bemegy Pengő a gyémántvárba, hát belől olyan fekete, mint a korom. Feketék a falak, feketék a garádicsok, az ablakok; megy a szobákba, azok is mind feketék. Jönnek a szolgák, fekete az arcuk, fekete a ruhájuk. Aztán asztalt terítenek, fekete abrosszal, fekete tálakkal. Hozták az ételeket, kínálták Pengőt, egyék. De Pengő semmihez sem nyúlt, mert minden étel fekete volt. Akkor egyszerre csak megtelt a szoba fekete emberekkel s asszonyokkal, s úgy megverték Pengőt, hogy elnyúlt a földön. Második nap éppen így járt. Hiába erőltették, hiába kínozták, hozzá nem nyúlt az ételekhez. Elkövetkezik a harmadik nap, s hát megfehéredtek mind a szobák, fehér ruhás emberek s asszonyok jöttek a szobába, fehér abrosszal terítettek asztalt, csupa fehér ételeket hoztak, s énekeltek Pengőnek szebbnél szebb nótákat. De most már Pengő is evett mindenből, amennyi csak belefért.  
-Mondja reggel az aranyhalacska Pengőnek: − No, a próbát jól kiállottad.  
+> − No, te királyfi, jól megjegyezd, hogy ebben a várban minden fekete, még étellel is csak fekete étellel kínálnak. De te, akármit csináljanak veled, akárhogy megkínozzanak, egyebet el ne fogadj fehér ételnél. Bemegy Pengő a gyémántvárba, hát belől olyan fekete, mint a korom. Feketék a falak, feketék a garádicsok, az ablakok; megy a szobákba, azok is mind feketék. Jönnek a szolgák, fekete az arcuk, fekete a ruhájuk. Aztán asztalt terítenek, fekete abrosszal, fekete tálakkal. Hozták az ételeket, kínálták Pengőt, egyék. De Pengő semmihez sem nyúlt, mert minden étel fekete volt. Akkor egyszerre csak megtelt a szoba fekete emberekkel s asszonyokkal, s úgy megverték Pengőt, hogy elnyúlt a földön. Második nap éppen így járt. Hiába erőltették, hiába kínozták, hozzá nem nyúlt az ételekhez. Elkövetkezik a harmadik nap, s hát megfehéredtek mind a szobák, fehér ruhás emberek s asszonyok jöttek a szobába, fehér abrosszal terítettek asztalt, csupa fehér ételeket hoztak, s énekeltek Pengőnek szebbnél szebb nótákat. De most már Pengő is evett mindenből, amennyi csak belefért.  
+> Mondja reggel az aranyhalacska Pengőnek: − No, a próbát jól kiállottad.  
 
 Nyilvánvaló, hogy a feketeség a sátán területe és a sátán kísértésének való ellenállás volt a próba.
 
 GYÁ a [[F/Fény és anyag\|fény és anyag]] címhez is betett soraiban érinti:  
 > "A fődnek nyilát" a lyukon át lőtték a Galaktikába. Ez a mese szimbolikus világában egy földbe vájt nyiladék, amin át az élet bejutott a várba, a valóság tornácába. Ez a világ akkor válik kézzelfoghatóvá, amikor a királyfi megtalálja három hálószobában a három királykisasszonyt és a korom sötét épület kívül belül fehérbe öltözik. Ez a jelenség a realitás ősképe, a térnek és az időnek szerencsés találkozása, amely kétféle minőséget igényel: egy hímnemű és egy nőnemű alany jelenlétét. Nem csak a vár világosodik ki, hanem minden, ami benne van. A berendezés, az étel és az ital egyaránt.  
 
-[[K/Kurva\|Kurva]] címnél, az arab huri szó arabból való eredeztetése nyomán fehér és fekete téma előjött.  
+[[K/Kurva\|Kurva]] címnél, az arab `huri` szó arabból való eredeztetése nyomán fehér és fekete téma előjött.  
 
 ## Fehér és fekete fordított értelmezése
 
@@ -261,12 +272,14 @@ Bevezetésként lásd [[S/Szarvas\|szarvas]], ahol a [[D/Drumó\|drumó]] és [[
 
 Fentebb már volt szó a fehér szarvasünőről. Az alábbiakban járjuk még körül.  
 
-#### Magyar Adorján Csodaszarvasában írja (meglepő fordítottsággal):  
+#### Magyar Adorján Csodaszarvasában...  
 
+...írja (meglepő fordítottsággal):  
 > A számos szarvasregében emlegetett "fehér szarvas" ősmagyar mitológiánkban csak a szóban lévő...  
+- A [[H/Hattyú vitéz mese\|Hattyú vitéz mesé]]ben szintén (rögtön az elején) fehér szarvas jön elő.  
 
-A [[H/Hattyú vitéz mese\|Hattyú vitéz mesé]]ben szintén (rögtön az elején) fehér szarvas jön elő.  
->  ...Ős-szarvasunk nőstényére vonatkozott, mivel szerintem, míg a hím fekete volt, addig nősténye fehér vagy világos-szürke színű kellett hogy legyen. \[Ez némiképp ellentmond annak viszont, amit idáig gondoltunk, bár a [[H/Hunor és Magor\|Hunor és Magor]] címnél, külön alcímnél írottak szerint is Hunorhoz, a Magornál "hímebb" aspektushoz a sötét passzol (és akkor itt még szólni kell arról is, hogy a [[H/Hím\|hím]] szó eredete mi lehet).\]  
+>  ...Ős-szarvasunk nőstényére vonatkozott, mivel szerintem, míg a hím fekete volt, addig nősténye fehér vagy világos-szürke színű kellett hogy legyen.   
+- Ez némiképp ellentmond annak viszont, amit idáig gondoltunk, bár a [[H/Hunor és Magor\|Hunor és Magor]] címnél, külön alcímnél írottak szerint is Hunorhoz, a Magornál "hímebb" aspektushoz a sötét passzol (és akkor itt még szólni kell arról is, hogy a [[H/Hím\|hím]] szó eredete mi lehet).  
 
 A fehér és fekete szarvas kettőse kapcsán itt még jegyezzük meg, hogy kétszarvasos ábrázolásokat például [[J/Janus\|Janus]] címnél szerepeltettünk (persze ott a szarvasok színében nem volt eltérés).  
 A szarvas, ahogy [[T/Turul#Turul és Csudaszarvas\|Turul és Csudaszarvas]] cím/alcímnél is tárgyaltuk, az egész zodiákus (a [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]]ként), ahol az önmagába, a szülőhelyre való visszatérés ugye olyanmód értelmezhető, mint a [[J/Jin és jang\|jin-jang]] jel(ben megfogalmazott forgórózsa-swastika fogalom).  
@@ -286,6 +299,9 @@ A fekete nadrág és fehér ing viselete is [[S/Szakrális geometria\|szakrális
 
 ### Fischer Károly Antal szűrszín-elmélete az újabb kutatások tükrében  
 
+#### Götz László Keleten kél a Nap...  
+
+...című könyvében írja:  
 > Nagyon jól tudjuk, hogy [[F/Fischer Károly Antal\|Fischer]]t dilettánsnak vagy fantasztának szokás nevezni. Már korában is annak tartották Hunfalvyék köreiben. Volt – többek között – egy "bolondériája", amelyen különösen jókat lehetett derülni: a forrásokban található "fekete-" és "fehér-magyar" nevek jelentését a ruházat – nevezetesen a [[S/Szűr\|szűr]] – színével magyarázta. Kiderítette, hogy míg Magyarország középső területein a fehér színű szűr messzemenően egyeduralkodó, addig Erdélyben, valamint a Dunántúl nyugati sávján, Göcsejben és az Őrségben, csaknem kizárólag fekete szűrt viselnek. Ezek lettek volna szerinte a "fekete-magyarok", azaz a csatlakozott, avar-székely eredetű határőrség. Ennek alátámasztására rámutat arra is, hogy a magyar nyelv két fő nyelvjárásának területei is pontosan megegyeznek a fekete és a fehér szűrök elterjedési zónáival. Tovább menve ezen a nyomon azt állította, hogy a két főszínen belül a szűrszegélyek és a díszítések színei a hét törzset jelzik: fekete, cinóbervörös, skarlátvörös, acélzöld, vízzöld, sötétkék és égszínkék. Ez annyira pontosan követhető – írja –, hogy például tudjuk, a székelyeknek csak hat törzse, illetve nemzetsége volt és lám: a szegélyek színei közül Erdélyben hiányzik az acélzöld.  
 > ...  
 > Az Erdélyből hiányzó acélzöld, valamint a Magyarország központi vidékein csak szórványosan előforduló világoszöld szűrszegélyszín megtalálható külföldön, mégpedig például Dalmáciában, Ragusa vecchia (ma Dubrovnik) környékén, pontosan azon a vidéken, ahová Baján avar kagán a források szerint 10 000 kutrigur harcost telepített le, akik Bíborbanszületett Kostantin tanúsága szerint ott is maradtak. Ezen a tájon – írja Fischer – a magyaros díszítésmódok, a szűk magyar nadrág, különféle magyar szokások, mint pl. a halotti tor, a halottőrzés, még ma is megtalálhatók, sok magyarosan hangzó helységnév kíséretében.
@@ -309,7 +325,7 @@ Annyi kiegésztést a fentiekhez hadd tegyek, hogy a [[S/Scarabeus\|scarabeus]] 
 ## Szláv adatok – mindig hasznosak
 
 Több címnél szerepeltek az alábbiak:  
-[Ezen](http://members.chello.at/heinz.pohl/Ortsnamen_E.pdf) szláv toponímákat német nyelvűre cserélést taglaló tanulmányban amikor megláttam egy szlovén folyónevet németre fordítva...  
+Amikor [ezen](http://members.chello.at/heinz.pohl/Ortsnamen_E.pdf) szláv toponímákat német nyelvűre cserélést taglaló tanulmányban megláttam egy szlovén folyónevet németre fordítva...  
 - Slovenian Bela – German Vellach (Velach 'white river')  
 
 ...akkor ötlött fel (annak figyelembevételével, hogy vajon hogy került a -ch végződés oda a német szóba?), hogy a magyarosított [[O/Oláh\|oláh]] [[O/O\|O]] hangja valóban eredetileg B/P lehetett, ahol a kiinduló [[B/Balog\|Balog]]-**Orion mivel az évet ketté osztó ponton van**, lehet fehér és fekete értelemmel társított.  
@@ -354,11 +370,13 @@ Az első példa a [[B/Black\|black]] és [[B/Bleach\|bleach]] címnél taglalt e
 #### Oláh Imre A Nimrud hagyomány...
 
 ...című tanulmányában pedig még ezt írja:  
-> A [[K/KUS\|KUS]] szó jelentése görögül ethiópot, tüzes, napégette barnabőrű embert jelölt. Kezdetben u. i. a tűz vagy fény jelképe, az isteni fogalmon kívül, még egyben a megistenített nemzet ős emberfeletti állapotának az elvont formáját is jelentette.  
+> A [[K/KUS\|kus]] szó jelentése görögül ethiópot, tüzes, napégette barnabőrű embert jelölt. Kezdetben u. i. a tűz vagy fény jelképe, az isteni fogalmon kívül, még egyben a megistenített nemzet ős emberfeletti állapotának az elvont formáját is jelentette.  
 
-Ha ehhez viszont azt vesszük, hogy Stein Aurél szerint a [[H/Heftalita\|heftalitá]]k a nagy indoszkíta (kusán) királyok jogutódainak tartották magukat (Aradi Éva szerint egyenesági, vérségi kapcsolat nem bizonyítható közöttük, de a nagy elődökre való hivatkozás jobban megalapozta hatalmukat), azaz a heftalita = fehér hun = kusán = kus = fehér (és a türkben is `kūz` = liba, ami fehér, ellenben türk `kuzgun` = holló, feketére utalva, ahol `kus` = madár). Mondható tehát, hogy a KUS = Kutya, ahogy Zajti Ferenc könyve alapján erre a következtetésre jutottunk? Nem! A két dolog nem azonos. [[L/Light\|Light]] címnél látott folyamatos emlékeztetők alapján sem.  
+Ha ehhez viszont azt vesszük, hogy Stein Aurél szerint a [[H/Heftalita\|heftalitá]]k a nagy indoszkíta ([[K/Kusán\|kusán]]) királyok jogutódainak tartották magukat (Aradi Éva szerint egyenesági, vérségi kapcsolat nem bizonyítható közöttük, de a nagy elődökre való hivatkozás jobban megalapozta hatalmukat), azaz a heftalita = fehér hun = kusán = kus = fehér (és a türkben is `kūz` = liba, ami fehér, ellenben türk `kuzgun` = holló, feketére utalva, ahol `kus` = madár). Mondható tehát, hogy a [[K/KUS\|Kus]] = Kutya, ahogy Zajti Ferenc könyve alapján erre a következtetésre jutottunk? Nem! A két dolog nem azonos. [[L/Light\|Light]] címnél látott folyamatos emlékeztetők alapján sem.  
 
-Hajdú Katalin A filiszteusok története című az Ősi Gyökér 2007/2-3. sz. megjelent cikkében írja még:   
+#### Hajdú Katalin A filiszteusok története...  
+
+...című az Ősi Gyökér 2007/2-3. sz. megjelent cikkében írja még:  
 > [[K/Kánaán\|Kánaán]] a babiloni szövegekben Kinahhu volt, melynek jelentése piros bíbor, azaz a tengerből halászott bíbor csiga. - Kánaán tehát azt jelenti "Bíbor ország," ugyanazt, mint a görög Fönícia neve.  
 
 Lásd még [[V/Vörös és fekete\|vörös és fekete]], valamint [[S/Szürke\|szürke]]. Lásd még [[T/Tarka\|tarka]], [[B/Bonta\|bonta]], [[A/Ablak\|ablak]].  
