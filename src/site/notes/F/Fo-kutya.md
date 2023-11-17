@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fo-kutya/","title":"Fo-kutya","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-05T04:33","updated":"2023-11-05T04:33"}
+{"dg-publish":true,"permalink":"/F/Fo-kutya/","title":"Fo-kutya","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-05T04:33","updated":"2023-11-17T09:47"}
 ---
 
 
@@ -40,7 +40,7 @@ Ami a [[F/FO\|FO]] nevet illeti, itt nyilván az Acharia S "Suns of God" című 
 Közben [[S/Sphinx\|Sphinx]]-ről megállapítattott, hogy a Fo-kutyához hasonlóan egyszerre kutya és nagymacska, azaz a Hunor/Magor Napok mintha keverednének benne.
 
 A kutya és nagymacska keveredése elöjött [[J/Jaguar\|jaguar]] nevével kapcsolatosan is:  
-Igen érdekes, sőt, megdöbbentő EP adata, miszerint a Tupi indiánok jaguára szava nagymacskát, de gyakran(!) [[K/Kutya\|kutyá]]t is jelöl. [[S/Sárkány\|Sárkány]], valamint [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]] címnél már láttuk példákat a kutya és macska/oroszlán fogalmak keveredésére, de Jeremy Black és Anthony Green, a Gods, Demons and Symbols in Ancient Mesopotamia c. könyv íróinak adata szerint az ókori Mezopotámiában is a nagymacskákat a kutyák családjába sorolták:  
+Igen érdekes, sőt, megdöbbentő EP adata, miszerint a tupi indiánok `jaguára` szava nagymacskát, de gyakran(!) [[K/Kutya\|kutyá]]t is jelöl. [[S/Sárkány\|Sárkány]], valamint [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]] címnél már láttuk példákat a kutya és macska/oroszlán fogalmak keveredésére, de Jeremy Black és Anthony Green, a Gods, Demons and Symbols in Ancient Mesopotamia c. könyv íróinak adata szerint az ókori Mezopotámiában is a nagymacskákat a kutyák családjába sorolták:  
 > The dog family to the Mesopotamians meant not only wolves, hyenas, jackals and dogs, but also lions.  
 > —  
 > A mezopotámiaiak számára a kutyák családja nemcsak a farkasokat, hiénákat, sakálokat és kutyákat jelentette, hanem az oroszlánokat is.  
