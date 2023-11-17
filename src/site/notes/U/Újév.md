@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2023-11-13T05:49"}
+{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2023-11-17T05:37"}
 ---
 
 
@@ -86,7 +86,10 @@ Amikor az első században élő/író(?) Manilius [[O/Orion\|Orion]] vezérség
 > Az Orion vezeti a csillagképeket, amint azok az égbolt teljes körét bejárják. A nyomában a teljes pályán kinyújtott Kutya következik: nincs csillag, amely hevesebben támadna az emberiségre, vagy nagyobb bajt okozna, amikor távozik. Hol a hidegtől reszketve kel fel, hol a Nap melege előtt nyitva hagyja a ragyogó világot \[a fordító megjegyzése: Az ókorban a Kutyacsillag esti kelése január elején, esti lenyugvása május elején történt\]: így a világot mindkét véglet felé mozgatja, és ellentétes hatásokat vált ki.  
 
 Még mindig a Szíriusz újévvel való kapcsolatáról van szó [[E/Epiphany\|epiphany]] címnél írottak szerint is (ott bővebben szerepelt):  
-Falvay Károly Nagyboldogasszony című könyvének 114-115. oldalán oldalán Kerényi Károly adatait osztja meg:  
+
+#### Falvay Károly Nagyboldogasszony...  
+
+...című könyvének 114-115. oldalán oldalán Kerényi Károly adatait osztja meg:  
 > A görög évkezdő fény-ünnepnap mögött Zeusz Ida-hegyi barlangcsodája van. (Január 6.: Epiphania – "kiáradás", amit az első évszázadokban a keresztény egyház Krisztus születési napjaként ünnepelt.) Ehhez a tüneményhez kezdetben szigorúan titkos rítus tartozott, csak nagyon kevesek vehettek rajta részt. Zeuszt ugyanis Kronosz bosszúja elől ebbe a barlangba mentette Héra (egyik változatban). Itt Melisszusz király lányai [[A/Amalthea\|Amalthea]] és Melissza táplálták a gyermeket. Melissza mézzel, mert a neve méhet jelent. Olyan történet is volt, melyben méhek voltak Zeusz dajkái. Sőt, meséltek Krétán egy szent "méhbarlangról" is, amelyben [[R/Rhea\|Rhea]] Zeuszt szülte.  
   
 
@@ -121,7 +124,7 @@ Hasonló problémával találkoztunk [[K/Kutya\|kutya]] bevezetőjében is, miko
 > A mithraizmuson belüli titkos tanítások a régmúlt aranykor végéről és egy új korszak közelgő hajnaláról szólhattak. A mithrai beavatás fokozatai a hét bolygószférán keresztül vezették a keresőt a Bakhoz kapcsolódó Pater (Szaturnusz) lakhelyére. A hetedik szinten túl egy titkos tanítás felfed egy nyolcadik "házat", ahol a hiperkozmikus Nap tartózkodott, és ahová egy égi kapun keresztül lehetett bejutni, amely akkor jelent meg, amikor a Nap a Bakban állt.  
 > ![assets/Újév_image4.png](/img/user/U/assets/%C3%9Aj%C3%A9v_image4.png) 
 
-Ezzel a hyperkozmikus Nappal kapcsolatban írja:  
+Ezen hiperkozmikus Nappal kapcsolatban írja:  
 > David Ulansey, "Mithras and the Hypercosmic Sun," in Hinnells, Studies in Mithraism; also posted on Ulansey's Web site: www.well.com/user/davidu/
 > The existence of two suns in the Platonic tradition (one visible and one hypercosmic) is derived from the Chaldaean Oracles, a collection of enigmatic writings from the second century A.D. The Hypercosmic Sun is accessed through the galactic gateway between Sagittarius and Scorpio, strongly suggesting that the Galactic Center is behind this ancient cosmoconception.  
 > —  
