@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/J/Jaguar/","title":"Jaguar","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-05T10:32","updated":"2023-11-05T10:32"}
+{"dg-publish":true,"permalink":"/J/Jaguar/","title":"Jaguar","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-05T10:32","updated":"2023-11-17T09:43"}
 ---
 
 
 # Jaguar
 
-Jaguár. A Tupí indiánok adták nevét. Felbontható lehetne Ja-Gu-Ár formában Jó Fő Úr értelemben. Mivel [[G/GU\|GU]] alapjelentése nyak, erről is kaphatta nevét. A Jaguár megjelenik az Apocalypse című Mel Gibson filmben is.  
+Jaguár. A tupí indiánok adták nevét. Felbontható lehetne Ja-Gu-Ár formában Jó Fő Úr értelemben. Mivel [[G/GU\|GU]] alapjelentése nyak, erről is kaphatta nevét. A Jaguár megjelenik az Apocalypse című Mel Gibson filmben is.  
 
 [[J/JÁK\|JÁK]], [[J/JÁG\|JÁG]] és [[J/Jag\|jag]] hímségi jelentései alapján Jág-Vár a helyesebbnek tűnő felbontása: Tűz Háza. Azt az óamerikai nyelvekben láttuk, hogy a v hang helyett u hang áll.  
 Igen érdekes Eric Partridge adata, miszerint a tupi indiánok `jaguára` szava nagymacskát, de gyakran(!) [[K/Kutya\|kutyá]]t is jelöl. Ennek megfelelően a guarani nyelvben is `jagua` = kutya ([[J/Jahve\|Jahve]] névhez való hasonlósága miatt oda is betéve).  
