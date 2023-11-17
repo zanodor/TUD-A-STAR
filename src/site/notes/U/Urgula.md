@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Urgula/","title":"Urgula","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-12T01:48","updated":"2023-11-12T01:48"}
+{"dg-publish":true,"permalink":"/U/Urgula/","title":"Urgula","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-12T01:48","updated":"2023-11-17T06:45"}
 ---
 
 
@@ -14,7 +14,7 @@ A [[S/Sumér zodiákus\|sumér zodiákus]] Oroszlánnak megfelelő csillagjegye,
 > A korábbi szövegekben az oroszlán neve általában "Mul Ur-mah" – a "Magasztos Oroszlán", de a 2. évezred közepétől kezdve a nevét általában "Mul Ur-Gu-la"-nak írják.  
 > A sumér szót az akkád nyelvbe `urgulű` néven vették át. Az Ur-jel egy oroszlánfejet ábrázol; a legjobb fordítása 'nagy húsevő', mivel a jel utalhat kutyákra és farkasokra is. A Gu-la kombináció a sumér Gal szó alternatív írásmódjának tűnik, amely egyszerűen azt jelenti, hogy "nagy".  
 
-Gavin White-nak, a Babylonian Star Lore című könyv írójának táblázatos adatai nyilván sumerológustól valók; a Gu-La [[G/GAL\|GAL]] olvasatát nem fogadnám el – lentebb még visszatérünk rá.  
+Gavin White-nak, a Babylonian Star Lore című könyv írójának táblázatos adatai nyilván valamelyik sumerológustól valók; a Gu-La [[G/GAL\|GAL]] olvasatát nem fogadnám el – lentebb még visszatérünk rá.  
 Az [[U/UR\|UR]], ahogy a vendéghajat vagy inkább a Bobula Ida szerint is kutyafejet ábrázoló piktogram mutatja, Úr jelentésű. [[G/GU\|GU]] több jelentésű etimon, [[L/LA\|LA]] pedig helyet és fényt is jelent.  
 
 #### PJI-nél is megvolt a név:  
@@ -36,9 +36,7 @@ Itt még PG megemlíti a [[M/Magura\|Magura]] címhez is betett `magura` = forr�
 
 Carl J. Becker A Modern Theory of Language Evolution című könyvének internetről leszedhető kivonatában az áll, hogy a (G. I. Gurdjieff által használt elnevezéssel) [[I/Imastun\|Imastun]] bölcsek (akik csillagtudományokkal, sőt, telepátiás beszéddel voltak megáldva) neve Ur-Mah volt a sumér hagyományban. Mivel a kutatók nem látszanak érteni a nevet, Becker is nagy kavarodást idéz elő. Mivel UR-t itt kutya jelentéssel adja meg (ahogy Varga Zsigmond is könyvében; lásd [[U/UR\|UR]]), Nagy Kutya értelmet is ad a névnek[^2], de `MAH` = pap jelentéssel is előhozakodik (másutt pedig [[G/Guda\|Guda]][^3] a papi kaszt neve). Mivel viszont Ur-Mah az Oroszlán csillagkép neve is volt, kénytelenek UR-nak "nagyobb testű húsevő" jelentést is adni. A problematika könnyen megoldható: az Ur-Mah másképpen Mah-Ur, [[M/Magur\|Magur]], mely a magyarok Napneve: a Nap jelképe lehet az oroszlán, és éppen az Oroszlánban van uralomban a Nap, ezért kapta a nevét is.  
 Hogy ebben az oroszlán-kutya keveredésben most kell-e keresnünk azt a relációt, hogy az Oroszlán korszakban érjük el a precessziós fénymaximumot (az Aranykorban, amikor a Kutya közel kerül hozzánk), vagy sem, nem tudni. Valószínűleg nem.  
-
-Peter Berresford Ellis kelta asztrológiáról szóló dolgozatában is írja, hogy a keltáknak (amikor átvették a római csillagképek neveit[^4]) nem volt fogalmuk (szavuk?) az oroszlánról, ezért került Cú (nagy vadászkutya) az Oroszlán csillagkép helyére/neveként. Arról nem szól, hogy nem az az első eset, hogy a két állat között fogalmi-jelképi keveredés van.
-
+- Peter Berresford Ellis kelta asztrológiáról szóló dolgozatában is írja, hogy a keltáknak (amikor átvették a római csillagképek neveit[^4]) nem volt fogalmuk (szavuk?) az oroszlánról, ezért került Cú (nagy vadászkutya) az Oroszlán csillagkép helyére/neveként. Arról nem szól, hogy nem az az első eset, hogy a két állat között fogalmi-jelképi keveredés van.  
 Tehát itt is csak erről lenne szó: mindkettő állat Napjelkép.  
 
 Inkább van arról szó, hogy a maga nemükben az oroszlános magyarok is "nagy kutyák", azaz magas tudásúak voltak: a mah pap jelentése a magas (magus, magóc, stb.) jelentésből indul ki.  
@@ -47,9 +45,9 @@ Ami a [[G/Guda\|Guda]] nevet illeti, ez nyilvánvalóan Kutya kell legyen, mely 
 Ugyanakkor az Ur-Mah mégiscsak lehet utalás arra nézve, hogy ekkor, a téridőben ezen a ponton kerülünk Szíriuszhoz közel (ebben a hónapban volt a kánikula is). Egyrészt az Ur-Mah a Kutya-Magas/Nagy (erejű) értelmezés, másrészt esetlegesen az angol [[S/Sir\|sir]] = úr és [[S/Sire\|sire]] = nemzésre használt kankutya megfeleltetés alapján (persze ez utóbbi nem közvetlen bizonyíték, hiszen az elnevezések általánosak és nem specifikusak lehetnek: a kiemelkedés és a fény növekedés/nagyság egyébként is kéz a kézben járnak).  
 [[F/Fo-kutya\|Fo-kutya]] és [[S/Sphinx\|Sphinx]] címnél pedig a kutya és oroszlán kapcsolatáról volt szó.  
 
-A Kutya Oroszlán csillagképpel való kapcsolatáról még annyit, hogy a Dr. Gyárfás Ágnes féle cikkekben több helyen idézett Stella Hungarorum című, Dr. Kovács Sándor által írt cikkben felhozott Szíriuszra utaló Mah-Gar, Ur Magar és hasonló nevek könnyen utalhatnak az Oroszlán Ur-Mah nevére, bár [[M/Magor\|Magor]] címnél arról volt szó, hogy a téli napfordulón születő Nap neve vitetett át a Szíriusz esetleges ilyen nevére, mert ilyenkor együttállás van. [[M/Magyar mint Szíriusz\|Magyar mint Szíriusz]] címnél közben írottakat is lásd.
+A Kutya Oroszlán csillagképpel való kapcsolatáról még annyit, hogy a Dr. Gyárfás Ágnes féle cikkekben több helyen idézett Stella Hungarorum című, Dr. Kovács Sándor által írt cikkben felhozott Szíriuszra utaló Mah-Gar, Ur Magar és hasonló nevek könnyen utalhatnak az Oroszlán Ur-Mah nevére, bár [[M/Magor\|Magor]] címnél arról volt szó, hogy a téli napfordulón születő Nap neve vitetett át a Szíriusz esetleges ilyen nevére, mert ilyenkor együttállás van. [[M/Magyar mint Szíriusz\|Magyar mint Szíriusz]] címnél közben írottakat is lásd.  
+- Kovács Sándor friss anyagát lásd [[U/UR\|UR]].  
 
-Kovács Sándor friss anyagát lásd [[U/UR\|UR]].  
 Még mindig Gyárfás Ágnesnél maradva, a Fordulat – Hitvilág, mítoszok, legendák című PDF 60. oldalán, Lugal Geme nagy Urasszony ki Mada nevezetű istenanya csillagképpel való megfeleltetésekor furcsa módon a Nagy Kutya csillagkép mellé a latin Leo Major latin nevet tette. Miért? A tudatalatti dolgozott benne? Nos, nem, mert a 61. oldalon megint Leo Majort szerepeltet. Magyarázatot nem ad viszont.  
 
 Az oroszlán Ur-Mah neve akkor lenne igazán helytálló, ha abban az időben az Oroszlánban lett volna a nyári napforduló (de akkor a Kutya hol lenne?). Lám, ez a [[S/Szűz csillagkép\|Szűz csillagkép]] címnél taglalt egyiptomi témához is érdekes lehet.  
