@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Karma/","title":"Karma","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-18T11:29","updated":"2023-11-18T11:29"}
+{"dg-publish":true,"permalink":"/K/Karma/","title":"Karma","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-18T11:29","updated":"2023-11-18T11:38"}
 ---
 
 
@@ -25,7 +25,7 @@ Azt pedig számtalanszor láttuk, hogy az ősi szavaink legtöbbször hímségi 
 
 #### Bakos Attila A Duna Evangéliuma...
 
-...című könyvének 447. oldalán nem szamszára értelemben adja meg karmát:  
+...című könyvének 447. oldalán nem [[S/Samsara\|szamszára]] értelemben adja meg karmát:  
 > A kozmikus ember belülről képes megérteni a karma (rendíthetetlen igazság szeretet) és szamszára (a lélekvándorlás következményei) törvényét, ezért nem is vét azok ellen.  
 
 Karma szóval azonosnak látszik a finn `lohikäärme` = sárkány szó utórészében meglévő `käärme` = kígyó (a kígyónak önálló nevei is vannak, de ez nem szerepel viszont köztük).  
@@ -34,7 +34,7 @@ Lásd még azonos hangalakú [[C/Charm\|charm]].
 Lásd még "kör" [[K/KAR\|KAR]]. Merthogy ez a lényege, a körforgás. Nem a Har-Ma, hanem nagyon is a Kar-Ma tűnik a keresett felbontásnak: Kar-Ma a Föld(i Élet) Köre ezen olvasatban. Hogy ez a lélekmadarak karmával fejeződött-e a népműveszetben, lelkük rajta. A magyar szavaknak mindig többletjelentésük van, ahogy a [[M/Magyar képrejtvények\|magyar képrejtvények]] címnél szó volt róla.  
 
 Ha a [[S/Szótagmegfordítás\|szótagmegfordítás]] címnél írottakat figyelembe vesszük, Kar-Ma a Ma-Kar megfordítása lehetne. Ma-Kar ugye a [[M/Magor\|Magor]] Napra utal, mely körben mozog [[M/Magyar\|Magyar]] nevű anyjában, a [[C/Csudaszarvas\|Csudaszarvas]] vezetése által.  
-Ez egy igen nagyszerű felismerés, hiszen a [[S/Szarvas\|szarvas]] címnél taglalt Szar-Mas/sárma/[[S/Sarama\|Sarama]] mind a szatemes változatai is lehetnek a karma szónak. Sőt, ha nagyon akarjuk, újabb szótagmegfordítással élve mondhatjuk azt is, hogy a szarvas/szarmas a magyar/masszar megfordítása.  
+Ez egy igen nagyszerű felismerés, hiszen a [[S/Szarvas\|szarvas]] címnél taglalt Szar-Mas/sárma/[[S/Sarama\|Sarama]] mind a szatemes változatai is lehetnek a karma szónak. Sőt, ha nagyon akarjuk, újabb szótagmegfordítással élve mondhatjuk azt is, hogy a szarvas/szarmas a magyar/\*masszar megfordítása.  
 
 Lásd még PJI gondolataiért is [[C/Ceramics\|ceramics]]. [[K/Karbarás\|Karbarás]] (görög [[C/Cerberus\|Cerberus]]) nevében is ez a körforgás jelenik meg.  
 [[E/Életkör\|Életkör]]ről lásd még ott, valamint [[O/Ouroboros\|ouroboros]], [[S/Samsara\|Samsara]] és [[K/Kezdet és vég\|kezdet és vég]].  
