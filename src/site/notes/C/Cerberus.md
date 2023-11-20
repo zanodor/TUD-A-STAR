@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cerberus/","title":"Cerberus","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-16T02:33","updated":"2023-11-16T02:33"}
+{"dg-publish":true,"permalink":"/C/Cerberus/","title":"Cerberus","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-16T02:33","updated":"2023-11-20T04:26"}
 ---
 
 
@@ -57,8 +57,8 @@ Hogy a [[K/Kilenc\|kilenc]] és a [[K/Kutya\|kutya]] is mind kozmológiai attrib
 Ezek a [[S/Sarama\|Sarama]] szülte kutyák neve, de Yama, a Halálisten kutyáinak is mondják őket.  
 
 [^4]: Lábjegyzet:  
-David Gordon White Dogs Die-ából való:
+David Gordon White Dogs Die c. könyvéből való:
 The hellhound, starting with the familiar Kerberos/Cerberus of Greco-Roman tradition (whose name, we might add, is a cognate of that of Yama's dog Sabala) is a perennial death symbol, from Iceland to India.  
 —  
 A pokolkutya, kezdve a görög-római hagyományból ismert Kerberos/Cerberusszal (akinek a neve, tegyük hozzá, rokon Yama kutyájának, Sabalának a nevével), Izlandtól Indiáig örökös halálszimbólum.  
-> \[Hogy milyen etimológiai vizsgálat alapján rokonok Cerberus és Śabala, ezt csak ők tudják.\]  
+(Hogy milyen etimológiai vizsgálat alapján rokonok Cerberus és Śabala, ezt csak ők tudják.)  
