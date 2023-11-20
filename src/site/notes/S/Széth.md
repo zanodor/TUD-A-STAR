@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["dg_uploaded"],"created":"2023-10-16T01:30","updated":"2023-11-08T01:42"}
+{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-16T01:30","updated":"2023-11-20T05:42"}
 ---
 
 
@@ -76,7 +76,7 @@ Viszont ez a Magorral való azonosítás is csak akkor fogadható el, ha a Vasko
 > Idézem a legfőbb bizonyítékot. Ez a Seth találta ki először héber betűket, a bölcseletet, az égi jeleket, az évforduló, a hónapot, hetet, adott neveket a csillagoknak és az öt bolygónak. És valamivel alább ugyanazon az oldalon: Az özönvíz után Arphaxad \[lásd [[A/Arpakshad\|Arpakshad]] és említve [[K/Káld\|káld]]\] fia írta meg a csillagászatot, miután megtalálta Sethnek és fiainak, amint mondják, kőtáblára vésett csillagjegyzékét. Ennek az utóbbi helynek, amely valamelyest bővített fogalmazása a már (Flavius) Josephus által ismertetett mondának, azért van külön jelentősége, mert Arphaxad Zurwan mellett különben is, mint az Iránság képviselője jelenik meg.  
 
 Úgy tűnik, a héber Seth-tisztelet más forrásból is igazolható. [[S/Seven\|Seven]] címnél is szerepelt:  
-A héber is végsősoron a sumér és az avar-hun-óegyiptomi nyelvből fejlődött ki. A [[J/Jehova\|Jehova]] címnél említett, RHA Star Names című könyvében előjövő [[E/El Shaddai\|El Shaddar]] a Szíriusz [[S/Sopdet\|Sopdet]], (a [[S/Septem\|septem]] címnél is közben említett) **Sept**, **Sed**, stb. elnevezéseihez köthető, minthogy bizonyos Müller szerint a Sed, Shed hieroglifa-olvasatok héber megfelelője lenne El Shaddar.  
+A héber is végső soron a sumér és az avar-hun-óegyiptomi nyelvből fejlődött ki. A [[J/Jehova\|Jehova]] címnél említett, RHA Star Names című könyvében előjövő [[E/El Shaddai\|El Shaddar]] a Szíriusz [[S/Sopdet\|Sopdet]], (a [[S/Septem\|septem]] címnél is közben említett) **Sept**, **Sed**, stb. elnevezéseihez köthető, minthogy bizonyos Müller szerint a Sed, Shed hieroglifa-olvasatok héber megfelelője lenne El Shaddar.  
 
 Ezek alapján (és a bibliai [[E/El Shaddai\|El Shaddai]] névvel való azonossága alapján is!) Jehova Széth folytatása lenne és joggal mondhatnák a zsidók, hogy ők az "eredeti istent" (a sötét az alapállapot) imádják. Sőt, ha már itt tartunk, a Sed név – mellyel azonos zsidó `sed` név előjött afféle tündér jelentéssel [[S/Sidhe\|sidhe]] címnél is – eredetét képezheti a [[S/Sidó\|sidó]]/[[Z/Zsidó\|zsidó]] névnek is, de ha Széth alant taglalt kutya állatjelét vesszük figyelembe, akkor a [[K/Kutya\|kutya]]>kuta>kuda>khuda>huda>[[J/Júda\|Júda]] fejlődési sorozaton keresztül a zsidók másik nevét is meg tudjuk határozni.  
 - [[J/Jehova\|Jehova]] és [[O/Ószövetség\|Ószövetség]] címnél írtuk legutóbb, hogy a Jehova-kultusz nem más, mint a Széth-kultusz fennmaradása/folytatása, és így az Ószövetség elnevezés is eredetileg a – [[H/Hyperborea-Atlantisz átállás\|Hyperborea-Atlantisz átállás]] címnél taglalt változások alapján – régi anyakultuszra (plusz öreg Napisten/Szíriusz kultuszra) utalt volna és az Újszövetség pedig a szoláris napfiú-kultuszra, csak éppen az az eredeti Ószövetséget átírták.  
@@ -229,14 +229,16 @@ Legutóbb [[T/Typhon\|Typhon]] címnél is szerepelt...
 #### Richard H. Allen Star Names...
 
 ...című könyvének Ursa Maior-nál szereplő adata (hasonlókról szó esett [[C/Cynosure\|Cynosure]] címnél is és betehető [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] címhez is):  
-> Hewitt writes of Set in his earliest form as [[H/Hapi\|Kapi]], the Ape-God, stars of our [[C/Cepheus\|Cepheus]] marking his head; while at one time on the Nile the [[W/Wain\|Wain]] stars seem to have been **the Dog of Set or of Typhon**. This may have given rise to the title Canis Venatica that La Lande cited, if this be not more correctly considered as the classic Kallisto's hound; and the same idea appears in the Catuli, Lap-dogs, and Canes Laconicae, the Spartan Dogs, that Caesius cited for both of the Wains.  
+> Hewitt writes of Set in his earliest form as [[H/Hapi\|Kapi]], the Ape-God, stars of our [[C/Cepheus\|Cepheus]] marking his head; while at one time on the Nile the [[W/Wain\|Wain]] stars seem to have been **the Dog of Set or of Typhon**. This may have given rise to the title Canis Venatica that La Lande cited, if this be not more correctly considered as the classic Kallisto's hound; and the same idea appears in the **Catuli**, Lap-dogs, and Canes Laconicae, the Spartan Dogs, that Caesius cited for both of the Wains.  
 > —  
-> Hewitt azt írja, hogy Set a legkorábbi formájában [[H/Hapi\|Kapi]], a Majomisten, a mi [[Cepheusunk\|Cepheusunk]] csillagai jelölik a fejét; míg egykor a Níluson a [[W/Wain\|Wain]] \[Göncöl\] csillagok úgy tűnik, hogy **Set vagy Typhon Kutyája** voltak. Ebből adódhatott a La Lande által idézett Canis Venatica elnevezés, ha ezt nem tekintjük helyesebben a klasszikus Kallisto kutyájának; és ugyanez a gondolat jelenik meg a Catuli, ölbeli kutyák és a Canes Laconicae, a spártai kutyák elnevezésében, amelyet Caesius mindkét Wain (Szekér csillagzat) esetében idézett.  
+> Hewitt azt írja, hogy Set a legkorábbi formájában [[H/Hapi\|Kapi]] (helyesen [[H/Hapi\|Hapi]]), a Majomisten, a mi [[C/Cepheus\|Cepheus]]-unk csillagai jelölik a fejét; míg egykor a Níluson a [[W/Wain\|Wain]] \[Göncöl\] csillagok úgy tűnik, hogy **Set vagy Typhon Kutyája** voltak. Ebből adódhatott a La Lande által idézett Canis Venatica elnevezés, ha ezt nem tekintjük helyesebben a klasszikus Kallisto kutyájának; és ugyanez a gondolat jelenik meg a Catuli, ölbeli kutyák és a Canes Laconicae, a spártai kutyák elnevezésében, amelyet Caesius mindkét Wain (Szekér csillagzat) esetében idézett.  { #qz3nuv}
+
 
 Majd lábjegyzetben:  
 > Set, also Anubis, Apap, Apepi, Bes, Tebha, Temha, and Typhoeus according to Plutarch, was one of Egypt's greatest gods, who subsequently became the Greek giant Typhon, father of the fierce winds, but slain by Zeus with a thunderbolt and buried under Mount Aetna.  
 > —  
-> Set, Plutarkhosz szerint Anubisz, Apap, Apepi, Bes, Tebha, Temha és Typhoeus is, Egyiptom egyik legnagyobb istene volt, aki később a görög óriás Typhon, a heves szelek atyja lett, de Zeusz villámcsapással megölte és eltemette az Etna hegy alatt.  
+> Set, Plutarkhosz szerint Anubisz, Apap, Apepi, Bes, Tebha, Temha és Typhoeus is, Egyiptom egyik legnagyobb istene volt, aki később a görög óriás Typhon, a heves szelek atyja lett, de Zeusz villámcsapással megölte és eltemette az Etna hegy alatt.  { #itc5r4}
+
 
 Tüphon is tehát arra a sorsra jutott, mint minden régen tisztelt nagy Isten. A fény-árnyék változások során a korábbi istenek befeketülnek a papság és a nép szemében: démonizálva lesznek. Lásd mi történt Bál-lal és a [[D/Dévák és Aszúrák\|dévák és aszúrák]] is megérnek egy misét. Minderről szóltunk [[M/Magyarellenesség\|magyarellenesség]] címnél is: hogy feledte el a világ Szíriusz és a hun-magyarság jótéteményeit.  
 
