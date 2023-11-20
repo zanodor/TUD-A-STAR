@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2023-11-20T05:40"}
+{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2023-11-20T06:25"}
 ---
 
 
@@ -12,7 +12,7 @@ A hivatalos bibilia fáma (a formai-irodalmi és közérthetőséget lebutított
 > —  
 > Argumentum 15. A napéjegyenlőség és a napforduló napján.  
 > Az a nap, amelyen az Úr Jézus Krisztus testet öltött Szűz Máriától Betlehemben, az a nap, amelyen a nap növekedni kezd. Az első napéjegyenlőség március 25-én van, amikor a nappal egyenlő az éjszakával. Gábriel ezen a napon hirdeti Szent Máriának, mondván:  
-> A Szentlélek leszáll reád, és a Magasságos ereje beárnyékol téged. Ezért azt is, aki tőled születik, Isten Fiának fogják nevezni. \[Lukács 1.35, King James jóvoltából\] Krisztus is ezen a napon szenvedett testben. A második napforduló június 24-én van, ettől a naptól kezd csökkeni a nap, és ekkor született Keresztelő Szent János is. A második napéjegyenlőség szeptember 24-én van, ezen a napon fogant Keresztelő János. És ettől kezdve egészen az Úr és Megváltó születéséig a nappal rövidebb lesz, mint az éjszaka. Március 25-től december 25-ig a napok száma 271. És ez a napok száma azután, hogy Krisztus Urunk március 25-én, vasárnap fogant, Krisztus Urunk december 20-án, kedden született. Azon a napon, amelyen elszenvedte halálát, 133 \[? 33\] év és 3 hónap telt el, ami 12 \[ezer\] 414 nap. És ennyi nappal azután, hogy születése kedden történt, pénteken szenvedett halált: december 25-én született és március 25-én szenvedett halált. Attól kezdve, hogy a mi Urunk Jézus Krisztus megkeresztelkedett, 2 év telt el, és a napok száma 90 volt, ami 820-at ad, szökőnapokkal együtt, és így január 6-án, csütörtökön keresztelkedett meg, és halálát, mint fentebb mondtam, március 25-én, pénteken szenvedte el. A szökőnapokkal együtt ez összesen 12 \[ezer\] 415 napot ad, és 90 napot (január 6-tól) március 25-ig.  
+> A Szentlélek leszáll reád, és a Magasságos ereje beárnyékol téged. Ezért azt is, aki tőled születik, Isten Fiának fogják nevezni. \[Lukács 1.35, King James jóvoltából\] Krisztus is ezen a napon szenvedett testben. A második napforduló június 24-én van, ettől a naptól kezd csökkenni a nap, és ekkor született Keresztelő Szent János is. A második napéjegyenlőség szeptember 24-én van, ezen a napon fogant Keresztelő János. És ettől kezdve egészen az Úr és Megváltó születéséig a nappal rövidebb lesz, mint az éjszaka. Március 25-től december 25-ig a napok száma 271. És ez a napok száma azután, hogy Krisztus Urunk március 25-én, vasárnap fogant, Krisztus Urunk december 20-án, kedden született. Azon a napon, amelyen elszenvedte halálát, 133 \[? 33\] év és 3 hónap telt el, ami 12 \[ezer\] 414 nap. És ennyi nappal azután, hogy születése kedden történt, pénteken szenvedett halált: december 25-én született és március 25-én szenvedett halált. Attól kezdve, hogy a mi Urunk Jézus Krisztus megkeresztelkedett, 2 év telt el, és a napok száma 90 volt, ami 820-at ad, szökőnapokkal együtt, és így január 6-án, csütörtökön keresztelkedett meg, és halálát, mint fentebb mondtam, március 25-én, pénteken szenvedte el. A szökőnapokkal együtt ez összesen 12 \[ezer\] 415 napot ad, és 90 napot (január 6-tól) március 25-ig.  
 
 #### Thomas Inman Ancient Pagan and Modern Christian Symbolism...
 
@@ -52,8 +52,9 @@ A könyv 191. oldalán lábjegyzetben:
 > —  
 > A provence-i Kosban az Istennő mint az Anyák triászának vagy pentádjának kultusza keresztény álruhában egészen napjainkig fennmaradt, amikor is május 24-től május 28-ig, a galagonya, vagyis a tisztaság hónapjának közepéig ünneplik az ünnepét, de most már hívei nagyrészt cigányok. Hármasként "Provence három Szűz Máriája" vagy "A tenger három Szűz Máriája" néven vált ismertté; ötösként Márta és egy apokrif szolgálóleány, Sára is csatlakozott hozzá.  
 
-#### Jankovics Marcell amit még ír:
-  
+#### Jankovics Marcell...
+
+...amit még ír:  
 > Egy apokrif nézet szerint Mária valójában [[J/Jézus\|Jézus]] asszonya volt. Ez a feltevés sem az Ember Fiára, sem az Isten Fiára nézve nem sértő, és nem is kizárható. Különösen, ha figyelembe vesszük a Jézus nap-holdistenségére vonatkozó számtalan utalást az evangéliumokban. Graves Jézus király című regényében a három Máriát: a Szűzanyát, a magdalait és a bethániait mint az Anya, a Nimfa (Feleség) és a Szűz megszemélyesítőit egyenesen a Fiúval párt alkotó nagy istennőháromság földi képviselőiként ábrázolja.  
 - Erről volt szó fentebb.
 
@@ -92,8 +93,9 @@ A modern filológia a névnek az alábbiak szerint három lehetőséget kínál:
 A tenger értelem Falvay Károlynál és Robert Graves-nél is előjön és magam már előttük is firtattam:  
 A [[M/Mare\|mare]] = tenger jelentése kapcsán felvetődött, hogy mi van, ha itt az eget és végső soron egy pogány M-R szóvázú égistennőt/Tejútistennőt kell látnunk amögött és a Mária név mögött is. Nem elfelejtendő, hogy Tejútfolyamnévként ismert a [[M/Maros\|Maros]] folyónk neve is.  
 
-#### Falvay Károly Nagyboldogasszony című könyvében írja:
+#### Falvay Károly Nagyboldogasszony...  
 
+...című könyvében írja:  
 > Az Isten Fia kiválasztott\[?\] Anyjának az antikvitásból származó női elve a kereszténységben (rejtetten) Mária nevében található. A szó valójában `mare`, `meer` = tenger jelentésű. A tenger képzet a pszichiátriai gyakorlatban éjszaka, öröklét, sötétség jelentésű. Ez a kifejezés számtalan esetben meg is található a fényt, azaz fiút foganó Szűz Mária középkori szimbólumaként: "Stella Maris" (Tenger csillaga).  
 - FK persze nem tud asszociálni az ég tengerére és a Tejútra.  
 
