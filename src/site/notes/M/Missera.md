@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Missera/","title":"Missera","tags":["dg_uploaded","Englishtexttranslated","containstransclusions"],"created":"2023-10-16T08:03","updated":"2023-11-20T06:24"}
+{"dg-publish":true,"permalink":"/M/Missera/","title":"Missera","tags":["dg_uploaded","Englishtexttranslated","containstransclusions"],"created":"2023-10-16T08:03","updated":"2023-11-21T01:41"}
 ---
 
 
@@ -21,11 +21,11 @@ Ezek alapján is azt lehetne mondani, hogy a [[S/Száz\|száz]], hasonlóan a [[
 Száz etimonjánál, [[S/SZAT\|SZAT]]-nál más, de hasonló jelentéseket is megadtunk. A teljes jelentés is odakerült, utólag. A SZAT-tal kapcsolatba hozott [[C/Csata\|csata]] címnél pedig [[H/HAT\|HAT]] számunkról is volt szó: ott arra a következetésre jutottunk, hogy a hat azon állapot, amikor [[N/Nagy Év\|Nagy Év]] [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]e alsópontjáról megindulunk a hét, a felső pont felé. Mondhatni 6 és 7 között annyi idő telik el, mint a 100 fele, 50 alatt, azaz 13000 év. Persze amennyiben igaz, hogy az ötven kódszám.  
 Igen valószínűen az. Már [[O/Ötevény\|Ötevény]] címnél is szóltunk arról, hogy – dacára annak, hogy ez az elnevezés egyszerűen Ösvény és Ős-Fény olvasatú is lehet – hogy a Tejút ezen neve és az [[O/Ötven\|ötven]] számunk között összefüggés kell legyen. Mégpedig az, hogy a Nagy Évben a Nap 13000 évente halad át a Tejúton, annak is egy fontos pontján, a Tejútközponton (minden JMJ-től származó infót lásd [[G/Galactic centre\|Galactic centre]]). Ez is igazolja az 50 és a 13000 "azonosságát."  
 Ez a 13000 évenkénti egyszer a Tejút egyik, egyszer másik oldalán létünk lehet magyarázat arra is, hogy miért van a [[P/Procyon\|Procyon]] és a Szíriusz egyszer az egyik, mássszor a másik "Tejútparton."  
-De az sem mellékes, hogy 13000/50 = 260, és ez a [[M/Maya naptár\|maya naptár]] napokban mért hossza, illetve megközelítőleg az ember-embrió méhen belüli fejlődési ideje is.  
+De az sem mellékes, hogy 13000/50 = 260, és ez a [[M/Maja naptár\|maja naptár]] napokban mért hossza, illetve megközelítőleg az ember-embrió méhen belüli fejlődési ideje is.  
 Talán éppen ez a számítás az, ami elvetni látszik a Joscelyn Godwin Arktos The Polar Myth című könyvében taglalt Drayson 32000 éves és Milankovitch 41000 éves ciklusait. Persze korántsem tudjuk, hogy például 6-8 ezer évvel ezelőtt, vagy éppen 32-34 ezer évvel ezelőtt milyen szög alatt állt a Föld tengelye az ekliptikához képest, és hogy éppen a Szíriusszal való tánc pontosan hogyan befolyásolja a Naprendszerünk mozgását és a Föld tengelyének ferdeségét, melyről azt állítják, hogy változik.  
 
 Igen érdekes, ha már kutyákról volt szó (a [[K/Kutya\|kutya]] címnél sorra vesszük, miért lett Szíriusz kutyacsillag és miért lett totem a kutya), hogy a kutya szukák egy évben éppen kétszer, általában kb. hat hónaponta tüzelnek (és az ind [[S/Sarama\|Sarama]] = Szíriusz is nőiségi) (a kankutyák bármikor képesek párzani). Szépen összevág mindez a hund missera = Kutya-csillag fény-közelségbe kerülés a felső (erős) ágon frázis jelentésével is. Vagy csak véletlen...(?)  
-- Fentebb, a [[M/Maya naptár\|maya naptár]] címnél szerepelt, hogy a terhes nők gyerek-kihordási ideje kb. 260 nap; vajon a kutyáké mennyi?  
+- Fentebb, a [[M/Maja naptár\|maja naptár]] címnél szerepelt, hogy a terhes nők gyerek-kihordási ideje kb. 260 nap; vajon a kutyáké mennyi?  
 
 A száz, illetve a DCS által mondhatjuk helyesen idő jelentéssel megadott (közel azonos; műveleti okokból csökken százra) **108** tehát egy teljes kör időegységére kell vonatkozzon. Tulajdonképpen a 100 a téridő egyszerűsített kódszáma[^1].  
 Ez a 100/108 lehet egyenlő is a 360°-kal, meg nem is.  
@@ -110,7 +110,7 @@ Az ott írottak alapján missera fél év jelentésére vélhetően szintén hyp
   
 
 
-[[B/Bal és jobb\|Bal és jobb]] címnél és Tilak Orion című könyvében írottak alapján kiderül, hogy a védikus ind nyelvben a (Napút) félév(ének) neve ayana, ahol `yana` = (Nap)út. Azaz nem Mitra nevével számol.  
+[[B/Bal és jobb\|Bal és jobb]] címnél és Tilak Orion című könyvében írottak alapján kiderül, hogy a védikus ind nyelvben a (Napút) félév(ének) neve `ayana`, ahol `yana` = (Nap)út. Azaz nem Mitra nevével számol.  
 Másutt (130. oldal lábjegyzetében) is az áll, hogy elsődlegesen filológiai bizonyítékok állnak rendelkezésre arra nézve, hogy ketté tagolták az évet.  
 Erről a kettős tagolásról lásd még [[J/Janus\|Janus]], mely János név lehet jön szavunkból eredő vagy inkább (a latin `annus` = év szóhoz is kötve; lásd [[A/Anna\|Anna]], [[A/Annual\|annual]] és [[A/Anus\|anus]]) An/Ana, azaz a Tejútanya [[V/Vulva\|vulvá]]jához, [[K/Köldök\|köldök]]éhez köthető. Másutt már volt szó a hindu [[A/Anuradha\|Anuradha]] nakshatráról is ilyen vonatkozásban, valamint ugye a Tilak által 133. oldalán taglalt szavakban is a jön vagy az An(a) szavakból lehet kiindulni: nála `ayana` = félév, `hayana` = év.  
 
