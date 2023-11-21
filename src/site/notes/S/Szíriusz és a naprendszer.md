@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz és a naprendszer/","title":"Szíriusz és a naprendszer","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-13T05:21","updated":"2023-11-13T05:21"}
+{"dg-publish":true,"permalink":"/S/Szíriusz és a naprendszer/","title":"Szíriusz és a naprendszer","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-13T05:21","updated":"2023-11-21T01:45"}
 ---
 
 
@@ -133,7 +133,7 @@ A jobb alsó ábrához tartozó részben jól írja [[N/Nibiru\|Nibiru]]-ról, h
 > És valóban, a maják a Galaktikus Központot választották referenciapontnak az idő múlásának jelölésére, ami nyilvánvaló, mivel a maják hosszú számlálása a Naprendszer galaktikus együttállásával ér véget 2012. december 21-én. Ezért az az elképzelés, hogy a **Föld kering a Nap körül, vagy hogy a Nap kering a Szíriusz körül, vagy hogy a Szíriusz kering az Alcyone körül** és hogy **az Alcyone kering a Galaktikus Mag körül**, nem forradalmi - ez csak egy elveszett tudás újrafelfedezése.  
 - Na ez az a rész, amivel viszont csínján kell bánni, Alcyone távolsága miatt is. Mindenesetre a babiloni-asszír ábrázolásokon sokszor szerepelnek hét pöttyel jelezve a [[P/Pleiadok\|Pleiadok]]. Gavin White Babylonian Star Lore című könyvében pedig azt írja, hogy a [[M/Mulapin\|Mulapin]]-ban a Pleiadok kerültek a csillaglista élére, nem a Kos/Béres/[[L/Luhunga\|Luhunga]].  
 
-[[M/Maya naptár\|Maya naptár]] és [[I/Idő#Kétféle idő\|kétféle idő]] cím/alcímnél kezdtünk el beszélni Valum Votan – Az élő prófécia című angolból magyarra Tibold Makk Szabina által fordított, az Ősi Gyökér 2008/2. sz. megjelent cikkéről. Aztán [[A/Apocalypse\|apocalypse]] és [[P/Precesszió\|precesszió]] címnél szóltunk a 26000 éves, mayák által is ismert ciklusról.  
+[[M/Maja naptár\|Maja naptár]] és [[I/Idő#Kétféle idő\|kétféle idő]] cím/alcímnél kezdtünk el beszélni Valum Votan – Az élő prófécia című angolból magyarra Tibold Makk Szabina által fordított, az Ősi Gyökér 2008/2. sz. megjelent cikkéről. Aztán [[A/Apocalypse\|apocalypse]] és [[P/Precesszió\|precesszió]] címnél szóltunk a 26000 éves, mayák által is ismert ciklusról.  
 Aztán amikor TMSZ az internetes New Age-s [[A/Alcyone\|Alcyone]] csillaggal kapcsolatos, de nála némileg eltérő információt említi...  
 - E \[26000 éves\] ciklus ugyanakkor egybeesik azzal a 26000 éves kapcsolattal, melyben a Napunk megkerüli Alcyont, a 7 Nővér, a [[P/Pleiadok\|Pleiadok]] konstellációjának központi Csillagát.  
 
