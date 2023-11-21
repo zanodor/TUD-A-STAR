@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2023-11-20T06:25"}
+{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2023-11-19T06:25:00"}
 ---
 
 
@@ -118,7 +118,7 @@ A Föld kering a Nap körül, mely a Szíriusz körül, mely az [[A/Alcyone\|Alc
 
 Michael S. Heiser szerint is a hét csillag mindig a Pleiadokra utal. Lásd csatolt képeket, neo-asszír korszakból való pecsétnyomó hengerekről [[A/Alcyone\|Alcyone]].  
 
-[[M/Maya naptár\|Maya naptár]] és [[I/Idő#Kétféle idő\|kétféle idő]] cím/alcímnél kezdtünk el beszélni Valum Votan – Az élő prófécia című angolból magyarra Tibold Makk Szabina által fordított, az Ősi Gyökér 2008/2. sz. megjelent cikkéről. Aztán [[A/Apocalypse\|apocalypse]] és [[P/Precesszió\|precesszió]] címnél szóltunk a 26000 éves, mayák által is ismert ciklusról.  
+[[M/Maja naptár\|Maja naptár]] és [[I/Idő#Kétféle idő\|kétféle idő]] cím/alcímnél kezdtünk el beszélni Valum Votan – Az élő prófécia című angolból magyarra Tibold Makk Szabina által fordított, az Ősi Gyökér 2008/2. sz. megjelent cikkéről. Aztán [[A/Apocalypse\|apocalypse]] és [[P/Precesszió\|precesszió]] címnél szóltunk a 26000 éves, mayák által is ismert ciklusról.  
 Aztán amikor TMSZ az internetes New Age-s Alcyone csillaggal kapcsolatos, de nála némileg eltérő információt említi...  
 - E \[26000 éves\] ciklus ugyanakkor egybeesik azzal a 26000 éves kapcsolattal, melyben a Napunk megkerüli Alcyont, a 7 Nővér, a Pleiadok konstellációjának központi Csillagát.  
 
