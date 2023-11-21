@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-13T01:11","updated":"2023-10-26T06:58"}
+{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-13T01:11","updated":"2023-11-21T10:57"}
 ---
 
 
@@ -62,16 +62,16 @@ Megpróbálom egy gyors skiccel felvázolni, miről van szó, de ennél sokkal s
 [[E/Eire\|Eire]] címnél pedig szöveges háttéranyag is szerepel.  
 Az előhang nélküli és előhangos állatnevek kapcsán legutóbb [[U/UR#UR szóval képzett állatnevek\|UR szóval képzett állatnevek]] cím/alcímnél is szóltunk.  
 
-![assets/A_image1.png|undefined](/img/user/A/assets/A_image1.png)  
+![assets/A_image1.png](/img/user/A/assets/A_image1.png)  
 
 
 #### Borbola János A magyarok istene...
 
 ...című 2005/1. sz. megjelent tanulmányában ugyan nem teljesen úgy gondolkodik, ahogy én, de a végeredményt tekintve jól írja:  
-> [[U/UR\|ÚR]] és [[E/ÉL\|ÉL]] is AN változatai; az n → r → l mássalhangzóváltások figyelembevételével azonosíthatók: AN → ÚR → ÉL. (Gyakorlatilag az n → r → l hangokat szájunk azonos helyén, nyelvünk azonos állása mellett képezzük, szavainkban gyakran felcseréljük őket. Mindhárom zöngés foghang. Az egyiptológia egymásba folyó hangalakoknak tartja.)  
+> [[U/UR\|ÚR]] és [[E/ÉL\|ÉL]] is AN változatai; az n → r → l mássalhangzóváltások figyelembe vételével azonosíthatók: AN → ÚR → ÉL. (Gyakorlatilag az n → r → l hangokat szájunk azonos helyén, nyelvünk azonos állása mellett képezzük, szavainkban gyakran felcseréljük őket. Mindhárom zöngés foghang. Az egyiptológia egymásba folyó hangalakoknak tartja.)  
 - A magánhangzók az egyedüli hangok, melyek önállóan értelmesek \[ahogy MA és a fentebb említett TZs adatai több helyen erről szóltak\] és az isteni szellem megszólaltatói. Csak magyar nyelven értelmezhetők Robert Graves The White Goddess c. könyvének 285-286. oldalán és az őt forrásaként megnevező JM írásai [[J/Jehova\|Jehova]] címnél is, ahol a [[D/Dó, Ré, Mi, Fá, Szó, Lá, Ti hangsor\|Dó, Ré, Mi, Fá, Szó, Lá, Ti hangsor]]ról is volt szó, mint kiinduló ideáról.
 
-Ami tehát azt a szabályt illeti, hogy a magyar nyelvében a mássalhangzók "viszik" a szó jelentését, igaz, viszont a mássalhangzó magában nem lehet szó. Ki sem tudod ejteni őket magánhangzó nélkül (PG az [[S/SZ\|SZ]] hangzót félmagánhangzónak titulálja). Ezért hívjuk őket mássalhangzónak. A mássalhangzók csak a vázat adják meg, a testet. A lelket//szellemet a magánhangzók hordozzák a szavakban, mely szavak a magyar nyelvben egy betűből is állhatnak, de sosem mássalhangzóként.  
+Ami tehát azt a szabályt illeti, hogy a magyar nyelvében a mássalhangzók "viszik" a szó jelentését, igaz, viszont a mássalhangzó magában nem lehet szó. Ki sem tudod ejteni őket magánhangzó nélkül (PG az [[S/SZ\|SZ]] hangzót félmagánhangzónak titulálja). Ezért hívjuk őket mássalhangzónak. A mássalhangzók csak a vázat adják meg, a testet. A lelket/szellemet a magánhangzók hordozzák a szavakban, mely szavak a magyar nyelvben egy betűből is állhatnak, de sosem mássalhangzóként.  
 
 Kapát Ka-Pa felbontásban is lehet értelmezni. [[C/Cápa\|Cápa]] címnél is volt arról szó legutóbb, hogy a magyar nyelvre az jellemző, hogy többféleképpen elemezhetőek a szavak. Ezért is járnak (rész)sikerrel a CzF szótár szerkesztői is és az etimonokat nem ismerő magyar gondolkodók is, mint például MA. Hiszen (a Cá-Pa/Szá-Pa = Száj-Fej értelmezés mellett) Cáp-A felbontásban Cáp a hímségi [[C/Csap\|csap]] igével is egyeztethető, utalva a csapott fejére, vagy akár fogaira is. A szóvégi A hangról meg lehet az, amiről fentebb szó volt.  
 
@@ -79,7 +79,9 @@ Kapát Ka-Pa felbontásban is lehet értelmezni. [[C/Cápa\|Cápa]] címnél is 
 
 Fentebb leginkább a nevek végére járuló 'a' hangról volt szó.  
 
-Kállay Ferenc A pogány magyarok vallása című könyvének [207. oldalán](zotero://open-pdf/library/items/DFI47XPY?page=207&annotation=SWPEALQ4) írja, hogy Pliniusnál a szkíta ősatyák Palos és Napos **Apalaei** Napaeinak íratnak, és előbbi név elején az 'a' csak **prothesis**.  
+#### Kállay Ferenc A pogány magyarok vallása...  
+
+...című könyvének [207. oldalán](zotero://open pdf/library/items/DFI47XPY?page=207&annotation=SWPEALQ4) írja, hogy Pliniusnál a szkíta ősatyák Palos és Napos **Apalaei** Napaeinak íratnak és előbbi név elején az 'a' csak **prothesis**.  
 > Azt Hallingban megolvashatni, siciliai Diodor már a scythákat Palos és Napes törzsökből származtatja, Pliniusban ezek scythae apalei et napaei. ([Lásd 299. old.](zotero://open-pdf/library/items/DFI47XPY?page=299&annotation=TW2S757Y))
 
 [[A/Apolló\|Apolló]] neve kapcsán is hasonlóan gondolkodik Kállay:  
