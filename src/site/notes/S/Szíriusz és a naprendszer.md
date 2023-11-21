@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz és a naprendszer/","title":"Szíriusz és a naprendszer","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-13T05:21","updated":"2023-11-21T01:45"}
+{"dg-publish":true,"permalink":"/S/Szíriusz és a naprendszer/","title":"Szíriusz és a naprendszer","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-13T05:21","updated":"2023-11-21T01:46"}
 ---
 
 
@@ -8,7 +8,9 @@
 Száraz György Boldognapot blogján írt Pólusváltás és Tudatosság című cikkében arról, hogy **Föld a Szíriusz A-val mozog szinkronban**.  
 - Ezt leginkább az általa választott szóhasználat miatt tettem ide.
 
-Noah Brosch Sirius Matters című könyvében szintén említi a kapcsolatot, de nem a [[P/Precesszió\|precesszió]]val kapcsolatosan. Lásd az idézetet fentebb medvéknél. Illetve ide is tehető:  
+#### Noah Brosch Sirius Matters...  
+
+...című könyvében szintén említi a kapcsolatot, de nem a [[P/Precesszió\|precesszió]]val kapcsolatosan. Lásd az idézetet fentebb medvéknél. Illetve ide is tehető:  
 Volt idő, hogy Szíriuszt nagyon is a **Naprendszer tagjának minősítették**:  
 > In ancient Babylon, Sirius was sometimes lumped together with the planets. A document from the time of king Esarhaddon (681-668 BCE), a treaty with a Medianite king, starts with an astrological invocation of the planet-gods and of the territorial gods:  
 > In the presence of the planets Jupiter, Venus, Saturn, Mercury, Mars, Sirius, and in the presence of Assur, Anu, Enlil, Ea, Sin, Shamash...  
