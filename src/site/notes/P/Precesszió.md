@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-12T04:49","updated":"2023-11-12T04:49"}
+{"dg-publish":true,"permalink":"/P/Precesszió/"}
 ---
 
 
@@ -192,7 +192,8 @@ Egy teljes körfutam neve Platonikus év, azaz Világév \[[[Nagy Év\|[Nagy Év
 
 ...című könyvében ír a lappok [[C/Csudaszarvas\|Csudaszarvas]] mondájáról, ahol ezt az észrevételt teszi:  
 > A felsorolt csillagképek ugyanis együtt ősztől tavaszig láthatók csupán. Az év másik felében az ég nappali térfelén tartózkodnak, fényüket a Nap homályosítja éppen el. Ez nem volt mindig így.  
-> \[...Itt definiálja a prcessziót...\]  
+- Itt definiálja a precessziót...  
+
 > A precesszió következtében az égitestek koordinátái is állandóan változnak. **13000 évvel ezelőtt tehát a nyári égboltunkon ragyogtak azok a csillagképek, amelyek ma a téli égbolton láthatók**, némiképp az egykoritól különböző alakban. Ugyanis ha lassan is, de a csillagokat is elmozdulni látjuk egymáshoz képest. "Mai" – legalább 4-5000 éve tartó – téli csillagkép voltuk magyarázza, miért vált a szarvas a téli ünnepkör állatává, s természetesen azt is, miért folyik a lapp, s tegyük hozzá, a legtöbb finnugor mondában a vadászat sítalpon, hótalpon.  
 
 Itt, [[T/Tavaszpont\|tavaszpont]] és [[Z/Zodiac\|zodiac]] címnél is volt/lesz szó arról, hogy szerintem kiszámítható körkörösségét tekintve csak a mai korban, világhónapban értelmezhető a precesszió leginkább. Talán nem véletlen, és így nem érdektelen megjegyezni, hogy a fejletlennek nem mondható kínaiak a teljes precesszió idejéül 18000 és 36000 évet vettek, míg a mezopotámiai érték 43200 év volt, vagyis szintén [[K/Kilences számrendszer\|kilences számrendszer]]beli szám, de ezeket mai tudásunk alapján nem tartjuk pontosnak, helyénvalónak. A kérdés az, ezek a régi kultúrák tudtak-e olyat, amit mi nem. (Hangsúlyozom, a precesszió valós okának ismerete nélkül a jelen korszakban olyan elmélet születhet, mely ma jónak, pontosnak tűnik, de a dolgok változhatnak, például amiatt is, hogy az égitestek nem egyenleges szögsebességgel haladnak és mindig valamilyen társ-égitest körül. Lásd a precesszió valós okáról alant.)  
@@ -358,7 +359,7 @@ Az egyiptomiaknak is ismerniük kellett. A precessziót a csak tökéletes rends
 JMJ könyveinek adatai alapján tudjuk, hogy a maják is ismerték.  
 Mint kiderül, mások, úgynevezett természeti népek is ismerték.  
 
-[[M/Maya naptár\|Maya naptár]] és [[I/Idő#Kétféle idő\|kétféle idő]] cím/alcímnél kezdtünk el beszélni Valum Votan – Az élő prófécia című angolból magyarra ...
+[[M/Maja naptár\|Maja naptár]] és [[I/Idő#Kétféle idő\|kétféle idő]] cím/alcímnél kezdtünk el beszélni Valum Votan – Az élő prófécia című angolból magyarra ...
 
 #### Tibold Makk Szabina...
 
