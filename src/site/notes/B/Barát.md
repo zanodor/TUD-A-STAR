@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-31T06:45","updated":"2023-11-09T11:23"}
+{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-31T06:45","updated":"2023-11-21T10:16"}
 ---
 
 
@@ -81,7 +81,7 @@ A kelta-ír `barantas` = garancia. A G-B változás hasonló az [[U/Ugorka\|ugor
 
 A másutt már említett indonéz és maláj `barat` = nyugat Nyugat-Pápua indonéz Papua Barat nevéből látszik eredni (az arab nyelvben is az égtájak környező területek nevei alapján neveztettek el).  
 
-A [[P/Parád\|Parád]] név Par-Ad felbontásban az Atya Házát jelenti ugye. Figyeljük meg, a Barát név egy az egyben megfelel neki. Bar-At, Bar-Ata viszont a Nap Atyára utaló név, míg Paradicsom ([[P/Paradise\|Paradise]]) alatt inkább az eget/mennyet (mennyországot) értjük. Na most, nem-e arról van szó, hogy itt az avar-hunok által terjeszett [[N/Napvallás\|Napvallás]]ban már a Napban tiszelték magát istent és a lakhelyére utaló név (paradicsom) is arra utal? Vagy csak a [[P/Parázs\|parázs]] (Par-Ad-nak megfelel a parázs, ahonnan az arab `faraz` = (kanca)ló szó is ered és a [[P/Párd\|párd]] fogalma is) Isten Háza fogalmát kell itt keresni? Akárhogy is, az avar-hunok nyelve és Naptisztelete illetve vallási befolyásuk az, amely a mai világot oly negatívan meghatározza (árják, angolszászok és arabok-héberek befolyása). Erről [[S/Szemiták és árják\|szemiták és árják]], valamint [[M/Magyar és hun utódnépek vallásszakadása\|magyar és hun utódnépek vallásszakadása]] címnél is megkezdődtek az írások.  
+A [[P/Parád\|Parád]] név Par-Ad felbontásban az Atya Házát jelenti ugye. Figyeljük meg, a Barát név egy az egyben megfelel neki. Bar-At, Bar-Ata viszont a Nap Atyára utaló név, míg Paradicsom ([[P/Paradise\|Paradise]]) alatt inkább az eget/mennyet (mennyországot) értjük. Na most, nem-e arról van szó, hogy itt az avar-hunok által terjesztett [[N/Napvallás\|Napvallás]]ban már a Napban tiszelték magát istent és a lakhelyére utaló név (paradicsom) is arra utal? Vagy csak a [[P/Parázs\|parázs]] (Par-Ad-nak megfelel a parázs, ahonnan az arab `faraz` = (kanca)ló szó is ered és a [[P/Párd\|párd]] fogalma is) Isten Háza fogalmát kell itt keresni? Akárhogy is, az avar-hunok nyelve és Naptisztelete illetve vallási befolyásuk az, amely a mai világot oly negatívan meghatározza (árják, angolszászok és arabok-héberek befolyása). Erről [[S/Szemiták és árják\|szemiták és árják]], valamint [[M/Magyar és hun utódnépek vallásszakadása\|magyar és hun utódnépek vallásszakadása]] címnél is megkezdődtek az írások.  
 
 A barát szót [ezen](https://qr.ae/pNsjGC) Quora cikkbe is felírtam, továbbá, hogy az avarból lett germán törzsek a Bar-Ata névből nemcsak a [[B/Britain\|Britain]], hanem a [[B/Bird\|bird]], [[B/Beard\|beard]], [[B/Bread\|bread]], stb. szavakat is megalkották (bird Nap- ill. tűzmadár és a szakáll Napsugár-jelkép, stb.):  
 > We have some linguistic data to show that these Avaric Huns, who were none other than the so-called Cush people, when they switched to Sun worship, were the main force from Egypt all the way up to Northern India, called **Bharata** in Sanskrit, after the name of the Sun, which was Bar-Ata (Sun-Father) in Avar Hunnic.  
@@ -101,7 +101,7 @@ A barát szót [ezen](https://qr.ae/pNsjGC) Quora cikkbe is felírtam, továbbá
 > - `beard` (a haj a napsugarakat jelképezi);
 > - `burn` szintén a B-R mássalhangzó alapja;
 > - a **Britannia** és **Bretagne** nevek (nem önmagában Indiából származnak, hanem) a Bar-At-On vagy Bar-At-An (Atya Nap az égen; a hun `an`-ból származik az `one` is; a magyar ég szóból is az egy számnév származik (`ég` > `egy`); ez azt jelenti, hogy egyistenhitű vallásaik voltak, és ezt nem a zsidók találták ki; a Napra Fiúként tekintettek, ahogy a főnévi alakok mutatják: `Sun` = `son`).  
-- Kimaradt innen a balta r-hangos változataként számon tartható [[B/Bárd\|bárd]].  
+- Kimaradt innen a balta r-hangos változataként számon tartható [[B/Bárd\|bárd]], a hajfonat [[B/Braid\|braid]] és akár a [[B/Bride\|bride]] szó.  
 A szanszkrit pedig csak a feljegyző nyelv, és nem is napistent jelent a név (a névadók nem szanszkrit nyelven beszéltek).
 
 A fentiek írása idején még nem ismertem a [[N/Newton kő\|Newton kő]] címnél is említett L. A. Waddell The Phoenician Origin of Britons, Scots & Anglo-Saxons (1924) című könyvét, melyben **Barat** föníciaiként kerül bemutatásra.  
