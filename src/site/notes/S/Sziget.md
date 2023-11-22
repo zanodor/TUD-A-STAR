@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-04T01:59","updated":"2023-10-29T03:05"}
+{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-04T01:59","updated":"2023-11-23T12:08"}
 ---
 
 
@@ -90,7 +90,7 @@ A két hasadékot másutt is említi (talán a Hegy Úrnője címből vagy más,
 
 #### Magyar Adorján...
 
-...még a Tündérek fordulójáról írja[^8]:  
+...még a Tündérek fordulójáról írja[^8]\:  
 > A valóságban is látszik a Tejútban egy nagy, hosszúkás sziget, amelyet népünk többek között Fehérköz-nek is nevez, és a mennyei Tündérországnak tart. A [[K/Köz\|köz]] szó régibb nyelvünkben sziget értelemmel is bírt, aminthogy a köz szó a sziget, szeget, régiesen szeged szó első szótagjának csak megfordított alakja. Ezen Égi Csallóközben van ma is népünk csillagos Egén a "Tündérek fordulója" (a Tejútban a Hattyú α és ξ elágazásánál) és a "Tündérek tánca" (Szobieszky pajzsa), amit láthatunk megrajzolva Toroczkai-Wigand Ede "Öreg Csillagok" (Budapest, 1916) című művében.  
 
 Lásd még szexuális tartalomról [[I/Íj és a nyíl\|íj és a nyíl]].  
