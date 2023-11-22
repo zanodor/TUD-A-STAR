@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cerberus/","title":"Cerberus","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-16T02:33","updated":"2023-11-20T04:26"}
+{"dg-publish":true,"permalink":"/C/Cerberus/","title":"Cerberus","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-16T02:33","updated":"2023-11-22T11:56"}
 ---
 
 
@@ -31,7 +31,7 @@ Az [[O/Ötven\|ötven]] is előjön Cerberus fejeinek száma kapcsán, mely ugye
 > Cerberus az attikai kerámiákon általában kétfejű, a görög tragédiákban és a római forrásokban pedig háromfejű; Hésziodosz Theogonia 311-12-es művében ötvenfejű.  
 
 Ami a szófejtést illeti, EP írja:  
-> A Gr mythical hound: L Cerberus: Gr Kerberos, akin to Skt [[K/Karbarás\|Karbarás]], one of Yama the Lord of the Netherworld's two dogs[^4]: prob echoic.  
+> A Gr mythical hound: L Cerberus: Gr Kerberos, akin to Skt [[K/Karbarás\|Karbarás]], one of Yama the Lord of the Netherworld's two dogs[^4]\: prob echoic.  
 - Az, hogy valószínűleg [[H/Hangutánzó szavak\|hangutánzó szó]]...ilyen nincs, ezt PJI is megírta.  
 
 A [[K/KAR\|KAR]] és [[B/BAR\|BAR]] etimonok a szanszkrit szóban ezúttal is egy körforgást idéznek, mint ahogy a [[S/Samsara\|Samsara]] és a [[K/Karma\|karma]] is. Lásd még PJI gondolataiért is [[C/Ceramics\|ceramics]].  
