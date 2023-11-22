@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","stitched","dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2023-11-10T06:47"}
+{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","stitched","dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2023-11-23T12:33"}
 ---
 
 
@@ -31,7 +31,7 @@ Molnár V. József Világ-Virág című könyvének 68-69. oldalán is keres sz�
 > A Hold növekszik (ilyenkor [[S/Szarv\|szarv]]a van[^2]), kiteljesedik, majd fogy és eltűnik: mindannak, ami szarvas (a kínai zodiákusban a [[S/Szarvas\|szarvas]] "holdház" jelölője[^3]), ami szerves, növekedő, növényi, női, ami telő, teli, kiteljesedett, annak megidézője és egyben előidéző oka lehet (például a nők ciklikus tisztulásának); de a Hold szabályozza a csigaház növekedését is és ő az intézője mindannak, ami hül, hüllő, hal; ami hull (például álomba), hál, elhal, holt. (V. N. Toporov: Adalékok néhány költői szimbólum eredetének kérdéséhez. A művészet ősi formái. Budapest, 1982. 107. o. 47. jegyzete (Hold és kígyó, Hold és halott összefüggése).)  
 > A régi ember hitében a [[T/Telihold\|telihold]] segít a szülésnél; de az is ő, aki az utolsó órán "átvezeti" az embert a "nagy vizen."  
 
-Molnár V. József könyvének 98-99. oldalán folytatja:  
+eMolnár V. József könyvének 98-99. oldalán folytatja:  
 > A Hold a születés és az élet nedves, megtartó erőinek az intézője; ő a nő, a növény és a növekedés istápoló anyja; de ő vezeti át a lelket a holtak birodalmába is. Egy gyimesi csángó asszony mesélte nekem, hogy álmában valaki, akit a ködös fényességtől nem láthatott, megfogta a kezét és vezetni kezdte. Ő tudta, hogy a folyón túlra kell mennie. Könyörgött, hadd maradhasson még, hiszen "kicsi" fia messze földön katona, s nem tud elbúcsúzni tőle; a kisebbik lánya nagyon aprócska, mi lesz vele nélküle – még dolga van ebben a világban...  
 > A fényes ismeretlen még a folyó előtt elengedte a kezét. Ő fölébredt és az ablakon keresztül a telihold nézett rá a hajnal kapujából, távozóban.  
 - Molnár V. József Világ-Virág című könyvében több helyen esik szó a Naphoz rendelt \[hímségi\] száraz és a Holdhoz tartozó \[nőiségi\] nedves jelképiségről, például könyvének 116. oldalán is.  
@@ -192,7 +192,7 @@ Orosz Zsolt [[S/Sitchin, Zecharia\|Sitchin, Zecharia]] adataira alapozott intern
 > Fia, Kingu, nevének két része Kin és Gu. A Kin Király, a Kény, Kün, Ken, stb. rokona, a Gu itt Fő, Fej jelentésű. Kin-Gu tehát egy Fő-Király, aki valamilyen erőszak ellen fellázadt, és harcolni kezdett. Az angol King ebből a magyar névből származik, jelentése tehát Fő-Király.  
 > Tiámat elvesztette a harcot, fiát, Kingut is megölték a győztesek. A mítosz mai értelmezése nem fogadható el teljesen, tovább kell még kutatni a rejtélyeket.  
 
-Több klasszikus szerző megegyezik abban, hogy sok ezer évvel ezelőtt az Indiai-óceánban nagy szárazföld feküdt Afrika, Arábia és Hindusztán között: [[G/Gondwana\|Gondwana]]. Akkoriban, teszik hozzá, a **Hold még nem volt az Égen**, s ezért a görög írók e földrész lakóit proszeléneknek, hold előtti embereknek nevezték (Szeléné = hold), mint [[A/Árkádia\|Árkádia]] lakói magukat[^17]:  
+Több klasszikus szerző megegyezik abban, hogy sok ezer évvel ezelőtt az Indiai-óceánban nagy szárazföld feküdt Afrika, Arábia és Hindusztán között: [[G/Gondwana\|Gondwana]]. Akkoriban, teszik hozzá, a **Hold még nem volt az Égen**, s ezért a görög írók e földrész lakóit proszeléneknek, hold előtti embereknek nevezték (Szeléné = hold), mint [[A/Árkádia\|Árkádia]] lakói magukat[^17]\:  
 > All ages have had a great esteem and veneration for antiquity; and not only of men, but of families, cities, and countries, the most ancient have always been accounted the most honourable. Hence arose one of the first and most universal disputes that ever troubled mankind; almost every nation, whose origin was not very manifest, pretending to have been of an equal duration with the earth itself. Thus the Egyptians, Scythians, and Phrygians, fancied themselves to be the first race of mankind; and the Arcadians boasted that they were προσελενοι, or before the moon.  
 
 Az árkádiai mondáról RHA is tesz említést könyvében:  
@@ -210,7 +210,7 @@ Egy saját elmélet szerint nem elképzelhetetlen (de nem is bizonyítható), ho
 [[A/Árgyilus\|Árgyilus]] címnél is szerepelt, hogy egyszerre lehet Szíriusz/Nap és a Hold is.  
 
 Péterfai János adata is szerepelt ott, miszerint a farkasból kutyává válás illetve a [[K/Kutya háziasítása\|kutya háziasítása]] csak\[?!\] 12-14000 éve jött volna létre.  
-Kynologia című írásában Kátay-Barba Rafael Péter is érinti a témát:  
+Kynologia című írásában Kátay-Barba Rafael Péter is érinti a témát:  
 > Évekkel ezelőtt a Magyar Rádió egyik "tudományos" műsorában elhangzott, hogy a kutya háziasítása a korábban gondoltnál lényegesen korábban zajlott le. Ebben az összefüggésben idéztek egy 130 ezer éves farkas-kutya koponya leletet az ősember tűzhelyének közvetlen közeléből, mint őskutyát. Sajnálatos, de a lelet kapcsán egyetlen konkrét adat sem hangzott el, mint például: a feltáró régész neve, a lelőhely, feltárás időpontja, stb. Kétségtelen, hogy e sorok írójának is vannak fenntartásai a köztudatban elterjedt, s az általánosan elfogadott 10-14 ezer évvel ezelőtti domesztikációs datálással kapcsolatban, de ezen nézetét a tudományos kutatás eredményeinek ismeretében alakította ki.  
 
 Ez a kormeghatározás azért (lett volna) érdekes, mert épp 13000 éve voltunk a felső ágon és ez újfent felveti, hogy a Hold nem-e a Szíriusz rendszerből lett megörökölve: az Árgyilus név és a kutya, mint egyszerre Szíriusz- és Holdállat is erre engedhetne következetni, csakhogy mindez azt jelentené, hogy az egész [[H/Hunor és Magor\|Hunor és Magor]] történet és az emberiség eredete és a magyar nyelv is ilyen 13000 éves régi kellene legyen és ez nem lehet igaz. Inkább tűnik úgy, hogy a kataklizmák (pólusváltások) eltüntetik a nyomokat vagy talán hogy a magyar és hun nép és a kutyatisztelet ősiségét illetve ezzel a Szíriusz jelentőségét is ismerők korlátozzák le időben a dolgokat (ez azért nem valószínű).  

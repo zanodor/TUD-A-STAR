@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2023-11-06T01:05"}
+{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2023-11-23T12:19"}
 ---
 
 
@@ -10,14 +10,15 @@ Ennek megfelelően a csillagképről kapta a Makara szoláris hónap (a szintén
 
 #### John Major Jenkins Galactic Alignment...
 
-...című könyvében – nyilván a [[M/Makara Sankrati\|Makara Sankrati]] címnél említett precessziós okok miatt – viszont Makara úgy jön elő, mint a [[T/Tejútanya\|Tejútanya]] vulva-szája, nyílása[^1]:  
+...című könyvében – nyilván a [[M/Makara Sankrati\|Makara Sankrati]] címnél említett precessziós okok miatt – viszont Makara úgy jön elő, mint a [[T/Tejútanya\|Tejútanya]] vulva-szája, nyílása[^1]\:  
 > The head of the *simsumara* crocodile (or makara) could very well be the bulging area of the nuclear bulge with the dark-rift mouth.  
 > ...  
 > The immediate association is thus with a birthplace. Both Guénon and Coomaraswamy identify the *kalamukha* as birther and devourer and place it in Capricorn (really Sagittarius). I mentioned earlier that the astronomical reference of makara or mukha[^2] is probably to the dark rift in the Milky Way, which the Maya also identify as a monster mouth. The related monster mouth of the Vedic *simsumara* crocodile faces upstream and devours all unsuspecting seekers, preventing them from passing beyond the Sagittarian portal that it guards.  
 > —  
 > A *simsumara* krokodil (vagy makara) feje nagyon is lehet a magdudor kidudorodó területe a sötét hasadék szájával.  
 > ...  
-> A közvetlen asszociáció tehát egy szülőhelyre vonatkozik. Guénon és Coomaraswamy egyaránt a *kalamukhát* azonosítja a szülő- és felemésztővel, és a Bakba (valójában a Nyilasba) helyezi. Korábban említettem, hogy a makara vagy mukha csillagászati utalása valószínűleg a Tejútrendszerben lévő sötét hasadékra vonatkozik, amelyet a maják szintén szörnyszájként azonosítanak. A védikus *simsumara* krokodil rokon szörnyszája felfelé néz, és felfal minden gyanútlan keresőt, megakadályozva őket abban, hogy átlépjenek az általa őrzött Nyilas-kapun.  
+> A közvetlen asszociáció tehát egy szülőhelyre vonatkozik. Guénon és Coomaraswamy egyaránt a *kalamukhát* azonosítja a szülő- és felemésztővel, és a Bakba (valójában a Nyilasba) helyezi. Korábban említettem, hogy a makara vagy mukha csillagászati utalása valószínűleg a Tejútrendszerben lévő sötét hasadékra vonatkozik, amelyet a maják szintén szörnyszájként azonosítanak. A védikus *simsumara* krokodil rokon szörnyszája felfelé néz, és felfal minden gyanútlan keresőt, megakadályozva őket abban, hogy átlépjenek az általa őrzött Nyilas-kapun.  { #6panc5}
+
 
 A leírása alapján ez a Jankovics Marcell Jelkép-kalendárium című könyvében is előjövő, ott [[V/Varuna\|Varuna]] cethal-szerű szörnyével, másutt, Mély a múltnak kútja című könyvében pedig magával a [[C/Cet csillagkép\|Cet csillagkép]]pel azonosított csillagkép:  
 > A [[H/Halak csillagkép\|Halak csillagkép]] két jelentéktelen, halformájúnak alig nevezhető kis csillagzatból áll. A Halak égi tengerében úszik viszont az óriás Cet, a mítoszok hősöket, hősnőket elnyeléssel fenyegető tengeri szörnyének égi képmása (a görög kétosz nemcsak "cet", hanem mindenféle "tengeri szörny" neve, beleértve a nevezett csillagzatot is). A görög mitológiában hím- és nőnemű alakban egyaránt szerepel (Kéteusz és Kétó). A róla szóló legismertebb történet arról szól, hogyan szabadította meg tőle Perszeusz Androméda királylányt. A rege minden szereplője ott ragyog a tavaszi égnegyedben. A csillagkép jelentésköre azonban tágabb a görög mitológiánál. Éppúgy tekinthetjük a Jónást elnyelő nagy hal képmásának, mint Varuna Makaráját ábrázoló csillagképnek.  

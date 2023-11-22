@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csillagászat – tropikus kontra sziderikus/","title":"Csillagászat – tropikus kontra sziderikus","tags":["dg_uploaded"],"created":"2023-11-09T12:57","updated":"2023-11-09T12:57"}
+{"dg-publish":true,"permalink":"/C/Csillagászat – tropikus kontra sziderikus/","title":"Csillagászat – tropikus kontra sziderikus","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-09T12:57","updated":"2023-11-22T11:57"}
 ---
 
 
@@ -24,7 +24,7 @@ KG ugye folyamatosan Széth-ről ad adatokat. Lám, ...
 
 #### Zajti Ferenc Zsidó volt-e Jézus...
 
-...című könyvének (a PDF) 179. oldalán ilyen kontextusban is jön elő az egyiptomi [[S/Széth\|Széth]]:  
+...című könyvének (a PDF) 179. oldalán ilyen kontextusban is jön elő az egyiptomi [[S/Széth\|Széth]]\:  
 > Salamon bosrai metropolita "Méh" című iratában olvassuk. A prófécia szerzőjeként Zoroastert \[Zarathustrát\] egyenesen megnevezve találjuk és hogy az első hagyomány Seth-jén pseudepigr. V.T. (Hamburg,1713) I. 147-152,309, a köv. lapjain összeállított bizonyítékokból tudjuk meg, ahol Seth a tipikus iráni csillagimádás alapítójaként jelenik meg.  
 - Széth valóban azon napvallások ideje előtt időben tisztelt, amikor még a sziderikus alapú volt a naptárszámítás is. A lentebb említett latin `sidus` = csillag is azonosnak tekinthető a nevével, ha nagyon akarjuk.  
 
@@ -36,7 +36,7 @@ Lényegében arról van illetve lesz szó, hogy a keleti (csillagászatban-asztr
 Kezdjük ott, ami régebben még [[S/Sidereal\|sidereal]] cíimnél állt és ide átkerült:  
 A sziderikus nap egy tetszőleges csillag \[ami, mint alant is kiderül, tetszőlegesként a Szíriusz volt\] két kulminációja között eltelt idő. A sziderikus nap kb. 4 perccel rövidebb a szoláris napnál.  
 Azaz a sziderikus nap 23 óra 56 perc: ennyi ideig tart, míg az egyes csillagképek, például a Nagy Göncöl az óramutató járásával ellentétes irányban körbeforog a [[P/Polaris\|Polaris]] sarkcsillag körül (a Föld forog természetesen, ehhez képest látjuk az elmozdulást).  
-Ez a négy perces eltérés az, ami azt okozza, hogy az egyes csillagképek és csillagok ne legyenek ugyanazon helyen az év egyes napjain[^1]: minden csillag minden egyes nap négy perccel hamarabb kel. Ez havonta két órás csúszást jelent, míg egy évben ez már éppen 24 óra, azaz egy nap: ezért egy év elteltével minden ugyanúgy folytatódik, ahogy rendesen.  
+Ez a négy perces eltérés az, ami azt okozza, hogy az egyes csillagképek és csillagok ne legyenek ugyanazon helyen az év egyes napjain[^1]\: minden csillag minden egyes nap négy perccel hamarabb kel. Ez havonta két órás csúszást jelent, míg egy évben ez már éppen 24 óra, azaz egy nap: ezért egy év elteltével minden ugyanúgy folytatódik, ahogy rendesen.  
 
 [[P/Precesszió\|Precesszió]] és [[S/Szíriusz és a naprendszer\|Szíriusz és a naprendszer]] címnél viszont arról volt szó, hogy ez csak a hivatalos nézet a sziderikus és tropikus napév (látszólagos) diskrepanciájáról[^2], minthogy Uwe és Karl-Heinz Homann szerint a sziderikus és tropikus napév valójában ugyanannyi időbe telik:  
 > The scientific arguments presented here[^3] have conclusively proven that the time intervals of the tropical year and the sidereal year are indeed equivalent. It is has been mathematically verified that the mean time interval of 31,556,925.97474s is Earth's true 360° orbit period, implying that the equinoctial points do NOT retrograde around the sun. Hence, we can no longer subscribe to the erroneous conclusion that the 'precession of Earth' is a scientific fact.  
@@ -49,7 +49,7 @@ Lényegében arról lehet szó, hogy csak a Földről nézve látszik úgy, hogy
 
 [[N/Nap\|Nap]] címnél, Napba öltözött asszony alcímnél, valamint [[B/Boldogasszony\|Boldogasszony]], [[S/Sothis\|Sothis]], [[S/Sothic\|Sothic]], Szűz csillagkép, [[P/Precesszió\|precesszió]] és [[G/Gergely-naptár\|Gergely-naptár]] címnél álló, onnan kiemelt témák alapján próbálunk tovább okoskodni:  
 A Napba öltözött asszonyról Z. Tóth Csaba imént említett Tropikus vagy sziderikus című cikkében futólag azt mondja, hogy a [[S/Szűz csillagkép\|Szűz csillagkép]]pel lenne azonos. Ez azért érdekes, mert ott pedig (a [[Z/Zodiac\|zodiac]] név eredetét is adó\[!\]) [[S/Sothis\|Sothis]]-ról és a Kutyával kezdődő évről volt szó. Közben [[P/Precesszió\|precesszió]] és [[G/Gergely-naptár\|Gergely-naptár]] címnél afelől értetlenkedünk, hogy hogyan vethetők azon infók össze, hogy 1) Szíriuszra (de akkor Orionra ill. Orion övcsillagaira) sem/nem vonatkozik a precesszió\[?\] 2) egy világhónappal ezelőtt is július közepe táján volt a [[S/Szíriusz heliakus kelése\|Szíriusz heliakus kelése]], meg most is.  
-Nyilvánvaló, hogy a Julián- és [[G/Gergely-naptár\|Gergely-naptár]]ak célja az volt, hogy a precessziót kivegye a képből: ezért kel ugyanakkor (értsd: a naptári nap szerint évenként ugyanakkor) a Szíriusz a Nappal. Namost a kérdés az, hogy a Szíriuszra (plusz Orionra) egyébként (sem? vagy éppen csak ezen rendelkezések óta) nem(?) vonatkozó precesszió ellenére a többi háttércsillagok/csillagképek helyzete hogy állt és áll (például a Szűz vagy Oroszlán; régen a Szűzzel állt együtt, mert a [[S/Sothis\|Sothis]]-[[S/Szűz\|szűz]] nevek összefüggése erre mutatna) és lehet-e azonos oka annak (amit Z. Tóth Csaba Tropikus vagy sziderikus című cikkében végül is nem tudott megfogalmazni: nem tudta, hogy mit keres, bár jó helyen keresett), hogy miért állt át a nyugat a tropikus zodiákusra/asztrológiára, amikor a kelet megmaradt a sziderikusnál?  
+Nyilvánvaló, hogy a Julián- és [[G/Gergely-naptár\|Gergely-naptár]]ak célja az volt, hogy a precessziót kivegye a képből: ezért kel ugyanakkor (értsd: a naptári nap szerint évenként ugyanakkor) a Szíriusz a Nappal. Na most a kérdés az, hogy a Szíriuszra (plusz Orionra) egyébként (sem? vagy éppen csak ezen rendelkezések óta) nem(?) vonatkozó precesszió ellenére a többi háttércsillagok/csillagképek helyzete hogy állt és áll (például a Szűz vagy Oroszlán; régen a Szűzzel állt együtt, mert a [[S/Sothis\|Sothis]]-[[S/Szűz\|szűz]] nevek összefüggése erre mutatna) és lehet-e azonos oka annak (amit Z. Tóth Csaba Tropikus vagy sziderikus című cikkében végül is nem tudott megfogalmazni: nem tudta, hogy mit keres, bár jó helyen keresett), hogy miért állt át a nyugat a tropikus zodiákusra/asztrológiára, amikor a kelet megmaradt a sziderikusnál?  
 
 Ugye arról [[H/Hyperborea-Atlantisz átállás\|Hyperborea-Atlantisz átállás]] címnél is volt szó, hogy a régi, Hold- és Naphoz mért számításokat megelőzi a csillagokhoz mért számítás. Éppen annak is van vagy lenne Szíriusszal kapcsolatosan jelentősége, hogy egy fix pontot kell találni az égen, amely (nagymértékben) nem változtatja a helyét. [[S/Sothic\|Sothic]] címnél, William Cruttenden résznél is erről volt szó.  
 

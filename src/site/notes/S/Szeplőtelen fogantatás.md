@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szeplőtelen fogantatás/","title":"Szeplőtelen fogantatás","tags":["dg_uploaded","Englishtexttranslated","containstransclusions"],"created":"2023-11-13T01:57","updated":"2023-11-13T01:57"}
+{"dg-publish":true,"permalink":"/S/Szeplőtelen fogantatás/","title":"Szeplőtelen fogantatás","tags":["dg_uploaded","Englishtexttranslated","containstransclusions"],"created":"2023-11-13T01:57","updated":"2023-11-23T12:06"}
 ---
 
 
@@ -71,7 +71,7 @@ Práczki István Szittya Biblia című könyvének 47. és 54. oldalán igen meg
 
 #### Acharia S...
 
-...mintha nem értené a Tejútistennők szűzen szülésének okát, így szerinte, illetve forrása, Szent Albert szerint, a szűz-motívum attól asztroteologikus, hogy december 25-én éjjel, a születéskor a [[S/Szűz csillagkép\|Szűz csillagkép]] felkel a horizonton[^3]:  
+...mintha nem értené a Tejútistennők szűzen szülésének okát, így szerinte, illetve forrása, Szent Albert szerint, a szűz-motívum attól asztroteologikus, hogy december 25-én éjjel, a születéskor a [[S/Szűz csillagkép\|Szűz csillagkép]] felkel a horizonton[^3]\:  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/a/augusztus-15/#3hft9l" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 

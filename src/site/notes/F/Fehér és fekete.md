@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-17T03:47","updated":"2023-11-17T03:47"}
+{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-17T03:47","updated":"2023-11-23T12:03"}
 ---
 
 
@@ -8,7 +8,7 @@
 Így is lehetett volna nevezni a [[F/Fény és sötétség\|fény és sötétség]] című részt.  
 Kezdjük a [[D/Dialektikus ellentét\|dialektikus ellentét]] címnél álló adatokkal.  
 Már [[B/Black\|black]] címnél felhívtuk a figyelmet arra, hogy az újlatin nyelvek fehéret jelentő szavak igen hasonló az angol feketét jelentő szavához. Azóta [[B/Bleach\|bleach]] és [[B/Black\|black]] (valamint [[F/Fakó\|fakó]], [[F/FÉK\|fék]], [[H/Halvány\|halvány]]) címnél írottakat is érdemes újra elolvasni (ugyebár én mindig mindennek csillagászati(lag is helytálló) értelmezést adok; a fék a vak Orion után következik be, a sötét territóriumába ([[F/Félév\|félév]]be) lépéssel).  
-A dialektikus ellentét iskolapéldája [[M/Martu\|Martu]] címnél állt, miszerint a fehér és fekete színnel lehet ugyanazt (jelen esetben a halált) jelölni[^1]:  
+A dialektikus ellentét iskolapéldája [[M/Martu\|Martu]] címnél állt, miszerint a fehér és fekete színnel lehet ugyanazt (jelen esetben a halált) jelölni[^1]\:  
 
 #### Péterfai János írja:
 
@@ -24,9 +24,9 @@ A fehér és fekete ellentétei mellett szólni kell a [[G/Giga\|giga]] és [[S/
 
 A szlávnál maradva, ezét lehet a szláv `západ` = nyugat [[S/Sápad\|sápad]] szavunkkal azonos? A görög `düszi` = nyugat miért nem keletet jelent?  
 
-#### Magyar Adorján Csodaszarvasának...
+#### Magyar Adorján Csodaszarvas...  
 
-...ezen passzusa [[F/Fény és anyag\|fény és anyag]] címhez is kerülhetett volna (de [[M/Magyar ősvallás\|magyar ősvallás]] címnél lábjegyzetben megvolt):  
+...című könyvének ezen passzusa [[F/Fény és anyag\|fény és anyag]] címhez is kerülhetett volna (de [[M/Magyar ősvallás\|magyar ősvallás]] címnél lábjegyzetben megvolt):  
 > Nőelvi őstörzseink eszejárása a mai anyagelvűséggel (materializmussal) hasonlítható\[?\] össze, mert holott a hímelvi törzsek minden létezőnek emberi ésszel meg nem érthető kezdetének, ősokának az örökké megvolt őserőt tartották, amely az anyagot is létrehozta, és ezt férfiistenséggel jelképezték, ezzel szemben a nőelviek szerint minden létezőnek emberi ésszel szintén föl nem érhető kezdete az ősanyag volt, amely öröktől fogva létezett, amely az erőt is szülte és amit ők nőistenségben személyesítettek meg. Mivel pedig mielőtt ezt megszülte volna, még semminemű erő (energia), azaz semmiféle hímség nem létezett, ami megtermékenyíthette volna, ennélfogva ő csak szűzen szülhetett, vagyis tehát szűz-anya volt. Lévén pedig a hő és fény is erők, ezért ezek megszületése előtt csak sötétség és hidegség létezhettek. Ezért az Ősanyag költői megszemélyesítését vagyis az Ős-Anyagistennőt, az Örök-Anyát, a nőelvi törzsek egyrésze, mint például a besenyők, feketének képzelték; vagy csak feketébe öltözötten, vagy pedig feketebőrűnek is ábrázolva őt. Ez oka annak, hogy például a rómaiak által "Efezuszi Diana"-nak nevezett elő-ázsiai Ős-Világanya-Istennő (másutt mindenkinél ő [[A/Artemisz\|Artemisz]]), aki tiszteletét a rómaiak is átvették, feketearcú-, kezű-, lábúnak ábrázoltatott, amint azt szobrain látjuk, amelyeken teste látható részei fekete márványból készültek, míg a ruhái és a rajta lévő jelképek fehér márványból valóak.  
 > Holott láttuk hogy **a magyarok az ős-Anyaistennőt a Tejúttal azonosítva, épen ellenkezőleg fehérnek[^3] képzelték és őt fehér szarvasünővel jelképezték**. Vagyis láthatjuk ezekből is, hogy őseink jelképes regéiket teljesen szabadon és tetszésük szerint költötték, habár ezekkel mindig természeti valóságokat igyekeztek költőileg kifejezni.  
 > A vallási türelmetlenség, felekezeti gyűlölködés és vakhit, amely egymás ellen uszítja a különböző felfogású embereket, csak igen későn, más népek elszaporodásával vette kezdetét, különösen pedig a mai prófétai vallások elterjedésével.  
@@ -78,9 +78,9 @@ Várkonyi Nándor Sziriat oszlopai című könyvében írja, hogy a türk népek
 > Évtizedes vizsgálódás tapasztalata juttatott a fellismerésre, hogy a besenyők és székelyek eltérő temetkezési szokása az egyedülállóan kozmikus gyökerű magyar kettős királyság királyainak származtatásából ered. Egyik király (Tarján) a Naptól származtatta magát, ezért néprészével (besenyő) együtt K-NY, azaz fejjel kelet felé temette el halottait. A sírba tették lovuk lenyúzott bőrét a benne hagyott vagy leválasztott koponyával. A másik király (Gyula) a Holdtól származtatta magát, ezért néprészével (székely) a Holdjárásának megfelelő kultikus NY-K irányba, egész lóval temetkeztek. Társadalmi rangjukat a melléjük tett nyilak számával jelezték.  
 > A két magyar törzs egymáshoz képest tükörkép-szerűen temetkezett. Mintázták a kelő-nyugvó Nap-Hold, világosság-sötétség, halál-újjászületés misztériumát. (A Holdat Ny-K a Napot K-Ny tükörképének tartották).  
 
-#### Pintye Mihály Hová temették Árpád vezért? (al)című az Ősi Gyökér 2007/1. sz. megjelent cikkében...
+#### Pintye Mihály Hová temették Árpád vezért?...
 
-...ismét a [[K/Kettős fejedelemség\|kettős fejedelemség]]ről szólva ír a fekete és fehér témáról:  
+...(al)című az Ősi Gyökér 2007/1. sz. megjelent cikkében ismét a [[K/Kettős fejedelemség\|kettős fejedelemség]]ről szólva ír a fekete és fehér témáról:  
 > A Képes Krónika szerint Árpád székhelye [[F/Fehérvár\|Fehérvár]]. A szakrális székhely Fehérvár neve összefügg I. András király Fehér András krónikai megnevezésével. Az I.-IV. Béla név fehér jelentésű. Amikor Hunyadi az ország első embere kormányzó lett, Fehér János névvel illették. Az Árpád-ház oldalágainak névadási szokását vizsgálva figyeltem meg, az esetleges trónjogosultságot fehér jelentésű névvel vagy jelzővel tartották számon. Arra az esetre, ha kihalna az uralmon lévő ág. Nők esetében is érvényesült a szeniori rend. Az erdélyi Gyula két leánya Sarold és Karold ([[S/Szár\|szár]] – [[K/Kara\|kara]]) fehér-fekete jelentésű nevet kapott.  
 - [[S/Szár\|Szár]], [[S/SZAR\|SZAR]] nem más, mint [[K/Kara\|kara]] szatem változata; lásd [[S/SZ\|sz]] és [[K/Kara\|kara]] címnél írottakat erről.
 
@@ -126,7 +126,7 @@ Fáy Elektől és másoktól már láttunk olyan papneveket, amelyek a fehér é
 Amit legutóbb ott járva gondoltam, hogy a sötét oldal papjai mögött nem kell fekete mágiára gondolni, hanem arra, amiről a pálosok/Hunyadiak kapcsán a [[H/Holló\|holló]]ról szólva [[F/Fény és anyag\|fény és anyag]] címnél is taglaltunk: a [[S/Széth\|Széth]] nevével is jelzett [[S/Szűz\|szűz]]-kiindulóállapot keresendő a feketében, nemcsak a "butaság," gonoszság.  
 (Ezen adatsor első fele más adatokkal együtt [[H/Hunor és Magor\|Hunor és Magor]] címnél is szerepelt.)  
 
-Tomory Zsuzsa Istenes magyar emlékeink III. rész című Ősi Gyökér 2005/3. sz. megjelent cikkében írja, hogy a későbbi korok egyik papi méltósága a [[G/Gyula\|Gyula]], jelvénye a vessző köteg. Gyula témában volt szó sokmindenről fentebb.  
+Tomory Zsuzsa Istenes magyar emlékeink III. rész című Ősi Gyökér 2005/3. sz. megjelent cikkében írja, hogy a későbbi korok egyik papi méltósága a [[G/Gyula\|Gyula]], jelvénye a vessző köteg. Gyula témában volt szó sok mindenről fentebb.  
 
 ### Fehér és fekete sámánok
 

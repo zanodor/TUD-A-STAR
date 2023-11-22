@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cerberus/","title":"Cerberus","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-16T02:33","updated":"2023-11-20T04:26"}
+{"dg-publish":true,"permalink":"/C/Cerberus/","title":"Cerberus","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-16T02:33","updated":"2023-11-23T12:29"}
 ---
 
 
@@ -9,7 +9,7 @@ A Kerberosz a görög mitológia kígyóbőrű, pikkelyes állata, ahogy...
 
 #### Várkonyi Nándor...
 
-...is ír róla (betéve már [[K/Kutya\|kutya]] és [[S/Sárkány\|sárkány]] címszavakhoz is):  
+...is ír róla (bekerült [[K/Kutya\|kutya]] és [[S/Sárkány\|sárkány]] címhez is):  
 > Mexikóban [[K/Kutya\|kutya]] az alvilági vezető. A görögöknél a háromfejű kígyó \[kutya[^1]\], Kerberosz őrizte az [[A/Alvilág\|alvilág]], a [[H/Hádész\|Hádész]] bejáratát, és senkit sem engedett ki; ennek párja, az azték [[X/Xolotl\|Xolotl]] isten, kutya alakban vezette a halottakat s a lenyugvó Napot az Alvilágba. Emezt a Chicunauh-mictlán nevű folyó folyta körül [[K/Kilenc\|kilenc]]szer[^2], mint a Sztüx \[Tejút\] a Hadészt; az elhunytak egy vörös kutya segítségével juthattak át rajta.  
 > Nem véletlen, hogy Kerberosz kígyóbőrű, pikkelyes állat. Ahogyan az indiánoknál a kutya, a Hold-vallás, vagyis az éjszakai kultusz fontos szereplője, mert éji állat s a Holdra vonít, azaz tiszteli – ugyanúgy az éjszakával és a Holddal van kapcsolatban a [[K/Kígyó\|kígyó]] és a [[S/Sárkány\|sárkány]] is. A Hold ti. a sötétség és a víz istensége egyszerre, az ő megtestesítői tehát a kígyó és a sárkány (e kettő persze egy), s ez a két mozzanat egyesül a kígyóbőrű kutyában. Természetes lakóhelyük pedig az alvilág. A sárkány-kígyó tisztelet ősi, egyetemes és kettős értelmű, másutt kell foglalkoznunk vele.  
 
@@ -31,7 +31,7 @@ Az [[O/Ötven\|ötven]] is előjön Cerberus fejeinek száma kapcsán, mely ugye
 > Cerberus az attikai kerámiákon általában kétfejű, a görög tragédiákban és a római forrásokban pedig háromfejű; Hésziodosz Theogonia 311-12-es művében ötvenfejű.  
 
 Ami a szófejtést illeti, EP írja:  
-> A Gr mythical hound: L Cerberus: Gr Kerberos, akin to Skt [[K/Karbarás\|Karbarás]], one of Yama the Lord of the Netherworld's two dogs[^4]: prob echoic.  
+> A Gr mythical hound: L Cerberus: Gr Kerberos, akin to Skt [[K/Karbarás\|Karbarás]], one of Yama the Lord of the Netherworld's two dogs[^4]\: prob echoic.  
 - Az, hogy valószínűleg [[H/Hangutánzó szavak\|hangutánzó szó]]...ilyen nincs, ezt PJI is megírta.  
 
 A [[K/KAR\|KAR]] és [[B/BAR\|BAR]] etimonok a szanszkrit szóban ezúttal is egy körforgást idéznek, mint ahogy a [[S/Samsara\|Samsara]] és a [[K/Karma\|karma]] is. Lásd még PJI gondolataiért is [[C/Ceramics\|ceramics]].  

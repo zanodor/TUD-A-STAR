@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2023-11-17T05:37"}
+{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2023-11-23T12:10"}
 ---
 
 
@@ -142,7 +142,7 @@ Amit persze itt le kell szögezni, hogy Tejúthasadékkal ([[G/Galactic centre\|
 
 > A Márton-napi évkezdésnek az ókor végétől fokozatosan megszűnt a naptári, csillagászati alapja. Márton védencei, a gallok, hagyományaik értelmében rnég "jogosan" kezdték november elején az évet, az ég (az év) [[P/Palást\|palást]]jának kettéosztóján, a Tejúton ekkor még valóban novemberben kelt át a Nap. Manapság azonban ugyanez decemberben következik be, így a köpenyhasító szent legendája mára érvényét vesztette.  
 
-Legutóbb [[J/Janus\|Janus]] címnél találkoztunk a hathónapos tagolással a rómaiaknál. Január 1-én történik ott is az elválasztás, hiszen, ahogy JM is írja, az antik Rómában január 1. volt az újév napja[^6]:  
+Legutóbb [[J/Janus\|Janus]] címnél találkoztunk a hathónapos tagolással a rómaiaknál. Január 1-én történik ott is az elválasztás, hiszen, ahogy JM is írja, az antik Rómában január 1. volt az újév napja[^6]\:  
 > Ma, római mintára január 1-jén kezdjük az évet, de – figyelembe véve azt is, hogy Európában az évkezdést illetően a legújabb korig a legnagyobb összevisszaság uralkodott – a legelterjedtebb a téli napforduló szerinti évkezdés volt. Fontosságához méltón – a régiek az év fordulóját igazi fordulópontnak tekintették – megünneplése több napig tartott. Ennek naptári okai is voltak. Pótnapok, szökőnapok beiktatásával ilyenkor igazították ki az évet, s az ilyen pótnapok minden műveltségben különleges elbánás alá estek. A régi keresztény naptárban az évkezdés ünnepi időszaka a "karácsonyi tizenketted" volt. Újév napja december 25-ére, Jézus születésnapjára esett, de a munkaév csak a 12 napos ünnepségsorozat végeztével, vízkereszt utáni napon, január 7-én, "regelő hétfőn" vette kezdetét.  
 
 Egyébként két ellentétes irányba néző fejű a [[J/Janus\|Janus]] címnél is taglalt sumér-akkád [[P/Pabilsag\|Pabilsag]] (Nyilas) ábrázolása. A bal oldali fej nehezen lehet más, mint kutya.  
@@ -177,7 +177,7 @@ Az "[[I/Istenfa\|istenfá]]ját" és "kutyafáját" kifejezéseink, amennyiben u
 [Ezen](https://m.nyest.hu/hirek/gyorstalpalo-karomkodasbol-mikor-miert-hogyan-karomkodunk) oldal cikkírója szerint:  
 > A kutyafáját a durva szitkozódásként használt kutya faszát szépített változata; a 20. században terjedt el igazán. Hasonló módon jött létre az istenfáját, a kutyafülit alak.  
 
-Kátay-Barba Rafael Péter Kynologia című írásában szerepelt még ugye:  
+Kátay-Barba Rafael Péter Kynologia című írásában szerepelt még ugye:  
 > A kutya khthonikus (az alvilághoz tartozó halottkísérő, közvetítő, a gonosz társa, az alvilági erők eszköze) lény és lélek hordozó állat. Innen származnak az olyan rossz értelmű szólásaink, mint a "kutya szülte, ebadta, kutya fajta, kutya-fáját".  
 - A Nap valóban az alvilágban jár halálakor és feltámadásakor. De akkor hol a Szíriusz? Együttállásban. Persze hogy a kutya szülte a Nap és így a Nap fiai is. Ebben semmi rossz értelem nincs.  
 
