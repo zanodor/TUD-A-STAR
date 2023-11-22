@@ -14,7 +14,7 @@
 > Óír névként említi Cuchulainnt, mely név első "ku" (`cù`) szótagja vadászkutyát jelent e nyelven. Ilyen "ku" szótag nemcsak kutyáink gyűjtő elnevezésének első szótagja, de a jellegzetesen magyar kutyafajták, a [[K/Kuvasz\|kuvasz]] és [[K/Komondor\|komondor]] nevének kezdete is, fejük ék alakját is jelképezve e szóval. Ku szavunk fordítottja rejti magában hunjaink [[E/ÉK\|ék]] szavát. E két szó összefüggése természetes, hiszen az első ékeket kőből pattintották.  
 > Szigeti ősi ír névnek mondja a **Setantii** törzs nevét, "nyugati értelemmel", ez viszont kapcsolódik a magyar [[S/Sötét\|sötét]] szóhoz; a "nyugat", napnyugta és a "sötét" szavak értelmileg összetartoznak.  
 
-Michel-Gerald Boutet a [[G/Gundestrup cauldron\|Gundestrup cauldron]]-ról szóló 2017-es dolgozatában névetimológia gyanánt a törzs nevét is szóba hozva írja:  
+Michel-Gerald Boutet a [[G/Gundestrup üst\|Gundestrup üst]]ről szóló 2017-es dolgozatában névetimológia gyanánt a törzs nevét is szóba hozva írja:  
 > Setanta < Sentonos "He that goes, goes roaming;" footpath, driveway, path, way;" sentio/sintio, "pathway;"; Setantoi, "distant," a small tribe ofthe Brigantes Nation in what is now Merseyside Lancashire.  
 > —  
 > Setanta < Sentonos "Aki megy, bolyong;" gyalogösvény, felhajtó, ösvény, út;" `sentio`/`sintio`, "ösvény;"; Setantoi, "távoli", a Brigantes nemzet egy kis törzse a mai Merseyside Lancashire területén.  
