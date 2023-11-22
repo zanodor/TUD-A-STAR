@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Feldarabolás/","title":"Feldarabolás","tags":["dg_uploaded"],"created":"2023-11-04T02:14","updated":"2023-11-06T01:05"}
+{"dg-publish":true,"permalink":"/F/Feldarabolás/","title":"Feldarabolás","tags":["dg_uploaded"],"created":"2023-11-04T02:14","updated":"2023-11-22T11:41"}
 ---
 
 
@@ -9,8 +9,9 @@
 
 > "Gyümölcsistennel" a Kalevalában is találkozunk, a maga helyére "égerfalegényt daloló", nyírfaággá változni képes Lemminkeinen alakjában, akit anyja "aranyalmácskájának" nevez. Lemminkeinent ellensége: a "megázott kalapú pásztor, a vak [[P/Pohjola\|pohjola]]i vénség, Tuoninak véres ifja" hasonlóképpen teszi el láb alól, mint Oziriszt a fivére, Szeth vagy Dionüszoszt a titánok. Mérges bürökkel megcsapkodja, hogy elkábuljon, fölaprítja és az alvilági "Tuoni fekete folyójába, Manalának mélységébe" veti. Lemminkeinen maradványait anyja gereblyézi össze és támasztja föl, ahogy Dionüszoszt Perszephoné, Oziriszt pedig Ízisz (XIV-XV. ének).  
 
-#### Bíró Lajos A Táltosok könyvében írja:
+#### Bíró Lajos A Táltosok könyve...  
 
+...című könyvében írja:  
 > Egy korábbi könyvemben is megemlítettem a kétségtelen összefüggést táltoshitünk feldarabolás-képzete és az egyiptomi Ozirisz-mítosz között. Oziriszt a sötétség gonosz megtestesítője, [[S/Széth\|Széth]] darabolta fel. A táltos tehát Ozirisz sorsát ismétli meg, és így nyeri el a túlvilági beavatást. A világ keletkezése egy sor teremtésmítosz szerint az óriás-ős-ember feláldozásával és feldarabolásával függ össze.  
 > A jól ismert Ozirisz-mítoszban Széth isten kelepcébe csalja, megöli, majd késöbb **tizennégy**[^1] részre darabolja fivérét, Oziriszt, s annak tagjait a Nílusba szórja. A tagokat később Izisz összeszedi, majd egyberakja férjét. Ezt követően lesz Ozirisz a holtak ura, az Alvilág királya. Vagyis mintha az isten a szétdarabolás révén jutna a maga személyes öröklétéhez.  
 > Farkas Attila Márton az alkímia eredetéről szóló kiváló könyvében világos magyarázatot ad az említett egyiptomi mítoszra: "Az újjászületést úgy előzi meg a beavatási halál, mint a reggelt, a fényt hozó napkeltét az éjszaka. A beavatandót először feldarabolják (talán meg is főzik), s csak ezután, a megsemmisülés átélése után jut a varázserőhöz, vagy az örökléthez. Ahogyan a tartósított, s ennélfogva az öröklétbe helyezett test is először a mumifikációs eljárás durva boncoló tevékenységének van kitéve, s csak azután a jótékony balzsamozásnak. A jól ismert Ozirisz-mítoszban Széth isten kelepcébe csalja, megöli, majd később tizennégy részre darabalja fivérét, Oziriszt, s annak tagjait a Nílusba szórja. A tagokat késöbb Izisz összeszedi, majd egyberakja férjét. Ezt követően lesz Ozirisz a holtak ura, az Alvilág királya. Vagyis mintha az isten a szétdarabolás révén jutna a maga személyes öröklétéhez."  
@@ -52,8 +53,9 @@ A témát más kapcsán lásd még [[F/Fej#Fejlevágás\|fejlevágás]] cím/alc
 > Továbbá: a révület szó etimológiáját tekintve a hővel, forrósággal kapcsolatos. Van egy 'a bálvány heve, lehelete, amely a sámánt megszállja' jelentésű osztják megfelelése is. A kovács alakja pedig a sámán lázálmában merül fel. Álombéli funkciója ugyanaz, ami a révületé. A révület hevít, izzít, és az izzít következménye az izzad megjelenése. Jelentéstanilag idecsatlakoztatható az izgul (izgat), a szórványosan elıforduló izog (izgó inakkal), bizonyára az izé is; s ha az íz szócsaládja nem volna, talán nem gyökeresedett volna meg nyelvünkben a szlávból átvett izgága sem. Nyilvánvaló ugyanis, hogy azok a "jövevények" szívesebb fogadtatásra találnak a nyelvben, amelyek – ha megízleli őket – könnyedén illeszkednek a szavak hálózatába. Az izgága személy nyughatatlan, civódó ember, szinte ugyanolyan, mint az izgat-ból etimológiailag tisztán levezethető izgékony. S ha figyelembe vesszük azt is, hogy íz az obi-ugoroknál sokszor isz-ként bukkan fel, az izzad mellé állíthatjuk az iszamost is, és mivel tudjuk hogy a sámán sokszor menekül a hivatása elől, mert a beavatás iszonyatos kínokat okoz, talán idehelyezhetjük az iszonyodik-ot is.  
 - "Az íz a fejben lakik" kapcsán ne feledkezzünk meg [[E/ÉSZ\|ész]] szavunkról sem.  
 
-#### Botos László egy az Ősi Gyökér 2007/1. sz. megjelent cikkében írja:  
+#### Botos László...
 
+...egy az Ősi Gyökér 2007/1. sz. megjelent cikkében írja:  
 > Tiszabőn olyan csontleletre bukkantak, amely azt valószínűsíti, hogy egy embert a temetése előtt feldaraboltak.  
 
 ## Lábjegyzetek
@@ -65,10 +67,10 @@ Ez a tizennégy utalás a szakrális 2x7-re és a Paksi Zoltán által is könyv
 Ipolyi Arnold Magyar mythologia című könyvének 364. oldalán, télkihordás kapcsán szól a vén banya báb szétfűrészeléséről.  
 
 [^3]: Lábjegyzet:  
-A [[G/Gundestrup cauldron\|Gundestrup cauldron]] címnél látott képen [[D/Dagda\|Dagda]] jár el hasonló módon.  
+A [[G/Gundestrup üst\|Gundestrup üst]] címnél látott képen [[D/Dagda\|Dagda]] jár el hasonló módon.  
 
 [^4]: Lábjegyzet:  
-Vagy ez utal a [[G/Gundestrup cauldron\|Gundestrup cauldron]]-on szereplő jelenetre.  
+Vagy ez utal a [[G/Gundestrup üst\|Gundestrup üst]]ön szereplő jelenetre.  
 
 [^5]: Lábjegyzet:  
 Lásd latin `mare` = tenger.  
