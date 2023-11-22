@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bika/","title":"Bika","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-09T02:07","updated":"2023-11-09T02:07"}
+{"dg-publish":true,"permalink":"/B/Bika/","title":"Bika","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-09T02:07","updated":"2023-11-22T11:40"}
 ---
 
 
@@ -37,10 +37,12 @@ A fentiek ellenére Bika lehet Bik-A. A [[B/Béka\|béka]] szóval való hasonl�
 Az alábbi JM passzus vezetett ide:  
 > A tehénfit az ellenséggel szemben anyja szarvai, vagy kis táltos bika segíti (Vasfejű farkas-mesék). Az ellenség, a sötét erők állatalakjaiban is lehet (fekete) bika (l. Minotaurus; a néphit szerint a táltos és ellenfele világos és sötét szőrű bika képében harcolnak). A hőst segítő kis bika aranybikát szúr a szarvára az egyik mesében. A sárkányok apja bika képében dézsmálja a csodafa gyümölcsét (A feneketlen kút). Az alvilági bikát és békát némely mesemondó "összekeveri". Ennek nem a nevek hasonlósága az oka; az inkább következmény. Mindkét állat ugyanazt az elvet képviseli. Kalmük mesékben a földet egy béka-bika(!) hordja a hátán, melynek lecsillapítására, ha éhségében bömbölni és hánykolódni kezd, egész marhacsordákat vetnek táplálékul. A béka és a bika emellett egyaránt eső- és termékenységjelkép.  
 
-Ne feledjük el itt azt sem, hogy a [[G/Gundestrup cauldron\|Gundestrup cauldron]] fenéklemezén is egy Bika terül el.  
+Ne feledjük el itt azt sem, hogy a [[G/Gundestrup üst\|Gundestrup üst]] fenéklemezén is egy Bika terül el.  
 Mivel a béka (jelkép) tulajdonképpen nemzés-születés értelmű, és Nimrud-Orion nyilával kapcsolatban is szóba jött, hogy a Bikát ő hozza létre, talán a Bika egyik jelentése is születés. ([[T/Taurus\|Taurus]] címnél írottak alapján másról lehet szó, bár [[T/Tura\|Tura]] meg éppen fiú azaz nemzett értelmű.)  
 
-Fáy Elek könyvét idézi MA Kérdésekjében ([[S/Szohit\|Szohit]] címnél is szerepelt):  
+#### Magyar Adorján Kérdések...  
+
+...című könyvében Fáy Elek könyvét idézi ([[S/Szohit\|Szohit]] címnél is szerepelt):  
 > Brugsch kimutatja, hogy Egyiptom nyugati részén Neit ([[A/Athéné\|Athéné]]) istennőnek legalább is a Kr.e. XIV. századtól fogva egy líbiai eredetű kultusza élt, melyben az istennő, mint a nedves ősanyag személyesítője és [[R/RÁ\|RÁ]] napisten szülőanyja, az esőt adó égi [[T/Tehén\|tehén]]ként tiszteltetett. A tehénistennő azután e minőségében összefolyt Ízisszel is, aki tehénfejű [[H/Hathor\|Hathor]] istennői alakjában egyenesen nyugati, és líbiai istennőnek neveztetett, úgyhogy címe is: Szohit istennő, a tehenu nép fejedelemnője volt. Mindezekből tehát kétségbevonhatatlanul kitűnik, hogy a tehenu nép a nevét a tehénről vette. De ugyanebben a kultuszban **a tehénistennővel szemben a hímelvet képviselő** istenség **Bakh**, **Bakis**, **Pakis**, **Pika** nevet viselt.  
 
 #### Fáy Elek A magyarok őshona...
@@ -50,7 +52,9 @@ Fáy Elek könyvét idézi MA Kérdésekjében ([[S/Szohit\|Szohit]] címnél is
 
 ## Bikaistennő
 
-Falvay Károly Nagyboldogasszony című könyvének 186. oldalán furcsamód említi a Bikaistennő kifejezést:  
+#### Falvay Károly Nagyboldogasszony...  
+
+...című könyvének 186. oldalán furcsamód említi a Bikaistennő kifejezést:  
 > Már Boldogasszony könyvünkben (2001) bemutattuk a neolitikus folyamat Kárpát-medencei szellemi továbbfejlődésének "bikaistennő" jelenlétét (Kr. e. 4200), melyet a magyar régészet Temesvár térségében az 1930-as évek óta ismer, a román régészet 1980-85 között tárta föl.  
 
 Könyvének 262. oldalán újfent írja:  
@@ -94,10 +98,12 @@ A Bika Szarvassal való azonosítását alátámasztani látszik a The God Cernu
 > *'Vadkan, óriás és égi tehén, a télre számolunk. Nyúl, farkas és emberpár a tavaszt képviseli. Kakasnál, ménnél és kukorica fülű nőnél a nyári napforduló. Fecske, szarvas (őz) és íjász az ősz kerete.'*.
 > A fenti szövegből, amely egyértelműen az éjszakai égboltra utal, nyilvánvalóan csak az emberpár (Ikrek), a kukorica fülű nő (Szűz) és az íjász (Nyilas) különböztethető meg, bár **az égi tehén a Bikát jelentheti**. De feltűnő a sorozaton belül egy szarvas és egy vaddisznó megjelenése; a szarvas az őszhöz kapcsolódik, mint a Skorpió, míg a vaddisznó a télhez. Ráadásul a szarvas az íjász mellett jelenik meg a versben - emlékeztetve arra, hogy a Skorpió és a Nyilas egymás mellett áll a görög-római zodiákusban. Ez talán alternatív észak-európai csillagképekre utalhat, beleértve a szarvast és a vaddisznót; ezek közül néhány akár állatövi csillagkép is lehet.  
 
-[[G/Guanna\|Guanna]] (a sumér-babiloni csillagképek közül a Bika neve, helyesen Gu-An-Na) címnél is szó volt arról, a bika nem feltétlenül jön elő hímségiként. A [[G/Gundestrup cauldron\|Gundestrup cauldron]] belső alsó fenéklemezén is bika található, de eredetileg Tejútállat ([[T/Tehén\|tehén]]) kellett volna legyen.  
+[[G/Guanna\|Guanna]] (a sumér-babiloni csillagképek közül a Bika neve, helyesen Gu-An-Na) címnél is szó volt arról, a bika nem feltétlenül jön elő hímségiként. A [[G/Gundestrup üst\|Gundestrup üst]] belső alsó fenéklemezén is bika található, de eredetileg Tejútállat ([[T/Tehén\|tehén]]) kellett volna legyen.  
 Talán ezért is lehet, hogy a [[B/Bitch\|bitch]] címnél is említett francia `biche` = őz szó ilyen alakú. Nyilván a szarvas – marha összefüggést kell látni. [Ezen](https://en.wiktionary.org/wiki/biche) oldalon a hivatalosság más utakon jár.  
 
-Bakos Attila A Duna Evangéliuma című könyvének 246. oldalán írja, hogy:  
+#### Bakos Attila A Duna Evangéliuma...  
+
+...című könyvének 246. oldalán írja:  
 > A Bika a teljes világegyetem, a Nagy Égisten szimbóluma egyes ősnépeinknél, ahol a\[z indo-európai felfogás által félrevezetve általa több ízben hímséginek kezelt\] [[C/Csudaszarvas\|Csudaszarvas]]t helyettesítette.  
 
 Bizony, a Bika esetében arra is kell gondolni, hogy nem csak a szarvasmarha hímjére utalhatott. A Bika Taur/Túr (lásd [[T/Taurus\|Taurus]]) neve viszont aligha lenne Szarvasbika.  

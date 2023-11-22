@@ -1,7 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tejútanya állatalakjai/","title":"Tejútanya állatalakjai","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-13T02:19","updated":"2023-11-13T02:19"}
+title: Tejútanya állatalakjai
+aliases:
+  - Tejútanya-állatalak
+  - Tejútanya állatalakja
+  - Tejútanya állatalakjá
+  - Tejútanya és állatalakjai
+tags:
+  - dg_uploaded
+  - Englishtexttranslated
+share: true
+dg-publish: true
+dg-created: 2023-11-13T02:19
+dg-updated: 2023-11-22T11:43
+dg_upload_status: VNC done
+date created: 2023-06-22
+date modified: 2023-11-22
 ---
-
 
 # Tejútanya állatalakjai
 
@@ -19,7 +33,7 @@ A Falvay Károly Nagyboldogasszony című könyvében több helyen említett Ma
 > A neolitikus női istennők sokféle és összetett skáláját azonosította, köztük a madáristennőt, az állatok úrnőjét, a hegyek királynőjét, a kígyóistennőt, a szarvasanyát, a medveanyát, az életet adó, kézműves, szülő, dajka, terhes földanyát vagy földanyát, kettős istennő (anya-lánya), a halál istennője, háromszög-órács istennő, békaistennő, sünistennő, halistennő, méh- és pillangóistennő és regeneratrix, és ezáltal érvényteleníti az európai neolitikum egyetlen "Nagy Anya" istenségére vonatkozó leegyszerűsítő hipotéziseket. Marija Gimbutas a különböző női istenségek megfejtéséhez a "Nagy Istennő" megnyilvánulásaiként jelölte meg ezeket a többszörös formákat, szemben a "Nagy Anyával", aki másodlagos.  
 - A Falvay könyvének 302. oldalán Gimbutastól vett szarvassal kapcsolatba hozott sumér istennőt illetve nevét fontos lenne megtalálni, de eddig hiába. [[E/Enki\|Enki]]-Ea hozatott kapcsolatba Bobula Ida The Great Stag című dolgozatában a szarvassal, de ő már hímségi isten. A vele kapcsolatos adatokat a sumér `Dar-Mah` = Nagy Szarvas kapcsán lásd [[D/Dream\|dream]], [[M/Magor\|Magor]] és [[K/Karácsony\|Karácsony]] címeknél. <br/>
 Jeremy Black és Anthony Green Gods, Demons and Symbols in Ancient Mesopotamia c. könyvükben is csak Enkinél jön elő szarvas. Enki feleségének neve viszont a dámszarvas (lásd [[D/Dame\|dame]]) nevét idézi: [[D/Damgalnuna\|Damgalnuna]], későbbi nevén [[D/Damkina\|Damkina]] (aki viszont oroszlánnal hozatott kapcsolatba).  
-Ugyebár a szarvasbika (ami ugye Enki nem volt, csak szarvakat viselt) mögött mindig szarvasünő húzódik meg. Erről [[B/Bika#Bikaistennő\|bikaistennő]] cím/alcímnél is volt szó, és a [[G/Gundestrup cauldron\|Gundestrup cauldron]] alsó lemezén látható bika is valójában ünő/tehén kellett volna legyen.  
+Ugyebár a szarvasbika (ami ugye Enki nem volt, csak szarvakat viselt) mögött mindig szarvasünő húzódik meg. Erről [[B/Bika#Bikaistennő\|bikaistennő]] cím/alcímnél is volt szó, és a [[G/Gundestrup üst\|Gundestrup üst]] alsó lemezén látható bika is valójában ünő/tehén kellett volna legyen.  
 
   
 Valójában úgy tűnik, a Tejútanyának mindenféle(!) állatalakot képzeltek. Ami eddig biztos, hogy [[K/Kutya\|kutya]][^2], [[F/Farkas\|farkas]][^3] és [[R/Róka\|róka]] állatalakot is elképzeltek (majd ezek külön csillagképekben meg is lettek örökítve), ahogy [[N/NEM\|NEM]] címnél álló adatok szerint [[O/Oroszlán\|oroszlán]], valamint [[M/Macska\|macska]] és [[C/Cat\|cat]] címnél álló adatok szerint [[M/Macska\|macska]]-alakot is (eredeti neve [[M/Magyar\|magyar]]), [[M/Majom\|majom]] ([[A/Ape\|ape]], [[G/Gibbon\|gibbon]] és [[B/Baboon\|baboon]]) címnél írottak alapján majom-alakot, [[N/Nyúl\|nyúl]], [[N/Nyest\|nyest]], (a [[H/Hölgy\|hölgy]] címnél is említett) [[M/Menyét\|menyét]] és [[H/Hód\|hód]], továbbá [[M/Mókus\|mókus]], [[M/Mormota\|mormota]], [[E/Egér\|egér]] ([[G/Güzü\|güzü]]), [[G/Görény\|görény]], valamint [[V/Vadkan\|vadkan]]/[[K/Koca\|koca]] alakot is, a félig hal, félig ember [[S/Sellő\|sellő]] (és [[M/Mermaid\|mermaid]])-alakot, hal-alakot[^4] (lásd [[D/Dagon\|Dagon]]): főleg (a [[M/Magyar\|magyar]] nevet vivő) [[M/Mackerel\|mackerel]], [[C/Cod\|cod]], [[C/Cet\|cet]], [[S/Sturgeon\|sturgeon]], [[C/Cápa\|cápa]][^5], [[B/Bálna\|bálna]][^6] és delfin (lásd JM írásait [[D/Dolphin\|dolphin]]) alakot is (talán leginkább fontos, hogy ezek közül többen emlősök: méhük van), (nem-emlős) madár-alakot is ([[D/Daru\|daru]], [[H/Hattyú\|hattyú]], [[K/Kacsa\|kacsa]], [[L/Liba\|liba]], [[L/Lúd\|lúd]], [[G/Gém\|gém]], [[G/Gólya\|gólya]][^7], [[I/Íbisz\|Íbisz]], [[G/Gödény\|gödény]], akár [[F/Fogoly\|fogoly]][^8] stb.), negatívvá váló illetve őslény/ősanyag-Tejútistennőre utaló [[K/Kígyó\|kígyó]] és [[S/Sárkány\|sárkány]] alakot, egyéb hüllők közül például [[B/Béka\|béka]] és [[G/Gőte\|gőte]] ([[N/Nut\|Nut]] nevével egyező például [[N/Newt\|newt]] = tarajos gőte) alakot, [[C/Crocodile\|crocodile]], valamint [[K/Kagyló\|kagyló]], [[O/Oyster\|osztriga]], valamint (Tejút-karokkal is kapcsolatba hozható) [[R/Rák\|rák]], ([[H/Homár\|homár]]), [[P/Polip\|polip]] és [[P/Pók\|pók]] alakot, az alant külön taglalt [[F/Féreg\|féreg]], stb. alakot, és persze a legalapvetőbb (tejet adó képességük miatt igen fontos!) [[S/Szarvas\|szarvas]], [[L/Ló\|ló]], [[T/Tehén\|tehén]], [[Z/Zebu\|zebu]], [[B/Bivaly\|bivaly]]/[[B/Buffalo\|buffalo]], [[S/Szamár\|szamár]], [[A/Antelope\|Antilop]], [[G/Gnu\|gnu]], [[G/Gazella\|gazella]], [[K/Kecske\|kecske]] (lásd [[G/Goat\|goat]]), [[T/Teve\|teve]], [[G/Giraffe\|giraffe]] stb. alakokat.  
@@ -126,4 +140,4 @@ A méhekről úgy gondolták, hogy a szüzességet képviselik, részben azért,
 
 [^10]: Lábjegyzet:  
 A kontextus talán nem is annyira érdekes (a lényeg a Tejútanya szukakutya-aspektusa):  
-Az irodalmi anyag élén a már idézett Homéroszi életmű áll (Kr.e.: 750-700 körül). Odüsszeusz Argoszáról már szóltam. Az Iliász, ha tetszik ellenpont. Itt a kutya sorozatos becsmérlő említésével találkozhatunk. Achilleusz Agamemnont "kutyafinak", Hektor az őt legyőző Achilleuszt "kutyájának" titulálja. Itt találkozunk a kutyákkal történő felfalatás több kultúrára kiterjedő ősi szokásával is. Achilleusz, barátja, Patroklosz halála miatt érzett keserűségében elhatározza, hogy a halott Hektor tetemét kutyák martalékául veti. Tervét azonban a testet őrző Aphrodité meghiúsítja, így "...egy kutya sem tépett a tetembe" (XXIII. 181-183.). Heléna pedig, átérezve az általa okozott háborúban való felelősségét, önmagát "szukának" nevezi. Hektor mai napig számos kutyának névadója. \[Kátay-Barba Rafael Péter – Kynologia\]  
+Az irodalmi anyag élén a már idézett Homéroszi életmű áll (Kr.e.: 750-700 körül). Odüsszeusz Argoszáról már szóltam. Az Iliász, ha tetszik ellenpont. Itt a kutya sorozatos becsmérlő említésével találkozhatunk. Achilleusz Agamemnont "kutyafinak", Hektor az őt legyőző Achilleuszt "kutyájának" titulálja. Itt találkozunk a kutyákkal történő felfalatás több kultúrára kiterjedő ősi szokásával is. Achilleusz, barátja, Patroklosz halála miatt érzett keserűségében elhatározza, hogy a halott Hektor tetemét kutyák martalékául veti. Tervét azonban a testet őrző Aphrodité meghiúsítja, így "...egy kutya sem tépett a tetembe" (XXIII. 181-183.). Heléna pedig, átérezve az általa okozott háborúban való felelősségét, önmagát "szukának" nevezi. Hektor mai napig számos kutyának névadója. \[Kátay-Barba Rafael Péter – Kynologia\]  
