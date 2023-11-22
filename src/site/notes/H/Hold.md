@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","stitched","dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2023-11-10T06:47"}
+{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","stitched","dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2023-11-23T12:05"}
 ---
 
 
@@ -192,7 +192,7 @@ Orosz Zsolt [[S/Sitchin, Zecharia\|Sitchin, Zecharia]] adataira alapozott intern
 > Fia, Kingu, nevének két része Kin és Gu. A Kin Király, a Kény, Kün, Ken, stb. rokona, a Gu itt Fő, Fej jelentésű. Kin-Gu tehát egy Fő-Király, aki valamilyen erőszak ellen fellázadt, és harcolni kezdett. Az angol King ebből a magyar névből származik, jelentése tehát Fő-Király.  
 > Tiámat elvesztette a harcot, fiát, Kingut is megölték a győztesek. A mítosz mai értelmezése nem fogadható el teljesen, tovább kell még kutatni a rejtélyeket.  
 
-Több klasszikus szerző megegyezik abban, hogy sok ezer évvel ezelőtt az Indiai-óceánban nagy szárazföld feküdt Afrika, Arábia és Hindusztán között: [[G/Gondwana\|Gondwana]]. Akkoriban, teszik hozzá, a **Hold még nem volt az Égen**, s ezért a görög írók e földrész lakóit proszeléneknek, hold előtti embereknek nevezték (Szeléné = hold), mint [[A/Árkádia\|Árkádia]] lakói magukat[^17]:  
+Több klasszikus szerző megegyezik abban, hogy sok ezer évvel ezelőtt az Indiai-óceánban nagy szárazföld feküdt Afrika, Arábia és Hindusztán között: [[G/Gondwana\|Gondwana]]. Akkoriban, teszik hozzá, a **Hold még nem volt az Égen**, s ezért a görög írók e földrész lakóit proszeléneknek, hold előtti embereknek nevezték (Szeléné = hold), mint [[A/Árkádia\|Árkádia]] lakói magukat[^17]\:  
 > All ages have had a great esteem and veneration for antiquity; and not only of men, but of families, cities, and countries, the most ancient have always been accounted the most honourable. Hence arose one of the first and most universal disputes that ever troubled mankind; almost every nation, whose origin was not very manifest, pretending to have been of an equal duration with the earth itself. Thus the Egyptians, Scythians, and Phrygians, fancied themselves to be the first race of mankind; and the Arcadians boasted that they were προσελενοι, or before the moon.  
 
 Az árkádiai mondáról RHA is tesz említést könyvében:  
@@ -210,7 +210,7 @@ Egy saját elmélet szerint nem elképzelhetetlen (de nem is bizonyítható), ho
 [[A/Árgyilus\|Árgyilus]] címnél is szerepelt, hogy egyszerre lehet Szíriusz/Nap és a Hold is.  
 
 Péterfai János adata is szerepelt ott, miszerint a farkasból kutyává válás illetve a [[K/Kutya háziasítása\|kutya háziasítása]] csak\[?!\] 12-14000 éve jött volna létre.  
-Kynologia című írásában Kátay-Barba Rafael Péter is érinti a témát:  
+Kynologia című írásában Kátay-Barba Rafael Péter is érinti a témát:  
 > Évekkel ezelőtt a Magyar Rádió egyik "tudományos" műsorában elhangzott, hogy a kutya háziasítása a korábban gondoltnál lényegesen korábban zajlott le. Ebben az összefüggésben idéztek egy 130 ezer éves farkas-kutya koponya leletet az ősember tűzhelyének közvetlen közeléből, mint őskutyát. Sajnálatos, de a lelet kapcsán egyetlen konkrét adat sem hangzott el, mint például: a feltáró régész neve, a lelőhely, feltárás időpontja, stb. Kétségtelen, hogy e sorok írójának is vannak fenntartásai a köztudatban elterjedt, s az általánosan elfogadott 10-14 ezer évvel ezelőtti domesztikációs datálással kapcsolatban, de ezen nézetét a tudományos kutatás eredményeinek ismeretében alakította ki.  
 
 Ez a kormeghatározás azért (lett volna) érdekes, mert épp 13000 éve voltunk a felső ágon és ez újfent felveti, hogy a Hold nem-e a Szíriusz rendszerből lett megörökölve: az Árgyilus név és a kutya, mint egyszerre Szíriusz- és Holdállat is erre engedhetne következetni, csakhogy mindez azt jelentené, hogy az egész [[H/Hunor és Magor\|Hunor és Magor]] történet és az emberiség eredete és a magyar nyelv is ilyen 13000 éves régi kellene legyen és ez nem lehet igaz. Inkább tűnik úgy, hogy a kataklizmák (pólusváltások) eltüntetik a nyomokat vagy talán hogy a magyar és hun nép és a kutyatisztelet ősiségét illetve ezzel a Szíriusz jelentőségét is ismerők korlátozzák le időben a dolgokat (ez azért nem valószínű).  
