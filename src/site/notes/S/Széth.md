@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-16T01:30","updated":"2023-11-20T05:42"}
+{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-16T01:30","updated":"2023-11-23T12:08"}
 ---
 
 
@@ -81,7 +81,7 @@ A héber is végső soron a sumér és az avar-hun-óegyiptomi nyelvből fejlőd
 Ezek alapján (és a bibliai [[E/El Shaddai\|El Shaddai]] névvel való azonossága alapján is!) Jehova Széth folytatása lenne és joggal mondhatnák a zsidók, hogy ők az "eredeti istent" (a sötét az alapállapot) imádják. Sőt, ha már itt tartunk, a Sed név – mellyel azonos zsidó `sed` név előjött afféle tündér jelentéssel [[S/Sidhe\|sidhe]] címnél is – eredetét képezheti a [[S/Sidó\|sidó]]/[[Z/Zsidó\|zsidó]] névnek is, de ha Széth alant taglalt kutya állatjelét vesszük figyelembe, akkor a [[K/Kutya\|kutya]]>kuta>kuda>khuda>huda>[[J/Júda\|Júda]] fejlődési sorozaton keresztül a zsidók másik nevét is meg tudjuk határozni.  
 - [[J/Jehova\|Jehova]] és [[O/Ószövetség\|Ószövetség]] címnél írtuk legutóbb, hogy a Jehova-kultusz nem más, mint a Széth-kultusz fennmaradása/folytatása, és így az Ószövetség elnevezés is eredetileg a – [[H/Hyperborea-Atlantisz átállás\|Hyperborea-Atlantisz átállás]] címnél taglalt változások alapján – régi anyakultuszra (plusz öreg Napisten/Szíriusz kultuszra) utalt volna és az Újszövetség pedig a szoláris napfiú-kultuszra, csak éppen az az eredeti Ószövetséget átírták.  
 
-Persze hogy mi minősül "eredeti" istennek, ezzel csínján kell bánni, mert a végén ráfogják, hogy az eredeti tanítások náluk vannak. A Széth féle eredetiség a sátán istennő által képviselt szűzállapotra és csillagvallási időkre utal. Évköri értelmezésben Széth már a káosz erőit testesíti meg, ahogy Huszárik László Denderai csillagképek, hónapok és mítoszok c. a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXXIII./10. sz. megjelent cikkében is írja[^2]:  
+Persze hogy mi minősül "eredeti" istennek, ezzel csínján kell bánni, mert a végén ráfogják, hogy az eredeti tanítások náluk vannak. A Széth féle eredetiség a sátán istennő által képviselt szűzállapotra és csillagvallási időkre utal. Évköri értelmezésben Széth már a káosz erőit testesíti meg, ahogy Huszárik László Denderai csillagképek, hónapok és mítoszok c. a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXXIII./10. sz. megjelent cikkében is írja[^2]\:  
 > A(z egyiptomi részről látható) hasonlóságok felvetik a (babiloni) ráhatás lehetőségét, a csillag elnevezések emlékeztetnek Gilgames történetre, de az egyiptomiak saját történetüket teremtették meg. Ábrázolásaik azt mutatják az égbolton, amit a földön szerettek volna látni. Széth káosz erőinek megfékezését üzenik, Ozirisz szeretet isten és követői segítségével.  
 
 ![assets/Széth_image5.png](/img/user/S/assets/Sz%C3%A9th_image5.png)  
