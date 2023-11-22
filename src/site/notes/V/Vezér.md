@@ -1,13 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vezér/","title":"Vezér","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-20T01:40","updated":"2023-10-28T08:36"}
+{"dg-publish":true,"permalink":"/V/Vezér/","title":"Vezér","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-20T01:40","updated":"2023-11-22T11:38"}
 ---
 
 
 # Vezér
 
 Az oszmán-török-angol `vizier` és az arab `wazīr` = vezér mindketten magyar eredetűek. [[O/Ozirisz\|Ozirisz]] neve is innen ered.  
+Hasonló szóalak a [[G/Gundestrup üst#B vagy 2-es jelű külső lemez – Szaturnusz\|Gundestrup üst]] címnél lézengő fordítással talált kelta **Uosiros**.  
 
-A vezér az egyik legkönnyebben érthető magyar név (de a Mag-Ur is az lenne), mely rá*vezet*hetné a díszes társaságot arra, hogy a [[M/Magyar ősnyelv szótagnyelv\|magyar nyelv szótagnyelv]].  
+A vezér az egyik legkönnyebben érthető magyar név (a Mag-Ur is az lenne), mely rá*vezet*hetné az érdeklődőket és a más irányban érdek-lődőket arra, hogy a [[M/Magyar ősnyelv szótagnyelv\|magyar nyelv szótagnyelv]].  
 Itt is azt a magánhangzó-harmónia törvényt látjuk, mint [[K/Kenyér\|kenyér]] esetében, azaz nem Vez-Úr a használt alak.  
 
 #### Péterfai János írásai:  
@@ -33,7 +34,7 @@ Alapesetben, PJI adatát követve a Vezér = \[V>O\] Ozirisz = Orion, de valój�
 Azzal indítottam volna, hogy kezdjük a "Vezér mint Nap" olvasattal, de rá kellett jöjjek, hogy nem lett volna megfelelő.  
 Ugye egyszer Vezér nem más, mint a Vas-Ár/Vas-Úr/Basz-Úr értelemmel visszaadható [[V/Vasárnap\|vasárnap]] név előrésze. Csakhogy ami a Napvallásokban Vasárnap = Nap napja[^1], az az ősvallásban az Úr (Isten) Napja lehetett, istentiszteleti nap (hasonlóan a germánban a magyar [[M/Magor\|Magor]] névből [[M/Maker\|Maker]] = teremtő lett és a szlávoknál a magyar [[B/BOG\|Bog]] = Nap névből lett teremtő/főisten). Ez az Úr pedig felkerült az égre is, [[O/Orion\|Orion]]ként (lásd erről ott illetve [[I/Isten\|Isten]] címnél).  
 
-[[V/VEZ\|VEZ]] címnél írottak szerint Basz-Úr értelmű Vezér. Amely Basz-Úr lehet végsősoron Pat-Er ([[P/Pater\|Pater]]) is, mely ismét megint csak Ozirisz-Orionra utal.  
+[[V/VEZ\|VEZ]] címnél írottak szerint Basz-Úr értelmű Vezér. Amely Basz-Úr lehet végső soron Pat-Er ([[P/Pater\|Pater]]) is, mely ismét megint csak Ozirisz-Orionra utal.  
 MA adata vizont, hogy a besenyők a Napistent Pet, Petur, [[B/Bátor\|Bátor]] (és Veszer \[= Vezér\]) néven tisztelték. A besenyők is viszont egy újabb, napvalláskorban létrjött népünk.  
 Azt persze mindenképpen hozzá kell tenni, hogy a hímségi (ha úgy tetszik, patriarchális) nevek mindig Napnevek. Azaz itt is az a tény áll, hogy a központi Napunk a legfontosabb és még a [[M/Magyar\|Magyar]] istennőnév is tulajdonképpen a [[M/Magor\|Magor]] Napnév lágyulásaként jön létre (továbbá a Mars, Jupiter és Szaturnusz is "fiatalkorukban Napok").  
 
