@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["dg_uploaded","gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-11-06T12:48"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["dg_uploaded","gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-11-23T01:04"}
 ---
 
 
@@ -59,6 +59,10 @@ A boríték mellett a három ikon értelemszerűen a téma színváltoztatását
 Amennyiben 1400 pixelszélességnél kisebb képernyőn tekinti meg az oldalt, akkor a mobil alkalmazásnak megfelelő nézetet kapja. Ilyenkor asztali gépen vagy laptopon az oldal jobb áttekinthetősége és funkcióinak könnyű elérése végett érdemes kipróbálni 90%-os nagyításban, mely állapothoz a CNTRL és mínusz gomb lenyomásaival juthat.  
 A jövőben erre is megoldás születik majd, így ezzel majd nem kell foglalkozni.  
 
+Egyes helyeken, ahol a Wikilinkek után közvetlenül egy kötőjel vagy rag következik, egy felesleges szóköz jelenhet meg. Ennek okát nem tudom; talán a Google automatikus fordítójának bekapcsolt állapota okozza. Az én gépeimen és böngészőimben ez a probléma nem áll fenn, de az olvashatóságot annyira nem befolyásolja, hogy ezért bárminemű szoftveres beavatkozást eszközöljek.  
+
+A menet közbeni folyamatos feltöltésekkel előbb a mobilos/táblagépes böngészőkön, majd a laptopok és asztali gépek böngészőin megszűnt működni a keresés funkció. Remélhetőleg erre az elkövetkezendő hónapokban lesz valamilyen megoldás, mert a funkció nagyon hasznos, hiszen nemcsak a cikkek címeire, hanem azok tartalmára is lehetett keresni és azonnali eredményeket produkált. Ellenkező esetben az oldalt látogatónak a bal oldali A-Z mappákban manuálisan tallózva kell kalauzolni magát, ami nem ideális (de még ez is fejlettebb megoldás egyes blogok megoldásaihoz képest).  
+
 ## A Tudástárról
 
 ### A formátum
@@ -89,7 +93,7 @@ A lexikális adatok (lásd őket `ilyen` vagy főképpen tulajdon- és istenneve
 Menet közben úgy döntöttem, hogy a fontosabbnak ítélt angol nyelvű részeket (az esetek mintegy 90-95%-a lehet) lefordítom. Ehhez a kitűnő DeepL fordítót használom. A kész fordításokban csak a látványos vagy ordító hibát javítom, de elképzelhető, hogy helyenként kissé magyartalan marad a szöveg. (Az említett fordító így is messze felülmúlja a nagynevű világcégek magyar nyelvre fordító képességét – történik mindez a 21. században...)  
 Ez a lábjegyzetekre is kihatással lesz: az egyes lábjegyzetek mellett álló visszafelé nyilak közül az első az angol szövegre, a második a magyarra visz.  
 
-Az egyes szócikkek nagybetűvel való felvételének oka, hogy az alapszavakat vagy ún. etimonokat (és teoretikus etimonokat) meg kívántam különböztetni a többitől. Az olyan szavak, mint [[B/BOG\|BOG]], [[S/SZEK\|SZEK]], és társai Napot, napminôséget (hímségi princípiumot) jelentenek és változataik sok más szó részét képezik. Mivel nem kimondott – legalábbis nem az indoeurópai értelemben vett – szógyökök, hanem nemcsak a szavak elején szereplő szóelemek (szótagnyelv-elemek), ezért célszerű volt megkülönböztetni őket.  
+Az egyes szócikkek nagybetűvel való felvételének oka, hogy az alapszavakat vagy ún. etimonokat (és teoretikus etimonokat) meg kívántam különböztetni a többitől. Az olyan szavak, mint [[B/BOG\|BOG]], [[S/SZEK\|SZEK]], és társai Napot, napminőséget (hímségi princípiumot) jelentenek és változataik sok más szó részét képezik. Mivel nem kimondott – legalábbis nem az indoeurópai értelemben vett – szógyökök, hanem nemcsak a szavak elején szereplő szóelemek (szótagnyelv-elemek), ezért célszerű volt megkülönböztetni őket.  
 
 ### A tartalom
 
