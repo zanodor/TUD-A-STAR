@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","stitched","dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2023-11-23T12:33"}
+{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","stitched","dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2023-11-25T12:00"}
 ---
 
 
@@ -31,7 +31,7 @@ Molnár V. József Világ-Virág című könyvének 68-69. oldalán is keres sz�
 > A Hold növekszik (ilyenkor [[S/Szarv\|szarv]]a van[^2]), kiteljesedik, majd fogy és eltűnik: mindannak, ami szarvas (a kínai zodiákusban a [[S/Szarvas\|szarvas]] "holdház" jelölője[^3]), ami szerves, növekedő, növényi, női, ami telő, teli, kiteljesedett, annak megidézője és egyben előidéző oka lehet (például a nők ciklikus tisztulásának); de a Hold szabályozza a csigaház növekedését is és ő az intézője mindannak, ami hül, hüllő, hal; ami hull (például álomba), hál, elhal, holt. (V. N. Toporov: Adalékok néhány költői szimbólum eredetének kérdéséhez. A művészet ősi formái. Budapest, 1982. 107. o. 47. jegyzete (Hold és kígyó, Hold és halott összefüggése).)  
 > A régi ember hitében a [[T/Telihold\|telihold]] segít a szülésnél; de az is ő, aki az utolsó órán "átvezeti" az embert a "nagy vizen."  
 
-eMolnár V. József könyvének 98-99. oldalán folytatja:  
+Molnár V. József könyvének 98-99. oldalán folytatja:  
 > A Hold a születés és az élet nedves, megtartó erőinek az intézője; ő a nő, a növény és a növekedés istápoló anyja; de ő vezeti át a lelket a holtak birodalmába is. Egy gyimesi csángó asszony mesélte nekem, hogy álmában valaki, akit a ködös fényességtől nem láthatott, megfogta a kezét és vezetni kezdte. Ő tudta, hogy a folyón túlra kell mennie. Könyörgött, hadd maradhasson még, hiszen "kicsi" fia messze földön katona, s nem tud elbúcsúzni tőle; a kisebbik lánya nagyon aprócska, mi lesz vele nélküle – még dolga van ebben a világban...  
 > A fényes ismeretlen még a folyó előtt elengedte a kezét. Ő fölébredt és az ablakon keresztül a telihold nézett rá a hajnal kapujából, távozóban.  
 - Molnár V. József Világ-Virág című könyvében több helyen esik szó a Naphoz rendelt \[hímségi\] száraz és a Holdhoz tartozó \[nőiségi\] nedves jelképiségről, például könyvének 116. oldalán is.  
@@ -39,7 +39,7 @@ eMolnár V. József könyvének 98-99. oldalán folytatja:
 PJI tehát MA-hoz hasonló ideákat vet fel, de szépen kibővítve, ugyanakkor a [[H/HOL\|HOL]]/[[H/HÓL\|HÓL]] fehérségéről nem szól.  
 Ezen Hol elemet Jankovics Marcell Mély a múltnak kútja című könyvének 106. oldalán is kiemeli. Ő mindenféle magyar és idegen szóban a K-R és azzal rokon vázat keresi. [[K/KAR\|KAR]] címnél legutóbb írottak alapján valóban értelmezhető HOL, de nem fényes, hanem [[K/KOL\|KOL]] kör értelme alapján.  
 
-A vitatható levezetésekkel előhozakodó [[D/Dudás Rudolf\|Dudás Rudolf]]nál a Hold felbontása HU-UD, ahol HÚD fénnyel eláraszt, fény. [[H/HUD\|HUD]] a Fény Helye, asztális jelentésében (tellurisan víz: lásd [[H/Hugya\|hugya]] és [[H/Hydro\|hydro]]). Egyébként elképzelhető, hogy itt még igaza is lehet, hisz a Hold a Nap ([[U/UD\|UD]]) helyét veszi át világítólag éjszaka[^4], míg a [[H/HU\|HU]]/[[K/KU\|KU]] valóban égitest (csillag) jelentésű, de [[H/HUD\|HUD]] > [[H/Húgy\|húgy]], [[H/Hugya\|hugya]] is csillag jelentésűek. (Márpedig a Holdra, mint égitestre egyszerre tekintettek csillagként és bolygóként (lásd [[H/Hét bolygó\|hét bolygó]]).)  
+A vitatható levezetésekkel előhozakodó [[D/Dudás Rudolf\|Dudás Rudolf]]nál a Hold felbontása HU-UD, ahol HÚD fénnyel eláraszt, fény. [[H/HUD\|HUD]] a Fény Helye, asztrális jelentésében (tellurisan víz: lásd [[H/Hugya\|hugya]] és [[H/Hydro\|hydro]]). Egyébként elképzelhető, hogy itt még igaza is lehet, hisz a Hold a Nap ([[U/UD\|UD]]) helyét veszi át világítólag éjszaka[^4], míg a [[H/HU\|HU]]/[[K/KU\|KU]] valóban égitest (csillag) jelentésű, de [[H/HUD\|HUD]] > [[H/Húgy\|húgy]], [[H/Hugya\|hugya]] is csillag jelentésűek. (Márpedig a Holdra, mint égitestre egyszerre tekintettek csillagként és bolygóként (lásd [[H/Hét bolygó\|hét bolygó]]).)  
 
 Jankovics Marcell Ahol a madár se jár című könyvében ír arról, hogy a Magyar Nyelv Történeti és Etimológiai Szótára megemlíti, hogy a köznyelv etimológiai kapcsolatot teremtett a húgy és a Hold között (l. a húgy `hóggya` változatát), ami tartalmi kapcsolatot is jelent, mivel a Holdat tekintették a régiek a vizek planetáris felelősének.  
 \[Ezzel egy újabb értelem született, melyet a Hold névbe bele kellett passzírozni.\]  
