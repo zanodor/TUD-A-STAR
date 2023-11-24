@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mocsár-mitológia/","title":"Mocsár-mitológia","tags":["dg_uploaded"],"created":"2023-11-18T09:11","updated":"2023-11-18T09:11"}
+{"dg-publish":true,"permalink":"/M/Mocsár-mitológia/","title":"Mocsár-mitológia","tags":["dg_uploaded"],"created":"2023-11-18T09:11","updated":"2023-11-25T12:10"}
 ---
 
 
@@ -42,7 +42,7 @@ Mocsarat jelentő szavak közül a [[F/FEN#Fen 2)\|fen]] érdekesmód [[F/Fény\
 Az [[E/EL\|EL]] és [[D/Dame\|dame]] címnél is előjövő görög `élosz` = láp, mocsár szó – mely nyilván a Tejútanya-Földanya Él nevéből ered – szintén arra mutat rá, hogy az első élet a mocsarakból indult ki[^2].  
 Ha viszont Él isten valójában nőnemű is lehet, akkor érthetővé válik, miért lehet az élettel, fénnyel kapcsolatba hozni a fentebbi szavakat is. A [[V/Víz\|víz]] is lehet (megtermékenyítően) hímségi.  
 A (hihetetlen méreteket öltő) témát felkapjuk [[L/Labyrinth\|labyrinth]], [[L/Love\|love]] és [[L/Labour\|labour]] szavaknál is.  
-Lásd még [[C/Csallóköz\|Csallóköz]], [[F/Fertő\|Fertő]], [[E/Edgar Dacque\|Edgar Dacque]] stb.  
+Lásd még [[C/Csallóköz\|Csallóköz]], [[F/Fertő\|Fertő]], [[E/Edgar Dacqué\|Edgar Dacqué]] stb.  
 
 [[T/Teremtésmítoszok\|Teremtésmítoszok]] címnél is szerepelt Erich von Däniken passzusa a szerves élet kialakulásáról:  
 > A szerves élet tehát kezdetben egy vizes masszában dinsztelődött, és a Föld meleg kisugárzása miatt gőzgomolyként felszállt. A nagy magasságokban lehűlt, és sűrű eső formájában zuhogott vissza a talajra. A tudósok feltételezése szerint 1,2 milliárd éve történt, hogy az őslevesből kialakult az első primitív életforma. Egy pár év ide vagy oda nem számít. De vajon mikor és kitől szereztek tudomást a mítoszok elbeszélői erről az elementáris körforgásról? A mítoszok ugyanis pontos sorrendben adják meg az események folyamatát: semmi – üresség – iszap – eső – napmeleg – szárazföld – növények – állatok – emberek – ételek – gyógyszerek – eszközök – tűz.  
