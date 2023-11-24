@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Phallic/","title":"Phallic","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-09T05:11","updated":"2023-11-21T11:16"}
+{"dg-publish":true,"permalink":"/P/Phallic/","title":"Phallic","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-09T05:11","updated":"2023-11-24T06:37"}
 ---
 
 
@@ -58,9 +58,11 @@ Lásd még [[P/Pilis\|Pilis]], mindenképpen JM írását is [[P/Penis\|penis]] 
 ...passzusa több helyen szerepelt ([[K/Kutya\|kutya]] címnél bővebben):  
 > A szeretkezésnek ezt a fesztelen módját[^2] már régente a kutyáéval hasonlították össze. Ennélfogva a kutya nagy tiszteletben részesült: a válogatatlan termékenyítést kívánó föld képe, mindenütt látható párzása az állati nemzés elvét a legvilágosabb és legdurvább formában állítja elénk. Magyarul szólva a ringyó szimbóluma a "[[S/Szuka\|szuka]]", s valóban a hetérák állatává tették meg. Homérosznál Helené saját magát szukának nevezi, Írisz pedig Athénét, Héra Artemiszt, a hazatérő Odüsszeusz ledér, hűtlen szolgálóit. **Eszit-Iziszt római templomában kutyán ülve ábrázolták, nyilván ugyanolyan értelemben, ahogy az eliszi Aphrodité kecskén, epi tragón ül, azaz fascino inequitans** ([[F/Fascinum\|fascinum]][^3] – állati hímvessző), s ahogy Arnobius a római matronákról mondja; mindez nyílt célzás a megtermékenyítés egyetemes "eszméjére".  
 
-![assets/Phallic_image1.png](/img/user/P/assets/Phallic_image1.png)  
-Thomas Inman Ancient Pagan and Modern Christian Symbolism című könyvében az alábbi képecske mellé írja:  
+#### Thomas Inman Ancient Pagan and Modern Christian Symbolism...  
+
+...című könyvében az alábbi képecske mellé írja:  
 > \[This figure\] represents the circular and upright stone so common in Oriental villages. The two indicate the male and female.  
+> ![assets/Phallic_image1.png](/img/user/P/assets/Phallic_image1.png)  
 > A medical friend resident in India has told me, that he has seen women mount upon the lower stone and seat themselves reverently upon the upright one, having first adjusted their dress so as to prevent it interfering with their perfect contact with the miniature obelisc. During the sitting, a short prayer seemed flitting over the worshippers' lips, but the whole affair was soon over.  
 > Whilst upon this subject, it is right to call attention to the fact that animate as well as **inorganic representatives of the Creator have been used by women with the same definite purpose**. The dominant idea is that contact with the emblem, a mundane representative of the deity, of itself gives a blessing. Just as many Hindu females seek a benefaction by placing their own yoni upon the consecrated linga, so a few regard intercourse with certain high priests of the Maharajah sect as incarnations of Vishnu, and pay for the privilege of being spouses of the god.  
 > In Egypt, where the goat was a sacred animal, there were some religious women who sought good luck by uniting themselves therewith. We have heard of British professors of religion endeavouring to persuade their penitents to procure purity by what others would call defilement and disgrace. And the "cord of St. Francis" replaces the stone "linga."  
@@ -115,8 +117,8 @@ Fentebb volt már szó istenszobrokról és a szóeredeteztetés kapcsán arról
 > Eszünkbe kell azonban mindez juttassa azt is, hogy a cölöp, oszlop nem csupán a hímtag jelképe volt, hanem jelképezte magát a hímistenséget is, azaz a besenyőknél tehát Peter, Petur vagy Peszer, Beszer-aba Napistent is.  
 - Phallosz estében persze itt nyilván a [[P/Palóc\|palóc]] napisten nevét kell keresni.  
 
-![assets/Phallic_image2.jpeg](/img/user/P/assets/Phallic_image2.jpeg)  
-> Hogy a legrégibb hímistenség-szobrok egyszerű cölöpök is voltak, ezt a görögök történelméből is tudjuk E jelképes cölöpöknek utóbb fejet is faragtak de eleintén csak simát, arcábrázolat nélkül, ami által azonban az ilyen cölöp avagy oszlop, ha akár fából akár kőből való volt is, úgy emberi alakot, mint hímtagot is jelképezhetett Az ilyen cölöpök, azaz tehát bálványok (idolus) feje a besenyőknél természetesen csöpp- azaz csúp (csúcs, csúcsos) alakúra voltak faragva s ilyeneket népünk például kapuoszlopokul ma is készít és "kapubálvány"-oknak nevezi is Ezek némelyike nem csak gazdagon faragásos, hanem rajta a faragások színesen festettek is Az olyanok pedig amelyeken fönt még egy kis bemetszés is van, ma is amellett tanúskodnak, hogy a hímtag ábrázolatai, azaz helyesebben csak jelképei voltak.  
+> Hogy a legrégibb hímistenség-szobrok egyszerű cölöpök is voltak, ezt a görögök történelméből is tudjuk E jelképes cölöpöknek utóbb fejet is faragtak de eleintén csak simát, arcábrázolat nélkül, ami által azonban az ilyen cölöp avagy oszlop, ha akár fából akár kőből való volt is, úgy emberi alakot, mint hímtagot is jelképezhetett Az ilyen cölöpök, azaz tehát bálványok (idolus) feje a besenyőknél természetesen csöpp- azaz csúp (csúcs, csúcsos) alakúra voltak faragva s ilyeneket népünk például kapuoszlopokul ma is készít és "kapubálvány"-oknak nevezi is Ezek némelyike nem csak gazdagon faragásos, hanem rajta a faragások színesen festettek is. Az olyanok pedig amelyeken fönt még egy kis bemetszés is van, ma is amellett tanúskodnak, hogy a hímtag ábrázolatai, azaz helyesebben csak jelképei voltak.  
+> ![assets/Phallic_image2.jpeg](/img/user/P/assets/Phallic_image2.jpeg)
 
 ## Ízisz és Ozirisz phallosza
 
@@ -148,7 +150,9 @@ Nemcsak Crowley (és PJI) látott phalloszt az övcsillagok környékére. Maga 
 
 Itt Bauvalt nem értem, mert FK lentebb szereplő adatsora alapján kiderül, hogy Ízisz már akkor megtermékenyült tőle, amikor sas képében a phalloszra rárepült. Pót-phalloszt is azért kellett készíteni, mert az eredeti elveszett. Az, hogy egy hal nyelte el, annyit jelenthet, hogy az égen [[O/Orion övcsillagai\|Orion övcsillagai]] az [[E/Égi egyenlítő\|égi egyenlítő]] alá buktak. Indiai mítoszokból a Szarvasfő került levágásra. Ott is az égi egyenlítő volt a viszonyítási alap.  
 
-John G. Jackson Christianity before Christ c. könyvének 129. oldalán írja:  
+#### John G. Jackson Christianity before Christ...  
+
+...című könyvének 129. oldalán írja:  
 > Osiris was, in addition, a god of fertility, for phallic images of him were shown in the temples and carried in processions. To cite Frazer:  
 > "As a god of vegetation Osiris was naturally conceived as a god of creative energy in general, since men at a certain stage of evolution fail to distinguish between the reproductive powers of animals and of plants. . . At his festival women used to go about the villages singing songs in his praise and carrying obscene images of him which they set in motion by means of strings. The custom was probably a charm to ensure the growth of crops." (Frazer, The Golden Bough, Abridged Edition, p. 381.)  
 > —  
@@ -163,7 +167,10 @@ John G. Jackson Christianity before Christ c. könyvének 129. oldalán írja:
 [[I/Ízisz#Ízisz és Ozirisz phallosza és általa való megtermékenyítése\|Ízisz és Ozirisz phallosza és általa való megtermékenyítése]] cím/alcímnél már elővezettük.  
 Két ízben találkozhatunk Ozirisz phallosszával Ízisz történetében. Először még a Széth általi feldarabolás előtt, majd után.  
 ![assets/Phallic_image3.png](/img/user/P/assets/Phallic_image3.png)  
-Falvay Károly Nagyboldogasszony című könyvének 277-278. oldalán az egész történetet elmeséli. Az előzményt ismerjük:  
+
+#### Falvay Károly Nagyboldogasszony...  
+
+...című könyvének 277-278. oldalán az egész történetet elmeséli. Az előzményt ismerjük:  
 > Széth koporsóba fekteti Oziriszt, a Nílusra ereszti, majd Ízisz megtalálja. \[...\]  
 > Itt a történetek több változatot is ismernek. Egyik változatban, amikor az oszlopot fecskeként körülrepkedte, már akkor elképzelte magának az Ozirisztól születű fiát Hóruszt. Más változatban sasként a fekvő Ozirisz fölé repült, s az élő magjával megtermékenyítette őt stb. Ez utóbbi jelenetet számos domborművön megörökítették. (A madáristennők a korai neolitikumból még sokáig élők maradtak, [[E/Emese\|Emese]] és a Turul történetét mindannyian ismerjük).  
 > Isis itt a Nílus deltájának ingoványaiban elrejtette a koporsót mert Butóba kellett menjen, hogy fiát Hóruszt megszülhesse.  
@@ -225,7 +232,7 @@ De másutt is előjön a képzet:
 Kenneth Grant The Magical Revival című A. Crowley anyagát feldolgozó könyvéből való. Wordsense-nél penis alatt nem jött elő. Steingass szótárában penisre keresve nem jön elő (vagy 15 szava van az arabnak erre; az egyik [[A/Atar\|Atar]] = tűz szóval egyező).  
 
 [^2]: Lábjegyzet:  
-Az Elveszett Paradicsom című művének 302. oldalától példálózik, de sok kétes forrást nevez meg, például Masszagéták kapcsán.  
+Az Elveszett Paradicsom című művének 302. oldalától példálózik, de sok kétes forrást nevez meg, például masszagéták kapcsán.  
 
 [^3]: Lábjegyzet:  
 A nyelvészet, most már érthetővé vált miért, egyszerűen varázslással, bűbájossággal adja vissza [[F/Fascia\|fascia]] szót taglalva e szót.

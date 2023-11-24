@@ -1,18 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tistrya/","title":"Tistrya","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-28T03:55","updated":"2023-10-30T12:46"}
+{"dg-publish":true,"permalink":"/T/Tistrya/","title":"Tistrya","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-28T03:55","updated":"2023-11-24T06:33"}
 ---
-
-
 
 
 # Tistrya
 
-Eleinte mint WFW és mások könyvéből (Hamlet Malma például), [[S/Szíriusz\|Szíriusz]] és [[S/Szíriusz Iránban\|Szíriusz Iránban]] címnél előjövő, Szíriuszra utaló óperzsa/aveszta névvel ismerkedtünk meg, azóta, Jankovics Marcell adata alapján már bővül a kör.  
+Eleinte mint William F. Warren és mások könyvéből (Hamlet Malma például), [[S/Szíriusz\|Szíriusz]] és [[S/Szíriusz Iránban\|Szíriusz Iránban]] címnél előjövő, Szíriuszra utaló óperzsa/aveszta névvel ismerkedtünk meg, azóta, Jankovics Marcell adata alapján már bővül a kör.  
 Előjött [[O/Orion\|Orion]] címnél mint **Tistrija isten** (sőt, mint vízfakasztó esőistenként is említi) akár mint Orion, akár mint Szíriusz.  
 
 #### Jankovics Marcell A Nap könyve...
 
-...című könyvében aztán pontosítani látszik, de lehet, hogy a rossz indo-európai etymologizálásból indul ki:  
+...című könyvében aztán pontosítani látszik, de lehet, hogy a rossz indo-európai etimologizálásból indul ki:  
 > A földből kikelő Mithrast gyermekként csak ritkán, rendszerint ifjúként ábrázolták; kezében a világ gömbjével (amivel a gyermek Jézust is szokták ábrázolni), vagy napfényt jelképező fáklyával, vagy a rövid karddal, amivel a bikát fogja megölni \[lásd [[M/Mithra és a bika\|Mithra és a bika]]\]. Esetleg íjjal, nyíllal, amivel sziklából vagy felhőből vizet fakaszt, mint az Orionnal szomszédos Szíriuszt megszemélyesítő iráni esőisten, Tistrja és mások.  
 > Tistrja, Mithras és Orion kapcsolatára vonatkozóan: Tistrja nevének jelentése: "a három égitestből álló csillagképhez tartozó". A szóban forgó három égitest az Orion övét, pálcáját alkotó három csillag. A mithraista hagyományra vezethető vissza az Orion e három csillagának népi magyar neve: [[H/Háromkirályok\|Háromkirályok]], melyek a Karácsony körüli időszakban ragyognak a legfényesebben.)  
 
@@ -35,10 +33,12 @@ Hogy vajon a 19. század végén írt Orionjában Tilak volt az első, aki ezt m
 > Így jobban megérthetjük, hogy miért beszéltek a csillagról Tristryeni[^2] néven, ami valószínűleg több csillagra utal, mint egy, és Pauryeni, az első.  
 - JM Mély a múltnak kútja c. könyvének 39. oldalán is írja, hogy az iráni források az Oriont, az Orion övét rendszerint együtt emlegetik a szomszédos Szíriusszal. A Szíriusz egyik\[?!\] iráni neve, **Tistrja azt jelenti: három égitestből álló csillagképhez tartozó**. A szóban forgó csillagkép, ebben a szövegmagyarázók megegyeznek, az Orion öve.
 
-Az iráni adat megintcsak nem egyedülálló. A világ minden részéből, például Kínából, Egyiptomból, Indiából, a finn ősiségből tudunk csillagmítoszi példát felhozni arra nézve, hogy **az Orion övét és a Szíriuszt régen összetartozónak tekintették**.  
-Itt arról szól még, hogy ennek égi pocizionális oka is van, hiszen a három csillagból húzott egyenes Szíriuszhoz visz le. A gondolatmenetet más mezsgyén folytatja; ezeket az infokat lásd [[S/Szíriusz mint istenanya\|Szíriusz mint istenanya]].
+Az iráni adat megint csak nem egyedülálló. A világ minden részéből, például Kínából, Egyiptomból, Indiából, a finn ősiségből tudunk csillagmítoszi példát felhozni arra nézve, hogy **az Orion övét és a Szíriuszt régen összetartozónak tekintették**.  
+Itt arról szól még, hogy ennek égi pozicionális oka is van, hiszen a három csillagból húzott egyenes Szíriuszhoz visz le. A gondolatmenetet más mezsgyén folytatja; ezeket az infókat lásd [[S/Szíriusz mint istenanya\|Szíriusz mint istenanya]].  
 
-Az alábbi passzus (és még más is) szerepelt [[S/Szent László és a leányszöktető kun\|Szent László és a leányszöktető kun]] címnél is:  
+#### Jankovics Marcell...
+
+...alábbi passzusa (és még más is) szerepelt [[S/Szent László és a leányszöktető kun\|Szent László és a leányszöktető kun]] címnél is:  
 > A László-legendák keletkezésében nagy szerep jutott az eleinket ért iráni hatásoknak is. Az iráni mitológiának van egy különös alakja, Tistrija, a "Ragyogó Csillag", az "Első Csillag", a "Vizek Magva", az "Eső és a Termékenység Forrása". A jótékony nyári esőzés istene volt, aki kozmikus párviadalt vív Apaoszával, a szárazság tüzet fúvó démonával. Tistrija neve annyit tesz: "a három égitestből álló csillagképhez tartozó", és az égboltnak az Orion övéhez közel eső legfényesebb csillagával, a Szíriusszal szokás azonosítani. Tistrijáé volt a Rák hava, amikor az aszály a még lábon álló termést fenyegeti, és amikor a Szíriusz nem látható, mivel a Nappal együtt áll. Iránban tehát a Szíriusz ugyanúgy vizet hozó csillagisten volt, mint Egyiptomban, ahol eltűnése a Nílus közelgő áradását jelezte. Tistrija-Szíriuszt az irániak is íjásznak (Íjnak, Nyílnak, Nyílhegynek, Célpontnak) képzelték attól függően, hogy a jelzett naptári időszakban hozzá képest hol állt a Nap. (Erre abból a bizonytalanságból is következtethetünk, ami a Tistrija név valódi jelentését övezi; nem lehet pontosan tudni, hogy a Szíriuszt értsük-e alatta, vagy pedig az Orion-övhöz tartozó más csillagot.) Mindazonáltal végiggondolt, tudományosan is megalapozott eszmerendszerrel van dolgunk, ezt utolsó példám is megvilágítja. Az Ikrek cikkelyében "otthonos" planétát, a Merkúrt Iránban [[T/Tír\|Tír]]nek ("Nyílnak") nevezik. De mint az íjász Tistrija "Nyílvesszőjének", Tír volt a neve a Szíriusznak is, amit mint az "Ikrek csillagát" a Merkúr csillagmásának tekintettek Iránban. Hasonlóan ahhoz, ahogy az egyiptomi-keresztény szimbolika a Vénusznak feleltette meg.  
 - Itt tűnik kissé befejezetlennek a beazonosítás, de nem csak az ő hibája. Egyrészt tehát adott egy Tishtrya név, melyet minden külföldi forrás Szíriusszal azonosít, másrészt az itt nem említett, hasonló nevű [[T/Tír\|Tír]] = Nyíl csillagzat neve, mely mint másutt, [[S/Szíriusz és a nyíl\|Szíriusz és a nyíl]] címnél is szóba került, közel-keleti és keleti kultúrákban egy Szíriuszt, Oriont és Argo Hajótat csillagaiból álló nagyobb csillagzatot adott ki, a maga mitológiájával, azt a történetet elmesélve, hogy hol született a Nap, mikor és ki az anyja és apja. Lásd róla [[I/Íj csillagkép\|Íj csillagkép]].  
 
