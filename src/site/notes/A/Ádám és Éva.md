@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ádám és Éva/","title":"Ádám és Éva","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-06T01:53","updated":"2023-11-06T01:53"}
+{"dg-publish":true,"permalink":"/A/Ádám és Éva/","title":"Ádám és Éva","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-06T01:53","updated":"2023-11-25T12:09"}
 ---
 
 
@@ -8,12 +8,13 @@
 #### Zajti Ferenc Zsidó volt-e Jézus...
 
 ...című könyvében írja, hogy a zsidók ezt is a parszizmusból vették:  
-> A zendavestából egyszerűen átvették az egész teremtés történetét egy kevés módosítással. Masiát \[egy r-rel kiegészülve Magyar lehetne\] és Masiánát \[[[ANA\|[ANA]] itt is megvan, mint [[A/Anahita\|Anahita]] nevében\], Ádám és Éva szóval helyettesítették, a teremtés ottani hat korszakát ők hat napra változtatták; a fáradtságos munkával való kenyérkeresést pedig, melyet Zarathustra az ember legfőbb erényének és kötelességének állít, ők – erkölcstanukkal egybehangzóan – büntetésnek minősítették. Egyébként azonban a Mózes könyvében leírt kígyó, szabadító és az ember teremtésének kettős változata, sőt még az egyes kifejezések is, mint például "az ő nemük szerint" egyeznek a zendavesztával.  
+> A zendavestából egyszerűen átvették az egész teremtés történetét egy kevés módosítással. Masiát és Masiánát, Ádám és Éva szóval helyettesítették, a teremtés ottani hat korszakát ők hat napra változtatták; a fáradtságos munkával való kenyérkeresést pedig, melyet Zarathustra az ember legfőbb erényének és kötelességének állít, ők – erkölcstanukkal egybehangzóan – büntetésnek minősítették. Egyébként azonban a Mózes könyvében leírt kígyó, szabadító és az ember teremtésének kettős változata, sőt még az egyes kifejezések is, mint például "az ő nemük szerint" egyeznek a zendavesztával.  
 
 ![assets/Adameseva_image1.png](/img/user/A/assets/Adameseva_image1.png)  
 
-#### Várkonyi Nándor igen fontos passzusa:  
+#### Várkonyi Nándor...
 
+...igen fontos passzusa:  
 > Hogy az Úr Ádám bordacsontjából alkotja Évát[^1], egy mitikus szemlélet értelmében is aligha vehető szó szerint; az ősszöveg itt egyszerűen "oldalat" mond, s evvel a szervezet lágy részére utal, ahol a férfit és nőt testileg megkülönböztető genitaliák vannak elhelyezve. Az első, kétnemű Ádámban, a férfinőben rejtőző nőiség csak innen válhatott ki, s helyét az Úr hússal töltötte be. A Talmud mindenesetre határozottan kimondja, hogy "Ádám női feléből" lett Éva. Ha tehát az emlős szervezetek egykori kétneműsége élettani realitás, akkor a Biblia előadásából ennek megfelelő természetrajzi valóság hámozható ki. Főként Ádám szava erősíti meg ezt: "Ímé ez már csontjaimból való csont, és húsomból való hús."  
 > Megerősíti végül az issa \[lásd róla [[I/Isa\|isa]] és [[I/Íz\|íz]]\] (a Vulgatában: `virago`) szó, melynek jó irodalmi magyarja nincsen, de a fordítás értelmileg híven adja vissza a férfiúm kifejezéssel, amit mai nyelven férfinőnek kell mondanunk. Filológiailag pontosabb, de népnyelvi mását használja az Izraelita Magyar Irodalmi Társaság fordítása a [[N/Némber\|némber]] szóval. Csakhogy ennek értelme a közhasználatban már eltorzult, pejoratív jellegű lett, s aljas nőt vagy nem-embert értünk rajta, holott eredeti jelentése más: a népnyelvben az ember férfit jelent, a némber pedig nő-embert, né-embert, azaz nő-férfit, ugyanazt, amit az issa és a virago s a magyar fordítás férfiúné szava. (Károli fordítása: asszonyember, azért nem pontos, mert itt az ember már az egyetemes fogalmat jelöli, nem a férfit.) Az issa biológiai, vagy ha úgy tetszik teremtéstörténeti értelme tehát: férfiból lett, férfira visszaütő nő. S így nem véletlen, hanem szorosan az itt kifejtett értelemhez csatlakozik és kiegészíti azt a végső passzus: "Ez okból elhagyja az ember \[férfi\] atyját és anyját és feleségéhez ragaszkodik \[szó szerint: tapad\], és ketten egy testté lesznek", vagyis a szerelmi egyesülésben ismét egy testté válnak, visszaváltoznak. Ez az értelme a magyar [[F/Feleség\|feleség]] szónak is, nem erkölcsi, jogi, vagyoni és efféle egyenlőséget jelent, hanem az emberi lény felességét, feles voltát, a közös lényben való egyenlő, feles osztozást. Ahogyan Kant mondja: "Férfi és nő együtt teszik az embert." A Talmud genezis-magyarázata semmi kétséget sem hagy a régi zsidó felfogás felől: "Férfi és nő kezdetben egy test voltak két arccal, de az Úr kettéhasította testüket, és mindegyik félnek gerincet adott."  
 - [[F/Feleség\|Feleség]] és [[A/Asszony\|asszony]] címnél is szerepelt.  
@@ -66,7 +67,7 @@ Ennél is megdöbbentőbb az [[A/Ádám\|Ádám]] címnél adatokkal jelentkező
 
 [^1]: Lábjegyzet:  
 Másutt lesz szó arról, hogy mit kell valójában Ádám oldalbordájából teremtésen érteni. Lásd még borda kapcsán [[T/TI\|TI]].  
-A kétneműség kapcsán lásd [[A/Androgyn\|androgün]] és mindenféle hüllőkkel kapcsolatos adatot [[E/Edgar Dacque\|Edgar Dacque]], [[C/Csallóköz\|Csallóköz]], stb.  
+A kétneműség kapcsán lásd [[A/Androgyn\|androgün]] és mindenféle hüllőkkel kapcsolatos adatot [[E/Edgar Dacqué\|Edgar Dacqué]], [[C/Csallóköz\|Csallóköz]], stb.  
 
 [^2]: Lábjegyzet:  
 Kit Kandra Kabos adata szerint már [[H/Horvát István\|Horvát István]] is magyar ősnek merészelt állítani. Lásd a témáról még ott.  
