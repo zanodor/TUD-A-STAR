@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-03T11:13","updated":"2023-10-29T02:45"}
+{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-03T11:13","updated":"2023-11-25T11:19"}
 ---
 
 
@@ -86,7 +86,7 @@ A Nap – halott Nap és [[N/Nap#Nap – Ellen-Nap\|ellen-Nap]] cím/alcímeket 
 A halott Nap kapcsán érdekes még a [[K/Kelet és észak\|kelet és észak]] címnél szereplő passzus.  
 
 ![assets/Naphalott_image2.png](/img/user/N/assets/Naphalott_image2.png)  
-Falvay Károly Nagyboldogasszony című könyvének 164-165. oldalán szól égtájakról és mitikus kapcsolatukról. Nála is nyilván az elnyugvás helye nyugat, a többit lásd a csatolt képen. Egyiptomi példát is hoz, melyről JM ezt írja Ahol a madár se jár című könyvében:  
+Falvay Károly Nagyboldogasszony című könyvének 164-165. oldalán szól égtájakról és mitikus kapcsolatukról. Nála is nyilván az elnyugvás helye nyugat, a többit lásd a csatolt képen. Egyiptomi példát is hoz, melyről JM ezt írja Ahol a madár se jár című könyvében:  
 > Egyiptomi példa nyomán nagyon valószínű, hogy a régiek úgy hitték, **a télen halott (a magas északon hosszabb időre a horizont alatt rekedt) Nap északon, az istennő méhében (a köldöke mögött) várja *keleti* újjászületését**.  
 
 Másutt viszont (azt hiszem, szintén JM-é), FK adatával is kapcsolatot mutatóan:  
