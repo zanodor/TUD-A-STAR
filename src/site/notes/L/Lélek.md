@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["dg_uploaded"],"created":"2023-10-15T09:46","updated":"2023-11-06T01:21"}
+{"dg-publish":true,"permalink":"/L/Lélek/"}
 ---
 
 
@@ -41,7 +41,7 @@ TZs is írja:
 > ...jelentésű. Ha más nem is, de az elgondolkodtató lehetne számukra, hogy a magyar lelke halála után az árnyékvilágba távozik, de ezt az árnyékvilágot néprajzosaink mintha messze elkerülnék! Ki tudja miért? (Egy finn nyelvész, Paasonen, és nyomában Szendrey Ákos viszonylag helyesen elkezdte keresni rokonságunknak(?) ezt a szálát is... de aztán hirtelenül nagyon elfelejtődött ez az irány! Arról is kevés olvasható, hogy micsoda ez az ÁRNYÉK-lélek valójában.
 
 Még mielőtt nyomába erednénk a magyar lélekfogalomnak, villantsuk fel egy pillanatra az altáji népek lélek-elképzeléseit. Szerintük egy testben több lélek is lakozik, így megkülönböztetnek tin-lelket (én-lélek, lélegzés-lélek), [[K/Kut\|kut]]-lelket (életerő, elrablása halált okoz), sür-lelket (hasonmás-lélek, amely elválhat a testtől), körmös-lelket (a halott szelleme), ezen belül pedig aru-körmös és gyarman-körmös lelket (a halott jó és rossz szellemét.) \[Ezen adatsor [[K/Körmöc\|Körmöc]] és [[K/Kut\|kut]] címnél is megvolt.\]  
-Fehér M. Jenő Középkori magyar inkvizíció című könyvében Körmöc nevű démont és mást is említ a téma kapcsán:  
+Fehér M. Jenő Középkori magyar inkvizíció című könyvében Körmöc nevű démont és mást is említ a téma kapcsán:  
 Ugyancsak a sárospataki monstreperben tesznek említést a vádlottak védelmében felszólaló tanúk a "körmöc" nevű démonról az ártékony szellemek sorából (421). Radloff kök-türkök szóelemzésben említi meg ezzel a körmöc szóval kapcsolatban, hogy az altáji népek hiedelemvilágában a szellemet két kategóriába osztották: a töc (másként möc) és Nama nevű szellemekre. Az utóbbinak, vagyis a Nama csoportnak is két változata van, a jó és rosszindulatú, testtől levált lelkek csoportja és a gonoszakat a körmöc gyűjtőnévvel illetik.  
 
 #### Varga Zsigmond Az ősmagyar mitológia...
@@ -101,7 +101,7 @@ Emellett még létezik a kínai nyelvben az anyagi lélek, mely a fogamzás pill
 Rostás László ezután a GYÁ által is taglalt [[H/Halotti beszéd\|Halotti beszéd]] "isa, por és hamu" fogalmait említi (de érdemben nem mond róluk semmit).  
 A témát lentebb [[L/Lélek#Isa, por és hamu\|isa, por és hamu]] alcímnél folytatjuk.  
 
-#### Falvay Károly Nagyboldogasszony...
+#### Falvay Károly Nagyboldogasszony...
 
 ...című könyvének 342. oldalán is szóba kerül a két lélek (bizonyos Kunt Ernőt, majd bizonyos Balázst idézve írja):  
 > A kereszténység előtti magyarság a lélek legalább két minőségét, összetevőjét különböztette meg: a lélegzetlelket ([[P/Pára\|pára]], lehelet), amelyet lényegében az életfunkcióval azonosított, s a képmáslelket (vagy árnyék-leiket), amely inkább a személyes adottságokat, mentalitást és karaktert határozta meg. Az utóbbi időlegesen, súlyos betegség, önkívület, álom állapotában elhagyhatta a testet, s oda visszatérhetett, míg, ha az előző távozott a testből, az egyet jelentett a halállal. Ezt a képzetet őrizték meg a szólások: kiadja a lelkét, kileheli a lelkét, kiajánlja a lelkét, kirepül belőle a lélek. S ezt fejezi ki a durva, de szemléletes kiszólás: kifingott a világ kéményén. A lélegzetlélek az utolsó sóhajjal távozik. Ilyenkor – a hagyományok szerint – látni is lehet pára formájában, vagy galamb, lepke \[[[Pillangó\|pillangó]]\], méhecske alakjában."  
@@ -129,7 +129,7 @@ Arról van tehát szó, hogy az ősfelfogás szerint a megszemélyesített fene,
 
 VZs említi Bárczi adatát, miszerint pogánykori hiedelmen[^2] alapszik, hogy a betegség gonosz szelleme keresi áldozatát, s ha megtalálja, akkor az illető megbetegszik.  
 
-Falvay Károly Nagyboldogasszony című könyvében Hoppál Mihályt idézve írja:  
+Falvay Károly Nagyboldogasszony című könyvében Hoppál Mihályt idézve írja:  
 > Hoppál Mihály a sámánvilág mai, nemzetközi hírű kutatója így ír a [[L/Lélek#Lélekutazás – a sámán csillagutazása a világfán\|lélekutazás]]ról: "A víziók hatása alatt megtapasztalt "lélekutazás" élménye lett a forrása ama hitnek, miszerint az ember két lélekkel bír: az egyik a testtel, az élettel van kapcsolatban és csak a halállal hagyja el a testet, míg a másik könnnyen kiléphet az ember testéből és az álom, illetve az önkívület, az extázis idején érzékelhetjük távozását." (Az utóbbi lelket nevezzük magyarul árnyékléleknek és nyelvünkben az [[I/Íz\|íz]], [[I/Izé\|izé]] szavak őrzik a képzet emlékét.)  
 
 #### Várkonyi Nándor írja:
@@ -146,8 +146,9 @@ Visszatérve az iménti gondolatmenetre, Varga Zsigmond is írja ([[T/Tüsszent\
 
 ## Lélek halhatatlansága  
 
-#### Magyar Adorján A lelkiismeret aranytükre című könyvében írja:  
+#### Magyar Adorján A lelkiismeret aranytükre...  
 
+...című könyvében írja:  
 > A Napból a Földre származó erő a földi életjelenségek létrehozója, s ilyen tehát a lélek is, amely minket élőkké és a legfejlettebb alakban: emberré, (ősnyelvünk szerint: magyarrá) tesz, vagyis tehát mindnyájan a Nap fiai, gyermekei vagyunk. A Napistentől származik belénk azon "isteni szikra", amely bennünket életre kelt, emberré fejleszt, és amely holtunk után el nem enyészik; aminthogy a mai tudomány is tanítja az erőny megmaradását. Ez "a lélek halhatatlansága" igazi magyarázata, értelme is.  
 
 Ősműveltségében hosszabb lére eresztette:  
@@ -478,6 +479,9 @@ John Major Jenkins Galactic Alignment című könyvének 8. fejezetében szól a
 Ami a lélekjárást illeti, itt is az előző világhónapbani Rák-Bak jön elő:  
 > Scholars have been able to reconstruct a great deal about Mithraism by examining the symbolism in many surviving Mithraeum (Mithraic sanctuaries), often well preserved in underground chambers or natural caves. Although there is scant historical information on the doctrinal beliefs of Mithraism, a central tenet of Mithraism is described in the writings of Porphyry. In his De antro nympharum (The Cave of the Nymphs), Porphyry tells us that the Mithraic cave symbolizes the cosmos. For the doctrine of two doorways in the cosmic cave through which the soul ascends and descends, he draws explicitly from the neo-Pythagorean philosophers Numenius and Cronius. The soul is believed to descend into manifestation (genesis) through the gateway in Cancer and ascend to the transcendent realm (apogenesis) through the gateway in Capricorn.  
 > The doctrine of the celestial gateways is essential to understanding Mithraism. Notice, however, that Porphyry places the gates, like all Greek writers after him, in Cancer and Capricorn, as that was the position of the solstice axis in his day.  
+> —  
+> A tudósok sokat tudtak rekonstruálni a mithraizmusról a számos fennmaradt mithraeum (mithrai szentély) szimbolikájának vizsgálatával, amelyek gyakran földalatti kamrákban vagy természetes barlangokban maradtak fenn. Bár a mithraizmus doktrinális hiedelmeiről kevés történeti információ áll rendelkezésre, a mithraizmus egyik központi tantételét Porfirusz írásaiban írják le. A De antro nympharum (A nimfák barlangja) című művében Porfirusz elmondja, hogy a mithrai barlang a kozmoszt szimbolizálja. A kozmikus barlangban lévő két ajtóról szóló tant, amelyeken keresztül a lélek fel- és leszáll, kifejezetten a neopitagoreus filozófusok, Numenius és Cronius tanításából merít. A lélek a Rákban lévő kapun keresztül ereszkedik le a megnyilvánulásba (genezis), és a Bakban lévő kapun keresztül emelkedik fel a transzcendens birodalomba (apogenezis).  
+> Az égi kapukról szóló tanítás alapvető fontosságú a mithraizmus megértéséhez. Figyeljük meg azonban, hogy Porfirisz a kapukat, mint minden utána következő görög író, a Rákba és a Bakba helyezi, mivel az ő idejében ez volt a napforduló tengelyének helyzete.  
 
 #### Magyar Adorján írja:  
 
