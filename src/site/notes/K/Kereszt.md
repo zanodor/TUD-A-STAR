@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kereszt/","created":"2023-10-13T12:02","updated":"2023-11-08T03:47"}
+{"dg-publish":true,"permalink":"/K/Kereszt/","title":"Kereszt","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-13T12:02","updated":"2023-11-25T01:28"}
 ---
 
 
@@ -98,8 +98,8 @@ A [[H/Hattyú csillagkép\|Hattyú csillagkép]] másik neve is így lesz Észak
 
 A téridő tér és idő összefüggését (valamint út és idő szavaink összefüggését) [[I/Idő\|idő]] címnél külön alcímnél taglaltuk. Ott is szerepelt:  
 Borbola János írja, hogy az idők kezdetétől a méter bevezetéséig mindenhol találkozunk a láb, mint hosszegység, időszakonként változó méreteivel.  
-Megállapíthatjuk, hogy a másodperc, a méter és a láb hosszméret egysége – azaz a tér idő egysége – a Föld méreteinek és keringési idejének adataival szorosan összefügg.  
-Amit nem ír, hogy a Föld volt a téridő jelének közepébe helyezve.  
+> Megállapíthatjuk, hogy a másodperc, a méter és a láb hosszméret egysége – azaz a tér idő egysége – a Föld méreteinek és keringési idejének adataival szorosan összefügg.  
+- Amit nem ír, hogy a Föld volt a téridő jelének közepébe helyezve.  
 
 ![assets/Kereszt_image4.jpeg](/img/user/K/assets/Kereszt_image4.jpeg)  
 A minap a kezembe került majd egy évtizede általam – talán amolyan ihletett állapotban – rajzolt diagramok között "Self Awareness Vs Emotional Confusion" címmel ellátott Evernote jegyzet. A bal oldali is sokatmondó az isteni közép által vezéreltséggel. A jobb oldali is, mert a Halak korszakra folyó Pap Gábor által is taglalt Vízöntő jellegzetességet mutatja: a mai reaktív sátáni kéz által vezetett ember ilyen. (A kép bővebb szöveggel [[V/Vízöntő korszak#Vízöntő tulajdonságok a Halak korszakban\|Vízöntő tulajdonságok a Halak korszakban]] cím/alcímhez került.)  
@@ -557,8 +557,7 @@ Ha már MVJ, Világ-Virág című könyvének 19. oldalán a világmindenség ri
 **Berényi László Géza** Holisztikus világszemlélet 7000 éve a Kárpát-medencében (a KöR-iS-TeN fraktál) című Ősi Gyökér 2007/1. sz. megjelent cikkében hoz képeket Árpád-házi uralkodóink érméiről, melyek hátoldalán ott van a kereszt. Egyébként Árpád-házi királyaink aranypénzeit Zsombori Sándor: Ősi jelképek Árpád-házi királyaink pénzein című könyvéből idézte.  
 
 Az, hogy a [[K/Kutyafa\|kutyafa]] virága kereszt alakú, igen érdekes és fontosnak tűnő adat.  
-[[S/Szamár#Szamár és a kereszt\|Szamár és a kereszt]] cím/alcímnél volt szó a szamár hátán lévő kereszt alakú jelről. Berényi László Géza Kaptok majd jeleket tőlem (Jézus anyanyelve magyar volt?)  
-című az Ősi Gyökér 2010/4. sz. megjelent cikkéből mégis ide tenném, ezúttal csak képként az alábbiakat.  
+[[S/Szamár#Szamár és a kereszt\|Szamár és a kereszt]] cím/alcímnél volt szó a szamár hátán lévő kereszt alakú jelről. Berényi László Géza Kaptok majd jeleket tőlem (Jézus anyanyelve magyar volt?) című az Ősi Gyökér 2010/4. sz. megjelent cikkéből mégis ide tenném, ezúttal csak képként az alábbiakat.  
 Az sem elhanyagolható adat (mert hát a kereszteződés is kereszt), hogy JM szerint [[O/Orion\|Orion]] a jelenlegi világkorszakban több égi metszéspont kereszteződésében áll: az Orionból "ágazik" szét az agancsokkal társítható összes égi út: a Tejút, az egyenlítő és az Állatöv.  
 Egyébként másutt (Nimrud-Orion rabsága kapcsán [[O/Orion\|Orion]] címnél és [[N/Nimrud#Dante\|Dante]] cím/alcímnél) is írtuk, hogy nem feltétlenül kellett az adott világhónap nyomon követéséhez a [[T/Tavaszpont\|tavaszpont]] helyzetét figyelemmel kísérni: elég volt az égisten Orion fel-alá oszcillálását és helyzetét követni.  
 Akár [[K/Keresztelő Szent János\|Keresztelő Szent János]] keresztelő neve is erre utalhat. Hiszen ő is Jézus nyári napfordulós, azaz orioni ellenpárja. Széth furkáját is így érthetjük meg.  
@@ -588,7 +587,7 @@ Itt aztán olyanokat ír az alvilágról, amik valójában a Szépasszonyhoz ill
 
 A kereszténység ideje előtti keresztek mindig érdekes téma. Itt csak felsoroljuk azon kereszt alakú hieroglif jeleket, melyekkel találkoztunk.  
 1\. Elsőként ott van az [[A/Ankh\|ankh]] kereszt, melyet mindenki ismer.  
-2\. A második a [[N/Négy\|négy]] címnél taglalt ndj hangértékkel megfeleltetett egyiptomi kereszt alakú jel.  
+2\. A második a [[N/Négy\|négy]] címnél taglalt `ndj` hangértékkel megfeleltetett egyiptomi kereszt alakú jel.  
 3\. A harmadik is Borbola János A Nílus-völgyi hitvilág című Ősi Gyökér 2005/4. sz. cikkében került elő.
 
 [Ezen](https://commons.m.wikimedia.org/wiki/Category:Crossed_planks_(hieroglyph) oldal foglalkozik a témával. Amit ide BJ ír, az fentebb keresztút témánál is részint taglalva volt:  
@@ -676,4 +675,5 @@ The equilateral cross was once widely used to denote the four cardinal direction
 Az egyenlő oldalú keresztet egykor széles körben használták az esőt hozó négy égtáj vagy szél irányának jelölésére. Ezért vált az ég- és időjárás-istenek, például a mezopotámiai napisten, [[S/Samas\|Samas]] és az égisten, [[A/Anu\|Anu]] szimbólumává.  
 
 [^18]: Lábjegyzet:  
-A Jupiter bolygó jele keresztet ábrázol, "kezében" sarlóval. A [[K/Kereszt\|kereszt]] mint égtáj-jel az égbolt jelképe, de stilizált emberalakot is formáz, s mint ilyen az égboltot megszemélyesítő égatya szimbóluma. A sarló (holdsarló) Kronosz-Szaturnusz egykori hatalmi jele, melyet fia elragadott tőle. Mint szabad szemmel látható 6 planétatársa, a Jupiter is kapott a hétből napot. A csütörtök az övé (latin dies lovis), amint ezt a nap francia (jeudi), olasz (giovedi), angol (Thursday) és német neve (Donnerstag) is jelzi. Az utóbbi kettő az isten germán megfelelőjének, Thornak, Donarnak a nevéből képződött. Az asztrológia Jupiteréhez a fehér fémeket (ónt, horganyt), és a kék, zöldeskék ékköveket (jáspist, lapis lazulit, türkizt) társították – gyaníthatóan a derült ég színei nyomán. \[JM\]  
+Jankovics Marcell írja:  
+A Jupiter bolygó jele keresztet ábrázol, "kezében" sarlóval. A [[K/Kereszt\|kereszt]] mint égtáj-jel az égbolt jelképe, de stilizált emberalakot is formáz, s mint ilyen az égboltot megszemélyesítő égatya szimbóluma. A sarló (holdsarló) Kronosz-Szaturnusz egykori hatalmi jele, melyet fia elragadott tőle. Mint szabad szemmel látható 6 planétatársa, a Jupiter is kapott a hétből napot. A csütörtök az övé (latin dies lovis), amint ezt a nap francia (jeudi), olasz (giovedi), angol (Thursday) és német neve (Donnerstag) is jelzi. Az utóbbi kettő az isten germán megfelelőjének, Thornak, Donarnak a nevéből képződött. Az asztrológia Jupiteréhez a fehér fémeket (ónt, horganyt), és a kék, zöldeskék ékköveket (jáspist, lapis lazulit, türkizt) társították – gyaníthatóan a derült ég színei nyomán.   
