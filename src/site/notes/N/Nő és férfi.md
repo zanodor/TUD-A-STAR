@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nő és férfi/","title":"Nő és férfi","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-14T03:03","updated":"2023-11-14T03:03"}
+{"dg-publish":true,"permalink":"/N/Nő és férfi/","title":"Nő és férfi","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-14T03:03","updated":"2023-11-25T11:20"}
 ---
 
 
 # Nő és férfi
 
-Ismertes, hogy a szerelem tüzes érzés, de elsődlegesen, ki kell mondani, a nők számára. A férfiak a szerelemmel azt vállalják, hogy átadják magukat a nőnek, az anyagnak. Számukra a szerelem [[B/Béklyó\|béklyó]]. De amint a nő megszerzi a vágyainak tárgyát, az anyaggá lealacsonyodott férfit, már nem lesz számára annyira érdekes, kivált, ha a tüzet nem tudják újra és újra felpiszkálni. A nő számára (de a férfi számára is) mindig is az elérhetetlen a vonzó. Ezért van az, hogy a nők családot inkább a lealacsonyodni képes (nőies, tágra nyíló szemű) férfiakkal alapítanak (saját kezdeményezésre, hiszen már átvették a férfiaktól e szerepet), de vágyat, szerelmet a férfinak megmaradni tudó, magát hosszan nőhöz lekötni nem képes olyan férfiak iránt érez, akik számára az elsődleges nem a nő és annak szeretete, hanem önmaga szeretete. Az igazi férfiak viszont nem a bunkó önimádó típusok, hanem azok, akik mindenki javára, a nemzet, cég, egyesület, közösség javára alkotnak és egy magasabb szeretetet hirdetnek, mint ami két ember között általában lehetséges. Az igazi szerelem tehát a (testiekben) viszonzatlan szerelem, egy transzcendentális érzés, mely túlmutat azon az anyagi síkon, melyekbe fektetett vágyaink kielégülésére szakosodtunk a Vaskorban.  
+Ismeretes, hogy a szerelem tüzes érzés, de elsődlegesen, ki kell mondani, a nők számára. A férfiak a szerelemmel azt vállalják, hogy átadják magukat a nőnek, az anyagnak. Számukra a szerelem [[B/Béklyó\|béklyó]]. De amint a nő megszerzi a vágyainak tárgyát, az anyaggá lealacsonyodott férfit, már nem lesz számára annyira érdekes, kivált, ha a tüzet nem tudják újra és újra felpiszkálni. A nő számára (de a férfi számára is) mindig is az elérhetetlen a vonzó. Ezért van az, hogy a nők családot inkább a lealacsonyodni képes (nőies, tágra nyíló szemű) férfiakkal alapítanak (saját kezdeményezésre, hiszen már átvették a férfiaktól e szerepet), de vágyat, szerelmet a férfinak megmaradni tudó, magát hosszan nőhöz lekötni nem képes olyan férfiak iránt érez, akik számára az elsődleges nem a nő és annak szeretete, hanem önmaga szeretete. Az igazi férfiak viszont nem a bunkó önimádó típusok, hanem azok, akik mindenki javára, a nemzet, cég, egyesület, közösség javára alkotnak és egy magasabb szeretetet hirdetnek, mint ami két ember között általában lehetséges. Az igazi szerelem tehát a (testiekben) viszonzatlan szerelem, egy transzcendentális érzés, mely túlmutat azon az anyagi síkon, melyekbe fektetett vágyaink kielégülésére szakosodtunk a Vaskorban.  
 Ezen fogalmak a tisztázása nélkül, és főleg a tisztán, éberen látás nélkül nem lehetséges a [[N/Nemek\|nemek]] szerepét újra helyére tenni.  
 
 #### Zborovszky Andrea A papucsszaggató királykisasszonyok...
@@ -45,7 +45,7 @@ Ezen fogalmak a tisztázása nélkül, és főleg a tisztán, éberen látás n�
 </div></div>
 
 
-#### Falvay Károly Nagyboldogasszony...  
+#### Falvay Károly Nagyboldogasszony...  
 
 ...című könyvének 22. oldalán Bachofent idézi (a 143. oldalon ismét):  
 > Az anya korábban létezik, mint a fiú. Az asszonyiság áll az élen, az erő férfiban való megtestesülése csak utána, másodsorban következik. A nő az adott, a férfi a leendő. Kezdettől fogva van a föld, az anyai alapanyag. Belőle ered aztán a látható, teremtett világ, s csak ebben mutatkozik meg a nemek kettéválása, csak ebben kerül a férfiteremtmény a napvilágra.  
@@ -137,6 +137,6 @@ Jankovics Marcell írja másutt:
 A férfilélek nőkhöz viszonyuló ambivalenciáját mutatja, hogy eleink Tündérútnak (is) nevezték a Tejutat, hasadékos részét pedig (a kozmikus anyának azt a testrészét, amelyet nemcsak ő, hanem halandó megtestesülései is legjobban forgatnak a vágyott pillanatokban) Tündérkertnek, Tündérek fordulójának, Tündérek táncának. (A Tejút forgása a látóhatár mentén a legszembetűnőbb.) (Lásd még a [[T/Tejút\|Tejút]] különböző elnevezéseit képen ott.)  
 —  
 Ami JM azon kijelentését illeti, hogy nem ismerték fel a férfiak nemzőszerepét, ez rossz következtetés. [[K/Kaptár\|Kaptár]] címnél is írtuk, hogy itt azt kell látni, hogy a napvallások kialakulása előtt Tejútanya-tisztelet volt. Megfelelően kell tudni a dolgokat kontextusba helyezni.  
-Falvay Károly Nagyboldogasszony c. könyvének 178. oldalán is írja:  
+Falvay Károly Nagyboldogasszony c. könyvének 178. oldalán is írja:  
 Amikor megjelent az antikvitásban ez az új ismeret, az emberi tudatosság fejlődését hihetetlen mértékben kitágította. Az ember megértette, hogy a női fogalom olyan teremtő fogalom, amivel az ellenkező nemű férfi nem rendelkezik. Csak a női fogalom képes új élő-alakot teremteni, legyen az egy bogár, növény, állat, vagy ember.  
 Így vált a nő istenanya fogalommá, olyan erővé, ami a földi élet létrejöttében és annak változásában 'Isteni' mindentudó és mindenható szerepkört biztosít számára. A női elv az élet és halál urává vált. Érthető módon később ő fogalmazta meg a közösségi együttélés első törvényeit is.  

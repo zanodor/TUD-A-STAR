@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2023-10-29T03:03"}
+{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2023-11-25T11:24"}
 ---
 
 
@@ -61,7 +61,7 @@ Perzsiában az Achaemenida Artaxerxes II[^2] uralkodó által építtetett szobr
 > A NŐ: Istenanya, Papnő, Szűzi-lény – Első Szenthármasság. A tökéletes női minőség háromarcú megformálása Istenanya, "Mert minden nő Istennő, s az Istennő minden nő" Papnő, mert a bölcsesség istennői örökség, melynek szikrái bármely pillanatban fel tudnak lángolni időtlen mélységekből Szűz, mert érintetlen tisztasága nem fizikai állapot, hanem léleknemesség. Egy NŐ érintetlenné tud válni bármely pillanatban, hiszen magában hordozza szeplőtlensége szakralitását, Életet és a Halált, s az Újjászületést.  
 > A fent említett szentháromságot magában rejti az egyetlen, s első őserő, az ANYA.  
 
-#### Falvay Károly Nagyboldogasszony...
+#### Falvay Károly Nagyboldogasszony...
 
 ...című könyvének 135. oldalán iráni, egyiptomi, krétai és magyar párhuzamokra építve írja:  
 > **A legrégibb szentháromság-rendszer az anya-leánya-fiúgyermek harmasság**; e hármas összefüggéséről beszél az iráni, az egyiptomi, a krétai és a mi kultúránk is[^3]. Ez a képzet változott át a bronzkor kései szakaszában[^4] atya-anya-fiú hármasságra, majd a \[judeo-\]kereszténységben teljes férfiúi hármasságra (atya, szentlélek, fiú). A három rendszer változása pontosan követhető emlékeinkben.  
@@ -75,7 +75,7 @@ Egyébként a magyaroktól árjákhoz került szavakat elnézve Magyar (Ilona) >
 ![assets/Szentháromság_image2.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image2.png)  
 Még egy pillanatra visszatérve: a [[L/Lány\|lány]]/[[S/Szűz\|szűz]] a későbbi (szülő)anya fiatal önmaga. A lány a magyar nyelvben kettős jelentésű. A germán nyelvekben alakult ki a külön lány (fiatal nő) és a lánya valakinek jelentésű két szó. Igaz, a [[D/Daughter\|daughter]] is éppen az anya fiatalkori tündér/szűz önmagára utal, de ezt már a mai nyelvet használók nem tudják. Ezért is gondolnám, hogy külön a magyar lány-aspektussal nem kellene annyira törődni (dacára a mellékelt mykénéi ábrázolás jelentőségére). [[A/Anya#Kettős anyaság\|kettős anyaság]] cím/alcímnél írottak alapján is a két ábrázolt nő lehet Nagyboldogasszony – Boldogasszony párosa, illetve Boldogasszony – Kisasszony párosa ugye.  
 (Lásd még lány/fiatal nő és szűz jelentésű szavak kapcsolatát és félreérthetőségét [[P/Parthenogenesis\|parthenogenesis]].)  
-A másutt előjövő Falvay Károly által adatolt passzusból kiderül, hogy a mítoszalkotó görögök félreértették[^6] az eredeti képet (ezért sem szabad feltétlenül más kultúrákból kiindulnunk), hiszen a [[T/Tejútanya\|Tejútanya]] fiatal/szűz aspektusa nem lánya, hanem önmaga fiatalabb énje:  
+A másutt előjövő Falvay Károly által adatolt passzusból kiderül, hogy a mítoszalkotó görögök félreértették[^6] az eredeti képet (ezért sem szabad feltétlenül más kultúrákból kiindulnunk), hiszen a [[T/Tejútanya\|Tejútanya]] fiatal/szűz aspektusa nem lánya, hanem önmaga fiatalabb énje:  
 ![assets/Szentháromság_image3.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image3.png)  
 [[D/Démétér\|Démétér]] Zeusszal történő nászában inkább a Nagy [[R/Rhea\|Rhea]] Anyának (anyjuknak) a hasonmása volt, aki saját fiával nemzette Perszephonét (más néven a szűz Korét \[= lányt\]), és leányában önmagát szülte újjá. \[Hogy\] erről a misztériumról nyíltan igen keveset meséltek \[érthető is\].  
 
@@ -161,7 +161,7 @@ A magyarok csodálatos képi gondolkodásában ennek a hiányosságnak okát ön
 
 A test, szellem, lélek szentháromságról és arról, honnan jön, jó kis összefoglalást, Paracelsus tollából lásd [[S/Szellem\|szellem]]. Lentebb, külön alcímnél is lesz szó ezen hármasságról.  
 Lásd még [[N/Négy\|négy]], [[H/Három isten\|három isten]] és [[H/Három istennő\|három istennő]].  
-(Egyéb infokat a hármas szám misztikájáról lásd [[T/Triskele\|triskele]].)  
+(Egyéb infókat a hármas szám misztikájáról lásd [[T/Triskele\|triskele]].)  
 
 #### Oláh Imre A magyar lélekhit keleti elemei...
 
@@ -192,7 +192,7 @@ Bakos Attila A Duna Evangéliuma című könyvének 477. oldalán az "eredeti" S
 ...[[N/Numerológia\|numerológia]] címnél is szereplő adatai:  
 > Ég és föld kozmikus [[N/Nász\|nász]]a, egyesülése (1+2=3) mely létrehozza az embert, a lelki és az anyagi világ gyermekét. Ez az aktus teszi teljessé az anyagi teremtést, mely három energiából tevődik össze. Az Istenség saját belső (szanszkrit *antaranga*) energiájából, a külső anyagi vagy anyai természetből (passzív befogadó *bahiranga* energia), amit manipulálnak az emberi lények akik határenergiát képeznek (szanszkrit *tatasthá* azaz föveny \[lásd finnugor párhuzamát [[F/Fű\|fű]]\], már nem tenger, de még nem szárazföld vagyis származásilag transzcendentális lélek, de anyagi testben azaz emberi lény) szellem és anyag együtteseként. A 3 az Atya (múlt), az Anya (jelen) és a Fiú (jövő) téridő dimenzió kifejezője.  
 
-A 2008. augusztus 17.-i magyarság és kelet őstörténeti konferencia szöveges anyaga Fordulat – Hitvilág, mítoszok, legendák címmel elérhető letöltésre; 53. oldalán Dr. Gyárfás Ágnes Lugal Geme nagy Úrasszony, ki Mada című cikkében egy másik szentháromságról ír:  
+A 2008. augusztus 17.-i magyarság és kelet őstörténeti konferencia szöveges anyaga Fordulat – Hitvilág, mítoszok, legendák címmel elérhető letöltésre; 53. oldalán Dr. Gyárfás Ágnes Lugal Geme nagy Úrasszony, ki Mada című cikkében egy másik szentháromságról ír:  
 > A magyar Szentháromság, mint hitbéli fogalom benne élt az őskultúrákban Egyiptomban, Mezopotámia korai időszakának életében, amelyet mi Aranykornak, a mesék korának, Isten idejének nevezünk.  
 > A magyar Szentháromság vagy a Turáni népek Szentháromsága égi eredetű. Az Orion, a Szíriusz és az Ikrek csillagkép jelzi a Szentháromságot.  
 - Folytatást lásd [[S/Szíriusz – Gyárfás Ágnes Szíriuszról\|Szíriusz – Gyárfás Ágnes Szíriuszról]]. Azért az igen furcsa lenne, ha a mítoszalkotó ősmagyar ezekből kihagyta volna a központi csillagot, a Napot, bár mondhatnánk, hogy az Ikrek "viszi."  
@@ -212,7 +212,7 @@ Thomas Inman Ancient Pagan and Modern Christian Symbolism című könyvében fol
 > *And for bonnie Annie Laurie I wad lay me doon and dee.*  
 > Britanniában öntudatlan vágyakozás van az istennők után, ha nem is egy olyan domináns istennő után, mint az őslakosok hármas istennője, de legalább a keresztény Szentháromság minden férfiasságának női lágyítása után. A férfi Szentháromság egyre kevésbé felel meg a brit társadalmi rendszernek, amelyben a nő, most, hogy tulajdonossá és szavazóvá vált, majdnem visszanyerte azt a tiszteleti pozíciót, amelyet a puritán forradalom előtt élvezett. Igaz, hogy a férfi Szentháromság megelőzte a puritán forradalmat, de ez egy teológiai, nem pedig érzelmi fogalom volt: ahogyan az már kiderült, a keresztes hadjáratok és a polgárháború között az égi királynő és női szentek kísérete sokkal nagyobb befolyással bírt a nép képzeletében, mint akár az Atya, akár a Fiú.  
 
-Falvay Károly Nagyboldogasszony című könyvének 117. oldalán viszont a női elv hármasságáról és a hím elv egységéről szól. Majd később, a magyar [[M/Mony\|mony]] jelentéseinek (tojást/herét és hímvesszőt, sőt, ondót is adatol, továbbá harang nyelvét is) megadása után írja:  
+Falvay Károly Nagyboldogasszony című könyvének 117. oldalán viszont a női elv hármasságáról és a hím elv egységéről szól. Majd később, a magyar [[M/Mony\|mony]] jelentéseinek (tojást/herét és hímvesszőt, sőt, ondót is adatol, továbbá harang nyelvét is) megadása után írja:  
 > Az egy és a kettő, külön-külön önmagában minőségileg azonos szám. Ez a gondolat megjelenik a [[F/Fibonacci-számsor\|Fibonacci-számsor]] első négy számában (1, 1, 2, 3). A magyar gondolkodás szerint a két szám ezért fél-fél Egységet (kezem, lábam, fülem) képez. Az emberi élet folyamatosságát nem a kettősség hanem a hármasság biztosítja.  
 
 Az is lehet, hogy a Thomas Inman Ancient Pagan and Modern Christian Symbolism című könyvében mindenütt előjövő hímelvű hármasság a három mony-ra: a középen levő hímtagra és az örökítő anyagot tároló két tojásra utal.  

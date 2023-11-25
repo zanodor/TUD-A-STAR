@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Koponya/","title":"Koponya","tags":["dg_uploaded"],"created":"2023-11-05T03:00","updated":"2023-11-05T03:00"}
+{"dg-publish":true,"permalink":"/K/Koponya/","title":"Koponya","tags":["dg_uploaded"],"created":"2023-11-05T03:00","updated":"2023-11-25T11:15"}
 ---
 
 
@@ -8,7 +8,8 @@
 #### Péterfai János írja:
 
 > Kupa szavunk igen rejtélyes eredetűnek tűnik. De nem rejtélyes, ha szigorúan ragaszkodunk a logika törvényeihez. Valódi eredete a Ku és a Pa szavakhoz kötődik. Ku a Száj, Pa a Főség, Fője, tehát a Ku-Pa a Száj-Fője. Ebből a Kupából őseink ittak, mindenféle italt. A Kupa szoros kapcsolatba került a Koponya szóval. Egyes hun, vagyis magyar származású uralkodók, ellenségük koponyájából csináltattak ivókupát, ami azt is feltételezi, hogy a hun uralkodók ellenségeik koponyájából készített ivókupákból ittak volna, vagy csak díszként tartották ezeket a kupákat a családi díszhelyeken.  
-> A Kupa, mint Koponya, összefügg a Fejjel. Mert a Koponya alapvetően nem rokon a Kupa (Ku-Pa) szóval, de annyiban igen, hogy a Ku jelent Szájat és Követ. A Koponya helyesen Ko-Po-Nya szótani elemekből áll. Kő-Fej-Ház a helyes jelentése. Amikor a magyarok megtanulnak magyarul, nem lesz, aki nekik ellen állhatna a nyelvükben. Mivel a Kupa és Koponya szavaink akár ötvenezer év óta is léteznek, a belőlük kiágazó szavak megjelenése sokkal rövidebb időre szabható. Egyértelműen a Kap és Kop szavainkra utalok, amelyekből igen terjedelmes szócsoport fejlődött ki utódnyelveinkben. A latin `Habeo` is a [[K/KAP\|Kap]] magyar ige származéka, ezért az összes indoeurópai szó, amelyet a Habeo szóból vezettek le, mind a magyar Kap igéből ered.  
+> A Kupa, mint Koponya, összefügg a Fejjel. Mert a Koponya alapvetően nem rokon a Kupa (Ku-Pa) szóval, de annyiban igen, hogy a Ku jelent Szájat és Követ. A Koponya helyesen Ko-Po-Nya szótani elemekből áll. Kő-Fej-Ház a helyes jelentése. Amikor a magyarok megtanulnak magyarul, nem lesz, aki nekik ellen állhatna a nyelvükben. Mivel a Kupa és Koponya szavaink akár ötvenezer év óta is léteznek, a belőlük kiágazó szavak megjelenése sokkal rövidebb időre szabható. Egyértelműen a Kap és Kop szavainkra utalok, amelyekből igen terjedelmes szócsoport fejlődött ki utódnyelveinkben. A latin `Habeo` is a [[K/KAP\|Kap]] magyar ige származéka, ezért az összes indoeurópai szó, amelyet a Habeo szóból vezettek le, mind a magyar Kap igéből ered.  { #31vx84}
+
 
 Koponya lehet, ahogy [[K/Koppány\|Koppány]] címnél írtuk, Kop-Ana értelmű, mely egészen hasonló a [[K/Korona\|korona]] névhez is.  
 
@@ -39,6 +40,6 @@ Fentebb, Rostás László cikkében is azt olvastuk, hogy Árpád idejében a ma
 > James Tod Barolliban Indiában leírván Siwa istenasszony templomát, annak szobrát is körülményesen leírja; bal kezében kehelynek készült ember kaponyát tart, melyből a megölt ellenség vérét issza, mire számosak a példák India történeteiben, mely alkalommal Hammer figyelmeztet a hason longobard s persa szokásra, hogy e nemzetek fejei is drága kövekkel kirakott, s aranyba foglalt kaponyákból ittak ünnepélyes alkalommal, mint Alboin a longobard fejedelem és Ismail Schah, ez utólsó az Uzbeg chán Scheibel kaponyáját használá e czélra. (Gesch. der osman. II. 393. és Wien. Jahrb. LXV. B. p. 89—91.) Kura pecsenég fejedelem is 972 megölvén Dniepernél az orosz Swiatoslavot, annak kaponyáját kehelynek használta, mint Alboin a Konemundét. (Nikon. Chronik. B. 1. 60. s Hammer die goldene Horde p. 439. seq.) ([Lásd 123. old.](zotero://open-pdf/library/items/DFI47XPY?page=123&annotation=ZG7FDE5I))  
 
 Lásd még a mesei boszorkány háza kerítésének karóira tűzött koponyákról [[K/Karó\|karó]].  
-Falvay Károly Nagyboldogasszony című könyvének 311. oldalán esik szó a Szépasszony ellen használt lókoponyáról.  
+Falvay Károly Nagyboldogasszony című könyvének 311. oldalán esik szó a Szépasszony ellen használt lókoponyáról.  
 Lásd még előtagját [[K/KOP\|KOP]].  
 Lásd még említve [[K/Korona\|korona]].  

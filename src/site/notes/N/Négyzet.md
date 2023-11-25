@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Négyzet/","title":"Négyzet","tags":["dg_uploaded"],"created":"2023-10-26T05:19","updated":"2023-10-26T05:19"}
+{"dg-publish":true,"permalink":"/N/Négyzet/","title":"Négyzet","tags":["dg_uploaded"],"created":"2023-10-26T05:19","updated":"2023-11-25T11:20"}
 ---
 
 
@@ -13,10 +13,10 @@ Sípos Erzsébet az Ősi Gyökér 2006/2. sz. megjelent aranymetszésről szól�
 Ugyanezt leírta JM [[N/Négyszögletes Föld\|négyszögletes Föld]] címnél:  
 > Az eget egyetemes ősi felfogás szerint a kör jelével szimbolizálták, a földet négyzettel. Az égi körnek a földi négyszög felel meg – az isteni szándék emberi megvalósítása a kör négyszögesítése.  
 
-Falvay Károly Nagyboldogasszony című könyvének 149. oldalától bőségesen szól a négyzetről és négyszögletességről, jelképiségéről.  
+Falvay Károly Nagyboldogasszony című könyvének 149. oldalától bőségesen szól a négyzetről és négyszögletességről, jelképiségéről.  
 
 A mellékelt kép Molnár V. József Világ-Virág című könyvéből való, de nem találom a hozzá való szöveget. Mint kiderül, George Mitchell The Hindu Temple című könyvében szerepel és **Purusha** istenséget ábrázolja.  
-![assets/Négyzet_image1.jpeg|undefined](/img/user/N/assets/N%C3%A9gyzet_image1.jpeg)  
+![assets/Négyzet_image1.jpeg](/img/user/N/assets/N%C3%A9gyzet_image1.jpeg)  
 Hasonló a [[V/Vitruvius\|Vitruvius]]-emberhez, de ami itt érdekes, hogy az ülő (az ülő isten mindig az örökkévalóságra utal) pozícióban ábrázolt alak tényleg éppen egy négyzetbe foglalható.  
 - Ha már Vitruvius, ahogy [[F/Fő\|fő]] címnél is írtuk, hogy az ötágú csillagra emlékeztető ábrázolásban az ötödiknek, a fentinek számolandó a fej. A [[F/Fő\|fő]] pedig nemcsak a [[P/PA\|PA]], hanem a [[F/FU\|FU]] etimonnal is megfeleltethető.  
 
@@ -30,14 +30,14 @@ Négyzetrácsról lásd [[R/Rács\|rács]] és például [[S/Szita\|szita]].
 
 A négyzet  
 Fogság, börtön, korlátozás, megmerevedés. Klauzúra, az időben korlátozott tér jele. Az élettel ellentétes, de az élet számára mégis szükséges állapot jele. Térbezárt idő, karma, a négy elem fogsága.  
-![assets/Négyzet_image2.png|undefined](/img/user/N/assets/N%C3%A9gyzet_image2.png)  
+![assets/Négyzet_image2.png](/img/user/N/assets/N%C3%A9gyzet_image2.png)  
 
 A négy térfél – statikus
 
-![assets/Négyzet_image3.png|undefined](/img/user/N/assets/N%C3%A9gyzet_image3.png)  
+![assets/Négyzet_image3.png](/img/user/N/assets/N%C3%A9gyzet_image3.png)  
 Valaminek a térbeli elhelyezkedéséből következtethetünk energiahelyzetére. Osszuk fel a kihatárolt teret négy részre. Ennek jelzésére legkifejezőbb a négyzetbe rajzolt kereszt.  
 Nézzük végig oldalanként a jelentésüket. Mit szimbolizálnak a térfelek?  
-Alsó rész: 
+Alsó rész:
 Ösztönélet  
 Szexuális, indulati sík  
 Tudatalatti  
@@ -82,7 +82,7 @@ Szellemi szabadság
 Eleme: Tűz, Levegő  
 Színe: napsárga, világoskék, világoszöld, ibolyalila
 
-Jobb oldali rész: 
+Jobb oldali rész:
 Élettől duzzadó erő  
 Lendület, tempó támadókedv, külvilág  
 Siker, alkalmazkodás  

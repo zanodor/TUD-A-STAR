@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Therapy/","title":"Therapy","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-27T10:21","updated":"2023-11-04T02:01"}
+{"dg-publish":true,"permalink":"/T/Therapy/","title":"Therapy","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-27T10:21","updated":"2023-11-25T11:27"}
 ---
 
 
@@ -45,10 +45,10 @@ Arab forrásokból:
 
 Varga Zsigmond Az ősmagyar mitológia című könyvének 185. oldalán állatbőrbe csavart fájós testrészekről, azok gyógyításáról (illetve gonosz betegségszellemek távoltartásáról) van szó. Mintha az derülne ki, hogy a Tejútanya jelképállatainak bőre lenne leginkább értékes illetve célravezető. Ő ott a kecskebőrt említi, de a tehén, rénszarvas, ló és kutya lenyúzott (és ha éppen nem testrészre csavart, akkor karókra, fákra kiaggatott) bőre mind használhatott ilyen céllal. Mindegyikben közös még, hogy a tejükért is tartották őket.  
 
-Kátay-Barba Rafael Péter Kynologia című írásában találjuk:  
+Kátay-Barba Rafael Péter Kynologia című írásában találjuk:  
 > Nem marad ki a kutya a gyógyítás és halottkultusz területéről sem. Epidauroszban sebek gyógyítására használták őket, gyógyító erőt tulajdonítva nyalogatásuknak. Két sztélé tanúsítja, hogy egy gyermeket a vakságtól, egyet pedig agydaganattól szabadítottak meg (Dr. Tobiás Loránd közlése). A tudós [[P/Pythagorasz\|Pythagorasz]] követői szerint (Kr.e.: 500 körül) az emberi lélek a halál után valamilyen állatba költözik, ezért a haldokló szájához kutyát kell tartani, hogy az az utolsó lehelettel a halott bűneit átvegye és erényeit megmentse az enyészettől, mint erre leginkább alkalmas lény.  
 
-#### Kátay-Barba Rafael Péter írja:  
+#### Kátay-Barba Rafael Péter írja:  
 
 > A kutyák gyógyító hatásuk mellett élő hősugárzóként védték az embert:  
 > A Yucatán félsziget híres maja rommezőin a régészek felálló fülű kutyák agyagszobrocskáit tárták fel. Ezek az ebek minden valószínűség szerint szőrtelenek voltak. A modellekből a testméretre természetesen nem lehet következtetni. Tudjuk viszont, hogy a kor embere, kihasználva 40 C°-os testhőjüket, ezeket az ebeket éjszakára ágyába fektette a takaró alá, s ezekkel az eleven "hőpárnákkal" gyógyította magát reuma, asztma és malária esetén. Emlékezzünk, ezzel a felhasználási móddal már Tibet hegyei között is találkozhattunk!  
@@ -133,7 +133,7 @@ A Kutya, amellyel Aesculapiust ábrázolják, akárcsak Anubisz kutyája, az egy
 The Hidden God is [[S/Széth\|Set]], represented astronomically by Sirius, the Dog-Star.  
 
 [^5]: Lábjegyzet:  
-Falvay Károly Nagyboldogasszony című könyvének 115. oldalán a kánikulát a kutyák tüzeléséhez köti (csak futólag). Az [alábbi](https://okosgazdi.hu/magazin/tuzelo-kutyak-a-problemas-idoszak) oldal adatai:  
+Falvay Károly Nagyboldogasszony című könyvének 115. oldalán a kánikulát a kutyák tüzeléséhez köti (csak futólag). Az [alábbi](https://okosgazdi.hu/magazin/tuzelo-kutyak-a-problemas-idoszak) oldal adatai:  
 A műtéten át nem esett szuka kutyák évente kétszer tüzelnek, jellemzően a tavaszi és őszi hónapokban. Két tüzelési időszak között általában körülbelül 6 hónap telik el, de ez esetenként eltérő lehet. A nőstény kutya az első tüzelését követően válik ivaréretté, ami többnyire a felnőttkori testméret elérésekor következik be. Így ez a kisebb testméretű kutyáknál már 6 hónapos korban, míg a nagyobb testű kutyáknál némileg később, jellemzően 1 éves korban történik meg.  
 
 [^6]: Lábjegyzet:  

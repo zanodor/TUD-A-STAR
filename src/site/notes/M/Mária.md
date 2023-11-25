@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2023-11-20T06:25"}
+{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2023-11-25T11:18"}
 ---
 
 
@@ -213,7 +213,7 @@ Carla Ionescu, a torontói egyetem hallgatójának The Enduring Goddess: Artemis
 > —  
 > Így azt lehet állítani, hogy Artemisz Epheszia nemcsak az Istennő Királynő vagy az Állatok Királynője címet viselte, hanem könnyen lehetett volna a Méhek Királynője cím birtokosa is. Ha ez a helyzet, különösen Efezusban, akkor lehetséges, hogy a korai keresztény Mária-tiszteletet szándékosan úgy alakították ki, hogy ennek a nagyon ősi istennőnek a formáját vegye fel.  
 
-Falvay Károly Nagyboldogasszony című könyvének Mária-ünnepekkel kapcsolatos adatai itt-ott és dátummal a helyükön már megvoltak. (Apokrif nézet szerint anyja,) Szent [[A/Anna\|Anna]], [[B/Boldogasszony\|Boldogasszony]], [[K/Kisasszony\|Kisasszony]], [[S/Szűz csillagkép\|Szűz csillagkép]] és [[K/Kereszténység\|kereszténység]] címnél már szerepeltek adatok (utóbbinál kifejezésre került, hogy az egyházak feladata az volt, hogy a magyar ősi nézeteket és istennőket és a szintén magyar kereszténység istennőit úgy hozza közös nevezőre – ami nem is igazán sikerült, derül ki FK könyvéből – mintha a kereszténység a saját produktumuk lenne, de nem az).  
+Falvay Károly Nagyboldogasszony című könyvének Mária-ünnepekkel kapcsolatos adatai itt-ott és dátummal a helyükön már megvoltak. (Apokrif nézet szerint anyja,) Szent [[A/Anna\|Anna]], [[B/Boldogasszony\|Boldogasszony]], [[K/Kisasszony\|Kisasszony]], [[S/Szűz csillagkép\|Szűz csillagkép]] és [[K/Kereszténység\|kereszténység]] címnél már szerepeltek adatok (utóbbinál kifejezésre került, hogy az egyházak feladata az volt, hogy a magyar ősi nézeteket és istennőket és a szintén magyar kereszténység istennőit úgy hozza közös nevezőre – ami nem is igazán sikerült, derül ki FK könyvéből – mintha a kereszténység a saját produktumuk lenne, de nem az).  
 FK könyvének 389. oldalán a római és ortodox Mária ünnepeket hasonlítja. A 390. oldalon Oroszország Mária-tiszteletéről szól.  
 
 #### Schmidt Irén A magyarok és elődeik istenképe, találkozásuk a kereszténységgel a római térítés előtt 1-2....
@@ -367,7 +367,7 @@ Ez azért is érdekes, mert [[M/Miriam\|Miriam]] férje is kutya nevet visel: [[
 A hét napjai közül keddet tartják a Nagyasszony/[[N/Nagyboldogasszony\|Nagyboldogasszony]], másként Szent Anna napjának. \[Kálmány Lajos – Boldogasszony; Más változat szerint nem Szent Annáé, hanem lányáé, Máriáé a keddasszony titulus.\]  
 
 [^2]: Lábjegyzet:  
-Falvay Károly Nagyboldogasszony című könyvének 428. oldalán is írja:  
+Falvay Károly Nagyboldogasszony című könyvének 428. oldalán is írja:  
 Szent Anna első férjétől, Joachimtól született Mária, Jézus anyja, de a második férjétől, Kleofástól nemzett második leánya is a Mária nevet kapta. Ettől a leányától származott ifjabb Jakab, Júdás-Tádé és Simon. A másodszor is megözvegyült Anna harmadik házasságából született a harmadik, úgyszintén Mária nevű leánya, aki idősebb Jakab és János későbbi apostoloknak adott életet.  
 Aki tehát még ezek után is úgy gondolja, hogy ezek valós személyek és a zsidók történetét is képezhetik, az annyira korlátolt és vakbuzgó, hogy bármit is felesleges mondani nekik.  
 

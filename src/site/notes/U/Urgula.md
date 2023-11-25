@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Urgula/","title":"Urgula","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-12T01:48","updated":"2023-11-17T06:45"}
+{"dg-publish":true,"permalink":"/U/Urgula/","title":"Urgula","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-12T01:48","updated":"2023-11-25T11:28"}
 ---
 
 
@@ -48,11 +48,11 @@ Ugyanakkor az Ur-Mah mégiscsak lehet utalás arra nézve, hogy ekkor, a térid�
 A Kutya Oroszlán csillagképpel való kapcsolatáról még annyit, hogy a Dr. Gyárfás Ágnes féle cikkekben több helyen idézett Stella Hungarorum című, Dr. Kovács Sándor által írt cikkben felhozott Szíriuszra utaló Mah-Gar, Ur Magar és hasonló nevek könnyen utalhatnak az Oroszlán Ur-Mah nevére, bár [[M/Magor\|Magor]] címnél arról volt szó, hogy a téli napfordulón születő Nap neve vitetett át a Szíriusz esetleges ilyen nevére, mert ilyenkor együttállás van. [[M/Magyar mint Szíriusz\|Magyar mint Szíriusz]] címnél közben írottakat is lásd.  
 - Kovács Sándor friss anyagát lásd [[U/UR\|UR]].  
 
-Még mindig Gyárfás Ágnesnél maradva, a Fordulat – Hitvilág, mítoszok, legendák című PDF 60. oldalán, Lugal Geme nagy Urasszony ki Mada nevezetű istenanya csillagképpel való megfeleltetésekor furcsa módon a Nagy Kutya csillagkép mellé a latin Leo Major latin nevet tette. Miért? A tudatalatti dolgozott benne? Nos, nem, mert a 61. oldalon megint Leo Majort szerepeltet. Magyarázatot nem ad viszont.  
+Még mindig Gyárfás Ágnesnél maradva, a Fordulat – Hitvilág, mítoszok, legendák című PDF 60. oldalán, Lugal Geme nagy Urasszony ki Mada nevezetű istenanya csillagképpel való megfeleltetésekor furcsa módon a Nagy Kutya csillagkép mellé a latin Leo Major latin nevet tette. Miért? A tudatalatti dolgozott benne? Nos, nem, mert a 61. oldalon megint Leo Majort szerepeltet. Magyarázatot nem ad viszont.  
 
 Az oroszlán Ur-Mah neve akkor lenne igazán helytálló, ha abban az időben az Oroszlánban lett volna a nyári napforduló (de akkor a Kutya hol lenne?). Lám, ez a [[S/Szűz csillagkép\|Szűz csillagkép]] címnél taglalt egyiptomi témához is érdekes lehet.  
 
-#### Falvay Károly Nagyboldogasszony...
+#### Falvay Károly Nagyboldogasszony...
 
 ...című könyvének 373. oldalán álló adatsora talán még inkább fényt vet a lényegre:  
 > Az [[A/Augusztus 15\|augusztus 15]]-ei időpont az egykori holdhónap középpontjára utalhat és így az évkörön az egyetlen teliholddal kapcsolatos istenasszony ünnep lehetett. Régi istennőnk képzetének azonos szélességi fokok között megjelenő hasonló ismerete mutatkozik meg a rómaiak [[D/Diana\|Diána]], a görögök [[A/Artemisz\|Artemisz]], a kisázsiaiak Kybele \[lásd [[C/Cybele\|Cybele]]\] istennő ünnepének hasonló időpontjában. Tulajdonságaik talán Kybele a Nagy Istenanya kivételével nem teljesen egyeznek Nagyboldogasszonyunk szerepkörével, ami a megtiszteltetés azonos időpontja és indítéka mellett sajátosan magyar képzetbeli fejlődésre utalhat \[és, teszem hozzá, a többi késői kultúra mutációira\].  

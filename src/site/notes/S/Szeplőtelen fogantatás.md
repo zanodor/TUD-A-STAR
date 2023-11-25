@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szeplőtelen fogantatás/","title":"Szeplőtelen fogantatás","tags":["dg_uploaded","Englishtexttranslated","containstransclusions"],"created":"2023-11-13T01:57","updated":"2023-11-23T12:06"}
+{"dg-publish":true,"permalink":"/S/Szeplőtelen fogantatás/","title":"Szeplőtelen fogantatás","tags":["dg_uploaded","Englishtexttranslated","containstransclusions"],"created":"2023-11-13T01:57","updated":"2023-11-25T11:25"}
 ---
 
 
 # Szeplőtelen fogantatás
 
 Magyarországon a legismertebb [[A/Álmos\|Álmos]] és [[J/Jézus\|Jézus]] fogantatásának története. De "időben" Jézus előtt [[B/Buddha\|Buddha]] és [[Z/Zarathustra\|Zarathustra]] is így született[^1]. A visszatérő elem mögött kozmológiai hátteret kell sejteni, különösen a [[S/Szűzanya\|Szűzanya]], [[O/Orion övcsillagai\|Orion övcsillagai]], [[H/Hunor és Magor\|Hunor és Magor]], valamint [[I/Incest\|incest]] és [[V/Vérfertőzés\|vérfertőzés]] címszavaknál írottak alapján.  
-De [[N/Nut\|Nut]] kapcsán is írja...
+De [[N/Nut\|Nut]] kapcsán is írja...  
 
 #### Jankovics Marcell Mély a múltnak kútja...
 
@@ -28,7 +28,7 @@ Alkalomadtán végig lehetne menni a Napot szűzen szülő istennőkön. Itt van
 ...című, Csudaszarvasról és Turulról szóló Ősi Gyökér 2005/2. sz. megjelent cikkében egy másik értelmezésében (teljesen érthető végülis):  
 > Az ősanyáinkat látogató [[T/Turul\|Turul]] madár tehát nem a római mythologia otromba, emberek állattal párosuló [[L/Léda\|Léda]] és hattyúszerű története, hanem őseink magas szellemiségű jelképe, mely tudja, hogy férfi és asszony egyesülésének soha nem lenne folytatása, ha Isten nem rejtené az élet fényét jövendő élet magocskáiba. Minden magyar édesanya tudta, hogy gyermeke nem az övé, nem az uráé, hanem a Teremtő Istené. Tőlünk már csak a jelképet vették át az alakuló késői műveltségek, s így született a Léda történet ma ismert alakja, az átvevő nép szellemi szintjének tükreként. Így áll rokontalan, s előzmény nélküli\[?\] magányosságban Jézus születésének története, melynek minden mozzanata – a napkeleti mágusoktól kezdve az angyali üdvözleten át, a galambig, mint Isten jelképéig, - mind a turul mondakörbe tartozik.  
 
-Az alábbiakban elsősorban a napfiúk szeplőtelen fogantatásáról lesz szó[^2], de Falvay Károly Nagyboldogasszony című könyvének 378-379. oldalán maga [[M/Mária#Mária szeplőtelen fogantatása\|Mária szeplőtelen fogantatásá]]ról ill. születéséről is szó esik. Véleményem szerint ez egy utólagos okoskodó betoldás (lásd erről [[A/Anna\|Anna]] és [[K/Kisasszony\|Kisasszony]] címnél álló gondolatmenetem is), illetve maga az időpontja ([[D/December 8\|december 8]].: fogantatása, [[S/Szeptember 8\|szeptember 8]].: születése is oda látszik kifutni, hogy a Szűz havában szülessen).  
+Az alábbiakban elsősorban a napfiúk szeplőtelen fogantatásáról lesz szó[^2], de Falvay Károly Nagyboldogasszony című könyvének 378-379. oldalán maga [[M/Mária#Mária szeplőtelen fogantatása\|Mária szeplőtelen fogantatásá]]ról ill. születéséről is szó esik. Véleményem szerint ez egy utólagos okoskodó betoldás (lásd erről [[A/Anna\|Anna]] és [[K/Kisasszony\|Kisasszony]] címnél álló gondolatmenetem is), illetve maga az időpontja ([[D/December 8\|december 8]].: fogantatása, [[S/Szeptember 8\|szeptember 8]].: születése is oda látszik kifutni, hogy a Szűz havában szülessen).  
 
 Még [[A/Álmos\|Álmos]]sal kapcsolatosan felmerült másutt is, hogy hogyan lehet prototípus más népek mondáiban, ha később élt: Bíró Lajos is elmondja előadásában, hogy az Álmos és Árpád nevek inkább olyanféle mitikus őstől örökül vett rangnevek, mint ahogy Egyiptomban (az Erpat-Árpád név kapcsán is taglalt) [[O/Ozirisz\|Ozirisz]] nevét felvették, hogy vele azonosuljanak.  
 
@@ -87,7 +87,7 @@ Práczki István Szittya Biblia című könyvének 47. és 54. oldalán igen meg
 
 Persze nem Szent Albert volt az egyetlen, aki a [[S/Szűz csillagkép\|Szűz csillagkép]] helyzetével foglalkozott. 
 
-#### Falvay Károly Nagyboldogasszony...
+#### Falvay Károly Nagyboldogasszony...
 
 ...című könyvének 382. oldalán is szól a Szűz csillagképről a [[S/Szeptember 8\|szeptember 8]].-i Kisasszony (Mária) ünnep (születés) és [[D/December 8\|december 8]]. (fogantatás) kapcsán (hisz az egyház a pogány keresztény csillagászati összefüggések mintájára kreálta meg Mária [[A/Anna\|Anná]]tól való szűzen fogantatását, azaz ahogy JM Jelkép-kalendárium című könyvének 323. oldalán is olvassuk, nemcsak Jézus az, akit anyja szűzen szült). FK azt írja, hogy a két időpont szorosan kapcsolódik a [[S/Szűz csillagkép\|Szűz csillagkép]] egykori felkeléséhez és decemberi deleléséhez.  
 Falvay könyvében a több helyen taglalt nőiség által képviselt örökkévalóság (a végtelen jelére is kitér a könyvének 251. oldalán) kerül megformálásra. Fantasztikus analógiás módon gondolkodott a magyar. Amit ír (az első fele másutt is megvolt):  
@@ -133,7 +133,7 @@ A 29. oldalon a 8. századi arab csillagász, Abu Mazar adatával folytatja (enn
 > —  
 > Ezután felhívja a figyelmet a hagyományokra, amelyek között szerepel a Zend Aveszta, ahol egy új csillag jelenik meg a Szűzben, amely egy titokzatos gyermek születését jósolja, aki egy kőből született halnak bizonyul.  
 
-Azaz továbbra is a Szűz csillagképben kerestek valami magyarázatot a régiek, de ki tudja mennyire helyesen. [[S/Szűz csillagkép\|Szűz csillagkép]]nél álló Falvay Károly féle infók és diagramok alapján tovább boncolgatjuk a témát (lásd [[S/Szűz csillagkép#Szűz mint kezdet\|Szűz mint kezdet]] alcímet).  
+Azaz továbbra is a Szűz csillagképben kerestek valami magyarázatot a régiek, de ki tudja mennyire helyesen. [[S/Szűz csillagkép\|Szűz csillagkép]]nél álló Falvay Károly féle infók és diagramok alapján tovább boncolgatjuk a témát (lásd [[S/Szűz csillagkép#Szűz mint kezdet\|Szűz mint kezdet]] alcímet).  
 
 Gyanítható, hogy egy későbbi képzetről és afféle tudálékoskodásról, belemagyarázásról van szó, mint amilyenről legutóbb [[C/Crucifixion\|crucifixion]] és [[H/Három nap\|három nap]] címnél is szó volt, miszerint Jézus és más azt megelőző kultúrák napistenei azért lettek volna keresztre feszítve, mert a (halálát haló) Nap ilyen időtájt a Crux, azaz Dél Keresztje csillagkép közelében tartózkodik. (Nos, valójában a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] címnél írottak alapján tudjuk, hogy a Dél Keresztje csak egy utóbb felvett csillagkép, mert Jézust nem azért feszítették keresztre, mert ilyen csillagkép közelében tartózkodik a téli napfordulón a Nap. Széth furkájára is gondoljunk.) Az efféle késői keresztény képzettársítás olyan lehet, mint Szent Albert véleménye. Igaz, ő is alapozza véleményét korai (akár nem is keresztény \[bár a kezdetben mindenki keresztény lehetett\]) csillagászokra.  
 
@@ -186,7 +186,7 @@ Ezek után nem véletlen, hogy a [[T/Tojás\|tojás]] (a nőiség, a női istenn
 Huszárik László Gilgames és a Zodiákus – a csillagképek nevének eredete című cikkének alábbi sorai (és még több) [[S/Szűz csillagkép#Szűz mint kezdet\|Szűz mint kezdet]] cím/alcímnél is szerepeltek:  
 Az ókorban makacsul tartotta magát az a hit, hogy az isteni származású hősök szűztől születtek.  
 —  
-Falvay Károly Nagyboldogasszony című könyvének 389. oldalán idéz még híres szűzen születettekről: Szargonról és Dzsingisz Kánról. Meg is lehet nézni, ezek mit képviseltek; inkább ördög/boszorkánytól valók voltak.  
+Falvay Károly Nagyboldogasszony című könyvének 389. oldalán idéz még híres szűzen születettekről: Szargonról és Dzsingisz Kánról. Meg is lehet nézni, ezek mit képviseltek; inkább ördög/boszorkánytól valók voltak.  
 —  
 Gyárfás Ágnes A Szondi-féle négy ösztöntengely és a magyar népmese című Ősi Gyökér 2006/3. sz. megjelent cikkében írja, hogy Bors vitéz a Szép Júlia... című mesében szűzen fogant.  
 

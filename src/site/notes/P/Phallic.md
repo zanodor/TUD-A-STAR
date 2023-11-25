@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Phallic/","title":"Phallic","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-09T05:11","updated":"2023-11-24T06:37"}
+{"dg-publish":true,"permalink":"/P/Phallic/","title":"Phallic","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-09T05:11","updated":"2023-11-25T11:21"}
 ---
 
 
@@ -104,7 +104,7 @@ A mesterséges deflorációt többféle eszközzel végzik, az észak-ausztráli
 </div></div>
   
 
-Hasonló téma jön elő Falvay Károly Nagyboldogasszony című könyvének 234. oldalán, ahol azt írja:  
+Hasonló téma jön elő Falvay Károly Nagyboldogasszony című könyvének 234. oldalán, ahol azt írja:  
 > Egészen az 1500-as évekig a házasulandó felek az egyezséget egész Európában a templom kapujában kellett kimondják. Azt nem mondja, hogy ez utalás lenne a szűz/menyasszony [[V/Vulva\|vulvá]]jára. Egyébként a latin-angol [[V/Vestibule\|vestibule]] szónak is van ilyen (anatómiai szakszóként is jelenlévő) értelme.  
 
 Könyve 418-419. oldalán is szerepel templommal kapcsolatos, ilyen hímségi-nemzéses info:  
@@ -168,7 +168,7 @@ Itt Bauvalt nem értem, mert FK lentebb szereplő adatsora alapján kiderül, ho
 Két ízben találkozhatunk Ozirisz phallosszával Ízisz történetében. Először még a Széth általi feldarabolás előtt, majd után.  
 ![assets/Phallic_image3.png](/img/user/P/assets/Phallic_image3.png)  
 
-#### Falvay Károly Nagyboldogasszony...  
+#### Falvay Károly Nagyboldogasszony...  
 
 ...című könyvének 277-278. oldalán az egész történetet elmeséli. Az előzményt ismerjük:  
 > Széth koporsóba fekteti Oziriszt, a Nílusra ereszti, majd Ízisz megtalálja. \[...\]  

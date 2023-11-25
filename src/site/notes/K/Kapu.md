@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kapu/","title":"Kapu","tags":["dg_uploaded"],"created":"2023-10-30T08:56","updated":"2023-10-30T08:56"}
+{"dg-publish":true,"permalink":"/K/Kapu/","title":"Kapu","tags":["dg_uploaded"],"created":"2023-10-30T08:56","updated":"2023-11-25T11:14"}
 ---
-
-
 
 
 # Kapu
@@ -104,9 +102,9 @@ Molnár V. József Világ-Virág című könyvének 137. oldalától foglalkozik
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Az átmenet itt egy fontos szó. Falvay Károly Nagyboldogasszony című könyvének 396. oldalán amikor azt mondja, hogy hazánkban is korábban a templom kapujában (v. ö. [[K/Kapus játék\|kapus játék]]ok) kellett a "consensus"-t, az egyetértést kimondani (a házasságkötőknek), akkor arra utal, hogy a kapu képezi az átmenetet az egyik életszakasz és a másik között: a házasság (lásd róla [[N/Nász\|nász]] és [[L/Lakodalom\|lakodalom]]) a középső életszakasz a születés és halál között.  
+Az átmenet itt egy fontos szó. Falvay Károly Nagyboldogasszony című könyvének 396. oldalán amikor azt mondja, hogy hazánkban is korábban a templom kapujában (v. ö. [[K/Kapus játék\|kapus játék]]ok) kellett a "consensus"-t, az egyetértést kimondani (a házasságkötőknek), akkor arra utal, hogy a kapu képezi az átmenetet az egyik életszakasz és a másik között: a házasság (lásd róla [[N/Nász\|nász]] és [[L/Lakodalom\|lakodalom]]) a középső életszakasz a születés és halál között.  
 —  
-Falvay Károly Nagyboldogasszony című könyvének 234. oldalán írja ([[P/Phallic\|phallic]] címnél is szerepelt):  
+Falvay Károly Nagyboldogasszony című könyvének 234. oldalán írja ([[P/Phallic\|phallic]] címnél is szerepelt):  
 Egészen az 1500-as évekig a házasulandó felek az egyezséget egész Európában a templom kapujában kellett kimondják.  
 Azt nem mondja, hogy ez utalás lenne a szűz/menyasszony [[V/Vulva\|vulvá]]jára. Egyébként a latin-angol [[V/Vestibule\|vestibule]] szónak is van ilyen (anatómiai szakszóként is jelenlévő) értelme.  
 
