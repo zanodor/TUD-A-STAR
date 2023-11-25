@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Medve/","title":"Medve","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T05:41","updated":"2023-11-11T03:09"}
+{"dg-publish":true,"permalink":"/M/Medve/","title":"Medve","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T05:41","updated":"2023-11-25T01:09"}
 ---
 
 
@@ -55,11 +55,11 @@ A medve-kultuszról, arról, hogy egyes népek totemőse a medve...
 
 #### Varga Zsigmond Az ősmagyar mitológia...
 
-...című könyvének 207-208. oldalán ír. Némi medve adatot (a magyar szó hivatalos etymologiájával is) lásd még a 209. oldalon is, de még a 210. oldalon is szól róla.  
+...című könyvének 207-208. oldalán ír. Némi medve adatot (a magyar szó hivatalos etimológiájával is) lásd még a 209. oldalon is, de még a 210. oldalon is szól róla.  
 Majd a 212. oldalon:  
 > A medve Közép- és Észak-Szibériában nemcsak a legrettegettebb és legnagyobb erejű vadállat, hanem születésénél, okosságánál és részrehajthatatlanságánál fogva az isteni igazságosság őre is. Ezért esküsznek a szamojédok, a vogulok és az osztjákok a medve bőrére. Talán innen ered kissé átalakítva, a magyar közmondás: nem inni a medve bőrére, mielőtt az elejtve nincs.  
 
-Kátay-Barba Rafael Péter Kynologia című írásában szerepel:  
+Kátay-Barba Rafael Péter Kynologia című írásában szerepel:  
 > Az emberré válás hosszú útján számos állatfajt tartottak őseink, melyekből soha nem lett háziállat. Kezdődik a történet a barlangi medvével, melynek elejtését követően a megmaradt kicsinyeket a barlang egy elrekesztett zugában vagy veremben nevelik, hizlalják, hogy végül rituális szertartás keretében elfogyasszák. A táplálást, mint később más állatok kicsinyei esetében is, kezdetben az asszonyok szoptatás útján oldják meg.  
 
 Falvay Károly Nagyboldogasszony című könyvének 297. oldalán a legnagyobb erejű állatok kapcsán azt írja, hogy tulajdonképpen ami északon a medve, az délen az oroszlán és hogy mindkettő kötődne [[A/Artemisz\|Artemisz]]hoz is. [[U/Ursa Maior\|Nagy Medve csillagkép]] és [[O/Oroszlán\|oroszlán]] címnél volt szó arról, hogy a medve nevei inkább az oroszlán névalakjára emlékeztetnek.  
