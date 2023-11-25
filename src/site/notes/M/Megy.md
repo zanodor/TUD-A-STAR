@@ -1,22 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megy/"}
+{"dg-publish":true,"permalink":"/M/Megy/","title":"Megy","tags":["dg_uploaded"],"created":"2023-10-20T07:14","updated":"2023-11-25T01:44"}
 ---
-
----
-title: Megy
-aliases:
-  - megy
-tags:
-  - formatted🟢
-share: true
-dg-publish: true
-dg-created: 2023-10-20T07:14
-dg-updated: 2023-10-20T07:14
-dg_upload_status: 🟢
-date created: 2022-12-14
-date modified: 2023-08-05
----
-
 
 
 # Megy
@@ -29,7 +13,7 @@ Falvay Károly Nagyboldogasszony c. könyvének 409. oldalán ismét kitér a t
 
 Korábban azt gondoltam, hogy a Mag/Or névnek megfelelő megy forma kivételes eset, de nem, hiszen van > [[V/Vagy\|vagy]]/ok szintén N>GY változásos. Persze ettől még lehetséges, hogy a Mag/Or volt a prototípus: az adta a megy formát, majd hasonlóan a vagy is létrejött.  
 
-Egyébiránt régen ő mén, men alak is elfogadható volt (például a maya nyelvben is `man`). [[M/Men\|Men]] címnél azóta a Hold járásával és a menny forgásával kapcsolatosan is szóltunk.  
+Egyébiránt régen ő mén, men alak is elfogadható volt (például a maja nyelvben is `man`). [[M/Men\|Men]] címnél azóta a Hold járásával és a menny forgásával kapcsolatosan is szóltunk.  
 
 Dr. Lónay Gyula a [[M/Madár\|madár]] (mely nála a Föld és a Nap közötti teremtmény) szóhoz hasonlóan elemzi a megy igét: a kiinduló pont és a cél között mozog. Nem tudja persze, hogy a menés körmozgás és a kiindulónak tekinthető [[M/MAG\|MAG]] is lehet kör értelmű.  
 
