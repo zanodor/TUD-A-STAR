@@ -5,7 +5,7 @@
 
 # Epiphany
 
-A dolgok mibenléte felfededézének pillanata.  
+A dolgok mibenléte felfedezésének pillanata.  
 
 #### Falvay Károly Nagyboldogasszony...
 
@@ -14,7 +14,7 @@ A dolgok mibenléte felfededézének pillanata.
   
 > A későbbiek során engedett fel a barlang körül lévő titkolódzás. Ez ott a (a feltehetően korábbi aranyló méhsör folyam után) a "borcsoda" volt; a barlangból (a pincéből) ezen a napon fénylő vérszínű borfolyam indult el – a vörösbor erjedés tisztulási folyamata ekkor fejeződött be –, s ez az esemény egyúttal az [[U/Újév\|újév]] első napjának ünnepe is volt. Innen a neve: "`epiphania`". A letisztult, csillogó vörös színű bor a természet erőinek (vérének) isteni kiáradását testesítette meg. A bor mámorító (átváltoztató) ital, a mámor mennyei (nem emberi, hanem isteni) állapotát idézi elő (vö. a keresztény mise kenyér-, és bor-áldozatát, ami Krisztus megszentelt áldozata, emléke következtében a hívek bűnös állapotát átváltoztatja).  
 
-A helyzet az, hogy a szó semmiképpen sem jelent kiáradást. A görög `epiphainein` = kb. ráfényel jelentésű[^1]. Éppen a január 6-i dátum és az [[U/Újév\|újév]] az, mely felkelti érdeklődésünket a [[S/Szíriusz\|Szíriusz]] megjelenése kapcsán. FK folytatásában szó is esik róla:  
+A helyzet az, hogy a szó semmiképpen sem jelent kiáradást. A görög `epiphainein` = kb. "ráfényel" jelentésű[^1]. Éppen a január 6-i dátum és az [[U/Újév\|újév]] az, mely felkelti érdeklődésünket a [[S/Szíriusz\|Szíriusz]] megjelenése kapcsán. FK folytatásában szó is esik róla:  
 > Kerényi ismerte a borkészítés korábbi: mézsör erjesztési előzményét is, s az ezzel összefüggő egyiptomi történetet a "négy méztolvaj"-ról. E történet fényösszefüggéseinek kalendáriumi párhuzama után kutatva ismerte föl a korábbi egyiptomi mézsör és Kisázsiában, majd a görögöknél is a mézet felváltó borerjesztés kalendáriumi kapcsolatát. (A mézital készítés Egyiptomban eredetileg a [[S/Szíriusz\|Szíriusz]] csillag felkelésével volt összefüggésben.)  
 - Ott volt is egy ilyen adatom.  
 
