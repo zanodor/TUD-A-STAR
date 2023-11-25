@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-04T01:59","updated":"2023-11-23T12:08"}
+{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-04T01:59","updated":"2023-11-25T11:25"}
 ---
 
 
@@ -108,7 +108,7 @@ A képet újabb gondolatokkal [[L/LÁB\|láb]], [[H/Harmony\|harmony]] és [[O/O
 ...című könyvének 154-155. oldalán elemzi a mellékelt képen látható sámándobot (a jobb-bal Hold-Nap leosztás miatt [[B/Bal és jobb\|bal és jobb]] címhez is bekerült; az alsó három pötty nyilván nem az [[O/Orion övcsillagai\|Orion övcsillagai]]ra utal, hiszen a [[H/Ház\|ház]] leginkább az itt, ezen címnél is taglalt méh, Orionnal szemben; az MVJ által aposztrofált "ősök háza" szintén érdekes kifejezés):  
 > A sámándobon (212. ábra) az emberről homlokát szellemet idéző madár ékesíti, az alsó világra a láb terpesze utal, belső terében, az "ősök házában" három "mag"-karika folytatja a gerinc útját. A "kar" kettős szerkezetű: a felső szalagsugaras, az alsó boltozatos holdívű. A dob-mezőn az emberalak jobbja felől, a Hold "birtokán" csillagképek, lefele sugárzó fenyő, s állatalakok idézik a Hold erejét; balja felől, a Nap "országában" csillagképek, a sámán lova: Nap-dob karika, s az emberkettős képviseli a Nap erejét.  
 
-#### Falvay Károly Nagyboldogasszony...
+#### Falvay Károly Nagyboldogasszony...
 
 ...című könyvének 240. oldalán írja hídlábakról:  
 > Milyen misztikus és mégis természeti tulajdonságot rejt a "Miből lesz a híd lába?" kérdés? Ma már a néprajzosok közül is csak kevesek előtt ismert a válasz értelme: "Bürökből és bodzából, Cigányaszszony kontyából." A bodzafa ága hártyás belsejéből készítették régen a falusi gyerekek a bodzafapuskát. A bodzafaág belsejének hártyás részét kitolva készült el maga a puskacső. Ebből származik a hídláb "eltörése" (**a test hídtörzse két oszloplábon áll**), és a benne esett hiba rendbe hozásának az ötlete bürökből, bodzából, sóska káposztából (káposzta torzsából). A két láb, a két szimbolikus oszlopköze ismert más kultúrákból is. Az első jeruzsálemi templom bejárata előtt is már vasoszlopokként ott álltak, (semmiféle terhet nem tartottak) de ismertek kőből rakottan a kínai temetők bejárata előtt is. (A közöttük kijövő és bemenő ember képzete azonos az újjászületés és meghalás képzetével.)  
