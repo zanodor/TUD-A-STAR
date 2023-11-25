@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kacsa/","title":"Kacsa","tags":["dg_uploaded"],"created":"2023-11-14T05:43","updated":"2023-11-14T05:43"}
+{"dg-publish":true,"permalink":"/K/Kacsa/","title":"Kacsa","tags":["dg_uploaded"],"created":"2023-11-14T05:43","updated":"2023-11-25T11:14"}
 ---
 
 
@@ -26,7 +26,7 @@ Egy másik fontos madár, mely egylábon állásával és a hozzá köthető for
 
 ## Kis kacsa fürdik
 
-#### Falvay Károly Nagyboldogasszony...  
+#### Falvay Károly Nagyboldogasszony...  
 
 ...című könyvének 228. oldalán az énekes leányjátékok egyes változatairól szól. Amit ír:  
 > A rózsa közismerten leányszimbólum. Bár közismertnek gondoljuk, a kifejezés körültekintő megismerésére a későbbiekben vissza kell térjünk. Feltételezzük: a rózsa, "récze", "rucza", "kis kacsa", - azaz a menyasszony –, \[más változatában úgy is\] mint angyal, a vőlegényhez készül, Lengyel Lászlóhoz, a vőlegényes házba, Lengyelországba. Azaz a "kacsa" szó a szövegben annak "rucza" változatán át a rózsa szó elhomályosulásából (vagy tudatos elhomályosításából), az évszázadok alatt alakult át, lett "félreértett" változat.  
