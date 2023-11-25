@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2023-11-23T12:10"}
+{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2023-11-25T11:28"}
 ---
 
 
@@ -47,7 +47,7 @@ Az Ősi Gyökér 2012/2-4. sz. megjelent A Szent Korona és a lemniszkáta cím�
 > ...  
 > \[A királyné derékig földbe ásottsága\] pontosan kifejezi a Szíriusz égi magatartását, fél évig láthatatlan, de január 1-én teljes fénnyel ragyog és uralkodik a csillagok felett. Aztán július 1-én reggel együtt kel fel a nappal a horizont legalsó rétegében. Ettől kezdve emelkedik újra felfelé, hogy január 1-én az égbolt tetejére érjen és újra találkozzék férjével az Orionnal \[ergo ez az ő **boldog** állapota\].  
 
-#### Gyárfás Ágnes a Fordulat – Hitvilág, mítoszok, legendák...
+#### Gyárfás Ágnes a Fordulat – Hitvilág, mítoszok, legendák...
 
 ...című, a PDF 53. oldalától szereplő Lugal Geme nagy Urasszony ki Mada című írásában is kitér arra, miért fontos a január 1.-i dátum:  
 > A másik nyilas, az Orion, a fiatal király, a téridő reprezentánsa. Erdei tündér felesége a legszebb csillag, a Szíriusz, sorsszerűen együtt él vele, később vonul fel mellé az égboltozat közepére 10 nappal, január elsején.  
@@ -87,7 +87,7 @@ Amikor az első században élő/író(?) Manilius [[O/Orion\|Orion]] vezérség
 
 Még mindig a Szíriusz újévvel való kapcsolatáról van szó [[E/Epiphany\|epiphany]] címnél írottak szerint is (ott bővebben szerepelt):  
 
-#### Falvay Károly Nagyboldogasszony...  
+#### Falvay Károly Nagyboldogasszony...  
 
 ...című könyvének 114-115. oldalán oldalán Kerényi Károly adatait osztja meg:  
 > A görög évkezdő fény-ünnepnap mögött Zeusz Ida-hegyi barlangcsodája van. (Január 6.: Epiphania – "kiáradás", amit az első évszázadokban a keresztény egyház Krisztus születési napjaként ünnepelt.) Ehhez a tüneményhez kezdetben szigorúan titkos rítus tartozott, csak nagyon kevesek vehettek rajta részt. Zeuszt ugyanis Kronosz bosszúja elől ebbe a barlangba mentette Héra (egyik változatban). Itt Melisszusz király lányai [[A/Amalthea\|Amalthea]] és Melissza táplálták a gyermeket. Melissza mézzel, mert a neve méhet jelent. Olyan történet is volt, melyben méhek voltak Zeusz dajkái. Sőt, meséltek Krétán egy szent "méhbarlangról" is, amelyben [[R/Rhea\|Rhea]] Zeuszt szülte.  
