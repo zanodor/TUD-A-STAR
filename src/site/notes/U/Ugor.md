@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Ugor/","title":"Ugor","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-20T09:42","updated":"2023-11-10T06:07"}
+{"dg-publish":true,"permalink":"/U/Ugor/","title":"Ugor","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-20T09:42","updated":"2023-11-25T11:28"}
 ---
 
 
@@ -110,7 +110,7 @@ Czeglédi Katalin Magyar-török nyelvviszony című az Ősi Gyökér 2012/2-4. 
 
 Azt MA Ősműveltségéből is tudjuk, hogy nedvesség mindig nőiség. Ezért lehet az, hogy...
 
-#### Zentai Ákos Méd kulcs őstörténetünk megfejtéséhez...
+#### Zentai Ákos Méd kulcs őstörténetünk megfejtéséhez...
 
 ...című cikkében magyar alakú (azaz Magyar Ilonára, a Tejútra utaló) szavakat talált más nyelveken nedves jelentéssel (ő a méz fogalmából indul ki; tökéletes találat, hiszen [[H/Hímség és nőiség\|hímség és nőiség]] címnél is levezettük, milyen szavak hímségiek és nőiségiek; [[N/Nether\|nether]] címnél is volt szó erről):  
 > A méz med változata az eredete az édes italnak a nedünek és ennek érezhető formája, ha valami nedves. Nagyon érdekes, hogy ebben a görög, balti és szláv nyelveken újabb visszaigazolást kapunk. A nedves délszláv nyelveken \[[[Magyar\|magyar]] névvel azonosan; betéve oda is\] `mokar`, bolgárul `mokür`, lengyelül `mokro`, csehül, szlovákul `mokry`, észtül `marg`, finnül `marka` és **görögül ugrosz**. Ez mind a makar, magar népre utal. A görög ugrosz \[valóban, ellenőriztem: ezt jelenti `ugrósz`\] is a magyarokra használt kifejezés.  
