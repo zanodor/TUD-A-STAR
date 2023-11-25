@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Labyrinth/","title":"Labyrinth","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-22T03:46","updated":"2023-10-29T02:40"}
+{"dg-publish":true,"permalink":"/L/Labyrinth/","title":"Labyrinth","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-22T03:46","updated":"2023-11-25T11:15"}
 ---
 
 
@@ -7,8 +7,9 @@
 
 Labirintus, útvesztő.  
 
-#### Paksi Zoltán adata lehetett:
+#### Paksi Zoltán...
 
+...adata lehetett:  
 > Kréta szigetén volt legjelentősebb a bikakultusz. Minosz fiát a marathoni síkon egy bika gázolja halálra, sőt felesége egy bikával csalja meg! Ebből a nászból születik a félig bika, félig embertestű lény, a Minotaurusz. Minosz szégyenében egy labirintust építtet, s ebbe zárja a szörnyet. Ám minden kilencedik évben hét fiút és hét leányt áldoz a Minotaurusznak. Végül Thészeusz győzi le a bikát, és talál ki a labirintusból Ariadné segítségével. De miről is szól a hősi küzdelem? A szörny bika a bennünk lakozó lehúzó erő, melyre rátalálva, majd azt legyőzve találhatunk ki a labirintusból, vagyis a földi élet csapdákkal teli világából! A bika ugyanakkor más üzenetet is hordoz, hiszen maga Zeusz is megjelenik bika képében! Tehát a legmagasabb teremtő erő lehetősége is benne rejlik! Ne feledjük, hogy az égbolt minden csillagzata bennünk is megvan, így a Taurus stáció lehetőségei és feladatai nálunk is megjelennek! Tekintsünk az égre, és nézzük meg, hogy mit is szimbolizál ez az égi kép!  
 
 #### Magyar Adorján írja:  
@@ -18,7 +19,7 @@ Labirintus, útvesztő.
 
 #### Péterfai János...
 
-...egyenesen lábérintős szót hoz (ami viszont az alanti infokkal nem egyeztethető össze):  
+...egyenesen lábérintős szót hoz (ami viszont az alanti infókkal nem egyeztethető össze):  
 > Egy másik mítosz szerint évi adó fejében szüzeket és ifjakat kellett küldeni Minósznak, aki a megérkezett szűzeket és ifjakat a Labirinthusba vetette. A Labirinthus sok részből álló palota, ahol a szüzek és ifjak eltévedhettek. A mítosz nem veszi figyelembe a Labirinthus Lábérintős jelentését, egyiptomi előfordulását, és ősmagyar nyelvűségét. Ettől függetlenül a Labirinthus az egyiptomi és krétai civilizáció jellegzetessége. Ha növényekből alkotnak labirinthust, akkor nem szabad a növényeken áthatolni játék közben, mivel csak lábbal lehet érinteni a talajt.  
 
 Úgy tűnik, PJI nem számol azzal, hogy itt az emberi belekhez hasonlíttatott [[A/Anyaméh\|anyaméh]]ről[^1], az abba való behatolásról, azaz szexuális szimbolikáról van szó. Arról másutt is volt szó, hogy a [[L/LÁB\|láb]] – mint "harmadik láb" – ezen kontextusokban a \[Napot nemző Napatya – mint [[A/Apam Napat\|Apam Napat]]\] hímvesszőjét jelképezi, sőt, új, [[L/Labia\|labia]] címnél álló adat alapján a női nemi szervre is utalhat!  
@@ -71,7 +72,7 @@ Egyiptomi párhuzamát a jelnek lásd [[M/Magor\|Magor]], ahol több Gyárfás f
 > A templomot nagyfokú egységességgel tervezték az egész Közel-Keleten, amely ma már felismerhetően az anyaméh mikrokozmoszának tekinthető. Három részre volt osztva: a Bejárat, amely a hüvely alsó végét jelképezte a szűzhártyáig, vagyis a Fátyolig; a Csarnok, vagyis maga a hüvely; és a belső szentély, vagyis a Szentek Szentje, a méh. A pap, pénisznek öltözve, különböző nedvekkel és gyantákkal felkenve, amelyek az isteni ondót jelképezik, belép a Bejárat ajtaján, **a méh "szeméremajkán" keresztül**, a Fátyolon vagy "szűzhártyán" át, és így a Csarnokba.  { #dgfln7}
 
 
-Hasonló téma jön elő Falvay Károly Nagyboldogasszony c. k. 234. oldalán, ahol írja:  
+Hasonló téma jön elő Falvay Károly Nagyboldogasszony c. k. 234. oldalán, ahol írja:  
 > Egészen az 1500-as évekig a házasulandó felek az egyezséget egész Európában a templom kapujában kellett kimondják.  
 
 Azt nem mondja, hogy ez utalás lenne a szűz/menyasszony [[V/Vulva\|vulvá]]jára. Egyénként a latin-angol [[V/Vestibule\|vestibule]] szónak is van ilyen (anatómiai szakszóként is jelenlévő) értelme.  
