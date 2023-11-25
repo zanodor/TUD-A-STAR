@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Ízisz/","title":"Ízisz","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-15T04:40","updated":"2023-11-15T04:40"}
+{"dg-publish":true,"permalink":"/I/Ízisz/","title":"Ízisz","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-15T04:40","updated":"2023-11-25T11:13"}
 ---
 
 
@@ -12,7 +12,7 @@ Várkonyi Nándornál előjön az egyiptomi **Eszit** névváltozat, mely tartal
 #### Baráth Tibor Magyar istennevek a régi Egyiptomban...
 
 ...című cikkében ahogy [[O/Ozirisz\|Osiris]] neve kapcsán is, elmondja, hogy nem a görög névváltozattal kell foglalkozni:  
-> Az irodalomban Ősúr élettársának nevét is görögös formában használják (ISIS), ami tudománytalan eljárás, mert elfedi az egyiptomi valóságot, így a forrásokat kell megnéznünk, magukat a hieroglifeket, azok irányítsanak bennünket. Azok szerint Isis egyiptomi magyar neve ES-T-ASz-ON: Est Asszony, a szerelem istennőjének egyik változata. Budge professzor bevallja, hogy a szóbanforgó nevek egyikének sem tudja megállapítani etimológiáját (II. 202).  
+> Az irodalomban Ősúr élettársának nevét is görögös formában használják (ISIS), ami tudománytalan eljárás, mert elfedi az egyiptomi valóságot, így a forrásokat kell megnéznünk, magukat a hieroglifeket, azok irányítsanak bennünket. Azok szerint Isis egyiptomi magyar neve ES-T-ASz-ON: Est Asszony, a szerelem istennőjének egyik változata. Budge professzor bevallja, hogy a szóban forgó nevek egyikének sem tudja megállapítani etimológiáját (II. 202).  
 
 Greg Rigby The God Secret című könyvében As-t és Aset formában is látom leírva (ugye az egyiptológusok [[E/E\|E]]-betűkkel töltötték fel a magánhangzók helyét). Ez már az [[A/Ász\|Ász]], [[O/Ős\|ős]], [[O/Őz\|őz]] neveket idézi.  
 Lásd még témát lejjebb.  
@@ -114,7 +114,7 @@ Ami még a [[S/SZÉK\|SZÉK]] és [[S/Seat\|seat]] szavakat illeti, mindkettő c
 
 A Szíriusz az [[I/Íj csillagkép\|Íj csillagkép]] alkotója. Istár kapcsán is szóba jött a Ban ([[M/Mul.Pan\|Mul.Ban]]) csillagkép.  
 ![assets/Ízisz_image7.jpeg](/img/user/I/assets/%C3%8Dzisz_image7.jpeg)  
-Ezek után nem meglepő, hogy Greg Rigby The God Secret című könyvének 91. oldalán nyílvesszős ábrázolásokat találunk hieroglif jelében (melyeket GR és forrása helytelenül hajnalra utaló napsugár-motívumnak tart) (ezen jeleket sehol sem találtam a neten \[azért kerestem, mert nem írja ki, hogy Goddess alatt Íziszt vagy esetleges a korábbi passzusban szintén szóba hozott [[N/Nephthys\|Nephthys]]t érti alatta\]).  
+Ezek után nem meglepő, hogy Greg Rigby The God Secret című könyvének 91. oldalán nyílvesszős ábrázolásokat találunk hieroglif jelében (melyeket GR és forrása helytelenül hajnalra utaló napsugár-motívumnak tart) (ezen jeleket sehol sem találtam a neten; azért kerestem, mert nem írja ki, hogy Goddess alatt Íziszt vagy esetleges a korábbi passzusban szintén szóba hozott [[N/Nephthys\|Nephthys]]t érti alatta).  
   
 
 ## Ízisz és Hórusz
@@ -138,7 +138,7 @@ Bakos Attila A Duna Evangéliuma című könyvének 262. oldalán ír róluk, ar
 
 Két ízben találkozhatunk Ozirisz phallosszával Ízisz történetében. Először még a Széth általi feldarabolás előtt, majd után.  
 ![assets/Ízisz_image8.png](/img/user/I/assets/%C3%8Dzisz_image8.png)  
-Falvay Károly Nagyboldogasszony című könyvének 277-278. oldalán az egész történetet elmeséli. Az előzményt ismerjük: Széth koporsóba fekteti Oziriszt, a Nílusra ereszti, majd Ízisz megtalálja. \[...\] Itt a történetek több változatot is ismernek. Egyik változatban, amikor az oszlopot fecskeként körülrepkedte, már akkor elképzelte magának az Ozirisztól születű fiát Hóruszt. Más változatban sasként a fekvő Ozirisz fölé repült, s az élő magjával megtermékenyítette őt stb. Ez utóbbi jelenetet számos domborművön megörökítették. (A madáristennők a korai neolitikumból még sokáig élők maradtak, [[E/Emese\|Emese]] és a Turul történetét mindannyian ismerjük).  
+Falvay Károly Nagyboldogasszony című könyvének 277-278. oldalán az egész történetet elmeséli. Az előzményt ismerjük: Széth koporsóba fekteti Oziriszt, a Nílusra ereszti, majd Ízisz megtalálja. \[...\] Itt a történetek több változatot is ismernek. Egyik változatban, amikor az oszlopot fecskeként körülrepkedte, már akkor elképzelte magának az Ozirisztól születű fiát Hóruszt. Más változatban sasként a fekvő Ozirisz fölé repült, s az élő magjával megtermékenyítette őt stb. Ez utóbbi jelenetet számos domborművön megörökítették. (A madáristennők a korai neolitikumból még sokáig élők maradtak, [[E/Emese\|Emese]] és a Turul történetét mindannyian ismerjük).  
 Isis itt a Nílus deltájának ingoványaiban elrejtette a koporsót mert Butóba kellett menjen, hogy fiát Hóruszt megszülhesse.  
 Ugyanebben az időben Séth a telihold fényében vadászaton volt. Vaddisznókra vadászott. A telihold fényében ráakadt a nádak között Ozirisz koporsójára. 14 darabra törte szét Ozirisz testét és szétszórta őket az egész Felső-, és Alsó-Egyiptomban. Mindeniket különböző helyen. Ozirisz phalloszát pedig bedobta a Nílusba. \[Magyarán azt is levágta: ezért a 14 és nem 13 darab.\] \[Ezen téma lehetséges téridőbeli jelentősége miatt bekerült [[S/Szűz csillagkép\|Szűz csillagkép]] címhez, külön egyiptomi vadkanos alcím alá.\]  
 Amikor Isis ezt megtudta, újra kutatni kezdett férje után, vitorlázva a nádból készült hajóval, a mocsarakon keresztül. Ekkor [[N/Nephthys\|Nephthys]], a gonosz Séth felesége segítette őt, ugyanígy Anubisz, a félelmetes, aki sakálfejű volt. A sólyomfejű kis Hórusz már elég idős volt, hogy szintén segítsen neki. Ezek Thothhoz, a Holdistenhez csatlakoztak, akinek íbiszfeje volt és tudott majomfejű \[páviánistenként neve [[A/Astennu\|Astennu]]\] is lenni. Ezek együtt összeszedték Oziris minden darabját, kivéve a phalloszát, mert azt, amikor Séth bedobta a Nílusba egy hal bekapta. \[A [[H/HAL\|hal]] női és férfi szemérem szimbólum is, de itt nem ez a lényeg; lásd lejjebb.\]  
