@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Joukahainen/","title":"Joukahainen","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-15T02:46","updated":"2023-11-10T10:47"}
+{"dg-publish":true,"permalink":"/J/Joukahainen/","title":"Joukahainen","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-15T02:46","updated":"2023-11-25T01:09"}
 ---
 
 
@@ -25,7 +25,7 @@ A (magyar fordítású) Hamlet Malma 137. és 154. oldalán a szerzők alsóbbre
 > Az [[O/Öv\|öv]]nek a szerves műveltségben mágikus szerepet tulajdonítanak. Az ural-altáji népek sámánjai a felső világ szellemével való kapcsolatteremtés eszközeként – dob híján dobként is használták. Amikor a Kalevalában Väinämöinen Joukahainent párviadalban a földbe dalolja derékig, annak "derekáról gyapjú övét / föl az égre csillagokká" varázsolja.  
 - A [[F/Fehérlófia\|Fehérlófia]] küzdelmi jelenetéhez hasonló. Nyilvánvaló, hogy Orion övét kell itt is látni.  
 
-A név etymologiája kapcsán [ezen](https://www.nordicnames.de/wiki/Joukahainen) oldalon ennyi áll:  
+A név etimológiája kapcsán [ezen](https://www.nordicnames.de/wiki/Joukahainen) oldalon ennyi áll:  
 > Finnish name from the Kalevala of uncertain etymology. Suggestions are:  
 > (1) Finnish `joukea` = 'tall';  
 > (2) Sami word `jouku` which is associated with snow and ice;  
