@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Ilmatar/","title":"Ilmatar","tags":["dg_uploaded"],"created":"2023-10-10T03:40","updated":"2023-10-25T01:37"}
+{"dg-publish":true,"permalink":"/I/Ilmatar/","title":"Ilmatar","tags":["dg_uploaded"],"created":"2023-10-10T03:40","updated":"2023-11-25T10:48"}
 ---
 
 
@@ -40,7 +40,7 @@ A történetben szerepel a tenger (na de melyik – igen furcsa, hogy nem jötte
 Magyar Adorján írja:  
 A finn Kalevalában Ilma istennő a tenger színén ringatózva úszik, hánykolódik. Szüzességét megunva [[U/Ukkó\|Ukkó]]t, a főistent hívja, aki kacsa képében megjelenik és az istennő térdére teszi le tojását, amelyből azután a napisten, vagyis [[V/Väinämöinen\|Väinämöinen]], azaz a finnek nemzeti istene kel ki.  
 —  
-Lásd még megjegyzésem Falvay Károly Nagyboldogasszony című könyvének 97. oldalán.  
+Lásd még megjegyzésem Falvay Károly Nagyboldogasszony című könyvének 97. oldalán.  
 
 [^2]: Lábjegyzet:  
 Ilma a vogulban `elem` alakú. A lég valóban egy elem(entál), de ez csak véletlen egyezés.  

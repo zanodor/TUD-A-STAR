@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Alvilág/","title":"Alvilág","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-10-22T03:43","updated":"2023-10-27T12:40"}
+{"dg-publish":true,"permalink":"/A/Alvilág/","title":"Alvilág","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-10-22T03:43","updated":"2023-11-25T10:01"}
 ---
 
 
@@ -77,7 +77,7 @@ Szintén Jankovics Marcelltől való:
 
 [[E/Ég és föld\|Ég és föld]] címnél is szerepelt PJI írása:  
 > Ipolyi Arnold, a legnagyobb mitológiai kutatónk, még megemlíti a Dör-Ög szót, így, kettéválasztva. A Dörög az égbolt neve, ahová a lelkek távoznak a Földről, tehát nem idegen az ördög fogalmától. Az égbolt is fekete, az Alvilág szintén fekete és tüzes, ahonnan a láva tör elő. A Felvilág és Alvilág szoros összeköttetésben van.  
-- Melyre jó példa Falvay Károly Nagyboldogasszony c. könyvének 68. oldalán szereplő sámános rajz is.
+- Melyre jó példa Falvay Károly Nagyboldogasszony c. könyvének 68. oldalán szereplő sámános rajz is.
 
 A [[G/Gödör\|gödör]] (kút[^2]; lásd diagramot [[K/Kut\|kut]]) is meglehet felül is (lásd [[P/PIT\|PIT]]), nemcsak alul.  
 
@@ -89,17 +89,18 @@ Berze Nagy János Égigérő fájában írja:
 > A föld köldökét jelentő kutak, gödrök, lyukak népmeséinkben az Alvilág lejáratát jelentik, s az ázsiai népek hitvilágának jellemzői.  
 - Lásd még [[K/Kutha\|Kutha]] címnél írottakat.  
 
-Még az alvilág/másvilág kapcsán ide tehető Falvay Károly Nagyboldogasszony című könyvéből ([[M/Men#Menny és ég\|menny és ég]] címnél is szerepelt):  
+Még az alvilág/másvilág kapcsán ide tehető Falvay Károly Nagyboldogasszony című könyvéből ([[M/Men#Menny és ég\|menny és ég]] címnél is szerepelt):  
 > A menny tehát térben felső fogalom, mint a mennyboltozat fölötti világ, ami valahol a sötétség fölött, a "föld fölött", a csillagok boltozata fölötti térben vagy éppen az alvilágban van. A kiskert ugyanis félreérthetedenül az Éden, a gyönyörök kertje, ahol a Boldogasszony méze, az istenek eledele "terem" a "kiskertjében". A menny és a föld fogalom közös egységében más nézetben az ismeretlen "más-világ" és az ismert világ egysége is megmutatkozik. Ez az egység a más-világban működő ősök, és az élők világának egysége.  
 
-Az alvilág, felvilág, másvilág (és másik/párhuzamos) világ kapcsán kellene írni egy összefoglalót, vagy ha már megtette más, megtalálni. [[A/Annwfn\|Annwfn]] és [[D/Duat\|duat]] címnél már volt hasonlókról szó. [[S/Sheol\|Sheol]] véleményem szerint nem sehol, mert ha az lenne, nem az alvilág lenne.  
+Az alvilág, felvilág, másvilág (és másik/párhuzamos) világ kapcsán kellene írni egy összefoglalót, vagy ha már megtette más, megtalálni. [[A/Annwfn\|Annwfn]] és [[D/Duat\|duat]] címnél már volt hasonlókról szó. 
+[[S/Sheol\|Sheol]] véleményem szerint nem sehol, mert ha az lenne, nem az alvilág lenne.  
 
 Varga Zsigmond Az ősmagyar mitológia című könyvének 113. oldalán ír az ősi alvilágképzetekről.  
 
 [[A/Asphodel\|Asphodel]] címnél esett szó a görög alvilág hármas felosztásáról:  
 A mitológiai alvilág hármas beosztásában, amelyben a Tartarosz és az Elízium a két véglet, az aszphodéloszmezőkre a földi életben a jó és rossz között ingadozó lelkek kerülnek.  
 
-[[K/Kutya Európában\|Kutya Európában]] címnél szerepelt Kátay-Barba Rafael Péter Kynologia című írásának adata:  
+[[K/Kutya Európában\|Kutya Európában]] címnél szerepelt Kátay-Barba Rafael Péter Kynologia című írásának adata:  
 > Svintorog mitológiai és történelmi legendák kultúrhőse, herceg, aki az orosz évkönyvek és M. Stryjkowski krónikája szerint a XIII. században uralkodott a Litván Nagyhercegségben, Žemaitijában és az Orosz Fejedelemségben. Halála előtt, a hagyomány úgy tartja, maga rendelkezett, hogy a Vilnia (Vilna) és a Vilija folyók összefolyásánál kiemelkedő szirten égessék el fegyvereivel, lovával, sólymával, vadászkutyáival és kedvenc szolgájával együtt. Ezzel olyan különleges temetkezési hagyományt teremtett, mely lényegében kapcsolódik a pogány római szokásokhoz. Az elégetett sólyom, ló, kutya a **kozmosz három szférájá**nak meghatározója: ég, föld, alvilág.  
 
 Ugyanezt (sólyom helyett sas szerepel) megtaláljuk egy angol népi versikében...
@@ -108,6 +109,8 @@ Ugyanezt (sólyom helyett sas szerepel) megtaláljuk egy angol népi versikében
 
 ...című könyvének 268. oldaláról:  
 > The lives of three wattles, the life of a hound; The lives of three hounds, the life of a steed; The lives of three steeds, the life of a man; The lives of three men, the life of an eagle; The lives of three eagles, the life of a yew; The life of a yew, the length of a ridge; Seven ridges from Creation to Doom.  
+> —  
+> Három lovag élete, egy vadászkutya élete; Három vadászkutya élete, egy ló élete; Három paripa élete, egy ember élete; Három ember élete, egy sas élete; Három sas élete, egy tiszafa élete; A tiszafa élete, a gerinc hossza; Hét gerinc a teremtéstől a végzetig.  
 
 #### Bognár Ferenc Az Életfa csillag-gyökerei...
 
@@ -129,4 +132,4 @@ Why the cat, pig, and wolf were considered particularly sacred to the Moon-godde
 Nem nehéz kitalálni, hogy a macskát, a disznót és a farkast miért tartották különösen szentnek a Hold-istennő számára. A farkasok a Holdra üvöltenek, és hullahússal táplálkoznak, a szemük világít a sötétben, és erdős hegyekben járnak. A macskák szeme hasonlóan világít a sötétben, egerekkel táplálkoznak (a dögvész szimbóluma), nyíltan párzanak és hangtalanul járnak, termékenyek, de megeszik saját kicsinyeiket, és színük a holdhoz hasonlóan fehér, vöröses és fekete között változik. A disznók színe szintén a fehér, vöröses és fekete között változik, hullahússal táplálkoznak, termékenyek, de saját kicsinyeiket eszik, és agyaruk félhold alakú.  
 
 [^2]: Lábjegyzet:  
-Falvay Károly Nagyboldogasszony című könyvének 111. oldalán földlyuknak hívja a lejáratot.  
+Falvay Károly Nagyboldogasszony című könyvének 111. oldalán földlyuknak hívja a lejáratot.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Augusztus 15/","title":"Augusztus 15","tags":["dg_uploaded","containstransclusions"],"created":"2023-11-06T01:03","updated":"2023-11-06T01:03"}
+{"dg-publish":true,"permalink":"/A/Augusztus 15/","title":"Augusztus 15","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-06T01:03","updated":"2023-11-25T10:37"}
 ---
 
 
@@ -19,7 +19,7 @@
 > Boldogasszony népünk hitében: a Napbaöltözött Boldogasszony, vagy Nagyasszony ünnepe ismert. Az Érdy-kódex írja, hogy "Gellért tanácsának intéséből akkoron kele föl, hogy az Szűz Máriát ez Magyarországban Bódogasszonynak, avagy ez világnak nagyasszonyának hívnák. Szent István kerál es ez szegény országot Bódogasszony országának nevezé."  
 - Jankovics Marcell Jelkép-kalendárium című könyvének 226. oldalán bőséggel ír róla.  
 
-#### Falvay Károly Nagyboldogasszony...
+#### Falvay Károly Nagyboldogasszony...
 
 ...című könyvének 49-50. oldalain és 199. oldalától taglalja, majd a 372. oldalon előtörténetével is foglalkozik. Csak a végeredményt írom ide:  
 > Az ünnep napját hogyan ismerhették föl együttesen és egyszerre az ország lakosai? Erről a fontos és lényeges ismeretről hallgat a történettudomány.  
@@ -41,15 +41,15 @@ Ide kapcsolódik a kérdés, hogy miért hívta az évkezdő január hónapot a 
 [[S/Szűz csillagkép\|Szűz csillagkép]] címnél volt arról szó és erre megerősítést várok, hogy a [[H/Holdnaptár\|holdnaptár]]ak vagy legalábbis egy másik, szintén használatban levő liturgikus év vagy efféle kezdő jegye volt a Szűz. Könnyen lehet tehát, hogy a válasz a fentebbi kérdésre az, hogy a régi lunáris rendszerű naptárban az újév a Nagyboldogasszony napja volt a teliholddal (a szűz is éppen teljes, egész jelentésű és ez kapcsolódás lehet szavak értelmi szintjén is), majd az új naptárra való áttéréssel a hónap neve átvitetett. Ezt az infót kellene megtalálni valamely csillagászatot is alapul vevő, néprajzzal foglalkozó magyar kutatónktól.  
 [[B/Boldogasszony hava\|Boldogasszony hava]] címnél viszont arról volt szó legutóbb, hogy akár pont fordítva is lehetett.  
 
-Megjegyzés: Falvay Károly Nagyboldogasszony című könyvének 343. oldalán szerepel egy diagram, mely alapján (is) (utólag) azt gondolom, hogy a Nagyboldogasszony és a Boldogasszony megkülönböztetetendő. Azaz a januári hónapnév mégsem azonos a másik hónappal.  
+Megjegyzés: Falvay Károly Nagyboldogasszony című könyvének 343. oldalán szerepel egy diagram, mely alapján (is) (utólag) azt gondolom, hogy a Nagyboldogasszony és a Boldogasszony megkülönböztetetendő. Azaz a januári hónapnév mégsem azonos a másik hónappal.  
 Ugyanakkor az alábbi ortodox évkezdő dátum kapcsán írottak alapján mégis azt kell mondani, hogy a felvetésem helyes volt:  
-Falvay Károly Nagyboldogasszony című könyvének 379. oldalán írja:  
+Falvay Károly Nagyboldogasszony című könyvének 379. oldalán írja:  
 > **Az egyházi évet az ortodoxia szeptember 1-én kezdi**, ami szorosan kapcsolódik az ősi Szűz csillagjegy időszakához. Ezzel amellett bizonyít, hogy egyenes folytatója az antik asztrálmitológiai hagyományoknak. A római egyház elveti ezt a folyamatot, teljesen új eszmeiségű mitológiát és szakrális évkezdetet fogalmaz meg. (E mitológia átalakulása napjainkban is folytatódik. A november 21-i Mária napot az egyház október 11-ére tette át már az 1200-as években. Ilyen esemény például a negyedik Mária-főünnep, Szűz Mária Istenanya napja január 1-re \[**újév**!\] történt kijelölése az 1960-as évek első felében megtartott Vatikáni zsinat rendelkezéseiben.)  
 > A legújabb eset: a római egyházi megegyezési törekvése az ortodoxiának megfelelő évkezdés felmutatásával. Az új Mária ünnep a magyar hagyományokban megfelel a [[B/Boldogasszony hava\|Boldogasszony hava]] \[**január**\] évszázadokat átfogó gyakorlatának, melynek csak a folytatását ismerjük és korábbi évezredek gyakorlatát csak feltételezhetjük.  
 
 Ezen a ponton ne feledjük el, hogy Jankovics Marcell Jelkép-kalendárium című könyvében is szól arról, hogy volt idő, amikor az ókori Rómában **szeptember 1-jével kezdték az évet**. \[Ezen témát a nyilván lunáris naptárrendszerű évkezdetről [[S/Szűz csillagkép\|Szűz csillagkép]] címnél más kultúrák naptáraival és dátumaival bővebben körüljárjuk.\]  
 Még a témához köthető:  
-Falvay Károly Nagyboldogasszony című könyvének 372. oldalán a református lelkész Bod Pétert idézi:  
+Falvay Károly Nagyboldogasszony című könyvének 372. oldalán a református lelkész Bod Pétert idézi:  
 > Bod felteszi a kérdést: Miért nevezték Kisasszony havának az augusztus hónapot? "Bizonyos, hogy a Boldogságos Szűz Mária tisztességére, de mint hogy a Kisasszony napja a' jövő holnapban esik, ebben Nagy B. Asszony napja \[aug.15.\]; Mért nem nevezték Nagyasszony havának? Nem világos."  
 
 Mint látjuk, itt is vannak következetlenségek, melyek komoly fejtörést okoztak 250 éve is.  
@@ -86,7 +86,7 @@ A Nagy Kutyánál és Szíriusznál maradva, a kínai kultúrkörben a Kutyacsil
 
 
 </div></div>
-
+  
 
 Még mindig csillagászkodunk, amikor az alábbi [[S/Szeplőtelen fogantatás\|szeplőtelen fogantatás]] és [[K/Karácsony\|Karácsony]] címnél is szereplő passzust idézzük:  
 Acharia S (ki mintha nem értené a Tejútistennők szűzen szülésének okát) forrásul adja Szent Albertet (ki szerint, a [[S/Szeplőtelen fogantatás\|szeplőtelen fogantatás]] szűz-motívuma attól asztroteologikus, hogy december 25-én éjjel, a születéskor a [[S/Szűz csillagkép\|Szűz csillagkép]] felkel a horizonton, de itt számunkra a második adata az érdekes):  
@@ -95,7 +95,7 @@ Acharia S (ki mintha nem értené a Tejútistennők szűzen szülésének okát)
 > Ahogy Nagy Albert is elismerte, a szűzi születés motívuma asztrotheológiai eredetű, és az éjféli órára, december 25-re utal, amikor a Szűz csillagkép felkel a horizonton. Szűz Mária mennybevétele, amelyet a katolicizmusban augusztus 15-én ünnepelnek, a nyári nap fényességét jelképezi, amely eltakarja a Szűz csillagképet. Mária születése, amelyet szeptember 8-án ünnepelnek, akkor következik be, amikor a csillagkép ismét láthatóvá válik. Ilyeneket jelentenek ezek a "keresztény" motívumok és ünnepek, amit nyilván a katolikus klérus műveltebbjei is tudtak. Ezért a szűz, aki fogan és szülni fog, a Szűz, a fia pedig a Nap...  { #3hft9l}
 
 
-Falvay Károly Nagyboldogasszony című könyvének 382. oldalán is szól a [[S/Szűz csillagkép\|Szűz csillagkép]]ről; lásd még ott.  
+Falvay Károly Nagyboldogasszony című könyvének 382. oldalán is szól a [[S/Szűz csillagkép\|Szűz csillagkép]]ről; lásd még ott.  
 
 A telihold ünnepek matriarchális ünnepek voltak eredetileg, ez egyértelmű. Olyannyira igaz ez a kijelentés, hogy maga az [[I/Idő\|idő]] fogalma is az Istenanyához tartozik. Ezért van az, hogy az [[A/Annual\|annual]] címnél taglalt latin `annus` = év az anya/anyus szavunkból ered és vélhetően az ősanyát jelentő [[E/Edda\|Edda]] is [[I/Idő\|idő]] szavunkból ered, ahogy [[E/Éva\|Éva]] az [[E/Év\|év]] szavunkkal mutat kapcsolatot. És ha már augusztus 15., lásd legutóbb (a szintén idő szavunkból eredő) [[I/Idus\|idus]] címnél írottakat is.  
 
@@ -117,11 +117,11 @@ KT azt mondja, hogy Nagyboldogasszony napja a [[V/Vérszerződés\|vérszerződ�
 Viszont [ezen](https://en.wikipedia.org/wiki/Assumption_of_Mary) oldal szerint **1948-ban Magyarország megszüntette állami ünnepként való megünneplését**[^6]. Vajon miért?  
 
 Arról, hogy halála napján István Boldogasszonynak vagy Szűz Máriának ajánlotta fel az országot[^7], már másutt is volt szó. Én úgy gondoltam erre, hogy valójában ez azt jelenti, hogy mindig is [[B/Boldogasszony\|Boldogasszony]] azaz [[M/Magyar\|magyar]] (Ilona) országa volt Magyarország.  
-KT Turul és szarvas [című](https://youtu.be/VlJJdkm4AWE) YouTube-os előadás-sorozatának első részében 1:11:50-nél is jól mondja, hogy István azért ajánlotta fel, mert nem volt törvényes örököse, másrészt, mert annak adta vissza, akitől kapta. [[K/Korona\|Korona]] címnél is volt arról szó, hogy kit is illet elsődlegesen a korona. De oda ezt a [[T/Throne\|throne]] címnél is szereplő passzust is betettük (Falvay Károly Nagyboldogasszony, egykor az augusztusi telihold című 2005/3. sz. megjelent cikkében írja):  
+KT Turul és szarvas [című](https://youtu.be/VlJJdkm4AWE) YouTube-os előadás-sorozatának első részében 1:11:50-nél is jól mondja, hogy István azért ajánlotta fel, mert nem volt törvényes örököse, másrészt, mert annak adta vissza, akitől kapta. [[K/Korona\|Korona]] címnél is volt arról szó, hogy kit is illet elsődlegesen a korona. De oda ezt a [[T/Throne\|throne]] címnél is szereplő passzust is betettük (Falvay Károly Nagyboldogasszony, egykor az augusztusi telihold című 2005/3. sz. megjelent cikkében írja):  
 > Augusztus 15-én tehát király- és (eredetileg) királynőünnepről van szó. Mind Sumerban ([[I/Inanna\|Inanna]], [[I/Istár\|Istár]]), mind Egyiptomban ([[I/Ízisz\|Ízisz]]) a mennynek és a földnek egyszemélyes királynői voltak, akiket a vaskorban váltott fel a királyság önálló intézménye. A király mindig a trón "ölében" ült, emlékeztetve a korábbi királynőre.  
 > Kr. e. 3000-ben Nammu, Úr bölcs királya "Inanna, a Menny és Föld királynője" szolgájaként írt alá.  
 
-#### Dr. Gyárfás Ágnes a Fordulat – Hitvilág, mítoszok, legendák...
+#### Dr. Gyárfás Ágnes a Fordulat – Hitvilág, mítoszok, legendák...
 
 ...című kiadványban (a PDF 53. oldalától) szereplő Lugal Geme nagy Urasszony ki Mada című írásában is ugyanezt írja:  
 > Úgy tűnik tehát, hogy a Lugal Geme nagy Urasszonny, akié a Mada vagyis a haza, az ország, a magyarság égi Úrnője volt, de áldó szeretete kiterjedt a Világmindenségre. Szent István ennek a réges-régen minden magyari nép által tisztelt Boldogasszonynak ajánlotta fel az országát, mert az már ősidők óta az övé volt.  

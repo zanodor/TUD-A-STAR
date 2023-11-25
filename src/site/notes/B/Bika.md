@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bika/","title":"Bika","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-09T02:07","updated":"2023-11-22T11:40"}
+{"dg-publish":true,"permalink":"/B/Bika/","title":"Bika","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-09T02:07","updated":"2023-11-25T10:37"}
 ---
 
 
@@ -52,7 +52,7 @@ Mivel a béka (jelkép) tulajdonképpen nemzés-születés értelmű, és Nimrud
 
 ## Bikaistennő
 
-#### Falvay Károly Nagyboldogasszony...  
+#### Falvay Károly Nagyboldogasszony...  
 
 ...című könyvének 186. oldalán furcsamód említi a Bikaistennő kifejezést:  
 > Már Boldogasszony könyvünkben (2001) bemutattuk a neolitikus folyamat Kárpát-medencei szellemi továbbfejlődésének "bikaistennő" jelenlétét (Kr. e. 4200), melyet a magyar régészet Temesvár térségében az 1930-as évek óta ismer, a román régészet 1980-85 között tárta föl.  

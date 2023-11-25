@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-17T03:47","updated":"2023-11-23T12:03"}
+{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-17T03:47","updated":"2023-11-25T09:58"}
 ---
 
 
@@ -18,7 +18,7 @@ A dialektikus ellentét iskolapéldája [[M/Martu\|Martu]] címnél állt, misze
 
 > Tény, hogy [[J/Jász\|jász]] szavunk közvetlen hangtani rokona a [[G/Gyász\|gyász]] szavunk, amely értelmével a fekete színnel van eszmetársulásban. Ezen gyász szavunknak azonban régi nyelvünkben és népünk nyelvében még ma is jász felel meg és tulajdonképen fekete értelme van. Mind ennek azonban pontos ellentéteként a szlávban `jászno` = világos. Úgyhogy azt kell következtetnünk, hogy miként voltak fehér- és fekete-kunok, ugyanúgy voltak fekete- és fehér-jászok is, valamint hogy amazok fekete, emezek pedig fehér színű ruhákat viseltek, aminek azután megfelelt az hogy a fekete jászok a feketét nevezték jász színnek, a fehér jászok meg a fehéret, és hogy ezen jász szavunk a szlávba éppen fehér, világos, fényes értelemmel ment át. Tény az is, hogy a legtöbb népnél a gyász színe a fekete, némelynél azonban ellenkezőleg éppen a fehér az.  
 
-Falvay Károly Nagyboldogasszony című könyvének 323. oldalán Viski Károly adatait idézve írja, hogy a temetési ruha a nászruha volt: régi szokás szerint a halálravaló \[ruha\] színe fehér[^2]. De [[Y/Yellow\|yellow]] címnél szerepelt MA azon adata is, amely szerint a sárga is a gyász színe.  
+Falvay Károly Nagyboldogasszony című könyvének 323. oldalán Viski Károly adatait idézve írja, hogy a temetési ruha a nászruha volt: régi szokás szerint a halálravaló \[ruha\] színe fehér[^2]. De [[Y/Yellow\|yellow]] címnél szerepelt MA azon adata is, amely szerint a sárga is a gyász színe.  
 
 A fehér és fekete ellentétei mellett szólni kell a [[G/Giga\|giga]] és [[S/Sine\|sine]] címnél is taglalt szőke/kék és sötétkék/fekete értelmeiről is.  
 
@@ -31,7 +31,7 @@ A szlávnál maradva, ezét lehet a szláv `západ` = nyugat [[S/Sápad\|sápad]
 > Holott láttuk hogy **a magyarok az ős-Anyaistennőt a Tejúttal azonosítva, épen ellenkezőleg fehérnek[^3] képzelték és őt fehér szarvasünővel jelképezték**. Vagyis láthatjuk ezekből is, hogy őseink jelképes regéiket teljesen szabadon és tetszésük szerint költötték, habár ezekkel mindig természeti valóságokat igyekeztek költőileg kifejezni.  
 > A vallási türelmetlenség, felekezeti gyűlölködés és vakhit, amely egymás ellen uszítja a különböző felfogású embereket, csak igen későn, más népek elszaporodásával vette kezdetét, különösen pedig a mai prófétai vallások elterjedésével.  
 
-#### Falvay Károly Nagyboldogasszony...  
+#### Falvay Károly Nagyboldogasszony...  
 
 ...című könyvében igen érdekes dolgokat oszt meg ([[B/Bal és jobb\|bal és jobb]] címnél is szerepelt):  
 > 1978-ban Bodor György a székely nemzetségi szervezet kereszténység előtti alapformáiról szóló írásában a hármas székely nemzetségi szervezet kozmikus összefüggéseiről ír. Deér előbbiekben vázolt ismertetését sajátosan egészítette ki. Megállapította, hogy a "XVI. századra kialakult területi intézmények a letelepülés előtti intézményekből fejlődtek ki. A legrégebbi oklevelek három székely rendről szólnak, melyek előzményéből feltehetően három székely nemzetség rejlik. Az ezekből kialakult tisztviselői rend – az egész székelységnek körülbelül egyhatod része – Udvarhely-, Maros-, Csík- székekben két nemből állt és mindegyik nem négy-négy ágra oszlott. Ez a 24 ág, pontosan meghatározott sorrendben, évenként felváltva viselte a katonai és polgári tisztségeket, a hadnagyságot és a bíróságot.  
@@ -232,14 +232,14 @@ A [[K/Khuit\|Khuit]] címnél szereplő Edward P. Butler Henadology című blogj
 ...című az Ősi Gyökér 2008/2. sz. megjelent cikkének alábbi adata [[S/Szkíta\|szkíta]] címnél is szerepelt:  
 > Phylarch (élt. i.e . 210 körül): A szkíták midőn aludni készülnek, puzdrát vesznek elő és ha jó napjuk volt fehér, ha rossz, fekete követ dobnak bele. Évenkint így veszik számba a jót és a rosszat.  
 
-[[I/Idő#Idő szövése\|Idő szövése]] cím/alcímnél hasonlót láttunk: Kolumbia egyenlítői kogi indiánjainak szertartási kunyhója belső vázát és levélborítását jelképes értelemben a Nap szövi a kogik szerint. A földasszony teste a szövőszék, ennek négy sarka a négy tűzhely, rajta észak-déli irányban a képzeletben fölvetett láncfonal. Napférfi a vetélő, aki nappal fehér, éjjel fekete [[K/Kereszt\|kereszt]]-szállal szövi földasszonyon az **idő** mintázatát. (L. a szabályosan, hálószerűén beszőtt felső ég a gordiuszi csomóba gabalyodott alvilág képzetét a közép- és dél-amerikai kozmológiákban.)  
+[[I/Idő#Idő szövése\|Idő szövése]] cím/alcímnél hasonlót láttunk (JM tollából):  
+> Kolumbia egyenlítői kogi indiánjainak szertartási kunyhója belső vázát és levélborítását jelképes értelemben a Nap szövi a kogik szerint. A földasszony teste a szövőszék, ennek négy sarka a négy tűzhely, rajta észak-déli irányban a képzeletben fölvetett láncfonal. Napférfi a vetélő, aki nappal fehér, éjjel fekete [[K/Kereszt\|kereszt]]-szállal szövi földasszonyon az **idő** mintázatát. (L. a szabályosan, hálószerűén beszőtt felső ég a gordiuszi csomóba gabalyodott alvilág képzetét a közép- és dél-amerikai kozmológiákban.)  
 
 ## Fehér és fekete hegy
 
 [[V/Világhegy\|Világhegy]] címnél szerepelt VZs egyik passzusa, ahol a fehér és fekete hegynek megfelelő [[H/Hegy és völgy\|hegyek és völgyek]] adják ki a Nap járásának [[S/Sine\|szinusz]]-görbéjét:  
-> A világhegy fogalma mellett ismerik a sémi-babiloniak a szintén kétcsúcsú napfelkelte és napnyugta hegyét \[lásd [[A/Ahet\|ahet]] fényhegyeket\] is. Különösen pecsétcilindereken gyakori. Az elsőnek a neve `ḫarsag Babbara` vagy `Kur Babbar` (világos hegy; lásd etimont [[K/KUR\|KUR]]), a másodiké `ḫarsag gigga`, vagy kur gig (fekete hegy). E nevek is a kozmosz és a körforgás lényegi azonosságában bírják alapjukat és a kettős hegycsúcs a napjárásnak az égfelületén hegy és völgy között való föl- és leszállását akarja érzékeltetni.  
-
-A szumér szókapcsolatokban szereplő `ḫarsag` [[O/Ország\|ország]] és [[H/Harság\|harság]] címnél is szerepelt említve.  
+> A világhegy fogalma mellett ismerik a sémi-babiloniak a szintén kétcsúcsú napfelkelte és napnyugta hegyét \[lásd [[A/Ahet\|ahet]] fényhegyeket\] is. Különösen pecsétcilindereken gyakori. Az elsőnek a neve `ḫarsag Babbara` vagy `Kur Babbar` (világos hegy; lásd etimont [[K/KUR\|KUR]]), a másodiké `ḫarsag gigga`, vagy `kur gig` (fekete hegy). E nevek is a kozmosz és a körforgás lényegi azonosságában bírják alapjukat és a kettős hegycsúcs a napjárásnak az égfelületén hegy és völgy között való föl- és leszállását akarja érzékeltetni.  
+- A szumér szókapcsolatokban szereplő `ḫarsag` [[O/Ország\|ország]] és [[H/Harság\|harság]] címnél is szerepelt említve.  
 
 Annyit még tegyünk hozzá, hogy a felfelé és lefelé álló hegyek megfelelnek a [[J/Jin és jang\|jin-jang]] jelnek és így azonos vagy közel azonos szóelemekkel utalhatunk rájuk: lásd [[K/KUR\|KUR]], [[K/Kut\|Kut]] címnél szereplő életkör-diagramot, stb.  
 William F. Warren Paradise Found: Cradle of the Human Race at the North Pole című művében is írja, hogy a mitológiai [[M/Meru\|Meru]]-ból kettőt képzeltek el: Su-Merut északon, Brahma lakhelyét, Ku-Merut délen, a Földgömb átellenes pontján (ahová is minden nép hagyománya a pokolt, a démonok lakhelyét helyezi).  
