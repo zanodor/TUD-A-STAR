@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Epiphany/","title":"Epiphany","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-11T11:13","updated":"2023-11-11T11:13"}
+{"dg-publish":true,"permalink":"/E/Epiphany/","title":"Epiphany","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-11T11:13","updated":"2023-11-25T10:44"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 A dolgok mibenléte felfededézének pillanata.  
 
-#### Falvay Károly Nagyboldogasszony...
+#### Falvay Károly Nagyboldogasszony...
 
 ...című könyvének 114-115. oldalán oldalán taglalja, de másképp, mint várnánk:  
 > Kerényi Károlynak feltűnt, hogy a görög évkezdő fény-ünnepnap mögött Zeusz Ida-hegyi barlangcsodája van. (Január 6.: Epiphania – "kiáradás", amit az első évszázadokban a keresztény egyház Krisztus születési napjaként ünnepelt.) Ehhez a tüneményhez kezdetben szigorúan titkos rítus tartozott, csak nagyon kevesek vehettek rajta részt. Zeuszt ugyanis Kronosz bosszúja elől ebbe a barlangba mentette Héra (egyik változatban). Itt Melisszusz király lányai [[A/Amalthea\|Amalthea]] és Melissza táplálták a gyermeket. Melissza mézzel, mert a neve méhet jelent. Olyan történet is volt, melyben méhek voltak Zeusz dajkái. Sőt, meséltek Krétán egy szent "méhbarlangról" is, amelyben [[R/Rhea\|Rhea]] Zeuszt szülte.  
