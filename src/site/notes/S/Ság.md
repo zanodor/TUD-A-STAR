@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/S/Ság/","title":"Ság","tags":["dg_uploaded"],"created":"2023-10-14T06:22","updated":"2023-10-29T03:06"}
+{"dg-publish":true,"permalink":"/S/Ság/","title":"Ság","tags":["dg_uploaded"],"created":"2023-10-14T06:22","updated":"2023-11-25T01:59"}
 ---
-
-
 
 
 # Ság
@@ -19,7 +17,7 @@ A Ság perzsa megfelelője a ma is király értelmű [[S/Shah\|shah]].
 A ság = főség értelem szépen párosul a perzsa [[S/Sag\|sag]] = kutya, szanszkrit [[S/Saka\|saka]] (burjátul `saga`) = fehér értelemmel, miután mindkettő fényes, hímségi, ahogy a szintén velük jelzett asztrális kutya is.  
 Ság szerepel a [[S/Sumér zodiákus\|sumér zodiákus]] Nyilasnak megfelelő [[P/Pabilsag\|Pabilsag]] nevében és a "sumér Jupiter" [[S/Sagmegar\|Sagmegar]] nevében is.  
 
-A Falvay Károly Nagyboldogasszony című könyvének 303-304. oldalán említett V. I. Abaev oszét filológus anyaga megtalálható angol nyelven a The Scythians – nomad goldsmiths of the open steppes című kiadványban. A 48-49. oldalon a felsorolt oszét szavak között (miután kimondja, hogy a szkítáknak nem maradt fenn az írása és az oszét feliratok segíthetnek nyelvük megfejtésében) említi az oszét `sag` = szarvas szót, mely nyilván szarvas fő.  
+A Falvay Károly Nagyboldogasszony című könyvének 303-304. oldalán említett V. I. Abaev oszét filológus anyaga megtalálható angol nyelven a The Scythians – nomad goldsmiths of the open steppes című kiadványban. A 48-49. oldalon a felsorolt oszét szavak között (miután kimondja, hogy a szkítáknak nem maradt fenn az írása és az oszét feliratok segíthetnek nyelvük megfejtésében) említi az oszét `sag` = szarvas szót, mely nyilván szarvas fő.  
 
 Elképzelhető a [[S/Shogun\|shogun]] címnél előjövő (japán sógun névhez hasonló) Tóth Lívia által adatolt karluk \[délkeleti türk\] nyelvű `saĝun` = sámán(?) szóban is: Sá-Gun felbontása mellett Ság-Un is értelmes lehet.  
 
