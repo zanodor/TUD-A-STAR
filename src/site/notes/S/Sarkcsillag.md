@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sarkcsillag/","title":"Sarkcsillag","tags":["dg_uploaded"],"created":"2023-10-13T12:33","updated":"2023-11-10T07:39"}
+{"dg-publish":true,"permalink":"/S/Sarkcsillag/","title":"Sarkcsillag","tags":["dg_uploaded"],"created":"2023-10-13T12:33","updated":"2023-11-25T11:23"}
 ---
 
 
@@ -63,7 +63,7 @@ A Sarkcsillag nevei egyes nyelveken [[T/TÁT\|TÁT]], és, ahogy [[P/Pole\|pole]
 
 ---
 
-#### Falvay Károly Nagyboldogasszony...
+#### Falvay Károly Nagyboldogasszony...
 
 ...című könyvének alábbi adatsora [[S/Sátor\|sátor]], [[T/Tündök\|tündök]], [[O/ÓG\|ÓG]] és más címnél is szerepelhetne:  
 > A sámán kozmológiájában a világegyetem hármas tagolású: felső, középső és alsó világra oszlik.  
@@ -146,7 +146,7 @@ Mindegyik csillagképben közös az északon elfoglalt helyük és a hét szám 
 [[A/Aszklépiosz\|Aszklépiosz]] címnél is említésre került a Sarkcsillag és Szíriusz.  
 
 [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] címnél is szerepelt legutóbb:  
-A nyári napfordulós Ég-Úr, Uru-Anna [[O/Orion\|Orion]] nevében is ugyanaz a (sumérban éppen Kutyát is jelentő) Ur szerepel, mint az [[U/Ursa Maior\|Ursa Maior]] címnél említett észak-amerikai indiánok Medve csillagkép elnevezését is mintázó latin ursus szóban.  
+A nyári napfordulós Ég-Úr, Uru-Anna [[O/Orion\|Orion]] nevében is ugyanaz a (sumérban éppen Kutyát is jelentő) Ur szerepel, mint az [[U/Ursa Maior\|Ursa Maior]] címnél említett észak-amerikai indiánok Medve csillagkép elnevezését is mintázó latin `ursus` szóban.  
 
 ## Lábjegyzetek
 
