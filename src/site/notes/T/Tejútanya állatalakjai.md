@@ -1,21 +1,7 @@
 ---
-title: Tejútanya állatalakjai
-aliases:
-  - Tejútanya-állatalak
-  - Tejútanya állatalakja
-  - Tejútanya állatalakjá
-  - Tejútanya és állatalakjai
-tags:
-  - dg_uploaded
-  - Englishtexttranslated
-share: true
-dg-publish: true
-dg-created: 2023-11-13T02:19
-dg-updated: 2023-11-22T11:43
-dg_upload_status: VNC done
-date created: 2023-06-22
-date modified: 2023-11-22
+{"dg-publish":true,"permalink":"/T/Tejútanya állatalakjai/","title":"Tejútanya állatalakjai","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-13T02:19","updated":"2023-11-25T11:26"}
 ---
+
 
 # Tejútanya állatalakjai
 
@@ -27,7 +13,7 @@ Hogy a [[T/Tejút\|Tejút]][^1] anya, ezt onnan tudjuk, hogy a világ számos m�
 
 Az egyik arab elnevezés a Tejútra például Umm al Sama, az Ég Anyja, mely szintén bizonyítja (azt is, hogy az ég és a Tejút a [[C/Csuda\|csuda]] szó esetében is felcserélhetők (sőt, [[C/Csut\|csut]] címnél írottak szerint a csuda is közös nevezőre hozható a Teut névvel)). A Tejút másik arab neve Al Majarrah (the Milky Track), mely [[O/Oyster\|oyster]] és [[M/Magyar\|magyar]] címnél írottak alapján az arab `mahār` = kagyló, osztriga névvel kiegészülve is rámutat, hogy az árja nyelvek anyát jelentő szava ([[M/Mother\|mother]]) sem véletlen ilyen alakú.  
 
-A Falvay Károly Nagyboldogasszony című könyvében több helyen említett Marija Gimbutasról írják:  
+A Falvay Károly Nagyboldogasszony című könyvében több helyen említett Marija Gimbutasról írják:  
 > She has identified a diverse and complex range of Neolithic female divinites, including bird goddess, mistress of animals, Queen of the Mountains, snake goddess, deer mother, bear mother, life-giver, craft-giver, birth-giver, nurse, pregnant earth or earth mother, double goddess (mother-daughter), goddess of death, triangle-hourglass goddess, frog goddess, hedgehog goddess, fish goddess, bee and butterfly goddess and regeneratrix, and thereby invalidates the simplistic hypotheses of one "Great Mother" deity for the European Neolithic. Marija Gimbutas designated these multiple forms as manifestations of the "Great Goddess" as opposed to the "Great Mother", who is secondary, to the decipherment of the various female deities.  
 > —  
 > A neolitikus női istennők sokféle és összetett skáláját azonosította, köztük a madáristennőt, az állatok úrnőjét, a hegyek királynőjét, a kígyóistennőt, a szarvasanyát, a medveanyát, az életet adó, kézműves, szülő, dajka, terhes földanyát vagy földanyát, kettős istennő (anya-lánya), a halál istennője, háromszög-órács istennő, békaistennő, sünistennő, halistennő, méh- és pillangóistennő és regeneratrix, és ezáltal érvényteleníti az európai neolitikum egyetlen "Nagy Anya" istenségére vonatkozó leegyszerűsítő hipotéziseket. Marija Gimbutas a különböző női istenségek megfejtéséhez a "Nagy Istennő" megnyilvánulásaiként jelölte meg ezeket a többszörös formákat, szemben a "Nagy Anyával", aki másodlagos.  
@@ -82,7 +68,7 @@ Hogy a Tejútanyának állatalakjai lehetnek, erre bizonyíték lehet a sémi-f�
 Igen is, van annak létjogosultsága, hogy mind Allat és mind [[A/Allah\|Allah]] [[I/Ilona\|Ilona]] nevére és annak állatalakjának nevére utalva előjöjjön az avar-hun eredetű/kultúrájú araboknál. Allah sem igazán hímségi, míg Allat méginkább nem az. Christine Fielder Sexual Paradox című könyvének 251. oldaláról való adatait lásd [[A/Allah\|Allah]]. (Azt azért jegyezzük meg, hogy [[T/T\|T]] címnél cáfoljuk is, hogy Allat állat szavunkkal azonos lehet.)  
 (Nem kis meglepetést okoztak a legutóbb [[O/Osiris és Set\|Osiris és Set]] címnél írottak, ahol Allah [[S/Szíriusz\|Szíriussz]]al azonosíttatott. Ami lehet is, hiszen [[I/Ilona\|Ilona]] nevében is megvan Él, és Ilona koronája a Tejútanya Szíriusza, csak itt már hímségivé tett istennel van dolgunk.)  
 
-#### Falvay Károly Nagyboldogasszony...
+#### Falvay Károly Nagyboldogasszony...
 
 ...című könyvének 255. oldalán tulajdonképpen maga is szól a Tejútanya állatalakjairól:  
 > A korai bronzkor csak női istenségeket ismert, s azokat sok esetben kígyó, madár és sok más állatalakban ábrázolta. A korai patriarchális világ [[T/Tiamat\|Tiamat]]ot nagy ereje miatt gúnyból szárnyas griffként ábrázolhatta. A szörnyképzet mögött a változás előtti korszakban a korábbi istenasszony-képzetek erejét kereshetjük: a hosszú anyaközpontú korszakot felváltó patriarchális, férfiközpontú kultúra küzdelmét és harcát így az anya (Tiamat) és fia (Marduk) küzdelme szimbolizálja – ami az új korszak beköszöntésének hangsúlyos emléke.  
