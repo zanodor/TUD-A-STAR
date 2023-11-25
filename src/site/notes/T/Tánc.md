@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tánc/","title":"Tánc","tags":["dg_uploaded","containstransclusions"],"created":"2023-11-12T05:06","updated":"2023-11-12T05:06"}
+{"dg-publish":true,"permalink":"/T/Tánc/","title":"Tánc","tags":["dg_uploaded","containstransclusions"],"created":"2023-11-12T05:06","updated":"2023-11-25T11:27"}
 ---
 
 
@@ -12,8 +12,9 @@
 
 De hogy a Tánc mennyire összefügg a [[T/Tengely\|tengely]] körüli mozgással/forgással, mutatja, hogy a [[B/Ball#Ball 2)\|ball]] és ([[V/Vált\|vált]] szavunkhoz hasonlított) [[W/Waltz\|waltz]] címnél is említett spanyol `bailar` = táncolni igét is a tengely (lásd [[P/Pole#Pole 2)\|pole]]) körüli forgásra utalónak vettük (ott egy Götz László Keleten kél a Nap című könyvének 191. oldalán hozott sumér `BAL` = forgat; forduló, orsó; fon jelentésekkel megadott tőszóhoz is hasonlítottunk).  
 
-#### Záhonyi András az Ősi Gyökér 2019-20/1-4. számában megjelent beszámoló cikkében is szerepel:  
+#### Záhonyi András...  
 
+...az Ősi Gyökér 2019-20/1-4. számában megjelent beszámoló cikkében is szerepel:  
 > A tánc őstudás. Remek eszköz az emberi lélek kifejezésre, egy nép érzésvilágának bemutatására.  
 > Novák Ferenc szerint "amikor még nem létezett a szó, már létezett a mozdulat. És ez a mindenkinek örömöt adó) tánc volt."  
 > "A tánc mágia. Évezredeken keresztül az Istennel való találkozás eszköze. A színpadra kerülve művészetté nemesült. A táncművészet felkent papjai – a táncosok – helyettünk mutatják be az áldozatot," vallja Fodor Antal.  
@@ -29,7 +30,7 @@ Tánc, tántorog, teng-leng ([[T/Tango\|tango]]), [[T/Tengely\|tengely]], mind [
 #### Tomory Zsuzsa Istenes magyar emlékeink III. rész...
 
 ...című Ősi Gyökér 2005/3. sz. megjelent cikkében írja:  
-> Berze Nagy János baranyai gyűjtései között található tarcsapusztai betlehemes háromszázhatvanöt szavas éneke, mely az év minden napját beleveszi ezen ünneplésbe. Néprajzosaink gyakran kitértek a magyar férfitánc [[I/Ima\|ima]] jellegére. A fenti gyűjtésben található sásdi betlehemesben a pásztorok ajándékai között a tánc is szerepel. Itt idézem Berze Nagy Jánost: "...Haraszti Emil értekezése után (Búvár, 1936.623.1. "Tánc a templomban".) feltehető, hogy a tánc ősi kultikus eredetû, a templomi szertartáshoz tartozott, s bábtáncoltatók is a régi szokásnak hódolva táncoltatják meg betlehemes bábjaikat."  
+> Berze Nagy János baranyai gyűjtései között található tarcsapusztai betlehemes háromszázhatvanöt szavas éneke, mely az év minden napját beleveszi ezen ünneplésbe. Néprajzosaink gyakran kitértek a magyar férfitánc [[I/Ima\|ima]] jellegére. A fenti gyűjtésben található sásdi betlehemesben a pásztorok ajándékai között a tánc is szerepel. Itt idézem Berze Nagy Jánost: "...Haraszti Emil értekezése után (Búvár, 1936.623.1. "Tánc a templomban".) feltehető, hogy a tánc ősi kultikus eredetű, a templomi szertartáshoz tartozott, s bábtáncoltatók is a régi szokásnak hódolva táncoltatják meg betlehemes bábjaikat."  
 > Pásztortáncaink ezek szerint tehát ősi táncimáink utolsó maradványai. Tudjuk napjainkban, hogy a mozgás, a tánc milyensége hatalmas befolyással van lelkiállapotunkra. A most divatos csípő-csavargatások hatásköre az alacsonyabb életösztönök erősítésére korlátozódik. \[A KT által kommunista kapcsolatai miatt kritizált, Bartók Béláról szóló verséért azért megdicsért\] Illyés Gyula emlékezett meg egy írásában arról, hogy amikor magyar táncot jár, karjai önkénytelenül az ég felé emelkednek, s maga is felismerte, hogy e tánc génjeinkbe épített Isten-tisztelet egy kifejezése. A magyar zene éltető ütemére járt egyenes derekú, emelt kezű tánc az ég és föld tudatos összekapcsolása, s a kettő közötti ember testét-lelkét tartotta egyensúlyban.  
 
 #### Jankovics Marcell A Nap könyve...
