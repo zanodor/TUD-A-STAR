@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Precesszió/"}
+{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["dg_uploaded","containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2023-11-25T11:22"}
 ---
 
 
@@ -326,7 +326,7 @@ Mindezt úgy, hogy nincs tisztában azzal sem, hogy az időszalag manipulált le
 - Az iménti meseelemzésre is hivatkozó Hampó József – Gyárfás Ágnes fia – A Kaukázusi juhászkutya ősi pecséthengereken című az Ősi Gyökér 2012/2-4. sz. megjelent cikkében – anyja tanítása szerint – még ráadásul a [[G/Galactic centre\|Galactic centre]] címnél is szereplő információknak (lásd oszcillállásáról szóló részt; [[O/Orion övcsillagai\|Orion övcsillagai]] címnél bővebben) megfelelően – írja:  
 > Egyszerre repültek magasba Orion-Nimrud, Sziriusz és a Nagy Kutya, mert Kr. e. 4-5 ezer évvel korábban az Orion nem december 21-24 között "repült magosba" vagyis delelt, hanem január elsején, pontosan egyszerre Sziriusszal. Az Orion azonban olyan csillagkép, amely együtt mozog a Nagy Napév precessziós /hátramozgó/ forgásával és ezért lemaradt a Sziriusz mellől. Ma a Sziriusz január elsején kúszik fel mellé az ég közepére. Így is együtt uralkodnak a csillagok felett, mint király és királynő, az elmaradhatatlan csodaszép Nagy Kutyájukkal.  
 
-#### Mahler Ede Ókori chronologiai kutatások...
+#### Mahler Ede ókori chronologiai kutatások...
 
 ...című 1915-ös írásában, amikor az [[E/Ég és föld\|ég és föld]] kapcsolatának időbeosztási-naptári vonatkozásáról szól, szépen elmagyarázza a [[S/Sothic\|Szóthisz-ciklus]]tés a precessziós 25920-as szám összefüggéseit is:  
 > Az ókori keleti felfogás szerint a földi jelenségeknek hasonló égi jelenségek felelnek meg és mindén földi esemény csak képmása ama eseményeknek, a melyek az égben játszódnak le (így a király az Isten földi képviselője; a föld geográfiája hű másolata az ég geográfiájának stb.). Még nagyobb mértékben áll ez természetesen az időbeosztásról és a naptárról, mivel annak alaptételeit különben is az ég jelenségeiből vezették le. Tehát a földi naptárnak megfelel egy égi naptár, a melyben az évnek és a hónapnak beosztása teljesen megegyező a földi naptár beosztásával, a melyben azonban a nap – tehát az égi nap – a földi naptár egy quadrienniumának \[négy éves periódusának\] felel meg.  
