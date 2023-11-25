@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mithra/","title":"Mithra","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-07T05:29","updated":"2023-11-07T05:46"}
+{"dg-publish":true,"permalink":"/M/Mithra/","title":"Mithra","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-07T05:29","updated":"2023-11-25T11:17"}
 ---
 
 
@@ -34,7 +34,7 @@ Nehéz volt/lenne elengedni a tényt, hogy Anu neve a Tejútközponthoz kapcsolh
 
 (Az "angolként" megadott Jararaca jelentés alatt egy tupi nyelven megfejtett nagy vipera féle kígyót kell érteni. A [[K/Kígyó\|kígyó]] a [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]] is, de épp az önmagából megújulás jelképe is.)  
 Mivel a tukanóknál is december előtti téridő-régióról van szó, ezért "meg van bocsájtva" az indeknek. Mindjárt ki is derül, miért.  
-A Mithra névhez visszatérve igen hasonló, sőt azonos alakú és kiejtésű vele a [[M/Magyar\|magyar]] címhez is betett arab `midrāh`[^2] = vasvilla. Méd kulcs őstörténetünk megfejtéséhez című cikkének idevonatkozó passzusában (melyet lásd teljes egészében [[A/Angel\|angel]], [[T/Thunder\|thunder]] és [[V/Villám\|villám]] címnél) Zentai Ákos említi szintén vasvilla jelentéssel az észt `hang`, finn `hanko` és török `dirgen` szavakat. Nem említi a német `mistgabel` = vasvilla szót, melyben szintén megvan a [[M/MISZ\|MISZ]] és [[M/Mist\|mist]] címnél is taglalt szórész. A -gable tagot lásd [[G/Gable\|gable]]; vélhetően Ka-Bél, a Bél Háza, mely nemcsak a Nap Háza, hanem utalás a Tejútanya gyomrára, beleire és méhére egyaránt. Emlékezzünk a [[N/Nut\|Nut]] címnél írottakra: Nut mítosza szerint éjszaka felfalja és reggelente újraszüli égitest-gyermekeit. Igen ám, de ezt a Kis Éves életkör-keretrendszerben is megteszi:
+A Mithra névhez visszatérve igen hasonló, sőt azonos alakú és kiejtésű vele a [[M/Magyar\|magyar]] címhez is betett arab `midrāh`[^2] = vasvilla. Méd kulcs őstörténetünk megfejtéséhez című cikkének idevonatkozó passzusában (melyet lásd teljes egészében [[A/Angel\|angel]], [[T/Thunder\|thunder]] és [[V/Villám\|villám]] címnél) Zentai Ákos említi szintén vasvilla jelentéssel az észt `hang`, finn `hanko` és török `dirgen` szavakat. Nem említi a német `mistgabel` = vasvilla szót, melyben szintén megvan a [[M/MISZ\|MISZ]] és [[M/Mist\|mist]] címnél is taglalt szórész. A -gable tagot lásd [[G/Gable\|gable]]; vélhetően Ka-Bél, a Bél Háza, mely nemcsak a Nap Háza, hanem utalás a Tejútanya gyomrára, beleire és méhére egyaránt. Emlékezzünk a [[N/Nut\|Nut]] címnél írottakra: Nut mítosza szerint éjszaka felfalja és reggelente újraszüli égitest-gyermekeit. Igen ám, de ezt a Kis Éves életkör-keretrendszerben is megteszi:
 
 #### Jankovics Marcell írja:
 
@@ -145,9 +145,9 @@ Ugyan a védikus Mitráról Tilak nem szól, de a vele azonosulni látszó (mind
 
 
 
-> The identification of Vrishâkapi with Orion at once furnishes us with a solution of this question. We have already seen that the dog is said to commence the new year in Rig. i. 161. 13; and since Canis and Orion are close to each other, Orion may also be said to have commenced the year. The Devayâna, therefore, extended in those days from the heliacal to the acronycal rising of Orion; that is, when Orion rose with the sun, it was the vernal equinox, the beginning of the Devayâna, and six months after, when it rose at the beginning of night, it was the autumnal equinox, the end of the Devayâna.  
+> The identification of [[V/Vrishâkapi\|Vrishâkapi]] with Orion at once furnishes us with a solution of this question. We have already seen that the dog is said to commence the new year in Rig. i. 161. 13; and since Canis and Orion are close to each other, Orion may also be said to have commenced the year. The Devayâna, therefore, extended in those days from the heliacal to the acronycal rising of Orion; that is, when Orion rose with the sun, it was the vernal equinox, the beginning of the Devayâna, and six months after, when it rose at the beginning of night, it was the autumnal equinox, the end of the Devayâna.  
 > —  
-> Vrishâkapi és az Orion azonosítása azonnal megoldást ad erre a kérdésre. Már láttuk, hogy a Rig. i. 161-ben a kutya az új év kezdetét jelenti. 13; és mivel a Canis és az Orion közel vannak egymáshoz, az Orionról is elmondható, hogy ő indította el az évet. A Devayâna tehát azokban az időkben az Orion heliákális felkelésétől az akrónia felkeléséig tartott; vagyis amikor az Orion a Nappal együtt kelt fel, az volt a tavaszi napéjegyenlőség, a Devayâna kezdete, és hat hónappal később, amikor az éjszaka kezdetén kelt fel, az volt az őszi napéjegyenlőség, a Devayâna vége.  
+> [[V/Vrishâkapi\|Vrishâkapi]] és az Orion azonosítása azonnal megoldást ad erre a kérdésre. Már láttuk, hogy a Rig. i. 161-ben a kutya az új év kezdetét jelenti. 13; és mivel a Canis és az Orion közel vannak egymáshoz, az Orionról is elmondható, hogy ő indította el az évet. A Devayâna \[Isten útja\] tehát azokban az időkben az Orion heliákális felkelésétől az akrónia felkeléséig tartott; vagyis amikor az Orion a Nappal együtt kelt fel, az volt a tavaszi napéjegyenlőség, a Devayâna kezdete, és hat hónappal később, amikor az éjszaka kezdetén kelt fel, az volt az őszi napéjegyenlőség, a Devayâna vége.  
 
 
 </div></div>
@@ -192,7 +192,7 @@ Ugyebár mindhárom isten, Magor, Mger és Mithra a téli napfordulón megszüle
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Méd kulcs őstörténetünk megfejtéséhez című cikkében Zentai Ákos azt írja, hogy a görög `mítra` = anyaméhet jelentene. Ez így nem igaz (ezen félreinformációja miatt is íródott a passzus és közben `metro` szóval kellett helyesbíteni). A görög `mítra` jelentéseit lásd [[M/Mitre\|mitre]].  
+Méd kulcs őstörténetünk megfejtéséhez című cikkében Zentai Ákos azt írja, hogy a görög `mítra` = anyaméhet jelentene. Ez így nem igaz (ezen félreinformációja miatt is íródott a passzus és közben `metro` szóval kellett helyesbíteni). A görög `mítra` jelentéseit lásd [[M/Mitre\|mitre]].  
 
 [^2]: Lábjegyzet:  
 ZÁ-nál `midhra` formában szerepelt, míg én az interneten a másik formát láttam. Sokat nem változtat a lényegen. Egyébként a d alatt egy kis vonalka van/lenne (így: `miḏhra`) és a szót `mithrā`-ként ejti ki az arab hang. Ezek szerint [[T/Th\|th]] az arabban is megvan és a spanyol talán tőlük vette át. Másutt (a male jelentesű szavában) a szó elején ez a hang zöngétlen z-vel ejtett (lásd a szót [[S/Sugar\|sugar]] címnél).  
