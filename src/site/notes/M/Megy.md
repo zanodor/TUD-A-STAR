@@ -1,13 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megy/","title":"Megy","tags":["dg_uploaded"],"created":"2023-10-20T07:14","updated":"2023-11-25T01:44"}
+{"dg-publish":true,"permalink":"/M/Megy/","title":"Megy","tags":["dg_uploaded"],"created":"2023-10-20T07:14","updated":"2023-11-25T11:17"}
 ---
 
 
 # Megy
 
-Hogy lett megy alakú a menni ige egyes szám harmadik személyben? Falvay Károly Nagyboldogasszony című könyvének 43. oldalán Mészöly és Rédei adatait osztja meg a [[M/Men\|men]] és a megy kapcsolatáról. Könnyen lehet, hogy belemagyarázós okoskodás. Annál is inkább, mert véleményem szerint a [[M/MAG\|MAG]] Napnév nyomán jött létre: minden mozgás hímségi. Nos, azóta felfedtük, hogy a megy a [[M/Magor\|Magor]] névvel, a [[J/Jön\|jön]] a [[H/Hunor\|Hunor]] névvel áll kapcsolatban.  
+Hogy lett megy alakú a menni ige egyes szám harmadik személyben? Falvay Károly Nagyboldogasszony című könyvének 43. oldalán Mészöly és Rédei adatait osztja meg a [[M/Men\|men]] és a megy kapcsolatáról. Könnyen lehet, hogy belemagyarázós okoskodás. Annál is inkább, mert véleményem szerint a [[M/MAG\|Mag]] Napnév nyomán jött létre: minden mozgás hímségi. Nos, azóta felfedtük, hogy a megy a [[M/Magor\|Magor]] névvel, a [[J/Jön\|jön]] a [[H/Hunor\|Hunor]] névvel áll kapcsolatban.  
 
-Falvay Károly Nagyboldogasszony c. könyvének 409. oldalán ismét kitér a témára:
+#### Falvay Károly Nagyboldogasszony...  
+
+...című könyvének 409. oldalán ismét kitér a témára:  
 > A [[H/Hajnal\|hajnal]] fogalom a sötétség és a világosság közötti átváltozásban, más szóval átmenetben szimbolikusan azonos a [[H/Híd\|híd]], [[K/Kapu\|kapu]], rév kifejezésekkel is. A magyar nyelvű fogalomalkotásban így lehetnek ezek a szavak a női átváltozás párhuzamos nyelvi kifejezései, ami az álom, alvás tudatalatti állapotából a tudatosság, a létezés állapotának katartikus érzékelését a korai, a természettel szorosan együtt élő emberből kiváltotta. Ebben kap tárgyiasult szerepet a holdon kívül híd, kapu, rév fogalom a folyamat ellentétes irányában is, amikor az élet végén a tudatosság földi világosságából haladunk át az örökkévalóság sötétségének álom állapotába. Miután az átmenet kifejezésünk az átváltozási folyamat jellemzője, szoros kapcsolatban van a menny, azaz túlvilág, másvilág kifejezéseinkkel is, valamint a menny szavunk megkeményedett megy igei kifejezésével. Ezen keresztül érthető meg az "Úti piros szép hajnal" kifejezésünk.  
 - FK itt említhette volna a Hold [[M/Mén\|mén]] nevét is, már a lány>asszony, Vénusz>Hold átváltozás kapcsán.
 
