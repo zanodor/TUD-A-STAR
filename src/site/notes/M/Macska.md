@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Macska/","title":"Macska","tags":["dg_uploaded"],"created":"2023-11-17T11:07","updated":"2023-11-17T11:07"}
+{"dg-publish":true,"permalink":"/M/Macska/","title":"Macska","tags":["dg_uploaded"],"created":"2023-11-17T11:07","updated":"2023-11-25T11:16"}
 ---
 
 
@@ -64,6 +64,6 @@ Macska szavunk a mongolban `miš` (a katalán alakokra hajaz), ahogy a hasonló 
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Az angol [[M/Miss\|miss]] = kisasszony tehát nem más, mint Boldogasszony lánya, Kisasszony. Falvay Károly Nagyboldogasszony című könyvében is írja:  
+Az angol [[M/Miss\|miss]] = kisasszony tehát nem más, mint Boldogasszony lánya, Kisasszony. Falvay Károly Nagyboldogasszony című könyvében is írja:  
 A magyar hagyományban Nagyboldogasszony szűz leánya Kisboldogasszony, más néven Kisasszony.  
 Ez számomra arra is enged következetni, hogy ami [[K/Kis\|kis]] alakban megvolt a hun-magyarban, az a magyarban m-előhangosan is meglehetett. Arra más esetekben is láttuk példát (akár teoretikusat), hogy a kemény előhang helyett megjelenhet puha ajakhang a szó elején.  
