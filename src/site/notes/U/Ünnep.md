@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/U/Ünnep/","title":"Ünnep","tags":["dg_uploaded"],"created":"2023-10-25T05:26","updated":"2023-10-25T05:26"}
+{"dg-publish":true,"permalink":"/U/Ünnep/","title":"Ünnep","tags":["dg_uploaded"],"created":"2023-10-25T05:26","updated":"2023-11-25T11:29"}
 ---
-
-
 
 
 # Ünnep
@@ -18,7 +16,7 @@ Internetes cikk írójától:
 
 [[H/Hallowe'en\|Hallowe'en]] címnél a [[P/Pleiadok\|Pleiadok]]at hoztuk szóba a halottak napjával kapcsolatosan; RHA adatait (tévesen?) követve.  
 
-Falvay Károly Nagyboldogasszony című könyvének idevágó passzusait lásd [[A/Asztrálmítoszi keretrendszer\|asztrálmítoszi keretrendszer]].  
+Falvay Károly Nagyboldogasszony című könyvének idevágó passzusait lásd [[A/Asztrálmítoszi keretrendszer\|asztrálmítoszi keretrendszer]].  
 
 Lásd még arról, hogy az ünnepek hogyan kapcsolják be az embert a nagy kozmikus egészbe [[G/Grandpierre Atilla\|Grandpierre Atilla]] anyagát. YouTube-on van két előadása is karácsonyról. Taglalását lásd [[K/Karácsony\|Karácsony]].  
 Egy másik, [alábbi](https://youtu.be/CZwvyvBjM3o) előadásában 1:22-nél is elmondja, hogy az ünnepek célja a nagy egésszel való összekapcsolódás, hogy kilássunk a hétköznapok kereteiből, hogy lássuk, miért élünk a földön és lássuk, miért kell végeznünk a hétköznapokon azt a tevékenységet, amit végzünk.  
