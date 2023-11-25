@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Rövidítések, referenciák/","title":"Rövidítések, referenciák","created":"2023-10-04T07:50","updated":"2023-11-21T11:22"}
+{"dg-publish":true,"permalink":"/101/Rövidítések, referenciák/","title":"Rövidítések, referenciák","created":"2023-10-04T07:50","updated":"2023-11-25T10:12"}
 ---
 
 
@@ -43,7 +43,7 @@ EP - Eric Partridge
 EvD - Erich von Däniken  
 FDD - Frank Dénes Dániel  
 FE - Fáy Elek  
-FK - Falvay Károly  
+FK - Falvay Károly  
 FKF - Feuerstein, Kak és Frawley (In Search of the Cradle of Civilization)  
 FMJ - Fehér M. Jenő  
 FZT - Forrai Zoltán Tamás  
