@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2023-10-29T03:04"}
+{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2023-11-25T11:23"}
 ---
 
 
@@ -110,7 +110,7 @@ Szó van tehát a görög (ω) omega betű formájáról és arról, hogy ennek 
 Ami még a [[F/Fleur de lis\|fleur de lis]] jelet illeti, a szakértők nem igazán tudják, pontosan honnan is ered. Tény, hogy a Heraldika kézikönyve szerint magyar nemesi címereken is szerepelt (és olyan is, melyen tehénfej szarvval és csillaggal volt feltüntetve).  
 Véleményem szerint a liliom, tulipán és a szaporító szervek között ideák szintjén kapcsolat kell legyen.  
 
-#### Falvay Károly Nagyboldogasszony...
+#### Falvay Károly Nagyboldogasszony...
 
 ...című könyvében a mellékelt maori istenanya teste is ezen szarvformát, azaz a szaporító szervrendszert idézi (a Kosnak is ilyen jele van, de mivel [[K/KUS\|KUS]] életfa, mely inkább nőiségi, ne akarjuk a Kos állatövi jegyet keresni benne, ha csak azért nem, mert abban az időben kerül nemzésre a nő, hogy karácsonykor szülhessen; lásd még [[K/Köz\|köz]] címnél írottakat is pináról).  
 ![assets/Szarv_image6.png](/img/user/S/assets/Szarv_image6.png)  
@@ -223,7 +223,7 @@ Kos-Úr így a Napra utalna. Ezen utóbbiból kiindulva gondolnám azt, hogy a k
 
 [[S/Szív\|Szív]] címnél szintén volt szó a témáról.  
 [[B/Béka\|Béka]] és [[H/Hysteria\|hysteria]] címnél a méh békához való hasonlításáról volt még szó. Sőt, legutóbb egy teoretikus [[B/Béka csillagkép\|Béka csillagkép]] is született a Bak alteregójaként: tehát nemcsak a Kos, hanem a Bak csillagkép is anyaistennő-anyaméh vonatkozású lehet. Ezen témához kapcsolható lenne az alábbi korábban itt álló adat:  
-A szaporító szervrendszer ugye a petefészekből és az [[A/Anyaméh\|anyaméh]]ből áll. A [[M/Méh\|méh]] a magyarban okkal homoníma.  
+A szaporító szervrendszer ugye a petefészekből és az [[A/Anyaméh\|anyaméh]]ből áll. A [[M/Méh\|méh]] a magyarban okkal homonima.  
 ![assets/Szarv_image21.png](/img/user/S/assets/Szarv_image21.png)  
 A [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] címnél taglalt méh nemcsak az Artemisz-szobron szerepel, hanem külön érméken is (más érmék szarvas-állatalakját mutatják), ez is bizonyítéka lehet annak, hogy i.e. 300-ban és korábban még magyarul beszélő illetve értő emberek alkották meg a kultuszt és verték az érméket. Ugyanis csak magyar nyelven hordozza méh ezen kettős jelentést. Ha az itt alant szereplő két érme ugyanazon érme két oldala lenne, az lenne igazán csak az igazi, mert rámutatna, hogy a Szarvas méhéről lenne szó. Márpedig a Szarvas a Bak megfelelője is lehet, mely méhként lehet Béka (viszont ha egy érme két oldala lenne, egy békát is rajzolhattak volna rá, persze az nem lett volna illő).  
 
