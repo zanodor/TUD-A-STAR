@@ -1,21 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/M/Méh/","title":"Méh","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-11T10:46:00","updated":"2023-11-20T05:43"}
+{"dg-publish":true,"permalink":"/M/Méh/","title":"Méh","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-11T10:46:00","updated":"2023-11-25T11:18"}
 ---
 
 
 # Méh
 
-A méh nyelvünkben homoníma. Két jelentése is van: a rovar méh és [[A/Anyaméh\|anyaméh]]. Mindkettőről egyszerre lesz szó, de a méh állattal vezetjük elő.  
+A méh nyelvünkben homonima. Két jelentése is van: a rovar méh és [[A/Anyaméh\|anyaméh]]. Mindkettőről egyszerre lesz szó, de a méh állattal vezetjük elő.  
 
-#### Falvay Károly Nagyboldogasszony...
+#### Falvay Károly Nagyboldogasszony...
 
 ...című könyvének 114. oldalán írja:  
 > A méh a magyar nyelvben egyaránt jelenti a mézgyűjtő és a virágot megtermékenyítő rovart, valamint a nő gyermekáldást biztosító testrészét.  
 
 Egyébként a magyar nyelv (és CzF) szerint a méh az egyetlen "állat" amely nem döglik, hanem "hal."  
 
-#### Péterfai János becses adatsora:  
+#### Péterfai János...
 
+...becses adatsora:  
 > A Méh Fény. A Méh kiejtése [[M/ME\|ME]], de sok régi névben a "h" megjelenik. Mehi fáraó nevében is tapasztalhatjuk. Mexikó spanyol kiejtése Mehikó, amely névben a Kó a Kő, Ország neve. Mehikó városa régebbi, mint az országra zúduló aztékok kora. Mikerinosz fáraó neve görög jellegű. Mingge kínai neve Mike magyar nagykirálynak. A székely Mikó név is ebbe a csoportba tartozik. Mike-Él a héber Mika-El párja. A Mehi – Méhi, a Mikes, Méhes nevek mind a Mé, vagyis Fény fogalmába tartoznak. A Mihók, Miska és német Miksa, a Mihály, Michael, a Miske mind a Mé Fény jelentéséhez kapcsolódnak.  
 > A Mé jelentése Fény, párja a Mu. Magas és mély hangrend. A Méh tehát nem más, mint a Fény. A Méhek a Fényből jövő kis állatkák. A Napgyermek, minden fiú és minden leány, ebből a Mé-ből, Méhből születik. Ez az Anya-Méh. A Méh tüzes, izzó, fényes hely, itt születnek a babák, az emberiség utódai. Ebből az izzásból, fényből születnek az emberek gyerekei. Természetesen ezt az egyszerű képi fogalmat sem ismeri már az emberiség.  
 - Ez a tüzes hely pedig a [[V/Vulva\|vulva]], [[P/Pina\|pina]].  
