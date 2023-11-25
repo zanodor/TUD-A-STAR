@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-16T01:30","updated":"2023-11-23T12:08"}
+{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-16T01:30","updated":"2023-11-25T11:25"}
 ---
 
 
@@ -9,7 +9,7 @@ Fontos egyiptomi mitológiai alak, ki egyfelől testvérének, Ozirisznek, és �
 Kevés olyan alak van, akit vagy 5-6 vagy még több csillagászati formával, égitesttel, csillagképpel is azonosítottak. Ez is mutatja, hogy rendkívül bonyolulttá vált az ősi tudás követése.  
 Az [alábbi](https://youtu.be/umyX-ZHVKgA) ÁKTV műsorban 1:29:25-nél KT azt mondja, hogy a zsidóknak volt Adonai-uk, Elohim-jük és Széth-jük, tehát különböző sátáni személyekből választották ki Jahvét. Nos, valójában ez egy leegyszerűsítése a dolgoknak; gondoljunk csak [[S/Szutek\|Szutek]]ra és [[E/El Shaddai\|El Shaddai]]-ra.  
 
-#### Falvay Károly Nagyboldogasszony...
+#### Falvay Károly Nagyboldogasszony...
 
 ...című könyvének 276. oldalán ír születésének nem szokványos módjáról:  
 > A [[N/Nut\|Nut]] és [[G/Geb\|Geb]] istenpárostól született az első napon Ozirisz, a második napon Armerisz, (az idősebb Hórusz), a harmadik napon Séth, de nem a rendes időben és módon. Anyja oldalát áttörte és úgy ugrott ki onnan. A negyedik napon született Isisz. Az ötödik napon pedig testvére Nephtisz. Szüleikkel és nagyszüleikkel (Su és Tefnut) alkották a kilenc tagú Nagy Enneadot.  
