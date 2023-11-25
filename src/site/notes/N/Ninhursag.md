@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Ninhursag/","title":"Ninhursag","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-05T01:07","updated":"2023-11-05T01:07"}
+{"dg-publish":true,"permalink":"/N/Ninhursag/","title":"Ninhursag","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-05T01:07","updated":"2023-11-25T11:20"}
 ---
 
 
@@ -19,7 +19,7 @@ Ninhurszág, sumer "Világhegyúrnő" alsó testnyílásai, az alvilág bejárat
 Másutt is írja:  
 > A "hasadék" legfényesebb csillagának, a Skorpió csillagzat vörös Antaresének Szépasszon volt a magyar neve, mégpedig annak a Szépasszony nevű, felemás hiedelmi alaknak a nyomán, akiről azt tartották eleink, hogy bűbájával a férfiakat "erdős hasadékába" csalja, s azok e kalandba bele is pusztulnak. (Afrikában ma is tartja magát a hiedelem, hogy a skorpió a női nemiszerv "állata". A rovar mérges fullánkja ott a csiklót jelképezi, amit a feketék a férfiakra veszélyesnek hisznek. Ezért "metélik körül" Afrikában milliószámra ma is a nőket, azaz metszik ki a csiklójukat. Vö. azzal, hogy a sumer Ninhurszag "Világhegy-Úrnő" ágyékát skorpió-ijászok őrzik, a Gilgames-eposzban az alvilág bejáratát skorpióemberek vigyázzák. E skorpiók nyilvánvalóan a tejúthasadék állatövi csillagképére, a Skorpióra utalnak. Ez az a "ház" az asztrológiai szimbolikában, amelyben évről évre [[N/Nap – halott Nap#A Nap halála\|meghal a Nap]].  
 
-#### Falvay Károly Nagyboldogasszony...
+#### Falvay Károly Nagyboldogasszony...
 
 ...című könyvében a sumér ősanyag-istennő [[N/Nammu\|Nammu]]-val és másokkal is azonosítja illetve tulajdonképpen funkcióját tekintve egyenértékűnek tekinti:  
 > A Nagy Istennőt mondhatjuk Nammunak, Ninhursagnak, Tiamatnak, Inannának.  
