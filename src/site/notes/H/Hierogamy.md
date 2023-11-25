@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hierogamy/","title":"Hierogamy","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-05T12:59","updated":"2023-11-05T12:59"}
+{"dg-publish":true,"permalink":"/H/Hierogamy/","title":"Hierogamy","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-05T12:59","updated":"2023-11-25T10:47"}
 ---
 
 
@@ -12,7 +12,7 @@ Szent [[N/Nász\|nász]]: a férfi és nő (és ég és föld) egyesülésének 
 > A hierosz gámosz vagy hierogámia (görög `ἱερὸς γάμος`, `ἱερογαμία` "szent házasság") olyan szexuális rituálé, amely egy isten és egy istennő közötti házasságot játszik el, különösen, ha szimbolikus rituálé keretében hajtják végre, ahol az emberi résztvevők az istenségeket képviselik.  
 > A hierosz gámosz fogalma nem mindig feltételez szó szerinti szexuális kapcsolatot a rituáléban, hanem tisztán szimbolikus vagy mitológiai kontextusban is használatos, nevezetesen az alkímiában és így a jungi pszichológiában is. A hierosz gámosz a termékenységi rituálék prototípusaként van leírva.  
 
-Falvay Károly Nagyboldogasszony című könyvének 141. oldalán írottakat ami ide illik, lásd [[T/Tejútanya\|Tejútanya]]. Lásd még MA anyagát [[N/Nász\|nász]]. A tündérek azaz magyarok nászáról lásd [[K/Kérész\|kérész]].  
+Falvay Károly Nagyboldogasszony című könyvének 141. oldalán írottakat ami ide illik, lásd [[T/Tejútanya\|Tejútanya]]. Lásd még MA anyagát [[N/Nász\|nász]]. A tündérek azaz magyarok nászáról lásd [[K/Kérész\|kérész]].  
 A szófejtés kevésbé érdekes, de előtagját lásd fentebb és utótagját [[P/Polygamy\|polygamy]].  
 [[G/Gemination\|Gemination]] címnél is szóba került a téma legutóbb: tulajdonképpen a szent nász téridőbeli helye az Ikrek-Rák, azaz a [[K/Kutyanemzés\|kutyanemzés]] helye, ahogy ott is írtuk. A férfi és nő ott találkozik, Szíriuszban (ami [[A/Androgün\|androgün]] is, éppen ezért). [[M/Magyar istencsalád\|Magyar istencsalád]] és [[F/Feleség\|feleség]] címnél is lényegében erről volt szó.  
 
