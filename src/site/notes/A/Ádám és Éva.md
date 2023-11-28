@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ádám és Éva/","title":"Ádám és Éva","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-06T01:53","updated":"2023-11-25T12:09"}
+{"dg-publish":true,"permalink":"/A/Ádám és Éva/","title":"Ádám és Éva","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-06T01:53","updated":"2023-11-28T09:24"}
 ---
 
 
@@ -67,7 +67,7 @@ Ennél is megdöbbentőbb az [[A/Ádám\|Ádám]] címnél adatokkal jelentkező
 
 [^1]: Lábjegyzet:  
 Másutt lesz szó arról, hogy mit kell valójában Ádám oldalbordájából teremtésen érteni. Lásd még borda kapcsán [[T/TI\|TI]].  
-A kétneműség kapcsán lásd [[A/Androgyn\|androgün]] és mindenféle hüllőkkel kapcsolatos adatot [[E/Edgar Dacqué\|Edgar Dacqué]], [[C/Csallóköz\|Csallóköz]], stb.  
+A kétneműség kapcsán lásd [[A/Androgün\|androgün]] és mindenféle hüllőkkel kapcsolatos adatot [[E/Edgar Dacqué\|Edgar Dacqué]], [[C/Csallóköz\|Csallóköz]], stb.  
 
 [^2]: Lábjegyzet:  
 Kit Kandra Kabos adata szerint már [[H/Horvát István\|Horvát István]] is magyar ősnek merészelt állítani. Lásd a témáról még ott.  
