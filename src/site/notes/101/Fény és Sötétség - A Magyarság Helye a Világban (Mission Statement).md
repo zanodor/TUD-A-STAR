@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["dg_uploaded","gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-11-23T01:04"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["dg_uploaded","gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-11-28T09:11"}
 ---
 
 
@@ -31,7 +31,7 @@ Végezetül hálás vagyok az [Obsidian](https://obsidian.md) nevű program kés
 Köszönöm az Ön érdeklődését is!  
 (Csak azért nem tegezlek, mert így meglátod, hogy az Ön-ben az Én is benne van... János bátyám szenzációs meglátása, hogy a magyar személyes névmások Isten jelentésűek.)  
 
-## Jelen web-app használata
+## Jelen web-app és használata
 
 Mivel a kutatás folyamatos és az elkövetkezendő mintegy 40-50 (500-1000?) évre be vagyok táblázva, nehéz lesz még ezt az online felületet is működésben tartani, nemhogy angol fordítással előállni (interaktív PDF is lehetséges majd valamikor), de minden gondot megoldással orvosolunk. 
 
@@ -61,7 +61,9 @@ A jövőben erre is megoldás születik majd, így ezzel majd nem kell foglalkoz
 
 Egyes helyeken, ahol a Wikilinkek után közvetlenül egy kötőjel vagy rag következik, egy felesleges szóköz jelenhet meg. Ennek okát nem tudom; talán a Google automatikus fordítójának bekapcsolt állapota okozza. Az én gépeimen és böngészőimben ez a probléma nem áll fenn, de az olvashatóságot annyira nem befolyásolja, hogy ezért bárminemű szoftveres beavatkozást eszközöljek.  
 
-A menet közbeni folyamatos feltöltésekkel előbb a mobilos/táblagépes böngészőkön, majd a laptopok és asztali gépek böngészőin megszűnt működni a keresés funkció. Remélhetőleg erre az elkövetkezendő hónapokban lesz valamilyen megoldás, mert a funkció nagyon hasznos, hiszen nemcsak a cikkek címeire, hanem azok tartalmára is lehetett keresni és azonnali eredményeket produkált. Ellenkező esetben az oldalt látogatónak a bal oldali A-Z mappákban manuálisan tallózva kell kalauzolni magát, ami nem ideális (de még ez is fejlettebb megoldás egyes blogok megoldásaihoz képest).  
+A menet közbeni folyamatos feltöltésekkel előbb a mobilos/táblagépes böngészőkön, majd a laptopok és asztali gépek böngészőin néha megszűnik működni a keresés funkció. Remélhetőleg erre az elkövetkezendő hónapokban lesz valamilyen megoldás, mert a funkció nagyon hasznos, hiszen nemcsak a cikkek címeire, hanem azok tartalmára is lehetett keresni és azonnali eredményeket produkált. Ellenkező esetben az oldalt látogatónak a bal oldali A-Z mappákban manuálisan tallózva kell kalauzolni magát, ami nem ideális (de még ez is fejlettebb megoldás egyes blogok megoldásaihoz képest).  
+
+A weboldal úgynevezett favicon-ja egy szarvast ábrázol egy körkeresztben. Tehát nem sátánista, szabadkőműves, sorosista, billgécista vagy akármilyen jelkép. A régi hitben a szarvas(ünő) isteni szimbólum és a körkereszt közepén is Isten van. Aki ettől az irányzéktól eltér (el[[T/Tévely\|tévely]]edik), bűnt követ el; lásd erről [[H/Hamartia\|hamartia]] és [[I/Íj és a nyíl#Az íj és a nyíl ősi vallási eszköz\|íj és a nyíl]] címnél.  
 
 ## A Tudástárról
 
