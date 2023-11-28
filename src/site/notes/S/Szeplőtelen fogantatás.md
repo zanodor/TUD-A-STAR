@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szeplőtelen fogantatás/","title":"Szeplőtelen fogantatás","tags":["dg_uploaded","Englishtexttranslated","containstransclusions"],"created":"2023-11-13T01:57","updated":"2023-11-25T11:25"}
+{"dg-publish":true,"permalink":"/S/Szeplőtelen fogantatás/","title":"Szeplőtelen fogantatás","tags":["dg_uploaded","Englishtexttranslated","containstransclusions"],"created":"2023-11-13T01:57","updated":"2023-11-28T09:13"}
 ---
 
 
@@ -85,7 +85,7 @@ Práczki István Szittya Biblia című könyvének 47. és 54. oldalán igen meg
 </div></div>
 
 
-Persze nem Szent Albert volt az egyetlen, aki a [[S/Szűz csillagkép\|Szűz csillagkép]] helyzetével foglalkozott. 
+Persze nem Szent Albert volt az egyetlen, aki a [[S/Szűz csillagkép\|Szűz csillagkép]] helyzetével foglalkozott.
 
 #### Falvay Károly Nagyboldogasszony...
 
@@ -170,7 +170,7 @@ Még ami itt érdekes, az az, amit...
 
 ## Szűznemzésre képes állatok
 
-A méhekről és a növényekről volt szó fentebb. [Ezen](https://index.hu/tudomany/gyik061221/) oldalon komodói varánusz (sárkánygyíknak is nevezik) önnemzéséről volt szó, nemrég pedig [ezen](msn.com/hu-hu/hirek/other/képes-a-szűznemzésre-a-veszélyeztetett-kaliforniai-kondor/) oldalon kaliforniai kondorról jegyezték fel ezt a képességet (két hím fióka kelt ki egy-egy meg nem termékenyített tojásból).  
+A méhekről és a növényekről volt szó fentebb. [Ezen](https://index.hu/tudomany/gyik061221/) oldalon komodói varánusz (sárkánygyíknak is nevezik) önnemzéséről volt szó, nemrég pedig [ezen](https://msn.com/hu-hu/hirek/other/képes-a-szűznemzésre-a-veszélyeztetett-kaliforniai-kondor/) oldalon kaliforniai kondorról jegyezték fel ezt a képességet (két hím fióka kelt ki egy-egy meg nem termékenyített tojásból).  
 Ezek után nem véletlen, hogy a [[T/Tojás\|tojás]] (a nőiség, a női istennő szimbóluma) az eredetmítoszok állandó kelléke és hogy a [[S/Sárkány\|sárkány]] a [[T/Tejútanya állatalakjai\|Tejútanya egyik mitikus-állatalakja]].  
 
 #### Greg Rigby The God Secret...
