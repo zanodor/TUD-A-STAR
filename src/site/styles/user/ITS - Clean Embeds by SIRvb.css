@@ -1,0 +1,38 @@
+/*Clean Embeds*/
+.embed-clean .internal-embed > .markdown-embed, .embed-clean .internal-embed.is-loaded:not(.image-embed),
+.internal-embed > .markdown-embed,
+.internal-embed.is-loaded:not(.image-embed) {
+  --embed-padding: 0;
+  border: none;
+  box-shadow: none;
+}
+.embed-clean .internal-embed > .markdown-embed:not(:hover), .embed-clean .internal-embed.is-loaded:not(.image-embed):not(:hover),
+.internal-embed > .markdown-embed:not(:hover),
+.internal-embed.is-loaded:not(.image-embed):not(:hover) {
+  --embed-border-color: transparent;
+  --embed-border-left-color: var(--embed-border-color);
+  --embed-border-right-color: var(--embed-border-color);
+  --embed-border-top-color: var(--embed-border-color);
+  --embed-border-bottom-color: var(--embed-border-color);
+  --embed-border-left: var(--embed-thickness) var(--embed-border-type) var(--embed-border-left-color);
+  --embed-border-right: var(--embed-thickness) var(--embed-border-type) var(--embed-border-right-color);
+  --embed-border-top: var(--embed-thickness) var(--embed-border-type) var(--embed-border-top-color);
+  --embed-border-bottom: var(--embed-thickness) var(--embed-border-type) var(--embed-border-bottom-color);
+}
+.embed-clean .internal-embed.inline-embed,
+.internal-embed.inline-embed {
+  --embed-title-padding: 0;
+}
+
+.embed-dark-background {
+  --embed-background: var(--embed-bg);
+  --embed-border-left-color: transparent;
+  --embed-border-color-hover: var(--accent);
+  --embed-border-left-color-hover: var(--embed-border-color-hover);
+  --embed-border-right-color-hover: var(--embed-border-color-hover);
+  --embed-border-top-color-hover: var(--embed-border-color-hover);
+  --embed-border-bottom-color-hover: var(--embed-border-color-hover);
+  --hr-icon-background: var(--embed-bg);
+  --blockquote-background-color: linear-gradient(to right, var(--note), transparent);
+  --table-border-color: var(--embed-bg);
+}
