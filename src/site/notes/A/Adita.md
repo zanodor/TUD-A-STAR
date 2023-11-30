@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Adita/","title":"Adita","tags":["dg_uploaded","containstransclusions"],"created":"2023-10-19T10:41","updated":"2023-11-30T10:44"}
+{"dg-publish":true,"permalink":"/A/Adita/","title":"Adita","tags":["dg_uploaded","containstransclusions"],"created":"2023-10-19T10:41","updated":"2023-11-30T11:32"}
 ---
 
 
@@ -19,11 +19,6 @@
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/a/ad/#6wwhql" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-$<div class="markdown-embed-title">
-
-# clean
-
-</div>
 
 
 > Ad, adni igénknek pontosan megfelel annak árja, de megfordított da, darc alakja, csakhogy az egytagú szavak megfordítása a mi nyelvünk sajátsága lévén, ebből az következik, hogy ad igénk e megfordított da alakja a mi ősnyelvünkben is megvolt, és az árja nyelvekbe éppen emez alakja ment át. Egyébként is az adás, aktív, pozitív, tehát hímségi dolog lévén (a nőiségi tűrés, fogadás ellentéte), eszerint e szó az atya, török `ata`, szumer `adda` = atya szóval is természetes összefüggésben van, amely szó eredetileg még hím férfi jelentéssel is bírt, amit tanúsit \[az [[A/Ádám\|Ádám]] címnél is említett\] török `adam` = ember, férfi, valamint a bibliai [[A/Ádám\|Ádám]] név is.  
