@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Köszön/","title":"Köszön","tags":["dg_uploaded"],"created":"2023-10-17T08:48","updated":"2023-11-06T02:32"}
+{"dg-publish":true,"permalink":"/K/Köszön/","title":"Köszön","tags":["dg_uploaded"],"created":"2023-10-17T08:48","updated":"2023-11-30T09:38"}
 ---
 
 
@@ -42,7 +42,7 @@ Köszön a [[T/Tisztel\|tisztel]] fogalmával azonos, mely címnél [[T/Tistrya\
 
 Hasonló kösz szavunkhoz a finn `kiitos` = kösz(önöm).  
 
-Egyébiránt hangkiadásról, és arról, hogy Napnevek szerepelnek benne, volt szó [[B/Beszéd\|beszéd]], [[B/Béget\|béget]], [[B/BŐG\|bőg]], [[V/Vakkant\|vakkant]], [[D/DOH\|DOH]], [[S/SZÓ\|SZÓ]] (szól) címnél.  
+Egyébiránt hangkiadásról, és arról, hogy Napnevek szerepelnek benne, volt szó [[B/Beszéd\|beszéd]], [[B/Béget\|béget]], [[B/BŐG\|bőg]], [[V/Vakkant\|vakkant]], [[D/Duda\|duda]], [[D/DOH\|DOH]], [[S/SZÓ\|SZÓ]] (szól) címnél.  
 
 #### Supka Géza Kalandozás a kalendáriumban...
 
