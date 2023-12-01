@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["dg_uploaded","gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-11-28T09:11"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["dg_uploaded","gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-12-02T12:32"}
 ---
 
 
@@ -62,6 +62,8 @@ A jövőben erre is megoldás születik majd, így ezzel majd nem kell foglalkoz
 Egyes helyeken, ahol a Wikilinkek után közvetlenül egy kötőjel vagy rag következik, egy felesleges szóköz jelenhet meg. Ennek okát nem tudom; talán a Google automatikus fordítójának bekapcsolt állapota okozza. Az én gépeimen és böngészőimben ez a probléma nem áll fenn, de az olvashatóságot annyira nem befolyásolja, hogy ezért bárminemű szoftveres beavatkozást eszközöljek.  
 
 A menet közbeni folyamatos feltöltésekkel előbb a mobilos/táblagépes böngészőkön, majd a laptopok és asztali gépek böngészőin néha megszűnik működni a keresés funkció. Remélhetőleg erre az elkövetkezendő hónapokban lesz valamilyen megoldás, mert a funkció nagyon hasznos, hiszen nemcsak a cikkek címeire, hanem azok tartalmára is lehetett keresni és azonnali eredményeket produkált. Ellenkező esetben az oldalt látogatónak a bal oldali A-Z mappákban manuálisan tallózva kell kalauzolni magát, ami nem ideális (de még ez is fejlettebb megoldás egyes blogok megoldásaihoz képest).  
+
+Az is kiderült, hogy sajnos az ingyenes app korlátai közé tartozik az app-építés időbeli limitje. Ami az jelenti, hogy néhány ezer file-ban kell maximalizálnom a feltöltést; minden szó nem fér fel. A fontosabb témák mindegyike viszont feltöltésre kerül.  
 
 A weboldal úgynevezett favicon-ja egy szarvast ábrázol egy körkeresztben. Tehát nem sátánista, szabadkőműves, sorosista, billgécista vagy akármilyen jelkép. A régi hitben a szarvas(ünő) isteni szimbólum és a körkereszt közepén is Isten van. Aki ettől az irányzéktól eltér (el[[T/Tévely\|tévely]]edik), bűnt követ el; lásd erről [[H/Hamartia\|hamartia]] és [[I/Íj és a nyíl#Az íj és a nyíl ősi vallási eszköz\|íj és a nyíl]] címnél.  
 
@@ -365,7 +367,7 @@ Minél több az adat, annál közelebb jutni az igazsághoz, jelen esetben a val
 
 A görög igékhez hasonlóan, sokszor utólag képzettek, hozzákapcsolt jelentéssel. Például `monere` = figyelmeztet; lásd [[M/Monument\|monument]].  
 
-Többször feltűnt, hogy az ófrancia, katalán és albán nyelvben talált (hun/szabin/kelta-)latin szavak eredetibbnek tűnnek a latinoknál. Az ófrancia nyelv kelta-gall vázát illetve egyáltalán a kelta nyelv létjogosultságát a nyelvészet nem igazán ismeri el, mert ezzel olyan lavinát indítana el, mely a magyar, továbbá sumer rokonság elismerésével átírná az eddig elfogadott képet. (Az, hogy mit értünk [[K/Kelta nyelv\|kelta nyelv]] alatt is érdekes, mert egyes régi nézetek szerint a kimmér-waleszi lehet az eredeti kelta, mely a brit nyelv vázát alkothatta.)  
+Többször feltűnt, hogy az ófrancia, katalán és albán nyelvben talált (hun/szabin/kelta-)latin szavak eredetibbnek tűnnek a latinoknál. Az ófrancia nyelv kelta-gall vázát illetve egyáltalán a kelta nyelv létjogosultságát a nyelvészet nem igazán ismeri el, mert ezzel olyan lavinát indítana el, mely a magyar, továbbá sumer rokonság elismerésével átírná az eddig elfogadott képet. (Az, hogy mit értünk [[K/Kelta#Kelta nyelv\|kelta nyelv]] alatt is érdekes, mert egyes régi nézetek szerint a kimmér-waleszi lehet az eredeti kelta, mely a brit nyelv vázát alkothatta.)  
 
 A latin szavakra visszavezetett újlatin, albán, kelta (mellyel kapcsolatosan tehát felmerült, hogy több esetben az átvevő az átadó, mintsem gondolnánk) szavakkal kapcsolatosan az az ember érzése, hogy régen ezeken a területeken nem ezen a nyelven beszélt a lakosság, hanem a vallás/politika határozta meg, hogy mely szavakat kell használni. Azaz gyakorlatilag Nyugat-Európában is az játszódott le, mint Közép- és Dél-Amerikában a spanyol nyelv behozatalával: a politikai helyzet megkívánta, hogy az új nyelvet használják, elsősorban az államigazgatási körökben. Magyarország területén is volt a latin hivatalos nyelv, az ország viszont ellenállt, és nem terjedt el.  
 
