@@ -13,6 +13,6 @@ Szé-Na is a Nap Háza értelmet takarja. A [[S/Szalma\|szalma]] szónál írott
 > A Széna így bontandó: Szé és Na. A Szé a Fény, a Na a Ház. Szénával gyújtottak tüzet gyakran.  
 
 Ipolyi Arnold Orionnál szereplő adata szerint a litvánban is `szen` = széna.  
-A finnben SZ>H váltással `heinä` = széna
+A finnben SZ>H váltással `heinä` = széna.  
 
   
