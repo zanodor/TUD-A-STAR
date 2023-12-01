@@ -2,11 +2,11 @@
 .embed-clean .internal-embed > .markdown-embed, .embed-clean .internal-embed.is-loaded:not(.image-embed),
 .internal-embed > .markdown-embed,
 .internal-embed.is-loaded:not(.image-embed) {
-  --embed-padding: 10;
+  --embed-padding: 0;
   border: none;
   box-shadow: none;
   margin-left: 0px;
-  padding-left: 0px;
+  padding-left: -10px;
 }
 .embed-clean .internal-embed > .markdown-embed:not(:hover), .embed-clean .internal-embed.is-loaded:not(.image-embed):not(:hover),
 .internal-embed > .markdown-embed:not(:hover),
@@ -23,7 +23,7 @@
 }
 .embed-clean .internal-embed.inline-embed,
 .internal-embed.inline-embed {
-  --embed-title-padding: 10;
+  --embed-title-padding: 0;
 }
 
 .embed-dark-background {
