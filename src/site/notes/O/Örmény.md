@@ -32,7 +32,7 @@ Nagyon úgy tűnik, hogy itt ugyanazt látjuk, mint amit az [[A/Angra Manju\|Ang
 A [[J/Jereván\|Jereván]] címnél csatolt Quora válaszom végére nem mertem már odatenni ezen sort:  
 > Judging from Jerusalem's original name, Jer can also be Ur/Uru, meaning Lord, which Lord is halved into the dark half as Ahriman also.  
 
-Örményország tehát Magyaroszág ([[H/Hungária\|Hungária]]), Írország ([[E/Eire\|Eire]]), [[I/Izrael\|Izrael]] és [[J/Judea\|Judea]] után egy újabb olyan ország, mely nőiség (persze rendesen minden [[O/Ország\|ország]] nőiség).  
+Örményország tehát Magyarország ([[H/Hungária\|Hungária]]), Írország ([[E/Eire\|Eire]]), [[I/Izrael\|Izrael]] és [[J/Judea\|Judea]] után egy újabb olyan ország, mely nőiség (persze rendesen minden [[O/Ország\|ország]] nőiség).  
 
 A név megfelel [[G/Germán\|germán]] eredetibbnek(?) vélt előhang nélküli alakjának. Erre akkor is gondoltam, amikor a [[N/Nefilim\|Nefilim]] címnél taglalt, [[H/Három\|három]] és [[H/Harmony\|harmony]] címnél is említett [[H/Hermon\|Hermon]] hegy került szóba.  
 
