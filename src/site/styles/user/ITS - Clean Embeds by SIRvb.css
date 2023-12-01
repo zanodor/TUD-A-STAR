@@ -2,7 +2,7 @@
 .embed-clean .internal-embed > .markdown-embed, .embed-clean .internal-embed.is-loaded:not(.image-embed),
 .internal-embed > .markdown-embed,
 .internal-embed.is-loaded:not(.image-embed) {
-  --embed-padding: 20;
+  embed-padding: 20px;
   border: none;
   box-shadow: none;
   margin-left: 0px;
