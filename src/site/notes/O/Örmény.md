@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/O/Örmény/","title":"Örmény","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-20T06:56","updated":"2023-11-10T07:03"}
+{"dg-publish":true,"permalink":"/O/Örmény/","title":"Örmény","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-20T06:56","updated":"2023-12-01T07:49"}
 ---
 
 
 # Örmény
 
-#### Kállay Ferenc A pogány magyarok vallása című könyvében írja:
+#### Kállay Ferenc A pogány magyarok vallása...  
 
+...című könyvében írja:  
 > Armenia neve, hol az Ararat hegyek világtörténeti fontosságot nyertek, tulajdonkép menyhegyet jelent, hol a meny népe lakott. ([Lásd 281. old.](zotero://open-pdf/library/items/DFI47XPY?page=281&annotation=THTA7I63))  
 
 #### Péterfai János írja:
