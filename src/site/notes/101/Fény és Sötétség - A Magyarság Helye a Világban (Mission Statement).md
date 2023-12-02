@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["dg_uploaded","gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-12-02T12:32"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["dg_uploaded","gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-12-02T06:29"}
 ---
 
 
@@ -35,23 +35,24 @@ Köszönöm az Ön érdeklődését is!
 
 Mivel a kutatás folyamatos és az elkövetkezendő mintegy 40-50 (500-1000?) évre be vagyok táblázva, nehéz lesz még ezt az online felületet is működésben tartani, nemhogy angol fordítással előállni (interaktív PDF is lehetséges majd valamikor), de minden gondot megoldással orvosolunk. 
 
-Gondolkodom az egyes angol feliratok ("Search", "On this page", "Connected pages", stb.) magyar nyelvűre bűvészkedésének lehetőségén, csak vélhetőleg minden egyes Digital Garden bővítmény frissítés után át kellene javítani.  
-Mivel nincs sok belőlük, a jelentésüket és funkciójukat elmondanám gyorsan. Tehát angolul nem tudók is bátran, nyugodtan használhatják az oldalt.  
-A **Search**: Keresés. Remélhetőleg sok ezer állománynál is valósidejű, azaz gyors marad.  
-Az **On this page** könnyen láthatóan a jelenleg megnyitott cikk tartalomjegyzéke, címsorok szerint. Hosszabb állományokban hasznos igazán, vagy ha valaki pl. Jankovics Marcell vagy más véleményére akar rögtön ugrani.  
-A **Connected pages** egy, az adott cikkhez kötődő más, rokon (a cikkhez "linkelt") témák neveit (magukat a cikkeket) tartalmazó grafikai megoldás, melyben több kis gomb is van. Érdemes nyomogatni, mert nagyítani is lehet. A földgömb az összes file-t meg akarja mutatni, ami sok ezer file-nál nem tudom, mennyire lesz hasznos (és a gépet is leterhelheti), a négy nyilas ikonnal mellette kedvezőbb közelségbe hozhatók az egyes grafikonok, hogy még olvashatóvá is válnak az elemek. Újra ugyanerre kattintva kerülünk vissza a szöveghez. A **Depth** a kapcsolatok mélységének megjelenítését szabályozza: 1-es, 2-es és 3-as fokozata van.  
-A **Pages mentioning this page** (oldalak, melyek ezen oldalt említik) ugyanezt szövegesen mutatja meg.  
+ 
+A közben angolról magyarra fordított feliratokról pár szót:  
+**Keresés**. Control+K (Mac-en CMD+K) billentyűk együttes lenyomásával is elérhető. Remélhetőleg sok ezer állománynál is valósidejű, azaz gyors marad.  
+A menet közbeni folyamatos feltöltésekkel előbb a mobilos/táblagépes böngészőkön, majd a laptopok és asztali gépek böngészőin megszűnt működni a keresés funkció. Remélhetőleg erre az elkövetkezendő hónapokban lesz valamilyen megoldás, mert a funkció nagyon hasznos, hiszen nemcsak a cikkek címeire, hanem azok tartalmára is lehetett keresni és azonnali eredményeket produkált. Ellenkező esetben az oldalt látogatónak a bal oldali A-Z mappákban manuálisan tallózva kell kalauzolni magát (vagy az egyes linkekre kattintva az oldalak sorain belül), ami nem ideális.  
 
-Bal oldalt a három vízszintes vonalkára kattintva találjunk az összes eleddig feltöltött állomány A-Z mappákba szedett listáját. Ez azért lehet jobb, mint a Search, mert itt látjuk a (folyamatosan bővülő) "felhozatalt": az egyes témákat, melyek nem minden esetben pusztán egy szó lehetséges eredetét feszegetik, hanem akár esszé méretben kívánnak érvényesülni (pl. [[C/Csudaszarvas\|Csudaszarvas]], [[T/Turul\|Turul]], [[H/Hunor és Magor\|Hunor és Magor]], [[I/Isten\|Isten]], [[M/Magyar\|Magyar]], stb.).  
+Az **Oldal tartalma** a jelenleg megnyitott cikk tartalomjegyzéke, címsorok szerint. Hosszabb állományokban hasznos igazán, vagy ha valaki pl. Jankovics Marcell vagy más véleményére akar rögtön ugrani. Igyekeztem a szerzők neveit így kiemelni mindenhol, ahol lehetett.  
+
+A **Kapcsolt oldalak** egy, az adott cikkhez kötődő más, rokon (a cikkhez "linkelt") témák neveit (magukat a cikkeket) tartalmazó grafikai megoldás, melyben több kis gomb is van. Érdemes nyomogatni, mert nagyítani is lehet. A földgömb az összes file-t meg akarja mutatni, ami sok ezer file-nál nem tudom, mennyire lesz hasznos (és a gépet is leterhelheti), a négy nyilas ikonnal mellette kedvezőbb közelségbe hozhatók az egyes grafikonok, hogy még olvashatóvá is válnak az elemek. Újra ugyanerre kattintva kerülünk vissza a szöveghez. A **Mélység** a kapcsolatok mélységének megjelenítését szabályozza: 1-es, 2-es és 3-as fokozata van.  
+Az **Oldalt említő más oldalak** ugyanezt szövegesen mutatja meg. Lesz amikor **Nincs említés más oldalról**.  
+
+Bal oldalt a három vízszintes vonalkára kattintva találjunk az összes eleddig feltöltött állomány A-Z mappákba szedett listáját. Ez azért lehet jobb, mint a **Keresés**, mert itt áttekinthetővé válik a (folyamatosan bővülő) "felhozatal": az egyes témák, melyek nem minden esetben pusztán egy szó lehetséges eredetét feszegetik, hanem akár esszé méretűvé nőttek (pl. [[C/Csudaszarvas\|Csudaszarvas]], [[T/Turul\|Turul]], [[H/Hunor és Magor\|Hunor és Magor]], [[I/Isten\|Isten]], [[M/Magyar\|Magyar]], stb.).  
 Az egyes cikkek majdnem mindegyikében lesznek kattintható, ún. "wikilinkek"; igen, mint a Wikipédián, azaz a rokon és nem rokon témákban szabadon lehet kalauzolni: egyes kattintások csak lejjebb visznek az adott oldalon, mások – jóval gyakrabban – egy másik file-ba léptetnek. A grafikon ugyanezen linkeket tartalmazza.  
 
-Amennyiben egy olyan helyre érkeznénk, amelyhez még adatállomány nem lett feltöltve (ezeknek linkjei más színűek), az alábbi értesítőt kapjuk:  
-"*There is nothing here  
-If you got here from a link, this note is probably not made public  
-Go back home*"  
-Azaz: itt nincs semmi; ha egy link vezetett ide, ez a bejegyzés még nem lett nyilvánosan létrehozva és a linkre kattintva ezen állományhoz kerülünk vissza. Lehet a böngésző bal felső sarkában a visszafelé nyíllal is hátrálni egyet ilyenkor.  
+Amennyiben egy olyan helyre érkeznénk, amelyhez még adatállomány nem lett feltöltve (ezeknek linkjei eleve más színűek), értesítőt kapunk:  
 
-A bal oldalon található fájlok listájában az A-Z mappák valamelyike alapból kinyitva mutatkozik. Erre vagy lesz valamiféle gyógyír, vagy a rókaszájakra kattintva bezárhatók (és újra kinyithatók).  
+A linkre kattintva ezen állományhoz kerülünk vissza. Lehet a böngésző bal felső sarkában a visszafelé nyíllal is hátrálni egyet ilyenkor.  
+
+A bal oldalon található fájlok listájában az A-Z mappák valamelyike néha alapból kinyitva mutatkozik. Erre vagy lesz valamiféle gyógyír, vagy a rókaszájakra kattintva bezárhatók (és újra kinyithatók).  
 
 Felül a borítékra kattintva lehet bármelyik oldalról email-t küldeni: az adott cikk alapértelmezetten témának lesz megadva. Legalul Disqus szolgáltatással lehet mindenki számára látható kommenteket küldeni.   
 A boríték mellett a három ikon értelemszerűen a téma színváltoztatását szolgálja: világos – sötét – automatikus. Legalábbis ez lett volna a cél; jelenleg leginkább átvált egyikről a másikra, mindegy hova kattint az ember, de ez is megfelel, sőt.  
@@ -60,8 +61,6 @@ Amennyiben 1400 pixelszélességnél kisebb képernyőn tekinti meg az oldalt, a
 A jövőben erre is megoldás születik majd, így ezzel majd nem kell foglalkozni.  
 
 Egyes helyeken, ahol a Wikilinkek után közvetlenül egy kötőjel vagy rag következik, egy felesleges szóköz jelenhet meg. Ennek okát nem tudom; talán a Google automatikus fordítójának bekapcsolt állapota okozza. Az én gépeimen és böngészőimben ez a probléma nem áll fenn, de az olvashatóságot annyira nem befolyásolja, hogy ezért bárminemű szoftveres beavatkozást eszközöljek.  
-
-A menet közbeni folyamatos feltöltésekkel előbb a mobilos/táblagépes böngészőkön, majd a laptopok és asztali gépek böngészőin néha megszűnik működni a keresés funkció. Remélhetőleg erre az elkövetkezendő hónapokban lesz valamilyen megoldás, mert a funkció nagyon hasznos, hiszen nemcsak a cikkek címeire, hanem azok tartalmára is lehetett keresni és azonnali eredményeket produkált. Ellenkező esetben az oldalt látogatónak a bal oldali A-Z mappákban manuálisan tallózva kell kalauzolni magát, ami nem ideális (de még ez is fejlettebb megoldás egyes blogok megoldásaihoz képest).  
 
 Az is kiderült, hogy sajnos az ingyenes app korlátai közé tartozik az app-építés időbeli limitje. Ami az jelenti, hogy néhány ezer file-ban kell maximalizálnom a feltöltést; minden szó nem fér fel. A fontosabb témák mindegyike viszont feltöltésre kerül.  
 
