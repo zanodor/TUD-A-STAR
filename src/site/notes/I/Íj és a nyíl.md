@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-30T08:39","updated":"2023-11-28T09:09"}
+{"dg-publish":true,"permalink":"/I/Íj és a nyíl/"}
 ---
 
 
