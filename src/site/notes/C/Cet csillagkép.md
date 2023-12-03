@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cet csillagkép/","title":"Cet csillagkép","tags":["dg_uploaded"],"created":"2023-10-23T02:27","updated":"2023-10-25T01:10"}
+{"dg-publish":true,"permalink":"/C/Cet csillagkép/","title":"Cet csillagkép","tags":["dg_uploaded"],"created":"2023-10-23T02:27","updated":"2023-12-03T06:12"}
 ---
 
 
 # Cet csillagkép
 
-RHA Star Names című könyvében van adat róla bőven. Lásd még utalást [[D/Depression\|depression]].  
+Richard H. Allen Star Names című könyvében van adat róla bőven.   
 
 #### Jankovics Marcell Jelkép-kalendárium...
 
@@ -16,7 +16,7 @@ RHA Star Names című könyvében van adat róla bőven. Lásd még utalást [[D
 
 > Az Isten vagy a hős pokolra szállása és holt lelkek kiszabadítása a klasszikus mitológiáknak és a meséknek is jól ismert mozzanata (Orpheusz Euridikéért, Héraklész Alkésztiszért és Thészeuszért szállt le az alvilágba). Ide illenek a mitologikus alvilágjárás jelképes példái is. Amikor Héraklész megküzd az égi Cettel, [[H/Három nap\|három nap]]ot tölt a szörny beleiben, amíg leszámol vele (l. még lászón és a sárkány, Jónás és a cet történetét; lásd még [[T/Tiamat\|Tiamat]]). Láttuk azt is, hogy a hérosz visszatértének helye (a Cet csillagkép szája) a [[T/Tavaszpont\|tavaszpont]] körüli időre esett annak idején, vagyis a mítosz a szoláris hős tavaszi halálát és föltámadását jelképezte.  
 
-Ami a név etimologiáját illeti, [[K/Kutya\|kutya]] címnél is szerepelt az alábbi passzus:  
+Ami a név etimológiáját illeti, [[K/Kutya\|kutya]] címnél is szerepelt az alábbi passzus:  
 A Cet csillagkép görögben `Kήτος`, szintén lehet Kut/Kút szavakhoz kapcsolható, annál is inkább, mert a bálna szokása, hogy vizet köp. Jankovics Marcell egyes könyveiben **Kétó** nevű szörny nevet említ, így nem igazán illik ide, viszont az kijelenthető, hogy az egyes mitológiák pikkelyes, akár kígyóbőrű víziszörnyei (ahogy Szkülla is) kutyaszerűek. Azaz a K-T szóváz, mely halál és lélek jelentésű szavakat (is) tesz ki a kún-hun nyelvben nem véletlenül szerepelhet a cet nevében.  
 Hasonló szavak még csatt, [[C/Csata\|csata]], [[K/Kata\|kata]], továbbá ugye [[K/Két\|két]], [[K/Kettő\|kettő]], ketté, mely az elvágó K-T vázú [[C/Cut\|cut]] (lásd még [[K/KAT\|KAT]]) szóban is megvan.  
 
