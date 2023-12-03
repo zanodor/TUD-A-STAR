@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Aalu/","title":"Aalu","tags":["dg_uploaded"],"created":"2023-11-06T01:09","updated":"2023-11-06T01:22"}
+{"dg-publish":true,"permalink":"/A/Aalu/","title":"Aalu","tags":["dg_uploaded"],"created":"2023-11-06T01:09","updated":"2023-12-03T06:14"}
 ---
 
 
@@ -7,10 +7,11 @@
 
 Az északi-sarki Paradicsom istenének/[[F/Fa\|fá]]jának neve az egyiptomi hagyományban.  
 
-#### Várkonyi Nándor Az elveszett Paradicsom című könyvében írja:  
+#### Várkonyi Nándor Az elveszett Paradicsom...  
 
+...című könyvében írja:  
 > Több egyiptológus szerint, az Aalu szó etimológiailag feltűnően megegyezik a zsidó [[E/ÉL\|Él]] és a babiloni `Ili` szóval (mindkettő istent jelent); ez lehetett az eredeti jelentése az egyiptomiaknál is, később az istenség lakóhelyének jelzésévé változott.  
-> Az Aaluból származott minden jel szerint a görög Elü(szion)[^1]. Különös, hogy az Aalu és Elü(szion) szó az egyiptomi, illetve a görög (indogermán) nyelvekből nem vezethető le, itt is, ott is idegen eredetűnek látszik, vagy talán egy elfelejtett ősnyelv\[!\] rituálisan megőrzött szava.  
+> Az Aaluból származott minden jel szerint a görög Elü(szion)[^1]. Különös, hogy az Aalu és Elü(szion) szó az egyiptomi, illetve a görög (indogermán) nyelvekből nem vezethető le, itt is, ott is idegen eredetűnek látszik, vagy talán egy elfelejtett ősnyelv rituálisan megőrzött szava.  
 - Megjegyzés: zsidó nyelv nincs, max. [[J/Jiddis\|jiddis]]. De a héber sem az ő nyelvük volt.   
 
 Amit VN nem tudott, hogy ez az ősnyelv a magyar, és így Aalu (változatai Aaru, Jalu vagy Jaru) az élet- vagy [[I/Istenfa\|istenfa]], hisz, ahogy írja, Aalu írásjegye, hieroglifája a leggyakrabban fa vagy kígyó.  
