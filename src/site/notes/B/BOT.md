@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/BOT/","title":"BOT","tags":["dg_uploaded"],"created":"2023-11-21T11:37","updated":"2023-11-21T11:37"}
+{"dg-publish":true,"permalink":"/B/BOT/","title":"BOT","tags":["dg_uploaded"],"created":"2023-11-21T11:37","updated":"2023-12-03T09:46"}
 ---
 
 
@@ -20,6 +20,8 @@ Legutóbb amikor [[R/Rúna\|rúna]] címnél az Ipolyi által megadott ónémet 
 - Innen PJI ház és Ég Királynője etimonjai.  
 
 A ([[B/Bodega\|bodega]] és) [[B/Boutique\|boutique]] szónak megfelelő dán `butik` = bolt szó láttán ötlött fel, hogy [[B/Bolt\|bolt]] szavunk bót formája az, amit BOT, [[B/BAT\|BAT]] = ház, kis ház (bódé) jelentéssel ismertünk.  
+Persze jóval több a B-D vázú szó, mely alapjelentése ház, sőt, [[P/Pajta\|pajta]] is hasonló, ahol CzF adatával kapunk más nyelvekből hasonló szavakat:  
+> Egyezik vele a házat jelentő héber `bajith`, `beth`, arab `bejt`. Ide sorozható a persa `pájga` (ól), német `Bude`, lengyel `buda`, orosz `bodka` is, stb.  
 
 ## Bot ismertebb eszköz jelentése
 
