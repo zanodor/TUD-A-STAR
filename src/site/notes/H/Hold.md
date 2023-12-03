@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","stitched","dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2023-11-25T12:00"}
+{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","stitched","dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2023-12-03T06:15"}
 ---
 
 
@@ -46,7 +46,7 @@ Jankovics Marcell Ahol a madár se jár című könyvében ír arról, hogy a Ma
 
 A másik mellette szóló érv lehet a sumér \*kuda = kutya és főképpen a perzsa `khoda` (ejtsd: Khoda/[[K/Khuda\|Khuda]]) = isten szavakkal való egyeztethetősége. Ha nem fogadjuk el, hogy az angol [[G/God\|God]] és a perzsa khoda közvetlenül a kutya szavunkból ered, akkor eredhet **a kutya nevet is magába építeni látszó Hold** valamely olyan archaikus nevéből (Hóda), melyre talán épp DR enged rávilágítani. A kutya pedig Hold-állat (is), tehát az egyezőség ismét megvan: gyakorlatilag kimondható, hogy a perzsa istent jelentő szó bármelyik fogalomból eredhet.  
 (De JM is azt írja, hogy az asztronómiai istenségek közül rendszerint az eget megszemélyesítő isten vagy a napisten a legrangosabb és legfeljebb a Hold (istene) előzi meg. Ahol az Ég az úr, ott a Nap rangban rögtön utána következik. Ezek alapján is lehet [[K/Khuda\|Khuda]] kutya/Holdisten.)  
-Mivel JM is azt írja, hogy az asztronómiai istenségek közül rendszerint az eget megszemélyesítő isten vagy a Napisten a legrangosabb és legfeljebb a Hold (istene)\[!\] előzi meg (megjegyzés: ahol az Ég az úr, ott a Nap rangban rögtön utána következik), nos, ezek alapján Khoda-God kutya/Holdisten kell legyen.  
+Mivel JM is azt írja, hogy az asztronómiai istenségek közül rendszerint az eget megszemélyesítő isten vagy a Napisten a legrangosabb és legfeljebb a Hold (istene) előzi meg (megjegyzés: ahol az Ég az úr, ott a Nap rangban rögtön utána következik), nos, ezek alapján Khoda-God kutya/Holdisten kell legyen.  
 Különösen Varga Zsigmond Az ősmagyar mitológia című könyvének 347. oldalán álló adata tűnik mérvadónak, mely tisztázni is látszik a kérdést: a nyilván [[G/GUD\|GUD]] címnél taglalt sumér gyökre visszavezetett sumér `God` = ugyanis Hold jelentésű[^5] (hozza még a törökös **Aja** nevet is Hold jelentéssel, furcsamód sumérként; minden további égitest-elnevezést a sumérban és asszír-babiloniban lásd [[S/Sumér zodiákus\|sumér zodiákus]]).  
 Ami azt illeti, hogy a germán nyelvekben God Holdisten már csak azért is lehetne, mert a szintén hun-eredetű török és az egyéb iszlámot felvevő népeknél szintén [[H/Holdtisztelet\|holdtisztelet]] volt (a szemitáknál viszont naptisztelet). Sőt, a sumér(ban is valóban meglévő?) és régi(?) finn [[K/KUN\|KUN]] = Hold is erre utal (lásd erről [[S/Suomi\|Suomi]] című is írottakat). Apropó, kitől származik, hogy a sumér kun Hold jelentésű? Tóth Alfrédtől nem, mert nála a sumér `húl` = Hold. Akárhogy is, VZs éppen God alakúnak és nem Hud vagy Gud alakúnak írta le[^6], és JM adatával egyeztetve talán véglegesen(?) kimondható, hogy a germán Gott-God Holdisten, nem Teremtő Isten, vagy viharisten/égisten. Ugyanakkor a hun-magyar [[G/Göd\|Göd]] nem Holdisten(nő), ez szinte bizonyos. Ahogy az is, hogy eredetileg a Holdisten Holdistennő. A Hold kontra Göd kérdés [[G/Göd\|Göd]] címnél is előjött:  
 A szír/arámi nyelvben[^7] `kūdā`, `kudtā` = új, frissen szülő anyuka neve (egyes nyelvekben megkülönböztetik[^8]), mely állítólag a `kūd`, `kūdā` = méhlepény szóból származna, de inkább fordított lehet a dolog.  
@@ -59,7 +59,7 @@ Hogy itt most a kutyára, a Tejútanya [[S/Szuka\|szuka]] állatalakjára tört�
 Ki kell azt is jelenteni, hogy a [[K/Kutya\|kutya]] (kuta) és Hold szavaink ugyan nem teljesen azonos felépítésűnek (Ku-Ta <> Hu-Da) gondolhatók, de mégis azok.  
 [[Y/Yehuda Berg\|Yehuda Berg]] író nevében is ez a Hu-Da alak szerepel.  \[Valójában Yehuda a [[J/Júda\|Júda]] alak hehes változata.\]  
 
-#### Falvay Károly Nagyboldogasszony...
+#### Falvay Károly Nagyboldogasszony...
 
 ...című könyvének 133. oldalán Bachofent idézi ([[N/Nap#Nap és Hold\|Nap és Hold]] cím/alcímnél is szerepelt):  
 > "A Holddal szemben áll a Nap, ahogy a nővel a férfi. Amit a Föld a maga anyagának legbelsejében egyesít, s csak szüléskor bocsátja külön-külön napvilágra: - a női és a férfi nem az égben két kozmikus, önmagában megálló hatalommá válik szét. A két égitest viszonyában a férfi és a nő viszonya tükröződik minden részletében. A Hold anyagisága mellett fellép a férfi nap-erő anyagtalansága. Önmagában és önmagáért fénytelen a hold, a női föld-anyaghoz hasonló. Csak a Nap sugarai keltik életre. Ezek részesítik fényben és a termékenység princípiumában. A Hold tehát teljességgel kozmikus Földként jelenik meg. Anyagi, mint a mi Földünk, foganó, mint ez, hasonlóan anya módon szülő. Folytonos növekedésében és csökkenésében az anyag anyaöléből keletkező teremtmény örök változását mintegy képszerűen ábrázolja.  
@@ -315,10 +315,10 @@ Amennyiben – szokás szerint – elírás lenne a könyvében, akkor is maximu
 Az [alábbi](https://en.m.wikipedia.org/wiki/Aramaic_language) oldal tanúsága szerint az [[A/Arám\|arámi]] nyelv azonos a [[S/SZÍR\|szír]] nyelvvel, azaz felcserélhetők.  
 
 [^8]: Lábjegyzet:  
-Nálunk is meg lehetett különböztetve. Falvay Károly adata [[U/Újhold\|újhold]] címnél is szerepelt:  
+Nálunk is meg lehetett különböztetve. Falvay Károly adata [[U/Újhold\|újhold]] címnél is szerepelt:  
 Bálint Sándor Szeged környéki gyűjtésében, mikor feljegyzi: "lakodalmat újholdkor szokás tartani," – ettől várták ugyanis az új asszony mágikus gyermekáldását, "telését". Innen van a **fiatalasszony Újhold megszólítása**: "Nyiss kaput, újhold!" A varázsszövegek "Újhold! Újkirály!" emlegetése az ellentétek egyesülésének változást eredményező tulajdonsága mágikus gyakorlatából származik.  
 —  
-Falvay Károly Nagyboldogasszony című könyvének 326. oldalán Hold – Újasszony fogalma mellé tett megjegyzésem is erről szólt. Amit oda írhattam volna, hogy a perzsa khuda Isten neve akár ugyanúgy női isten (akár Göd-Tejút, akár Hold) neve kellene legyen.  
+Falvay Károly Nagyboldogasszony című könyvének 326. oldalán Hold – Újasszony fogalma mellé tett megjegyzésem is erről szólt. Amit oda írhattam volna, hogy a perzsa khuda Isten neve akár ugyanúgy női isten (akár Göd-Tejút, akár Hold) neve kellene legyen.  
 A szír-arámi szó is ugye lehetne akár Hold alakú is, tekintve a [[H/Hold\|Hold]] és [[H/HUD\|HUD]] címnél írottakat.  
 Megjegyzés: az arámi szó viszont már nemcsak a frissen házasuló újasszonyt, hanem a frissen szülő anyát jelenti; a méhlepény szó megjelenése is ezt bizonyítja.  
 
@@ -329,7 +329,7 @@ Predikatívan, azaz főnév után/nélkül huida, attributívan, azaz közvetlen
 Bárhogy is volt "eleinte", az ókori csillagvallásokban a Hold már a második helyre, a Nap mögé szorult.  
 
 [^11]: Lábjegyzet:  
-Falvay Károly Nagyboldogasszony című könyvében írja:  
+Falvay Károly Nagyboldogasszony című könyvében írja:  
 Egy országban, ahol a nap égő sugarai a növények halálát jelentik, a hűvös holdsugarak a felfrissülést nyújtják. Így hitték a sumerek a termékenyítő [[H/Harmat\|harmat]]ot, ami hagyományainkban sem ismeretlen.  
 
 [^12]: Lábjegyzet:  
