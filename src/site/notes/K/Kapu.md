@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kapu/","title":"Kapu","tags":["dg_uploaded"],"created":"2023-10-30T08:56","updated":"2023-11-25T11:14"}
+{"dg-publish":true,"permalink":"/K/Kapu/","title":"Kapu","tags":["dg_uploaded"],"created":"2023-10-30T08:56","updated":"2023-12-03T10:40"}
 ---
 
 
@@ -12,10 +12,12 @@
 > Szumer `ḫab` = "verriegeln" (bezár, elreteszel); vö. még kapcsol. Összetételben: `sahḫab` = "Riegel" (retesz); vö. kapocs.  
 > Megjegyzés: de vö. még német `heften` (kapcsol) és `Haft` (fogság, bezárás). Bizonyára e német szavak töve is "ótörök eredetű". Avagy a latin `capio` (elkap, megfog), s a belőle képzett `captus`, `captivus` (fogoly, "elkapott") is. Láthatjuk, jó messzire eljutott ez az "ótörök eredetű" qap- ige!  
 
+Timaru Kast Sándor a kelta-ír `cab` = nyílás szóban találja meg szavunkat.  
+
 #### Péterfai János írja:
 
 > A Pu Üresség, az akkád Pu Kapu, az akkád szó magyar eredetű. Maga a Ka-Pu is egy üresség, hiány, mert a falat, kerítést a kapu megszakítja, hiányt, üres helyet képez a házat körbe vevő falban.  
->
+> 
 > A Ka-Gán Ka előtagja Fő, Magas, mint Ka-Sza, Ka-Pa, Ka-Pu és egyéb szavainkban.  
 
 A legfontosabb kapuk égi kapuk, melyekről [[P/Pünkösd\|Pünkösd]], [[T/Tejút-kapuk\|Tejút-kapuk]] és más címnél ([[J/Janus\|Janus]], [[G/Gate\|gate]], stb.) értekeztünk.  
@@ -30,7 +32,7 @@ A telugu nyelvű `kappu` = tető is arra az összefüggésre mutathat rá, hogy 
 Minden egyebet Tejút-kapuk idegen nyelvű szavairól lásd [[G/Gate\|gate]].  
 
 Tejútkapukról lásd [[T/Tejút-kapuk\|Tejút-kapuk]] címszót.  
-Lásd még [[K/Kapu – magyar térrendezés\|kapu – magyar térrendezés]]. Lásd még továbbá [[A/Ajtó\|ajtó]], [[K/Küszöb\|küszöb]], valamint a forgóajtó fogalmából kiindulva [[F/Forest\|forest]], fordul szavunból kiindulva [[F/Ford\|ford]], stb.  
+Lásd még [[K/Kapu – magyar térrendezés\|kapu – magyar térrendezés]]. Lásd még továbbá [[A/Ajtó\|ajtó]], [[K/Küszöb\|küszöb]], valamint a forgóajtó fogalmából kiindulva [[F/Forest\|forest]], fordul szavunkból kiindulva [[F/Ford\|ford]], stb.  
 
 #### Jankovics Marcell Jelkép-kalendárium...
 
@@ -110,7 +112,7 @@ Azt nem mondja, hogy ez utalás lenne a szűz/menyasszony [[V/Vulva\|vulvá]]já
 
 [^2]: Lábjegyzet:  
 A kelta mitológia szájon át történő fogantatási eseteit illetően: három (de lehet több) is ismert:  
-Nyilvánvalóan mind a három Tejútanyai szerepkörben áll: a waleszi (Tejút/Szíriusz)istennő [[C/Ceridwen\|Ceridwen]], a kutya/Naphős [[C/Cuchulainn\|Cuchulainn]] anyja [[D/Dechtire\|Dechtire]] és [[C/Concobar mac Nessa\|Concobar mac Nessa]] anyja, Nessa is ugyanúgy fogant meg: szájon át, [[F/Féreg\|féreg]] megivása által. (Lásd még Patricia Monaghan Kelta enciklopédiájának Pregnancy Through Drinking Drinking cikkét.)  
+Nyilvánvalóan mind a három Tejútanyai szerepkörben áll: a walesi (Tejút/Szíriusz)istennő [[C/Ceridwen\|Ceridwen]], a kutya/Naphős [[C/Cuchulainn\|Cuchulainn]] anyja [[D/Dechtire\|Dechtire]] és [[C/Concobar mac Nessa\|Concobar mac Nessa]] anyja, Nessa is ugyanúgy fogant meg: szájon át, [[F/Féreg\|féreg]] megivása által. (Lásd még Patricia Monaghan Kelta enciklopédiájának Pregnancy Through Drinking Drinking cikkét.)  
 
 [^3]: Lábjegyzet:  
 Az [[O/Őszpont\|őszpont]] a természet haldoklásának kezdete, Mihály \[ünnepnapja szeptember 29.\] már a tél sötétülő kapujában áll, hogy kezében az ítélet pallosával és az igazság mérlegével fogadja a holtak lelkeit. (A naptári sarokpontok jelképes "kapu", "hegy" neve – lásd a Mérleg-jel mintájául szolgáló \[[[Ahet\|ahet]]\] "fényhegy" hieroglifát – és a városkapuk, hegyek Mihálynak, korábban Thot-Mercuriusnak való ajánlása között belátható az összefüggés.) \[JM – Jelkép-kalendárium\]  
