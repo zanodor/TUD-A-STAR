@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2023-11-25T11:24"}
+{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["dg_uploaded","Englishtexttranslated"]}
 ---
 
 
@@ -13,7 +13,7 @@ Rev. Padre Pesti József S. J.: A magyar vallás – A turáni népek és a kere
 > Megállapíthatjuk, hogy a Szentháromság gondolata az egészen új valami a zsidóságnál és az esszénusoknál is, mert a zsidóság istenének tartalma egy egyedülálló, egészen magános, végtelenül zárkozott és a valóságtól – a természettől – teljesen különválasztott valami. Ami új a Szentháromság tanában az maga az ŐSI TARTALOM. Az, hogy ez az EGY ISTEN nincsen ebben a szörnyű egyedülvalóságban, hanem az Isten bölcsességének, az alábocsátott tűznek, az Isten fiának létezésében – mint a Szentháromság új keleti tana – feltámad az ősi sumir tradíciók ADAPA nevű, szerető teremtő Istene.  
 > Természetes, hogy ez nem a zsidóság tradicionális sajátja, hanem a mi keleti őseink szellemi tulajdona, amire felépült és a mai napig is él – az ezeket a tradiciókat már régén elfelejtett – kereszténységünk is.  
 
-Badiny Jós Ferenc Az Ősi Gyökér 1998/4. számában megjelent cikkében utal **Jézus király – a pártus herceg** című könyvére és említi a szentháromságot: a középkorig\[!\] tartotta magát az a nézet, hogy anya-atya-fiú alkotta.  
+Badiny Jós Ferenc Az Ősi Gyökér 1998/4. számában megjelent cikkében utal **Jézus király – a pártus herceg** című könyvére és említi a szentháromságot: a középkorig tartotta magát az a nézet, hogy anya-atya-fiú alkotta.  
 
 #### Nagyné dr. Fülöp Krisztina Mária előképei a legősibb kultúrákban...
 

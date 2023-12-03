@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szümplegádok/","title":"Szümplegádok","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-29T05:16","updated":"2023-10-29T05:16"}
+{"dg-publish":true,"permalink":"/S/Szümplegádok/","title":"Szümplegádok","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-29T05:16","updated":"2023-12-03T06:16"}
 ---
-
-
 
 
 # Szümplegádok
@@ -46,6 +44,8 @@ A szümplegád magyarul is érthető név és valóban arra utal, amiről szó v
 
 Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (első kötetének) 271. oldala alján azt írja, hogy ez egy torzult változat és az utótag a [[P/Pleiadok\|Pleiadok]] lenne. Nos, valóban fontos évszaknyitó/záró marker volt több kultúrában is és [[G/Galactic anticentre\|Galactic anticentre]] címnél is írottak alapján is az. Ahogy még nála áll (érdekes, hogy ajtót hoz fel):  
 > The Pleiades, the stars of the Open Door, announced the spring in 2250 BC.  
+> —  
+> A Plejádok, a Nyitott Ajtó csillagai Kr. e. 2250-ben hirdették a tavaszt.  
 
 Ugyanakkor mégis az itt taglalt kapu a téli kapu és az nem igazán hozható kapcsolatba a Pleiadokkal.  
 

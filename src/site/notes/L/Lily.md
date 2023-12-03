@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lily/","title":"Lily","tags":["dg_uploaded"],"created":"2023-10-15T03:54","updated":"2023-10-25T01:43"}
+{"dg-publish":true,"permalink":"/L/Lily/","title":"Lily","tags":["dg_uploaded"],"created":"2023-10-15T03:54","updated":"2023-12-03T06:13"}
 ---
 
 
@@ -15,9 +15,13 @@ Liliom. Liliom szavunkat latinból átvettnek veszik, de...
 > Amely utóbbi két szóban azonban, úgy hiszem, már elferdülés is van, mivel szerintem eredetileg a kellemes illat és így a kellemes illatú virágok i vagy e magánhangzós nevűek voltak, a rossz szagok ellenben a, o vagy u magánhangzósak (magas, illetve mély hangzósak). Igazolhatja e véleményem az, hogy a baszk nyelvben `lili` = virág, amely szó egyezik a liliom nevével, a virágok viszont általában kellemes illatúak. Vogul rokonaink nyelvében `lili` = lélek, de ugyanígy a szumerban is `lilla` = szellem, lélek.  
 - VZs adata szerint még [[L/LIL\|lil]] = szél[^1].  
 
-A virág és a lélek összetartozásának tudományos magyarázatát Hervay Tamás Szép vagyok, ne ölj meg! című, Ősi Gyökér 2006/1. sz. megjelent cikkében a New Jersey-beli Rutgers Egyetem kutatóinak elmélete alapján mutatja be, mely szerint a virágok evolúciója egészen másképp alakult volna, ha az ember nem találja azokat szépnek. A kutatócsoport eredményei azt igazolják, hogy a virágok valóban igen közel állnak az emberi lélekhez. Terry McGuire, a Rutgers egyetem genetikusa úgy véli, hogy ez a vonzalom nem csupán elméleti, hanem alapvetően meghatározta a virágok evolúciós sorsát.  
+A virág és a lélek összetartozásának tudományos magyarázatát...
+
+#### Hervay Tamás Szép vagyok, ne ölj meg!...
+
+...című, Ősi Gyökér 2006/1. sz. megjelent cikkében a New Jersey-beli Rutgers Egyetem kutatóinak elmélete alapján mutatja be, mely szerint a virágok evolúciója egészen másképp alakult volna, ha az ember nem találja azokat szépnek. A kutatócsoport eredményei azt igazolják, hogy a virágok valóban igen közel állnak az emberi lélekhez. Terry McGuire, a Rutgers egyetem genetikusa úgy véli, hogy ez a vonzalom nem csupán elméleti, hanem alapvetően meghatározta a virágok evolúciós sorsát.  
 McGuire a virágokat a [[K/Kutya\|kutyá]]khoz hasonlítja. Úgy véli, a virágok a növényvilág házikedvencei, és hasznuk annyi, hogy boldoggá tesznek minket. És ezért megérdemlik, hogy éljenek.  
-HT gúnyolódik a kutatók eljárásán, majd ezt írja (csak ami a tárgyhoz tartozik most):  
+HT ezt írja (csak ami a tárgyhoz tartozik most):  
 > Ha ma az emberi lélekhez valóban igen közel állnak a virágok, ez azért van, mert őseink, és a szerves kultúrát ma is őrző néhány nép, népcsoport több tagja, tudja, hogy a nő és a növény analógiás, hogy úgy ne mondjam mágikus kapcsolatban van, s az egyik a másik nélkül nem tud szakrális szinten létezni. nak a virágok, ez azért van, mert őseink, és a szerves kultúrát ma is őrző néhány nép, népcsoport több tagja, tudja, hogy a nő és a növény analógiás, hogy úgy ne mondjam mágikus kapcsolatban van, s az egyik a másik nélkül nem tud szakrális szinten létezni.  
 > Mindenesetre tehát: a csavart szár és fölötte a liliom: az élet jelképe volt. De miért ábrázolták, tették e jelképet főképp a kapura? Talán ezért: Népünknél régebben a kapu minden faragványa jelképes értelmű volt és így a kapu az egész háznak, a háztájnak és lakóinak is jelképe volt. Kifejezhette, mutathatta a tulajdonos törzsi, nemzetiségi hovatartozását és gondolatvilágát, eszmekörét, elveit. Mai nyelvünkben a háztáj szó a ház, udvarház előtti virágoskert és a gazdasági épületek összességét jelenti, de ugyanezt Erdélyben életnek is nevezik.  
 > Például ha azt mondják: "Ez Barta János élete." Ez ugyanannyi mintha ezt mondanák: "Ez Barta János egész háztája".  
