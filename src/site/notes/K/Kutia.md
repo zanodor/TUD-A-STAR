@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kutia/","title":"Kutia","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-11T11:23","updated":"2023-11-11T11:23"}
+{"dg-publish":true,"permalink":"/K/Kutia/","title":"Kutia","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-11T11:23","updated":"2023-12-04T01:07"}
 ---
 
 
 # Kutia
 
-[[K/Kutya\|Kutya]] írásmódja is ismert ennek a már [[C/Cuccia\|cuccia]] címnél is említett Szicíliában is ismert (megdöbbentő, hogy ott is, de Magyaroszágon nem) karácsonyi (Szicíliában [[L/Luca\|Luca]]-napi volt, de tudjuk, hogy a régi Luca-nap december 21.-ére vonatkozott) pudding-hoz hasonlított desszertnek. (Az angolok Christmas pudding-ja más elven készül.)  
+[[K/Kutya\|Kutya]] írásmódja is ismert ennek a már [[C/Cuccia\|cuccia]] címnél is említett Szicíliában is ismert (megdöbbentő, hogy ott is, de Magyarországon nem) karácsonyi (Szicíliában [[L/Luca\|Luca]]-napi volt, de tudjuk, hogy a régi Luca-nap december 21.-ére vonatkozott) pudding-hoz hasonlított desszertnek. (Az angolok Christmas pudding-ja más elven készül.)  
 [Ezen](https://www.everydayhealthyrecipes.com/polish-kutia-recipe-wheat-berry-pudding/) és [ezen](https://en.avtodid.pp.ua/17395/1/kutia.html) oldalakon lehet olvasni róla.  
 ![assets/Kutia_image1.png](/img/user/K/assets/Kutia_image1.png)  
 Lényegében a lengyel receptet követve búzaszemeket vagy búzacsírát főznek, majd mákkal is keverik. Magyarországon mi is ilyenkor, karácsonykor mákos gubát (de csak parasztosan, kifliből) illetve mákos (és diós) bejglit fogyasztunk.  
