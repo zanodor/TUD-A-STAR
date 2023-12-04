@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Erdő/","title":"Erdő","tags":["dg_uploaded"],"created":"2023-11-13T05:47","updated":"2023-11-13T05:47"}
+{"dg-publish":true,"permalink":"/E/Erdő/","title":"Erdő","tags":["dg_uploaded"],"created":"2023-11-13T05:47","updated":"2023-12-04T01:13"}
 ---
 
 
@@ -18,8 +18,8 @@ Legutóbb a [[D/Dream\|dream]] címnél előjött görög `δρυµός` (drumó
 Erdő és [[K/Kert\|kert]] Tejút-specifikus égi elnevezések, melyek közvetlenül a Tejútanya [[V/Vulva\|vulvá]]janak, [[O/Odú\|odú]]jának, [[B/Barlang\|barlang]]jának, [[O/Öl\|öl]]ének (lásd [[G/Galactic centre\|Galactic centre]]) tájára utalhatnak.  
 Az [alábbi](https://qr.ae/pNr3PT) Quora oldalon is leírtam válaszomban, hogy az erdő az eredő helye, hogy a fa a nimfa/tündér, aki baba is lehet, és hogy a szavak átvezetnek más nyelvekbe, de leginkább azt kell látni, hogy az első mesék, mítoszok magyar nyelvűek voltak.  
 Ezért lehet az, hogy a mes, messze, mész, méz, stb. szavainkat csoportosító [[M/MISZ\|MISZ]] etimonnál szerepeltettük a török `meşe` = tölgy szó (elődjével) rokonnak tekinthető azeri `meşə` = erdő, lett `mežs` = erdő, finn `metsä` = erdő, karéliai `meččä` szavakat.  
-Említendő még itt a kelta `meas`, waleszi `mes` = gyümölcs; tölgy gyümölcse, a makk!  
-De hogy az erdőség és a tölgy összefüggenek, testálja a görög szavak által mutatott analógia is: a görög `δάσος`, `δρυµός` (dárosz, drumósz) = erdő, `drüsz` = tölgy, továbbá az ógörög `δόρυ` (dórü) = fa, lándzsa (a walesziben `dâr` = tölgyes(ek)).  
+Említendő még itt a kelta `meas`, walesi `mes` = gyümölcs; tölgy gyümölcse, a makk!  
+De hogy az erdőség és a tölgy összefüggenek, testálja a görög szavak által mutatott analógia is: a görög `δάσος`, `δρυµός` (dárosz, drumósz) = erdő, `drüsz` = tölgy, továbbá az ógörög `δόρυ` (dórü) = fa, lándzsa (a walesiben `dâr` = tölgyes(ek)).  
 [[M/Méz\|Méz]] címnél is lényegében arról volt szó, hogy a régi magyar és a kún-hun nyelvnek lehetett más szava is erdőre, de persze az, hogy más nyelvekben megvannak bizonyos szavak, még nem bizonyíték:  
 Ami a [[M/MISZ\|MISZ]] címnél és nagyjából fentebb is felsorolt erdő jelentésű szavakat illeti (beleértve a `mis` = erdei, tündér értelmű vogul szót is), nyilvánvaló, hogy nem a mező szavunkat vették át az utódnyelvek. [[M/MES\|MES]]-fán kívül (minthogy a fa és erdő kapcsolata egyértelmű) kívül viszont [[M/Méz\|méz]] szavunkat is felhozhatnánk eredetéül.  
 Annál is inkább, mert ahogy [[J/Jungle\|jungle]], [[J/Juniper\|juniper]] és [[H/Honey\|honey]] címnél is láttuk, az erdőlakó tündérnép nevéről kapta a nevét: a kún-hun nyelvben tehát erdő, erdei és tündér lehet egyszerűen hun (az azték `hun`[^1], csecsen `ẋun` \[hun\] = erdő és a német `hain` = berek, liget szavak alapján is) vagy efféle név, míg a magyarban mes, mis, mez, méz alakú szó. Tulajdonképpen mindkettő fény jelentésű alapszóból indul ki.  
