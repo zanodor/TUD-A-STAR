@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mithra/","title":"Mithra","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-07T05:29","updated":"2023-11-25T11:17"}
+{"dg-publish":true,"permalink":"/M/Mithra/","title":"Mithra","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-07T05:29","updated":"2023-12-04T08:02"}
 ---
 
 
@@ -26,7 +26,7 @@ Aztán kitér arra is, hogy az ind Mithra korábbi, mint a perzsa:
 > Mithra volt a közvetítő Isten és az ember között.  
 
 A hindu holdház [[A/Anuradha\|Anuradha]] istensége Mitra, mely rámutathat, hogy a [[T/Téli napforduló\|téli napforduló]]n születik:  
-[[R/Ragya\|Ragya]], [[R/Ragyog\|ragyog]] szavainkkal tűnik azonosnak a Tilak Orionjának 119. oldalán lábjegyzetben is említett, Wikipédián ajándék jelentéssel adatolt 16. [[N/Nakshatra\|Nakshatra]] neve, Rádhá (másnéven, gyakoribb nevén Visakha: Tilak is írja, hogy mint [[P/Procyon\|Procyon]] esetében, csak Anurádhá nevében maradt fenn). Anurádhá az azt követő 17., és azt is jelentené, hogy Rádhát követő.  
+[[R/Ragya\|Ragya]], [[R/Ragyog\|ragyog]] szavainkkal tűnik azonosnak a Tilak Orionjának 119. oldalán lábjegyzetben is említett, Wikipédián ajándék jelentéssel adatolt 16. [[N/Nakshatra\|Nakshatra]] neve, Rádhá (más nevén, gyakoribb nevén Visakha: Tilak is írja, hogy mint [[P/Procyon\|Procyon]] esetében, csak Anurádhá nevében maradt fenn). Anurádhá az azt követő 17., és azt is jelentené, hogy Rádhát követő.  
 Érdekessége még a holdháznak, hogy amellett, hogy istensége Mitra, szimbóluma pedig a [[L/Lótusz\|lótusz]] (lásd lótusz-szülésről is ott), mely fontos jelkép: nyilvánvalóan a (Zarathustra/Buddha/Jézus-)Napot szülő Tejútanyáról van szó. További egyezés lehet, hogy a görög [[M/Metro\|metro]] = anyaméh[^1] jelentést hordoz (egy másik (a három anyaméhet jelentő) görög szó (közül) a (`delphus`-on kívül) a görög `hustera` [[I/Istár\|Istár]] neve nyomán ered).  
 Viszont a Tejútközpontot [[M/Mula\|Mulá]]ban találjuk, tropikus értelmezés szerint. Kifejtve lásd [[G/Galactic centre\|Galactic centre]].  
 Nehéz volt/lenne elengedni a tényt, hogy Anu neve a Tejútközponthoz kapcsolható legyen, annál is inkább, mert majdnem Anu, Aña előjön az Amazonas északnyugati régiójában, a brazíliai tukano indiánoknál is: Aña nevezetű a Skorpió-Nyilas felőli égtáj az alábbi adatok szerint.  
