@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2023-12-04T07:56"}
+{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2023-12-04T08:01"}
 ---
 
 
@@ -130,7 +130,7 @@ Arról van tehát szó, hogy az ősfelfogás szerint a megszemélyesített fene,
 VZs említi Bárczi adatát, miszerint pogánykori hiedelmen[^2] alapszik, hogy a betegség gonosz szelleme keresi áldozatát, s ha megtalálja, akkor az illető megbetegszik.  
 
 Falvay Károly Nagyboldogasszony című könyvében Hoppál Mihályt idézve írja:  
-> Hoppál Mihály a sámánvilág mai, nemzetközi hírű kutatója így ír a [[L/Lélek#Lélekutazás – a sámán csillagutazása a világfán\|lélekutazás]]ról: "A víziók hatása alatt megtapasztalt "lélekutazás" élménye lett a forrása ama hitnek, miszerint az ember két lélekkel bír: az egyik a testtel, az élettel van kapcsolatban és csak a halállal hagyja el a testet, míg a másik könnnyen kiléphet az ember testéből és az álom, illetve az önkívület, az extázis idején érzékelhetjük távozását." (Az utóbbi lelket nevezzük magyarul árnyékléleknek és nyelvünkben az [[I/Íz\|íz]], [[I/Izé\|izé]] szavak őrzik a képzet emlékét.)  
+> Hoppál Mihály a sámánvilág mai, nemzetközi hírű kutatója így ír a [[L/Lélek#Lélekutazás – a sámán csillagutazása a világfán\|lélekutazás]]ról: "A víziók hatása alatt megtapasztalt "lélekutazás" élménye lett a forrása ama hitnek, miszerint az ember két lélekkel bír: az egyik a testtel, az élettel van kapcsolatban és csak a halállal hagyja el a testet, míg a másik könnyen kiléphet az ember testéből és az álom, illetve az önkívület, az extázis idején érzékelhetjük távozását." (Az utóbbi lelket nevezzük magyarul árnyékléleknek és nyelvünkben az [[I/Íz\|íz]], [[I/Izé\|izé]] szavak őrzik a képzet emlékét.)  
 
 #### Várkonyi Nándor írja:
 
@@ -192,8 +192,9 @@ Kandra Kabos Magyar Mythologia című könyvének (a PDF) 234. oldalán szól a 
 
 ## Az ember tükörképének kezdetleges, lélekként való felfogása
 
-#### Magyar Adorján A lelkiismeret aranytükrében nagyszerűen írja:  
+#### Magyar Adorján A lelkiismeret Aranytükre...  
 
+...című könyvében nagyszerűen írja:  
 > Szerintem a lelkiismeret fölismerésére az embert a tükröződés jelensége vezette, akár a vízben, akár arany, kristály vagy csiszolt kő fölületében magát meglátva. A tükröződés pedig, mint fényjelenség, valóban nem is más mint a Napból származó erőny, amelynek észlelhetősége ámbár ismét csak a Földanya által nyújtott anyag segítségével válik lehetségessé (a fényt magát nem is láthatjuk, hanem csak az általa megvilágított tárgyakat), ugyanúgy, mint ahogy a gondolat is a Napból származó erőny, de amelynek, hogy megnyílvánulhasson, az agyvelőre van szüksége, amely pedig a Föld által nyújtott anyagból áll. A tükröződésnek tehát saját teste nem lévén, valóban a lélekkel hasonlítható össze. Dr. Mészáros Gyula A magyar kerek tükör című, a Néprajzi Értesítő folyóiratunk 1914. évfolyamában megjelent cikkében számos adatot találunk arra, hogy az ősember a tükröző fölületen megjelenő képét a léleknek tartotta, illetve azzal hasonlította össze. Ennek oka szerintem az, hogy tükörképünk tényleg teljesen hozzánk hasonló, de mégis: teste nincsen, tehát anyagilag nem létezik, vagyis bár látjuk, ott van, de mégis tulajdonképpen nincsen, azaz hogy csak anyagilag nincsen, mivel hiszen csak fényjelenség.  
 
 Az ember képmás-lelkét fentebb is említettük. A képmás az árnyék is lehet. Doppelganger is szóba került valahol.  
