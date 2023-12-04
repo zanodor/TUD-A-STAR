@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["dg_uploaded","gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-12-02T06:29"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["dg_uploaded","gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-12-04T01:15"}
 ---
 
 
@@ -239,7 +239,7 @@ Ezek a nyelvek segíthetnek a magyar ősműveltség feltárásában, pontosabb m
 
 A) A szavak a szóvázat képező mássalhangzók módosulása nélkül jönnek létre, kisebb magánhangzó-változások ellenére szinte megegyeznek, természetesen értelmileg is. Például [[B/BOT\|bot]] - [[B/BAT\|bat]], [[B/Baba\|baba]] - babe stb. Ebből a csoportból gyűjt főleg VCs és TZs.  
 
-B₁) Szavak szintjén csoporton belüli (például V-B-P, T-D, K-G, stb.) természetes mássalhangzóváltozással. Például [[B/Bú\|bú]] → [[W/Woe\|woe]], [[G/Gyors\|gyors]] → [[H/Horse\|horse]] (ló). Ebből a csoportból gyűjt VCs és TZs.  
+B₁) Szavak szintjén csoporton belüli (például V-B-P, T-D, K-G, stb.) természetes mássalhangzó-változással. Például [[B/Bú\|bú]] → woe, [[G/Gyors\|gyors]] → [[H/Horse\|horse]] (ló). Ebből a csoportból gyűjt VCs és TZs.  
 
 B₂) Szavakon belüli szinten, a szavak mássalhangzó-torlódással, szógyorsulással, ill. mássalhangzó-betoldással vagy msh-kikopással változnak. Például [[S/Sárkány\|sárkány]] → [[D/Dragon\|dragon]], rongy → [[W/Wrong\|wrong]] (ha igaz). Ebből a csoportból gyűjt VCs és TZs.  
 
@@ -366,7 +366,7 @@ Minél több az adat, annál közelebb jutni az igazsághoz, jelen esetben a val
 
 A görög igékhez hasonlóan, sokszor utólag képzettek, hozzákapcsolt jelentéssel. Például `monere` = figyelmeztet; lásd [[M/Monument\|monument]].  
 
-Többször feltűnt, hogy az ófrancia, katalán és albán nyelvben talált (hun/szabin/kelta-)latin szavak eredetibbnek tűnnek a latinoknál. Az ófrancia nyelv kelta-gall vázát illetve egyáltalán a kelta nyelv létjogosultságát a nyelvészet nem igazán ismeri el, mert ezzel olyan lavinát indítana el, mely a magyar, továbbá sumer rokonság elismerésével átírná az eddig elfogadott képet. (Az, hogy mit értünk [[K/Kelta#Kelta nyelv\|kelta nyelv]] alatt is érdekes, mert egyes régi nézetek szerint a kimmér-waleszi lehet az eredeti kelta, mely a brit nyelv vázát alkothatta.)  
+Többször feltűnt, hogy az ófrancia, katalán és albán nyelvben talált (hun/szabin/kelta-)latin szavak eredetibbnek tűnnek a latinoknál. Az ófrancia nyelv kelta-gall vázát illetve egyáltalán a kelta nyelv létjogosultságát a nyelvészet nem igazán ismeri el, mert ezzel olyan lavinát indítana el, mely a magyar, továbbá sumer rokonság elismerésével átírná az eddig elfogadott képet. (Az, hogy mit értünk [[K/Kelta#Kelta nyelv\|kelta nyelv]] alatt is érdekes, mert egyes régi nézetek szerint a kimmér-walesi lehet az eredeti kelta, mely a brit nyelv vázát alkothatta.)  
 
 A latin szavakra visszavezetett újlatin, albán, kelta (mellyel kapcsolatosan tehát felmerült, hogy több esetben az átvevő az átadó, mintsem gondolnánk) szavakkal kapcsolatosan az az ember érzése, hogy régen ezeken a területeken nem ezen a nyelven beszélt a lakosság, hanem a vallás/politika határozta meg, hogy mely szavakat kell használni. Azaz gyakorlatilag Nyugat-Európában is az játszódott le, mint Közép- és Dél-Amerikában a spanyol nyelv behozatalával: a politikai helyzet megkívánta, hogy az új nyelvet használják, elsősorban az államigazgatási körökben. Magyarország területén is volt a latin hivatalos nyelv, az ország viszont ellenállt, és nem terjedt el.  
 
