@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Clock/","title":"Clock","tags":["dg_uploaded"],"created":"2023-11-03T12:18","updated":"2023-11-25T10:38"}
+{"dg-publish":true,"permalink":"/C/Clock/","title":"Clock","tags":["dg_uploaded"],"created":"2023-11-03T12:18","updated":"2023-12-04T01:13"}
 ---
 
 
@@ -12,6 +12,7 @@ A szinte azonos, [[C/Clout\|clout]] szónál előjövő óír `cloth` és walesi
 
 Kolomp szavunk nekünk is van (mely inkább [[C/Clang\|clang]] szóval párosulna). Nehéz másra gondolni mint kondul, kong és hasonló szavakra eredetéül, de mindenképp hangkiadáshoz kötve. Bár ha az időre gondolunk, az rohanhat, szaladhat és akár kulloghat is.  
 A [[K/KOL\|KOL]] gyököt körüljártuk [[W/Wheel\|wheel]] szónál, amennyiben a harang mégis a [[K/Kor\|kor]]/[[K/Kör\|kör]] = idő jelzéséből neveztetett így el.  
+
 #### Magyar Adorján is írja:
 
 > Az időnek bizonyára létezett valamely kel, kol avagy kal alakú kőrös szócsoportbeli neve is, amit az is igazol, hogy habár r-es kiejtéssel, de kor szavunk idő értelme ma is megvan. Mivel pedig a fölhozott kal-, kol- kezdetű szavaknak mind haladás értelmük is van, eszerint kétségtelen, hogy a latin-olasz `currere`, `correre` = futni, haladni ige is ide sorolandó, annál is inkább, hogy a finnben is `kire` = sietség, gyorsaság, `kierla` = kanyarog, bolyong, `kerke` = gyors, `karku` = futás, `karka` = rohan, `haari` = szaladgál, az oromoban pedig `kara` = utazni, `huris` = gyors.  

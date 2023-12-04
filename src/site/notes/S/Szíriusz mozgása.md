@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["dg_uploaded","Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:03","updated":"2023-11-10T07:14"}
+{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["dg_uploaded","Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:03","updated":"2023-12-04T01:18"}
 ---
 
 
@@ -124,7 +124,7 @@ Nem lennék meglepve, ha az alábbi ...
 
 #### Robert Graves The White Goddess...
 
-...című könyvéből származó bibliai rész hasonlókra utalna (maga RG is egy waleszi költemény kutyájával való voantkozást keres) (egyébként a [[J/Jordán\|Jordán]] folyó nevében is szerepel a Dán (Dana/Tana/Ton/Don) mely a Tejútfolyamnak alkalmas neve (a kutya itt ugye [[C/Caleb\|Caleb]]):  
+...című könyvéből származó bibliai rész hasonlókra utalna (maga RG is egy walesi költemény kutyájával való voantkozást keres) (egyébként a [[J/Jordán\|Jordán]] folyó nevében is szerepel a Dán (Dana/Tana/Ton/Don) mely a Tejútfolyamnak alkalmas neve (a kutya itt ugye [[C/Caleb\|Caleb]]):  
 > According to the Pentateuch, Moses died on Pisgah on the other side of Jordan and 'no man knoweth his sepulchre to this day'; and of all the Children of Israel who had come with him into the wilderness out of the house of bondage, only two, Caleb and Joshua, crossed into the Promised Land. As spies they had already been bold enough to cross and recross the river.  
 > —  
 > A Pentateuch szerint Mózes a Jordán túlsó partján, a Pisgahon halt meg, és "senki sem ismeri sírját mind a mai napig"; és Izrael összes gyermeke közül, akik vele együtt mentek a pusztába a rabszolgaság házából, csak ketten, Káleb és Józsué jutottak át az Ígéret Földjére. Kémként már elég bátrak voltak ahhoz, hogy átkeljenek és újra átkeljenek a folyón.  

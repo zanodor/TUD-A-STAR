@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/KUM/","title":"KUM","tags":["dg_uploaded"],"created":"2023-11-09T04:40","updated":"2023-11-09T04:40"}
+{"dg-publish":true,"permalink":"/K/KUM/","title":"KUM","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-09T04:40","updated":"2023-12-04T01:16"}
 ---
 
 
@@ -18,12 +18,12 @@ Előjön Kum (Hum) RHA Star Names című könyvében, a [[V/Vízöntő csillagk�
 > A Gangesznél, akárcsak Kínában, a Vízöntő kezdte az állatövi jegyek körét; és Al Biruni szerint Indiában egykor Khumba vagy Kumbaba volt a neve, ami az ilyen nevű elámi istenségre, vagy Hesychios Viharistenére, Κόμβη-ra emlékeztet. Ez volt a tamil elnevezése is; La Lande Coumbumnak írja.  
 
 [[K/Kumbaba\|Kumbaba]]/[[H/Humbaba\|Humbaba]] nevét lásd még tehát. Lásd nedvességről [[H/HUM\|HUM]] (ilyenképp a török homoksivatag neve épp ellentétes értelmű: ami fent fény, az alant víz vagy föld). Valójában a HUM kevésbé, inkább Khamor-Orion vízfakasztó/esőisten figurál.  
-[[C/Comet\|Comet]] szónál szerepelt, hogy MA alábbi írása alapján azt kell kimondani, hogy a kőrös szócsoportbeli [[H/Hullám\|hullám]] szavunk kún-hun \*kam, \*kom, \*kum megfelelőjével van végsősoron dolgunk:  
+[[C/Comet\|Comet]] szónál szerepelt, hogy MA alábbi írása alapján azt kell kimondani, hogy a kőrös szócsoportbeli [[H/Hullám\|hullám]] szavunk kún-hun \*kam, \*kom, \*kum megfelelőjével van végső soron dolgunk:  
 > Régibb nyelvünkben a hullámot habnak is nevezték, valamint azt így népünk ma is nevezi.  
 > Hab szavunknak azonban nem csak hullám hanem hab értelme is van (latin `spuma`, görög `afrosz`, német `Schaum`). Márpedig a szélben a vízen szaladó, rohanó hullámoknak valóban habzó tarajuk, azaz sörényük is van, amely utóbbi, szarmata szócsoportbeli szavunkról tudjuk, hogy a szőr, sörte szavaink közvetlen rokona. És íme: az olaszban `schiuma` (szkiúma; a gyakori kezdő sz hanggal) = hab, de `chioma` (kióma; a kezdő sz hang nélkül) = hajzat, sörény, holott a görögben meg `kűma` = hullám, míg a latinban `coma` (kóma) = hajzat, azaz sörény. Világosan kitűnik tehát mind e szavakból, hogy őseink költői a vízen viharban vadul rohanó habsörényes hullámokat vad lovakhoz is hasonlították, a hullámok fehéren habzó sörényét pedig a lovak sörényéhez.  
 
 A hullám jelentés szépen passzol mind a homok dombjaira, dűnéire, valamint a Vizöntő csk. víz hullámaira is.  
-A waleszi [[C/Cwm\|cwm]] (kum) kör alakú vájat, domb, hegy oldalában, Walesben (lásd még skótoknál használt [[C/Corrie\|corrie]] és az általánosabb [[C/Cirque\|cirque]]).  
+A walesi [[C/Cwm\|cwm]] (kum) kör alakú vájat, domb, hegy oldalában, Walesben (lásd még skótoknál használt [[C/Corrie\|corrie]] és az általánosabb [[C/Cirque\|cirque]]).  
 Természetesen a kiinduló a [[K/KUN\|KUN]] Nap kereksége, hisz annak alaki változatáról van szó.  
 
 Persze nem biztos, hogy erről van szó. Ugyanis Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének 90-91. oldalán akkád és tatár-türk kum (alakú) szavak jönnek elő sötétséget kifejező jelentéssel. De ahogy másutt szerepelt, Egyiptom **Kemet** neve is a fekete földdel lehetett kapcsolatos (azóta [[K/Khám\|Khám]] eredetéhez kötöttük). Logikailag az alant előjövő (le)nyugvás kell a kiinduló legyen. A hun nyelvben ugyanis `lekum` = lenyugszik.  

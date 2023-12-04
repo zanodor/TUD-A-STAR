@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/MES/","title":"MES","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-21T04:46","updated":"2023-11-10T11:07"}
+{"dg-publish":true,"permalink":"/M/MES/","title":"MES","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-21T04:46","updated":"2023-12-04T01:16"}
 ---
 
 
@@ -46,7 +46,7 @@ Ezen MES egyezőnek látszik a török `meşe` = [[T/Tölgy\|tölgy]] szóval é
 Ha ezen MES a névben hőst, fiút jelölne, akkor Kun-Mes értelme Csúnya Fiú (Csúnya Világ; [[K/Konyec\|konyec]]-ből kiindulva Világvége?) értelmet vehetne fel. Kun (Kony) szerepel [[A/Alkony\|alkony]] szavunkban is.  
 Lám, a [[R/Rák csillagkép\|Rák csillagkép]] idézett A-MES nevében is a Rák-ság elvágó, megszüntető szerepe kell jelen legyen, bár itt MES hordozná a negatív értelmet, nem KUN. MES-nek ott felső (holt)pont jelentése kell legyen. Rendkívül érdekes a [[H/Holtpont\|holtpont]] kifejezésünk is.  
 
-A mes-fáról volt szó [[M/MISZ\|MISZ]] címnél is. Itt csak annyit, hogy a kelta `meas`[^1], waleszi `mes` = gyümölcs, pontosabban elsősorban a tölgy gyümölcse, a [[M/Mast\|mast]] címnél is említett makk! Márpedig a mes-fa a török nyelvű `meşe` szó jelentése alapján is tölgy[^2]!  
+A mes-fáról volt szó [[M/MISZ\|MISZ]] címnél is. Itt csak annyit, hogy a kelta `meas`[^1], walesi `mes` = gyümölcs, pontosabban elsősorban a tölgy gyümölcse, a [[M/Mast\|mast]] címnél is említett makk! Márpedig a mes-fa a török nyelvű `meşe` szó jelentése alapján is tölgy[^2]!  
 Ahogy [[M/Mező\|mező]] címnél is szerepelt, az albán `mes` = közép egy az egyben azonos a mes-fa nevével (a [[K/Köldök\|köldök]]nek is van közép mellékjelentése és azon áll a világfa/világoszlop is).  
 A [[M/Medlar\|medlar]] görög-latin elődjeiben (latin `mespila` and görög `mespilē`, `mespilon`) is megvan mes.  
 A szlovák `metla` = nyírfa szóban is szerepelt az M-SZ rokon M-T váz (többek közt breza is jelent nyírt, mely a [[B/Birch\|birch]] névvel azonosul is).  
@@ -63,7 +63,7 @@ A szlovák `metla` = nyírfa szóban is szerepelt az M-SZ rokon M-T váz (többe
 
 A keltánál maradva, a [[K/Kutya\|kutya]] címnél szereplő M-D vázú `madadh` = kutya és `madra` = kutya szavak mellett egy kelta `measan` = kutyakölyök és egy Mes-Ku (Fiatal Kutya) formában bontható korai ír `meschu` = kutyakölyök (az ír `cù` = kutya) szó is szerepelt. De ezen szavak inkább [[M/MISZ\|MISZ]] címhez valók.  
 
-A MES-tölgyről még annyit, hogy ezt a mitológiai-mesei tölgyfa nevének tartom. A tölgy rendes magyar neve tölgy. A tölgy fogalmába túl sokminden van belecsempészve (túl, tőgy, tud, Toldi) ahhoz, hogy ne ez legyen az eredeti szavunk.  
+A MES-tölgyről még annyit, hogy ezt a mitológiai-mesei tölgyfa nevének tartom. A tölgy rendes magyar neve tölgy. A tölgy fogalmába túl sok minden van belecsempészve (túl, tőgy, tud, Toldi) ahhoz, hogy ne ez legyen az eredeti szavunk.  
 
 Igen jelentőségteljes a mes azonossága [[M/Más\|más]] szavunkkal, mely a [[M/Méhlepény\|méhlepény]] népies neve. A mellékelt kép bizonyítja, hogy okkal fedezünk fel analógiát.  
 ![assets/MES_image3.png](/img/user/M/assets/MES_image3.png)  

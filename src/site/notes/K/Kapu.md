@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kapu/","title":"Kapu","tags":["dg_uploaded"],"created":"2023-10-30T08:56","updated":"2023-12-03T10:40"}
+{"dg-publish":true,"permalink":"/K/Kapu/","title":"Kapu","tags":["dg_uploaded"],"created":"2023-10-30T08:56","updated":"2023-12-04T01:15"}
 ---
 
 

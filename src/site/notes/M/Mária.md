@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2023-11-25T11:18"}
+{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2023-12-04T01:16"}
 ---
 
 
@@ -113,7 +113,7 @@ A [[M/Mare\|mare]] = tenger jelentése kapcsán felvetődött, hogy mi van, ha i
 Másutt:  
 > 'Moiria' also suggests the Greek word `moira`, a share, lot or distribution. If 'Moriah' is the answer to the first of these five unsolved riddles, it must be linked with 'I have been bard of the harp to Deon of Lochlyn'; and we must credit the scholarly Gwion with interpreting the word as meaning Mor-Iah, or Mor-Jah, 'the god of the sea', the word 'Mor' being the Welsh equivalent of the Hebrew 'Marah' (the salt sea).  
 > —  
-> A "Moiria" szó a görög `moira` szóra is utal, amely részesedést, sorsot vagy elosztást jelent. Ha a "Moriah" a válasz az öt megfejtetlen rejtvény közül az elsőre, akkor ez a következővel függ össze: "Én voltam a hárfa bárdja Deon of Lochlynnak"; és a tudós Gwionnak kell hitelt adnunk, aki úgy értelmezi a szót, hogy az Mor-Iah vagy Mor-Jah, "a tenger istene", mivel a "Mor" szó a héber "Marah" (a sós tenger) waleszi megfelelője.  
+> A "Moiria" szó a görög `moira` szóra is utal, amely részesedést, sorsot vagy elosztást jelent. Ha a "Moriah" a válasz az öt megfejtetlen rejtvény közül az elsőre, akkor ez a következővel függ össze: "Én voltam a hárfa bárdja Deon of Lochlynnak"; és a tudós Gwionnak kell hitelt adnunk, aki úgy értelmezi a szót, hogy az Mor-Iah vagy Mor-Jah, "a tenger istene", mivel a "Mor" szó a héber "Marah" (a sós tenger) walesi megfelelője.  
 - Az utolsó szó ismét egészen hasonló a Mária névhez.  
 
 RG másutt ([[A/ANA\|ANA]] címnél – több – is szerepelt):  
@@ -187,7 +187,7 @@ Ezért is gondoltam, hogy a Mária-jelkép kagyló arab mahar neve alapján is i
 
 A következő sorokból [[T/Tigris\|Tigris]] és [[U/Urgula\|Urgula]] valamint [[M/Magura\|Magura]] címhez is jutott:  
 > Az ókori mezopotámiai `mahgar` név `magur` változata például oroszlánt jelent, ennek szabályos hangalaki párja, a `nahar` pedig Indiában tigrist. Széchenyi Zsigmond egyik, vadászatairól szóló könyve éppen ezt a címet viselte.  
-> (A `magura` névváltozat jelentése viszont "forrásbarlang", és ezzel a szemközti Vízöntőt idézi meg.) Mármost Máriát – a "magyar" népnéven át – oroszlánnal, illetve tigrissel párosítani – nem túlzás ez? Netán blaszfémia? Nono! Gondolkozzunk csak egy kicsit: hova is esik Nagyboldogasszony ünnepe az évkörben? [[A/Augusztus 15\|Augusztus 15]]. - ez bizony az Oroszlán, precessziós nagyságrendben fogalmazva a Tigris hava! Má(há)ria, íme, benyújtotta a névjegyét.  
+> (A `magura` névváltozat jelentése viszont "forrásbarlang", és ezzel a szemközti Vízöntőt idézi meg.) Mármost Máriát – a "magyar" népnéven át – oroszlánnal, illetve tigrissel párosítani – nem túlzás ez? Netán blaszfémia? Nono! Gondolkozzunk csak egy kicsit: hova is esik Nagyboldogasszony ünnepe az évkörben? [[A/Augusztus 15\|Augusztus 15]]. - Ez bizony az Oroszlán, precessziós nagyságrendben fogalmazva a Tigris hava! Má(há)ria, íme, benyújtotta a névjegyét.  
 - Folytatást lásd [[M/Magyar Ilona\|Magyar Ilona]].  
 
 [[B/Babba Mária\|Babba Mária]] címnél szó volt Jámbor János Az ősi Boldogasszony tisztelet című cikkében kifejtett Ma-Ri-A felbontásról:  

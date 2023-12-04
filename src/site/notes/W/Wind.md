@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/W/Wind/","title":"Wind","tags":["dg_uploaded"],"created":"2023-11-09T11:46","updated":"2023-11-09T11:46"}
+{"dg-publish":true,"permalink":"/W/Wind/","title":"Wind","tags":["dg_uploaded"],"created":"2023-11-09T11:46","updated":"2023-12-04T01:19"}
 ---
 
 
 # Wind
 
-[[S/Szél\|Szél]]. Latinul `ventus`. Azonos vele a waleszi `gwynt` = szél is.  
+[[S/Szél\|Szél]]. Latinul `ventus`. Azonos vele a walesi `gwynt` = szél is.  
 A [[F/Fény\|fény]] és [[V/Vén\|vén]] szavak csengenek ki belőle, ahogy a [[V/Vend\|vend]] népnév is.  
 
 #### Péterfai János írja:
