@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2023-12-04T01:16"}
+{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2023-12-04T06:55"}
 ---
 
 
@@ -38,7 +38,7 @@ Lewis Freemantle a The Thirteenth Stone című könyvében írja:
 > Bár a Szentírás nem támasztja alá ezt az elképzelést, Mária Magdolnát prostituáltként ismerik. Allegro szerint a neve 'fodrászt' jelent, ami a héber nyelv görögösített formája. Én azt javaslom, hogy ő egy szent prostituált. Jézus életében három kiemelkedő nőt találunk. Az egyik Mária, az édesanyja. A többiek segítenek a Háromfejű Istennő három elemét alkotni, és így egyek. Alapvetően Jézus anyját, feleségét és a boszorkányt, aki eltemeti őt, jelképezik. Az első nyomot a Lukács 7:38-ban találjuk, ahol egy meg nem nevezett nő a hajával törli meg Jézus lábát. Az adott körülmények között ezt jelentősnek kell tekintenünk. Lukács szerint a nő egy "bukott asszony". A keresztény hagyomány úgy gondol rá, mintha egy lenne Mária Magdolnával. A Szentírás szerint ez nem helytálló. Ő volt az, aki először látta az üres sírt, amikor a követ elhengerítették. Ő volt az is, akinek Jézus először mutatta meg a feltámadását. A harmadik a betániai Mária, aki Márta és Lázár nővére.  
 > Jézus életében kevés a nő, közülük azonban hármat neveznek Máriának.  
 
-A Mária-hármasságról ...
+A Mária-hármasságról...  
 
 #### Robert Graves The White Goddess...
 
@@ -172,7 +172,7 @@ A Sirius in Ancient Greek and Roman literature című cikkben fejtegetik, hogy a
 [[E/Eire\|Eire]] címnél felemlítettük, hogy mi lenne, ha Mária nem a [[M/Marha\|marha]] szavunkból eredne mégsem, hanem az "[[A/Árja\|árja]]" (levegő) ajakhang-előtételezése lenne. Illetve valójában pont arról volt szó, hogy mi lenne, ha a Mária lenne a kiinduló oda.  
 A Mária marhából való közvetlen eredeztetésének az is ellentmond, hogy az (általán területek nevére alkalmazott) -[[I/Ia\|ia]] végződés más nevekben is szerepel; például Kornélia, Natália, a gall fenyő (nem tölgy?) istennő [[D/Druantia\|Druantia]], a tölgy (nem inkább éger?) istennő [[E/Egeria\|Egeria]], a szintén Tejút/kígyóistennő [[L/Lamia\|Lamia]], illetve PJI Atlantiszról szóló írásában azt írja, hogy az ír [[E/Eriu\|Eriu]] (lásd róla illetve a passzust [[E/Eire\|Eire]]) nevében is az -ia végződés lenne meg.  
 
-Ezért is gondoltam, hogy a Mária-jelkép kagyló arab mahar neve alapján is inkább a Magyar < Mahar < Maar < Már-ia levezetésre, melyet a Quora cikkbe is felírtam. Csak hónapokkal ezután találkoztam ...
+Ezért is gondoltam, hogy a Mária-jelkép kagyló arab mahar neve alapján is inkább a Magyar < Mahar < Maar < Már-ia levezetésre, melyet a Quora cikkbe is felírtam. Csak hónapokkal ezután találkoztam...  
 
 #### Pap Gábor...
 
@@ -278,7 +278,7 @@ Napja [[J/Január 23\|január 23]]. Lásd MVJ írását ott.
 
 ## Mária Boldogasszonnyal való megfeleltetése
 
-Mégegyszer: [[K/Kisasszony\|Kisasszony]] címnél szerepelt a tisztázás.  
+Még egyszer: [[K/Kisasszony\|Kisasszony]] címnél szerepelt a tisztázás.  
 
 ## Mária magyar tisztelete – Szűz Mária Magyarország királynője
 

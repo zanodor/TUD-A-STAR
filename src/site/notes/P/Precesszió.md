@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["dg_uploaded","containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2023-12-04T01:17"}
+{"dg-publish":true,"permalink":"/P/Precesszió/"}
 ---
 
 
@@ -544,7 +544,7 @@ John Major Jenkins Galactic Alignment c. könyvének 96.oldalán is idézi Macro
 Hasonlóképp, ahogy [[T/Tejút\|Tejút]] és [[O/Orion\|Orion]] címnél láttuk, a [[T/Tejút-kapuk\|Tejút-kapuk]] is más hónapokban nyílnak meg. Lásd még [[P/Precesszió\|precesszió]] címnél (legalul) a precesszió miatti ünnepeltolódások részt. De ide is tehető:  
 > Régen Eurázsia-szerte úgy hitték, hogy a lelkek (az elhunytak lelkei és a gonosz meg a jó szellemek) a Tejúton közlekednek túlvilág és evilág között, és akkor tudnak átlépni a mi világunkba, ha a Tejútról a Napra, a Napról pedig a Földre ugorhatnak. (A Tejút egyik régi magyar neve: Lelkek útja.) Ez akkor áll elő, ha a Nap a látszat szerint együtt áll a Tejúttal. Ez a Krisztus születése előtti évezred során novemberben és májusban volt esedékes, a keresztény éra beköszöntével későbbre tolódott a Nap precessziójának a következtében: decemberbe és júniusba. Ma is ekkorra, karácsony és Szent Iván tájára esik. (A Tejút széles szalagján a Nap több napot tölt, télen egy hónapig, de nyáron is egy jó hétig tart az átkelés rajta.)  
 
-Ugyanez mégegyszer: az *emléke* él annak, korábban mikorra esett a lélekjárás:  
+Ugyanez még egyszer: az *emléke* él annak, korábban mikorra esett a lélekjárás:  
 > Az elterjedt képzet szerint a lelkek, szellemek, istenek a Tejúton közlekednek, oda-vissza útba ejtve a planétákat is. Így tartja a néphit is. Innen van az, hogy a szellemjárás ideje a néphagyományban a Tejút és a Nap együttállásaira esik (karácsony és Szent Iván-nap, illetve **egy korábbi állapot emlékeként** halottak napja és május 1-je).  
 > (Az ősi Európában az év- és évszakkezdő, egyben napforduló- és napéjegyenlőség-felező napok nov. 1., febr. 1., máj. 1., és aug. 1. voltak, melyek közül az első 3 ma is ünnepszámba megy.)  
 

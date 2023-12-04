@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2023-12-03T06:13"}
+{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["dg_uploaded","Englishtexttranslated"]}
 ---
 
 
@@ -358,7 +358,7 @@ Amiről GA sem beszél viszont az az, hogy a székely-magyar rovás *egy* számn
 
 ## Hun lélek jelentése
 
-[[H/Hun#Hun lélek jelentése\|Hun lélek jelentése]] cím/alcímnél taglaltuk a kínai (nyelvben fennmaradt) `hun` = lélek jelentésű és a perzsa `jân` = lélek jelentésű szót, így mégegyszer nem tenném ide.  
+[[H/Hun#Hun lélek jelentése\|Hun lélek jelentése]] cím/alcímnél taglaltuk a kínai (nyelvben fennmaradt) `hun` = lélek jelentésű és a perzsa `jân` = lélek jelentésű szót, így még egyszer nem tenném ide.  
 Az viszont érdekes, hogy ami egy helyen hun, másutt [[K/Kut\|kut]], már amennyiben a két lélekre utaló név ugyanarra utalt volna-e.  
 
 Rostás László Mit lehet tudni a hunok és magyarok kapcsolatáról? című az Ősi Gyökér 2008/2. sz. megjelent cikkében írja, hogy a hagyományok szerint a HUN a szabad szellemlélek, míg a MAG (magzat) az élő testet öltött lélek és a PO(R) a kötött anyaglélek. Mindezt sok halandzsa után, mindenféle adat nélkül.  
