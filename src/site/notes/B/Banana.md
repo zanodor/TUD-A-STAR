@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/B/Banana/","title":"Banana","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-31T02:55","updated":"2023-10-31T02:55"}
+{"dg-publish":true,"permalink":"/B/Banana/","title":"Banana","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-31T02:55","updated":"2023-12-04T01:11"}
 ---
-
-
 
 
 # Banana
@@ -26,4 +24,4 @@ Mint kiderül, íj/szivárvány alakjáról kapta a nevét, ugyanis Morris Silve
 
 [[B/Béna\|Béna]] és [[B/Banya\|banya]] címnél említettük a [[B/Bint\|bint]] címnél is előjövő ókelta \*bena = nő és cseh `běhna` = kurva szót, melyek lehetnek [[P/Pina\|pina]] eredetre visszavezethetők. (Vegyük észre, a [[S/Suta\|suta]] is a [[C/Csuda\|csuda]] ([[C/Csudaszarvas\|Csudaszarvas]]) alaki változata. Nincs benne rosszallás, csak nőiséget jelent.)  
 Arról másutt, [[G/Göd\|Göd]] és [[C/Coot\|coot]] kapcsán is volt szó, hogy a [[T/Tejútanya\|Tejútanya]] és vulvájának neve azonos lehet.  
-Ranko Matasovics proto-kelta etimológia szótárának \*bena = nő címénél előhoz egy érdekes waleszi `banon` = (nyilván égi eredetű) hercegnő, királynő; szűz szót, mely alakja inkább hasonló a sumér Ban-An-Na kifejezéshez, hiszen [[E/Éva\|Éva]] és [[E/Eire\|Eire]] (valamint [[I/Ideg\|ideg]] és [[I/Íj és a nyíl\|íj és a nyíl]]) címnél írottak alapján is az ég (íve) nőiségi.  
+Ranko Matasovics proto-kelta etimológia szótárának \*bena = nő címénél előhoz egy érdekes walesi `banon` = (nyilván égi eredetű) hercegnő, királynő; szűz szót, mely alakja inkább hasonló a sumér Ban-An-Na kifejezéshez, hiszen [[E/Éva\|Éva]] és [[E/Eire\|Eire]] (valamint [[I/Ideg\|ideg]] és [[I/Íj és a nyíl\|íj és a nyíl]]) címnél írottak alapján is az ég (íve) nőiségi.  
