@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Missera/","title":"Missera","tags":["dg_uploaded","Englishtexttranslated","containstransclusions"],"created":"2023-10-16T08:03","updated":"2023-11-21T01:41"}
+{"dg-publish":true,"permalink":"/M/Missera/","title":"Missera","tags":["dg_uploaded","Englishtexttranslated","containstransclusions"],"created":"2023-10-16T08:03","updated":"2023-12-04T05:42"}
 ---
 
 
@@ -62,7 +62,7 @@ Ami a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] (élet)útjának n�
 
 #### Jankovics Marcell...
 
-...alábbi passzusa is végülis erről szól ([[J/Jézus\|Jézus]] címnél is szerepelt):  
+...alábbi passzusa is végül is erről szól ([[J/Jézus\|Jézus]] címnél is szerepelt):  
 > A naphéroszok életrajzában az olyan sorsforduló, mint a születés (napszak szerint napkelte, éves szinten [[T/Téli napforduló\|téli napforduló]] vagy [[T/Tavaszpont\|tavaszpont]]) sokkal jelentőségteljesebb, mint az azt követő átmeneti életszakasz, a gyermek- és serdülőkor. Nem csoda, hiszen a kelő Nap lényegesen szembetűnőbb változást hoz az éjszakához képest, mint a délelőtti Nap a kelő Naphoz képest, a naptári fordulatok pedig szintén igazi fordulatot jelentenek. (Jézus evangéliumi élettörténetében, ami igazán csodálatos, az fogantatása és születése illetőleg feltámadása; ifjúságáról viszont nem jegyeztek fel semmi említésre méltót.)  
 - JM nem mutat rá a lényegre. Ahogy [[P/Pokol\|pokol]] címnél legutóbb szóltunk róla, eredetileg, csillagászati megfontoltásból, csak a (ráádásul nyilván először hyperboreai) Kis Évet figyelembevéve valóban az évet felező pont a tavaszpont volt: tavaszponttól őszponting jár a Nap az [[A/Alvilág\|alvilág]]ban, az [[E/Égi egyenlítő\|égi egyenlítő]] alatt. Később viszont, a [[F/Föld tengelyferdülése\|Föld tengelyferdülése]] után, a hyperboreai viszonyok megszűnésével és a migrációval, a precesszió felismerésével a Nagy Évben fontosabb téli és nyári napfordulós pontok alapján történő évfelezés vált fontosabbá (lásd erről Tilak féle ind anyagot [[B/Bal és jobb\|bal és jobb]]). Ez is rámutat, hogy a [[M/Mese\|mesé]]k \[igen, éppen meséknek hívjuk őket\] leglényegesebbjei a precesszióval foglalkoznak.  
 
