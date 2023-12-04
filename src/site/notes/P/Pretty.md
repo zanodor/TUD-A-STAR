@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pretty/","title":"Pretty","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-26T02:31","updated":"2023-11-11T12:30"}
+{"dg-publish":true,"permalink":"/P/Pretty/","title":"Pretty","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-26T02:31","updated":"2023-12-04T01:18"}
 ---
 
 
