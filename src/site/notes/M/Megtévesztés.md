@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2023-11-06T02:00"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2023-12-04T01:08"}
 ---
 
 
@@ -336,7 +336,7 @@ Fentebb volt már szó arról, hogy szánkba adnak valamit, amit soha nem mondtu
 Ugyanis akkor is ment a vádaskodás. Arra kényszerítik a magyarságot, és ez nem ma kezdődött el, hogy azt fájlalja, azt utálja meg amit el sem követett.  
 
 István kontra Koppány kérdésében is hasonló a helyzet:  
-1:02:35 Magyaroszágon létezik az István-Koppány táborra való megosztás (SZL azt mondja, először a 90-es évek elején hallotta, hogy "Te Koppányos vagy"). Csurka, Pap Gábor, stb. megkapta a Koppányos jelzőt, mely a Gyurcsány érában a forradalmat akarók jelzője, viszont a forradalmárainkat, szabadságharcosainkat mindig lejáratták (magát az ügyet is, gondoljunk László András Habsburgista gondolatmenetére), ugyanakkor SZL arra próbál rávilágítani (és elmondása szerint is minden kéthetente tartott összejövetel alaptémája is ez), hogy úgy osztják fel a táborokat, hogy a táborokhoz tartozók nincsenek tisztában István és Koppány valódi történetével. Ez egyébként világjelenség: oszd meg és uralkodj, az ő játékszabályaik szerint játssz. Sztereotípiák: sztereotípia éjjel, sztereotípia nappal és identitászavar minden pillanatban.  
+1:02:35 Magyarországon létezik az István-Koppány táborra való megosztás (SZL azt mondja, először a 90-es évek elején hallotta, hogy "Te Koppányos vagy"). Csurka, Pap Gábor, stb. megkapta a Koppányos jelzőt, mely a Gyurcsány érában a forradalmat akarók jelzője, viszont a forradalmárainkat, szabadságharcosainkat mindig lejáratták (magát az ügyet is, gondoljunk László András Habsburgista gondolatmenetére), ugyanakkor SZL arra próbál rávilágítani (és elmondása szerint is minden kéthetente tartott összejövetel alaptémája is ez), hogy úgy osztják fel a táborokat, hogy a táborokhoz tartozók nincsenek tisztában István és Koppány valódi történetével. Ez egyébként világjelenség: oszd meg és uralkodj, az ő játékszabályaik szerint játssz. Sztereotípiák: sztereotípia éjjel, sztereotípia nappal és identitászavar minden pillanatban.  
 Kialakítottak egy "nemzet ellensége" Szent István képet és egy "falu bikája, a varkocsos szittya fenegyerek" Koppány képet (akit még négyfelé is vágnak), mely úgy volt megtervezve, hogy a magyar nemzet fia, akár melyik oldalra is kerüljön, csak hazaáruló lehessen.  
 ...  
 26:40 Csurka Istvánt hozza szóba, hogy a nyolcvanas évek végén a következőket mondta: A magyarság megújulása – tehát az, hogy egyáltalán itt lesz magyar jövő – az nem politikai kérdés, hanem elsősorban kulturális.  
