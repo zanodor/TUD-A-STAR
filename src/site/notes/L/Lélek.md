@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["dg_uploaded","Englishtexttranslated"]}
+{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2023-12-04T08:01"}
 ---
 
 
@@ -130,13 +130,13 @@ Arról van tehát szó, hogy az ősfelfogás szerint a megszemélyesített fene,
 VZs említi Bárczi adatát, miszerint pogánykori hiedelmen[^2] alapszik, hogy a betegség gonosz szelleme keresi áldozatát, s ha megtalálja, akkor az illető megbetegszik.  
 
 Falvay Károly Nagyboldogasszony című könyvében Hoppál Mihályt idézve írja:  
-> Hoppál Mihály a sámánvilág mai, nemzetközi hírű kutatója így ír a [[L/Lélek#Lélekutazás – a sámán csillagutazása a világfán\|lélekutazás]]ról: "A víziók hatása alatt megtapasztalt "lélekutazás" élménye lett a forrása ama hitnek, miszerint az ember két lélekkel bír: az egyik a testtel, az élettel van kapcsolatban és csak a halállal hagyja el a testet, míg a másik könnnyen kiléphet az ember testéből és az álom, illetve az önkívület, az extázis idején érzékelhetjük távozását." (Az utóbbi lelket nevezzük magyarul árnyékléleknek és nyelvünkben az [[I/Íz\|íz]], [[I/Izé\|izé]] szavak őrzik a képzet emlékét.)  
+> Hoppál Mihály a sámánvilág mai, nemzetközi hírű kutatója így ír a [[L/Lélek#Lélekutazás – a sámán csillagutazása a világfán\|lélekutazás]]ról: "A víziók hatása alatt megtapasztalt "lélekutazás" élménye lett a forrása ama hitnek, miszerint az ember két lélekkel bír: az egyik a testtel, az élettel van kapcsolatban és csak a halállal hagyja el a testet, míg a másik könnyen kiléphet az ember testéből és az álom, illetve az önkívület, az extázis idején érzékelhetjük távozását." (Az utóbbi lelket nevezzük magyarul árnyékléleknek és nyelvünkben az [[I/Íz\|íz]], [[I/Izé\|izé]] szavak őrzik a képzet emlékét.)  
 
 #### Várkonyi Nándor írja:
 
 > A léleknek viszont kétféle formáját ismerték, az egyik volt a `ká`, az ember kicsiny, szellemi hasonmása, asztráltestszerű lény: a testben lakik, mint a magyar "[[I/Íz\|íz]]", vagy a mese Hüvelyk Matyija, de elválhat tőle, s a halál után el is hagyja. Az igazi lélek a `bá`, sokkal önállóbb lényeg, madár természetesen, mégpedig emberfejű és -kezű sólyommadár; a halál pillanatában ez is elrepül, de az örök életben ismét egyesül halhatatlanná lett földi porhüvelyével.  
 
-Ezen íz egyértelműen a árnyék- vagy másnéven szabadlelket, azaz asztráltestet látszik tehát jelenteni.  
+Ezen íz egyértelműen a árnyék- vagy más nevén szabadlelket, azaz asztráltestet látszik tehát jelenteni.  
 Visszatérve az iménti gondolatmenetre, Varga Zsigmond is írja ([[T/Tüsszent\|tüsszent]] címnél is szerepelt):  
 > A lélek távozhat a testből önként, vagy erőszakos beavatkozás következtében. Az álom egy középforma, az altáji népek annak a jeléül fogják fel például a megijedést, hogy a lelket hatalmukba kerítik a gonosz szellemek. Ilyenkor a lelket különböző fogásokkal vissza kell csalogatni. Különösen kis gyermekeknél veszélyes a megijedés, mert ezek lelke végleg el is távozhatik. De a tüsszentés is arra szolgáló jel, hogy démoni beavatkozás történt. Innen ered a tüsszentésnél a szerencsekívánás. Magyar népünk még ma is gyakorolja e szokást. A lélek távozása a szájon, az orron, és a fülön át történhetik. Mihelyt a lélek eltávozik, az illető különösen érzi magát és ha huzamosabb ideig nem tér vissza, meg kell kísérelni mindent, hogy a visszatérést kikényszerítsék, mert az elhagyott beteg lesz és a végén még meg is halhat. A súlyosabb betegségek démonizáltatnak, s mint ilyenek tárgyi bizonyítékaivá válnak a szumir-ural-altáji azonos lélek-szemléleti módnak. Erről majd a démonvilág kialakulása című fejezetben lesz szó. A végleges távozása azonban csak a halálban következik el.  
 > \[...\]  
@@ -192,8 +192,9 @@ Kandra Kabos Magyar Mythologia című könyvének (a PDF) 234. oldalán szól a 
 
 ## Az ember tükörképének kezdetleges, lélekként való felfogása
 
-#### Magyar Adorján A lelkiismeret aranytükrében nagyszerűen írja:  
+#### Magyar Adorján A lelkiismeret Aranytükre...  
 
+...című könyvében nagyszerűen írja:  
 > Szerintem a lelkiismeret fölismerésére az embert a tükröződés jelensége vezette, akár a vízben, akár arany, kristály vagy csiszolt kő fölületében magát meglátva. A tükröződés pedig, mint fényjelenség, valóban nem is más mint a Napból származó erőny, amelynek észlelhetősége ámbár ismét csak a Földanya által nyújtott anyag segítségével válik lehetségessé (a fényt magát nem is láthatjuk, hanem csak az általa megvilágított tárgyakat), ugyanúgy, mint ahogy a gondolat is a Napból származó erőny, de amelynek, hogy megnyílvánulhasson, az agyvelőre van szüksége, amely pedig a Föld által nyújtott anyagból áll. A tükröződésnek tehát saját teste nem lévén, valóban a lélekkel hasonlítható össze. Dr. Mészáros Gyula A magyar kerek tükör című, a Néprajzi Értesítő folyóiratunk 1914. évfolyamában megjelent cikkében számos adatot találunk arra, hogy az ősember a tükröző fölületen megjelenő képét a léleknek tartotta, illetve azzal hasonlította össze. Ennek oka szerintem az, hogy tükörképünk tényleg teljesen hozzánk hasonló, de mégis: teste nincsen, tehát anyagilag nem létezik, vagyis bár látjuk, ott van, de mégis tulajdonképpen nincsen, azaz hogy csak anyagilag nincsen, mivel hiszen csak fényjelenség.  
 
 Az ember képmás-lelkét fentebb is említettük. A képmás az árnyék is lehet. Doppelganger is szóba került valahol.  
