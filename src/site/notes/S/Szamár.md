@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-15T10:43","updated":"2023-12-04T06:31"}
+{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-15T10:43","updated":"2023-12-04T06:32"}
 ---
 
 
@@ -155,7 +155,7 @@ Pap Gábor egy másik Ne Legyen Áldozatos videóban visszatért a témára. [Ez
 > Ezt kellett volna Robert Gravesnek kutatnia. A turáni-szkíta-magyar szimbolikát és nyelvet. A Nyugat csak a nyugati párbeszédet tudja elfogadni.  
 - Amit még oda írhattam volna, de nem tettem, hogy a [[M/Manger\|manger]] szó eredete is lehet Magar, Magor.  
 
-Szumma szummárum ("szammárom"), az [[O/Ökör\|ökör]] valóban Ő-Kör, azaz a Jézus-féle Halak korszakot indító, vagy a (kétezer évvel későbbi, mai) maya-féle Halak-Vízöntő korszakváltó időpontot helyileg jelölő fogalom (állat-állapot) neve. De ezek alapján nem lehet véletlen a csuvas `vakar`/[[M/Makar\|makar]] = ökör elnevezés sem, mert Jézus nem-jász neve ugye [[M/Magor\|Magor]]/Makar volt, és vélhetően ugyanennek a kozmikus mondának magyar Magor-os változata is megvolt. Sőt, talán ez magyarázza meg azt is, hogy a balkáni-thrák (albán, roma, román) nyelveken miért Magar alakú a Szamár neve is.  
+Szumma szummárum ("szammárom"), az [[O/Ökör\|ökör]] valóban Ő-Kör, azaz a Jézus-féle Halak korszakot indító, vagy a (kétezer évvel későbbi, mai) maja-féle Halak-Vízöntő korszakváltó időpontot helyileg jelölő fogalom (állat-állapot) neve. De ezek alapján nem lehet véletlen a csuvas `vakar`/[[M/Makar\|makar]] = ökör elnevezés sem, mert Jézus nem-jász neve ugye [[M/Magor\|Magor]]/Makar volt, és vélhetően ugyanennek a kozmikus mondának magyar Magor-os változata is megvolt. Sőt, talán ez magyarázza meg azt is, hogy a balkáni-thrák (albán, roma, román) nyelveken miért Magar alakú a Szamár neve is.  
 - [[M/Manger\|Manger]] címnél lásd a szamár ilyen alakú neveiről szóló írást. 
 
 A mellékelt kép az [alábbi](https://ujember.hu/a-jaszol-okre-es-szamara/) oldalról való.  
