@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szeplőtelen fogantatás/","title":"Szeplőtelen fogantatás","tags":["dg_uploaded","Englishtexttranslated","containstransclusions"],"created":"2023-11-13T01:57","updated":"2023-11-28T09:13"}
+{"dg-publish":true,"permalink":"/S/Szeplőtelen fogantatás/","title":"Szeplőtelen fogantatás","tags":["dg_uploaded","Englishtexttranslated","containstransclusions"],"created":"2023-11-13T01:57","updated":"2023-12-04T05:42"}
 ---
 
 
@@ -25,7 +25,7 @@ Alkalomadtán végig lehetne menni a Napot szűzen szülő istennőkön. Itt van
 
 #### Tomory Zsuzsa Istenes magyar emlékeink II. rész...
 
-...című, Csudaszarvasról és Turulról szóló Ősi Gyökér 2005/2. sz. megjelent cikkében egy másik értelmezésében (teljesen érthető végülis):  
+...című, Csudaszarvasról és Turulról szóló Ősi Gyökér 2005/2. sz. megjelent cikkében egy másik értelmezésében (teljesen érthető végül is):  
 > Az ősanyáinkat látogató [[T/Turul\|Turul]] madár tehát nem a római mythologia otromba, emberek állattal párosuló [[L/Léda\|Léda]] és hattyúszerű története, hanem őseink magas szellemiségű jelképe, mely tudja, hogy férfi és asszony egyesülésének soha nem lenne folytatása, ha Isten nem rejtené az élet fényét jövendő élet magocskáiba. Minden magyar édesanya tudta, hogy gyermeke nem az övé, nem az uráé, hanem a Teremtő Istené. Tőlünk már csak a jelképet vették át az alakuló késői műveltségek, s így született a Léda történet ma ismert alakja, az átvevő nép szellemi szintjének tükreként. Így áll rokontalan, s előzmény nélküli\[?\] magányosságban Jézus születésének története, melynek minden mozzanata – a napkeleti mágusoktól kezdve az angyali üdvözleten át, a galambig, mint Isten jelképéig, - mind a turul mondakörbe tartozik.  
 
 Az alábbiakban elsősorban a napfiúk szeplőtelen fogantatásáról lesz szó[^2], de Falvay Károly Nagyboldogasszony című könyvének 378-379. oldalán maga [[M/Mária#Mária szeplőtelen fogantatása\|Mária szeplőtelen fogantatásá]]ról ill. születéséről is szó esik. Véleményem szerint ez egy utólagos okoskodó betoldás (lásd erről [[A/Anna\|Anna]] és [[K/Kisasszony\|Kisasszony]] címnél álló gondolatmenetem is), illetve maga az időpontja ([[D/December 8\|december 8]].: fogantatása, [[S/Szeptember 8\|szeptember 8]].: születése is oda látszik kifutni, hogy a Szűz havában szülessen).  
