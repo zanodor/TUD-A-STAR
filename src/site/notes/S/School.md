@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/School/","title":"School","tags":["dg_uploaded"],"created":"2023-11-07T05:11","updated":"2023-11-07T05:11"}
+{"dg-publish":true,"permalink":"/S/School/","title":"School","tags":["dg_uploaded"],"created":"2023-11-07T05:11","updated":"2023-12-04T01:18"}
 ---
 
 
@@ -27,7 +27,7 @@ Mit alátámasztani látszik a kotáni-szaka nyelvű `ṣkalä` = hang, zaj. Alt
 > Itt "verik" a tanuló fejébe a tudományt, itt "üskölik". Üskölő → üsköle → (uskola) →OSKOLA, ISKOLA. Az orosz is innen veszi a fogalmat: ÜS →ÜCS `ucsénie` = tanulás, `ucsenyík` = tanuló, `ucsíty` = tanít.  
 - A törökben (a magyarul is tökéletesen értelmes) `okul` = iskola (ok jelentése náluk nyílvessző).  
 
-PJI adatát megerősíteni látszik az Alex MacBain skót-kelta etimológiai szótárában talált waleszi `ysgol`, mely kelta-ír nyelven `sgoil`. A latin `schola`-ból vezeti le, de akkor a waleszi miért írta ki jobban nála? Talán mert a kelta, a magyarhoz hasonlóan kerülte a mássalhangzó-torlódást, ahogy TKS is írja ezt a szót és a waleszi – szintén átvételnek minősített – `ysbata` = kórház (ispotály: lásd [[I/IS\|IS]]) szót említve. Korábban viszont arról írt, hogy Európában ingyenes kórházi ellátás volt (a rómaiak ezt is át kellett, hogy vegyék, ahogy a kelta-magyarok által elkezdett úthálózatokat is).  
+PJI adatát megerősíteni látszik az Alex MacBain skót-kelta etimológiai szótárában talált walesi `ysgol`, mely kelta-ír nyelven `sgoil`. A latin `schola`-ból vezeti le, de akkor a walesi miért írta ki jobban nála? Talán mert a kelta, a magyarhoz hasonlóan kerülte a mássalhangzó-torlódást, ahogy TKS is írja ezt a szót és a walesi – szintén átvételnek minősített – `ysbata` = kórház (ispotály: lásd [[I/IS\|IS]]) szót említve. Korábban viszont arról írt, hogy Európában ingyenes kórházi ellátás volt (a rómaiak ezt is át kellett, hogy vegyék, ahogy a kelta-magyarok által elkezdett úthálózatokat is).  
 Oxford nem említi a latin szót, csak a görög `skholē`-t.  
 Lásd még arab `iskala` = lépcső, létra szót is [[S/Scale\|scale]].  
 Lásd még szinte azonos hangalakú [[S/Skol\|skol]]-nál írottakat, ill. PJI passzusát.  
@@ -36,7 +36,7 @@ Götz László Keleten kél a Nap című könyvében hasonlítja a görög `skho
 
 De ha már hasonló hangalakú szavakról van szó, legutóbb [[S/Szkíta\|szkíta]] címnél a Szkolotosz/Szkolotesz névforma előtagjába látott, több helyen taglalt, [[G/Gyúl\|gyúl]] igénkkel is kapcsolatba hozott görög `szkúlosz` = kutya szó kapcsán került előtérbe, hogy mi van, ha a két szó, a [[S/Szkúlosz\|szkúlosz]] = (korcs?) kutya(kölyök?) és a `szkolé` = iskola szavak összefüggenek ill. egy (asszociációs) eredetűek?  
 Eredhet az iskola a [[K/Kutyafejű\|kutyafejű]]ek ilyen nevéből vagy éppen fordítva is: hiszen a **szkíták voltak azok, akik a görögök tanítómesterei** voltak.  
-Mivel az arab nyelvben hasonló (szellemi, égi tanításokkal kapcsolatba hozható) névalak szintén szerepel (nyilván nem a francia `échelle` = létra átvéte?), valószínű, hogy ténylegesen az iskola vagy hasonló alakú szóból jött létre utóbb, asszociációs úton a [[S/Szkúlosz\|szkúlosz]] = kutya név. Ugye itt is, mint oly sok más helyen (lásd Bíró Lajos A magyar régmúlt titkai című PDF-ben sok helyen megjegyzéseimet is erről) az nehezíti a dolgot, a (lineáris) levezetést, hogy a kutya is fényes és az iskola tanítás is a fényről szól, abból indul ki (ezért lehet akár mindkettő eredete [[G/Gyúl\|gyúl]]). De maga az arab szó ilyen jelentéssel sokatmondónak tűnik (a waleszi szóhoz hasonlóan eredetibb is, mint a(z ezek szerint mindenhonnan lopkodó?) latin).  
+Mivel az arab nyelvben hasonló (szellemi, égi tanításokkal kapcsolatba hozható) névalak szintén szerepel (nyilván nem a francia `échelle` = létra átvéte?), valószínű, hogy ténylegesen az iskola vagy hasonló alakú szóból jött létre utóbb, asszociációs úton a [[S/Szkúlosz\|szkúlosz]] = kutya név. Ugye itt is, mint oly sok más helyen (lásd Bíró Lajos A magyar régmúlt titkai című PDF-ben sok helyen megjegyzéseimet is erről) az nehezíti a dolgot, a (lineáris) levezetést, hogy a kutya is fényes és az iskola tanítás is a fényről szól, abból indul ki (ezért lehet akár mindkettő eredete [[G/Gyúl\|gyúl]]). De maga az arab szó ilyen jelentéssel sokatmondónak tűnik (a walesi szóhoz hasonlóan eredetibb is, mint a(z ezek szerint mindenhonnan lopkodó?) latin).  
 
 Visszatérve az iskola szó elemzésére, elképzelhető, hogy a szóvégi [[A/A\|A]] szócskával itt sem (ahogy vélhetően például a [[G/Géza\|Géza]], [[B/Béla\|Béla]], [[G/Gyula\|Gyula]] nevekben sem) kell számolni. Isz-Kol pedig Fény-Kör, [[E/Életkör\|életkör]] értelműnek lehet meghatározható. Hisz mi mást kellene egyáltalán tanítani, mint a természeti dolgok, a világegyetem valós működését?  
 
