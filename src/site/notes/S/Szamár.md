@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-15T10:43","updated":"2023-11-24T07:30"}
+{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-15T10:43","updated":"2023-12-04T06:31"}
 ---
 
 
@@ -15,7 +15,7 @@
 >
 > A Szamár állat neve a románoknál `Maghiar` \[lásd még róla, más nyelvekből is [[M/Magar\|Magar]]\]. Vagyis a Magyar egyben Szamár, vagy a Magyar egyben Szumer. A Szamár régen nem az ostobaság szinonimája volt, hanem a szabadságé. De a szamár, a lóhoz képest, engedetlen, önfejű és akaratos. (Ló = Ember).
 - Van még egy szó, amely ide kívánkozik, az [[O/Onager\|onager]] és [[H/Hun\|hun]] címnél taglalt görög `onos` = szamár szó. Nyilvánvaló, hogy ez hun-osként értelmezendő. De a szamár [[K/Kentum\|kentum]]os formái az arab és más nyelvekben meg a Kám-Úr/Hun-Or (az arab Holdat jelentő szó is ilyen; lásd még [[K/Khamor\|Khamor]]) névalakokra hajaznak. Lásd lejjebb még erről.  
-Ezzel egy újabb eset áll elő, ahol a magyar vagy valamely más utónépe (hun, sumér) a szamár értelemmel kapcsolódik. Itt még lehet arra gondolni, hogy [[S/Széth\|Széth]]-tel és tiszteletével kapcsolat áll fenn, de vélhetően az a nép rajzolta meg eleve szamárfejűnek, aki ismerte a jelkép értelmét.  
+Ezzel egy újabb eset áll elő, ahol a magyar vagy valamely más utódnépe (hun, sumér) a szamár értelemmel kapcsolódik. Itt még lehet arra gondolni, hogy [[S/Széth\|Széth]]-tel és tiszteletével kapcsolat áll fenn, de vélhetően az a nép rajzolta meg eleve szamárfejűnek, aki ismerte a jelkép értelmét.  
 A szamár (és az [[O/Ökör\|ökör]]) szerepel a [[B/Betlehem\|betlehem]]i játékokban (lásd például [[J/Jászol\|jászol]]) is. Akár tehát a szamár utalhat az aranykori felfogásra is (de Széth is az első isten volt).  
 
 #### Práczki István Szittya Biblia...
@@ -123,7 +123,7 @@ Fentebb már JM soraiban kiemeltük ezt a részt.
 > —  
 > Az egyiptomi Szét istent egy [[F/Furka\|furka]] nevű "kereszten" "feszítették keresztre".  
 
-Fentebb volt szó a szamár hátán lévő kereszt alakú jelről is és egy Jézus keresztrefeszítését ábrazoló képen is ott volt a szamár.  
+Fentebb volt szó a szamár hátán lévő kereszt alakú jelről is és egy Jézus keresztrefeszítését ábrázoló képen is ott volt a szamár.  
 Na most, milyen érdekes, hogy Rómában egy (Jézus keresztrefeszítésének bizonyítékául bemutatott?) rajzon szamarat látunk keresztrefeszítve. (Forrás: Wikipédia Crucifixion oldal.)  
 ![assets/Szamár_image2.jpeg](/img/user/S/assets/Szam%C3%A1r_image2.jpeg)  
 A szamarat "mint teherhordót" nem a világ bűneit magára vevő Krisztusként kell itt értelmezni, hanem mint évköri jelképállatot kell meglátni.  
@@ -142,7 +142,7 @@ Pap Gábor Karácsony a magyar csillagos égen című könyve sajnos nincs meg l
 Mivel törölhetik azt a videót, feltöltöttem azt a részt a saját YouTube-omra is: az [alábbi](https://youtu.be/LfU5D7Sp090) videóban 8:20-tól szól a fontos témáról.  
 Na most a szamár és ökör csak úgy értelmezhető, ahogy PG mondja? Nyilván igen. Nyilván a szamár nem [[S/Széth\|Széth]]-Szíriusz (pedig alant erről lesz szó). Az ökör pedig nem a Bika.  
 
-Pap Gábor egy másik Ne Legyen Áldozatos videóban visszatért a témára. [Ezen](https://youtu.be/w4bzeCO5qCM) Karácsonyi ünnep 1. rész című műsor PG féle sorai egy az egyben [[P/Precesszió\|precesszió]] címhez kerültek. Amit itt tudni kell, illetve ami idevaló, hogy a betlehemi játék két jelképállata közül az [[O/Ökör\|ökör]] a precessziós évkör állata, a szamár pedig a kis évesé. (A betlehemi játék Ökör állatjelképéhez (és a Jézus Megváltó születéséhez) kapcsolt Nagy Év jelentőségét a mayák kapcsán, [[G/Galactic centre\|Galactic centre]] címnél taglaltuk: egyedülálló – 25920 évente előfordulóan egyedülálló – esemény ez – csak a mayák témája nem 2020 évvel ezelőttre, hanem mostanra, a Halakból Vízöntőbe való lépésre vonatkozott ugye).  
+Pap Gábor egy másik Ne Legyen Áldozatos videóban visszatért a témára. [Ezen](https://youtu.be/w4bzeCO5qCM) Karácsonyi ünnep 1. rész című műsor PG féle sorai egy az egyben [[P/Precesszió\|precesszió]] címhez kerültek. Amit itt tudni kell, illetve ami idevaló, hogy a betlehemi játék két jelképállata közül az [[O/Ökör\|ökör]] a precessziós évkör állata, a szamár pedig a kis évesé. (A betlehemi játék Ökör állatjelképéhez (és a Jézus Megváltó születéséhez) kapcsolt Nagy Év jelentőségét a maják kapcsán, [[G/Galactic centre\|Galactic centre]] címnél taglaltuk: egyedülálló – 25920 évente előfordulóan egyedülálló – esemény ez – csak a maják témája nem 2020 évvel ezelőttre, hanem mostanra, a Halakból Vízöntőbe való lépésre vonatkozott ugye).  
 7:54-nél arról szól, hogy Jézus születésekor, azaz 2020 éve, "ezen a pontján az évnek születik az egyetemes Megváltó (ahogy [[J/Jézus\|Jézus]] címnél írtuk, a zsidók számára is, hiába ágálnak ellene). Mi ez a pont? Na ez most nagyon lényeges kérdés, mert egy 26000 éves cikluson belül az egyedüli, amikor időbelileg fogalmazva mondjuk a Bak 0. pontja az valóban is a Bak csillagképnek is a 0. pontján (én foknak mondtam volna) áll. Itt tehát egy térbeli állatövi rendszer és egy időben értelmezett állatöv szinkronba kerül egymással. 26000 év múlva lesz megint ilyen. Ez egy kozmológiai értelemben is kitüntetett pont, nemcsak üdvtörténeti értelemben. Hogy kerül ide a szamár és az ökör? Számoljunk vissza 2020 évet – mit látunk ilyenkor, éjfélkor? A Rák csillagképet: éjfélkor a Rák van zenitben. (Azért nevezzük Bakpontnak a Bakpontot, mert a delelőpont mögött jelenik meg a Nap, csak ott nem látom. Kénytelen vagyok az egész évkörben gondolkodni, mert tetten érni csak ott tudom, ahol az ellentéténél tartok. Éjfélnél mindig a pont szemben lévő csillagkép jelenik meg.)"  
 És akkor innentől, 9:04-től megint precessziózik: "Na most, ha én a precessziós mozgás révén a Ráknál tartok, azt a (betlehemezés másik "kellék-állata,") az Ökör fejezi ki. A kis éven belül, és ott is a csillagképi értelemben vett Rák a magyar népi csillagnevek között is "Jászol szamárkákkal." (A latinban Asellus Borealis és Australis, viszont az Ökröt már nem tartják nyilván, az csak a mi mesei anyagunkban lelhető fel.) Ha a kettő itt szinkronba azaz fedésbe kerül egymással, akkor azért van ez, hogy az ökör ellentétesen, azaz szembe néz a szamárral, mert precessziósan az egyik irányban itt tartok az Ökörnél és ellentétes irányban, a kis éves ciklust (ahogy mondja "kicsi életemet") tekintve ott tartok a Szamárnál, és kettő között ott a [[J/Jászol\|jászol]]. A jászol ott van ebben a csillagképben, mint köd. Ez a [Praesepe](https://en.wikipedia.org/wiki/Beehive_Cluster) = Jászol. \[...\] Amit tehát mi játéknak gondolunk, annak minden eleme, tartalma teljesen konkrét csillagászati közlést tartalmaz. Ehhez már csak azt kell hozzászámolni, ami azóta – azaz 2020 év óta – csúszott, azt meg pillanatok alatt hozzá lehet számolni \[ez a mondata is bizonyítja, hogy a Bak-Bak szinkron ezek szerint 2000 éve volt meg.\]. Tehát itt sokkal többről van szó, mint arról, hogy mi most egy múltbeli eseményre emlékeznénk: ez az esemény most is zajlik \[ez egy élő, folyamatos rendszer\]. Ez egy jelenlévő születés."  
 [Ezen](https://qr.ae/pNSqWL) Quora válaszra kommentként írtam is:  
@@ -178,7 +178,7 @@ Na most a [[K/Kangaroo\|kangaroo]] (melyhez hasonló a bizonyos darling nyelvű 
 
 #### Péterfai János...
 
-...egyébként egy helyen megvédi a román szót (nem lát(tat) benne ellenszenvet) (csakhát PJI nem számol a csillagmondai-betlehemezés témakörével):  
+...egyébként egy helyen megvédi a román szót (nem lát(tat) benne ellenszenvet) (csak hát PJI nem számol a csillagmondai-betlehemezés témakörével):  
 > A Szamár állat neve a románoknál Maghiar. Vagyis a Magyar egyben Szamár, vagy a Magyar egyben Szumer. A Szamár régen nem az ostobaság szinonimája volt, hanem a szabadságé. De a szamár, a lóhoz képest, engedetlen, önfejű és akaratos. (Ló = Ember).  
 
 Na most, valójában itt is csillagképet kell keresni. A [[N/Nap#Nap és Orion\|Nap és Orion]] cím/alcímnél és [[H/Hunor csillagkép\|Hunor csillagkép]] címnél írottak szerint vizsgálódunk. Azt kell látni, hogy a szamár egyrészt [[S/Széth\|Széth]]-hez kapcsolódik, aki [[H/Hunor\|Hunor]]. Hunor Hun-Ter-ként, Vadászként Orion. Orion és Szíriusz összetartozik.  
