@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nephthys/","title":"Nephthys","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-25T02:58","updated":"2023-12-04T01:17"}
+{"dg-publish":true,"permalink":"/N/Nephthys/","title":"Nephthys","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-25T02:58","updated":"2023-12-04T08:02"}
 ---
 
 
@@ -48,7 +48,7 @@ A 2x7 = 14 előjött [[P/Pleiadok\|Pleiadok]] címnél (ott teljesebben) Michel-
 Falvay Károly Nagyboldogasszony című könyvének 165. oldalán hozott ábráit Nephthysről és Íziszről nem tudom értelmezni, de épp ellentétes irányokat jeleznek. A gond (az előző gondolatmenetemhez képest) az, hogy Nephthys-hez rendeli a keletet (életet) és Íziszhez a nyugatot (halált). (Ugyanakkor ezt a felfogást is el lehet fogadni, hiszen [[S/Szíriusz\|Szíriusz]] nevéhez nemcsak a [[S/Szeret\|szeret]], hanem a [[T/Therio-\|therio-]] azaz a félelem fogalma is kapcsolódik.)  
 Egyébiránt [[M/Martu\|Martu]] és [[G/Göd#Tejút nyugati partja\|Tejút nyugati partja]] cím/alcímnél volt szintén szó a nyugat és a Tejútanya egyik aspektusáról, de azt a témát sem sikerült megfejteni.  
 
-Várkonyi Nándor [[A/Aalu\|Aalu]] címnél szereplő adata szerint Neftisz-Nephthys másnéven Nit/[[N/Neith\|Neith]]. Mivel Neith azonos még [[N/Nut\|Nut]]tal, mely pedig azonos lesz később Ízisszel és állatalakban [[H/Hathor\|Hathor]]ral is, ezért szinte az összes egyiptomi istennő a Tejútanyával azonosítható (sőt, [[M/Maat\|Maat]] is lehet Nut (precessziós) forgásáért felelős). (Hogy a Tejútanyának milyen testrészei lehetnek beazonosíthatók, lásd [[N/Nut\|Nut]].)  
+Várkonyi Nándor [[A/Aalu\|Aalu]] címnél szereplő adata szerint Neftisz-Nephthys más nevén Nit/[[N/Neith\|Neith]]. Mivel Neith azonos még [[N/Nut\|Nut]]tal, mely pedig azonos lesz később Ízisszel és állatalakban [[H/Hathor\|Hathor]]ral is, ezért szinte az összes egyiptomi istennő a Tejútanyával azonosítható (sőt, [[M/Maat\|Maat]] is lehet Nut (precessziós) forgásáért felelős). (Hogy a Tejútanyának milyen testrészei lehetnek beazonosíthatók, lásd [[N/Nut\|Nut]].)  
 
 [[S/Széth\|Széth]] címnél szerepelt a sha determináns kapcsán (Wikipédia adata):  
 > The sha was also used as a determinative in the names of Set and the goddess Nut, who may be identified with Nephthys, the wife of Set.  
