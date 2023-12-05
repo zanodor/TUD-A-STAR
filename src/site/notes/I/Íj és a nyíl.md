@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Íj és a nyíl/"}
+{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-30T08:39","updated":"2023-12-05T12:53"}
 ---
 
 
@@ -37,8 +37,8 @@ Kezdjük a szexuális tartalommal. Már [[K/Kutyanemzés\|kutyanemzés]] címné
 > "Az én vaginám (`ūru`) egy szuka vaginája (ūru)! A pénisze egy kutya pénisze (ušaru)! Ahogy a szuka hüvelye (ūru) tartja a kutya péniszét (ušaru), (úgy tartsa az én hüvelyem \[ūru\] az ő péniszét \[ušaru\])!" (Biggs, 1967, 33. o. 14: 9-10).  
 > Eltűnt a szexuálisan izgatott nő imitációja (nedves barázdák): helyébe a bilincsek és a remegés képei léptek. A harci képek és a kötelesség nem nyilvánul meg jobban, mint ebben a példában: "Ne ürüljön ki a kosár, ne lankadjon az íj! Kezdődjön a szerelmi csatározás!" (Biggs, 1967, 37. o., 18: 3'-4').  
 > Itt a kosár (= vagina) nem ürülhet ki (utalva vagy arra, hogy szüksége van egy "merev nyílvesszőre", vagy esetleg a spermára, arra, ami általában a "kosarat" tölti). Az íjat inkább metaforaként használjuk, mint a nyilat: mint a nem tanított, meg nem feszített íj, a pénisz is petyhüdt, mielőtt használatra előkészítik.  
-- A Šà.zi.ga névről lásd lábjegyzetben: [^1].  
-- Az akkád `ūru` = vagina, vulva szó nyilván a (betöltendő) űrre és egyúttal az égre utal. A kutya [[U/UR\|UR]] neve kankutya név, a kan helyén másutt [[S/Szuka\|szuka]] (mint [[S/Sarama\|Sarama]]) van.  
+- A Šà.zi.ga névről lásd lábjegyzetben: [^1].  <br/>
+Az akkád `ūru` = vagina, vulva szó nyilván a (betöltendő) űrre és egyúttal az égre utal. A kutya [[U/UR\|UR]] neve kankutya név, a kan helyén másutt [[S/Szuka\|szuka]] (mint [[S/Sarama\|Sarama]]) van.  
 A szexuális szimbolika úgy képzelhető el, hogy a mellékelt képen Nut az íj és Geb hímvesszeje a nyíl.  
 
 ![assets/Ijesnyil_image2.png](/img/user/I/assets/Ijesnyil_image2.png)  
@@ -502,10 +502,10 @@ Nemző értelmét tekintve a Nyilassal szemközti [[I/Íj csillagkép\|Íj csill
 Pontosabban a világ itt a Tejút-galaxisra korlátozott ugye. A tatár `dönya`, török és azeri `dünya` valamint a perzsa `donyâ`, kazah `dünïye`, kirgiz `düynö`, és indonéz `dunia` = jelentése világ: ezen szavak nyilván a dámszarvas neveivel (lásd [[D/Dame\|dame]]) és az imént lábjegyzetben említett szavakkal azonosak.  
 
 [^7]: Lábjegyzet:  
-A már fejlettebb tűzszerszámok egyike az e rajzon 1-el jelezett, amelyet az eszkimók egészen napjainkig is használtak. (Lássad: Dr. Kalr Weule: "Leitfaden der Völkerkunde." Leipzig u Wien. Bibliographisches Institut, 1912, 108. oldal.) A tüzet gyújtani akaró személy – aki mindig férfi volt, azért is mert e fárasztó művelet meglehetős izomerőt igényel – balkezével a rajzon a-val jelzett csontocskát tartva (de volt némelyütt külön e célra készített rész is; a rajzon g-vel jelölve), jobbkezével pedig a szerszám íjszerű részét ide-oda húzta és tolta (a rajzon c). A szerszám fúrója fölső vége a csontocska mélyedésében volt, amely mélyedést bezsíroztak, hagy ott súrlódás ne legyen, ellenben a fúró (a rajzon b) alsó vége egy könnyen gyulladó falapba (a rajzon e) fúródott. (A rajzon fa lendítőkerék.) Mivel az íj zsinórja vagy ina (a rajzon d) a mindig kemény fából való fúróra volt csavarva, ezért az íj rész gyors ide-oda húzása-taszítása altal a fúró igen gyorsan ide-oda forgott, így tehát a mindig puha fából való falap lyukában erős súrlódás volt, ami tüzesedést okozott és a lyuk mellé oda készített könnyen gyúló anyagot, ha oda még fújtak is, lángra lobbantotta. Természetesen arra igen vigyáztak, hogy a falap és a fúró alsó vége jó száraz legyen, sőt ha volt, gyanta, erősebb súrlódás céljából a lyukba annak kevéske porot is szórtak. Természetesen, e művelet alatt a falapot, hogy ne mozogjon, tartani kellett; ezt pedig mindig a nő végezte.  
+A már fejlettebb tűzszerszámok egyike az e rajzon 1-el jelezett, amelyet az eszkimók egészen napjainkig is használtak. (Lássad: Dr. Kalr Weule: "Leitfaden der Völkerkunde." Leipzig u Wien. Bibliographisches Institut, 1912, 108. oldal.) A tüzet gyújtani akaró személy – aki mindig férfi volt, azért is mert e fárasztó művelet meglehetős izomerőt igényel – balkezével a rajzon a-val jelzett csontocskát tartva (de volt némelyütt külön e célra készített rész is; a rajzon g-vel jelölve), jobbkezével pedig a szerszám íjszerű részét ide-oda húzta és tolta (a rajzon c). A szerszám fúrója fölső vége a csontocska mélyedésében volt, amely mélyedést bezsíroztak, hagy ott súrlódás ne legyen, ellenben a fúró (a rajzon b) alsó vége egy könnyen gyulladó falapba (a rajzon e) fúródott. (A rajzon fa lendítőkerék.) Mivel az íj zsinórja vagy ina (a rajzon d) a mindig kemény fából való fúróra volt csavarva, ezért az íj rész gyors ide-oda húzása-taszítása által a fúró igen gyorsan ide-oda forgott, így tehát a mindig puha fából való falap lyukában erős súrlódás volt, ami tüzesedést okozott és a lyuk mellé oda készített könnyen gyúló anyagot, ha oda még fújtak is, lángra lobbantotta. Természetesen arra igen vigyáztak, hogy a falap és a fúró alsó vége jó száraz legyen, sőt ha volt, gyanta, erősebb súrlódás céljából a lyukba annak kevéske porot is szórtak. Természetesen, e művelet alatt a falapot, hogy ne mozogjon, tartani kellett; ezt pedig mindig a nő végezte.  
 
 [^8]: Lábjegyzet:  
-Etymologiáról is ír: A szó nagyon régi kincse nyelvünknek, már a 13. század közepe óta forgalomban van. Változatai: dub, dop és dobb.  
+Etymologiáról is ír: A szó nagyon régi kincse nyelvünknek, már a 13. század közepe óta forgalomban van. Változatai: `dub`, `dop` és `dobb`.  
 A finnugor és török "párhuzamok" említése után a sumér `dub` szót veszi számba és [[D/Domb\|domb]] szavunkkal azonosítja.  
 
 [^9]: Lábjegyzet:  
