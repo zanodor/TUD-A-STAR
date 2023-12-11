@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-05T06:45","updated":"2023-12-04T01:19"}
+{"dg-publish":true,"permalink":"/T/Tudomány/","title":"Tudomány","tags":["Englishtexttranslated"],"created":"2023-10-05T06:45","updated":"2023-12-04T01:19"}
 ---
 
 
@@ -22,8 +22,9 @@ A 2006. augusztus 7-11-ig tartott XI. Magyar Őskutatási Fórumról az Ősi Gy�
 
 A tudományt ma a tekintélytisztelet jellemzi, jegyezte meg [[K/Kiszely István\|Kiszely István]]. Ezzel nyilván arra utalt, hogy a fehér ember és azok közt is az indo-germán és angolszász felsőbbrendűség és az általuk fémjelzett katonai hatalom határozza meg, ki mennyit ér.  
 
-#### Götz László Keleten kél a Nap című könyvében írja:
+#### Götz László Keleten kél a Nap...  
 
+...című könyvében írja:  
 > A melléfogások kétségkívül csupán az idevágó szakirodalom tömegének reflexiói, amelynek nyomasztó súlyától gyakran valóban igen nehéz megszabadulni.
 
 Valóban, ma annyi téves hipotézis van és annyi különböző dobozba zárt elmélet amelyek a keretrendszert jelentik és ezekből a keretekből nehéz kiszabadulni. A legtöbb ember saját elméjének fogja. [[T/Tudomány#A tudomány célja: engedelmes rabszolgák nevelése\|A tudomány célja: engedelmes rabszolgák nevelése]], akik inkább ne akarjanak tág elmével rendelkezni.  
