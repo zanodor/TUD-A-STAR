@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-03T11:13","updated":"2023-11-25T11:19"}
+{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["Englishtexttranslated"],"created":"2023-10-03T11:13","updated":"2023-11-25T11:19"}
 ---
 
 
@@ -56,9 +56,9 @@ A többi fekete Napisten is Atumhoz hasonlóan a lemenő (illetve a nyári napfo
 
 Az élő Hórusz (Nap) a "halott" Ozirisz (Orion, deus otiosus) helyett tevékenykedik (mint a [[D/Deszana\|deszana]] és más törzsi napvallásban). Az atya és a fiú egylényegűsége a fáraók "istenségében" is kifejeződik. A fáraó, amíg élt, Hóruszt testesítette meg; amikor elhunyt, Ozirisszá vált. Ez a felfogás – mint Hellaszban – kiterjedt az istenek összes generációjára.  
 
-#### Jankovics Marcell szintén A Nap könyve...
+#### Jankovics Marcell A Nap könyve...
 
-...című könyvében írja:  
+...című könyvében írja szintén:  
 > Volt a görögöknek egy "napistenük", aki eleve a halott Napot személyesítette meg. Dionüszosz ő, akinek a nevét lehet "újjáéledő Zeusz"-nak fordítani, utalásul a téli napfordulókor újjászülető halott Napra, vagy "éjjeli Zeusz"-nak, ami a meghaló Dionüszosz természetét jobban kifejezi, hiszen a görögök a bőség isteneként Plutosznak nevezték úgy, ahogy a rómaiak az alvilág urát, Plútót.  
 > Másutt Nietzschét idézi, aki szerint "Dionüszosz-[[B/Bacchus\|Bacchus]], az "**éjjeli Nap**", úgy viszonylik Apollónhoz, mint a Naphoz a Hold."  
 
@@ -66,7 +66,9 @@ Persze nemcsak Nietzsche tartotta a Holdat éjjeli Napnak; a képzet egyetemes. 
 
 A görög mitológiánál maradva (az élő Nap) Héraklésszel szemben álltak olyan halott Napistennek beillő alakok, mint Augeiász vagy Eurüsztheusz. Ahogy Graves mondaná, az emelkedő és a hanyatló Nap istenei álltak szemben egymással; erről szóltunk [[O/Osiris és Set\|Osiris és Set]], valamint [[M/Missera\|missera]] címnél is.  
 
-Robert Graves The White Goddess című könyvében írja:  
+#### Robert Graves The White Goddess...  
+
+...című könyvében írja:  
 > The sacred king, then, is a Sun-king and returns at death to the Universal Mother, the White Moon Goddess, who imprisons him in the extreme north. Why the north? Because that is the quarter from which the Sun never shines, from which the wind brings snow; only dead suns are to be found in the cold polar north. The Sun-god is born at mid-winter when the Sun is weakest and has attained his most southerly station; therefore his representative, the Sun-king, is killed at the summer solstice when the Sun attains his most northerly station[^3].  
 > —  
 > A szent király tehát Napkirály, és halálakor visszatér az Egyetemes Anyához, a Fehér Hold Istennőhöz, aki a legészakibb északon tartja fogva. Miért északon? Mert az az a negyed, ahonnan a Nap soha nem süt, ahonnan a szél havat hoz; a hideg sarki északon csak halott napok találhatók. A Napisten a tél közepén születik, amikor a Nap a leggyengébb, és elérte legdélebbi állását; ezért képviselőjét, a Napkirályt a nyári napforduló idején ölik meg, amikor a Nap eléri legészakibb állását[^3].  
