@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nyúl/","title":"Nyúl","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-13T01:41","updated":"2023-11-10T03:20"}
+{"dg-publish":true,"permalink":"/N/Nyúl/","title":"Nyúl","tags":["Englishtexttranslated"],"created":"2023-10-13T01:41","updated":"2023-11-10T03:20"}
 ---
 
 
@@ -9,8 +9,9 @@ Pintye Mihály Nyelvünkről című az Ősi Gyökér 2008/2. sz. megjelent cikk�
 
 ![assets/Nyúl_image1.png](/img/user/N/assets/Ny%C3%BAl_image1.png)  
 
-#### Richard H. Allen Star Names című könyvében írja:
+#### Richard H. Allen Star Names...  
 
+...című könyvében írja:  
 > One from our North American Indians appears in Longfellow's Hiawatha:  
 > *Once a warrior very angry,  
 > Seized his grandmother, and threw her  
@@ -88,7 +89,7 @@ A Hold(sarló) [[I/Íj\|íj]]jal való kapcsolata egyértelmű, ahogy a [[N/Nyí
 Az [alábbi](http://acta.bibl.u-szeged.hu/54608/1/nyiri_antal_90_139-142.pdf) oldalon olvasottak alapján a nyúl a [[N/Nyíl\|nyíl]] szó párja lenne (ami nyíl itt, az nyúl ott, azaz az itt kilőtt nyíl az ott levő nyúlba mint célba talál), de nemcsak főnévként, hiszen igeként nyílik és nyúlik összefüggenek.  
 Közben lásd kezdet kapcsán [[N/Nil\|nil]] és [[N/Nihil\|nihil]], mely szó [[N/Nyíl\|nyíl]] szavunkból kell eredjen. A nyíl [[N/Nílus\|Nílus]] címnél írottak alapján is a Tejút, de úgy tűnik, hogy a (mostani időkben Tejútra helyezhető) [[S/Szűz-Halak tengely\|Szűz-Halak tengely]] maga a Nyíl.  
 
-Dr. Lónay Gyula a long, nyél, nől, nyúl és [[N/Nyolc\|nyolc]] szavakról írja ([forrását lásd itt](http://osnyelv.hu/osny0/zzz/nyelvkod.web.html)):  
+Dr. Lónay Gyula a [[L/Long\|long]], nyél, nől, nyúl és [[N/Nyolc\|nyolc]] szavakról írja ([forrását lásd itt](http://osnyelv.hu/osny0/zzz/nyelvkod.web.html)):  
 > Ez adja a megoldást a magyar `láng`, a német `lang`, angol `long` (mindkettő hosszú), a szanszkrit `lingva` (fénynyaláb, de magyarban inkább fényfa) szavakra, ugyanis közös bennük a holdsugár, ami a fény és a hosszúság, a vonal megtestesítője. Ezért hívják a szerszám hosszú részét nyélnek, lándzsának a hosszú fegyvert, ezért helyes úgy ejtenünk, hogy nől, és nem nő. A nyál is onnan, hogy nyúlik, mint a nyúl, s az ember is, ha nyúl, növekszik. Az átlag ember nem tudta, hogy a hold mért nem jár olyan pontosan, mint a nap, ezért a pontatlan embert linknek mondta. Az oroszlán is a hold-háló szerű sörényéről kapta a nevét, az erős szóval kiegészítve. Külföldi nyelveken `leon`, nálunk `lán`. A `nyelv` és a `lingua` szavak etimonja is ugyanaz, csak fordítva. A nyolc is azért nyolc, mert megnyúlik a számsor, mert egy időben az hétnél véget ért. A kilenc még kinyulcabb.  { #m2t5c3}
 
 
