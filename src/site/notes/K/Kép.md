@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kép/","title":"Kép","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-31T10:43","updated":"2023-10-31T10:43"}
+{"dg-publish":true,"permalink":"/K/Kép/","title":"Kép","tags":["Englishtexttranslated"],"created":"2023-10-31T10:43","updated":"2023-11-08T03:47"}
 ---
 
 
@@ -48,8 +48,9 @@ Mivel a fej, főség leginkább kutyafej(jel asszociált), a kép, kep, kip szav
 
 Faragott képről van szó.  
 
-#### Kállay Ferenc A pogány magyarok vallása című könyvében írja:
+#### Kállay Ferenc A pogány magyarok vallása...  
 
+...című könyvében írja:  
 > Az "ad arbores" kifejezés Szent László törvényében a fa bálvány képekre vonatkozik. ([Lásd 95. old.](zotero://open-pdf/library/items/DFI47XPY?page=95&annotation=L8G4BDUH))  
 - A fa a leszármazásra utal. A [[K/Karácsonyfa\|karácsonyfá]]ra is akkor bálványokat aggatunk?  
 
