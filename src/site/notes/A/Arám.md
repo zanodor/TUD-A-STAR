@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arám/","title":"Arám","tags":["dg_uploaded"],"created":"2023-10-20T06:58","updated":"2023-10-25T12:32"}
+{"dg-publish":true,"permalink":"/A/Arám/","title":"Arám","created":"2023-10-20T06:58","updated":"2023-11-08T03:31"}
 ---
 
 
@@ -10,15 +10,16 @@
 > Igen érdekes a szírek etnogenezise. Ma már általában muzulmánok, de egykoron a napvallást követőkhöz tartoztak. Arám nevük régebben magyart jelentett állítólag.  
 
 Nemcsak \[egyik\] forrása, Prátzki István szerint, hanem Fáy Elek és Plinius szerint is: Fáy A magyar őshona című könyvének 20. oldalán hozza, hogy az idősebb Plinius[^1] szerint **a szkíták régebbi neve arám** volt.  
-- Ez így nyilván nem igaz vagy pontos: mondjuk úgy, hogy azok is szkíta-hun/magyar népség volt. A türkökre is azt mondták, hogy magyarok, de még többszáz, többezer népre lehetne mondani.  
+- Ez így nyilván nem igaz vagy pontos: mondjuk úgy, hogy azok is szkíta-hun/magyar népség volt. A türkökre is azt mondták, hogy magyarok, de még több száz, több ezer népre lehetne mondani.  
 Ugyanakkor [[A/Arimaszpa\|arimaszpa]] címnél éppen szóltunk arról, hogy a név előrésze nem akármilyen egyet jelenthetett.  
 
-#### Kállay Ferenc A pogány magyarok vallása című könyvében írja:
+#### Kállay Ferenc A pogány magyarok vallása...  
 
+...című könyvében írja:  
 > A sanskrit `ârâma` (= gaudium) persa `ram`, `aram`, magyar [[O/Öröm\|öröm]] szók \[egyek\], s az öröm vagy Aram föld nevéből fejlettek ki (l. öröm) ([Lásd 197. old.](zotero://open-pdf/library/items/DFI47XPY?page=197&annotation=2I2HGFZV))
 
 Ezen arám név hangátvetve a mellékelt képen taglalt ([[L/Luhunga\|Luhunga]] címnél szövegesen is szereplő) Amar lehet (nos, ha átvetjük, lehet).  
-![assets/Arám_image1.png|undefined](/img/user/A/assets/Ar%C3%A1m_image1.png)  
+![assets/Arám_image1.png](/img/user/A/assets/Ar%C3%A1m_image1.png)  
 Ez viszont akár lehet valamiféleképp a [[R/Ram\|ram]] = kos nevére utaló (az arab `ārām` = gazellák is erre utalhat, bár ennek egyes száma `iram`!) és ezen a ponton magam is engedek a csábításnak, hogy a ram megfordításában a magyarok (Kos, [[K/KUS\|KUS]] = Életfa/Tejút népe; vesd össze latin `ramus` = ág: lásd [[R/Ramify\|ramify]]) Mar nevét lássam meg.  
 [[H/Haram\|Haram]] is hasonló név hehesen.  
 Arám nevű, Arméniával kapcsolatba hozott őskirályról és az arámi népről Fáy Elek A magyarok őshona című könyvének 12-13. oldalán ír. (Lásd még [[O/Örmény\|Armen]].)  

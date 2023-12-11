@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz heliakus kelése/","title":"Szíriusz heliakus kelése","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-09T12:04","updated":"2023-12-04T04:59"}
+{"dg-publish":true,"permalink":"/S/Szíriusz heliakus kelése/","title":"Szíriusz heliakus kelése","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T12:04","updated":"2023-12-04T04:59"}
 ---
 
 
@@ -7,9 +7,9 @@
 
 Több információ szerepelt összevissza mindenhol (például lásd [[C/Cardinal\|cardinal]], [[P/Precesszió\|precesszió]], [[S/Szíriusz és a naprendszer\|Szíriusz és a naprendszer]] és [[S/Sothic\|Sothic]]).  
 
-#### Drunvalo Melchizedek...
+#### Drunvalo Melchizedek The Ancient Secret of the Flower of Life Volume I....  
 
-...The Ancient Secret of the Flower of Life, Volume I. című könyvében írja:  
+...című könyvében írja:  
 > Afrikában, arról a helyről nézve, ahol a dogonok élnek, a Szíriusz csillag a horizont alá veszik néhány hónapra; majd július 23-án hajnalban újra megjelenik, ekkor nagyjából egy perccel a nap előtt kel fel. Majdnem pontosan keleti irányban, épphogy csak a horizont fölé emelkedve fénylik rubinvörösen. A nap hatvan másodperc múlva előbukkan, így a Szíriusz csak egy pillanatig látható, azután vége. Ezt a jelenséget a Szíriusz heliakális (napközelségben lévő) felkelésének nevezik, s mozzanata rendkívül fontos pillanatot jelentett nemcsak a dogonok és az egyiptomiak számára, hanem szinte az egész ókori világ életében.  
 > E pillanatban a Szíriusz, a Nap és a Föld egy egyenes mentén helyezkedik el a térben. Egyiptomban csaknem minden templomot ehhez a képzeletbeli vonalhoz igazítottak, beleértve a Szfinx tekintetét is. Igen sok templom falának egy pontjába apró lyukat fúrtak; s ezt megismételték a belső falakon is, s a lyukakon áthúzódó egyenes valamilyen homályos belső kamrába vezetett. A kamra középpontjában valamiféle apró jellel ellátott gránitkocka vagy Arany Középút-négyszög helyezkedett el. A Szíriusz heliakális felkelésének pillanatában egy rubinvörös fénycsík ütközött néhány másodpercre az oltárnak, s ezzel kezdetét vette az egyiptomi újév, és az egyiptomiak ősi Szóthisz-kalendáriumának első napja.  
 
@@ -92,7 +92,7 @@ William Brown blogger is írja:
 > Ha a napéjegyenlőségek és napfordulók különböző helyeken következnének be, akkor a Szíriusznak nem lehetne minden július 23-án pontos spirális kelése Egyiptom szélességi köréből!  
 - Richard Hinckley Allen Star Names and their Meanings című könyvében említi Oppertet, aki azt nyilatokozta, hogy a káldeusok i.e. 300 körül végzett Szíriusz mozgásainak lejegyzése csak olyan csillagászati periódusok ismeretéből származhat, aminek alapját egy, az i.e. 11542. április 29-én, csütörtökön, a perzsa-öbölbeli Zylos nevű szigetről tett megfigyelés képezte.
 
-Nyilván arra gondol (és ennek utána lehetne nézni), hogy a Szíriusz többezer évig eltűnt a láthatárból, ahogy DCS is írt róla.  
+Nyilván arra gondol (és ennek utána lehetne nézni), hogy a Szíriusz több ezer évig eltűnt a láthatárból, ahogy DCS is írt róla.  
 ![assets/Sziriuszheliakuskelese_image6.png](/img/user/S/assets/Sziriuszheliakuskelese_image6.png)  
 
 Itt még említendő:  

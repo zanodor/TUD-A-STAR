@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Koponya/","title":"Koponya","tags":["dg_uploaded"],"created":"2023-11-05T03:00","updated":"2023-11-25T11:15"}
+{"dg-publish":true,"permalink":"/K/Koponya/","title":"Koponya","created":"2023-11-05T03:00","updated":"2023-11-25T11:15"}
 ---
 
 
@@ -35,8 +35,9 @@ Az Ősi Gyökér 2007/1. számának 76. oldalán Nagy Róbert Hol van a kutya el
 Varsa Mátyás A legrégibb magyar mítosz című tanulmányában írja, hogy a hit szerint az árnyéklélek – tehát az [[I/Íz\|íz]] \[vö. [[E/ÉSZ\|ész]]\] – a fejben lakik.  
 Fentebb, Rostás László cikkében is azt olvastuk, hogy Árpád idejében a magyarok szabadlélek tisztelete oly erős, hogy bármit odaadnának fogságban kivégzett vezetőjük fejéért, mely a szabadlélek helye.  
 
-#### Kállay Ferenc A pogány magyarok vallása című könyvében írja:
+#### Kállay Ferenc A pogány magyarok vallása...  
 
+...című könyvében írja:  
 > James Tod Barolliban Indiában leírván Siwa istenasszony templomát, annak szobrát is körülményesen leírja; bal kezében kehelynek készült ember kaponyát tart, melyből a megölt ellenség vérét issza, mire számosak a példák India történeteiben, mely alkalommal Hammer figyelmeztet a hason longobard s persa szokásra, hogy e nemzetek fejei is drága kövekkel kirakott, s aranyba foglalt kaponyákból ittak ünnepélyes alkalommal, mint Alboin a longobard fejedelem és Ismail Schah, ez utólsó az Uzbeg chán Scheibel kaponyáját használá e czélra. (Gesch. der osman. II. 393. és Wien. Jahrb. LXV. B. p. 89—91.) Kura pecsenég fejedelem is 972 megölvén Dniepernél az orosz Swiatoslavot, annak kaponyáját kehelynek használta, mint Alboin a Konemundét. (Nikon. Chronik. B. 1. 60. s Hammer die goldene Horde p. 439. seq.) ([Lásd 123. old.](zotero://open-pdf/library/items/DFI47XPY?page=123&annotation=ZG7FDE5I))  
 
 Lásd még a mesei boszorkány háza kerítésének karóira tűzött koponyákról [[K/Karó\|karó]].  

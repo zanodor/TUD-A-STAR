@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hykszosz/","title":"Hykszosz","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-31T08:16","updated":"2023-10-31T08:16"}
+{"dg-publish":true,"permalink":"/H/Hykszosz/","title":"Hykszosz","tags":["Englishtexttranslated"],"created":"2023-10-31T08:16","updated":"2023-11-08T03:44"}
 ---
-
-
 
 
 # Hykszosz
@@ -66,8 +64,9 @@ Ezek az események a bibliai Exodussal egybevágóak, és a KT által ezen műso
 > Valószínű, hogy a hikszoszok (szkíták) Egyiptomra mért súlyos csapásai tették lehetővé a zsidó nép Egyiptomból való kimenekülését és az elpusztított városokban talált aranytárgyak magukkal vitelét. Ezt a lovas szittya népet követték azután a zsidók a pusztai vándorlásuk után Kánaánba is, ahol már addig a szittyák jól berendezkedtek, városokat építettek. Hogy miképpen irtották ki fokozatosan a zsidók a szittyákat, arról elég bőséges adatokat közölnek a szentírás könyvei.  
 - KT itt, évekkel később is folyamatosan a kus névben gondolkodik, ami nem téves, de azt [[P/Péterfai hibái\|Péterfai hibái]] címnél is írtuk, hogy a görög és latin szóvégi végződéseket szófejtési szempontból figyelembe venni nem szerencsés.
 
-#### Pálfi Károly A magyar nemzet őstörténete és a zsidóság című könyvében írja:
+#### Pálfi Károly A magyar nemzet őstörténete és a zsidóság...  
 
+...című könyvében írja:  
 > Mint Van den Osten tanár helyesen megállapította, a hiksosok turániak voltak, \[de\] őket a hittitákkal összetéveszti. ([Lásd 5. old.](zotero://open-pdf/library/items/VZZUZWZ2?page=5&annotation=TJFWYEJB))  
 - Ezek sokat nem mondanak és a lényeg marad le.
 
