@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bálvány/","title":"Bálvány","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-10-21T04:29","updated":"2023-11-11T12:35"}
+{"dg-publish":true,"permalink":"/B/Bálvány/","title":"Bálvány","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-21T04:29","updated":"2023-11-11T12:35"}
 ---
 
 
@@ -10,8 +10,9 @@
 > Általán bizonyos alakot képező szobor, vagy czobor, például kapubálvány, mely a kapuszárnyát ragasztókép tartja, s teteje fejet ábrázol; bálvány a borsajtóban, felálló rovátkos henger; szárazmalmi bálvány, a kerék tengelye. Ezekből látszik, hogy gyöke eredetileg áll, melyből lett: állvány, előtéttel bálvány, s megfelel neki alapfogalomban a latin `statua` s `stando`. Lóth felesége sóbálványnyá vált. Innen átv. ért. hamis isteni alakot képező faragvány, öntvény. Bálványokat imádni. Bálvány előtt térdepelni. Arany, kő bálvány. Úgy áll, mint bálvány. A képet nem arany, hanem az imádás teszi bálvánnyá. *"Isteni kéz maradványa! Égő szivemnek bálványa."* (Népdal.)  
 > Némelyek szerint a bibliai (`ba'ál`) szótól, mely latinosan [[B/Belus\|Belus]], pogány isten neve, vette volna e második értelmét, valamint a szláv `balvan`, `bolvan`, román `bolovan` is.  
 
-#### Kállay Ferenc A pogány magyarok vallása című könyvében írja:
+#### Kállay Ferenc A pogány magyarok vallása...  
 
+...című könyvében írja:  
 > Hogy a bálvány szó csak kölcsönözés az orosz nyelvben is, azt Schafárik sem tagadja, ki a kelta `peulwani`-ra figyelmeztet (Slav. alterth. I. 400), ugyanezt tanitja Reiffis "`bolvan` idole, bloc, celtique `peulwan` blocde pierre". ([Lásd 212. old.](zotero://open-pdf/library/items/DFI47XPY?page=212&annotation=J9SMKSQQ))
 >
 > Bullet kelta szótárában `peulwan` = pierre longve elevée perpendiculariement en guise de pilier, une colonne brute sans être travaille, brittül `peulwanon`, szerinte `pel` szóból = hosszú és `maen` = kő, de hogy Bullet a szók leszármaztatásaiban igen sokszor megtévedt, rég megismert dolog. ([Lásd 213. old.](zotero://open-pdf/library/items/DFI47XPY?page=213&annotation=JRSQFH7L))  
@@ -80,7 +81,7 @@ A bálványnak van egy másik jelentése is.
 #### Bognár Ferenc Nimrudi hagyományunk Boldogasszony-tisztelete, és Fekete Madonnái...
 
 ...című cikkében írja (összekötve a két jelentést):  
-> A régi palóc ház [[B/Boldoganya\|boldoganya]] nevű, [[M/Mestergerenda\|mestergerendá]]t tartó oszlopát, hagyománytiszteletből, minden újonnan épült házba beállítottak. Igen ám, de két ilyen oszlop is volt, a másikat már csak simán bálványnak[^1] hívták. Rejtett kultikus összetartozásukat mutatva, együtt jelent meg a Boldoganya és a bálvány. A női isten-fél, a Boldogasszony, lényegtelensége miatt tovább élt a keresztény jegyek alatt rejtve és rangvesztve, de a pogány hím riválisnak, Boldog Istennek mindenképen el kellett tűnnie, s maradt helyette a "nevesincs" azaz csak utaló, bálvány szó.  
+> A régi palóc ház [[B/Boldoganya\|boldoganya]] nevű, [[M/Mestergerenda\|mestergerendá]]t tartó oszlopát, hagyománytiszteletből, minden újonnan épült házba beállítottak. Igen ám, de két ilyen oszlop is volt, a másikat már csak simán bálványnak[^1] hívták. Rejtett kultikus összetartozásukat mutatva, együtt jelent meg a Boldoganya és a bálvány. A női isten-fél, a Boldogasszony, lényegtelensége miatt tovább élt a keresztény jegyek alatt rejtve és rangvesztve, de a pogány hím riválisnak, Boldog Istennek mindenképpen el kellett tűnnie, s maradt helyette a "nevesincs" azaz csak utaló, bálvány szó.  
 
 Kubínyi Tamás mondja egy ÁKTV műsorában, hogy a televízió felváltotta a [[H/Házioltár\|házioltár]] szerepét. Másutt továbbmegy és úgy fogalmaz, hogy bálványimádó (az imádat tárgya a házioltár szerepét átvevő készülék).  
 
