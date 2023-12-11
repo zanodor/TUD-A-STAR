@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2023-11-25T11:28"}
+{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2023-11-25T11:28"}
 ---
 
 
@@ -14,8 +14,9 @@ Ami az Anna ünnep dátumát ([[J/Július 26\|július 26]].), a fentebb említet
 
 Még Rómára visszatérve...,
 
-#### Supka Géza Kalandozás a kalendáriumban című könyvében írja:  
+#### Supka Géza Kalandozás a kalendáriumban...  
 
+...című könyvében írja:  
 > A régi Rómában márciussal kezdődött az esztendő, csak Kr. e. 153-ban esett meg első ízben, hogy az állam legfőbb tisztviselői nem március elsején, hanem január elsején léptek hivatalba, ettől fogva nagyrészt januárral kezdték az évet. A nap azonban még igen-igen sok ideig bizonytalan volt, hiszen az első  
 > holdváltozástól függött, amely napon a pontifex maximus kikiáltotta (caleo) a hónap első napját (Calendae). Sőt még a kereszténység is több mint másfél ezer éven keresztül bizonytalankodott az Újév dolgában: hol december 25-én, hol január 6-án, hol meg általában az ádventtel kezdte az évet. Mindössze 1691-ben történt, hogy XII. Ince pápa végérvényesen január 1-jére helyezte az év kezdetét.  
 
