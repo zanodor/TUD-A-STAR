@@ -1,16 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/C/Canopus/","title":"Canopus","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-30T07:29","updated":"2023-10-30T07:29"}
+{"dg-publish":true,"permalink":"/C/Canopus/","title":"Canopus","tags":["Englishtexttranslated"],"created":"2023-10-30T07:29","updated":"2023-11-08T03:36"}
 ---
-
-
 
 
 # Canopus
 
 A Canopus (α Carinae, Alpha Carinae) egy első fényrendű csillag a Carina (Hajógerinc) csillagképben. A második legfényesebb csillag az éjszakai égbolton (a [[S/Szíriusz\|Szíriusz]] után). Magyarországról nem látható. A 19. századig Alpha Argus (lásd MA írását: [[A/Argo\|Argo]]) néven volt ismert, a neve az 1930-as Nemzetközi Csillagászati Unió közgyűlésén változott meg, amikor az Argo csillagképet több kisebb részre bontották. Valószínűleg ez az egyetlen olyan első fényrendű csillag, ~~amit egy személy után neveztek el~~...A helyzete még a Föld [[P/Precesszió\|precesszió]]ja miatt sem változott annyit, hogy látható lett volna az utolsó néhány ezer évben akár az ókori Róma, akár az ókori Görögország számára. Az ókori Egyiptomból azonban látható volt.  
 
-#### Richard H. Allen Star Names című könyvében írja:
+#### Richard H. Allen Star Names...  
 
+...című könyvében írja:  
 > Lying 52° 38' south of the celestial equator, about 35° below Sirius, this star is invisible to observers north of the 37th parallel; but there it is just above the horizon at nine o'clock in the evening of the 6th of February, and conspicuous from Georgia, Florida, and our Gulf States. Sirius follows it in culmination by about twenty minutes.  
 > —  
 > Az égi egyenlítőtől 52° 38' délre, a Szíriusz alatt körülbelül 35°-ra fekvő csillag a megfigyelők számára a 37. szélességi körtől északra láthatatlan; de ott éppen a horizont felett van február 6-án este kilenckor, és jól látható Georgia, Florida és Öböl menti államainkból. Sirius körülbelül húsz perccel követi a csúcspont elérésében.  
@@ -72,8 +71,9 @@ A Canopust a Hamlet Malma című könyv is említi:
 
 Hogy a Canopus és a Kutyacsillag fontos markerek és társak, ez leszűrhető az alábbi arab történetből.  
 
-#### Richard H. Allen Star Names című könyvében írja:  
+#### Richard H. Allen Star Names...  
 
+...című könyvében írja:  
 > Because Sirius (the main star in Canis Major) and Procyon (the main star in Canis Minor) are seen on opposite sides of the Milky Way, there is an Arab story describing how these two companions became separated by the great Sky River. The Arabs tell of two sisters who tried to follow their brother Suhail (Canopus) across the sky. When they came to the great Sky River they plunged in to swim across. The older and stronger sister (Sirius) managed and today can be seen on the southern bank of that great river. But the younger sister was too weak and remained weeping on the northern bank, where we still see her today as Procyon, or Canis Minor.  
 > —  
 > Mivel a Szíriusz (a Canis Major főcsillaga) és a Procyon (a Canis Minor főcsillaga) a Tejútrendszer ellentétes oldalán látható, van egy arab történet, amely leírja, hogyan választotta el e két társat a nagy Égi Folyó. Az arabok két nővérről mesélnek, akik megpróbálták követni testvérüket, Suhailt (Canopus) az égbolton keresztül. Amikor a nagy Égi Folyóhoz értek, belevetették magukat, hogy átússzák. Az idősebb és erősebb nővérnek (Szíriusz) sikerült, és ma már a nagy folyó déli partján látható. A fiatalabb testvér azonban túl gyenge volt, és sírva maradt az északi parton, ahol ma is láthatjuk őt Procyon vagy Canis Minor néven.  
