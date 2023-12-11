@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2023-12-04T01:08"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2023-12-04T01:08"}
 ---
 
 
@@ -235,7 +235,7 @@ Erről szóltam legutóbb az [alábbi](https://qr.ae/pvKJSX) Quora válaszban, a
 > Ami a törököket és a mongolokat illeti, a keleti életmódról minden adat hasznos, tehát mondhatjuk, hogy a magyar kutatások minden török és mongol témában hasznosak. De ugyanilyen hasznos lenne Egyiptom (ahogy Borbola János egyiptológus teszi, az átírás javított módjával) és más területek kutatása is.  
 > Ami a legtöbb figyelmet és támogatást kapja, az lesz a magyar őstörténet "status quo-ja". Az egész a fókuszról szól, ahogy a médiában is teszik a médiamanipuláció érdekében (minden fontosabb hírt figyelmen kívül hagynak, és ugyanazt ismétlik újra és újra).  
 
-A kiindulópont az, hogy az ősi turáni (magyar) szemléletet a [[S/Szemiták és árják\|szemiták és árják]] nézőpontjából tárják elénk (de már a használt nyelveken is megmutatkozik: sumer szöveg akkádul, majd ez a nyugati tudomány német, francia vagy angol nyelvére fordítva és onnan magyarítva kerül hozzánk; szép kört írunk le turánitól turániig, ki tudja hány erőszaktevésen végigmenve). Arról is kell itt beszélni, hogy sok isten nőiségből hímséggé lett, és hogy mi csak a leírt szöveges hagyományokra támaszkodhatunk. Az egész helyzet ahhoz hasonlítható, mint mikor a hongkongi akció-vígjátékban Kis Kappan a hotel lobbiban elvesztett öngyújtóját a lámpafény alatt keresi, pedig nem ott, hanem a tér sötét sarkában veszítette el. Ma a Napot leárnyékoló szemita és árja zseplámpások fényét követve próbálunk keresgélni, ráadásul úgy, hogy az ő bal agyféltekés gondolkodásukat közben ránk erőltetik. Nekünk minden könyvet a sorok között olvasva kell olvasni és a lelkünkön, tudatalattinkon kell átszűrni. Ez a helyes út. Efféle témáról már [[B/Bal és jobb\|bal és jobb]] címnél is volt szó.  
+A kiindulópont az, hogy az ősi turáni (magyar) szemléletet a [[S/Szemiták és árják\|szemiták és árják]] nézőpontjából tárják elénk (de már a használt nyelveken is megmutatkozik: sumer szöveg akkádul, majd ez a nyugati tudomány német, francia vagy angol nyelvére fordítva és onnan magyarítva kerül hozzánk; szép kört írunk le turánitól turániig, ki tudja hány erőszaktevésen végigmenve). Arról is kell itt beszélni, hogy sok isten nőiségből hímséggé lett, és hogy mi csak a leírt szöveges hagyományokra támaszkodhatunk. Az egész helyzet ahhoz hasonlítható, mint mikor a hongkongi akció-vígjátékban Kis Kappan a hotel lobbiban elvesztett öngyújtóját a lámpafény alatt keresi, pedig nem ott, hanem a tér sötét sarkában veszítette el. Ma a Napot leárnyékoló szemita és árja zseblámpások fényét követve próbálunk keresgélni, ráadásul úgy, hogy az ő bal agyféltekés gondolkodásukat közben ránk erőltetik. Nekünk minden könyvet a sorok között olvasva kell olvasni és a lelkünkön, tudatalattinkon kell átszűrni. Ez a helyes út. Efféle témáról már [[B/Bal és jobb\|bal és jobb]] címnél is volt szó.  
 
 ## Kettős mérce, kettős játszma
 
@@ -246,8 +246,9 @@ Marácz László [ezen](http://www.magtudin.org/Maracz%20L.%20Untenability%20of%
 > —  
 > A finnugor nyelvészek számára a kettős mérce megengedett.  
 
-#### Götz László Keleten kél a Nap című könyvében írja:
+#### Götz László Keleten kél a Nap...  
 
+...című könyvében írja:  
 > Milyen joggal beszélt Hunfalvy éppen e kérdésben módszertani hibáról – másokkal kapcsolatban? Tehát megint jelentkezik az a jellegzetes finnugor logikátlanság, ami józanul gondolkozó felnőtt emberek számára érthetetlen: természetesnek veszik, hogy nekik minden megengedett, de ha más valaki akarja, alkalmazni az ő módszereiket, akkor egyszerre tudománytalanságot emlegetnek. **Óvodában, rakoncátlan gyerekek között még csak megjárja az ilyesmi, de a tudományos kutatásban aligha**.
 >
 > Thúry József egyenesen azt állította – jegyzi meg Pusztay -",... hogy Budenz József finnugor rokonsági teóriája a priori született, s a Magyar-Ugor Összehasonlító Szótárban ehhez az elmélethez próbálta összeszedni a bizonyítékokat. Hogy mennyire eredménytelenül, annak bizonyítására – sok tévedése mellett – néhány valóban nem helytálló etimológiát is kipécézett: bízni...; beteg...; idő." (id. m. 106. old.)  
