@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hsiung-nu/","title":"Hsiung-nu","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T04:30","updated":"2023-10-27T02:42"}
+{"dg-publish":true,"permalink":"/H/Hsiung-nu/","title":"Hsiung-nu","tags":["Englishtexttranslated"],"created":"2023-10-14T04:30","updated":"2023-11-08T03:44"}
 ---
 
 
@@ -7,8 +7,9 @@
 
 Előfordul Hiung-nu és más formákban is.  
 
-#### Götz László Keleten kél a Nap című könyvében írja:
+#### Götz László Keleten kél a Nap...  
 
+...című könyvében írja:  
 > [[N/Németh Gyula\|Németh Gyula]] "Attila és hunjai" c. könyvének \[adata\] szerint a kínai forrásokban a Kr. e. 11-9. században szereplő "kui", "kun", "hun", ill. "hun-jü", "hien-jü", "hien-jün" népnevek egyeztetése a későbbi (Han kori) "hun" ill. "hiung-nu" nevekkel – amint írja – "nyelvészetileg elfogadhatatlan", mi mégis úgy vélekedünk, hogy az ilyesféle hangfejlődési hipotéziseknek a történelmi források tanúságával szemben csak igen-igen alárendelt szerepet szabad tulajdonítanunk.  
 
 #### Péterfai János írja:
@@ -26,7 +27,7 @@ Ezen adatokat felhasználva írom [ezen](https://qr.ae/py1lXv) Quora posztban:
 >
 > A hsziungnuk a nyugatról érkezett ázsiai hunokhoz tarthatók. Ők egy következmény.  
 >
-> - A Hsi-Ung-Nu nagyjából "Nyugat-Ung Urak"-nak fordítható. A [[U/Ung\|Ung]], [[U/Unka\|unka]] stb. jelentése: Un/An házból való származás; ezért utalnak a mai magyar `unka`, `unoka` szavak ősiségre (előbbi egyfajta béka).  
+> - A Hsi-Ung-Nu nagyjából "Nyugati Ung Urak"-nak fordítható. A [[U/Ung\|Ung]], [[U/Unka\|unka]] stb. jelentése: Un/An házból való származás; ezért utalnak a mai magyar `unka`, `unoka` szavak ősiségre (előbbi egyfajta béka).  
 >
 > Az európai/szteppei hunok már régen civilizálták a később Kínának nevezett területet ("önmagukat", mert Kína = \*Huna, a hun kultúra folytatása). [[H/Huang-ti\|Huang-ti]] ideje nem olyan régi. 2-3000 év az semmi. A hunokat nem lehet pár száz éves tól-ig határok közé tenni, de a nyugati "tudomány" azt csinál, amit akar. Ha azt akarják, hogy a kínaiak, az ajnuk vagy a hottentották indoeurópaiak vagy szemiták legyenek, vagy azt akarják, hogy [[B/Barbár\|barbár]]nak tekintsék őket (amiről még azt sem tudják, hogy mit jelent, csak ismételgetnek, mint a papagájok), amilyennek a hunokat szokás beállítani, akkor megteszik. Ez az ő szintjük. Mi az ő szintjük fölé akarunk emelkedni, mert túl akarjuk élni az idiotizmusukat és ezt a csillagászati kort.  
 - A [[Y/Young\|young]] címnél taglalt skandináv `ung` = fiatal szót is említhettem volna.
@@ -44,8 +45,9 @@ Ami érdekes:
 > Mint láttuk, a Hsziung-nu (és más altaji népek) ősi legendájában, amelyet a Wei shu (A Wei-dinasztia története) őrzött meg, egy farkas az, aki egy torony ajtaja alatti barlangban elhelyezve őrzi az ott élő két hercegnőt, és végül egyesül az egyikükkel, hogy egy egész fajt nemzzen.  
 - Lásd még erről (asztrális) [[K/Kutyanemzés\|kutyanemzés]].
 
-#### Kállay Ferenc A pogány magyarok vallása című könyvében írja:
+#### Kállay Ferenc A pogány magyarok vallása...  
 
+...című könyvében írja:  
 > A Zyongnunk (= hunnusok) chinai neve Tata ami idegent, barbarust, nemchinait jelent. ([Lásd 59. old.](zotero://open-pdf/library/items/DFI47XPY?page=59&annotation=2E5TPY4J))  
 
 ## Hsziungnu mint szőke faj
@@ -59,8 +61,9 @@ Ami érdekes:
 
 ## Hsziungnuk nyelvének iranizálása
 
-#### Götz László Keleten kél a Nap című könyvének 985. és 1006. oldalán írja:
+#### Götz László Keleten kél a Nap...
 
+...című könyvének 985. és 1006. oldalán írja:
 > Ennek a leginkább talán "pániránizmus"-nak nevezhető, felettébb szubjektív őstörténeti és nyelvtörténeti szemléletmódnak legelképesztőbb vadhajtásaként tekinthetjük [[H/Harmatta János\|Harmatta]] ("A magyarság őstörténete") azon véleményét, hogy hsiung-nu nép – vagyis az ázsiai hunok – nyelve szaka típusú kelet-iráni nyelv lett volna.  
 > ...  
 > Ezután arról számol be Harmatta, hogy az utóbbi időben kiderült, hogy a Hsiung-nu Birodalom létrejöttét közel három évszázaddal megelőzte egy hasonló nagyságú és hatalmú [[J/Jüecsi\|Yüeh-chih birodalom]], amely messze nyugatra, az Irtis vidékére is kiterjedt. Az is kiderült – írja –, hogy a yüeh-chih-k nyelve a szakához hasonló kelet-iráni nyelv volt. Sőt, a hsiung-nu-k nyelve is szaka típusú keletiráni nyelvnek bizonyult. Majd ezen újabb felfedezésekből következően Harmatta a török (és az ugor) lovas terminológia eredetét a yüch-chih-k nyelvében vagy egy más szaka típusú kelet-iráni nyelvben keresi. E feltevése alátámasztására hét török-iráni-ugor-magyar szópárhuzamot sorol fel. Nagyon jellemző azonban, hogy e hét szó közül, amelyek Harmatta elgondolása szerint a török (és ugor-magyar) lovas terminológia kelet-iráni nyelvi eredetét lennének hivatva bizonyítani, egyetlen egynél sem tud valóban létező, nyelvemlékekben adatolható régi kelet-iráni szómegfelelést bemutatni, hanem minden esetben csupán "csillagos" – azaz nyelvészetileg rekonstruált, a mai iráni nyelvekből "hangtörvényes" alapon visszakövetkeztetett szóalakokat sorol fel az iráni eredet "bizonyításá"-ra. Ez a tény viszont igen nagy valószínűséggel arra vall, hogy valami nincs rendben a yüeh-chich-k – még sokkal inkább azonban a hsiung-nu-k nyelvének szaka típusú kelet-iráni nyelvekként való értelmezése körül.  
