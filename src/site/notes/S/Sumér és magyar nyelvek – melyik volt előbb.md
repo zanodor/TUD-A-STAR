@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet","dg_uploaded"],"created":"2023-10-14T06:47","updated":"2023-10-25T02:11"}
+{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2023-11-08T04:16"}
 ---
 
 
@@ -87,7 +87,7 @@ A másik érdekes példa a sumér [[N/NUN\|NUN]] = ősvíz; kezdet, melynek más
 
 A harmadik bizonyíték a [[M/Madár\|madár]] szavunk Dr. Gyárfás Ágnes által megtalált vagy érintett sumér olvasata lehetne:  
 Gyárfás Ágnes az Ősi Gyökér 2010/1-2. sz. közölt Magyar őskutatás a szimbolikák jegyében című cikkében tetszik amit, a lélek mélyén lappangó homályos képekről ír és azokról a jelképekről ([[S/Szarvas\|szarvas]], madár \[[[Turul\|[Turul]]\] és [[T/Tulipán\|tulipán]]), melyek a mélytudat képeit előcsalogató ún. közképek. Meg is említi a **magyar és madár szavak analógiájá**t. A madár nemzeti voltunkat meghatározó jelkép. Ami az etimológiai adatait illeti, lásd alant csatolva.  
-![assets/Sumeresmagyarnyelvekmelyikvoltelobb_image1.png|undefined](/img/user/S/assets/Sumeresmagyarnyelvekmelyikvoltelobb_image1.png)  
+![assets/Sumeresmagyarnyelvekmelyikvoltelobb_image1.png](/img/user/S/assets/Sumeresmagyarnyelvekmelyikvoltelobb_image1.png)  
 Nos, véleményem szerint ezek is csak azt mutatják, hogy a sumér az átvevő nyelv, nem a magyar eredetét képező. A Labat által említett, [[M/MISZ\|MISZ]] és más címnél hozott, azóta külön taglalt sumér [[M/Musen\|musen]] = madár, szárnyas; szárnyas rovar szót nem is veszi elő itt persze.  
 [[M/Magyar\|Magyar]] címnél pedig egyiptomi hieroglifák vizsgálata kapcsán is kimondtuk, hogy az egyiptomi és sumér utódnyelvek már önkényesen bántak a szótagokkal és önálló jelentéseket adtak nekik. (A kérdés persze az, hogy a GYÁ és Borbola János által bemutatott olvasatok eredetiek vagy saját kezűek.)  
 
@@ -168,7 +168,7 @@ Azaz a természetes írásos formájú gondolatközlésben nem szab gátat a tec
 Götz László Keleten kél a Nap című könyvének 965-967. oldalán taglalja a [[V/Verse\|vers]]elés sumér eredetét. Magyar párhuzamokat is bemutat és még van győződve a sumér eredetről. Viszont a költészet és [[Z/Zene\|zene]] az emberiség ősállapotába és nem 6000 évre tekint vissza. A magyar mesék ősisége minimum a legkésőbbi korok csillagmitológiai közegében keresendő. Továbbá a magyar nyelv ragozó volta és [[F/Flexió#Magyar hajlítás mint nyelvünk szavainak alapképessége\|hajlítás]]okkali szó- és rímalkotó képessége is legalább annyira alkalmassá tette verselésre, mint az európai eredetű sumér.  
 [[L/Ludas Matyi\|Ludas Matyi]] címnél is szóba került sumér-magyar párhuzam.  
 
-- - -
+---
 
 A [[T/Tatárlakai napvárta-korong\|tatárlakai korongon]] talált írás régisége (a sumér ékírásos táblák idejével szemben sok kutató elsőként hozza fel a magyarság "ősibbsége" bizonyítékául) kapcsán itt most nem szólanék (lehet ugyanis, hogy nem is írás van rajtuk, továbbá KT és GL friss adatai szerint nem régebbi az).  
 
@@ -177,8 +177,9 @@ Az [alábbi](http://www.hebraisztika.hu/attachments/00000353.pdf) oldalon még a
 > A sumer nyelv a ma ismert nyelvek közül egyetlennel sem áll rokonságban, egy ún. szigetnyelv. Az ismert rokon nyelvek hiánya is magyarázza, hogy számtalan más nyelvvel próbálták rokonítani, köztük a magyarral is. Ezek a próbálkozások azonban kivétel nélkül nyelvészetileg megalapozatlanok; a sumer-magyar állítólagos rokonságához lásd [[K/Komoróczy Géza\|Komoróczy Géza]] igen szórakoztató munkáját (1976), és legutóbb \[a főleg [[T/Turanizmus\|turanizmus]] címnél ömlengést bemutató Hegedűs József mellett itt-ott idézett finnugrász\] Rédei Károly könyvének vonatkozó fejezetét (1998, 85-105).  
 - Lásd még Halevy fentebbi, Bakostól származó véleményét is. Vérlázító.  
 
-#### Bakos Attila A Duna Evangéliuma című könyvében írja:  
+#### Bakos Attila A Duna Evangéliuma...  
 
+...című könyvében írja:  
 > A sikeres ásatások kezdetén lelkendezve csak az írásfeltalálók nyelve címmel illették a sumér írást. Mindaddig, míg ki nem derült, hogy agglutináló, ragozó szerkezetű ősturáni nyelv. Lenormant szerint ez a nyelv a magyarhoz áll legközelebb, sőt, így nyilatkozott:  
 > "Ez az ősnyelv lesz a turáni nyelvek közös magyarázója; ugyanaz, ami a szanszkrit az indoeurópai nyelvcsaládban!"  
 > Az elfogulatlan tudósok, mint Oppert, Rawlinson, Sayce, Lenormant (és ezen a helyen még nem említjük a zseniális magyar tudósokat) tehát elfogulatlanul megállapították, hogy az írást a turáni fajú sumér nép találta fel ([[T/Torma Zsófia\|Torma Zsófia]] munkássága és [[T/Tatárlakai napvárta-korong\|Tatárlakai leletei]] kapcsán erre még visszatérünk).  
