@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nysa/","title":"Nysa","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-10-04T04:05","updated":"2023-11-10T03:09"}
+{"dg-publish":true,"permalink":"/N/Nysa/","title":"Nysa","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-04T04:05","updated":"2023-11-10T03:09"}
 ---
 
 
@@ -7,8 +7,9 @@
 
 Görög mitológiai Paradicsom az északi-sarkon (legalábbis az egyik, hiszen a Föld Köldökét Delphoiba tradicionálisan helyezték de Olympus, [[I/Ida\|Ida]], Parnassos, Delos szintén is kapott efféle utalásokat).  
 
-#### William F. Warren Paradise Found című könyvében írja:
+#### William F. Warren Paradise Found...  
 
+...című könyvében írja:  
 > According to the Kamite legend related by Diodorus, Osiris and Isis lived together in Nysa, or Paradise.  
 > —  
 > A Diodórosz által elbeszélt kámita legenda szerint Ozirisz és Ízisz együtt éltek Nysában, vagyis a Paradicsomban.  
@@ -36,7 +37,7 @@ Görög mitológiai Paradicsom az északi-sarkon (legalábbis az egyik, hiszen a
 </div></div>
 
 
-#### Magyar Adorján Csodaszarvasának adata...
+#### Magyar Adorján Csodaszarvas...  
 
-...[[S/Sziget\|sziget]] címnél is szerepelt (ott több is, rajzzal is):
+...című könyvének adata [[S/Sziget\|sziget]] címnél is szerepelt (ott több is, rajzzal is):
 > Viszont a clitoris és vaginanyílás közötti sík rész a Selyemrét jelképe volt. Meglepő tehát hogy némely régibb orvosi könyvben is e rész Nisai mezőnek neveztetik.  
