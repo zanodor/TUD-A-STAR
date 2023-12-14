@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Dialektikus ellentét/","title":"Dialektikus ellentét","tags":["dg_uploaded"],"created":"2023-10-06T12:03","updated":"2023-11-25T10:45"}
+{"dg-publish":true,"permalink":"/D/Dialektikus ellentét/","title":"Dialektikus ellentét","created":"2023-10-06T12:03","updated":"2023-11-25T10:45"}
 ---
 
 
@@ -62,7 +62,7 @@ Minden visszavezethető ellentétpárokra, ahol a nő elv ellentéte a hím elv.
 
 Dialektikus ellentétet képez az [[O/Ószövetség\|Ószövetség]] és az Újszövetség eszmerendszere. Mégis sikerült összemosni.  
 Miklósvölgyi János festőművész [ezen](https://youtu.be/Hf0HIuMetKM) előadásában 1:18:09-nél beszél arról, hogy az Ószövetség rátelepedett az Újszövetségre. Előzmény: [[B/Bibliai teremtéstörténet\|bibliai teremtéstörténet]].  
-A Pap Gábor nyomdokaiban haladó Miklósvölgyi minden asztrálmítoszi analógiás példájával ugyan nem tudok azonosulni, de az [alábbi](https://youtu.be/cKSfWvb2Gjg) előadásában 1:28:00-nál elhangzó szavai találóak: "a sötétség a fény nyelvén kezd el kommunikálni, vagyis megtéveszt, azaz hazudik[^2]." [[F/Fascism\|fascism]] címnél szerepelt egy YouTube kommentfelüleltről oda másolt gondolatom, miszerint a fasiszta azt képzeli magáról, hogy ő képviseli a fényt (haladást, igazságot, stb.).  
+A Pap Gábor nyomdokaiban haladó Miklósvölgyi minden asztrálmítoszi analógiás példájával ugyan nem tudok azonosulni, de az [alábbi](https://youtu.be/cKSfWvb2Gjg) előadásában 1:28:00-nál elhangzó szavai találóak: "a sötétség a fény nyelvén kezd el kommunikálni, vagyis megtéveszt, azaz hazudik[^2]." [[F/Fascism\|Fascism]] címnél szerepelt egy YouTube kommentfelületről oda másolt gondolatom, miszerint a fasiszta azt képzeli magáról, hogy ő képviseli a fényt (haladást, igazságot, stb.).  
 
 [Ezen](https://www.youtube.com/watch?v=EQjoBd2ZXNM) Ne Legyen Áldozatos videóban PG 4:11-től sorol ellentétpárokat (a bal oldalra mindig ugyanazt a típust képviselő kerül, a jobb oldalon szintén): hírek – tények, bizonyíthatóság – igazság, mennyiség – minőség, tünetmentesség – egészség, szerkezet – szervezet.  
 
@@ -92,7 +92,7 @@ PJI folytatja:
 > Ezt valószínűsíti a Kor-Hány név is, ami Kor-Han volt a lágyulás előtt. A Kor Hegy, de Idő is, a Hány ige utal az építésre. Ma a Hány az ördög neve is, amit a vallásváltás hozott létre \[inkább a dialektus ellentét esete forog fenn\]. Han Istók például Ördög Istók, és a Hányás során az ördög távozik a testből.  
 
 Az ellentétes értelmek kialakulásának eredete ugyanoda vihető vissza, mint amiről [[H/Hunor és Magor#Hunor és Magor azaz inkább hunok és magyarok életköri szerepeinek ellentmondásai\|Hunor és Magor azaz inkább hunok és magyarok életköri szerepeinek ellentmondásai]] cím/alcímnél már szóltunk. A nyári napfordulós pont az, ami a [[S/Süt\|süt]] és [[S/Sötét\|sötét]] fogalmai azonosságát adja: ott süt a legmagasabban a Nap, de onnantól kezdve kezd sötétülni, [[H/Huny\|huny]]ni/kumni/sunyni is.  
-Azóta [[M/Más\|más]] szavunk kapcsán is kiderült, hogy szintén kettős ("iker") értelmű, és itt is a világos és [[S/Sötét félév\|sötét félév]]et elválasztó téridőbeli pontról van szó.  
+Azóta [[M/Más\|más]] szavunk kapcsán is kiderült, hogy szintén kettős ("iker") értelmű, és itt is a világos és [[S/Sötét oldal\|sötét félév]]et elválasztó téridőbeli pontról van szó.  
 
 Legutóbb a [[H/Hódol\|hódol]] és [[H/Hódít\|hódít]] szavak passzív és aktív értelmeinek vizsgálata kapcsán szóba hoztuk az [[I/Íj és a nyíl\|íj és a nyíl]] cím bevezető részében említett témát: miszerint egyaránt megtaláljuk a nőiségi és hímségi ideákat ott, egy helyen, a nyári napfordulós téridőbeli helyen. Ez az oka az ellentétes értelmeket adó azonos alakú vagy gyökű szavaknak. A sötét félév váltása a fényesről ott történik (de a nemzés is ott történik, ellenben a téli napfordulón már nincs hím, csak a napgyermek, aki megszületik).  
 ([[S/Szutek\|Szutek]] címnél, külön alcímnél pedig hasonló témában volt szó arról, hogy a Jupiter és Szaturnusz nevek illetve mögöttes fogalmai szintén hasonló elven alakulnak ki.)  

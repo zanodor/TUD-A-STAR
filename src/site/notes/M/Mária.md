@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2023-12-04T06:55"}
+{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2023-12-04T06:55"}
 ---
 
 
@@ -101,7 +101,7 @@ A [[M/Mare\|mare]] = tenger jelentése kapcsán felvetődött, hogy mi van, ha i
 
 #### Nagyné dr. Fülöp Krisztina...
 
-...cikkében ugyanez ([[A/Ave\|ave]] címnél is szerepelt):  
+...cikkében ugyanez:  
 > Az Egyház is hódol előtte az "Ave Maria stella" című énekkel, melyet Babits fordított, s mely így hangzik:  
 > Tengernek csillaga, Isten édesanyja, Üdvözlégy mindég szűz. Menny boldog kapuja. Te, kinek Gábriel Ajka mondott Ávét, Tégy közöttünk békét, Fordítsd Éva nevét.  
 
@@ -344,8 +344,10 @@ Valahol már szerepelt arról adat, hogy Mária az Ős-Éva vagy efféle hasonl�
 
 ...című Ősi Gyökér 2005/2. sz. megjelent cikkében szembeállításukról is esik szó:  
 > A második Évát, a Megváltó anyját az angyal így köszönti: Áve Mária!  
-- Folyt. lásd [[A/Ave\|ave]].  
-
+> Az Egyház is hódol előtte az "Ave Maria stella" című énekkel, melyet Babits fordított, s mely így hangzik:  
+> Tengernek csillaga, Isten édesanyja, Üdvözlégy mindég szűz. Menny boldog kapuja. Te, kinek Gábriel Ajka mondott Ávét, Tégy közöttünk békét, Fordítsd Éva nevét.  
+> Éva nevével szállt a földre a büntetés átka, Mária nevével a megváltás áldása. Az Isten angyala köszöntésével ÉVA nevét ÁVE-ra fordította.  
+>
 > Az anyaszentegyház nagyszombat hajnalán ünnepli liturgiájában az ősevangélium beteljesedését. A bűn, a romlás az asszonytól vette kezdetét, a megváltás is az asszonytól veszi kezdetét. Évának számkivetett fiait Szűz Mária fia mentette ki a számkivetésből. Szent Bernát írja, hogy "Az Isten asszonytól, de szűztől kívánt megtestesülni, hogy hasonló hasonlóval fizessen, a rosszat jóval gyógyítsa, a bajt okozó tövist kitépje, a bűn adóslevelét eltörölje. Éva volt a tövis, Mária lett a rózsa. Éva tövise sebzett, Mária rózsája szíveket élesztett. Éva tövise halált okozott, Mária rózsája üdvös sorsot hozott. Mária szüzessége által volt fehér rózsa, szeretete által piros rózsa; szűzi fehér volt testében, pirosszínű lelkében. Fehér volt erényeiben, piros a bűn legyőzésében, fehér, mert szerette Istent, piros, mert szeretetből megsajnálta az embert."  
 - Ehhez annyi megjegyzést hadd tegyek, hogy maga a [[S/Sátán\|Sátán]] is egyrészről nőiségi fogalom. Ő, a nő a kezdet, de ő az is, aki a földre lehúz. A nők megítélése és háttérbe szorulása [[A/Anyakultusz – apakultusz\|anyakultusz – apakultusz]] és más címnél taglalásra került.  
 
