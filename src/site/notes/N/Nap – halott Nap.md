@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["Englishtexttranslated"],"created":"2023-10-03T11:13","updated":"2023-11-25T11:19"}
+{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["Englishtexttranslated"],"created":"2023-10-03T11:13","updated":"2023-12-15T01:40"}
 ---
 
 
@@ -134,7 +134,7 @@ Másutt is:
 
 [[A/Akhilleusz\|Akhilleusz]] címnél RG és JM adatai sorakoznak a Nap halálával kapcsolatosan (kígyó, skorpió mérge és mérges nyíl a halált okozó ágens).  
 [[V/Vadkan\|Vadkan]] és [[V/Vaddisznók áldozatai\|vaddisznók áldozatai]] címnél szintén szó volt naphéroszok haláláról.  
-Ugyanakkor a Nap halálát a nyári napfordulós ünnepen szokták tartani, hiszen onnantól "kezd meghalni." [[P/Pünkösd\|pünkösd]] és [[P/Pünkösdi királyság\|pünkösdi királyság]] címnél is írtuk, hogy ezek eredetileg napfordulós ünnepségek örökségei lehettek (a Tejút-kapuk Ikrekben és Nyilasban lévő nyitottsága arra a korra utalnak, amikor a nyári és téli napforduló ezen időpontokkal is estek egybe: a kelta és görög tradíció JM adatai szerint is ezt bizonyítja).  
+Ugyanakkor a Nap halálát a nyári napfordulós ünnepen szokták tartani, hiszen onnantól "kezd meghalni." [[P/Pünkösd\|Pünkösd]] és [[P/Pünkösdi királyság\|pünkösdi királyság]] címnél is írtuk, hogy ezek eredetileg napfordulós ünnepségek örökségei lehettek (a Tejút-kapuk Ikrekben és Nyilasban lévő nyitottsága arra a korra utalnak, amikor a nyári és téli napforduló ezen időpontokkal is estek egybe: a kelta és görög tradíció JM adatai szerint is ezt bizonyítja).  
 Ilyenkor a nyári napfordulón ahogy Sír James Frazer, Robert Graves és JM könyveiből is tudjuk, eljátszották a Nap halálát, de egyes kulturákban meg is ölték a tisztségéről leköszönő Napkirályt (vagy annak egy napra kinevezett helyettesét).  
 Mindez pedig a szent ligetben a tölgyfánál történt (a tölgy a nyári napforduló fája; lásd még [[A/Aranyág\|aranyág]], [[D/Darag\|darag]] és [[M/Missel\|missel]]). Lásd még ide kapcsolódóan az alant írottakat is.  
 

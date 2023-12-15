@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Afanasjevói műveltség/","title":"Afanasjevói műveltség","created":"2023-11-06T01:55","updated":"2023-11-08T03:27"}
+{"dg-publish":true,"permalink":"/A/Afanasjevói műveltség/","title":"Afanasjevói műveltség","created":"2023-11-06T01:55","updated":"2023-12-15T01:30"}
 ---
 
 
