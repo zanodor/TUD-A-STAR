@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar szavak, szórészek alakváltozatai/","title":"Magyar szavak, szórészek alakváltozatai","tags":["dg_uploaded"],"created":"2023-11-04T11:49","updated":"2023-11-04T11:49"}
+{"dg-publish":true,"permalink":"/M/Magyar szavak, szórészek alakváltozatai/","title":"Magyar szavak, szórészek alakváltozatai","created":"2023-11-04T11:49","updated":"2023-12-16T07:44"}
 ---
 
 
@@ -29,9 +29,9 @@ Ha már hasonló szavakat keresünk, az egyik legszemléletesebb példa magyar b
 Innentől már rátérhetünk a korábban itt álló adatokra, ami a rokon alakú, de eltérő jelentésű szavakat illetve fogalmakat illeti.  
 [[V/Végvári József\|Végvári József]] szócsalád-rendszeréről szó volt. Hervay Tamás Szép vagyok, ne ölj meg! című, Ősi Gyökér 2006/1. sz. megjelent cikkében is értesít róla, hogy alakilag rokon szavaink között van fogalmi kapcsolat. Persze ő leginkább Pap Gábor adatait követve nyilatkozik (mint sokan mások).  
 
-#### Pap Gábor Ki volt Magyar Ilona? című...
+#### Pap Gábor Ki volt Magyar Ilona?...
 
-...a Dobogó újság 2011. 3-4. számában megjelent cikkében (melyben minden gondolatával nem kell egyetérteni de fontos dolgokat fogalmaz meg) a Jó pásztorok hagyatéka című könyvének függelékében írottakat másolva az alábbiakat írja:  
+...című, a Dobogó újság 2011. 3-4. számában megjelent cikkében (melyben minden gondolatával nem kell egyetérteni de fontos dolgokat fogalmaz meg) a Jó pásztorok hagyatéka című könyvének függelékében írottakat másolva az alábbiakat írja:  
 > "Nyelvünk ősi jelölési rendszerében nem kapott minden kiejtett emberi hang külön jelet. Nem is a mássalhangzók jelölődtek, mint a szemita nyelvekben napjainkig, hanem csakis a mássalhangzó-bokrok. (...) Ezekből hatot tartunk számon, népszerű nevükön a "jeles" (L, R, J, Ly), a "tudós" (T, D, Ty), a "köhögős" (K, H, G, Gy), a "pöfögős" (P, B, V, F), a "nyámmogós" (M, N, Ny) és a "sziszegős" (S, Sz, Z, Zs) hangzóbokrokat. Ha magyar szavak tágabb jelentéstartományát akarjuk megismerni, célszerű végigpróbálgatnunk, milyen újabb és újabb szavak bújnak elő mögülük, amikor a bennük lévő mássalhangzókat a saját kategóriájuk kínálata szerint váltakoztatjuk, miközben a magánhangzók szabadon csereberélhetők."  
 
 Ami fontos közlésében, hogy a [[V/Végvári József\|Végvári József]] féle szócsalád-rendszer általam is követendő módszerére (arról [[M/Magyar képrejtvények\|magyar képrejtvények]] és [[N/Négy\|négy]] címnél is volt szó, hogy a magyar szavak "kódolt" mellékjelentéseinek megtalálásához éppen Végvári szócsalád-rendszere ad segítséget) mutat rá:  
@@ -49,10 +49,10 @@ A magyar nyelv működése például megfigyelhető a [[G/Gyalog\|gyalog]] szavu
 [[H/Hold\|Hold]] és például [[N/Négy\|négy]] címnél láttuk, mennyi és mennyi extra információ lehet "belepakolva" egy szóba.  
 Nemcsak a [[D/Dévaj\|dévaj]] szó az, ami megegyezik a [[D/Devil\|devil]] szóalakkal. A [[D/Dévaj\|dévaj]], [[T/Téboly\|téboly]] és [[T/Tévely\|tévely]] szavak mind egymás alaki változatai. Különösen a [[D/Diabolic\|diabolic]] eredetét megmutató téboly tűnik a [[D/Devil\|devil]] eredetét megmutató `tévely`-ből létrejöttnek.  
 
-[[D/Dajka\|Dajka]] és [[L/Levente\|Levente]] címnél volt arról legutóbb szó, hogy már a magyar nyelvben belső fejlődéssel megtörténik egyes szóelemek szándékos változatása, hogy egy új szó kialkotásra kerüljön. Így dajka előtagja nyilván [[T/Tej\|tej]] és Levente értelme tulajdonképpen Oroszlán-Nap.  
+[[D/Dajka\|Dajka]] és [[L/Levente\|Levente]] címnél volt arról legutóbb szó, hogy már a magyar nyelvben belső fejlődéssel megtörténik egyes szóelemek szándékos változtatása, hogy egy új szó kialkotásra kerüljön. Így dajka előtagja nyilván [[T/Tej\|tej]] és Levente értelme tulajdonképpen Oroszlán-Nap.  
 Molnár V. József az [alábbi](https://youtu.be/7gMQuvM4Dm0) videóban 19:00-nál azt mondja, hogy **a magyar rokonító nyelv, mellyel egyedüli Európában**. Tulajdonképpen ő ezzel szintén a magyar szavak alaki változatáról beszél. (Itt egyébként a [[S/Siker\|siker]]t a [[S/Sugár\|sugár]] szóval rokonítja (ahogy mondja, a búzában benne aluszik a Nap).)  
 
-Azért nem egyedüli, mert nemcsak az orosz `свет` (szvet) \[egyaránt jelent világot, világosságot\] és `цветок` (cvetok) \[virág\] szópárra korlátozódnak az összefüggő jelentésű szavak. Lásd még [[A/Aszklépiosz\|Aszklépiosz]] témát [[S/Szláv nyelvek\|szláv nyelvek]].  
+Azért nem egyedüli, mert nemcsak az orosz `свет` (szvet) \[egyaránt jelent világot, világosságot\] és `цветок` (cvetok) \[virág\] szópárra korlátozódnak az összefüggő jelentésű szavak. Lásd még [[A/Aszklépiosz\|Aszklépiosz]] témát [[S/Szláv#Szláv nyelvek\|szláv nyelvek]].  
 
 #### Götz László Keleten kél a Nap...
 
