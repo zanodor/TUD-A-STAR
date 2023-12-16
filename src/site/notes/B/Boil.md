@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/B/Boil/","title":"Boil","tags":["containstransclusions"],"created":"2023-11-21T01:58","updated":"2023-12-16T07:41"}
+{"dg-publish":true,"permalink":"/B/Boil/","title":"Boil","tags":["containstransclusions"],"created":"2023-11-21T01:58","updated":"2023-12-16T07:48"}
 ---
 
 
 # Boil
 
-Forr, forral. Kelést, furunkulust is jelent, amely egy kellemetlen, égő érzéssel járó gyulladás, olyan dudorral jár, amit a `bulge` angol szó is kifejez. Mind palóc szócsoportbeli szó, ahogy a [[B/Ball\|ball]], [[B/Bulb\|bulb]], [[F/Full\|full]], stb.  
+Forr, forral. Kelést, furunkulust is jelent, amely egy kellemetlen, égő érzéssel járó gyulladás, olyan dudorral jár, amit a [[B/Bulge\|bulge]] angol szó is kifejez. Mind palóc szócsoportbeli szó, ahogy a [[B/Ball\|ball]], [[B/Bulb\|bulb]], [[F/Full\|full]], stb.  
 
 #### Magyar Adorján...  
 
