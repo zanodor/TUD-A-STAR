@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-12-15T01:36"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-12-16T07:45"}
 ---
 
 
@@ -176,8 +176,8 @@ Az is nyilvánvaló, hogy minden szavunkban nem szerepelhet [[N/Nap\|Nap]] vagy 
 A Nap jelentésű szóelemek ilyen változtatási módok által több mint százra rúgnak (magában a [[R/Rúg\|rúg]] szavunkban is a Nap [[R/RU\|RU]] neve van meg).  
 
 A magyar nyelv képekben gondolkozik. A legfontosabb alapot a kozmikus tudásra épített fénykereszténység és a hozzá kötött – mintegy Istentől készen kapott és a magyar "Homo Magus[^5]" őstudatalattijában vele született – alapszavak alkotják, melyek elsődlegesen tehát vallási, kozmikus – nem szeretem ezt a kifejezést – "kódokat" tartalmaznak, majd mára már hétköznapi jelentésekkel állókként mutatkoznak. Az [[A/Alma\|alma]] az a nem-körte, igaz? Vagy valami más?  
-A másik fontos jelkép a hunok jelképe, az ék-alak, mely utalhat a fény terjedésére: elég csak az obeliszkok, piramisok alakjára gondolni, vagy a csakrákéra/csokrokéra. Olyan matematikai ill. asztrofizikailag értékelhető elemek keverednek az ősnyelv alapszavaiban, hogy tényleg azt kell gondolni, ez Isten Nyelve.  
-Példálózhatunk is: [[E/Ég\|Ég]] > [[I/Ige\|Ige]]: keresztény dogmatikában az Isteni kinyilatkoztatás), [[S/Szár\|Szár]] > [[S/Sár\|Sár]]: anyagbahullás, stb.  
+A másik fontos jelkép a hunok jelképe, az ék-alak, mely utalhat a fény terjedésére: elég csak az obeliszkek, piramisok alakjára gondolni, vagy a csakrákéra/csokrokéra. Olyan matematikai ill. asztrofizikailag értékelhető elemek keverednek az ősnyelv alapszavaiban, hogy tényleg azt kell gondolni, ez Isten Nyelve.  
+Példálózhatunk is: [[E/Ég\|Ég]] > [[I/Ige\|Ige]]: keresztény dogmatikában az Isteni kinyilatkoztatás), [[S/Szár\|Szár]] > [[S/Sár\|Sár]]: anyagba hullás, stb.  
 
 [[M/Magyar képrejtvények\|Magyar képrejtvények]] cikknél szóltunk arról, mennyire szeret a magyar a szavakkal képekben játszani. Minden egyes fogalom mellé egy másik csapható (Bölcs - Bölcső, Iker - Egér stb.) Az állatok a leggyakrabban használtak az embert ilyen-olyan tulajdonságokkal felruházandó ma is. Bika, kos, nyúl, stb. állatneveket ma is használjuk egyes viselkedési formák körülírására. Régebben ennél még sokkal frappánsabban jelentkeztek, mélyebb jelentésekkel rendelkeztek az állatok és jellemzői, hiszen őseink a természettel eggyé válva éltek. Az állatövi jegyek mind háttérinformációkat rejtenek az egyes korokról, világciklusokról. A legszemléletesebb talán a Hal(ak Csillagkép) – Halál kapcsolata. A Skorpióról biztosan megállapítható, hogy nem magyar név, hisz két mássalhangzóval nem kezdődhet magyar szó (de a [[S/Szkíta\|szkítá]]k sem hívták magukat "szkítáknak").  
 
