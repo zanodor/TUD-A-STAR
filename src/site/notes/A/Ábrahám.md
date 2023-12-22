@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ábrahám/","title":"Ábrahám","tags":["dg_uploaded"],"created":"2023-10-21T04:40","updated":"2023-12-04T01:10"}
+{"dg-publish":true,"permalink":"/A/Ábrahám/","title":"Ábrahám","created":"2023-10-21T04:40","updated":"2023-12-22T03:40"}
 ---
 
 
@@ -30,7 +30,7 @@
 Oláh Imre tanulmányában, egy arab hagyomány alapján az is kiderül, hogy Ábrahám [[N/Nimrud\|Nimrud]] leányát, Sarait ([[S/Sára\|Sárá]]t) vette volna feleségül, aki viszont más változat szerint, ahogy [[I/Incest\|incest]] címnél is szerepelt, a saját húga. Már csak ez is mutatja, hogy Ábrahámék nem valós történelmi szereplők. Az, hogy Nimrud is a képbe került, rámutat az égi téridőbeli helyre, Sára esetében is, mely név [[S/Sarama\|Sarama]] névben is megvan.  
 
 [[I/Izmael\|Izmael]] címnél szereplő adat szerint annak anyja a [[H/Hungár\|hungár]] névvel kapcsolatba hozott [[H/Hágár\|Hágár]] és apja Ábrahám. Mivel Izmael Orionnal és szamárral azonosítva nyári napfordulós Nap-Orion karakter (ahogy [[M/Mózes\|Mózes]] is efféle), és Hágár (Hungárral és) [[S/Szíriusz\|Szíriussz]]al feleltethető meg, nyilvánvaló, hogy Ábrahám is Orion atya (vagy az [[I/Íj csillagkép\|Íj csillagkép]]nek megfelelő másik Nyilazó) kell legyen. Izmael tehát lehet Nap és Orion is, ahogy apja.  
-Ábrahám nevében akkor találunk-e Égatyára utaló etimont? Úgy tűnik, igen, hiszen épp fentebb, [[A/Ábra\|ábra]] címnél ilyen ég, felhő jelentésű (ha nem is sémi, de árja – és a [[S/Szemiták és árják\|szemiták és árják]] címnél írottak szerint az avar-hunok a közös kapocs a vallások és nyelvcsaládok között – eredetű) szavak előjöttek. Viszont nem biztos, hogy jó helyen járunk. Mi lenne, ha a [[H/Héber\|héber]] (Eb-Úr) [[H/Habur\|Habur]] változatának rontásával lenne dolgunk? Ábrám-Ábrahám nevében egy ugyanolyan -Ám végződés is van, mint [[A/Ádám\|Ádám]] nevében, amely hasonló lehet, mint az Uram (és [[N/Numi Tórem\|Numi Tórem]]) nevekben. Eképpen Ábrám annyi lehetne, mint Eb-Uram. Ugyanakkor a hun-arab [[A/AB\|AB]] = apa fogalmát is kereshetjük benne. Eképpen Apa-Uram értelmű is lehet.  
+Ábrahám nevében akkor találunk-e Égatyára utaló etimont? Úgy tűnik, igen, hiszen [[A/Ábra\|ábra]] címnél ilyen ég, felhő jelentésű (ha nem is sémi, de árja – és a [[S/Szemiták és árják\|szemiták és árják]] címnél írottak szerint az avar-hunok a közös kapocs a vallások és nyelvcsaládok között – eredetű) szavak előjöttek. Viszont nem biztos, hogy jó helyen járunk. Mi lenne, ha a [[H/Héber\|héber]] (Eb-Úr) [[H/Habur\|Habur]] változatának rontásával lenne dolgunk? Ábrám-Ábrahám nevében egy ugyanolyan -Ám végződés is van, mint [[A/Ádám\|Ádám]] nevében, amely hasonló lehet, mint az Uram (és [[N/Numi Tórem\|Numi Tórem]]) nevekben. Eképpen Ábrám annyi lehetne, mint Eb-Uram. Ugyanakkor a hun-arab [[A/AB\|AB]] = apa fogalmát is kereshetjük benne. Eképpen Apa-Uram értelmű is lehet.  
 Alant még az Apiru/[[H/Habiru\|Habiru]] névvel is rokonság kerestetik.  
 Figyeljük meg, a télen ([[H/Hibernate\|hibernate]] eredete is innen) látható Orion (plusz Szíriusz)ról van itt szó. Mindegyik szó, legyen [[A/Avar\|avar]] (ennek a szláv `obor` = óriás változata ismét egyértelmű utalás Orionra és így [[H/Habur\|Habur]]-on keresztül Abramra), vagy a germán [[O/Over\|over]], mind ugyanarra az égi mozgatóra, az Ég Urára, Orionra utal.  
 Erre legutóbb a [[C/Cŵn Annwn\|Cŵn Annwn]] címnél a walesi `cŵn wybr` (sky hounds) összetételt meglátva is ismételten rá kellett jönnöm: Ábrahám és a szláv `Obor` = Óriás ötlött fel, majd az alábbi szóváltozatok alapján az [[A/Air\|air]] szó eredetére is ráleltem.  
@@ -58,8 +58,9 @@ A Teremtés 17:1-12-ben így áll:
 
 Hogy miért és hogyan rendelkezne [[J/Jahve\|Jahve]] a név csekély módosításáról, ezt nehezen értem (még a Jákob-Izrael cserét értem). Itt egy egyszerű h-betoldásról van szó, mint Júda-jehuda esetében. [[H/H\|H]] címnél is leírtuk, hogy tulajdonképpen a zsidó papok meg akarják magyarázni, hogy a nyelvészeti túlkapásaik vallási eredetűek, pedig nem.  
 
-#### Jankovics Marcell sorai:  
+#### Jankovics Marcell...
 
+...sorai:  
 > Ami Alexandriai Szent Kelemen (meghalt 215 előtt) 5 magánhangzós Istennevét illeti (IAOUE), Graves szerint \[na persze\] ősi és elterjedt mediterrán istennév lehetett. Kapcsolatba hozható azokkal az archaikus írásmódokkal, amelyek a magánhangzókat nem jelölik (nagyrészt ilyen a héber is), és azzal az Ószövetségben is fel-felbukkanó elképzeléssel, hogy az élet (a lélek, a felemelkedés) az isteni lehelet által jut az emberi testbe (I Móz 2,7). Sajátos nyelvi formája ennek a gondolatnak az a mód, ahogyan Isten "megjelöli" a kiválasztott Ábrahámot. Megváltoztatja az ő és az ő felesége nevét, mégpedig úgy, hogy "beléjük fújja" az Ő nevének két Heh hangzóját, így lesz Ábrámból Ábrahám, és Szaraiból Szarah. (I Móz 17,5; 15). A mondottak jelképes értelme elsődlegesen az, hogy a leírt szöveg hangzók nélkül néma, halott, csak olvasni tudó, beavatott személy képes abba életet lehelni (vö. a mi "holt betű", "élő beszéd" kifejezéseinkkel). Vallásos értelemben pedig az, hogy a magánhangzó nélküli írást – mindenekelőtt az "Isten adta" Törvényt – csak a hehezetes magánhangzóknak, az Istennév betűinek beavatott ismerői: Isten szolgái, a papok képesek elolvasni.  
 
 ## Ábrahám kontra Nimród
