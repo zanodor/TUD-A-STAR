@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kutya és macska/","title":"Kutya és macska","tags":["dg_uploaded"],"created":"2023-11-17T09:39","updated":"2023-11-17T09:39"}
+{"dg-publish":true,"permalink":"/K/Kutya és macska/","title":"Kutya és macska","tags":["containstransclusions"],"created":"2023-11-17T09:39","updated":"2023-12-22T03:36"}
 ---
 
 
 # Kutya és macska
 
-Fentebb, [[K/Kutya\|kutya]] címszó alján, [[B/Basztet\|Basztet]] istennőnél, [[F/Fo-kutya\|Fo-kutyá]]nál, [[H/Hunor és Magor\|Hunor és Magor]] címnél és [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]] cím alatt volt szó a kutya és macska párosáról, a két állat egymásba mosódásáról, Nap-szimbólumként értelmezhetőségükről, jellemzőikről ill. arról, hogy a két (asztrális) állat egymást kergeti az égen.  
+Másutt, [[K/Kutya\|kutya]] címszó alján, [[B/Basztet\|Basztet]] istennőnél, [[F/Fo-kutya\|Fo-kutyá]]nál, [[H/Hunor és Magor\|Hunor és Magor]] címnél és [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]] cím alatt volt szó a kutya és macska párosáról, a két állat egymásba mosódásáról, Nap-szimbólumként értelmezhetőségükről, jellemzőikről ill. arról, hogy a két (asztrális) állat egymást kergeti az égen.  
 [[C/Cat\|Cat]] címnél tárgyaljuk a szó angol eredetét. Érdekes megemlíteni, hogy az egyébként germán eredetűnek tartott szó egy kései latinnak tartott `cattus` = macska szóval is egyezik (az eredeti latin szó macskára, ahogy [[F/Feline\|feline]] szónál taglaltuk, `feles`; illetve a `feles` a (nagy)macskák gyűjtőneve és a `cattus` a kismacska neve).  
 
 #### Richard H. Allen Star Names...  
@@ -29,12 +29,12 @@ Azért hasonlítanak a szavak, mert mindkét szó, a kutya és \*kat is kún/hun
 De mindkettő állat régi háziállatunk is, és lám, kutya a [[K/Kútya\|kútyá]]val, [[K/KAT\|KAT]] (kac) a [[H/Ház\|ház]]zal hozható összefüggésbe. Arról is lehetne szólni, hogy régen az u és a hangok gyakran változtak egymással (erre jó bizonyíték az angol u hang, melyet tájjellegűen u-nak, a standard angol szabályoknak megfelelően a és ö hang között ejtenek).  
 Catuli, mint [[O/Öleb\|öleb]], kutyakölyök előjött [[R/Robigalia\|Robigalia]] címnél is.  
 
-Igen érdekes, sőt, megdöbbentő EP adata, miszerint a tupi indiánok jaguára ([[J/Jaguar\|jaguar]]) szava nagymacskát, de gyakran(!) [[K/Kutya\|kutyá]]t is jelöl. [[F/Fo-kutya\|Fo-kutya]] és [[S/Sárkány\|sárkány]], valamint [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]] címnél már láttuk példákat a kutya és macska/oroszlán fogalmak keveredésére.  
+Igen érdekes, sőt, megdöbbentő EP adata, miszerint a tupi indiánok `jaguára` (lásd [[J/Jaguar\|jaguar]]) szava nagymacskát, de gyakran(!) [[K/Kutya\|kutyá]]t is jelöl. [[F/Fo-kutya\|Fo-kutya]] és [[S/Sárkány\|sárkány]], valamint [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]] címnél már láttuk példákat a kutya és macska/oroszlán fogalmak keveredésére.  
 
-Mivel fentebb a Napjelkép (nagy)macskákról volt szó, elhomályosította a lényeget. Valójában a macska kún-hun K-T vázú nevéről van szó (szinte mindenütt azonos alakú – hisz a hunok mindenütt éltek – de még a baszk nyelvben is). Nem annyira Napról (a Napnak K-N vázú nevei vannak), hanem annak a [[G/Göd\|Göd]]del (egy újabb rokon vázú név) azonosítható anyjáról, a [[T/Tejútanya\|Tejútanyá]]ról van szó, melynek Robert Graves The White Goddess című könyvének 221. oldalán szerelő adata szerint is képzeltek el macska-alakot ([[B/Basztet\|Basztet]] = Beast = Tejút). De hogy mennyire így lehet, elárulja (a latin `feles` és cattus szavaktól távoli) katalán macskát jelentő szavak többfélesége: `gat` (masc.), `gata` (fem.); `mix` (masc.), `mixa` (fem.); `moix` (masc.), `moixa` (fem.). Ezek közül is elsődlegesen a MIS/MISZ alakú szavak érdekesek, hiszen [[M/MES\|MES]]/[[M/MISZ\|MISZ]] a Göd magyar párja.  
+Mivel fentebb a Napjelkép (nagy)macskákról volt szó, elhomályosította a lényeget. Valójában a macska kún-hun K-T vázú nevéről van szó (szinte mindenütt azonos alakú – hisz a hunok mindenütt éltek – de még a baszk nyelvben is). Nem annyira Napról (a Napnak K-N vázú nevei vannak), hanem annak a [[G/Göd\|Göd]]del (egy újabb rokon vázú név) azonosítható anyjáról, a [[T/Tejútanya\|Tejútanyá]]ról van szó, melynek Robert Graves The White Goddess című könyvének 221. oldalán szerelő adata szerint is képzeltek el macska-alakot ([[B/Basztet\|Basztet]] = Beast = Tejút). De hogy mennyire így lehet, elárulja (a latin `feles` és `cattus` szavaktól távoli) katalán macskát jelentő szavak többfélesége: `gat` (masc.), `gata` (fem.); `mix` (masc.), `mixa` (fem.); `moix` (masc.), `moixa` (fem.). Ezek közül is elsődlegesen a MIS/MISZ alakú szavak érdekesek, hiszen [[M/MES\|MES]]/[[M/MISZ\|MISZ]] a Göd magyar párja.  
 
 Több helyen is szerepelt közben (és ez a lényeg):  
-A [[M/Macska\|macska]] (ahogy a [[R/Róka\|róka]] is) viszont a női nemi szerv állatjelképe is. Ezen a ponton kimondhatjuk, hogy a [[C/Cat\|cat]] egyező alakú [[C/Coot\|coot]]-tal is. A [[F/Fasz\|fasz]] és [[P/Pina\|pina]], [[K/Kutya\|kutya]] és [[M/Macska\|macska]] tehát egymást kergetve asztro-szexuális jelképiséget mutatnak (lásd erről [[S/Szexualitás égen-földön\|szexualitás égen-földön]]): a kutya fasza akar a mátka/macska pinájába/macskájába jutni, nemzés céljából.  
+A [[M/Macska\|macska]] (ahogy a [[R/Róka\|róka]] is) viszont a női nemi szerv állatjelképe is. Ezen a ponton kimondhatjuk, hogy a [[C/Cat\|cat]] egyező alakú [[C/Coot\|coot]]-tal is. A [[F/Fasz\|fasz]] és [[P/Pina\|pina]], [[K/Kutya\|kutya]] és [[M/Macska\|macska]] tehát egymást kergetve asztro-szexuális jelképiséget mutatnak (lásd erről [[S/Szexualitás égen-földön\|szexualitás égen-földön]]): a kutya hímrésze akar a mátka/macska szeméremrészébe/macskájába jutni, nemzés céljából.  
 Utólag azzal egészíteném ki, hogy évköri elhelyezkedésüket tekintve a Kutya helye északon, a nyári napfordulónál, a Macskáé a téli napfordulónál, a Tejútközpont vulvájával azonosulva található meg. Ezért is lehet, hogy mátka-macska szerű nevei vannak az anyának a szláv nyelvekben.  
 
 #### Gyárfás Ágnes...
@@ -51,7 +51,7 @@ Az óegyházi szláv `котъка` = macska szóalak is mintha a kutya és macs
 A [[M/Macska\|macska]] címnél említett, a mi szavunkkal azonos (nyilván belőle hivatalosan levezett) szerb-horvát `mačka` szón kívül szintén macskát (kandúrt) jelentő `mačor` nyilván Magyar [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]], a névegyezés alapján is. A Tejútanya szüli a napfiút, Magort, a Tejútközpontban, a vulvában, melynek állatalakja a róka és a macska. A macska tehát okkal kapcsolható Magorhoz, ahogy Hunor ([[H/Hound\|hound]] és más összefüggések alapján is) a kutyához.  
 
 De itt nem végeztünk.  
-A kutya neve K-T vázú, ahogy a macska egyes indo-euópai nyelvű szavai is ilyen vázúak. Ha figyelembe vesszük a [[K/Kacor\|Kacor]] név K-C/K-T vázát, és a [[M/Macska\|macska]] név M-Cs/M-S/M-T vázát, azt látjuk, hogy mindkettő az elvágásra, metszésre mutatnak rá; lásd [[K/KAT\|KAT]] és [[M/MES\|MES]]. Tehát a nyári napfordulót jelző Kutya és a télit jelző Macska összekötője választja az éggömböt kétfelé és mindkét jelképállat nevében is megvan az erre vonatkozó információ.  
+A kutya neve K-T vázú, ahogy a macska egyes indo-európai nyelvű szavai is ilyen vázúak. Ha figyelembe vesszük a [[K/Kacor\|Kacor]] név K-C/K-T vázát, és a [[M/Macska\|macska]] név M-Cs/M-S/M-T vázát, azt látjuk, hogy mindkettő az elvágásra, metszésre mutatnak rá; lásd [[K/KAT\|KAT]] és [[M/MES\|MES]]. Tehát a nyári napfordulót jelző Kutya és a télit jelző Macska összekötője választja az éggömböt kétfelé és mindkét jelképállat nevében is megvan az erre vonatkozó információ.  
 
 ### Kutya és macska farka
 
