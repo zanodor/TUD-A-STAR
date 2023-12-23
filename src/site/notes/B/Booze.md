@@ -1,7 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/B/Booze/","title":"Booze","tags":["dg_uploaded"],"created":"2023-11-21T09:37","updated":"2023-12-03T08:02"}
+title: Booze
+aliases:
+  - booze
+status: dg_uploaded
+tags: 
+share: true
+dg-publish: true
+dg-created: 2023-11-21T09:37
+dg-updated: 2023-12-23T08:32
+dg_upload_status: VNC done
+date created: 2022-12-14
+date modified: 2023-12-23
+danglinglink_commentedout: true
 ---
-
 
 # Booze
 

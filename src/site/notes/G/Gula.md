@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gula/","title":"Gula","tags":["titleandheadingonedontmatch","multipleentries","stitched","dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-04T11:49","updated":"2023-11-04T11:49"}
+{"dg-publish":true,"permalink":"/G/Gula/","title":"Gula","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions","Englishtexttranslated"],"created":"2023-11-04T11:49","updated":"2023-12-23T08:11"}
 ---
 
 
@@ -85,7 +85,7 @@ A Gula = [[G/Gulya\|gulya]] = [[T/Tehén\|tehén]]csorda kapcsolat a Kutyacsilla
 ...című könyvének 120. oldalán Tehén csillagképről szól a Nagy Kutya kapcsán/helyén, mely nyilvánvalóan nem [[K/Kenemet\|Kenemet]] kell legyen:  
 > [[H/Héra\|Héra]] egyiptomi mása viszont [[H/Hathor\|Hathor]] volt, az "Ég Tehene" és Ápisz anyja, akit az egész égbolt megtestesüléseként tiszteltek. De volt külön Tehén csillagkép is az egyiptomi égen, a [[S/Szíriusz\|Szíriusz]] csillagot magába foglaló Nagy Kutya csillagkép\[nek megfelelő\], ezúttal [[I/Ízisz\|Ízisz]] képmásaként, pontosan körülhatárolt szerepben.  
 
-A kérdés már csak az (miután az M jel valóban lehet szarvat jelölő, mint [[C/Cassiopeia\|Cassiopeia]] esetében), hogy akkor Gula = Bau = Baba = Babba Mária = Tündér Ilona ha itt jogosan szerepel (Toroczkai-Wigand Edénél vajon mi a neve ennek a résznek?), akkor miért van meg Gula még egyszer Vízöntőként? Nos, talán azért, mert a Gula régen homoníma volt, azaz két külön jelentése volt? PJI [[G/Gulya\|gulyá]]ra adott definíciója pedig mindkettőt magyarázni tudja (a Ja viszi a folyó értelmet). [[C/Cola\|Cola]] címnél is folyadékról volt szó. (Egy biztos, közben más forrást is ellenőrizve, hogy GW nem tévedett Gula Vízöntőségével kapcsolatban.)  
+A kérdés már csak az (miután az M jel valóban lehet szarvat jelölő, mint [[C/Cassiopeia\|Cassiopeia]] esetében), hogy akkor Gula = Bau = Baba = Babba Mária = Tündér Ilona ha itt jogosan szerepel (Toroczkai-Wigand Edénél vajon mi a neve ennek a résznek?), akkor miért van meg Gula még egyszer Vízöntőként? Nos, talán azért, mert a Gula régen homonima volt, azaz két külön jelentése volt? PJI [[G/Gulya\|gulyá]]ra adott definíciója pedig mindkettőt magyarázni tudja (a Ja viszi a folyó értelmet). [[C/Cola\|Cola]] címnél is folyadékról volt szó. (Egy biztos, közben más forrást is ellenőrizve, hogy GW nem tévedett Gula Vízöntőségével kapcsolatban.)  
 A másik lehetséges magyarázat (melyről más kapcsán volt szó [[P/Precesszió\|precesszió]] címnél), hogy a sumér időkben a tél csillagképe volt a Vízöntő!  
 
 Az Ősi Gyökér 2007/1. számának Eb a hite kölykei című cikkében hasonló témát boncolgat. Lásd [[S/Szíriusz – Gyárfás Ágnes Szíriuszról\|Szíriusz – Gyárfás Ágnes Szíriuszról]].  
@@ -93,8 +93,8 @@ Az Ősi Gyökér 2007/1. számának Eb a hite kölykei című cikkében hasonló
 Stephanie Lynn Budin Women in Antiquity című könyvében előjön egy sumér `Gal-La` = pina szó, mely igazán hasonló Gula-hoz, ismerve az [[U/U\|U]] és A hangok egymás közti változását. Ezt csak azért is írom ide, mert [[C/Coot\|coot]] és [[G/Göd\|Göd]] és más címnél írottak alapján is kiderült, hogy a [[T/Tejútanya\|Tejútanya]] neve több esetben azonos vulvájának (képletes/költői) elnevezésével és [[G/Gula#Gula 2)\|Gula]] címnél legutóbb írottak alapján Gula lehetett, csillagfolyam/Tehéncsordafolyam és még [[G/Gólya\|gólya]] értelmű.  
 Ami még a vulva jelentést illeti, Gu-La, akár mint Kutya(pénisz)/Fény Helye értelemben meg is felelhet, kivált a legutóbb ([[G/Goal\|goal]] és) [[P/Pina\|pina]] és főleg [[I/Íj és a nyíl\|íj és a nyíl]] címnél írottak alapján. A szöveg (egy része) annyira tanulságos, hogy ideteszem táblázatosan.  
 
-[[L/Lant csillagkép\|Lant csillagkép]] címnél is szerepelt az alábbi:  
-> A [[T/Tejút\|Tejút]] mentén helyezkednek el a Nyári háromszög csillagképei. A tetőpont közelében ragyog a Lant (Lyra), aránylag kicsiny, de jellegzetes konstellációja. Az α Lyrae ([[V/Vega\|Vega]]) az északi ég legfényesebb csillagai közé tartozik. Ókori megnevezései népenként és koronként változatosak. A Kr.e. II. évezredben az "Akkád csillagai" táblázatban "Kecskecsillagként" szerepel (de nem azonos a görög-római Anyakecskével!), utóbb Gulának az orvoslás istennőjének jelképe.  
+A [[T/Tejút\|Tejút]] mentén helyezkednek el a Nyári háromszög csillagképei. A tetőpont közelében ragyog a Lant (Lyra), aránylag kicsiny, de jellegzetes konstellációja. Az α Lyrae ([[V/Vega\|Vega]]) az északi ég legfényesebb csillagai közé tartozik. Ókori megnevezései népenként és koronként változatosak. A Kr.e. II. évezredben az "Akkád csillagai" táblázatban "Kecskecsillagként" szerepel (de nem azonos a görög-római Anyakecskével!), utóbb Gulának az orvoslás istennőjének jelképe.  
+  
 
 A fentebb beígért Fekete démon téma következzen még itt.  
 A [[G/Ghoul\|ghoul]] címnél Kovács Sándor által említett szubar `GUL` = megsemmisít, pusztít jelentésű szóban az az érdekes, hogy az őskezdetre is utaló sötét/sátáni minőségre utaló boszorkány/[[F/Fekete démon\|Fekete démon]] kontextusában került taglalásra. Mivel az [[A/Algol\|Algol]] nevébe is bele lett építve, nyilván északi csillagnak kell lennie és valóban az is a [[P/Perseus csillagkép\|Perseus csillagkép]] csillaga (hiszen az Orion és a Pleiadok irányában/felett van).  

@@ -1,7 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/L/Liberalizmus/","title":"Liberalizmus","tags":["Englishtexttranslated"],"created":"2023-12-22T10:10","updated":"2023-12-22T10:10"}
+title: Liberalizmus
+aliases:
+  - liberalizmus
+status: dg_uploaded
+tags:
+  - Englishtexttranslated
+share: true
+dg-publish: true
+dg-created: 2023-12-21T10:10:00
+dg-updated: 2023-12-23T08:18
+dg_upload_status: VNC done
+date created: 2022-12-14
+date modified: 2023-12-23
 ---
-
 
 # Liberalizmus
 
@@ -23,7 +34,7 @@ Drábik János impromptu megfogalmazásában a klasszikus liberalizmus pozitív 
 De ma a liberalizmus ennek a szervezett magánhatalomnak a korlátlan visszaélési lehetősége, az ő hatalmi fölényével, amelyet a pénzrendszer biztosít számára. Vagyis ma a szabadsággal való visszaélés szabadságát jelenti a liberalizmus.  
 Másutt röviden úgy fogalmaz, hogy az erősek szabadsága, hogy a gyengéknek szabadságával (szabadságjogaival) korlátlanul visszaéljenek.  
 
-Kubínyi Tamás úgy fogalmaz (emlékezetből írva), hogy a liberálisok a mindenkivel való jól megférést hirdeti, de ha valaki szembemegy az elgondolásaikkal, azokkal szemben terrorista eszközökkel lép fel.  
+Kubínyi Tamás úgy fogalmaz, hogy a liberálisok a mindenkivel való jól megférést hirdeti, de ha valaki szembemegy az elgondolásaikkal, azokkal szemben terrorista eszközökkel lép fel.  
 
 ## Liberalizmus és terrorizmus
 

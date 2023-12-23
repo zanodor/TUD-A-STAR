@@ -1,13 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/B/Béla/","title":"Béla","tags":["dg_uploaded"],"created":"2023-12-03T05:04","updated":"2023-12-04T01:11"}
+title: Béla
+aliases:
+  - Bélá
+status: dg_uploaded
+tags: 
+share: true
+dg-publish: true
+dg-created: 2023-12-03T05:04
+dg-updated: 2023-12-23T08:31
+dg_upload_status: VNC done
+date created: 2022-12-14
+date modified: 2023-12-23
+danglinglink_commentedout: true
 ---
-
 
 # Béla
 
 A `bjel`, `bjelo` fehérséget, szépséget jelentő szavak természetesen [[B/Bál\|Bál]] Napisten ragyogó minőségéből erednek, a palóc szócsoportba tartoznak, tehát nem szláv szavak. Pl. a walesieknek például mi közük lenne a szlávokhoz.  
 
-Lehet beszélni a latin-olasz `bella` = szép jelentéséről is (vesd össze [[F/Flott\|flott]]). Hasonló a kapcsolat, mint a német `schön` = szép és az angol [[S/Shine\|shine]] és [[S/Sun\|Sun]] szavak között. [[B/Bél\|Bél]] és [[B/Bál\|Bál]] palóc Napisten fénye szépített mindenkit. A régiek kifinomultsága, szépérzéke összehasonlíthatalan a mai viszonyokban tapasztaltakkal.  
+Lehet beszélni a latin-olasz `bella` = szép jelentéséről is (vesd össze [[F/Flott\|flott]]). Hasonló a kapcsolat, mint a német `schön` = szép és az angol [[S/Shine\|shine]] és [[S/Sun\|Sun]] szavak között. [[B/Bél\|Bél]] és [[B/Bál\|Bál]] palóc Napisten fénye szépített mindenkit. A régiek kifinomultsága, szépérzéke összehasonlíthatatlan a mai viszonyokban tapasztaltakkal.  
 
 #### Kállay Ferenc A pogány magyarok vallása...  
 
@@ -19,8 +30,8 @@ Lehet beszélni a latin-olasz `bella` = szép jelentéséről is (vesd össze [[
 
 #### Magyar Adorján írja:
 
-> A [[B/Belga\|Belgium]] illetve [[B/Belga\|belga]] névnek tökéletesen megfelel a szláv `beli` = fehér szó, valamint a már említve volt északi hófehér színű cethal [[B/Beluga\|beluga]] neve (de amely állatot északi rokonnépeink, amint már szintén említettem, `biburga` néven is neveznek, minthogy a [[B/Bíbor\|bibor]] szó régibb nyelvünkben valamint népünkében ma is hófehér értelmű; irodalmi nyelvünk pedig teljesen tévesen használja "igen piros" értelemmel, "bársun" helyett). Ez fejti meg másrészt Béla személynevünket is, amelynek egykori értelme tehát: igen szőke sőt talán albino is volt, valamint ez magyarázata a régi magyar `béla-gyöngy` szónak is. De innen származik a szőkeségnek francia-német `blond` neve is, de amely szó ezenkívül a `bleu-blau` (blö-blaú) = szóval is összefügg, azért mert a szőkék szeme kék; viszont a `blanc`, `blanche` (blank, blans) = fehér szó sem más mint a béla, beluga szavak magánhangzókihagyásos mása.  { #1wx6ob}
-
+> A [[B/Belga\|Belgium]] illetve [[B/Belga\|belga]] névnek tökéletesen megfelel a szláv `beli` = fehér szó, valamint a már említve volt északi hófehér színű cethal [[B/Beluga\|beluga]] neve (de amely állatot északi rokonnépeink, amint már szintén említettem, `biburga` néven is neveznek, minthogy a [[B/Bíbor\|bibor]] szó régibb nyelvünkben valamint népünkében ma is hófehér értelmű; irodalmi nyelvünk pedig teljesen tévesen használja "igen piros" értelemmel, "bársun" helyett). Ez fejti meg másrészt Béla személynevünket is, amelynek egykori értelme tehát: igen szőke sőt talán albino is volt, valamint ez magyarázata a régi magyar `béla-gyöngy` szónak is. De innen származik a szőkeségnek francia-német `blond` neve is, de amely szó ezenkívül a `bleu-blau` (blö-blaú) = szóval is összefügg, azért mert a szőkék szeme kék; viszont a `blanc`, `blanche` (blank, blans) = fehér szó sem más mint a béla, beluga szavak magánhangzókihagyásos mása.  
+^1wx6ob
 
 #### A Czuczor-Fogarasi szótár adata:
 
@@ -61,4 +72,4 @@ Az izlandi `fallegur` = gyönyörű, szép a [[B/Black\|black]] címnél is tagl
 Béla név B-L váza összevetendő [[B/BUL\|BUL]] etimonnal is és világos, villám szavaink [[V/VIL\|VIL]] gyökével.  
 Fehér elefántról lásd [[B/Bál\|Bál]], a nagysága miatt.  
 
-Lásd még [[A/Auburn\|auburn]] szónál írottakat, [[H/Halvány\|halvány]] szavunk latin albus-ával való összevetését. Lásd még [[B/Blind\|blind]], [[B/Blond\|blond]], [[B/Black\|black]].  
+  

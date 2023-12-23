@@ -1,7 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/B/Booth/","title":"Booth","tags":["dg_uploaded"],"created":"2023-11-21T10:59","updated":"2023-12-03T10:12"}
+title: Booth
+aliases:
+  - booth
+status: dg_uploaded
+tags: 
+share: true
+dg-publish: true
+dg-created: 2023-11-21T10:59
+dg-updated: 2023-12-23T08:32
+dg_upload_status: VNC done
+date created: 2022-12-14
+date modified: 2023-12-23
+danglinglink_commentedout: true
 ---
-
 
 # Booth
 

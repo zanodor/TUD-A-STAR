@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kína/","title":"Kína","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-21T09:12","updated":"2023-11-21T09:12"}
+{"dg-publish":true,"permalink":"/K/Kína/","title":"Kína","tags":["Englishtexttranslated"],"created":"2023-11-21T09:12","updated":"2023-12-23T08:18"}
 ---
 
 
@@ -22,7 +22,7 @@ Mint [ezen](https://en.wikipedia.org/wiki/Qin_dynasty#Etymology_of_China) oldalr
 
 Azt Zajti Ferenc Zsidó volt-e Jézus című könyvéből is tudjuk, hogy a szumer-sémi nyelvekre jellemző volt az s-es kiejtés, de [[K/Kentum\|kentum]] és [[S/Szatem\|szatem]] elválás szkíta korra megy vissza, azaz a Csina/Sina forma az eredeti Huna, majd Hyna/Khina változata kell legyen.  
 
-A Kína név lehet hasonlítható egyrészt (például [[K/Kenya\|Kenya]] név mellett) a [[K/Kuna\|kuna]] (indiánok) névhez, de a [[K/Káin\|Káin]] címnél taglalt chionita és más nevekhez is. Már eleve a Han uralkodó réteg miatt is mondható, hogy Kína a Hun birodalom nevét viseli. HF elmondja, hogy a kínaiak szerint is mi mindent a hunoktól tanultak.  
+A Kína név lehet hasonlítható egyrészt (például **Kenya** név mellett) a [[K/Kuna\|kuna]] (indiánok) névhez, de a [[K/Káin\|Káin]] címnél taglalt chionita és más nevekhez is. Már eleve a Han uralkodó réteg miatt is mondható, hogy Kína a Hun birodalom nevét viseli. HF elmondja, hogy a kínaiak szerint is mi mindent a hunoktól tanultak.  
 A másik a Huna név, melyből ugyanúgy lehetett létrejött Kína, mint ahogy a skutha névből lett szkíta (U>Ü>Í változási sorozat).  
   
 

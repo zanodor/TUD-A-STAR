@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/A remetekirály mese/","title":"A remetekirály mese","tags":["dg_uploaded"],"created":"2023-10-22T12:47","updated":"2023-10-25T12:12"}
+{"dg-publish":true,"permalink":"/A/A remetekirály mese/","title":"A remetekirály mese","created":"2023-10-22T12:47","updated":"2023-12-23T08:35"}
 ---
 
 

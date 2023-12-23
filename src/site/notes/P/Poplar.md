@@ -1,11 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/P/Poplar/","title":"Poplar","tags":["dg_uploaded"],"created":"2023-12-03T05:13","updated":"2023-12-03T05:13"}
+{"dg-publish":true,"permalink":"/P/Poplar/","title":"Poplar","created":"2023-12-03T05:13","updated":"2023-12-23T08:14"}
 ---
 
 
 # Poplar
 
-Nyárfa. Ófrancia `poplier` és latin `populus` szavakat hoz rá Oxford. Ez utóbbit [[P/People\|people]] szónál elemeztük (de ott közben [[F/Falu\|falu]] szóból is kiindultunk). Ott is szerepeltettük PJI adatát:  
+Nyárfa. Ófrancia `poplier` és latin `populus` szavakat hoz rá Oxford. Ez utóbbit [[P/People\|people]] szónál elemeztük (de ott közben [[F/Falu\|falu]] szóból is kiindultunk). Ott is szerepelt...
+
+#### Péterfai János adata:
+
 > A latin Populus jelentése Nép. A monda szerint a rómaiak a rezgő nyárt így nevezték el, mivel a levelei, mint az embertömeg, folytonosan mozog, izgalomban él.  
 
 #### Magyar Adorján Csodaszarvas...  
