@@ -1,7 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csap/","title":"Csap","tags":["dg_uploaded"],"created":"2023-11-14T03:45","updated":"2023-11-14T03:45"}
+title: Csap
+aliases:
+  - csap
+status: dg_uploaded
+tags: 
+share: true
+dg-publish: true
+dg-created: 2023-11-14T03:45
+dg-updated: 2023-12-23T08:30
+dg_upload_status: VNC done
+date created: 2022-12-14
+date modified: 2023-12-23
+danglinglink_commentedout: true
 ---
-
 
 # Csap
 
@@ -18,5 +29,5 @@ Csap-pal azonos alakú [[C/Csép\|csép]] mellett a [[K/KAP\|kap]], mely szóró
 
 > A finnben `tapan` = csapok, csépelek és `tappaja` = cséplő.  
 
-Több más idegen szóban is megjelenik, pl. angol [[C/Chap\|chap]] és [[C/Chop\|chop]]. [[T/Tap\|Tap]] angol szó főnévként és igeként is lehet csap szavunk.  
-Még mindig az angolban ezen fentebb említett [[T/TAB\|TAB]], [[T/TAF\|TAF]] (teoretikus) alapszavakból lenne [[S/Stab\|stab]] és [[S/Staff\|staff]].  
+Több más idegen szóban is megjelenik, pl. angol `chap` és `chop`. [[T/Tap\|Tap]] angol szó főnévként és igeként is lehet csap szavunk.  
+  
