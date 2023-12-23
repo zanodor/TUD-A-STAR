@@ -1,7 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/A/Aalu/","title":"Aalu","tags":["dg_uploaded"],"created":"2023-11-06T01:09","updated":"2023-12-03T06:14"}
+title: Aalu
+aliases:
+  - 
+status: dg_uploaded
+tags:
+share: true
+dg-publish: true
+dg_upload_status: VNC done
+date created: 2022-12-14
+date modified: 2023-12-23
+dg-created: 2023-11-06T01:09
+dg-updated: 2023-12-23T08:35
 ---
-
 
 # Aalu
 
