@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kereszt/","title":"Kereszt","tags":["Englishtexttranslated"],"created":"2023-10-13T12:02","updated":"2023-12-23T08:20"}
+{"dg-publish":true,"permalink":"/K/Kereszt/","title":"Kereszt","tags":["Englishtexttranslated"],"created":"2023-10-13T12:02:00","updated":"2023-12-23T08:24"}
 ---
 
 
 # Kereszt
 
-Kezdjük azzal, hogy a szláv nyelvekben a magyarral azonosan vannak meg a szavak: délszláv `krst`, orosz `kreszt`. (Azokat nem lehet értelmezni, mert nem belső fejlődéssel jöttek létre; ellenben a magyart lehet, viszont "nem szabad.")  
-Hogy a kereszt szóban az e hang másutt is ismert volt, lásd [[K/Krisztus#Kresztosz\|Kresztosz]] cím/alcímnél írottakat is. Annál a [[K/Krisztus\|Krisztus]] címnél, ahol végérvényesen bizonyítást nyert, hogy a név nem felkent jelentésű, hanem kereszt szavunkból ered (ahogy a görög `kerasztész` = szarvas állat szó is).  
+Kezdjük azzal, hogy a szláv nyelvekben a magyarral azonosan vannak meg a szavak: délszláv `krst`, orosz `kreszt`. Ezen szavakat nem lehet értelmezni, mert nem belső fejlődéssel jöttek létre; ellenben a magyart lehet, viszont "nem szabad."  
+
+Hogy a kereszt szóban az `e` hang másutt is ismert volt, lásd [[K/Krisztus#Kresztosz\|Kresztosz]] cím/alcímnél írottakat is. [[K/Krisztus\|Krisztus]] címnél pedig végérvényesen bizonyítást nyert, hogy a név nem felkent jelentésű, hanem kereszt szavunkból ered – ahogy a görög `kerasztész` = szarvas állat szó is.  
 
 #### László Gyula Kettős honfoglalás...
 
@@ -148,7 +149,7 @@ Molnár V. József Világ-Virág című könyvének 171. oldalán komi (zürjén
 
 > A kereszt a tűz jelképe is lévén, ezt az avarok a napkorongba is ábrázolni szokták volt, úgy ahogy azt föntebb mutattuk be, mivel minden földi tűz a Napból származott erő megnyilvánulása, vagyis tehát minden földi tűz is tulajdonképen a Napból származott. E keresztes napkorongot pedig az avarok az Égistent jelképező szent állat, a Csodaszarvas, valamint a náluk ezt többnyire helyettesítő őskori óriáskos (amely némileg a mai majdnem ökörnagyságú belső-ázsiai argali-koshoz is hasonlított, de egyenes és kötélmódjára csavart szarvai voltak) szarvai közé is odaábrázolták. Ezen keresztes napkorongot alakították tehát a \[JM által is ismertetett\] Hubertusz-mondában keresztény keresztté[^2].  
 > Az őskereszténység a keresztet vallásos jelképként még nem ismerte, aminthogy ez az őskeresztény katakombákban és régibb keresztény templomokban még teljesen hiányzik. Tény, hogy ez csak az avarok kora után válott általános keresztény jelképpé, vagyis ezt a keresztények tulajdonképen csak az avarokat utánozva kezdték így használni[^3]. Tény az is, hogy a "kereszténység" ezen magyar neve is csak különleges magyar csinálmány, mert más nyelvekben nem a kereszt nevéből, hanem Jézus görög eredetű [[K/Krisztus\|Krisztus]] nevéből származott, amelynek értelme "fölkent", és tehát "krisztian"-nak hangzik és "krisztuskövető" az értelme.  
-- Vajon ezt a legfontosabb témát MA miért nem járta körül? Akár csillagászati tudás nélkül is?  
+  
 
 ![assets/Kereszt_image10.jpeg](/img/user/K/assets/Kereszt_image10.jpeg)  
 ![assets/Kereszt_image11.png](/img/user/K/assets/Kereszt_image11.png)  
@@ -165,7 +166,7 @@ A 208. oldalon pedig a koronázási ékszereink jogarának hármas szalag fonata
 ...című Ősi Gyökér 2012/1. sz. megjelent cikkében írja:  
 > Jézus és a Pantokrátornak is mondott Atya aurája más mint a szenteké. A többlet a körbe rajzolt kereszt, ami a világgömb tengely irányú nézete, másfelől rovásírásunk "F" jeleként, az asztrológiában viszont a Föld jeleként ismert.  
 
-Itt hadd jegyezzem meg, hogy a [[N/Négy#Négy és az ötödik irány\|négy és az ötödik irány]] cím/alcímnél, valamint a (szintén F betűs) [[F/FU\|FU]] címnél taglalt közepénlévő istenség téridőbeli helyére – Sarkcsillag és egyben Szíriusz-Orionban elhelyezhető – vonatkozó, Szent Korona Atya zománcképével kapcsolatos információt lásd még [[O/Öregisten#Öregisten helye az égen\|Öregisten helye az égen]] cím/alcímnél.  
+Itt hadd jegyezzem meg, hogy a [[N/Négy#Négy és az ötödik irány\|négy és az ötödik irány]] cím/alcímnél, valamint a (szintén F betűs) [[F/FU\|FU]] címnél taglalt középen lévő istenség téridőbeli helyére – Sarkcsillag és egyben Szíriusz-Orionban elhelyezhető – vonatkozó, Szent Korona Atya zománcképével kapcsolatos információt lásd még [[O/Öregisten#Öregisten helye az égen\|Öregisten helye az égen]] cím/alcímnél.  
 
 #### Jankovics Marcell A fa mitológiája...
 
