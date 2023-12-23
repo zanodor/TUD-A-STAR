@@ -1,7 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tame/","title":"Tame","tags":["containstransclusions"],"created":"2023-10-17T08:15","updated":"2023-11-08T04:19"}
+title: Tame
+aliases:
+  - tame
+status: dg_uploaded
+tags:
+  - containstransclusions
+share: true
+dg-publish: true
+dg-created: 2023-10-17T08:15
+dg-updated: 2023-12-23T08:12
+dg_upload_status: VNC done
+date created: 2023-06-26
+date modified: 2023-12-23
+danglinglink_commentedout: true
 ---
-
 
 # Tame
 
