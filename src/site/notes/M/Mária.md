@@ -1,7 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2023-12-15T01:37"}
+title: Mária
+aliases:
+  - Máriá
+status: dg_uploaded
+tags:
+  - Englishtexttranslated
+share: true
+dg-publish: true
+dg-created: 2023-11-12T01:16:00
+dg-updated: 2023-12-23T08:17
+dg_upload_status: VNC done
+date created: 2022-12-14
+date modified: 2023-12-23
+danglinglink_commentedout: true
 ---
-
 
 # Mária
 
@@ -26,7 +38,7 @@ A hivatalos bibilia fáma (a formai-irodalmi és közérthetőséget lebutított
 
 ...című könyvének Szent Annáról szóló fejezetében leírja ki kicsoda:  
 > [[J/Július 26\|Július 26]]-a Szent [[A/Anna\|Anna]], a magyar néphagyományban [[K/Kedd\|kedd]] [[A/Asszony\|asszony]]a[^1] napja. A katolikusok Szűz Mária édesanyját tisztelik benne.  
-\[...\]  
+> \[...\]  
 > Mária szüleiről, Annáról és Joakimról az újszövetségi könyvek egy szót sem szólnak. Legendájuknak és tiszteletüknek forrásai az apokrif írások, elsősorban Jakab elő-evangéliuma. A kiteljesedett középkori legenda szerint Anna első férje volt Joakim. Sokáig nem volt gyerekük, végül is angyali jövendölést követően Anna teherbe esett és megszülte az "első" Máriát, a majdani "Istenszülő" Szűzanyát. Joakim hamarosan meghalt, s Anna újból férjhez ment. Új férjétől, Kleofástól fogant a "második" Mária, Alfeus jövendő felesége, kinek négy fia lett Jézus unokatestvére, és – egy kivételével – apostola; a kisebbik Jakab, Júdás Tádé, zelóta Simon és József. Anna Kleofást is eltemette, és újból férjhez ment egy Salamon nevű emberhez. Neki szülte a "harmadik" Máriát[^2], akit apja után Szaloménak hívtak. Ő lett Zebedeus felesége és szült Jézus számára újabb unokafivéreket és apostolokat: a nagyobbik Jakabot és Jánost. Anna és leányai, **a három Mária, csak egy pogány képzetektől zsongó agyban alkothattak családot** (a kopt keresztény felfogás odáig ment, hogy a három Máriából egyet csinált, s fiaikat Jézus fivéreinek tette meg). Együttesükben a zsidó-keresztényektől idegen archaikus istennőháromság képe kísért, amelyet a hellenisztikus korban egy-egy jelentősebb istennő és háromtagú kísérete jelenít meg (lásd [[H/Héra\|Héra]] és a heszperiszek, [[A/Aphrodité\|Aphrodité]] és a gráciák).  
 - Lásd még inkább [[H/Három istennő\|három istennő]].  
 
@@ -166,8 +178,8 @@ Marha szavunk hihetetlen sok ideában megjelenik.
 A Sirius in Ancient Greek and Roman literature című cikkben fejtegetik, hogy a görög-római mitológia **Maira** nevű (nimfa)alakja Szíriuszra utalóan jön elő. Nos, a maoriknál is Szíriusz neve Mere is, illetve M-R vázú, fényes jelentésű szavakat láttunk bőven. Okunk lehet tehát feltételezni, mivel a [[S/Szuka\|szuka]] a Tejút és a kutya egyben (ahogy [[G/Göd\|Göd]] címnél is ezt taglaltuk), hogy a Mária és a Maira nevek egy és ugyanazok. Ami a cikkből ide tehető:  
 > Sirius in the annual period from its heliacal rising to 22 August was also called 'Maira', a word coming from the ancient Greek verb `marmairo`, which means 'to shine' (Palatine or Greek Anthology, 1917, 9: 55). As a name, Maira (or Maera) therefore became the star-goddess of the scorching dog-star Seirios, whose rising in conjunction with the Sun brought on the scorching heat of midsummer.  
 > —  
-> A Szíriuszt a heliákus kelésétől augusztus 22-ig tartó éves időszakban "Maira"-nak is nevezték, amely szó az ógörög `marmairo` igéből származik, ami azt jelenti, hogy "ragyogni" (Palatinus vagy Görög Antológia, 1917, 9: 55). Maira (vagy Maera) mint név tehát a perzselő kutya-csillag, Seirios csillagistennője lett, akinek a Nappal együtt történő felkelése a nyár közepének perzselő hőségét hozta el.  { #j3fmio}
-
+> A Szíriuszt a heliákus kelésétől augusztus 22-ig tartó éves időszakban "Maira"-nak is nevezték, amely szó az ógörög `marmairo` igéből származik, ami azt jelenti, hogy "ragyogni" (Palatinus vagy Görög Antológia, 1917, 9: 55). Maira (vagy Maera) mint név tehát a perzselő kutya-csillag, Seirios csillagistennője lett, akinek a Nappal együtt történő felkelése a nyár közepének perzselő hőségét hozta el.  
+^j3fmio
 
 [[E/Eire\|Eire]] címnél felemlítettük, hogy mi lenne, ha Mária nem a [[M/Marha\|marha]] szavunkból eredne mégsem, hanem az "[[A/Árja\|árja]]" (levegő) ajakhang-előtételezése lenne. Illetve valójában pont arról volt szó, hogy mi lenne, ha a Mária lenne a kiinduló oda.  
 A Mária marhából való közvetlen eredeztetésének az is ellentmond, hogy az (általán területek nevére alkalmazott) -[[I/Ia\|ia]] végződés más nevekben is szerepel; például Kornélia, Natália, a gall fenyő (nem tölgy?) istennő [[D/Druantia\|Druantia]], a tölgy (nem inkább éger?) istennő [[E/Egeria\|Egeria]], a szintén Tejút/kígyóistennő [[L/Lamia\|Lamia]], illetve PJI Atlantiszról szóló írásában azt írja, hogy az ír [[E/Eriu\|Eriu]] (lásd róla illetve a passzust [[E/Eire\|Eire]]) nevében is az -ia végződés lenne meg.  
