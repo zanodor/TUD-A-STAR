@@ -1,7 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fit/","title":"Fit","created":"2023-11-03T05:20","updated":"2023-12-15T01:37"}
+title: Fit
+aliases:
+  - fit
+status: dg_uploaded
+tags: []
+share: true
+dg-publish: true
+dg-created: 2023-11-03T05:20
+dg-updated: 2023-12-23T08:28
+dg_upload_status: VNC done
+date created: 2022-12-14
+date modified: 2023-12-23
 ---
-
 
 # Fit
 
