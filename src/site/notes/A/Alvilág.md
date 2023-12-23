@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Alvilág/","title":"Alvilág","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-10-22T03:43","updated":"2023-11-25T10:01"}
+{"dg-publish":true,"permalink":"/A/Alvilág/","title":"Alvilág","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-22T03:43","updated":"2023-12-23T08:34"}
 ---
 
 
@@ -92,13 +92,13 @@ Berze Nagy János Égigérő fájában írja:
 Még az alvilág/másvilág kapcsán ide tehető Falvay Károly Nagyboldogasszony című könyvéből ([[M/Men#Menny és ég\|menny és ég]] címnél is szerepelt):  
 > A menny tehát térben felső fogalom, mint a mennyboltozat fölötti világ, ami valahol a sötétség fölött, a "föld fölött", a csillagok boltozata fölötti térben vagy éppen az alvilágban van. A kiskert ugyanis félreérthetedenül az Éden, a gyönyörök kertje, ahol a Boldogasszony méze, az istenek eledele "terem" a "kiskertjében". A menny és a föld fogalom közös egységében más nézetben az ismeretlen "más-világ" és az ismert világ egysége is megmutatkozik. Ez az egység a más-világban működő ősök, és az élők világának egysége.  
 
-Az alvilág, felvilág, másvilág (és másik/párhuzamos) világ kapcsán kellene írni egy összefoglalót, vagy ha már megtette más, megtalálni. [[A/Annwfn\|Annwfn]] és [[D/Duat\|duat]] címnél már volt hasonlókról szó. 
+Az alvilág, felvilág, másvilág (és másik/párhuzamos) világ kapcsán kellene írni egy összefoglalót, vagy ha már megtette más, megtalálni. [[A/Annwfn\|Annwfn]] és [[D/Duat\|duat]] címnél már volt hasonlókról szó.  
 [[S/Sheol\|Sheol]] véleményem szerint nem sehol, mert ha az lenne, nem az alvilág lenne.  
 
 Varga Zsigmond Az ősmagyar mitológia című könyvének 113. oldalán ír az ősi alvilágképzetekről.  
 
-[[A/Asphodel\|Asphodel]] címnél esett szó a görög alvilág hármas felosztásáról:  
-A mitológiai alvilág hármas beosztásában, amelyben a Tartarosz és az Elízium a két véglet, az aszphodéloszmezőkre a földi életben a jó és rossz között ingadozó lelkek kerülnek.  
+[[A/Asphodel\|Asphodel]] címnél láttuk a Szimbólumtár adatát a görög alvilág hármas felosztásáról:  
+> A mitológiai alvilág hármas beosztásában, amelyben a Tartarosz és az Elízium a két véglet, az aszphodéloszmezőkre a földi életben a jó és rossz között ingadozó lelkek kerülnek.  
 
 [[K/Kutya Európában\|Kutya Európában]] címnél szerepelt Kátay-Barba Rafael Péter Kynologia című írásának adata:  
 > Svintorog mitológiai és történelmi legendák kultúrhőse, herceg, aki az orosz évkönyvek és M. Stryjkowski krónikája szerint a XIII. században uralkodott a Litván Nagyhercegségben, Žemaitijában és az Orosz Fejedelemségben. Halála előtt, a hagyomány úgy tartja, maga rendelkezett, hogy a Vilnia (Vilna) és a Vilija folyók összefolyásánál kiemelkedő szirten égessék el fegyvereivel, lovával, sólymával, vadászkutyáival és kedvenc szolgájával együtt. Ezzel olyan különleges temetkezési hagyományt teremtett, mely lényegében kapcsolódik a pogány római szokásokhoz. Az elégetett sólyom, ló, kutya a **kozmosz három szférájá**nak meghatározója: ég, föld, alvilág.  
@@ -121,7 +121,7 @@ A különféle alvilágképzetekről lásd Ipolyi Arnold írását [[H/Hádész#
 
 ## Alvilág és a Halak-korszak
 
-Az alvilág [[S/Szakrális geometria\|szakrális-geometrikus]]an értendő és innen fogva természetes, hogy a jelen [[H/Halak korszak\|Halak korszak]]ban itt vagyunk és a [[K/Kali Yuga\|Kali Yuga]] címnél taglaltak szerint is a parazita alvilág (maffia kartell csoportok) irányítják a világot úgy, hogy magukat felébünk helyezik és istent (inkább: sátánt) játszanak. A [[M/Materializmus\|materializmus]] átka, hogy ezt a mi hallgatólagos beleegyezésünkkel teszik.  
+Az alvilág [[S/Szakrális geometria\|szakrális-geometrikus]]an értendő és innen fogva természetes, hogy a jelen [[H/Halak korszak\|Halak korszak]]ban jelenleg itt vagyunk és a [[K/Kali Yuga\|Kali Yuga]] címnél taglaltak szerint is a parazita alvilág (maffia kartell csoportok) irányítják a világot úgy, hogy magukat fölébünk helyezik és istent (inkább: sátánt) játszanak. A [[M/Materializmus\|materializmus]] átka, hogy ezt a mi hallgatólagos beleegyezésünkkel teszik.  
 
 ## Lábjegyzetek
 
