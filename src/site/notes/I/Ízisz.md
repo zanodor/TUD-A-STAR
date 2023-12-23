@@ -1,7 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/I/Ízisz/","title":"Ízisz","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-15T04:40","updated":"2023-11-25T11:13"}
+title: Ízisz
+aliases:
+  - Eszit
+  - Iszisz
+status: dg_uploaded
+tags:
+  - Englishtexttranslated
+share: true
+dg-publish: true
+dg_upload_status: VNC done
+date created: 2022-12-14
+date modified: 2023-12-23
+dg-created: 2023-11-15T04:40
+dg-updated: 2023-12-23T08:26
 ---
-
 
 # Ízisz
 
