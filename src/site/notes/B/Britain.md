@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/B/Britain/","title":"Britain","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-11T12:30","updated":"2023-12-04T01:12"}
+{"dg-publish":true,"permalink":"/B/Britain/","title":"Britain","tags":["Englishtexttranslated"],"created":"2023-11-11T12:30","updated":"2023-12-25T11:30"}
 ---
 
 
 # Britain
 
 [[B/Bretagne\|Bretagne]] volt Franciaországban előbb vagy sem, minket most nem ez köt le. A Britain szót akarjuk elemezni. Az is elképzelhető, hogy a két szárazföld az özönvíz előtt összefüggő volt és a két név egy és ugyanaz, csak Bretagne elfrankosodott.  
-A [[B/BAR\|BAR]] ( lásd inkább egyből [[B/BIR\|BIR]]) etimon és valószínűleg a hon szavak bújnak meg benne. A brit kelták nyelve szerint Brython! A hon a hunból ered, a hon haza. Egyesek Barátok Hona, Barátok Hazája kifejezéssel illetik, de PJI nem hozza szóba:  
+A [[B/BAR\|BAR]] etimon és valószínűleg az [[A/AN, ÁN\|AN, ÁN]] ([[B/Baráth Tibor\|Baráth Tibor]]nál ez mindig egyszerűen: hon) elemek bújnak meg benne. A brit kelták nyelve szerint Brython! A hon a hunból ered, a hon haza. Egyesek Barátok Hona, Barátok Hazája kifejezéssel illetik, de PJI nem hozza szóba:  
 > A Brit kétségtelenül valamilyen Berit, Birit forma rövidülése. Bran, Brian, Brennan és hasonlók mind a Bar, Ber, Bir magyar szavak származékai.  
 
 Bretagne nevét összevetik Berthenon-Ville nevével, a város nevében még tiszta a Berthenon név, amely Breton, Bratgne alakra tömörül. Birgit és Birgitta \[lásd [[B/Birghid\|Birghid]]\] neve a Brigitta névben él ma tovább. A régebbiek a kelta-magyar formák, az újabb az indoeurópai forma.
 
 A Briganti (lásd [[B/Brigand\|brigand]]) egy régi törzs neve volt, a Brutális a rombolás szava.  
 
-Az általa említett Berit név előjött [[B/Berith\|Berith]] címnél, minthogy ilyen ugariti isten (nem istennő?) lézetett. Márpedig arról alant is lesz szó, hogy a briteket föníciai eredetűnek mondják (a hiberniai skótokat pedig hébereknek).  
+Az általa említett Berit név előjött [[B/Berith\|Berith]] címnél, minthogy ilyen ugariti isten (nem istennő?) létezett. Márpedig arról alant is lesz szó, hogy a briteket föníciai eredetűnek mondják (a hiberniai skótokat pedig hébereknek).  
 
-PJI nemhogy a [[B/Barát\|barát]]okat, de a birkákat sem említi a brit kontextusban. Ha valahol sok a birka, az a brit szigeteken ma is. A marha és tinó szavak országra, hűbérre vonatkozatásáról Tóth Gyula írt. Itt a birka mellett a birtok, birodalom szavak bir gyökét lehet még látni.  
+PJI nemhogy a [[B/Barát\|barát]]okat, de a birkákat sem említi a brit kontextusban. Ha valahol sok a birka, az a brit szigeteken ma is. A marha és tinó szavak országra, hűbérre vonatkoztatásáról Tóth Gyula írt. Itt a birka mellett a birtok, birodalom szavak bir gyökét lehet még látni.  
 
 Bharat-ot Acharia S (mely forrás alapján?) India eredeti-bennszülött nevének tartja (és maga is Britain nevéhez hasonlítja); tény, hogy WFW könyvében is enlíti a Bharata nevet (képet lásd [[M/Mahabharata\|Mahabharata]]):  
 > First, of course, we come to the Himalaya range, the Himavat of Indian geography. All that portion of the earth lying between this mountain range and the great ocean to the South constitutes one of the seven, or nine, varshas, or divisions of the habitable (upper) hemisphere. Its name is Bharata.  
