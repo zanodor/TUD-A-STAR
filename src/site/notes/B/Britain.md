@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Britain/","title":"Britain","tags":["Englishtexttranslated"],"created":"2023-11-11T12:30","updated":"2023-12-25T11:30"}
+{"dg-publish":true,"permalink":"/B/Britain/","title":"Britain","tags":["Englishtexttranslated"],"created":"2023-11-11T12:30","updated":"2023-12-25T11:32"}
 ---
 
 
@@ -23,9 +23,9 @@ Bharat-ot Acharia S (mely forrás alapján?) India eredeti-bennszülött nevéne
 > Először természetesen a Himalája hegyvonulatához, az indiai földrajz Himavatjához érkezünk. A Földnek az e hegyvonulat és a déli nagy óceán között fekvő része alkotja a hét vagy kilenc varsha, vagyis a lakható (felső) félteke egyikét. A neve Bharata.  
 
 Viszont, visszatérve a fentiekre:  
-A britek föníciaiaktól származtatásában szakosodott – egyébként hasznos könyvet író – L. Austine Waddell Barat-Ana kifejezést hoz fel Britannia eredeti nevére. Az, hogy a szintén föníciai kapcsolatokat említő konteo-gyáros David Icke Barat szót a Védákban is talált, nos, lassan észbe kapnának, de magyar tudás nélkül fals eredményeket kapnak.  
+A britek föníciaiaktól származtatásában szakosodott – egyébként hasznos könyvet író – L. Austine Waddell **Barat-Ana** kifejezést hoz fel Britannia eredeti nevére. Az, hogy a szintén föníciai kapcsolatokat említő konteo-gyáros David Icke Barat szót a Védákban is talált...nos, mintha lassan észbe kapnának, de magyar tudás nélkül fals eredményeket kapnak.  
 
-Legutóbb [[B/Barát\|barát]], [[F/Friend\|friend]] és [[P/Perro\|perro]] szavaknál is szóba került a Brit Hon neve. Mivel egyes népnevek és országnevek (asztrális) [[K/Kutya\|kutya]]-vonatkozásúak, elképzelhető, hogy a Barátok Hona is köthető kutyafejűekhez. A [[H/Hon\|hon]] ugye az égi hon, amelynek földre vetítése az ország/haza/hon.  
+Legutóbb [[B/Barát\|barát]], [[F/Friend\|friend]] és [[P/Perro\|perro]] szavaknál is szóba került a Brit Hon neve. Mivel egyes népnevek és országnevek (asztrális) [[K/Kutya\|kutya]]-vonatkozásúak, elképzelhető, hogy a Britannia is köthető kutyafejűekhez. A [[H/Hon\|hon]] ugye az égi hon, amelynek földre vetítése az ország/haza/hon.  
 Valójában a legvalószínűbben Bar-At-Án Nap Atya a Mennyben jelentésű.  
 
 A Quora oldalon volt [egy kérdés](https://qr.ae/TWN8T8) arra vonatkozólag, hogy mi az eredete Nagy-Britannia egyes országneveinek és mit jelenthetnek (vannak jó nagy butaságok is ott). Az egyik válaszadó írja például:  
