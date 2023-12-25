@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2023-12-04T01:08"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2023-12-25T06:14"}
 ---
 
 
@@ -14,7 +14,7 @@ A megtévesztés és hazudozás nagymesterei a kabbalista zsidók, akiket Yarosl
 
 A **csalás művészeté**ről [[D/Dialektika\|dialektika]] bevezető soraiban is volt szó.  
 
-Az alábbiakban a [[S/Sátán\|Sátán]] **hatalomtechnikai eszközei**ről lesz szó, külön alcímek alatt, nemcsak a megtévesztésről.{ #ypmbnt}
+Az alábbiakban a [[S/Sátán\|Sátán]] **hatalomtechnikai eszközei**ről lesz szó, külön alcímek alatt, nemcsak a megtévesztésről.  { #ypmbnt}
 
 
 Az [alábbi](https://youtu.be/Vlu5QxrwHEs) ÁKTV műsorban Czékus Jób beszél arról, hogy egyes tévéműsorokat úgy készítenek el, hogy a nemzetérzelmű embert szólítják meg, 60-80%-ban az igazat látszanak mondani és belekevernek olyan torzításokat, hazugságokat, hogy az egészről végül kiderül, hogy az ellenségeink nézőpontját akarja ránk erőltetni, belénk nevelni. Ha az ember 10-ből 6-8 dolgot hall, amiről érzi, tudja, hogy igaz lehet, akkor azt gondolja, hogy a többi is. Ami az egészben érdekes, hogy éppen egy nappal ezen műsor előtt is ezt a kritikát fogalmaztam meg a csatorna-üzelmeltető felé:  
@@ -69,18 +69,18 @@ A csúsztatás egyik példájáról [[S/Szemitizmus#Antiszemitizmus\|antiszemiti
 
 A csúsztatás egyik példája, hogy ha [[F/Firdauszi\|Firdauszi]] megírja, hogy [[I/Irán és Turán\|Irán és Turán]] testvérek, akkor az iráni és turáni népek is egyidősnek tekintendők, nem igaz? Egy frászt. De viszont az, hogy [[S/Széth\|Széth]] is régebbi isten (igaz, korábbinak mondják), mint Ozirisz, már nem jelenthető ki, mert itt nem lehet geneológiai sorrendről beszélni. Ahogy másutt bővebben írtam, a lineáris gondolkodást ki kell dobni.  
 
-Meg kell említeni a [[V/Véletlen\|véletlen]] fogalmát is. Ezen alábbi, saját csatornámra feltöltött Őszi szemeszternyitó című ÁKA [előadásban](https://www.youtube.com/watch?v=xWeQi7rQE98) KT azzal kezdi, hogy azt mondja, hogy "a véletlen a Jóisten udvariassága," mert meghagyja az embernek, "higyjed azt, hogy véletlen," de semmi sem véletlen.  
+Meg kell említeni a véletlen fogalmát is. Ezen alábbi, saját csatornámra feltöltött Őszi szemeszternyitó című ÁKA [előadásban](https://www.youtube.com/watch?v=xWeQi7rQE98) KT azzal kezdi, hogy azt mondja, hogy "a véletlen a Jóisten udvariassága," mert meghagyja az embernek, "higyjed azt, hogy véletlen," de semmi sem véletlen.  
 Mások másutt úgy szokták mondani, hogy a tudatlan ember számára vannak véletlenek, de az aki ismeri a dolgok, a történelem menetét, a dolgok összefüggéseit, azok számára nincsenek véletlenek.  
 Kicsit hasonló, sőt, nagyon is hasonló a helyzet a háttérhatalom üzelmeinek leleplezéséhez: a legtöbb ember a háborúkat és a vírusokat véletlennek gondolja, holott nagyon is irányított eseményekről van szó.  
-Ha már itt tartunk, a jogban ismert tétel, hogy a jogszabály nem ismerete nem ment fel a bűnelkövetésre kiszabott büntetési tétel alól (tehát a Magyarországra migráló muszlim miniszoknyás lányon elkövetett erőszakos cselekménye büntetőjogi felelősségének tudatában nem léte ellenére büntetést kap).  
+Ha már itt tartunk, a jogban ismert tétel, hogy a jogszabály nem ismerete nem ment fel a bűnelkövetésre kiszabott büntetési tétel alól (tehát a Magyarországra bevándorló muszlim férfi fiatal miniszoknyás lányon elkövetett erőszakos cselekménye büntetőjogi felelősségének tudatában nem léte ellenére büntetést kap).  
 
 A [[F/Felforgatás\|felforgatás]] (angolul *subversion*: "aláforgatás") a másik eszköze a zsidóknak (és nem csak az ott említett Sun Tzu-nak és szovjet KGB-seknek).  
 
 Az [alábbi](https://youtu.be/84QfjzsT5GM) ÁKTV műsorban 1:54:50-nél mondja KT [[S/Szent Pál\|Szent Pál]]lal kapcsolatban, hogy tipikus esete annak a Cion Bölcseinek Jegyzőkönyvében is megfogalmazott stratégiának, hogy ha máshogy nem lehet kívülről megállítani valamit, *épülj be, állj az élére*. A kereszténységet akkor nem lehetett megállítani.  
 
 Amikor Hervay Tamás alábbi sorait egy Ősi Gyökeres cikkében ([[S/Sárkány\|sárkány]] címnél volt róla szó) olvastam, akkor a [[P/Parazitizmus\|parazitizmus]] címnél taglalt téma ötlött fel. Az állatvilágban sokszor a parazita rátelepedik a gazda-állatra. Amit HT ír:  
-Keleten máig a tanítások közt találjuk az ún. tigrislovaglás művészetét. Ez abban áll, hogy ha olyan erőkkel találkozol, melyek nálad erősebbek, akkor azokkal ne szembe szállj, hanem pattanj fel rájuk \[mint [[S/Szent Pál\|Szent Pál]] a kereszténység élére\], lovagold meg őket, de úgy, hogy végül te irányítod a lefolyásukat, így azok szinte magukkal ragadva, de mégis az általad kitűzött célba juttatnak.  
-De ennek kapcsán meg a [[F/Felforgatás\|felforgatás]] címnél említett Yuri Bezmenov féle szintén keleti, harcművészeti fogás ötlött fel: az erősebb ütését ne kivédeni akard, hanem az ütés irányába húzva a karját repítsd az embert tova útján (míg közben kitérsz előle).  
+> Keleten máig a tanítások közt találjuk az ún. tigrislovaglás művészetét. Ez abban áll, hogy ha olyan erőkkel találkozol, melyek nálad erősebbek, akkor azokkal ne szembe szállj, hanem pattanj fel rájuk \[mint [[S/Szent Pál\|Szent Pál]] a kereszténység élére\], lovagold meg őket, de úgy, hogy végül te irányítod a lefolyásukat, így azok szinte magukkal ragadva, de mégis az általad kitűzött célba juttatnak.  
+- De ennek kapcsán meg a [[F/Felforgatás\|felforgatás]] címnél említett Yuri Bezmenov féle szintén keleti, harcművészeti fogás ötlött fel: az erősebb ütését ne kivédeni akard, hanem az ütés irányába húzva a karját repítsd az embert tova útján (míg közben kitérsz előle).  
 
 A másik eszköz a [[P/Politikai korrektség\|politikai korrektség]] fogalma és eljárása. A Polkorrekt 1. rész című [ezen](https://www.bitchute.com/video/89ErNuRN2M7N/) oldalon található ÁKA előadásban 18:00 körül KT kimondja, hogy nyugaton (Amerikában) már tudják, hogy a polkorrektség egyenlő a hazugsággal: ha valamit nem nevezhetek nevén vagy szépítve adom elő, az nem ugyanaz. Ha a polkorrekt fogalmakat használjuk, onnantól nem fogunk őszintén beszélgetni egymással, mert minden szavunkat ki lehet forgatni/gyomlálni és egy olyan fajta öncenzúrát fognak ránk kényszeríteni, amely tarthatatlan, természetellenes. Az évezredek alatt kialakult hagyományos gondolkodás soha sem volt polkorrekt.  
 Mondja még KT a PC-t bunkósbotnak, vállalhatatlan modorosságnak is.  
@@ -94,6 +94,8 @@ Itt jut eszembe KT egyik ÁKTV műsorának azon mondása (de [[P/Politikai korre
 Az [alábbi](https://www.youtube.com/watch?v=XIB7tmuFFtc) Atilla akták 1. rész című ÁKA előadásban KT 1:07:33-nál megint szól arról, hogy a mai világban nincs jó és rossz, igaz és hamis, csak különböző nézőpontok vannak. Ezzel hülyítik a gyermekeket és azt akarják elhitetni, hogy az emberiség olyan pályán fejlődik, amelyben végső soron ők osztják le a szerepeket és mindenki más a statiszta.  
 [Ezen](https://qr.ae/pN2ypz) Quora válaszomban is hasonlóképpen írom:  
 > "The global imperialists from Rome onwards use these (Judaism as an ideology) as their action plan or screenplay; life is a theatre, and we are supposed to be the mute dumb dummies."  
+> —  
+> "A globális imperialisták Rómától kezdve ezeket (a judaizmust mint ideológiát) használják cselekvési tervként vagy forgatókönyvként; az élet egy színház, és nekünk néma bábuknak kell lennünk."
 
 De maradjunk még ennél a kérdésnél. Az Anne Wright Constellations oldaláról való, a görög `doxa` = vélemény szóról szóló Platóntól származó, [[M/Miss#Miss 2)\|miss]] és [[I/Íj és a nyíl\|íj és a nyíl]] címnél szereplő passzusa rávilágít, hogy nemcsak az Íj és a nyíl ösvényéről, hanem az isteni igazságtól eltérő, ördögi-tévelygő ([[D/Devil\|devil]] = [[T/Tévely\|tévely]]; honnan [[T/Téved\|téved]]) véleményekről van szó (aki ezeket terjeszti, nemcsak célt téveszt, hanem Isten és isten népe, a magyarok ellen vét):  
 > In Cratylus by Plato, Hermogenes asks: "What do you think of `doxa` (opinion), and that class of words?" and Socrates answers: "Doxa is either derived from `dioxis` (pursuit), and expresses the march of the soul in the pursuit of knowledge, or from the shooting of a bow (`toxon`); the latter is more likely, and is conﬁrmed by `oiesis` (thinking), which is only `oisis` (moving), and implies the movement of the soul to the essential nature of each thing just as `boule` (counsel) has to do with shooting (`bole`); and `boulesthai` (to wish) combines the notion of aiming and deliberating – all these words seem to follow doxa, and all involve the idea of shooting, just as `aboulia`, absence of counsel, on the other hand, is a mishap, or missing, or mistaking of the mark, or aim, or proposal, or object."  
@@ -121,7 +123,7 @@ KT is egy műsorában saját maga írásából olvassa fel: a közvéleménynek 
 > —  
 > Megpróbálta bebizonyítani, hogy a Jegyzőkönyvek a keresztény civilizáció elpusztítására irányuló összeesküvés részei. A kommunizmus és a kapitalizmus közötti **látszólagos konfliktus** a zsidó uralom füstfüggönye volt, ahogyan azt a Jegyzőkönyvek felvázolták.  
 
-[[F/Fascism\|Fascism]] címnél a bolsevizmus és fasizmus egygyökerűségéről volt szó; azok sem ellentétek.  
+[[F/Fascism\|Fascism]] címnél a bolsevizmus és fasizmus egy-gyökerűségéről volt szó; azok sem ellentétek.  
 Ugyanígy látszólagos ellentét van a politikai [[B/Bal és jobb\|bal és jobb]] oldal között, ahogy ott külön alcím alatt foglalkoztunk is vele.  
 Az [alábbi](https://youtu.be/WsxN4DyIXMw) Ne Legyen Áldozatos videóban PG 9:53-nál szól röviden arról, hogy a valódi útra keresztben lefektetett [[B/Bal és jobb\|bal és jobb]] címnél is taglalt ál-ellentétekre építettek régen és ma is. A háttérhatalom tehát úgy gondolkodik, hogy mindig kettőben kell fellépni és úgy kell tenni (elhitetni), hogy mintha állandóan egymást támadnák. PG itt a Fugger és Medici féle bankházakról beszélt (igaz, megjegyzi, hogy ezek valóban versengtek is egymással és majd tulajdonképpen ugyanazt a képet festi le, mint Facsar Imre, a református és katolikus szétválasztódással kapcsolatosan is).  
 Amiről PG nem beszél, hogy ennek a látszólagos ellentét-párnak a gyökerei is az évkör két, fényes és sötét kategóriáiban keresendők.  
@@ -148,10 +150,10 @@ A vita kereszttüzébe állítanak két elméletet és csak ezen két tábor sz�
 ### Lefedés
 
 A későbbi jövőbeni, [[T/Történelemhamisítás\|történelemhamisítás]] témájához is kapcsolható, de az adott időbeni, akár geopolitikai súlypont-áthelyezés taktikájával tartozhat az, amiről Pap Gábor több előadásában beszél: ez a **lefedés**. Egy kevésbé jelentős esemény elterelő jellegű szándékkal való agyonhangsúlyozása is ide tartozik: ilyen a zsidók Holocaustja (ha még a 6 milliós veszteségük igaz is lenne, a teljes, zsidó világhatalom által kezdeményezett világháborúban a teljes veszteség 100 milliós nagyságrendű), illetve a Black Lives Matter mozgalom beindítására felhasznált Floyd nevű fekete bűnöző megölése is ide tartozik.  
-De adós maradtam PG Ősi Gyökeres felszólalás-szövegével:  
+De adós maradtam Pap Gábor Ősi Gyökeres felszólalás-szövegével:  
 > Fontos tudnunk, hogy a XX. század a "lefedések" százada. Ez azt jelenti, hogy a század folyamán minden valódi keservet egy álkeservvel fedtek le. Ha egyszer én 1920-tól kiszámolom, hogy hány év telt el, s ezt összevetem azzal, hogy 1933-tól 1945-ig hány év telt el; majd összevetem azzal, hogy az egyik miatt hogyan siránkoznak, milyen hangerővel, és a másikért egyáltalán szabad-e sírnunk, akkor az összefüggést nem lehet nem észrevenni. Ha ez valakit semmire nem emlékeztet, akkor idézzük fel 1956 emlékét, amikor a szabadságharc lefedődött valami mással, amit Szueznek nevezünk, pedig jól tudjuk: nem Szuezről volt szó.  
 
-A legnagyobb cover-up az elmúlt 2000 évben a szkíta pogány kereszténységre ráemelt [[J/Judeo-kereszténység\|judeo-kereszténység]] és [[T/Tiszabezdédi tarsolylemez\|tiszabezdédi tarsolylemez]] címnél Grandpierre Atilla által körüljárt új üzenet közvetítése: a zsidó-kereszténység.  
+A legnagyobb "cover-up" az elmúlt 2000 évben a szkíta pogány kereszténységre ráemelt [[J/Judeo-kereszténység\|judeo-kereszténység]] és [[T/Tiszabezdédi tarsolylemez\|tiszabezdédi tarsolylemez]] címnél Grandpierre Atilla által körüljárt új üzenet közvetítése: a zsidó-kereszténység.  
 
 ### Fedőterv
 
@@ -422,7 +424,7 @@ De hát ez az inverz felfogás mindenhol ott van, például [ezen](https://qr.ae
 > Or do you think I'm being ironic?  
 > This is what I got today as my answer on the real background of the Russian invasion got taken down.  
 > —  
-> *Miért jelölték a Quora válaszaimat spamnek?*
+> *Miért jelölték a Quora válaszaimat spamnek?*  
 > Mert a Quora meg akarja védeni az embereket. Ugyanúgy, ahogy Bill Gates is meg akarta védeni az embereket a Covid halálától, emlékszel?  
 > Ezek az emberek (botok, algoritmusok) meg akarnak menteni titeket. Ők (a) filantrópok termékei. Azt akarják, hogy megfelelő információkkal, megfelelő oktatással, megfelelő (vagy mondhatnám: *tutkó*) világnézettel rendelkezzetek.  
 > Vagy azt hiszed, hogy ironizálok?  
@@ -468,7 +470,7 @@ Never. These "languages" are hypothetical. Linguists take all words they find (m
 The problem is that even people who know that these languages never existed use these technical terms to be able to convey what they mean, and through general use, they "come alive."  
 Many, many schools of thought have suffered the same fate.  
 —  
-*Mikor beszélték az ősszláv nyelvet?*
+*Mikor beszélték az ősszláv nyelvet?*  
 Soha. Ezek a "nyelvek" hipotetikusak. A nyelvészek fognak minden szót, amit találnak (a legtöbbet az elmúlt 200-500 évből), beleteszik őket egy zsákba, összekeverik őket, és szabadon vetítik vissza a szóalakokat egy olyan múltba, amelyről semmit sem tudnak. Általában proto-címkéket használnak arra, hogy "nem tudjuk", "kulturális-politikai okokból nem akarunk róla beszélni" stb. De mivel mindez tudományosnak hangzik, és azért is, mert az egyetemeken tanítják, ezek válnak a normává. Alapvetően mindenhol a világon más típusú tudományokkal és ideológiákkal is megpróbálják erőltetni, kényszeríteni, hogy higgy abban, amit ők kitaláltak. És mint jó liberálisok, az emberek bekebelezik. Bármi, ami zavarossá teszi a vizet, ez a hitvallásuk.  
 A probléma az, hogy még azok is, akik tudják, hogy ezek a nyelvek soha nem léteztek, ezeket a szakkifejezéseket használják, hogy át tudják adni, amiről beszélnek, és az általános használat révén "életre kelnek".  
 Sok-sok iskola ugyanerre a sorsra jutott.  
