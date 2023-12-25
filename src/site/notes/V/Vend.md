@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vend/","title":"Vend","tags":["dg_uploaded"],"created":"2023-10-20T10:16","updated":"2023-10-25T02:22"}
+{"dg-publish":true,"permalink":"/V/Vend/","title":"Vend","created":"2023-10-20T10:16","updated":"2023-12-25T06:16"}
 ---
 
 
@@ -10,6 +10,7 @@ Elad, kereskedik.
 #### Magyar Adorján írja:  
 
 > De föltűnő még az is, hogy latin-olasz `venire` = jönni, amely szó nem csak a `ventus`, `vento` = szél szóval, hanem a finn `venee` = csolnakkal valamint a magyar [[V/Vendég\|vendég]] = jövevény szóval is egyezik, valamikor talán éppen hajón utazó és áruit eladni hozó pannónt, azaz vendet, venétet, fönícit jelentett. Egyenesen meglepő egyezés tehát, hogy hiszen – amint láttuk – pannón azaz vend őstörzsünk kereskedő nemzet volt, a latinban, olaszban pedig `vendere` = eladni, árusítani; ami szerint sejthető hogy a vend szónak, illetve névnek még kereskedő értelme is volt.  
+- Lásd még más írását [[V/Venezia\|Velence]].  
 
 Ugyanakkor mivel az igék utólag alkotódnak, mégis inkább a [[V/Vendor\|vendor]] szó eredetét kell vizsgálni. Ha jelentése kereskedő, akkor nyilván nem annyira a Vend-Úr hanem a [[V/Vándor\|vándor]] fogalmát kell keresni benne.  
 
