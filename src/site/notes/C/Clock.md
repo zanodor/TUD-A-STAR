@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Clock/","title":"Clock","tags":["dg_uploaded"],"created":"2023-11-03T12:18","updated":"2023-12-04T01:13"}
+{"dg-publish":true,"permalink":"/C/Clock/","title":"Clock","created":"2023-11-03T12:18","updated":"2023-12-25T10:38"}
 ---
 
 
@@ -10,7 +10,7 @@
 TZs, nyilván a [[C/Calendar\|calendar]] szónál szereplő MA adatok hatására, halad szavunkkal veti össze. A nyelvészet a rokon germán szavakat a középkori latin `clocca` = harang (francia [[C/Cloche\|cloche]] szintén harang) szóhoz köti. Ez utóbbit EP kelta eredetűnek véli, az ír `cloc` és walesi `cloch` alapján. A modern ír nyelvben is `clog` = harang, óra(mű).  
 A szinte azonos, [[C/Clout\|clout]] szónál előjövő óír `cloth` és walesi `clod` = hírnév jelentésű.  
 
-Kolomp szavunk nekünk is van (mely inkább [[C/Clang\|clang]] szóval párosulna). Nehéz másra gondolni mint kondul, kong és hasonló szavakra eredetéül, de mindenképp hangkiadáshoz kötve. Bár ha az időre gondolunk, az rohanhat, szaladhat és akár kulloghat is.  
+[[K/Kolomp\|Kolomp]] szavunk nekünk is van. Nehéz másra gondolni mint kondul, kong és hasonló szavakra eredetéül, de mindenképp hangkiadáshoz kötve. Bár ha az időre gondolunk, az rohanhat, szaladhat és akár kulloghat is.  
 A [[K/KOL\|KOL]] gyököt körüljártuk [[W/Wheel\|wheel]] szónál, amennyiben a harang mégis a [[K/Kor\|kor]]/[[K/Kör\|kör]] = idő jelzéséből neveztetett így el.  
 
 #### Magyar Adorján is írja:
@@ -24,7 +24,7 @@ Akár [[K/Kerek\|kerek]] és [[K/Kerék\|kerék]] szavaink R>L változással is 
 #### Buji Ferenc nyelvész...
 
 ...[[K/Knee\|knee]] címnél szereplő passzusában orosz azonosát találjuk:  
-> Az orosz "térd" jelentésű szónak – `koleno` – más az etimológiája: vagy az "inogni" `kolebaty` szóval van összefüggésben, valószínűbb azonban, hogy a magyar kall ("üt", "ver") ige oroszban is meglévő származékaival (pld. `kolokol`: "harang") függ össze (vö. lábaival kalimpál).  
+> Az orosz "térd" jelentésű szónak – `koleno` – más az etimológiája: vagy az "inogni" `kolebaty` szóval van összefüggésben, valószínűbb azonban, hogy a magyar `kall` ("üt", "ver") ige oroszban is meglévő származékaival (pld. `kolokol`: "harang") függ össze (vö. lábaival kalimpál).  
 
 #### Végvári József...
 
