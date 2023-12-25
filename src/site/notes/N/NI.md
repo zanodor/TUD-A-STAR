@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/NI/","title":"NI","tags":["titleandheadingonedontmatch","multipleentries","stitched","dg_uploaded"],"created":"2023-10-09T04:33","updated":"2023-12-04T08:11"}
+{"dg-publish":true,"permalink":"/N/NI/","title":"NI","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-09T04:33","updated":"2023-12-25T10:40"}
 ---
 
 
@@ -21,4 +21,4 @@ Ni viszont lehet azért földre utaló, mert az anyagot és nem a fényt testes�
 Hasonló végződés, mint a -[[L/LI#Li 2)\|li]]. Masni címnél írják a neten:  
 `Masni` – 'szalagcsokor'.  
 A bajor-osztrák `maschn` ('hurok, kötés, csomó') átvétele (irodalmi német `Masche`); e szavak legősibb jelentése 'szem a hálón', majd 'kötés a hálón', s ebből 'csomó, hurok'. A szóvégi szillabikus n feloldása a szokásos (mint `kalocsni`, `zokni`).  
-Van még `racsni`, `kapucni`.  
+Van még `spulni`, `racsni`, `kapucni`.  
