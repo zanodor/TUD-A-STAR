@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/B/Britain/","title":"Britain","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-11T12:30","updated":"2023-12-04T01:12"}
+{"dg-publish":true,"permalink":"/B/Britain/","title":"Britain","tags":["Englishtexttranslated"],"created":"2023-11-11T12:30","updated":"2023-12-25T11:32"}
 ---
 
 
 # Britain
 
 [[B/Bretagne\|Bretagne]] volt Franciaországban előbb vagy sem, minket most nem ez köt le. A Britain szót akarjuk elemezni. Az is elképzelhető, hogy a két szárazföld az özönvíz előtt összefüggő volt és a két név egy és ugyanaz, csak Bretagne elfrankosodott.  
-A [[B/BAR\|BAR]] ( lásd inkább egyből [[B/BIR\|BIR]]) etimon és valószínűleg a hon szavak bújnak meg benne. A brit kelták nyelve szerint Brython! A hon a hunból ered, a hon haza. Egyesek Barátok Hona, Barátok Hazája kifejezéssel illetik, de PJI nem hozza szóba:  
+A [[B/BAR\|BAR]] etimon és valószínűleg az [[A/AN, ÁN\|AN, ÁN]] ([[B/Baráth Tibor\|Baráth Tibor]]nál ez mindig egyszerűen: hon) elemek bújnak meg benne. A brit kelták nyelve szerint Brython! A hon a hunból ered, a hon haza. Egyesek Barátok Hona, Barátok Hazája kifejezéssel illetik, de PJI nem hozza szóba:  
 > A Brit kétségtelenül valamilyen Berit, Birit forma rövidülése. Bran, Brian, Brennan és hasonlók mind a Bar, Ber, Bir magyar szavak származékai.  
 
 Bretagne nevét összevetik Berthenon-Ville nevével, a város nevében még tiszta a Berthenon név, amely Breton, Bratgne alakra tömörül. Birgit és Birgitta \[lásd [[B/Birghid\|Birghid]]\] neve a Brigitta névben él ma tovább. A régebbiek a kelta-magyar formák, az újabb az indoeurópai forma.
 
 A Briganti (lásd [[B/Brigand\|brigand]]) egy régi törzs neve volt, a Brutális a rombolás szava.  
 
-Az általa említett Berit név előjött [[B/Berith\|Berith]] címnél, minthogy ilyen ugariti isten (nem istennő?) lézetett. Márpedig arról alant is lesz szó, hogy a briteket föníciai eredetűnek mondják (a hiberniai skótokat pedig hébereknek).  
+Az általa említett Berit név előjött [[B/Berith\|Berith]] címnél, minthogy ilyen ugariti isten (nem istennő?) létezett. Márpedig arról alant is lesz szó, hogy a briteket föníciai eredetűnek mondják (a hiberniai skótokat pedig hébereknek).  
 
-PJI nemhogy a [[B/Barát\|barát]]okat, de a birkákat sem említi a brit kontextusban. Ha valahol sok a birka, az a brit szigeteken ma is. A marha és tinó szavak országra, hűbérre vonatkozatásáról Tóth Gyula írt. Itt a birka mellett a birtok, birodalom szavak bir gyökét lehet még látni.  
+PJI nemhogy a [[B/Barát\|barát]]okat, de a birkákat sem említi a brit kontextusban. Ha valahol sok a birka, az a brit szigeteken ma is. A marha és tinó szavak országra, hűbérre vonatkoztatásáról Tóth Gyula írt. Itt a birka mellett a birtok, birodalom szavak bir gyökét lehet még látni.  
 
 Bharat-ot Acharia S (mely forrás alapján?) India eredeti-bennszülött nevének tartja (és maga is Britain nevéhez hasonlítja); tény, hogy WFW könyvében is enlíti a Bharata nevet (képet lásd [[M/Mahabharata\|Mahabharata]]):  
 > First, of course, we come to the Himalaya range, the Himavat of Indian geography. All that portion of the earth lying between this mountain range and the great ocean to the South constitutes one of the seven, or nine, varshas, or divisions of the habitable (upper) hemisphere. Its name is Bharata.  
@@ -23,9 +23,9 @@ Bharat-ot Acharia S (mely forrás alapján?) India eredeti-bennszülött nevéne
 > Először természetesen a Himalája hegyvonulatához, az indiai földrajz Himavatjához érkezünk. A Földnek az e hegyvonulat és a déli nagy óceán között fekvő része alkotja a hét vagy kilenc varsha, vagyis a lakható (felső) félteke egyikét. A neve Bharata.  
 
 Viszont, visszatérve a fentiekre:  
-A britek föníciaiaktól származtatásában szakosodott – egyébként hasznos könyvet író – L. Austine Waddell Barat-Ana kifejezést hoz fel Britannia eredeti nevére. Az, hogy a szintén föníciai kapcsolatokat említő konteo-gyáros David Icke Barat szót a Védákban is talált, nos, lassan észbe kapnának, de magyar tudás nélkül fals eredményeket kapnak.  
+A britek föníciaiaktól származtatásában szakosodott – egyébként hasznos könyvet író – L. Austine Waddell **Barat-Ana** kifejezést hoz fel Britannia eredeti nevére. Az, hogy a szintén föníciai kapcsolatokat említő konteo-gyáros David Icke Barat szót a Védákban is talált...nos, mintha lassan észbe kapnának, de magyar tudás nélkül fals eredményeket kapnak.  
 
-Legutóbb [[B/Barát\|barát]], [[F/Friend\|friend]] és [[P/Perro\|perro]] szavaknál is szóba került a Brit Hon neve. Mivel egyes népnevek és országnevek (asztrális) [[K/Kutya\|kutya]]-vonatkozásúak, elképzelhető, hogy a Barátok Hona is köthető kutyafejűekhez. A [[H/Hon\|hon]] ugye az égi hon, amelynek földre vetítése az ország/haza/hon.  
+Legutóbb [[B/Barát\|barát]], [[F/Friend\|friend]] és [[P/Perro\|perro]] szavaknál is szóba került a Brit Hon neve. Mivel egyes népnevek és országnevek (asztrális) [[K/Kutya\|kutya]]-vonatkozásúak, elképzelhető, hogy a Britannia is köthető kutyafejűekhez. A [[H/Hon\|hon]] ugye az égi hon, amelynek földre vetítése az ország/haza/hon.  
 Valójában a legvalószínűbben Bar-At-Án Nap Atya a Mennyben jelentésű.  
 
 A Quora oldalon volt [egy kérdés](https://qr.ae/TWN8T8) arra vonatkozólag, hogy mi az eredete Nagy-Britannia egyes országneveinek és mit jelenthetnek (vannak jó nagy butaságok is ott). Az egyik válaszadó írja például:  
