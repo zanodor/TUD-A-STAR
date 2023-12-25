@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-30T08:39","updated":"2023-12-05T12:53"}
+{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated"],"created":"2023-10-30T08:39","updated":"2023-12-25T11:21"}
 ---
 
 
@@ -13,7 +13,7 @@
 Folytassuk nyelvészeti síkon, azzal, hogy íj szavunk az [[I/Ív\|ív]] szó változata. Erről sok helyen, legutóbb [[F/Flash\|flash]] címnél is volt szó (ahol kimutattuk, hogy az alant szexualitás résznél részint érintett hímtag görög formájának, a [[P/Phallic\|fallosz]] szónak eredete is nyílvesszőre, Bál-Ős Bal-Orionra megy vissza).  
 Azóta [[I/I\|i]] címnél, külön alcímnél arra is kitértünk, hogy a szóvégi v/j nem is igazán tesz hozzá.  
 [[Y/Yew\|Yew]] címnél volt szó az óangol `īw` (Gerald Massey A Book of Beginnings című könyve második kötetének 380. oldalán `if` formát is közöl) szóról, mely ugye már nem íj, hanem [[T/Tiszafa\|tiszafa]] jelentéssel maradt fenn.  
-Lásd még [[N/Nyíl\|nyíl]] címszót, nemcsak etimológiai vizsgálatért. Asztrál-szexuális vonatkozást és phallosszal kapcsolatos adatokat lásd [[I/Íj csillagkép\|Íj csillagkép]] címnél. Bognár Ferenc Nimrudi hagyományunk Boldogasszony-tisztelete, és Fekete Madonnái című cikkének idevonatkozó adatait [[I/Io\|Io]] istennőről, íj ajzásáról, stb. lásd [[J/Jó\|Jó]] címnél.  
+Lásd még [[N/Nyíl\|nyíl]] címszót, nemcsak etimológiai vizsgálatért. Asztrál-szexuális vonatkozást és phallosszal kapcsolatos adatokat lásd [[I/Íj csillagkép\|Íj csillagkép]] címnél. Bognár Ferenc Nimrudi hagyományunk Boldogasszony-tisztelete, és Fekete Madonnái című cikkének idevonatkozó adatait [[I/Io\|Io]] istennőről, íj ajzásáról, stb. lásd ott ill. [[J/Jó\|Jó]] címnél.  
 
 Az íj és a nyíl rendszere mögött egy olyan ősi magyar csillagászati-filozófiai rendszer húzódik, mely elképesztő távlatokat nyit meg.  
 A nyíl a nőiség (a nőnek kell nyitni, nyílni; már eleve a nyíl a NI, NÉ = nő alapszóból képzett) és a nyílvessző a hímség. Erre alapul a Nyilas-Nyílás évköri rendszer. A magyar alapszavak megjelennek más nyelvekben; magyar [[N/Nyíl\|nyíl]] > \*níl > latin `nihil`, `nihilum` = semmi (a valami hiánya) (lásd [[N/Nihil\|nihil]]).  
@@ -453,8 +453,8 @@ Talán (nyilván, hiszen Szent György anno a tavasz első napjának számított
 [[N/Nimrud#Nimrud íjai Hunor és Magor íjai\|Nimrud íjai Hunor és Magor íjai]] cím/alcímnél tárgyaltuk a kul-obai kurgán lelet két nyilazós "[[A/Arkadash\|arkadash]]"-os kompozícióját, ahol az íjakból ugye ugyanúgy kettő van (ahogy a csillagképekből), mint ahogy [[J/Janus\|Janus]]nak két arca van. Ott a nyilak íránya is mutatja, hogy a felfelé emelt nyíl Magoré (a(z időharcban a) növekvő [[F/Félév\|félév]]re utal), a lefelé tartott Hunoré (tehát nem égi és földi ellenségek ellen harcolnak).  
 Ipolyi Arnold Magyar mythologia című könyvének 577. oldalán szól a nyílvetés határjelölő szerepéről. [[N/Nyíl\|Nyíl]] címnél írottakat is lásd.  
 Legutóbb [[T/Try\|try]] címnél volt arról szó, hogy a próbálkozás a jó útra való kerülés ideáját fejezheti ki (szintén nyilas-íjas tematikára gondoltunk ott, ahogy közben [[B/Brow\|brow]], [[P/Próba\|próba]] és [[P/Prove\|prove]] közösnek vélt eredete kapcsán is).  
-[[T/Tárgy\|Tárgy]] szavunk régebben lőcél, tárgyal pedig célra irányoz jelentésű is volt. Fennmaradt egy szólásban:  
-*Se íja, se tárgya.* (Teljesen felkészületlen vmire.)  
+[[T/Tárgy\|Tárgy]] szavunk régebben lő-cél, tárgyal pedig célra irányoz jelentésű is volt. Fennmaradt egy szólásban:  
+*Se íja, se tárgya.* (Teljesen felkészületlen valamire.)  
 
 ### Íjas-nyilas témák meséinkben
 
