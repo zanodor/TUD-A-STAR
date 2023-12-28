@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/101/Letöltések/","title":"Letöltések","created":"2023-12-28T07:46","updated":"2023-12-28T05:40"}
+{"dg-publish":true,"permalink":"/101/Letöltések/","title":"Letöltések","created":"2023-12-28T07:46","updated":"2023-12-28T09:07"}
 ---
 
 
 # Letöltések
 
-Az alábbi két MEGA webhelyről megtekinthetők és letölthetők magyarság- és igazságkutatással kapcsolatos elektronikus állományok (elsősorban PDF formátumban):  
-[Letöltések I.](https://mega.nz/folder/ErlUXKhR#tgVUMPOC7r5HcDO5-iRIVQ)
-[Letöltések II.](https://mega.nz/folder/xjk10BgK#4Qq0eXPz1t_6qodJkNItKg)
+Az alábbi két MEGA webhelyről megtekinthetők és letölthetők\* magyarság- és igazságkutatással kapcsolatos elektronikus állományok (elsősorban PDF formátumban):  
+- [Letöltések I.](https://mega.nz/folder/ErlUXKhR#tgVUMPOC7r5HcDO5-iRIVQ)
+- [Letöltések II.](https://mega.nz/folder/xjk10BgK#4Qq0eXPz1t_6qodJkNItKg)
 
 Használja a keresőt (search) bármely webhelyen a keresett állomány megtalálásához (már ha fel lett töltve bármelyik tárra is).  
 
@@ -25,3 +25,6 @@ Használja a keresőt (search) bármely webhelyen a keresett állomány megtalá
 - [Tóth Gyula – Szkítiától Maghrebig (blog)](https://mega.nz/file/42MExTTT#3gyd8arW9OnZgzN5VRPXIPAzAid-FJ2zPo7vlW9Lfuw)
 - [TeSz (Történeti-etimológiai szótár)](https://mega.nz/file/1zcCGYTA#McThRTg_bbn-caL-eF-9zvl3f__8xVJbawNY07XSavA)
 - [Drábik János](https://mega.nz/folder/oqU21TKQ#Z1yGjMKiJXrT9aynnfYFWg)
+
+\* A legoptimálisabb megoldás MEGA-ra regisztrálni, a 20GB-os ingyenes csomagot választani, és úgy kattintani ezen – a teljes feltöltött állományra vonatkozó – linkekre ([I.]((https://mega.nz/folder/ErlUXKhR#tgVUMPOC7r5HcDO5-iRIVQ) és [II.](https://mega.nz/folder/xjk10BgK#4Qq0eXPz1t_6qodJkNItKg)), hogy az ember már be van jelentkezve a saját MEGA-ján, mert így lehetőség nyílik a menteni kívánt file-okat saját MEGA-ra és utána az egyes könyveket, cikkeket kényelmesen egyesével a saját fiókról le lehet tölteni.  
+Értelemszerűen a Letöltések I. és Letöltések II. ilyen módon való elmentéséhez 2x20GB méretű fiókra lesz szükség.  
