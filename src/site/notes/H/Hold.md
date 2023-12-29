@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","stitched","dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2023-12-03T06:15"}
+{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2023-12-29T11:40"}
 ---
 
 
@@ -57,7 +57,7 @@ Az arámi lexikon [ezen](http://cal.huc.edu/oneentry.php?lemma=kwdh+N&cits=all) 
 Hogy itt most a kutyára, a Tejútanya [[S/Szuka\|szuka]] állatalakjára történt utalás, vagy a lábjegyzetben írottak szerint a Holdra, ezt kellene eldönteni.  
 
 Ki kell azt is jelenteni, hogy a [[K/Kutya\|kutya]] (kuta) és Hold szavaink ugyan nem teljesen azonos felépítésűnek (Ku-Ta <> Hu-Da) gondolhatók, de mégis azok.  
-[[Y/Yehuda Berg\|Yehuda Berg]] író nevében is ez a Hu-Da alak szerepel.  \[Valójában Yehuda a [[J/Júda\|Júda]] alak hehes változata.\]  
+**Yehuda Berg** író nevében is ez a Hu-Da alak szerepel.  \[Valójában Yehuda a [[J/Júda\|Júda]] alak hehes változata.\]  
 
 #### Falvay Károly Nagyboldogasszony...
 
@@ -267,7 +267,7 @@ Kráterek: Becsapódásos képződmények, nagyságuk a cm-es mérettől egésze
 
 Thalasszoidok: Medence nagyságú mélyedések a felföldek területén, óriáskráterek. Méretük mare medencék nagyságrendjébe esik, fenekük azonban világos színű kéreganyagból áll, főleg a Hold túloldalán fordulnak elő. Létrejöttük oka, hogy a túloldalon vastagabb a kéreg, így a nagyobb becsapódások közül csak kevés tudta azt átszakítani, és a magmát a felszínre juttatni.  
 
-Sugársávok: A nagyobb, fiatal kráterekből sugárirányban szétágazó, többszáz km hosszú keskeny sávok, amelyek minden útjukba eső formáción áthaladnak. Általában világos árnyalatúak, csak magas napállásnál figyelhetők meg. Létük egyelőre nem tisztázott, vagy a becsapódások által kidobott anyagszemcsék alkotta vékony törmeléktakarók, vagy ugyancsak a becsapódások által kidobott anyag formálta apró kráterek milliói.  
+Sugársávok: A nagyobb, fiatal kráterekből sugárirányban szétágazó, több száz km hosszú keskeny sávok, amelyek minden útjukba eső formáción áthaladnak. Általában világos árnyalatúak, csak magas napállásnál figyelhetők meg. Létük egyelőre nem tisztázott, vagy a becsapódások által kidobott anyagszemcsék alkotta vékony törmeléktakarók, vagy ugyancsak a becsapódások által kidobott anyag formálta apró kráterek milliói.  
 
 Vulkanikus képződmények: Legnagyobbak a becsapódásos medencék bazaltlávával feltöltött területei. Ezeken a helyeken nem alakultak ki vulkanikus hegyek, a köpenyből feltörő lávák laposan szétfolytak a mélyedésekben. Csak kis szintkülönbségek találhatók rajtuk: lépcsők, lávafolyások frontvonalai. A medencéket feltöltő vulkanikus tevékenység kb. 3 milliárd évvel ezelőtt ért véget.  
 
