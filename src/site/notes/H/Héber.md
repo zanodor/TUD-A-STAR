@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2023-11-02T06:41"}
+{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2023-12-29T02:49"}
 ---
 
 
@@ -33,8 +33,9 @@ Az [alábbi](https://en.m.wikipedia.org/wiki/Hebrews) oldal is többféle etimol
 Egyes kutatók, ahogy MA is, a héberek nevét a [[K/Kabar\|kabar]]ok nevéhez kötik:  
 > A zsidók héber neve valamely kabar eredetű törzse nevéből származott, amit igazol az is, hogy a kecskére hasonlító, ma zsidósnak nevezett, de tulajdonképpen kabar, arcjelleg is nálunk van meg máig is.  
 
-#### Péterfai János amit ír:  
+#### Péterfai János...  
 
+...amit ír:  
 > A Kabarok nevét egyesek a Héberek nevének változataként tartják számon. A Habar, Heber, \[Hever\], Éber, Kavar, Kever, Héber, meg a Hadar, Hebeg többségében a zsidókat jelölő szavak[^2].  
 - Valójában évköri eredetű az alapnevük és nem is a sajátjuk.
 
@@ -65,7 +66,7 @@ Adott tehát egy Tejutas és egy kutyás levezetési lehetőség. Igen ám, de a
 
 
 Visszatérve az Éber – Héber párhuzamra, valahol PJI is úgy írta (talán Fáy és mások adata nyomán), hogy az Éber a Héber változata. [[E/Éber\|Éber]]nek Eb-Úr (nem Eb-Erő) olvasatot ad, mondhatjuk helyesen.  
-Namármost a [[S/Scot\|Scot]] és [[S/Szkíta\|szkíta]] címnél (főleg előbbinél) John Carey (és azóta mások) írása nyomán szóba került a kelta-héber kapcsolat, azért is mert a keltáknál is szerepelt egy Éber Scot (másutt Ebur Scot) nevű ős/törzsfő, mely név azonos a héber Éber ősapa-névvel. Több weboldal és szerző foglalkozik a kelták héber eredetével (ahogy az angolok szkíta eredetével is a brit izraeliták).  
+Na mármost a [[S/Scot\|Scot]] és [[S/Szkíta\|szkíta]] címnél (főleg előbbinél) John Carey (és azóta mások) írása nyomán szóba került a kelta-héber kapcsolat, azért is mert a keltáknál is szerepelt egy Éber Scot (másutt Ebur Scot) nevű ős/törzsfő, mely név azonos a héber Éber ősapa-névvel. Több weboldal és szerző foglalkozik a kelták héber eredetével (ahogy az angolok szkíta eredetével is a brit izraeliták).  
 
 Craig White The True Roots and Origin of the Scots című skótokat zsidó származásúnak beállító kiskönyvében írja:  
 > A theory that has been in circulation is that the descendants of Shelah and Er intermarried with the Canaanites/Phoenicians which created an interwoven mixture which was anti-Israel and anti-Judah. It is this group which gave rise, at least in part, to the anti-British Sinn-Fein in Ireland (~~a name likely derived from Phoenician and Fenian~~). Their attitude seems to be derived from their forefathers (Num 33:55). Indeed, the region of [[S/Spain\|Spain]] that the Canaanites/Phoenicians settled in Spain was known in ancient times as Eis Feine.  
@@ -113,14 +114,14 @@ Lentebb szó esik még indo-európai folyópart jelentésűnek megadott szóról
 J. Ellard Gore – Astronomical Curiosities című könyvében (ahogy [[S/Szíriusz mozgása\|Szíriusz mozgása]] címnél láttuk), előjön a Szíriusz arab al-schira al-abûr neve, szó szerint, Szíriusz ami, átkerült (a másik oldalra), és elmondja az arab történetet is arról, hogy kelt \[volna\] át a Tejúton a déli régióba, [[C/Canopus\|Canopus]] (egy újabb kutyával kapcsolatba hozható név) irányába.  
 William Tyler Olcott Star Lore of All Ages című könyvében egyszerűen Al-Abur \[másutt Al-Habur\] jön elő (azonos jelentéssel). [[E/EB\|EB]] és [[I/Ivory\|ivory]] címnél hasonló szavak jöttek elő, így nem biztos, hogy éppen ezt jelenti. [[H/Habiru\|Habiru]] címnél korábban arról volt szó, hogy az "átkelés tárgya," a Tejútfolyam ilyen neve nyomán alakulhatott ki ez az ige, de a fentebb írottak alapján már tudjuk, hogy mégsem.  
 
-Az egész fentebb taglalt téma fogalmi/csillagászati háttere, hogy a Nap amikor a Kutyacsillaggal együtt áll, átkel a Tejút sávján. De maga a [[P/Psychopomp\|psychopomp]] kutyáról is ismert a liminális/határmenti szerepköre; a [[H/Határ\|határ]] pedig az átjárás igéjét eredményezi. Kátay-Barba Rafael Péter, a Kynologia írója is használja [[K/Kutya Görögországban\|kutya Görögországban]] címnél az átjár szót.  
+Az egész fentebb taglalt téma fogalmi/csillagászati háttere, hogy a Nap amikor a Kutyacsillaggal együtt áll, átkel a Tejút sávján. De maga a [[P/Psychopomp\|psychopomp]] kutyáról is ismert a liminális/határmenti szerepköre; a [[H/Határ\|határ]] pedig az átjárás igéjét eredményezi. Kátay-Barba Rafael Péter, a Kynologia írója is használja [[K/Kutya Görögországban\|kutya Görögországban]] címnél az átjár szót.  
 [[A/Ajtó#Ajtó – hajtó\|Ajtó – hajtó]] cím/alcímnél is írtuk, hogy az ajtó átjáró is, de a liminális/határmenti [[P/Psychopomp\|psychopomp]] kutya szintén átjár.  
-A jár fogalma mellett a vándorlás, utazás fogalmai kapcsán említhető, hogy a [[T/Travel\|travel]] címnél álló szó, a [[Y/Yacht\|yacht]] címnél említett szláv szavak eredete is téridőbeli helyekre vezethető vissza.  
+A jár fogalma mellett a vándorlás, utazás fogalmai kapcsán említhető, hogy a [[T/Travel\|travel]] címnél álló szó és a szláv `jehat`, `jahat` utazást, lovaglást jelentő szavak eredete is téridőbeli helyekre vezethető vissza.  
 Természetesen az átjárás a Nap négy fordulópontjára utalva keresztez igével is megfeleltethető.  
 
-#### Jankovics Marcell adatsora A fa mitológiája 217. oldaláról...
+#### Jankovics Marcell A fa mitológiája...  
 
-...való ([[T/Téli napforduló\|téli napforduló]] címnél is szerepelt akkád pecséthenger mellékszövegeként):  
+...című könyve 217. oldaláról való adata ([[T/Téli napforduló\|téli napforduló]] címnél is szerepelt akkád pecséthenger mellékszövegeként):  
 > A keresztút nemcsak fordulópont, hanem átkelőhely is a Nap számára. Átkelőhely egyik évszakból a másikba, a Föld alól a levegőégbe: a felvilágba, s onnét ismét a látóhatár mögé: az alvilágba. (Átkelőhely a másik két keresztút is, a tavaszi és őszi napéjegyenlőség helye, ahol a nappálya és az égi egyenlítő metszi egymást. Csillagászati szempontból ui. az egyenlítő választja el az északi és a déli égboltot. Amikor a Nap ősszel az egyenlítő alá merül, akkor lép be tk. az alvilág kapuján, és amikor tavasszal az egyenlítő fölé emelkedik, akkor tér vissza a felvilágba.) A téli és nyári átjárók, "kapuk" közül, ahogy az ókorban nevezték (lásd a pecséthenger képét), a téli kapu a fontosabb, mivel ez volt az év kapuja, az év fordulójának a helye is. Kapu formája is inkább a téli átjárónak van, mivel a Tejút itt nemcsak kiszélesedik, hanem egy "[[F/Fekete lyuk\|fekete lyuk]]at" közrefogva két ágra, "kapufélfára" is hasad. Mindez a téli átjáró gazdagabb mitológiájában is kifejeződik.  
 
 És még mindig a kutyánál, Szíriusznál maradunk akkor, ha a téli napfordulós együttállásra gondolunk. [[H/Hibernate\|Hibernate]] címnél frissen írottakat lásd.  
@@ -153,7 +154,7 @@ Lásd [[H/Hykszosz#^wsupgg\|hikszosz]] címnél.
 
 Egy ideje érlelődik bennem, hogy a [[S/Szemiták és árják\|szemiták és árják]] címnél írottak folytatásaként a görög demokráciának szemita eredetet kell keresni.  
 
-A Quorán az albán nacionalista Ken Pira hívja fel a figyelmet a görög nevet érintő Etimonline adatára:  
+A Quorán az albán nacionalista Ken Pira hívja fel a figyelmet a görög nevet érintő Etymonline adatára:  
 > Old English Grecas, Crecas (plural) "Greeks, inhabitants of Greece," early Germanic borrowing from Latin Graeci "the Hellenes," apparently from Greek Graikoi. Aristotle, who was the first to use Graikhos as equivalent to Hellenes ("Meteorologica" I.xiv), wrote that it was the name originally used by Illyrians for the Dorians in Epirus, from Graii, native name of the people of Epirus.  
 - Itt különösen az Epir névre hívnám fel a figyelmet, a héber szó összevetésének lehetősége miatt. [Ezen](https://en.wikipedia.org/wiki/Epirus) oldalon arról van szó, hogy ez a hegyes terület lenne az ókori Görögország szárazföldi része. Még az is lehet, hogy a név hegyre utal.  
 A Wiki oldal etimológiai része:  
