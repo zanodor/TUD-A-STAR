@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","tags":["dg_uploaded"],"created":"2023-10-09T06:36","updated":"2023-10-25T01:44"}
+{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","created":"2023-10-09T06:36","updated":"2023-12-29T09:00"}
 ---
 
 
@@ -7,19 +7,21 @@
 
 Bevezetést lásd [[E/Etymon\|etimon]] és [[M/Magyar nyelv – ősnyelv-e a magyar\|magyar nyelv – ősnyelv-e a magyar]]?  
 
-Ősműveltségében MA írja [[K/Kő\|kő]] szavunk kapcsán:  
+#### Magyar Adorján Ősműveltség...  
+
+...című könyvében [[K/Kő\|kő]] szavunk kapcsán írja:  
 > Az igazi ősszavak mindig egytagúak, mivel egyszerű hangadásokból keletkeztek, és természetesen mindig olyan dolgokat neveznek meg, amelyeket már az ősember is ismert, vagyis olyanokat, amelyek a természetben fordulnak elő, mint például kő, főld, víz, fa, fú stb., stb. Mihelyt tehát valamely szó többtagú, akkor az csakis valamely egytagú ős-szó származéka lehet. Eszerint kétségtelen, hogy nemcsak a szláv `kamen`, hanem a finn `kive` = kő szó is a mi kő szavunk származéka.  
 - MA más írását lásd [[M/Magyar két-, három- és négy hangból álló istenségnevek\|magyar két-, három- és négy hangból álló istenségnevek]] címnél. MA elmélete szerint a főisten neve egymássalhangzós, a Napistené már kétmássalhangzós. <br/>
-Ha már kő, Baráth Tibor A magyar népek őstörténete I. 80. oldalán [[J/Jerikó\|Jerikó]] nevében mutatja ki a kő = föld alapszót és tesz utalást a magyar nyelv szavainak szótagnyelv-szerkezetére:  
+Ha már kő, Baráth Tibor A magyar népek őstörténete I. kötetének 80. oldalán [[J/Jerikó\|Jerikó]] nevében mutatja ki a kő = föld alapszót és tesz utalást a magyar nyelv szavainak szótagnyelv-szerkezetére:  
 > Ezekben a földrajzi nevekben kétségen kívül ősrégi egytagú magyar szavak szerepelnek.  
 
 #### Péterfai János írása:  
 
 > A gyerekmondókák általában nagyon régi korból származnak, ami miatt rendkívüli értéket képviselnek. Olyan régi korból, amikor még a szótag nyelv létezett, az emberek szótagokkal beszéltek, mert a szótagok voltak a szavak. Abban az időben még nem léteztek indoeurópai nyelvek, és az afroázsiai nyelvek sem terjedtek el nagy területekre. Az indoeurópai nyelveknek meg kellett várniuk a szavak kiteljesedését, amiből aztán felgyorsulhattak, lerövidülhettek, elsősorban a magánhangzók kivetésével, és megjelenhettek a minden szótagot, vagyis eredetileg minden szót kimondó nyelvekből, nyelvjárásokból.  
 > Itt bejön a Szótagolás és az eszetlenség által kitalált Darabolás eljárás. Ha valaki Darabolja a szavainkat, nagyon rosszat tesz. Fogalma sincs a magyar nyelvről, sem a többi magyar származású nyelvről. Tilos a Darabolás! A Szótagolás a helyes művelet, amikor egy szóban ismerjük a szótagok jelentését, akkor az egész szó jelentése is teljesen világos. Vigyázat, legnagyobb nyelvészeink sem ismerték fel ennek a módszernek a hibáit, és gyakran tévútra vezették a magyar nyelvtudomány igazi kutatóit. A morfémák felismerése tehát rendkívül fontos. A magyar nyelv módszereinek kutatását külön írásban adtam meg, aminek a címe: Éden nyelve.  
-- Ezt tőle nem találom.  
+  
 
-Mint kiderül Rédei Károly Őstörténetünk kérdései című okoskodás-gyűjteményéből (ahol a több helyen idézett Hegedűs Józsefhez hasonló dilettáns nyelvhasonlítási kísérletekről ír), [[K/Kúr Géza\|Kúr Géza]] volt vagy lehetett egyik űttörője annak, hogy a szavakat szótagszinten kell értelmezni:  
+Mint kiderül Rédei Károly Őstörténetünk kérdései című okoskodás-gyűjteményéből (ahol a több helyen idézett Hegedűs Józsefhez hasonló dilettáns nyelvhasonlítási kísérletekről ír), Kúr Géza volt vagy lehetett egyik úttörője annak, hogy a szavakat szótagszinten kell értelmezni:  
 > Az etruszk-magyar rokonság híve Kúr Géza (Etruszkok Magyarországon? Ohio, Warren 1970; Az etruszk-magyar rokonság I-II. uo. 1966, 1968). Kur eljárása az, hogy a magyar szavakat szótagokra bontja és azokat egyezteti etruszk szavakkal. Például: etruszk `ax` ~ m. ah 'sóhajtás, óhajtás, vágy; emelkedni, jobb sorsa kerülni'; etruszk `mar` ~ m. marad.  
 
 Valójában az [[I/Indogermán nyelvészet\|indogermán nyelvészet]] címnél Götz László által említett A. Pictet (Les origines Indoeuropéennes on les Aryas primitifs, essai de paléontologie linguistique (1859-63)) lehetett az első, aki szóösszetételekkel, szóelválasztásokkal dolgozott. GL amit ír:  
@@ -42,6 +44,10 @@ A mássalhangzó-vázban a mássalhangzók szervrokonokkal (kategórián belül)
 A leginkább ismert és alkalmazott mássalhangzó-változások/cserék a P, B, V, F hangok között vannak (Pater, Bátor, Vezér, Fószer/Fasz-Úr például).  
 
 Ró-Ma például tipikus magyar kifejezés, hiszen Nap és a Föld egymáshoz való kapcsolatáról szól. Tulajdonképpen ez az alapséma. Hiszen ez határozza meg életünket (mi másra alapoznánk?).  
+Nyilván sokan ágálnának az ellen, hogy sok (néha úgy tűnik, szinte minden) magyar szó Nap az Égen, Nap-Föld, Nap Háza és hasonló jelentésű alapszavakból összeálló szókapcsolatból lenne kialkotható. De valóban, ha pl. a [[B/Bárány\|Bárány]] (Nap az Égen) és [[B/Barom\|Barom]] (Nap a Földön) szavakat nézzük, nehéz mást mondani, mint hogy a szavak azért állnak ilyen tagokból, mert:  
+1\. a Nap és éltető ereje nélkül nincs élet és így élőlény sem a Földön;  
+2\. nem mellékesen ezen állatok (gondoljunk a Bárány, Kosnak megfelelő ind nakshatra Bharani párjára) az égre is felkerültek és a Nap ezen házakban való tartózkodását a fölről nézve állapítjuk meg és a Nap Földre és élőlényeire kifejtett hatását kívánjuk nyomon követni ezzel.  
+
 A folyók az égi Tejút alternatív nevei, a hegyek a Naphoz tartoznak (lásd erről bőven [[H/Hímség és nőiség\|hímség és nőiség]]). Az országok eredetileg égi területek ([[E/Éden\|Éden]] is). [[N/Nép\|Nép]]ek a [[N/Nap\|Nap]] vagy annak anyja után neveztetnek el, illetve egyes fontos csillagképek után (Hunor nyári, Magor téli napfordulós születés). Stb.  
 Az esetek nagy százalékában a Nap jelentésű szó van elöl (Ró, Tu(r), Du, Sza, Szak, Szek, Szik, Tak, Tek, Teg, Tik, Mag, Bog, nem sorolom el mind a kb. 150-200-at) és a Föld (Ma, Da, Ta), Hely (La, Da), Ház (Ga, Na, stb.) illetve az Ég/Menny (Án) jelentésű etimon a második helyen (az Án/Ány végződés Eget jelent; Cig-Ány (Szik-An), Pog-Ány, Bak-Ony mind Nap az Égen jelentésű). Állhat második helyen Ház (Ga, Ha, Na, stb.) jelentésű etimon (akár mint birtok értelemben; lásd [[G/GA\|GA]]), valamint Úr jelentésű szavak (Ér, Ár, stb. változatokban).  
 
@@ -78,4 +84,4 @@ Lásd még legutóbb [[M/Magyar szavak idegen nyelvekben\|magyar szavak idegen n
 A szumer nyelvet négy magánhangzóval értelmezik, az U, A, E, I hangzókkal, mintha a többi magánhangzót nem ismerték volna rokonaink.  
 
 [^2]: Lábjegyzet:  
-[[C/Chance\|Chance]] címnél legutóbb arra próbáltunk rájönni, hogy az esés napi időkörre vonatkozó vagy kis évesre. Másutt is volt hasonló dilemma, de nem emlékszem a szócikkre.  
+[[C/Chance\|Chance]] címnél legutóbb arra próbáltunk rájönni, hogy az esés napi időkörre vonatkozó vagy kis évesre.   
