@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/R/Ragozó nyelvek/","title":"Ragozó nyelvek","tags":["containstransclusions"],"created":"2023-12-23T10:29","updated":"2023-12-23T10:29"}
+{"dg-publish":true,"permalink":"/R/Ragozó nyelvek/","title":"Ragozó nyelvek","tags":["containstransclusions"],"created":"2023-12-23T10:29","updated":"2023-12-29T09:02"}
 ---
 
 
@@ -17,7 +17,7 @@ A [[G/Genetika\|genetika]] címnél taglalt Árkay féle cikk megállapításait
 
 #### Magyar Adorján írja:
 
-> A magyar és az árja nyelvek közötti alapvető különbség abban van, hogy az ősmagyarság nyelve más őskeletkezésekor [[U/Utóvető\|utóvető]] szellemű volt, vagyis mindig az lett benne előbb mondva amiről tulajdonképpen szó van, vagyis ami a fontosabb és csak ezután az ami a fődologról mondatott. Például: "atya enyém tőle", amiből azután atyámtól lett, és ami így egy szóvá lett, mert az enyém és a tőle szó raggá alakulhatott. Holott az árja népek nyelve más őskezdettől fogva elővető volt, vagyis bennük előbb mondatott mindaz ami mellékesebb, vagyis mindaz ami az illető fődologról mondva lett és csak legvégül mondatott meg, hogy tulajdonképpen miről is van szó. Például a németben: "von meinem Vater", az olaszban: "da mio padre", a szerb-horvátban: "od moja otca" = tőle enyém atya. Amiért is a mellékes szavakból nem képződhettek ragok és így a nyelvezet hosszadalmasabb, nehézkesebb maradott mert nem lett képest egy szóval, hanem csak három, néggyel megmondani, azt amit a ragozó magyar nyelven egyetlen szóval megmondhatni.  
+> A magyar és az árja nyelvek közötti alapvető különbség abban van, hogy **az ősmagyarság nyelve más őskeletkezésekor utóvető szellemű volt**, vagyis mindig az lett benne előbb mondva amiről tulajdonképpen szó van, vagyis ami a fontosabb és csak ezután az ami a fődologról mondatott. Például: "atya enyém tőle", amiből azután atyámtól lett, és ami így egy szóvá lett, mert az enyém és a tőle szó raggá alakulhatott. Holott az árja népek nyelve más őskezdettől fogva elővető volt, vagyis bennük előbb mondatott mindaz ami mellékesebb, vagyis mindaz ami az illető fődologról mondva lett és csak legvégül mondatott meg, hogy tulajdonképpen miről is van szó. Például a németben: `von meinem Vater`, az olaszban: `da mio padre`, a szerb-horvátban: `od moja otca` = tőle enyém atya. Amiért is a mellékes szavakból nem képződhettek ragok és így a nyelvezet hosszadalmasabb, nehézkesebb maradott mert nem lett képest egy szóval, hanem csak három, néggyel megmondani, azt amit a ragozó magyar nyelven egyetlen szóval megmondhatni.  
 
 ## A magyar nemcsak ragozó nyelv
 
