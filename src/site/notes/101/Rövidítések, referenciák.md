@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Rövidítések, referenciák/","title":"Rövidítések, referenciák","created":"2023-10-04T07:50","updated":"2023-12-15T01:37"}
+{"dg-publish":true,"permalink":"/101/Rövidítések, referenciák/","title":"Rövidítések, referenciák","created":"2023-10-04T07:50","updated":"2023-12-30T09:30"}
 ---
 
 
@@ -94,6 +94,7 @@ SZL - Szántai Lajos
 SzGy - Száraz György  
 SzK - Szőcs Katalin  
 TG - Toldy Géza  
+TGy - Tóth Gyula  
 TKS - Tímár Sándor AKA Timaru-Kast Sándor  
 TZs - Tomory Zsuzsa  
 VCs - Varga Csaba  
