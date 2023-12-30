@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-13T01:11","updated":"2023-11-21T10:57"}
+{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated"],"created":"2023-10-13T01:11","updated":"2023-12-15T01:50"}
 ---
 
 
@@ -23,7 +23,7 @@ A víz értelmét tekintve jejes párjai [[A/AJ\|AJ]] és [[J/JA\|JA]] (jó).
 Az egyes szavak és nevek értelmezésekor több esetben egy szóvégi feleslegesnek tűnő vagy éppen túlmisztifikált (isteni?) A szerepel, mint például [[A/ANA\|ANA]], [[A/Apa\|apa]], tájjellegű magyar/perzsa [[Z/Ziba\|ziba]] (szép), valamint az [[A/Atilla hun király\|Atilla]], [[G/Géza\|Géza]], [[G/Gyula\|Gyula]], [[B/Béla\|Béla]] és akár [[D/Dózsa\|dózsa]] ([[B/Buda\|Buda]] nyilván nem ide tartozik bár a Bud-A felbontást sem zárnám ki, [[B/Búza\|búza]] alapján) (rang)nevekben vagy akár [[T/Teuta\|Teuta]], [[H/Hesztia\|Hesztia]], [[L/Luca\|Luca]], [[E/Éva\|Éva]] és [[A/Ankisza\|Ankisza]] nevében. A magyar-bibliai [[S/Sára\|Sára]] névvel is ez a helyzet.  
 A bengáli `boga` = hímtag szóban is a nap [[B/BOG\|BOG]] neve szerepel és az -a nem kell, ahogy [[B/Boka\|boka]], [[B/Bika\|bika]], [[P/Pálya\|pálya]], [[P/Pára\|pára]] és [[P/Pogácsa\|pogácsa]] szavunkban sem (másutt, például [[B/Bogyó\|bogyó]] szóban nem -a szerepel). [[I/Isa\|Isa]], különösen [[L/Lélek#Isa, por és hamu\|isa, por és hamu]] cím/alcímnél írottak alapján, sem más mint [[I/Íz\|íz]]. Acsa és [[A/Ács\|ács]] között is feltártuk közben a kapcsolatot. (Keress rá a témára másutt is balanszírozás kulcsszavakkal[^1].)  
 A [[D/Duna\|Duna]] és [[T/Tisza\|Tisza]] Tejútfolyamok nevében szintén kvázi felesleges a szóvégi -a, bár Du-Na értelmes. Kalocsa és nyilván más településnevekben szintén szerepelhet a szóvégi -a. Legutóbb [[B/Béna\|béna]] és [[S/Sánta\|sánta]] szavak kapcsán ötlött fel az itteni téma.  
-Hasonló eset lehet [[B/Bölcső\|bölcső]], [[T/Tüsző\|tüsző]], és hasonló szavakban (amennyiben főnevekről van szó).  
+Hasonló eset lehet `bölcső`, `tüsző`, és hasonló szavakban (amennyiben főnevekről van szó).  
 ([Ezen](http://epa.oszk.hu/01400/01445/00015/pdf/acta_hungarica_2016_1_028-032.pdf) oldalon Nógrády Mihály ír az -a képzőről, már ha lehet vele kezdeni valamit.)  
 
 Amikor [ezen](https://qr.ae/pG1gGA) John Comper féle válaszra adott David Mandic féle kommentre válaszoltam, nagyon érdekes dolog ötlött fel. Igazságtartalmát fenntartom:  
