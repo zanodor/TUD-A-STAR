@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Betyár/","title":"Betyár","tags":["dg_uploaded"],"created":"2023-10-05T03:21","updated":"2023-11-09T07:08"}
+{"dg-publish":true,"permalink":"/B/Betyár/","title":"Betyár","created":"2023-10-05T03:21","updated":"2023-12-30T08:32"}
 ---
 
 
@@ -11,8 +11,9 @@ Betyár szavunk is közrejátszhatott kialakulásában, nemcsak a latin [[P/Pate
 Ami a név elemzését illeti, hasonló hozzá [[B/Bátor\|bátor]] és [[P/Péter\|Péter]] (melyek mindketten a latin [[P/Pater\|pater]]-rel is összevethetők, de [[P/Patron\|patron]] szónál pátyolgatásról is volt szó), mely az Erő Háza értelmű. Robin Hood nevében [[R/Robin\|robin]] a Nap Házát jelenti.  
 Bet-Jár értelemben kb. ott a háza, ahol jár, azaz sehol, vagy éppen a dutyiban, vagy Pit-Jár értelemben úgy és ott jár, mint a csillagok, és mielőtt lehunyja a szemét, azokat látja (szabad ég alatt alszik).  
 
-#### Péterfai János hasonlóképp szól róla:  
+#### Péterfai János...  
 
+...hasonlóképp szól róla:  
 > Betyár szavunkat az Avesztából[^1] és a török nyelvből is eredeztetik, Gonosztevő, Hitetlen lenne az értelme. De a Betyár nem gonosztevő, nem hitetlen, hanem az elnyomó hatalom ellen harcol. A Betyárság bealkonyulása idején sok valódi gazember bűnöző vette fel a Betyár nevet, tehát összekeveredtek a bűnözők a valódi szabadságharcosokkal..  
 
 >
@@ -35,7 +36,7 @@ Sokatmondó a Siklósi András Rózsa Sándor, a leghíresebb betyár című cik
 
 ![assets/Betyár_image3.png](/img/user/B/assets/Bety%C3%A1r_image3.png)  
 Molnár V. József Világ-Virág című könyvének 168. oldalán közli a "[[V/Verekedő betyárok\|Verekedő betyárok]]"-at. A 166. oldalon elemzi is a képet, némiképp másként mint PG teszi egyik-másik előadásában. A képet (színes változatában) [[E/Ember#Ember szavunk Íjas (Íjász) értelme az Ikrek jegyére vonatkoztatva\|ember]] címnél, Ikrek témában is bemutatom.  
-Híres betyárunk a fentebb említett [[R/Rózsa Sándor\|Rózsa Sándor]]. Az ott említett Siklósi András féle cikkben nem csak róla volt szó.  
+Híres betyárunk a fentebb említett Rózsa Sándor.  
 
 ## Lábjegyzetek
 
