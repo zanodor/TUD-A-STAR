@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar szavak, szórészek alakváltozatai/","title":"Magyar szavak, szórészek alakváltozatai","created":"2023-11-04T11:49","updated":"2023-12-23T08:17"}
+{"dg-publish":true,"permalink":"/M/Magyar szavak, szórészek alakváltozatai/","title":"Magyar szavak, szórészek alakváltozatai","created":"2023-11-04T11:49","updated":"2023-12-30T08:29"}
 ---
 
 
@@ -51,7 +51,7 @@ A magyar nyelv működése például megfigyelhető a [[G/Gyalog\|gyalog]] szavu
 Nemcsak a [[D/Dévaj\|dévaj]] szó az, ami megegyezik a [[D/Devil\|devil]] szóalakkal. A [[D/Dévaj\|dévaj]], [[T/Téboly\|téboly]] és [[T/Tévely\|tévely]] szavak mind egymás alaki változatai. Különösen a [[D/Diabolic\|diabolic]] eredetét megmutató téboly tűnik a [[D/Devil\|devil]] eredetét megmutató `tévely`-ből létrejöttnek.  
 
 [[D/Dajka\|Dajka]] és [[L/Levente\|Levente]] címnél volt arról legutóbb szó, hogy már a magyar nyelvben belső fejlődéssel megtörténik egyes szóelemek szándékos változtatása, hogy egy új szó kialkotásra kerüljön. Így dajka előtagja nyilván [[T/Tej\|tej]] és Levente értelme tulajdonképpen Oroszlán-Nap.  
-Molnár V. József az [alábbi](https://youtu.be/7gMQuvM4Dm0) videóban 19:00-nál azt mondja, hogy **a magyar rokonító nyelv, mellyel egyedüli Európában**. Tulajdonképpen ő ezzel szintén a magyar szavak alaki változatáról beszél. (Itt egyébként a [[S/Siker\|siker]]t a [[S/Sugár\|sugár]] szóval rokonítja (ahogy mondja, a búzában benne aluszik a Nap).)  
+Molnár V. József az [alábbi](https://youtu.be/7gMQuvM4Dm0) videóban 19:00-nál azt mondja, hogy **a magyar rokonító nyelv, mellyel egyedüli Európában**. Tulajdonképpen ő ezzel szintén a magyar szavak alaki változatáról beszél. (Itt egyébként a [[S/Siker\|siker]]t a [[S/Sugar\|sugár]] szóval rokonítja (ahogy mondja, a búzában benne aluszik a Nap).)  
 
 Azért nem egyedüli, mert nemcsak az orosz `свет` (szvet) \[egyaránt jelent világot, világosságot\] és `цветок` (cvetok) \[virág\] szópárra korlátozódnak az összefüggő jelentésű szavak. Lásd még [[A/Aszklépiosz\|Aszklépiosz]] témát [[S/Szláv#Szláv nyelvek\|szláv nyelvek]].  
 
@@ -74,7 +74,7 @@ Például az [[A/Arachnophobia\|arachnophobia]] és [[W/Work\|work]] címnél is
 Az alábbi passzus [[L/Light\|light]] címnél is szerepelt:  
 Vannak olyan esetek is, amikor egy teljesen értelmes, mai modern magyar nyelvünkben meglévő és használt magyar szó jön ki eredményül, mégsem lehet egyértelműen állítani, hogy a kapott szó a megoldás. Miért? Mert a magyar nyelv alakváltozatokban gondolkodik. Több ilyen esettel találkoztam, de most csak kettő jut eszembe példaként (illetve [[N/Népetimológia\|népetimológia]] címnél azóta több is volt).  
 A [[T/Török\|török]] népnév nem azt jelenti, hogy "én török" például diót (vagy lenne "törők," mint akik törnek). Ez teljesen fals megközelítés. A szakrális hátteret kell keresni és főleg nem igéket.  
-Ezért sem lehet a hazug Németh Gyula által török `kürt` = hótorlasz jelentéssel megadni a Kürt törzs nevének értelmét, de az sem egyértelmű, hogy egyáltalán a [[K/Kürt\|kürt]] szavunk a megoldás. Hiszen a szakrális, vagy akár totemre vonatkozó értelmet máshogy megkapjuk, és az ü-hangosításban tulajdonképpen olyanféle változtatást kell látni, mint amit például Ilona nevünkben, ahol I van É, O van A és N van NY helyett. **Kódolás**, ha úgy tetszik.  
+Ezért sem lehet a Németh Gyula által török `kürt` = hótorlasz jelentéssel megadni a Kürt törzs nevének értelmét, de az sem egyértelmű, hogy egyáltalán a [[K/Kürt\|kürt]] szavunk a megoldás. Hiszen a szakrális, vagy akár totemre vonatkozó értelmet máshogy megkapjuk, és az ü-hangosításban tulajdonképpen olyanféle változtatást kell látni, mint amit például Ilona nevünkben, ahol I van É, O van A és N van NY helyett. **Kódolás**, ha úgy tetszik.  
 Minden megoldás ideiglenes (és tulajdonképpen fals), amíg a megfelelő szakrális háttérre fény nem derül. Ha a magyar is csak igével képes dolgozni, az azt jelenti, hogy nem oldotta meg a feladatot.  
 
 ## Magyar szavak hangalakjának képlékenysége, alakváltoztathatósága – szabály és kivétel
