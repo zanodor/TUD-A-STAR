@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2023-12-04T08:01"}
+{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2024-01-03T03:09"}
 ---
 
 
@@ -385,7 +385,7 @@ Varsa Mátyás A legrégibb magyar mítosz című tanulmányában írja, hogy a 
 Fentebb, Rostás László cikkében meg azt olvastuk, hogy Árpádék idejében a magyarok szabadlélek tisztelete oly erős, hogy bármit odaadnának fogságban kivégzett vezetőjük fejéért, mely a szabadlélek helye.  
 Ha a szabadlélek = árnyéklélek és az árnyéklélek = vándorlélek, akkor Pintye Mihály adatával ez megint ellentétes.  
 Igazságot tenni talán megint csak az idegen nyelvek segítéségével tehetünk (ha figyelembe vehetők). A latin `spirare` = lélegzeni szóra visszavezetett [[S/Spirit\|spirit]]us ezek szerint az a szellem, ami a lélegzet/lehelet-léleknek felelne meg.  
-Azért mondom, hogy megint, mert a germén seele/[[S/Soul\|soul]] = lélek szavak kapcsán egyszer már rámutattunk, hogy ezek meg éppen szél/szellet/szellem szavainkra mutatnak rá.  
+Azért mondom, hogy megint, mert a germén `seele`/[[S/Soul\|soul]] = lélek szavak kapcsán egyszer már rámutattunk, hogy ezek meg éppen szél/szellet/szellem szavainkra mutatnak rá.  
 
 ![assets/Lélek_image3.png](/img/user/L/assets/L%C3%A9lek_image3.png)  
 [[H/Harmadik szem\|Harmadik szem]] címnél szintén más, már a lélek és szellem fogalmainak összetévesztésére utaló információkat látunk:  
@@ -409,6 +409,11 @@ A több helyen, [[D/DOG\|DOG]], valamint [[K/Kutya és szív\|kutya és szív]] 
 
 ...című az Ősi Gyökér 2015/3-4. sz. megjelent cikkében viszont revidiálja magát; mondanám, hogy lányos zavarában, de aztán kivágja magát az asztráltest meghatározással:  
 > Hol van a lelkünk? Mutogatunk a szívünkre és a homlokunkra is a talamusznál. Mindkét helyen ott van. Fizikai testünk körül a 4-es aura rétegünk, az asztrál- vagy a Lélek-testünk van. A szív és a homlok csakránkhoz kapcsolódik. Egy átlagos embernél fizikai testétől minden irányban kb. 60 cm-re sugárzik szét, spirituális embernél viszont lehet 1,5 m-es a sugárzása. A formája a fizikai emberé, van keze, lába, feje. Színe optimális működésnél lehet fehér, rózsaszín, zöld, vil. kék, de mindig pasztell szín. Mérete: max. 4 mikron, mely csak beavatott, magas etikai és tudatszintű embernek van. A lélek híd az alsó síkok és a szellemvilág között.  
+
+Internetes adat:
+> Even Descartes thought the soul might stem from the pineal gland. Others have stressed other areas as the possible seat of the soul. The ancient Egyptians believed it was the heart. The heart was the seat of the soul. A person who so lived from his/her heart was called, by the Egyptians, a true person. He or she was called a Makaru.  
+> —  
+> Még Descartes is úgy gondolta, hogy a lélek a tobozmirigyből eredhet. Mások más területeket emeltek ki a lélek lehetséges székhelyeként. Az ókori egyiptomiak úgy hitték, hogy a szív. A szív volt a lélek székhelye. Azt az embert, aki így a szívéből élt, az egyiptomiak igaz embernek nevezték. Makarunak nevezték.  
 
 Biz. Gozaimasu nevű ausztrál kutatótól (aki a 2016-ban elhalálozott, [[M/Magyar nyelv és nyelvcsaládok#Ausztráliai magyar nyelv\|ausztráliai magyar nyelv]] cím/alcímnél említett [[F/Flink Attila\|Flink Attilá]]t tanítójának és mentorának tartotta) való [ezen](https://www.youtube.com/watch?v=FamukDMy0BM) videójában a magyar nyelvről (is) beszél és talán Max Igan és másoktól való azon információit is átadja, hogy az által folyamatosan ujjal mutogatott gyomor lenne a lélek helye (nyilván arra gondol, hogy a bél a második agy illetve a "gut feeling" összefüggésre, hogy minden első reakció gyomor reakció, még mielőtt az agyunkkal feldolgoznánk). A májat valóban mondták lélekszékhelynek.  
 
