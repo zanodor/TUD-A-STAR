@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tufa/","title":"Tufa","tags":["dg_uploaded"],"created":"2023-10-13T05:45","updated":"2023-10-25T02:17"}
+{"dg-publish":true,"permalink":"/T/Tufa/","title":"Tufa","created":"2023-10-13T05:45","updated":"2024-01-03T03:10"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Megszilárdult vulkánikus hamu, lávakő, tufa, például amilyet Kelet-Törökországban, Kappadódiában találni.  
 A Húsvét-szigeteki szobrokat is tán ebből faragták.  
-Másik jelentése adja magyar eredetét is: víz, különösen ásványi források által lyukacsossá, szivacsossá alakult kövek nevét is jelenti. Tufa így tű-fa. Vagy tüzifa.  
+Másik jelentése adja magyar eredetét is: víz, különösen ásványi források által lyukacsossá, szivacsossá alakult kövek nevét is jelenti. Tufa így tű-fa. Vagy tűzifa.  
 [[T/TU\|TU]] a Nap neve (melynek sugarait valóban tűként is ábrázolhatjuk: tű és tűz, utóbbi mindkét jelentésében is, összefüggenek).  
 Lásd még [[T/TUF\|TUF]] ideiglenes teoretikus etimont.  
 
