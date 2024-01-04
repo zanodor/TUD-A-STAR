@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Canopus/","title":"Canopus","tags":["Englishtexttranslated"],"created":"2023-10-30T07:29","updated":"2023-11-08T03:36"}
+{"dg-publish":true,"permalink":"/C/Canopus/","title":"Canopus","tags":["Englishtexttranslated"],"created":"2023-10-30T07:29","updated":"2024-01-04T05:32"}
 ---
 
 
@@ -60,7 +60,7 @@ Robert E. Briggs idézete akár a magyar párostánc lényegét fogalmazná meg.
 ![assets/Canopus_image4.png](/img/user/C/assets/Canopus_image4.png)  
 Nem tudott, mert a Szíriusznak is követni kellett Canopust a láthatatlanságba. Így amikor Canopus-Ozirisz helyét időszakosan az Orion (Hórusz) csillagkép veszi át, akkor a Szíriusz-Íziszét a Szűz csillagkép fő csillaga, a [[S/Spica\|Spica]]. \[Mivel viszont a precesszió Szíriuszra nem vonatkozik, a mellékelt ábra DCS-től hasztalan.\]  
 
-Canopus mint a Kan Szeme érdekes elnevezés, mert – ahogy Robert Temple Szíriuszról szóló könyve szól róla – a [[D/Dogon\|dogon]]okkal rokon Mali-beli Bozo törzs a Szíriusz B-t ([[S/Sothis\|Sothis]]?) tartják szem-csillagnak, míg az egyiptomiak As-Art, azaz Oziriszt illették szemmel (lásd [[I/Iris\|iris]]). [[O/OG\|OG]] etimon szem és óriás jelentése itt kapcsolódik össze.  
+Canopus mint a Kan Szeme érdekes elnevezés, mert – ahogy Robert Temple Szíriuszról szóló könyve szól róla – a [[D/Dogon\|dogon]]okkal rokon Mali-beli Bozo törzs a Szíriusz B-t ([[S/Sothis\|Sothis]]?) tartják szem-csillagnak, míg az egyiptomiak As-Art, azaz Oziriszt illették szemmel. [[O/OG\|OG]] etimon szem és óriás jelentése itt kapcsolódik össze.  
 Vélhetően persze elsődlegesen arról van szó, hogy éj fekete fátylán beszűrődő fényt tartották az ősmagyarok jelképesen(!) szemeknek: itt kapcsolódik a [[C/Canopy\|canopy]] szónál MA által adatolt [[K/Kanop\|kanop]] szó is, fátyol jelentéssel.  
 Canopust tartották a déli földteke tájolópontjának ([[F/Fúrócsillag\|Fúrócsillag]]ként, déli Sarkcsillagként ma nincs elég középen viszont): lásd még [[C/Canopy\|canopy]], [[N/Navigate\|navigate]] és [[N/Négyszögletes Föld\|négyszögletes Föld]].  
 
