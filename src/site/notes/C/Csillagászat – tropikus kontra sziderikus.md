@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csillagászat – tropikus kontra sziderikus/","title":"Csillagászat – tropikus kontra sziderikus","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-09T12:57","updated":"2023-12-03T06:15"}
+{"dg-publish":true,"permalink":"/C/Csillagászat – tropikus kontra sziderikus/","title":"Csillagászat – tropikus kontra sziderikus","tags":["Englishtexttranslated"],"created":"2023-11-09T12:57","updated":"2024-01-04T05:33"}
 ---
 
 
@@ -20,17 +20,17 @@ Tulajdonképpen így valamennyire érthető az alant még taglalásra kerülő U
 > A két zodiákus kör tehát egymáshoz képest folyamatos, lassú forgó mozgást végez, melynek éves mértéke kb. 50-53 ívmásodperc, amit a lassúság miatt nehéz pontosan megállapítani. Ezt az értéket precessziós állandónak nevezik, melynek nagyságát Indiában is többféleképpen határozták meg. Annak a ciklusnak az időtartamát, amely alatta két zodiákus egymáshoz képest teljesen körbefordul, szintén csak hozzávetőlegesen tudjuk meghatározni, de kb. 24-25 ezer évre tehető. Az utolsó zodiákus egybeesés nagy valószínűséggel Krisztus születése körül, kb. 2000 évvel ezelőttre tehető. Azóta a tavaszpont folyamatosan halad hátrafelé, és a precessziós érték jelenleg 23°50'. Ezt az értéket a védikus asztrológiában lahiriajanámsa-nak nevezik. Például 2000 tavaszán a Nap a sziderikus zodiákusban, a napéjegyenlőség idején, valójában nem a Kos 0. fokán, hanem a Halak 6. fokán állt.  
 
 Kenneth Grant The Magical Revival című A. Crowley anyagát feldolgozó könyvében volt arról szó, hogy eleinte a csillagok, bolygók használtattak időmérésre, mely után álltak át (luni)szoláris mérésre. Talán ezen infó mintha [[H/Hyperborea-Atlantisz átállás\|Hyperborea-Atlantisz átállás]] címnél is szerepelt volna.  
-KG ugye folyamatosan Széth-ről ad adatokat. Lám, ...
+KG ugye folyamatosan Széth-ről szolgáltat adatokat.  
 
 #### Zajti Ferenc Zsidó volt-e Jézus...
 
-...című könyvének (a PDF) 179. oldalán ilyen kontextusban is jön elő az egyiptomi [[S/Széth\|Széth]]\:  
+...című könyvének (a PDF) 179. oldalán is ilyen kontextusban jön elő az egyiptomi [[S/Széth\|Széth]]\:  
 > Salamon bosrai metropolita "Méh" című iratában olvassuk. A prófécia szerzőjeként Zoroastert \[Zarathustrát\] egyenesen megnevezve találjuk és hogy az első hagyomány Seth-jén pseudepigr. V.T. (Hamburg,1713) I. 147-152,309, a köv. lapjain összeállított bizonyítékokból tudjuk meg, ahol Seth a tipikus iráni csillagimádás alapítójaként jelenik meg.  
 - Széth valóban azon napvallások ideje előtt időben tisztelt, amikor még a sziderikus alapú volt a naptárszámítás is. A lentebb említett latin `sidus` = csillag is azonosnak tekinthető a nevével, ha nagyon akarjuk.  
 
 > Idézem a legfőbb bizonyítékot. Ez a Seth találta ki először héber betűket, a bölcseletet, az égi jeleket, az évforduló, a hónapot, hetet, adott neveket a csillagoknak és az öt bolygónak. És valamivel alább ugyanazon az oldalon: Az özönvíz után Arphaxad \[lásd [[A/Arpakshad\|Arpakshad]] és említve [[K/Káld\|káld]]\] fia írta meg a csillagászatot, miután megtalálta Sethnek és fiainak, amint mondják, kőtáblára vésett csillagjegyzékét. Ennek az utóbbi helynek, amely valamelyest bővített fogalmazása a már (Flavius) Josephus által ismertetett mondának, azért van külön jelentősége, mert Arphaxad Zurwan mellett különben is, mint az Iránság képviselője jelenik meg.  
 
-Eredetileg Z. Tóth Csaba Tropikus vagy sziderikus című cikkének elolvasása vezetett ide, hogy ilyen címmel írás készüljön. Véleményem szerint Z. Tóth keresett (érzett) valami disznóságot, de nem találta meg amit keresett, mert félrevezették (azok, akiknek semmi fogalmuk nincs arról, hogy egykoron tökéletes csillagászati rendszerek léteztek és a maiak akár szándékosan megmásítottak, vagy hogy régen, akik teljességében vizsgálták az univerzumot, olyat is tudtak, amit ma nem tudunk vagy nem hozzák tudtunkra; minden elmélet a tudomány jelenlegi állása szerint állja csak meg a helyét és veszélyes ebből az álláspontból kiindulva a múltra vonatkozóan extrapolálva kiterjeszteni az ismereteinket úgy, abszolutizálunk).  
+Eredetileg Z. Tóth Csaba Tropikus vagy sziderikus című cikke vezetett ide, hogy ilyen címmel írás készüljön. Véleményem szerint Z. Tóth keresett (érzett) valami disznóságot, de nem találta meg amit keresett, mert félrevezették (azok, akiknek semmi fogalmuk nincs arról, hogy egykoron tökéletes csillagászati rendszerek léteztek és a maiak akár szándékosan megmásítottak, vagy hogy régen, akik teljességében vizsgálták az univerzumot, olyat is tudtak, amit ma nem tudunk vagy nem hozzák tudtunkra; minden elmélet a tudomány jelenlegi állása szerint állja csak meg a helyét és veszélyes ebből az álláspontból kiindulva a múltra vonatkozóan extrapolálva kiterjeszteni az ismereteinket úgy, abszolutizálunk).  
 Lényegében arról van illetve lesz szó, hogy a keleti (csillagászatban-asztrológiában megőrzött) sziderikus alapú számoláshoz képest nyugaton miért a tropikust (Napot és évszakokat figyelembe vevő számítást) használják és ennek milyen (akár rosszindulatú) oka lehet.  
 
 Kezdjük ott, ami régebben még [[S/Sidereal\|sidereal]] cíimnél állt és ide átkerült:  

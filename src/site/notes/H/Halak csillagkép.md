@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Halak csillagkép/","title":"Halak csillagkép","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T04:19","updated":"2023-11-25T10:46"}
+{"dg-publish":true,"permalink":"/H/Halak csillagkép/","title":"Halak csillagkép","tags":["Englishtexttranslated"],"created":"2023-10-14T04:19","updated":"2024-01-04T05:33"}
 ---
 
 
@@ -95,7 +95,7 @@ FK írása tehát a Nagy Év működésére is rá látszik minket vezetni azzal
 Amit [[L/Lemniszkáta\|lemniszkáta]] címnél is kimondtunk, hogy a kettős vonalú jegyek között az Ikrek (♊) mellett ilyen még a Halak (♓) is (amely szimbólumban még szebben látszanak a lemniszkáta iker-görbéi): előbbi a kis éves értelmezésű, utóbbi precessziós Nagy Éves.  
 
 ![assets/Halakcsillagkep_image8.png](/img/user/H/assets/Halakcsillagkep_image8.png)  
-[[S/Szív\|Szív]] címnél is volt szó a szívformáról, arról, hogy egy igen érdekes [[S/Szakrális geometria\|szakrális geometrikus]] hatást látunk benne. Egy szabályos négyzetből és két körből adódik ki. A négyzet lehet a Föld vagy a Nap is, a [[V/Vesica piscis\|Vesica Piscis]] címnél is taglalt két kör egybecsúsztatva pedig lehet a (végtelen jeleként is ismert) fektetett [[N/Nyolc\|nyolc]]as, mely a fentiek értelmében úgy is értelmezhető, hogy a [[S/Szűz-Halak tengely\|Szűz-Halak tengely]]ről való elmozdulással járó kozmikus Nagy-Éves újrakezdést lássuk benne. Ugyebár [[H/Heart\|heart]], [[D/DOG\|DOG]], [[K/Kutya\|kutya]], [[K/Kutya és szív\|kutya és szív]] címnél írottak alapján és a [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]] címnél írottak alapján kell gondolkodni itt.  
+[[S/Szív\|Szív]] címnél is volt szó a szívformáról, arról, hogy egy igen érdekes [[S/Szakrális geometria\|szakrális geometrikus]] hatást látunk benne. Egy szabályos négyzetből és két körből adódik ki. A négyzet lehet a Föld vagy a Nap is, a [[V/Vesica piscis\|Vesica Piscis]] címnél is taglalt két kör egybecsúsztatva pedig lehet a (végtelen jeleként is ismert) fektetett [[N/Nyolc\|nyolc]]as, mely a fentiek értelmében úgy is értelmezhető, hogy a [[S/Szűz-Halak tengely\|Szűz-Halak tengely]]ről való elmozdulással járó kozmikus Nagy-Éves újrakezdést lássuk benne.   
 Itt még a szív kapcsán annyit, hogy feltűnt már korábban, hogy miért nem mi is a Kör/Ker vázú szót használjuk szív jelentéssel. Talán mert a szívás a [[S/Szűz extragalaktikus szuperhalmaz\|Szűz extragalaktikus szuperhalmaz]]ra utal? Szűz alakúak a szívni jelentésű szavak is (lásd [[S/Szuka\|szuka]] és [[S/Suck\|suck]]) és a szí alapszava a szí/szív és szíz/szűz szavaknak is, ha akarjuk.  
 Aztán az is igen érdekes, hogy a germán szívet jelentő szavak H-betűsek, mint a Halak, mely Hal lehet persze ugyanúgy Kör (azonos alakú szavak), ráadásul két Kör, egybecsúsztatva. Itt a jelkép és a szavak mögött lehet valamit keresni.  
 

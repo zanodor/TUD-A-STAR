@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Erdő/","title":"Erdő","tags":["dg_uploaded"],"created":"2023-11-13T05:47","updated":"2023-12-04T01:13"}
+{"dg-publish":true,"permalink":"/E/Erdő/","title":"Erdő","created":"2023-11-13T05:47","updated":"2024-01-04T05:33"}
 ---
 
 
@@ -43,7 +43,7 @@ Orman az Ormánság tájegységünk nevében is szerepel. A hivatalos verzió sz
 
 ## Erdő- ill. falakó tündérek görög nevei
 
-A legismertebb [[N/Nymph\|nimfa]] mellett a [[S/Sylph\|szilf]]ek és a [[D/Dryad\|driád]]ok említendők.  
+A legismertebb [[N/Nymph\|nimfa]] mellett a [[S/Sylph\|szilf]]ek és a [[D/Dryad\|drüasz]]ok említendők.  
 Lásd még [[F/Faun\|faun]] és [[T/Trow#Trow 2)\|trow]].  
 
 ## Erdő és legelő
