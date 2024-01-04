@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Suhurmasku/","title":"Suhurmasku","tags":["Englishtexttranslated","dg_uploaded"],"created":"2023-11-04T10:20","updated":"2023-11-04T10:41"}
+{"dg-publish":true,"permalink":"/S/Suhurmasku/","title":"Suhurmasku","tags":["Englishtexttranslated"],"created":"2023-11-04T10:20","updated":"2024-01-04T05:34"}
 ---
 
 
@@ -55,7 +55,7 @@ A bakhal-képzet a [[S/Skorpió csillagkép\|Skorpió csillagkép]]et Szarvassal
 
 ...a LastoftheDruids című oldalról való anyaga szerint később olyannyira elterjedt, hogy a pikt ideográfiában is szerepel. Ha már [[M/Makara\|Makara]] címről ide utaltam és nem [[B/Bak csillagkép\|Bak csillagkép]]hez, anyaga kerüljön ide:  
 > This symbol, which appears on stones more than fifty times, resembles no known animal and therefore most likely represents some sort of mythological creature.  
-> ![assets/Suhurmasku_image2.png|484](/img/user/S/assets/Suhurmasku_image2.png)  
+> ![assets/Suhurmasku_image2.png](/img/user/S/assets/Suhurmasku_image2.png)  
 > The symbols are surprisingly uniform across Pictland, exhibiting the same or a very similar set of features. There are a number of these features that stand out. Firstly, the legs do not end in well defined feet or paws, there is no evidence of claws, but rather they end in swirling patterns; clearly this is no ordinary animal. Indeed, the swirling patterns terminating the feet, might suggest that this animal is nebulous in nature, perhaps blown along cloud-like by the wind. The second feature that stands out is the 'hornʼ or 'crestʼ that in most of the examples typically curls back from the top of the head. This bears no obvious resemblance to any trait of any native animal. It could represent a single horn, or perhaps a mane-like structure. However there are some examples of Pictish beasts where this feature clearly arises not from the top of the head but from the side, in approximately the same place as one might expect horns to appear on other animals, suggesting that this is more likely to be a horn-like structure, although highly stylised. Thirdly, the shape of the head and snout are quite distinctive and has given rise to the description of the symbol as an 'elephantʼ although, unlike an elephant, the snout clearly has a mouth incorporated within it.  
 > It has been suggested that the Pictish beast is some sort of aquatic creature, and primarily because of the shape of the snout, a dolphin, or dolphin-like beast. As we have seen before, a Dolphin constellation is actually present in the night sky (Delphinus). However, only the head would seem to bear even a passing resemblance to that of a dolphin.  
 > Another fascinating explanation is that this obviously mythological animal represents an aquatic spirit. This idea is based on the possibility that legends have percolated down from the Picts to modern Scotland as tales of water spirits, or kelpies, perhaps even giving rise to the legend of the Loch Ness monster.  
