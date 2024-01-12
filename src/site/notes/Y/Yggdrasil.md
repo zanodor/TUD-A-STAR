@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Y/Yggdrasil/","title":"Yggdrasil","tags":["Englishtexttranslated"],"created":"2024-01-02T06:47","updated":"2024-01-02T06:47"}
+{"dg-publish":true,"permalink":"/Y/Yggdrasil/","title":"Yggdrasil","tags":["Englishtexttranslated"],"created":"2024-01-02T06:47","updated":"2024-01-12T06:38"}
 ---
 
 
@@ -23,10 +23,10 @@ JM [[E/Életfa\|életfa]] címnél is szereplő passzusa elemzi a mellékelt ké
 
 #### Grandpierre Atilla Karácsony eredete és jelentősége...
 
-...című dolgozatában szól Ygg-ről és Yggdrasilról:  
+...című [letöltésre elérhetővé tett](https://mega.nz/file/pzNzhKJB#KXz_bvQtrp_QYzmqFqWwIpf4TSn31z4Fn4bUVLJ8jpA) dolgozatában szól Ygg-ről és Yggdrasilról:  
 > [[K/Karácsonyfa\|Karácsonyfá]]nk ősképei között kiemelkedő hely kell jusson az északi népek, elsősorban a norvégok mitológiájának. A norvég mitológiában Yggdrasil volt a "Világfa," az óriás fa, amelyről azt gondolták, összeköti a norvég kozmológia [[K/Kilenc\|kilenc]] egét. Gyakran úgy értelmezik, hogy kőrisfáról van szó, és ez az értelmezés terjedt el legjobban a skandináv köztudatban. Másik értelmezési lehetőség szerint Yggdrasilt régebben [[T/Tiszafa\|tiszafa]]-ként gondolták el, és ez az értelmezés az, amelyik egybevág az Eddákkal, ahol Yggdrasilt örökzöld fának írják le.  
-> 1) ének. A völva jövendölése
-> 19. versszak  
+> 1\. ének. A völva jövendölése
+> 19\. versszak  
 > "Tudok egy kőrist, neve Yggdraszill, szép szál fehér fa, nedvesség fürdeti. Harmatot hullat völgy-ölekbe: *örökzöld*en Urd forrása felett áll. "  
 >
 > Ágai kiterjednek az egész világra, az égre. Gyökerénél sárkány él, ahogy az ősi magyar csillagos égen Sárkány csillagkép található a Sarkcsillagot tartalmazó Tündérasszonypalotája csillagkép körül (lásd Toroczkai Wigand Ede: Öreg csillagok című könyvét). Tetején sas él.  
