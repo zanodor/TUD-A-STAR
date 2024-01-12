@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szeplőtelen fogantatás/","title":"Szeplőtelen fogantatás","tags":["dg_uploaded","Englishtexttranslated","containstransclusions"],"created":"2023-11-13T01:57","updated":"2023-12-04T05:42"}
+{"dg-publish":true,"permalink":"/S/Szeplőtelen fogantatás/","title":"Szeplőtelen fogantatás","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T01:57","updated":"2024-01-12T06:34"}
 ---
 
 
@@ -139,7 +139,7 @@ Gyanítható, hogy egy későbbi képzetről és afféle tudálékoskodásról, 
 
 #### Grandpierre Atilla Karácsony eredete és jelentősége...
 
-...című cikkébe tágabb kontextusban érinti ([[A/ANA\|ANA]] címnél is megvolt):  
+...című [letöltésre elérhetővé tett](https://mega.nz/file/pzNzhKJB#KXz_bvQtrp_QYzmqFqWwIpf4TSn31z4Fn4bUVLJ8jpA) cikkébe tágabb kontextusban érinti ([[A/ANA\|ANA]] címnél is megvolt):  
 > Az ókori Mezopotámiában, Örményországban, és Közép-Ázsiában Zoroaszter előtt a legfelsőbb lényt Ana, Anu, Anahit, Anahita \[[[Ardvisura Anahita\|[Ardvisura Anahita]]\] néven tisztelték. Gimbutas 1991-es Az Anyaistennő civilizációja (The Civilization of the Goddess) című könyvében megerősíti (a 305. oldalon): a legfőbb Istennőt, Anya Istennőt, az Istenek Anyját az ősi kultúrák Ana, Annia, Anu, Ankou néven tisztelték, és nevük feltehetően az ősi kőkörök építőitől ered. Az ősi kőkörök építői pedig világszerte a szkíták, szakák voltak (Chauhan, 1999, The Scythian Origin of the Rajput Race (http://rajputana.com/scy_raj.html); lásd még a szerző tanulmány-sorozatát: Kik építették a kőköröket? Sorozat a Kapu c. folyóiratban, 2005).  
 > Ana, Anu, Anahit, Anahita a Nagy Anyaistennő volt, a mi Boldogasszonyunk, Természet Anya megfelelője. Gimbutas az ősi Ana istennő eredetét legalább 6000 évre teszi (u. ott, 304).  
 > Természet Anya "az elhalás és a megújulás istennője volt, a tél és a sötétség \[és [[E/Észak\|észak]]\] istennője. Az ősi Európa néphagyományaiban tevékenysége a téli évszakban bontakozott ki, pontosabban december végén és január elején. Gyanítjuk, hogy a történelem előtti időkben a Természet megújulásához és Tél Istennő megbékítéséhez szükséges szertartások legnagyobb része ebben az időszakban zajlott le" – írja Gimboutas könyvében (1991, 305). Ez pedig "Ana"-t éppúgy [[K/Karácsony\|Karácsony]] ünnepéhez kapcsolja, ahogy [[K/Khors\|Khors]]-t \[bár ő Napisten\] az ószláv mitológia! Úgy tűnik, Koroszán, vagyis Koros-ana mindkét szavának jelentése karácsony ünnepével áll összefüggésben.  
