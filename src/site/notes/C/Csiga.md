@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csiga/","title":"Csiga","tags":["dg_uploaded"],"created":"2023-11-18T09:03","updated":"2023-11-18T09:03"}
+{"dg-publish":true,"permalink":"/C/Csiga/","title":"Csiga","created":"2023-11-18T09:03","updated":"2024-01-14T03:02"}
 ---
 
 
@@ -8,10 +8,10 @@
 #### Péterfai János írja:
 
 > Csiga szavunk jelentése egyenesen felkavaró. Két eleme, a Csi, és a Ga azt jelenti, hogy a Nap-Háza. Tehát amikor a Csiga szóval találkozunk, akkor erre a jelentésre kell gondolnunk. De a Csi-Ga miért kapta ezt a szép nevet? Talán a házának kanyarodásáért? A csiga háza valóban az [[A/Aranymetszés\|aranymetszés]] számsorának megfelelően tekeredik, amit csigavonalnak is nevezünk.  
-> 
+>
 > Az építkezéseknél csigát használtak, a csigasorok nagyon megkönnyítették a hatalmas kőtömbök mozgatását. Több lelőhelyről is kimutatták a régészek, hogy az építők csigákat is alkalmaztak a nehéz kövek mozgatásához. Egy tíz tonnás kőtömb a csigák segítségével egészen könnyen mozgatható. Ez a tényező is lehet oka a Nap-Háza jelentéshez. A Nap a király is, a fáraó, akinek háza a piramis is lehetett.  
 > Csiga-biga gyere ki, ég a házad ide ki, mondja a gyerekdal. Tudjuk, hogy nem ég a csiga háza, mégis jöjjön ki, kap tejet, vajat, holnapra is marad. Tehát mégis a Csiga a Nap Házából való lény, akinek a háza az Ég (ige is), elvégre a Napnak valóban az Égbolt a háza, ami nappal Ég is, vagyis világos van. Ha kijön, vagyis felkel a Nap, vagy előbújik a felhők mögül, akkor finomságokat kap, amiből holnapra is marad, vagyis holnap is felkel a Nap, ne féljen senki. Nem kell lemészárolni sok embert, hogy feljöjjön a Nap az égre. A gyerekdal, ami nagyon régi lehet, bizonyságot ad arra, hogy a Nap folyamatosan minden reggel fel fog kelni.
-> 
+>
 > A csigát jelentő [[H/Helix\|Helix]] magyar jelentése tehát hasonlatos a Csiga szó jelentéséhez. De honnan tudták a görögök, hogy a Csi-Ga mit jelent? Ami után Helix nevet adtak a csigáknak? Talán mégis magyar eredetűek a görögök, bár elég haszonelvűek lettek az idők folyamán.  
 
 Az [[E/ET\|ET]] címnél is taglalt finn `etana` = csiga szó ugyanolyan magyar tudást hordoz, mint a Csi-Ga, azaz ez is magyar név, és magyar eredetiségét igazolja a finneknek is.  
@@ -34,3 +34,9 @@ Molnár V. József Világ-Virág című könyvének 94. oldaláról való a [[S/
 ![assets/Csiga_image1.jpeg](/img/user/C/assets/Csiga_image1.jpeg)  
 [[R/Rózsa#Forgórózsa\|Forgórózsa]] cím/alcímnél is szerepeltek más hasonló adatai.  
 Dr. Kovács Sándor Gán.Muš – a kígyó kertje avagy a sötétség című az Ősi Gyökér 2010/1-2. sz. megjelent cikkében áll, hogy a majáknál a tengeri csiga volt a [[N/Nulla\|nulla]] jele.  
+
+## Csigák párzása
+
+A képen kerti csigák párzás közben (szimultán hermafroditákként párosodnak):  
+![Csiga-20240114140645591.jpg](/img/user/C/assets/Csiga-20240114140645591.jpg)  
+- A kép [innen](https://en.wikipedia.org/wiki/Hermaphrodite) való.
