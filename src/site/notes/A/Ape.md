@@ -78,7 +78,7 @@ Elgondolkodtató ezek után, hogy vajon [[M/Majom\|majom]] szavunknak mi a jelen
 
 A fentebb frissen írottak alapján a majom inkább a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] közül lehet egy újabb. Így nem a majszolásból kell kiindulni. Maj-Om valójában Maja-Om, [[M/Maja\|Maia]]/[[M/Maja\|Maja]] istennő a Földön, ha igaz.  
 
-Az [interneten](http://www.macroevolution.net/dog-monkey-hybrids.html) szó esik még a majom és a kutya hibridizációjáról. Az alábbi animált képen egy majomnal közösülő kutyát látunk (a kutya rámegy mondjuk akármire, madárra, csirkére is). Egy Taif-ban, Szaúd-Arábiában készült videón hím páviánok rabolnak el kutyakölyköket és nevelik őket/együtt élnek. Ezek alapján nem meglepő, hogy a sárga páviánok hivatalos neve **Papio cynocephalus**.  
+Az [interneten](http://www.macroevolution.net/dog-monkey-hybrids.html) szó esik még a majom és a kutya hibridizációjáról. Az alábbi animált képen egy majommal közösülő kutyát látunk (a kutya rámegy mondjuk akármire, madárra, csirkére is). Egy Taif-ban, Szaúd-Arábiában készült videón hím páviánok rabolnak el kutyakölyköket és nevelik őket/együtt élnek. Ezek alapján nem meglepő, hogy a sárga páviánok hivatalos neve **Papio cynocephalus**.  
 ![assets/Ape_image3.png](/img/user/A/assets/Ape_image3.png)  
 A pávián nevét lásd [[B/Baboon\|baboon]] címnél elemezve, ahol ismét egyiptomi téma jön elő.  
 A cikk írója folytatja és bár először nem volt túl meggyőző (a képek ugye hamisítványok is lehetnek illetve a kutyák testtartása és alakisága nem bizonyíték hibrid lényekre), a folytatásban kifejti, hogy tudósok már régen megfigyelték a jelenséget:  
