@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Melkarth/","title":"Melkarth","tags":["dg_uploaded"],"created":"2023-11-13T06:46","updated":"2023-11-13T06:46"}
+{"dg-publish":true,"permalink":"/M/Melkarth/","title":"Melkarth","tags":["containstransclusions"],"created":"2023-11-13T06:46","updated":"2024-01-14T02:05"}
 ---
 
 
@@ -11,7 +11,7 @@ Sémi-görög (Nap)isten.
 
 > Melkart (a város királya), feniciai napisten, amelyet különösen a tirusiak tiszteltek. Astarte (l. o.) fiának tartották s ugy látszik számos mitosz szólt róla és vándorlásairól. A görög istenségek közül leginkább Heraklesnek felel meg.  
 > \[...\]  
-> Melikertes a görög mitologiában Ino Leukothea és Athamas fia. Miután a férjétől menekülő Inót, ki fiacskájával együtt a tengerbe ugrott, a [[N/Nereidák\|Nereidák]] felfogták, egy delfin a korintusi földszorosra kitette, hol azóta Palaimon néven anyjával együtt istenként tisztelték. M. nem más, mint a zsidó Melkart (l. o.) görög megszemélyesítője.  
+> Melikertes a görög mitologiában Ino Leukothea és Athamas fia. Miután a férjétől menekülő [[I/Ino\|Inó]]t, ki fiacskájával együtt a tengerbe ugrott, a [[N/Nereidák\|Nereidák]] felfogták, egy delfin a korintusi földszorosra kitette, hol azóta Palaimon néven anyjával együtt istenként tisztelték. M. nem más, mint a zsidó Melkart (l. o.) görög megszemélyesítője.  
 
 #### Robert Graves The White Goddess...
 
@@ -27,3 +27,5 @@ Sémi-görög (Nap)isten.
 
 
 </div></div>
+
+- Fentebb tehát [[I/Ino\|Inó]] mondatik Melicertes anyjának.
