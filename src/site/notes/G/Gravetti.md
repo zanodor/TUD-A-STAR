@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gravetti/","title":"Gravetti","tags":["dg_uploaded"],"created":"2023-10-14T04:07","updated":"2023-10-25T03:54"}
+{"dg-publish":true,"permalink":"/G/Gravetti/","title":"Gravetti","created":"2023-10-14T04:07","updated":"2024-01-14T01:39"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 #### Grandpierre Atilla A magyar nemzettudat történelmi alapjai...
 
-...című cikkében írja:  
+...című, [innen letölthető](https://mega.nz/file/56USlBpC#VdRsxEWHyOwl0TQP_xS6twiz7f9C7O3b7YxfhI_G-Iw) cikkében írja:  
 > Az emberi civilizáció főútján a következő korszakalkotó lépés a nyíl, az íj használata. Az istállóskői barlangban talált leletek szerint az íjat a [[K/Kárpát-medence\|Kárpát-medencé]]ben találta fel a későbbiekben nyílhegyeiről gravetti népnek nevezett nép i. e. 35 000 körül (Gáboriné Csánk Vera, 1980, 177.). A mai Franciaország területén hasonló régészeti leletek csak 5-6000 évvel későbbiek (uo., 178). A gravetti műveltség a [[S/Selyemút\|Selyemút]] övezetében őrződött meg legtovább, egészen az újkőkorig, amikor a civilizáció fejlődésének vezérfonalát átadta a Kárpát-medencében kifejlődött Ősi Európa civilizációnak.  
 
 A könyvét népszerűsítő egy VNTV-s beszélgetésben azt mondja, helyesebb lenne \[a számunkra jól csengő) íjfeszítő népnek hívni, de ma ezzel az idegen kifejezéssel utalunk erre a népre (a nyílhegy elnevezése nyomán).  
