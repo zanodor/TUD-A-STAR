@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nő és férfi/","title":"Nő és férfi","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-14T03:03","updated":"2023-11-25T11:20"}
+{"dg-publish":true,"permalink":"/N/Nő és férfi/","title":"Nő és férfi","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-14T03:03","updated":"2024-01-14T03:01"}
 ---
 
 
@@ -79,8 +79,8 @@ FK folytatja (a 143. oldalon):
 </div></div>
 
 
-A megjegyzésem mindehhez az, hogy aligha hiszem el, hogy egy többszázezer vagy több millió évvel ezelőtt élő "proto-táltos" ne tudta volna, hogy nem a gólya hozza a gyereket.  
-Itt nem arról van szó, hogy a férfi szerepét nem ismerték volna fel, inkább arról, hogy az első civilizációk hitrendszere tudatosan nőközpontú volt, mert egyrészt csak az anya a biztos, másrészt tudatosan így is alkották meg a mitológiájukat. Ennek még az is állt a háttérében, hogy az első ember is a [[H/Hermafrodita\|hermafroditá]]k és a kétéltűek előtt, ami/aki önmagából létre tudta hozni, afféle [[S/Szűznemzés\|szűznemzés]]sel az életet a nő volt. Ennek a tudásnak a fenntartását kell még itt látni. Beszélhetnénk itt még sok mindenről, például az [[O/Ösztön\|ösztön]] és [[I/Isten\|Isten]] kapcsolatáról is.  
+A megjegyzésem mindehhez az, hogy aligha hiszem el, hogy egy több százezer vagy több millió évvel ezelőtt élő "proto-táltos" ne tudta volna, hogy nem a gólya hozza a gyereket.  
+Itt nem arról van szó, hogy a férfi szerepét nem ismerték volna fel, inkább arról, hogy az első civilizációk hitrendszere tudatosan nőközpontú volt, mert egyrészt csak az anya a biztos, másrészt tudatosan így is alkották meg a mitológiájukat. Ennek még az is állt a háttérében, hogy az első ember is a [[H/Hermaphrodite\|hermafroditá]]k és a kétéltűek előtt, ami/aki önmagából létre tudta hozni, afféle [[S/Szűznemzés\|szűznemzés]]sel az életet a nő volt. Ennek a tudásnak a fenntartását kell még itt látni. Beszélhetnénk itt még sok mindenről, például az [[O/Ösztön\|ösztön]] és [[I/Isten\|Isten]] kapcsolatáról is.  
 Ezt a gondolatot Robert Graves The White Goddess című könyvének 389. oldaláról vette JM. Ez hasonlóan téves következtetés, mint azt mondani, hogy Kopernikuszig sehol Európában nem volt ismert a Föld-Nap relációja vagy azt, hogy a magyar paraszt a zsidó Tízparancsolat alapján értesült arról, hogy ölni vagy a szomszédasszonyt elszeretni nem szabad. (Egyéb példákat lásd még [[T/Tudomány\|tudomány]].)  
 Graves (és ezek szerint JM) nem ismerte a magyar szupercivilizációt és ősvallását. [[H/Hyperborea-Atlantisz átállás\|Hyperborea-Atlantisz átállás]] és [[I/Isten\|Isten]] címnél szerepeltek adatok arra vonatkozólag, miként váltotta fel a csillagvallást a Napvallás, majd a modern politikai vallások. Itt nem arról van szó, hogy az apa nemző szerepe nem volt ismert (hisz komplex [[N/Nimrud\|Nimrud]]-mitológiát is költöttek), hanem arról, hogy akkor még az anyáknak nagyobb tisztelet járt ki (ezért is mondom, hogy a hunoknak illetve hun-származék népeknek "köszönhetjük" a magyarságot elnyomó irányzatok elterjedését).  
 Egyébiránt RG hosszú lére eresztett passzusát lásd [[A/Anyakultusz – apakultusz\|anyakultusz – apakultusz]] címnél. Onnan most csak ezt emelném ki:  
