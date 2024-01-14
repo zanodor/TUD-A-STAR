@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Méh/","title":"Méh","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-11T10:46:00","updated":"2023-11-25T11:18"}
+{"dg-publish":true,"permalink":"/M/Méh/","title":"Méh","tags":["Englishtexttranslated"],"created":"2023-11-11T10:46:00","updated":"2024-01-14T01:48"}
 ---
 
 
@@ -17,7 +17,7 @@ Egyébként a magyar nyelv (és CzF) szerint a méh az egyetlen "állat" amely n
 #### Péterfai János...
 
 ...becses adatsora:  
-> A Méh Fény. A Méh kiejtése [[M/ME\|ME]], de sok régi névben a "h" megjelenik. Mehi fáraó nevében is tapasztalhatjuk. Mexikó spanyol kiejtése Mehikó, amely névben a Kó a Kő, Ország neve. Mehikó városa régebbi, mint az országra zúduló aztékok kora. Mikerinosz fáraó neve görög jellegű. Mingge kínai neve Mike magyar nagykirálynak. A székely Mikó név is ebbe a csoportba tartozik. Mike-Él a héber Mika-El párja. A Mehi – Méhi, a Mikes, Méhes nevek mind a Mé, vagyis Fény fogalmába tartoznak. A Mihók, Miska és német Miksa, a Mihály, Michael, a Miske mind a Mé Fény jelentéséhez kapcsolódnak.  
+> A Méh Fény. A Méh kiejtése [[M/ME\|ME]], de sok régi névben a "h" megjelenik. **Mehi** fáraó nevében is tapasztalhatjuk. Mexikó spanyol kiejtése Mehikó, amely névben a Kó a Kő, Ország neve. Mehikó városa régebbi, mint az országra zúduló aztékok kora. Mikerinosz fáraó neve görög jellegű. Mingge kínai neve Mike magyar nagykirálynak. A székely Mikó név is ebbe a csoportba tartozik. Mike-Él a héber Mika-El párja. A Mehi – Méhi, a Mikes, Méhes nevek mind a Mé, vagyis Fény fogalmába tartoznak. A Mihók, Miska és német Miksa, a Mihály, Michael, a Miske mind a Mé Fény jelentéséhez kapcsolódnak.  
 > A Mé jelentése Fény, párja a Mu. Magas és mély hangrend. A Méh tehát nem más, mint a Fény. A Méhek a Fényből jövő kis állatkák. A Napgyermek, minden fiú és minden leány, ebből a Mé-ből, Méhből születik. Ez az Anya-Méh. A Méh tüzes, izzó, fényes hely, itt születnek a babák, az emberiség utódai. Ebből az izzásból, fényből születnek az emberek gyerekei. Természetesen ezt az egyszerű képi fogalmat sem ismeri már az emberiség.  
 - Ez a tüzes hely pedig a [[V/Vulva\|vulva]], [[P/Pina\|pina]].  
 
@@ -27,8 +27,10 @@ Egyébként a magyar nyelv (és CzF) szerint a méh az egyetlen "állat" amely n
 > \[...\]  
 > A görög-római mythologia [[H/Héra\|Héra]]-Juno-jának azonban már van férje, az őserőnyt megszemélyesítő [[Z/Zeusz\|Zeusz]]-Jupiter, vagyis ő már nem szűzanya, de ami tehát mindenesetre későbbi fejlemény, mivel az abszolút nőelvűség szerint az ős-Anyagistennő életet azaz erőnyt – csakis szűzen szülhetett, mivel azelőtt még nem létezett erőny, azaz tehát hímség, amely megtermékenyíthette volna. E gondolat aztán annak alapja is, hogy a **szűzenszülő isteni nőalak mindig fiat, azaz tehát hímséget szül először**, amely eszmét támogatta az is, hogy például **a "méhkirálynő", azaz a méhanya, meg nem termékenyítve, csak heréket (hím-méheket) képes létrehozni, nőneműeket ellenben csakis ha hímméh által megtermékenyíttetett**.  
 
-MA [[M/Muscle\|Muscle]] címnél szereplő adatsora is kerüljön ide:  
-> Az egyiptomi `mehi` szó tehát nem a méhállatot jelentette, hanem az anyaméhet, míg az egyiptomi `apisz` szó ugyanúgy, mint a latin-olasz `apes`, `ape` valóban méhet jelent, de eredetileg csakis a hím méhet jelentette, és tehát a mi [[A/Apa\|apa]] szavunkból származott, amelynek kicsinyítő api alakja is létezhetett. Mi a méhek alatt ma azok összességét értjük, beleszámítva a hímeket, azaz a heréket is, ami azonban bizonyára későbbi fejlemény, ha több ezeréves is. Ugyanígy, de megfordítva történt ez a latinban is, amelyben, valamint az olaszban is, apes, ape ma méhet általában jelent, holott ez eredetileg csak a hím méhek neve volt. Említettem, hogy a méheknek lehetett régen zi, zú, züm, megfordítva mísz, mész, músz neve is, mielőtt itt a sziszegő hang h-vá változott. És íme a latinban, olaszban tényleg `musca`, `mosca` (muszka, moszka) = légy; az pedig érthető, hogy a légy és hím méh neve összecserélődött, hiszen a hím méh úgy alakjában mint abban, hogy fullánkja nincsen, teljesen légyhez hasonló. A szlávban `musko`, a latinban `masculus` = férfi, hím.  
+MA [[M/Muscle\|muscle]] címnél szereplő adatsora is kerüljön ide:  
+> Az egyiptomi `mehi` szó tehát nem a méhállatot jelentette, hanem az anyaméhet, míg az egyiptomi `apisz` szó ugyanúgy, mint a latin-olasz `apes`, `ape` valóban méhet jelent, de eredetileg csakis a hím méhet jelentette, és tehát a mi [[A/Apa\|apa]] szavunkból származott, amelynek kicsinyítő api alakja is létezhetett. Mi a méhek alatt ma azok összességét értjük, beleszámítva a hímeket, azaz a heréket is, ami azonban bizonyára későbbi fejlemény, ha több ezeréves is. Ugyanígy, de megfordítva történt ez a latinban is, amelyben, valamint az olaszban is, apes, ape ma méhet általában jelent, holott ez eredetileg csak a hím méhek neve volt. Említettem, hogy a méheknek lehetett régen zi, zú, züm, megfordítva mísz, mész, músz neve is, mielőtt itt a sziszegő hang h-vá változott. És íme a latinban, olaszban tényleg `musca`, `mosca` (muszka, moszka) = légy; az pedig érthető, hogy a légy és hím méh neve összecserélődött, hiszen a hím méh úgy alakjában mint abban, hogy fullánkja nincsen, teljesen légyhez hasonló. A szlávban `musko`, a latinban `masculus` = férfi, hím.  { #1mahi8}
+
+- Lentebb `mehu` forma is előjön az egyiptomi méhre utalva.
 
 **Bakos Attila** A Duna Evangéliuma című könyvének 239-240. oldalán is írja, hogy a méhkirálynő az, amely képes [[S/Szűznemzés\|szűznemzés]]sel de csak fiú utódokat világra hozni. A szűznemzés emlősöknél azonban lehetetlen. A [[J/Judeo-keresztény\|judeo-keresztény]] hagyomány ezt az egyszerre költői és filozófiai hasonlatot tudatlan természetéből adódóan szó szerint alkalmazta, mint például a test szerint való teljesen értelmetlen [[F/Feltámadás\|feltámadás]]t.  
 
@@ -42,10 +44,10 @@ Efféle információkat a Quora oldalakon is megírnak. Például az [alábbi](h
 > Miért halnak el a méhek a párzás után?  
 > A hím azért hal meg, mert a párzási eszközei, a herék és a pénisz kiszakadtak a testéből. Gyakorlatilag kibelezik. Ezért hal meg.  
 > A királynő viszont nem hal meg a párzás után; úgy tér vissza a kaptárba, hogy a hím fütyije még mindig be van ágyazva, és még mindig pumpálja az ondót a testébe. A kaptárba visszatérve a dolgozók eltávolítják a hím csomagját és kidobják. A királynő a következő 2-5 évben termékeny lesz, és több ezer megtermékenyített petét rak le, amelyekből dolgozók és esetleg más királynők fejlődnek ki. A megtermékenyítetlen petékből hímek fejlődnek ki. Amikor elfogy a párzási repülésből származó sperma, akkor főleg hímeket kezd el ivarzani. Ha van méhlegelője, azonnal lecserélik. Ha a kaptár vadon, gondozó nélkül él, a méhek a kevés megtermékenyített tojás egyikéből új királynőt nevelnek. Amikor az új királynő kikelt, az első feladata az lesz, hogy megkeresse és megölje a régi királynőt. Ezután a következő déli órákban, amikor a nap a zenitjén áll, elindul a párzási repülésre.  
-- Ezen utolsó sora felhívta még a figyelmem. Mármint azért, mert a magyar ősgondolkodásban nemcsak a dolgok hogyanját, hanem az idejét is megfigyelték és ezek alapján alkották meg a mitológiájukat és szavaikat is. Ennek ellenére a lábjegyzetben csak szűznemzésről van szó és arról, hogy régen nem tudtak volna párzásról.
+- Ezen utolsó sora figyelmet érdemel, azért, mert a magyar ősgondolkodásban nemcsak a dolgok hogyanját, hanem az idejét is megfigyelték és ezek alapján alkották meg a mitológiájukat és szavaikat is. Ennek ellenére a lábjegyzetben csak szűznemzésről van szó és arról, hogy régen nem tudtak volna párzásról.
 
-**Bíró Lajos** A magyar régmúlt titkai című könyvének (a PDF) 19. oldalától szól a méh-kultuszról.  
-**Práczki István** Szittya Biblia című könyvében mindenütt méhet és mézet keres a nevekben. Nincs vele egyedül (Szécsi Levente és mások is ezt teszik).  
+Bíró Lajos A magyar régmúlt titkai című könyvének (a PDF) 19. oldalától szól a méh-kultuszról.  
+Práczki István Szittya Biblia című könyvében mindenütt méhet és mézet keres a nevekben. Nincs vele egyedül (Szécsi Levente és mások is ezt teszik).  
 
 #### Tomory Zsuzsa Istenes magyar emlékeink III. rész...
 
@@ -91,7 +93,7 @@ Az igazság az, hogy a [[K/Köldök\|köldök]]/méh/[[V/Vulva\|vulva]]/[[P/Pina
 [[K/Kutya\|Kutya]] cím bevezetőjében lábjegyzetben szerepelt:  
 Méh szavunk kétértelmű. Jelenti a Napot szülő Tejútanya (és a földi nők) méhét de jelenti a Napállat méhét is. Mivel a Tejútanya nemzését (legalábbis kis éves vonatkozásban) a (még meg nem született) fia (vagy annak [[S/Széth\|Széth]]-minőségű árnyék-énje) végzi, ezért a Napállat méh alkalmas neve lehet a [[S/Skorpió csillagkép\|Skorpió csillagkép]]nek is. Minden továbbit lásd ott. (Közben a Skorpióról kiderült, hogy Szarvas szavunkból ered. [[S/Skorpió csillagkép\|Skorpió csillagkép]]nél új méhes infók is szerrepeltek.)  
 
-Szimbólumtár anyaméh címnél álló adata:  
+A Szimbólumtár anyaméh címnél álló adata:  
 > Az embrió beágyazódását és a magzat kifejlődését szolgáló szerv. A női termékenység, a szaporodás szimbóluma; jelentése a természet termékenységével áll szoros kapcsolatban. Az ősi mitológiákban a föld, mint minden teremtmény szülője, anyaméhként jelenik meg.  
 > • A hinduizmusban a világegyetem anyaméhe, a Prakriti, a természet, a világ jelképe. A kultikus szobrot rejtő templomcellát így is nevezték.  
 > • Keresztény értelmezésben az Egyházra vonatkozhat, Bod Péter szerint: "Az Anyaszentegyháznak, melly a' Krisztusnak sok fiakat szül, tulajdoníttatik a méh" (Szent Irás' értelmére vezérlő magyar leksikon). A "méhednek gyümölcse" jelképes kifejezés (Lk 1,31), amely a Bibliában az utódokra vonatkozik, József Attila Ódájában is szerepel.  
@@ -125,6 +127,7 @@ A Szarv szavunknak megfelelő Surabi név a [[S/Szarvas\|szarvas]] címnél szer
 ## Alsó-Egyiptom Méh és Felső-Egyiptom Sás neve
 
 Több helyen volt erről szó[^3]. Nyilván PJI is említi, de Borbola János is és Szécsi Levente is talán utalt rá. [Ezen](https://en.wikipedia.org/wiki/Lower_Egypt) oldal szerint is Alsó-Egyiptom régi neve **Ta-Mehu** volt.  
+- Ahogy fentebb láttuk, Magyar Adorján adata szerint az egyiptomi nyelvben `mehi` alakban is rögzítették a méh nevét. Melyik az elfogadott forma?
 
 #### Jankovics Marcell is írja:  
 
@@ -133,7 +136,7 @@ Több helyen volt erről szó[^3]. Nyilván PJI is említi, de Borbola János is
 
 JM ezen passzusa másutt, [[H/Hunor és Magor#Égi területek földre tükrözése\|égi területek földre tükrözése]] cím/alcímnél is szerepelt. Ezen adatát is annak bizonyítékául fogtuk fel – a méh-anyaméh-Nyilas csillagkép analógia mentén – hogy a sötét félév (ahol a [[S/Skorpió csillagkép\|Skorpió csillagkép]] és a Tejútanya [[A/Anyaméh\|anyaméh]]e is van) Alsó-Egyiptomhoz tartozik, így a PJI által megadott Hun alternatív név Alsó-Egyiptomra szintén megfelel elnevezésként.  
 
-**Nagy Károly** A sakkjáték eredetének története című az Ősi Gyökér 2013/3. sz. megjelent cikkében mikor a [[N/Narmer-paletta\|Narmer-palettá]]n ábrázolt összecsavarodott hosszú nyakú szörnyekkel jelképezett Felső- és Alsó-Egyiptom egyesítésének említése után azt írja, hogy az egyiptomi nyelvben a SZEMA "egyesíteni" hieroglifa az ország egységére utal, akkor a [[S/Semi-\|semi-]] szó és a fél-egész téma ötlött fel rögtön, és aztán amikor azzal folytatja, hogy az óegyiptomi írásban **Felső-Egyiptomot a SÁS, míg *Alsó*-Egyiptomot a MÉH jelképezi**, akkor a sás indo-európai hatot (lásd [[S/Six\|six]]) jelentő szavainak lehetséges kapcsolatára gondoltam (a téridő 12-es rendszerének fele 6).  
+Nagy Károly A sakkjáték eredetének története című az Ősi Gyökér 2013/3. sz. megjelent cikkében mikor a [[N/Narmer-paletta\|Narmer-palettá]]n ábrázolt összecsavarodott hosszú nyakú szörnyekkel jelképezett Felső- és Alsó-Egyiptom egyesítésének említése után azt írja, hogy az egyiptomi nyelvben a SZEMA "egyesíteni" hieroglifa az ország egységére utal, akkor a [[S/Semi-\|semi-]] szó és a fél-egész téma ötlött fel rögtön, és aztán amikor azzal folytatja, hogy az óegyiptomi írásban **Felső-Egyiptomot a SÁS, míg *Alsó*-Egyiptomot a MÉH jelképezi**, akkor a sás indo-európai hatot (lásd [[S/Six\|six]]) jelentő szavainak lehetséges kapcsolatára gondoltam (a téridő 12-es rendszerének fele 6).  
 ![assets/Méh_image4.jpeg](/img/user/M/assets/M%C3%A9h_image4.jpeg)  
 Írja még itt, hogy az egyiptomi nyelvben a szobrok mágikus funkciójával kapcsolatos megelevenítő szót SZANH-nak nevezik.  
 Borbola Jánostól nád jön elő sás helyett, de A Nílus-völgyi hitvilág című Ősi Gyökér 2005/4. sz. megjelent cikkében amikor említést tesz a nád népéről, pont fordítva, Alsó-Egyiptomot ír:  
