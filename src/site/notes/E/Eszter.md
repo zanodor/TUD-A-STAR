@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Eszter/","title":"Eszter","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-22T02:45","updated":"2023-11-11T01:53"}
+{"dg-publish":true,"permalink":"/E/Eszter/","title":"Eszter","tags":["Englishtexttranslated"],"created":"2023-10-22T02:45","updated":"2024-01-14T01:38"}
 ---
 
 
@@ -26,9 +26,9 @@ Kezdjük azzal, hogy eszterga (ómagyar \*esztergar?) (mellyel CzF adata szerint
 A (néggyel és csavarással is kapcsolatba hozott, [[S/Star\|star]]-ral is szinte azonos [[C/CSÁR\|CSÁR]] címnél is taglalt görög `sztaurósz` = áldozati karó, kereszt szóval azonosítható) [[O/Ösztörű\|ösztörű]] szónál szerepelt biz. Szabó D. adata, miszerint eredeti értelme szerint (többek közt) **ágas-bogas fa**, mely ha Tejútfa és ha [[E/Esztergom\|Esztergom]] nevének előrésze, az [[I/Iszter\|Iszter]] folyó a Tejúttal azonosíttatik és mivel a Tejútról tudjuk, hogy csűrődik-csavaródik, tekeredik, forog (napi, kis éves és Nagy Éves viszonylatban is), akkor okszerű kell legyen a kisbetűs esztert is az égre helyezni, továbbá az [[E/Eszterha\|eszterhaj]] (a házfödélnek azon alsó része, mely a falon kivül kinyúlik, s a lefolyó vizet a faltól elveti) szót is ide sorolni, tudni illik minden építmény és szerszám nevének eredete [[S/Szakrális geometria\|szakrális geometrikus]] és a leleményes első néphez kötendő, mintsem az átvevő szláv és latin nyelvekből szabadna magyarázható.  
 
 CzK írja alant említett cikkében az Eszter név kapcsán, hogy a 'csillag' jelentés úgy rokonítható vele, hogy a csillagot sokágú fényes [[K/Kereszt\|kereszt]]nek fogjuk fel. Lejjebb ismét: 'csillag' jelentése a fényelágazásokon alapul. A csillag úgy néz ki, mintha sok keresztet tennénk egymásra.  
-Ez [[O/Ösztörű\|ösztörű]] és sztaurósz témája kapcsán is érdekes, [[A/Anu\|Anu]] jele is ilyen, de a [[C/Csillag\|csillag]] címnél említett `cselovek` = ember sem más, mint Krisztus: keresztes, akinek a megváltását a judeo-keresztény teológia szerint Jézus végzi, de valójában mindenkinek Istennel saját kapcsolata lévén magának kell intéznie.  
+Ez [[O/Ösztörű\|ösztörű]] és `sztaurósz` témája kapcsán is érdekes, [[A/Anu\|Anu]] jele is ilyen, de a [[C/Csillag\|csillag]] címnél említett `cselovek` = ember sem más, mint Krisztus: keresztes, akinek a megváltását a judeo-keresztény teológia szerint Jézus végzi, de valójában mindenkinek Istennel saját kapcsolata lévén magának kell intéznie.  
 
-Az Eszter és [[E/Eszterhaj\|eszterhaj]] tehát asztrális elnevezések: minden építmény, kivált az ember háza (ház = világ = föld, ahogy a [[S/Szakrális geometria\|szakrális geometria]] címnél levő képen lásd ábrázolva).  
+Az Eszter és [[E/Eszterha\|eszterhaj]] tehát asztrális elnevezések: minden építmény, kivált az ember háza (ház = világ = föld, ahogy a [[S/Szakrális geometria\|szakrális geometria]] címnél levő képen lásd ábrázolva).  
 
 #### Aczél József...
 
@@ -41,7 +41,8 @@ Ezen a ponton jegyezzük meg, hogy [[H/Hágár\|Hágár]] címnél írottak szer
 Az, hogy a tehén meddősége szóba jött, azért is érdekes, mert [[S/Szarv\|szarv]] címnél szintén szó volt s tehén szaporító szervrendszeréről.)  
 
 Mindenképp meg kell itt említeni a latin [[S/Striga\|striga]] = boszorkány szót is, mely Eszter-Ga felbontásával annyit tesz, hogy Eszter Házából való. Ez így nem sokat mondana, de a legutóbb [[M/Mithra\|Mithra]] címnél írottak alapján el tudjuk képzelni, miről van szó. Ahogy a [[B/Boszorkány\|boszorkány]] (illetve szintén a magyar mesékben a [[G/Gödény\|gödény]]) felelős a naphős elpusztításáért illetve a világosság felzabálásáért, az egyiptomi [[N/Nut\|Nut]] úgy felelős égitest-gyermekeinek felfalásáért nyugaton, hogy keleten világra hozza őket.  
-- Más szóval, úgy hitték, hogy az éppen nem látható planéták és csillagok Nut testében a Tejút alvilági, déli szakaszán \[[[Duat\|duat]]\] járnak. \[JM\]  
+Jankovics Marcell írja:  
+> Más szóval, úgy hitték, hogy az éppen nem látható planéták és csillagok Nut testében a Tejút alvilági, déli szakaszán \[[[Duat\|duat]]\] járnak.  
 
 [[M/Mithra\|Mithra]] címnél szótani vizsgálat alapján kiderült, hogy az akasztásnak, keresztrefeszítésnek helye hol történik és milyen eszközöket alkottak a földön égi mintára. Az [[O/Ösztörű\|ösztörű]] is szóba került, ahogy a német `mistgabel` = vasvilla és arab `midrāh` = vasvilla, melyek előrésze utal az égi helyükre éppúgy, ahogy ösztörű nevében `Eszter` = Tejút.  
 Az éppilyen alakú osztriga szóról lásd [[O/Oyster\|oyster]]. [[E/Estrogen\|Estrogen]] előrésze is ilyen. **Österreich**-ot lásd [[O/Osztrák\|osztrák]] és lásd még PJI írását [[A/Austral\|austral]], de [[S/Street\|street]] és sok más szó eredete [[I/Istár\|Istár]]/[[I/Iszter\|Iszter]]/Eszter.  
