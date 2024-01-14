@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szkíta nyelv/","title":"Szkíta nyelv","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-10T01:00","updated":"2024-01-03T03:19"}
+{"dg-publish":true,"permalink":"/S/Szkíta nyelv/","title":"Szkíta nyelv","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-10T01:00","updated":"2024-01-14T01:49"}
 ---
 
 
@@ -161,11 +161,11 @@ Edward Norris Memoir on the Scythic Version of the Behistun Inscription című k
 A könyvet Érdy Miklós, A sumír, ural-altaji, magyar rokonság története; I. rész: a 19. század (1974) című k.-ben említi [ezen](http://www.magtudin.org/Szentkatolnai%20Balint.htm) oldal tanúsága szerint, ezért is figyeltem fel rá.  
 Lacza Tihamér Az ókor emlékezete című könyvének 33-34. oldalán is szó esik Behisztunról.  
 
-Fischer Károly Antal terjedelmes értekezést tett közzé a szkíta szavak összehasonlításának tárgyában. Meggyőződése szerint **a szkíták nyelve lényegét tekintve a magyarral azonos**. Erklärung der skythisch-sarmatischen Namen und Wörter aus der ungarischen Sprache című kétkötetes írása letöltve, de csak német nyelven volt elérhető.  
+Fischer Károly Antal terjedelmes értekezést tett közzé a szkíta szavak összehasonlításának tárgyában. Meggyőződése szerint **a szkíták nyelve lényegét tekintve a magyarral azonos**.   
 
 #### Grandpierre Atilla A magyar nemzettudat történelmi alapjai...
 
-...című több helyen idézett cikkében írja:  
+...című, [innen letölthető](https://mega.nz/file/56USlBpC#VdRsxEWHyOwl0TQP_xS6twiz7f9C7O3b7YxfhI_G-Iw), több helyen idézett cikkében írja:  
 > Az elmúlt évtizedekben egyre több nyelvész vélekedik úgy, hogy az altaji, mongol és tunguz nyelvek hasonlóságának az az oka, hogy mindegyikre alapvető hatást gyakorolt a Hun Birodalom nyelve. Ezt a nyelvet mi szkíta-hun nyelvnek nevezzük. Hunnia fennállását ugyanebben a hatalmas eurázsiai körzetben megelőzte a szarmaták és a szkíták vezető szerepe. A szarmaták szkíta nyelvet beszéltek, de mindegyre csak hibásan, írta Hérodotosz (IV. könyv, 117.§.). Török "jövevényszavaink" jelentős része az alapszókincshez tartozik, és így nem átvételnek, hanem közös eredetnek tulajdonítható. A szkíta-hun nyelv az urál-altaji nyelvcsalád alapnyelvének tekinthető. Besorolható a finnugor vagy az altaji nyelvcsaládba, de csak egyik-egyik oldala, valójában bizonyos értelemben mindkettőt magában foglalja, illetve mindkettő belőle fakad, mindkettőnél szélesebb osztályt alkot. Mint ilyen, az urál-altaji nyelvcsalád alapnyelvének tekinthető. A könyvünkben ismertetett tények fényében a magyar nyelv önálló fejlődésének időszaka mintegy 10000 évre tehető.  
 
 ## Szkíta szóalkotás
