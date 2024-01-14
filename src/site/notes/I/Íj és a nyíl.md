@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated"],"created":"2023-10-30T08:39","updated":"2023-12-25T11:21"}
+{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated"],"created":"2023-10-30T08:39","updated":"2024-01-14T01:40"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 #### Grandpierre Atilla A magyar nemzettudat történelmi alapjai...
 
-...című cikkében írja:  
+...című, [innen letölthető](https://mega.nz/file/56USlBpC#VdRsxEWHyOwl0TQP_xS6twiz7f9C7O3b7YxfhI_G-Iw) cikkében írja:  
 > Az emberi civilizáció főútján a következő korszakalkotó lépés a nyíl, az íj használata. Az istállóskői barlangban talált leletek szerint az íjat a [[K/Kárpát-medence\|Kárpát-medencé]]ben találta fel a későbbiekben nyílhegyeiről [[G/Gravetti\|gravetti]] népnek nevezett \[számára előadásában inkább íjfeszítőnek nevezendő\] nép i. e. 35 000 körül (Gáboriné Csánk Vera, 1980, 177.). A mai Franciaország területén hasonló régészeti leletek csak 5-6000 évvel későbbiek (uo., 178). A gravetti műveltség a [[S/Selyemút\|Selyemút]] övezetében őrződött meg legtovább, egészen az újkőkorig, amikor a civilizáció fejlődésének vezérfonalát átadta a Kárpát-medencében kifejlődött Ősi Európa civilizációnak.  
 
 Folytassuk nyelvészeti síkon, azzal, hogy íj szavunk az [[I/Ív\|ív]] szó változata. Erről sok helyen, legutóbb [[F/Flash\|flash]] címnél is volt szó (ahol kimutattuk, hogy az alant szexualitás résznél részint érintett hímtag görög formájának, a [[P/Phallic\|fallosz]] szónak eredete is nyílvesszőre, Bál-Ős Bal-Orionra megy vissza).  
@@ -463,7 +463,7 @@ Az Ősi Gyökér 2013/3. számában Gyárfás Ágnes által Béka királykisassz
 
 ### Hátrafelé lövő lovon ülő hunok
 
-![assets/Ijesnyil_image16.jpeg|475](/img/user/I/assets/Ijesnyil_image16.jpeg)  
+![assets/Ijesnyil_image16.jpeg](/img/user/I/assets/Ijesnyil_image16.jpeg)  
 ![assets/Ijesnyil_image17.jpeg](/img/user/I/assets/Ijesnyil_image17.jpeg)  
 Ismert a hun íjászok azon módszere, mely szerint menet közben, a lovon hátrafelé, amikor a ló négy lába a magasban volt, kellett lőniük (mindezt a megfelelő szögben és erővel, gondoljunk csak bele!). Erre vonatkozóan valahol valaki képábrázolással is hozott bizonyítékot, de meglepő, hogy – L. Kecskés András Etruszkok – Szabinok. Etruszk – magyarok? című az Ősi Gyökér 2011/4. sz. megjelent cikkében talált képi adat szerint – az etruszkoknál is találunk ilyen ábrázolást.  
 Angolul ezt így hívják: *Parthian shot*.  
