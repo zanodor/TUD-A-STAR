@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ape/","title":"Ape","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-05T03:55","updated":"2023-11-05T03:55"}
+{"dg-publish":true,"permalink":"/A/Ape/","title":"Ape","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-05T03:55","updated":"2024-01-14T01:36"}
 ---
 
 
@@ -30,7 +30,7 @@ A majom gyakori jelképállat az egyiptomi és hindu mitológiában/ábrázolás
 Nos, a vak is látja, hogy a majom [[K/Kutyafejű\|kutyafejű]]ként ábrázolt. Már másutt láttuk, hogy a kutyák családjába tartozónak vélték régen a nagymacskákat[^1] és a vízikutyának a fókát, vidrát, stb.  
 Úgy tűnik, hogy a majom is efféle kutyának veendő jelképállat.  
 Nem ez lenne az első eset. [[A/Astennu\|Astennu]] (másnevén Asten és Isten!) egyiptomi isten is [[K/Kutyafejű\|kutyafejű]] majom[^2]! Lásd még [[B/Babi\|Babi]] istent is.  
-A közben letöltésre kerülő Edward Topsell The History of Four-footed Beasts című 1607-es kiadású könyvében (lásd az onnan való csatolt képet is) is ezzel egyezően írja:  
+Edward Topsell The History of Four-footed Beasts című 1607-es kiadású könyvében (lásd az onnan való csatolt képet is) is ezzel egyezően írja:  
 > Cynocephales, are a kind of Apes, whose heads are like Dogs, and their other parts like a man's; wherefore Gaza translateth them Canicipites, (to wit) dog-heads.  
 > —  
 > Cynocephales, a majmok egy fajtája, amelyek feje olyan, mint a kutyáké, és a többi részük olyan, mint az emberé; ezért Gaza Canicipites-nek, azaz kutyafejűnek fordítja őket.  
