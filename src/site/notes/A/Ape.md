@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ape/","title":"Ape","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-05T03:55","updated":"2023-11-05T03:55"}
+{"dg-publish":true,"permalink":"/A/Ape/","title":"Ape","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-05T03:55","updated":"2024-01-14T01:36"}
 ---
 
 
@@ -30,7 +30,7 @@ A majom gyakori jelképállat az egyiptomi és hindu mitológiában/ábrázolás
 Nos, a vak is látja, hogy a majom [[K/Kutyafejű\|kutyafejű]]ként ábrázolt. Már másutt láttuk, hogy a kutyák családjába tartozónak vélték régen a nagymacskákat[^1] és a vízikutyának a fókát, vidrát, stb.  
 Úgy tűnik, hogy a majom is efféle kutyának veendő jelképállat.  
 Nem ez lenne az első eset. [[A/Astennu\|Astennu]] (másnevén Asten és Isten!) egyiptomi isten is [[K/Kutyafejű\|kutyafejű]] majom[^2]! Lásd még [[B/Babi\|Babi]] istent is.  
-A közben letöltésre kerülő Edward Topsell The History of Four-footed Beasts című 1607-es kiadású könyvében (lásd az onnan való csatolt képet is) is ezzel egyezően írja:  
+Edward Topsell The History of Four-footed Beasts című 1607-es kiadású könyvében (lásd az onnan való csatolt képet is) is ezzel egyezően írja:  
 > Cynocephales, are a kind of Apes, whose heads are like Dogs, and their other parts like a man's; wherefore Gaza translateth them Canicipites, (to wit) dog-heads.  
 > —  
 > Cynocephales, a majmok egy fajtája, amelyek feje olyan, mint a kutyáké, és a többi részük olyan, mint az emberé; ezért Gaza Canicipites-nek, azaz kutyafejűnek fordítja őket.  
@@ -78,7 +78,7 @@ Elgondolkodtató ezek után, hogy vajon [[M/Majom\|majom]] szavunknak mi a jelen
 
 A fentebb frissen írottak alapján a majom inkább a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] közül lehet egy újabb. Így nem a majszolásból kell kiindulni. Maj-Om valójában Maja-Om, [[M/Maja\|Maia]]/[[M/Maja\|Maja]] istennő a Földön, ha igaz.  
 
-Az [interneten](http://www.macroevolution.net/dog-monkey-hybrids.html) szó esik még a majom és a kutya hibridizációjáról. Az alábbi animált képen egy majomnal közösülő kutyát látunk (a kutya rámegy mondjuk akármire, madárra, csirkére is). Egy Taif-ban, Szaúd-Arábiában készült videón hím páviánok rabolnak el kutyakölyköket és nevelik őket/együtt élnek. Ezek alapján nem meglepő, hogy a sárga páviánok hivatalos neve **Papio cynocephalus**.  
+Az [interneten](http://www.macroevolution.net/dog-monkey-hybrids.html) szó esik még a majom és a kutya hibridizációjáról. Az alábbi animált képen egy majommal közösülő kutyát látunk (a kutya rámegy mondjuk akármire, madárra, csirkére is). Egy Taif-ban, Szaúd-Arábiában készült videón hím páviánok rabolnak el kutyakölyköket és nevelik őket/együtt élnek. Ezek alapján nem meglepő, hogy a sárga páviánok hivatalos neve **Papio cynocephalus**.  
 ![assets/Ape_image3.png](/img/user/A/assets/Ape_image3.png)  
 A pávián nevét lásd [[B/Baboon\|baboon]] címnél elemezve, ahol ismét egyiptomi téma jön elő.  
 A cikk írója folytatja és bár először nem volt túl meggyőző (a képek ugye hamisítványok is lehetnek illetve a kutyák testtartása és alakisága nem bizonyíték hibrid lényekre), a folytatásban kifejti, hogy tudósok már régen megfigyelték a jelenséget:  

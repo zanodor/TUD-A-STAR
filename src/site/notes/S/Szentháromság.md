@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["dg_uploaded","Englishtexttranslated"]}
+{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2024-01-14T01:55"}
 ---
 
 
@@ -27,7 +27,7 @@ KT itt még a szentlélek eredeti anyai\[?\] formája kapcsán az örök [[A/Any
 Az ősi szentháromság jelképéről is szót ejt: a több helyen említett ([[S/Symbol\|symbol]] címnél például) csúcsával felfelé és lefelé álló háromszög, közepén a ponttal. A hím és női erő, közepén a gyermekkel. És hogy miként lesz a jelkép Izrael zászlaja, eltörpül ez ahhoz képest, hogy miképp lesz a Szent Földből Izrael állam? A keresztény Szent Föld az amit megszáll az iszlám és a zsidó állam is.  
 Ezen a ponton kell arról is beszélni, hogy a [[S/Szakrális geometria\|szakrális geometria]] címnél is a két idom adta meg a teremtett világról alkotott képet, csak ott nem síkidomokról, hanem gúlákról (négyzet alapú és háromszög oldallapú geometriai testek és tudjuk, hogy a három és négy is lehet a Nap száma).  
 
-A Kagylókürt 2010. 54. számából Szendrei László: Az ősmagyar vallásosságról – A Szent István előtti magyarság vallási élete című jól megírt, több helyen idézett cikkében írja ([[S/Szkítizmus\|szkítizmus]] címhez is betéve) (érdekes/furcsa a Szentlélek-Isten kifejezés, ugyanakkor [[I/Isa\|isa]] címnél taglaltak alapján akár érthetem is):  
+A Kagylókürt 2010. 54. számából letöltésre elérhető Szendrei László: Az ősmagyar vallásosságról – A Szent István előtti magyarság vallási élete című jól megírt, több helyen idézett cikkében írja ([[S/Szkítizmus\|szkítizmus]] címhez is betéve) (érdekes/furcsa a Szentlélek-Isten kifejezés, ugyanakkor [[I/Isa\|isa]] címnél taglaltak alapján akár érthetem is):  
 > "Három a magyar igazság" – tartja a régi közmondásunk, ami részben az Isten-képünkre is helytálló megállapítás, mivel legalább a szkíta-kor óta a magyarság Isten-képének három meghatározó eleme, aspektusa van: Atyaisten, Anyaisten/Isten-Anya (Boldogasszony), Szentlélek Isten. Fiúisten azért nincs, mert az ún. szkíta-kereszténység Istenképe sok-sok évszázaddal (talán évezreddel) Jézus eljövetele és földi ténykedése előtt már létezett. Ám megjegyezendő, hogy a középkortól Úristenen a magyarok már Jézust is értik.  
 
 A Szentlélek-Isten kapcsán írja ([[T/Turul#Turul mint Szentlélek\|Turul mint Szentlélek]] cím/alcímnél is szerepelt):  
@@ -50,7 +50,9 @@ Perzsiában az Achaemenida Artaxerxes II[^2] uralkodó által építtetett szobr
 > Artaxerxész szúszai felirata így szól: "Ahura Mazda, Anahita és Mithra akaratából építettem ezt a palotát. Ahura Mazda, Anahita és Mithra óvjon meg engem minden gonosztól" (A²Hc 15-10). Ez figyelemre méltó szakítás a hagyományokkal; előtte egyetlen akajmenida király sem hivatkozott másra, csak egyedül Ahura Mazdára.  
 - Ez a szentháromság megvan sok kultúrában, de erről az Encyclopedia Iranica írói nem tesznek említést.  
 
-#### Gyárfás Ágnes lánya, Tibold Makk Szabina Aranykalickából kiröppenő gondolatok...
+  
+
+#### Tibold Makk Szabina Aranykalickából kiröppenő gondolatok...
 
 ...című az Ősi Gyökér 2009/1. sz. megjelent cikkében írja ([[H/Három istennő\|három istennő]] címnél is szerepelt):  
 > James Mellaart szerint Catal Hüyük (jelenleg Konya Törökországban) neolitikus kori népének kultúrája Kr.e. 6500-tól számítva minimum 1000 évig virágzott. Ezt írja Mellaart a feltárt emlékek és sírok megvizsgálása után: "Elsőrendű istenségük az Istennő volt, akit három aspektusában jelenítettek meg, mint fiatal Szüzet, a Szülő Anyát és a Bölcs Vénasszonyt". Ő volt az eredeti 'Szentháromság'.  
@@ -79,10 +81,10 @@ A másutt előjövő Falvay Károly által adatolt passzusból kiderül, hogy a 
 ![assets/Szentháromság_image3.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image3.png)  
 [[D/Démétér\|Démétér]] Zeusszal történő nászában inkább a Nagy [[R/Rhea\|Rhea]] Anyának (anyjuknak) a hasonmása volt, aki saját fiával nemzette Perszephonét (más néven a szűz Korét \[= lányt\]), és leányában önmagát szülte újjá. \[Hogy\] erről a misztériumról nyíltan igen keveset meséltek \[érthető is\].  
 
-JM írása ugyanerről ([[H/Három istennő\|három istennő]] címnél is szerepelt:  
+- JM írása ugyanerről ([[H/Három istennő\|három istennő]] címnél is szerepelt:  
 > Rhea, Démétér és a Koré időbeli triásza a mezőgazdasági évszakok egymásutánját szimbolizálja. Az "öreg" Rhea a meddő téli földet, az érett Démétér a termőre fordult nyári-őszi földet, az ifjú Koré a magot befogadni kész tavaszi földet.  
 
-A 216-217. oldalon a bolgár Marazov I.: Thrákia és a thrákok című könyvéből idézve írja:  
+Falvay Károly könyve 216-217. oldalán a bolgár Marazov I.: Thrákia és a thrákok című könyvéből idézve írja:  
 > A Nagy Istenanyán nyugodott az egész világ. Ő volt az Ég \[FK-nál menny\] és Föld, az élet forrása és az emberiség ősanyja. A tudósok szerint ez a mítosz keleti eredetű. \[...\] A háromrészes edénynek is megvan a megfelelője az Iránban, Kis Ázsiában és az Égei-tenger mellékén talált, bronzkorszak végéről származó vázákban, melyek három részből állanak. Ez a hármasság eszme talán megfelel az e körzetekre jellemző **mitológiai hármasságnak: anya, leánya, fia-férje**. Mindenesetre ezzel az edénnyel mutatták be az ősidők óta ismert tej-, méz-, és boráldozatot. A szófiai körzetből származó urna a korai vaskorszakból való (Kr. e. 1700). Egymásba helyezett agyag, bronz és arany edényekből áll. Nem utal-e ez szintén három személyre – teszi föl a kérdést a bolgár régész: Nagy Istennőre, lányára, és fiára?  
 
 FK folyt.:  
@@ -98,9 +100,10 @@ FK folyt.:
 
 Lásd kazettás mennyezetről képet [[H/Hét\|hét]] címnél hét és tizenkettő alcímnél.  
 
-#### Péterfai János így szól az égi családról:  
+#### Péterfai János...  
 
-> A Hold szót összevetik a Hódít, Hódol igékkel. A Hód állat szörméje hasonlatos a Hold színéhez, innen a rokonság. A Hold a Halad (chalad) igével is rokon, ami a hattiból ered. Ebben az értelemben a Szülő a Nap, a Hold a Haladás, a Gyerek, mint Család, [[C/Child\|child]], az Unoka a Csillag. Ez a hármas rendszer sokkal régebbi, mint az indoeurópaiak képződése a magyar nemzetségekből.  
+...így szól az égi családról:  
+> A Hold szót összevetik a Hódít, Hódol igékkel. A Hód állat szőrméje hasonlatos a Hold színéhez, innen a rokonság. A Hold a Halad (chalad) igével is rokon, ami a hattiból ered. Ebben az értelemben a Szülő a Nap, a Hold a Haladás, a Gyerek, mint Család, [[C/Child\|child]], az Unoka a Csillag. Ez a hármas rendszer sokkal régebbi, mint az indoeurópaiak képződése a magyar nemzetségekből.  
 
 Másutt bővebben kifejti PJI a család fogalmát:  
 > A Hold másik nagy eszmerendszere a Nap-Hold-Csillag fogalomból ered. A Nap a Szülő, a Hold a Gyerek, a Csillag az Unoka, aki egyben Ünőke. Ebben a rendszerben a Hold a Halad, hettita `Chalad`, maga a Haladás. A Család tehát a Hold, amely Halad. Ha a Családnak van Gyereke, akkor Halad, mert a Gyerek a Család. Az angol nyelvű Child eszerint Család, vagyis Gyerek. Magyarul a Család ma is elsődlegesen Gyerek értelmű.  
@@ -227,7 +230,7 @@ Említett másik cikkében tömörebben írja:
 > Az atom, az érzés, a gondolat nem csupán megvalósult, kifejezett, anyagi, mert hozzátartoznak hajtóerőik, a természettörvények, és ezek hajtóerői, az átfogó, a Mindenséget egyetlen eleven egésszé ölelő első elvek.  
 > A hármas háromság egyetlen egészet alkot: a Világegyetemet. A fizika, a biológia és a pszichológia a valóságban nem válik három külön részre, hanem egyetlen egységes egészet alkot, a Világegyetemet. Ez a tudományos Egyháromság lényege.  
 
-[[G/Grandpierre Atilla\|Grandpierre Atilla]][^10] írja:  
+Grandpierre Atilla[^10] írja:  
 > Amíg a fizika lényegét az elmúlt évszázadokban egyetemes természettörvényei jelentették, addig az átfogó tudományban a legkisebb hatás elve \[lásd róla [[P/Physics\|physics]]\] jelenti a fizika lényegét, mert belőle levezethető a fizika összes természettörvénye, így sűrítetten és átfogóan magában foglalja azokat.  
 
 Másutt:  
@@ -252,7 +255,7 @@ Közös mindkettőben a [[F/FU\|FU]] etimon. De a biológia ([[B/Biology\|biolog
 > Háromszögletű napjelkép is van, bármily hihetetlen. Az például az egyiptomi [[P/Piramis\|piramis]], mely a "Fényhegyek" ([[V/Világhegy\|Világhegy]]) kőből rakott mása. A "fényhegy", az [[A/Ahet\|ahet]] hieroglifa azt a helyet jelöli, ahol a Nap lenyugszik és fölkel, vagyis ahol – két hegy között – az egyik világból a másikba átlép. Kákosy László a fényhegy-metafora alapjának azt a valóban gúla vagy háromszög alakú fénypiramist tartja, mely Egyiptomban olykor naplementekor a nyugati égbolton, napkeltekor keleten látszik (lásd még "állatövi fény"). Magát a Napot is ábrázolják [[G/Gúla\|gúla]] alakúnak, amiből arra következtet, hogy a piramist napjelképnek is felfoghatjuk. Háromszögbe kristályosodó forma az egyiptomi [[O/Obeliszk\|obeliszk]], mely a napsugár gránitba faragott (egykor aranylemezzel burkolt) metaforája. A napsugarakat pedig kis háromszögekből álló füzérek formájában ábrázolták (például a denderai Hathor templomban).  
 > És hát mi más lenne, mint "napháromszög" a **Szentháromság** napsugaras háromszöge?  
 > A Szentháromság minden egyes személyéről a néphit tudni véli, hogy a Napban lakozik; Isten mindent látó szemét egy hagyomány szintén a Nappal azonosítja – szó lesz róla alább –, s az egyenlő oldalú háromszög mint a tökéletesség jelképe is utal az isteni tökéletességű Napra.  
-> ![assets/Szentháromság_image6.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image6.png)  
+> ![assets/Szentháromság_image6.png|475](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image6.png)  
 > Szeged népművészetének jellegzetességei a napsugaras oromdíszű házhomlokzatok. (47. rajz.) Mint Bosnyák Sándor írja, a tető mintázatában "a szegedi parasztok a napfelkeltét, a delelést, a napnyugtát, a alul a zárt rekeszekben az éjszakát látják."  
 > ![assets/Szentháromság_image7.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image7.png)  
 
@@ -263,7 +266,9 @@ Bálint Sándor szerint e napsugaras háromszög szentháromság-jelkép volt, s
 > A Szentháromság képét a napsugaras oromdísz értelmezésében láthatjuk. Bálint Sándor írja: "A szentháromságot jelképező, bajelhárítónak érzett háromszög, középen a mindeneket látó isten szemével átkerült a szegedi házak utcára nyíló oromzatára." (Szegedi napsugaras házak. Művészet, 1973. aug. 1) A csíksomlyóiak például pünkösd napján még ma is a felkelő Napban köszöntik a Szentháromságot.  
 > (A két nézet nemhogy megfér egymás mellett, az ókori Egyiptomban össze is tartozott; a kelő, delelő és a lenyugvó Nap alkotta a nappali triászt, mely kiegészült az éjszakai napisten (lásd meg [[N/Nap – halott Nap\|Nap – halott Nap]]) személyével.)
 
-Berényi László Géza Holisztikus világszemlélet 7000 éve a Kárpát-medencében (a KöR-iS-TeN fraktál) című Ősi Gyökér 2007/1. sz. megjelent cikkében írja:  
+#### Berényi László Géza Holisztikus világszemlélet 7000 éve a Kárpát medencében (a KöR-iS-TeN fraktál)...  
+
+...című Ősi Gyökér 2007/1. sz. megjelent cikkében írja:  
 > Azt, hogy a világunk valamely "háromság egysége", ritkán fogalmazzák meg egyértelműen. Talán a "Három a magyar igazság!" (Egy a ráadás!) talányos szólásmondásunk éppen erre vonatkozik! A Mikrokozmosszal azonosítható Test, Szellem és Lélek háromságról talán mindenki hallott már, de ezek egységét nem szokás kihangsúlyozni. Ennek analógiájaként a Makrokozmoszra vonatkoztatható háromságot Anyag, Energia és Információ néven ismertetik magyar kutatók. Más megfogalmazásban ez a felismerés Anyag és/vagy Energia háromságnak hangzik. Az és/vagy kapcsolati elem hordozza az információt, mármint azt, hogy a két "pólus", a részecske jellegű anyag és a hullámtermészetű energia egy és ugyanaz. A vizsgálat módszerétől függően a fényt például anyagnak vagy energiának érzékeljük. Hogy ez a háromság egység is, nem lehet kérdéses, hiszen a világegyetemből egy van és rajta kívül nincs semmi.  
 > \[...\]  
 > Láthatóan a szentháromság fogalom a világegyetem szerkezeti jellemzője, kicsiben és nagyban egyformán jellemző modellje. A zsidókeresztény felfogásban a Föld és az Ég elválasztásra került, a látható (anyagi) világ és a nem látható (transzcendens) szféra elkülönült. A kettő között a kapcsolat már nem magától értetődő, hanem csak alkalmas közvetítők, (például papok) segítségével tartható fenn. A mesterségesen létrehozott Atya, Fiú, Szentlélek modellnek a Természetben nincs analógiája.  
@@ -360,7 +365,7 @@ Beszél arról, hogy a három komponens (szellem, lélek, test) neve a héberben
 [Ezen](https://qr.ae/pGJjru) műsorban 3:00 előtt is szólt erről röviden. Teljesen kézenfekvőnek veszik az egyházi személyek a kérdést, mondván, "lélek, szellem, az ugyanaz." A hívő pedig már eleve nem is nagyon meri feltenni a kérdést.  
 14:55-nél megint elhangzik, hogy aki ragaszkodik a háromrétegűséghez, az kétféle lelket tételez fel és az eretnekség. Utána beszél a csúsztatás[^11] fogalmáról a kapcsán, hogy addig témáznak a dologról, hogy a végén már ne lehessen tudni, hogy eredetileg három rétegű volt az ember vagy csak két külön nevet adtak volna korábban ugyanannak, vagy hogy is volt.  
 A mellékelt hímzésről való képen jól látszik a három, elkülönített rétege az embernek (nem is lehet nem észrevenni a hármas tagolást).  
-[Ezen](http://www.ujexodus.hu/tortenelem/egy_kiatkozo_zsinat_es_kovetkezmenyei) oldal anyagából idéz (a második említett videóban) PG:  
+[Ezen](http://www.ujexodus.hu/tortenelem/egy_kiatkozo_zsinat_es_kovetkezmenyei) oldal anyagából idéz (a második említett videóban) Pap Gábor:  
 
 Kulcsár Árpád – Egy kiátkozó zsinat és következményei – Drámai szakítás az ember szellem-lélek-test hármas felosztásával  
 > 869-ben viharos előzmények után ült össze Konstantinápolyban az az egyházi tanácskozás, amelyet Róma mindmáig kiemelkedő jelentőségűnek ítél, és VIII. egyetemes zsinatként tart számon, miközben a keleti kereszténység nem fogadja el érvényesnek az itt született határozatokat.  

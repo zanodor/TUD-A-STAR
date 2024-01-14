@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2024-01-03T03:09"}
+{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2024-01-14T01:48"}
 ---
 
 
@@ -41,8 +41,11 @@ TZs is írja:
 > ...jelentésű. Ha más nem is, de az elgondolkodtató lehetne számukra, hogy a magyar lelke halála után az árnyékvilágba távozik, de ezt az árnyékvilágot néprajzosaink mintha messze elkerülnék! Ki tudja miért? (Egy finn nyelvész, Paasonen, és nyomában Szendrey Ákos viszonylag helyesen elkezdte keresni rokonságunknak(?) ezt a szálát is... de aztán hirtelenül nagyon elfelejtődött ez az irány! Arról is kevés olvasható, hogy micsoda ez az ÁRNYÉK-lélek valójában.
 
 Még mielőtt nyomába erednénk a magyar lélekfogalomnak, villantsuk fel egy pillanatra az altáji népek lélek-elképzeléseit. Szerintük egy testben több lélek is lakozik, így megkülönböztetnek tin-lelket (én-lélek, lélegzés-lélek), [[K/Kut\|kut]]-lelket (életerő, elrablása halált okoz), sür-lelket (hasonmás-lélek, amely elválhat a testtől), körmös-lelket (a halott szelleme), ezen belül pedig aru-körmös és gyarman-körmös lelket (a halott jó és rossz szellemét.) \[Ezen adatsor [[K/Körmöc\|Körmöc]] és [[K/Kut\|kut]] címnél is megvolt.\]  
-Fehér M. Jenő Középkori magyar inkvizíció című könyvében Körmöc nevű démont és mást is említ a téma kapcsán:  
-Ugyancsak a sárospataki monstreperben tesznek említést a vádlottak védelmében felszólaló tanúk a "körmöc" nevű démonról az ártékony szellemek sorából (421). Radloff kök-türkök szóelemzésben említi meg ezzel a körmöc szóval kapcsolatban, hogy az altáji népek hiedelemvilágában a szellemet két kategóriába osztották: a töc (másként möc) és Nama nevű szellemekre. Az utóbbinak, vagyis a Nama csoportnak is két változata van, a jó és rosszindulatú, testtől levált lelkek csoportja és a gonoszakat a körmöc gyűjtőnévvel illetik.  
+
+#### Fehér M. Jenő Középkori magyar inkvizíció...  
+
+...című könyvében Körmöc nevű démont és mást is említ a téma kapcsán:  
+> Ugyancsak a sárospataki monstreperben tesznek említést a vádlottak védelmében felszólaló tanúk a "körmöc" nevű démonról az ártékony szellemek sorából (421). Radloff kök-türkök szóelemzésben említi meg ezzel a körmöc szóval kapcsolatban, hogy az altáji népek hiedelemvilágában a szellemet két kategóriába osztották: a töc (másként möc) és Nama nevű szellemekre. Az utóbbinak, vagyis a Nama csoportnak is két változata van, a jó és rosszindulatú, testtől levált lelkek csoportja és a gonoszakat a körmöc gyűjtőnévvel illetik.  
 
 #### Varga Zsigmond Az ősmagyar mitológia...
 
@@ -55,10 +58,10 @@ Ugyancsak a sárospataki monstreperben tesznek említést a vádlottak védelmé
 > Milyen különös véletlen, hogy nyelvünk első, összefüggő és hiteles szövegemléke éppen egy [[H/Halotti beszéd\|Halotti beszéd]]!  
 - Innentől folytatást lásd lentebb [[L/Lélek#Isa, por és hamu\|isa, por és hamu]] alcímnél.  
 
-> Illetve még Szendrey Ákos Ethnografia-s 1946-os A magyar lélekhit című tanulmányából idézve írja arról, hogy néphitünk is két lélekről tud:  
+Illetve még Szendrey Ákos Ethnografia-s 1946-os A magyar lélekhit című tanulmányából idézve írja arról, hogy néphitünk is két lélekről tud:  
 > Kiskunhalason azt tartják, hogy amikor a gyermek megmozdul az anyjában, akkor adja Isten beléje a lelket. Addig el lehet hajtani, de ha már megmozdult, akkor vétek. A magzat lelke az Isten titkos akaratából megy bele a gyerekbe. **A lélek az a bizonyos isteni szikra. Egy másik lélek, ez azonos a levegővel**, ha ezt nem kapja, akkor az ember megfullad, a levegő tartja fönn az embert, ha ez megáll, megáll az élet működése. A kopácsiak szerint az élő lélek akkor megy a gyermekbe, amikor az anyja megszüli, addig csak mozog benne.  
 
-Hasonlóról szól JM A Nap könyvében:  
+Hasonlóról szól Jankovics Marcell A Nap könyvében:  
 > Az elterjedt hiedelem szerint **a lélek a napsugárral jut az anya testében növekedő magzatba**. Ezt a gondolatot **csak kivételes személyek esetében tartották fontosnak kihangsúlyozni** \[hogy a [[S/Szeplőtelen fogantatás\|szeplőtelen fogantatás]] értelmezése alól egyúttal ki tudjanak bújni\]. Például az első ember vagy dinasztia- és népalapító atyák születésével kapcsolatban. Jó példa a bibliai ősapánké, [[A/Ádám\|Ádám]]é, akibe lelket a világosság Istene \[hát Jahve nem az\] lehel, és Jézusé, Isten fiáé. A középkori keresztény művészet úgy ábrázolja Jézus fogantatását, hogy a (szent)lélek fénysugáron hatol Mária méhébe. Az első ember, aki tehát az eredetmondákban mindig az ágyékából származó nép első fejedelme és főpapja (sámánja) is egy személyben, rendszerint a Nap fia vagy leszármazottja.  
 
 Molnár V. József mondja, hogy **egy székely imádságban szó van az isten szájából kieresztett lélekről (mely már a fogantatás pillanatában lehívódik**).  
@@ -453,6 +456,8 @@ Dr. Gyárfás Ágnes az Ősi Gyökér 2010/1-2. sz. közölt Magyar őskutatás 
 
 Ha már az ösztönről épp fentebb volt szó, folytassuk azzal, amiről a [[M/MI#'Mi' volt a régi 'én'? Hangya/termesz vagyis inkább méh-tudatú volt a régi emberiség?\|'Mi' volt a régi 'én'? Hangya/termesz vagyis inkább méh-tudatú volt a régi emberiség?]] cím/alcímnél és [[A/Animal\|animal]] címnél szereplő Gyárfás Ágnes A király virágoskertje című az Ősi Gyökér 2015/1-2. sz. megjelent meseelemzésében a mitikus erejű állatsegítők (a kisegér, a kutya, a farkas és a róka) kapcsán (annak kapcsán, hogy lelkük erejét – sípot – ajánlották fel a király védelmére) szó volt, miszerint az állatok lelke – ahogy hányszor megmagyarázták nekünk – csoportos: csak csoportos lélek működik bennük és csak ösztöneik vannak. (Lehet, hiszen a síppal még a lelküket is nekünk adták. Ha belefújunk, a lelküket érintjük lehelletünkkel. Eggyé válunk, mert a természet egy egységes egész.)  
 
+
+
 #### Tibold Makk Szabina A lélek fénye és árnyéka...
 
 ...című az Ősi Gyökér 2018/1-2. sz. megjelent cikkében a közös lélek fogalmat használja alfejezetcímként majd ezt írja:  
@@ -481,8 +486,10 @@ Ha már az ösztönről épp fentebb volt szó, folytassuk azzal, amiről a [[M/
 > Így keletkezett az a kép, hogy a Nap (a régiek hite szerint isten, ős, kultúrhérósz, lélekközvetítő stb.) és planétatársai "lélekben" (amikor nem látjuk őket) a Tejúton járnak. Ennek nyomán készült például Mithras-Sol híveinek "égbe vezető" lajtorjája, melynek hosszanti szárai a Tejút ágait jelképezték, 7 foka pedig a bolygószférákat. (Természetesen nemcsak a Nap, hanem az összes bolygó is keresztezi a Tejutat látszólagos keringése során.)  
 > Az igazsághoz tartozik, hogy e képzet nem előzmény nélkül való: talán egy néhány évezreddel korábbi, hasonlóan jeles "csillagállás" idején keletkezett, amikor **a mondott tejútkereszteződések a tavaszi és őszi napéjegyenlőségi "kapukkal" estek egybe**. Gondoljunk csak a Mithras létrájánál jóval ősibb 7 lépcsős mezopotámiai zikkurátokra, az egyiptomi Dzsószer fáraó hasonlóan régi lépcsős piramisára, s az egykorú piramisszövegekre, melyek a [[N/Nut\|Nut]] létra- és tejútistennőn felkapaszkodó lélek nevében szólnak, Jákób lajtorjájára, amelyen angyalok járnak le s fel, vagy Salamon hat-, a trónussal együtt hétlépcsős trónusára (Kir 10,19), amit majd 1800 évvel később Nagy Károly a maga trónusához mintául vesz. De ha már példáknál tartunk, mondjunk térben távoli párhuzamokat is, amilyenek a közép-amerikai templompiramisok, melyeken a kiszemelt áldozat lélekben már az égi lépcsőket járva lépkedett fel, vagy a szibériai sámánok létrái, amelyeket még a filmkamera is megörökíthetett.  
 
-John Major Jenkins Galactic Alignment című könyvének 8. fejezetében szól a Mithraizmusról. (JMJ ugye mindenütt napfordulós tengelyeket keres és itt meg is találta az előző világkorszakban a Tejúton fekvő [[B/Bak-Rák tengely\|Bak-Rák tengely]] személyében.)  
-Ami a lélekjárást illeti, itt is az előző világhónapbani Rák-Bak jön elő:  
+#### John Major Jenkins Galactic Alignment...  
+
+...című könyvének 8. fejezetében szól a Mithraizmusról. (John Major Jenkins ugye mindenütt napfordulós tengelyeket keres és itt meg is találta az előző világkorszakban a Tejúton fekvő [[B/Bak-Rák tengely\|Bak-Rák tengely]] személyében.)  
+Ami a lélekjárást illeti itt is az előző világhónapbani Rák-Bak jön elő:  
 > Scholars have been able to reconstruct a great deal about Mithraism by examining the symbolism in many surviving Mithraeum (Mithraic sanctuaries), often well preserved in underground chambers or natural caves. Although there is scant historical information on the doctrinal beliefs of Mithraism, a central tenet of Mithraism is described in the writings of Porphyry. In his De antro nympharum (The Cave of the Nymphs), Porphyry tells us that the Mithraic cave symbolizes the cosmos. For the doctrine of two doorways in the cosmic cave through which the soul ascends and descends, he draws explicitly from the neo-Pythagorean philosophers Numenius and Cronius. The soul is believed to descend into manifestation (genesis) through the gateway in Cancer and ascend to the transcendent realm (apogenesis) through the gateway in Capricorn.  
 > The doctrine of the celestial gateways is essential to understanding Mithraism. Notice, however, that Porphyry places the gates, like all Greek writers after him, in Cancer and Capricorn, as that was the position of the solstice axis in his day.  
 > —  
@@ -521,13 +528,12 @@ Tőle való még:
 
 #### Grandpierre Atilla Karácsony eredete és jelentősége...
 
-...című dolgozatában szól a lélekutazásról (a fentieket is újra elmondja a szabadlélekről):  
+...című [letöltésre elérhetővé tett](https://mega.nz/file/pzNzhKJB#KXz_bvQtrp_QYzmqFqWwIpf4TSn31z4Fn4bUVLJ8jpA) dolgozatában szól a lélekutazásról (a fentieket is újra elmondja a szabadlélekről):  
 > A Magyar Néprajzi Lexikon "lélek" szócikke alatt (1987, 3.. kötet, 438-440) Pócs Éva a következőket írja:  
 > A közelmúltban még fellelhető és egymástól több-kevesebb világossággal még megkülönböztethető lélekképzetek a következők: 1. lélegzetlélek (lehellet). Alapja az a tapasztalati tény, hogy amíg él az ember, lélegzik – halálakor az utolsó lehelettel "kileheli lelkét," "kiadja lelkét." Ez a lélegzetlélek a testtel szoros kapcsolatban van, akinek testéből eltávozik, az meghal. 2. A szabadlélek (árnyéklélek, képmáslélek): a testtől átmenetileg függetlenedhet; a hit szerint alvás idején eltávozik a testből, majd ébredéskor visszatér. Fogalma szórványos történeti adatokból (boszorkányperek) és hiedelemtörténetekből ismert. A szabadléleknek szerepe van a sámánhitű népek körében. E kétféle lélekelképzelést magában foglaló, dualisztikus felfogás igen régi, és a mai Európában már csak igen csökevényes formában lelhető fel; illetve dominál a lélek lélegzetlélekként való felfogása (Pócs, 1987 , 438).  
 > A szabadlélek az egyéntől bizonyos mértékben szabad, - testétől független – és ezért távozásával a test élete nem szűnik meg. Tartózkodási helyét, az emberi testet elhagyhatja átmenetileg vagy alkalmilag annak életében is. Az így elhagyott testet még jellemzik az élet funkciói, csak éppen a test többnyire nyugalmi pozícióban, alvásban van, de ugyanakkor él, lélegzik. Főleg az illető álmában, tehát tétlen, cselekvőképtelen voltában hagyja el a testet. A szabadlélek az álom időszakán kívül – némely kiválasztott ember esetében – is elhagyhatja a testet. A sámántól éber állapotában, a révülés alkalmával is távol maradhat a lélek, ekkor beszélünk révületlélekről. A szabadlélek a testtől többnyire független – távozása nem okozza a test azonnali halálát, így egy magasabb rendű lélekféleséget feltételez. Azonban a test halálát is okozhatja, ha túl sokáig marad távol az elhagyott testtől, illetve míg a testtől távol tartózkodik, az alvó, üres testet elfoglalhatja egy testnélküli szabadlélek vagy alvilági szellem, és ezzel a nevezett test halálát okozhatja – írja Szekeres Gyula A gyógyító táltos című könyvében, a 26. oldalon. Ez azt jelenti, hogy a szabadlélek az élet és halál közti vékony mezsgyén találja meg az átjárót az égi világba.  
 >
 > Az obi-ugorok leheletléleknek nevezik azt a lelket, mely az élő emberhez (állathoz) hozzátartozik, s mely a halál pillanatában hagyja el a testet és kezd önálló, új, a testtől független létet. A másik lelket, az árnyéklelket az ember szellemi képességei és szellemi ereje megszemélyesítésének lehet tekinteni, ez képes önállóan élni. A jövőbelátók lelke akkor is elindulhat "tudakoló utakra" , amikor tulajdonosuk teljes öntudatnál van. Ez a "másik én" képes végtelen messzire gyorsan eljutni, sok olyan cselekedetet véghezvinni, amelyben az anyagi test nem vesz részt. Az obi-ugoroknál az árnyéklélek mindenütt ismert fogalom, s mint ilyen, feltehetően az ősi örökségbe tartozik, jóllehet nincs egységes neve. A legelterjedtebb a voguloknál és a nyugati osztjákoknál az `isz` szó, a finn `itse` 'saját maga' megfelelője – írja Vértes Edit Szibériai nyelvrokonaink hitvilága című könyvében (Tankönyvkiadó, Budapest, 1990, 115. oldal).  
-
   
 
 > Piers Vitebsky A sámán című könyvében egy sor fontos adatra bukkanunk. "A sámán tevékenysége a térelméleteken alapul. Bár a mindennapi világot is a szellemek töltik be, vannak egyéb, különálló valóságrégiók, ahová a sámánnak el kell utaznia. (...) A **tér** szó itt metaforaként értelmezhető, a különálló szellemi régiók másságát fejezi ki. \[De ugye a csillagok terét is jelenti.\] Ha a szellemeket a bennünket körülvevő dolgok lényegének tekintjük, akkor ez a régió földrajzilag nem valami távoli hely. Inkább ugyanabban a térben van, ahol mi magunk, azonban közülünk csak néhányan és csak néha érhetik el. Az odajutáshoz nagy erőfeszítés és ügyesség szükséges. A "tér" különállást, másságot sugall, s a sámán utazása bizonyíték arra, hogy van lehetőség összeköttetésre" (Piers Vitebsky: A sámán. A lélek utazásai. Révülés, eksztázis és gyógyítás Szibériától az Amazonasig. Magyar Könyvklub – Helikon Kiadó, 1996, 15). \[[[TÉR\|[TÉR]] és [[T/Tree\|Tree]] címhez is betéve.\]  

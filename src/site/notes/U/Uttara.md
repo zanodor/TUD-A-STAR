@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Uttara/","title":"Uttara","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-17T08:05","updated":"2023-11-10T02:44"}
+{"dg-publish":true,"permalink":"/U/Uttara/","title":"Uttara","tags":["Englishtexttranslated"],"created":"2023-10-17T08:05","updated":"2024-01-14T01:49"}
 ---
 
 
@@ -11,9 +11,10 @@
 
 > In Sanskrit the North is called Uttara, i.e. the highest region; the South is called Dakshina, the region to the right, i.e. the one which is on one's right in turning to the East; the ascending march of the Sun towards the North, beginning with the winter solstice and terminating at the summer solstice, is called [[U/Uttarayana\|Uttarayana]]; the descending march of the Sun towards the South, beginning with the summer solstice and ending at the winter solstice, is called Dakshinayana.  
 > —  
-> A szanszkritban az északi területet Uttarának, azaz a legmagasabb régiónak nevezik; a déli területet Dakshina-nak, a jobb oldali régiónak, azaz annak, amelyik kelet felé fordulva jobbra van; a Nap észak felé tartó felfelé haladó menetét, amely a téli napfordulóval kezdődik és a nyári napfordulóval végződik, [[U/Uttarayana\|Uttarayana]]-nak nevezik; a Nap dél felé tartó lefelé haladó menetét, amely a nyári napfordulóval kezdődik és a téli napfordulóval végződik, Dakshinayana-nak nevezik.  
+> A szanszkritban az északi területet Uttarának, azaz a legmagasabb régiónak nevezik; a déli területet Dakshina-nak, a jobb oldali régiónak, azaz annak, amelyik kelet felé fordulva jobbra van; a Nap észak felé tartó felfelé haladó menetét, amely a téli napfordulóval kezdődik és a nyári napfordulóval végződik, [[U/Uttarayana\|Uttarayana]]-nak nevezik; a Nap dél felé tartó lefelé haladó menetét, amely a nyári napfordulóval kezdődik és a téli napfordulóval végződik, Dakshinayana-nak nevezik.  { #555fs6}
 
-Uttara olyan név mint [[U/Uther\|uther]] és Vittor (Vidor) a [[V/Victory\|victory]] címnél (mármint arra gondolok, hogy a latin kt msh.-páros nem eredeti, de tippet adhat arra is, hogy uttara-nak vagy hasonló szónak kt-s variánsa lehet; alant udvar szóról is lesz szó).  
+
+  
 Az [[U/Uterus\|uterus]] címnél előjövő aveszta/ind `udarō`-/`udará` = has viszont inkább délre utalna.  
 Az [[U/Utter\|utter]] címnél előjövő óangol `ūtera`, `ūttra` szavakat külső (honnan [[O/Out\|out]]?) jelentéssel adatolja Oxford. A külső út nyilván a sötét (déli) félévre utaló.  
 Az [[O/Other\|other]] címnél említett ószláv `utor` = másik, második jelentésű szó is a sötét félévre utaló.  

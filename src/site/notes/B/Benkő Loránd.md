@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/B/Benkő Loránd/","title":"Benkő Loránd","tags":["dg_uploaded"],"created":"2023-10-23T03:42","updated":"2023-10-25T01:03"}
+{"dg-publish":true,"permalink":"/B/Benkő Loránd/","title":"Benkő Loránd","created":"2023-10-23T03:42","updated":"2024-01-14T01:35"}
 ---
 
 
 # Benkő Loránd
 
-Benkő Loránd Széchenyi-díjas nyelvészünk. Őt idézi Grandpierre Atilla, A magyar nemzettudat történelmi alapjai című cikkében:  
+Benkő Loránd Széchenyi-díjas nyelvészünk. Őt idézi [Grandpierre Atilla A magyar nemzettudat történelmi alapjai](https://mega.nz/file/56USlBpC#VdRsxEWHyOwl0TQP_xS6twiz7f9C7O3b7YxfhI_G-Iw) című cikkében:  
 > "A magyar nyelv önálló fejlődése sokkal nagyobb időtávlatú, mint akár Európa mai indoeurópai nyelveinek, akár uráli-finnugor nyelveinek legtöbbjéé" – írta Benkő Loránd Széchenyi-díjas nyelvészünk (Benkő Loránd, 1997, 164.).  
 
 #### László Gyula idézi:  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-31T06:45","updated":"2023-11-21T10:16"}
+{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated"],"created":"2023-10-31T06:45","updated":"2024-01-14T01:37"}
 ---
 
 
@@ -35,7 +35,7 @@ Aztán ott van a [[P/Pártus\|pártus]] címnél előjövő elnevezés (Parathas
 > Az aszuráknak a nap imádatával való összekapcsolása összhangban van a mezopotámiai feljegyzésekkel, amelyek szerint az aszurák napimádók voltak. Mind az `asur`, mind az `assur` fémművesek. Mindkettő a Rigvédában említett bhāratam janam (RV 3.53.1: viśvāmitrasya rakṣati brahmedam bhāratam janam). `Bharata` = fémek öntése öntőformába; `bharavum` = kitölteni; beletenni; beleönteni (gudzsarati) bengáli.  
 > \[...\]  
 > [[M/Mleccha\|Mleccha]] a `bharatiyo` (fémöntők) szubsztrátum nyelve volt, akik közül sokan a dvīpa (két folyó - Sindhu és Sarasvati - közötti földterület vagy a Kutch-öböl, a Khambat-öböl, Makran partvidéke és a Perzsa-öböl Meluhha régiója mentén fekvő szigetek) területén éltek.  
-- Ezen `bharatiyo`-hoz hasonló kifejezést, `bharatiya`-t használ a népek gyűjtőneveként is és ilyen név szerepel egy lexikális glossza az internetről is letölthető An Indian Lexicon – Comparative Dictionary of 25+ ancient Bharatiya languages című kiadvány nevében. <br/>
+- Ezen `bharatiyo`-hoz hasonló kifejezést, `bharatiya`-t használ a népek gyűjtőneveként is és ilyen név szerepel egy lexikális glossza az internetről is letölthető [An Indian Lexicon – Comparative Dictionary of 25+ ancient Bharatiya languages](https://mega.nz/file/guN0GCJb#ZFJu-akxj5m6vGPthpSvw_9Z9yguaHnahV57IxQXpAI) című kiadvány címében. <br/>
 Egy másik, szintén letölthető Processions of hieroglyphs are classifiers of metalwork of Indus Script artisans című dolgozatában viszont (a milyen nyelvű?) `barad`, `barat` = ökör jelentéssel megadott de megadja a marathi nyelvű `bharata` = rézötvözet, cin jelentést is (rébuszként).  
 
 A fentiek alapján is valószínű, hogy az ...
@@ -104,7 +104,9 @@ A barát szót [ezen](https://qr.ae/pNsjGC) Quora cikkbe is felírtam, továbbá
 - Kimaradt innen a balta r-hangos változataként számon tartható [[B/Bárd\|bárd]], a hajfonat [[B/Braid\|braid]] és akár a [[B/Bride\|bride]] szó.  
 A szanszkrit pedig csak a feljegyző nyelv, és nem is napistent jelent a név (a névadók nem szanszkrit nyelven beszéltek).
 
-A fentiek írása idején még nem ismertem a [[N/Newton kő\|Newton kő]] címnél is említett L. A. Waddell The Phoenician Origin of Britons, Scots & Anglo-Saxons (1924) című könyvét, melyben **Barat** föníciaiként kerül bemutatásra.  
+Magyar szavak közül hasonló, azaz szintén Bat-Ata felbontással számolható [[B/Bárca\|bárca]] szavunk.  
+
+A fentiek írása idején még nem ismertem L. A. Waddell The Phoenician Origin of Britons, Scots & Anglo-Saxons (1924) című könyvét, melyben **Barat** föníciaiként kerül bemutatásra.  
 
 [[K/Kér és kap\|Kér és kap]] címnél is szerepelt:  
 A Nap nevei, de legalábbis hímségi értelmű szavak szerepelnek a kér és kap szavakban is. A lényeg ugyanaz: aki kér, az kap. Úgy adom, hogy nem kell visszaadni. A Nap is úgy adományozza fényét, hőjét, hogy nem kéri számon a Földtől, mennyit adott. Hogy is írta Hafez, a perzsa költő (szépen összefoglalja, mit is jelent a Nap szerető, baráti viszonyulása a Földhöz és hozzánk, a rajta élőkhöz):  

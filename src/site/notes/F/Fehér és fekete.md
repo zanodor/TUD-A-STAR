@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-17T03:47","updated":"2023-12-04T06:53"}
+{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-17T03:47","updated":"2024-01-14T01:38"}
 ---
 
 
@@ -170,7 +170,7 @@ Tündérek kapcsán volt már szó a témáról (lásd [[F/Firtos\|Firtos]] vs. 
 
 
 [[K/Kutya – fehér kutya, fekete kutya, vörös kutya\|Kutya – fehér kutya, fekete kutya, vörös kutya]] címnél szerepelt, hogy a fehér kutyához inkább a pozitív, a feketéhez szinte mindig a negatív tulajdonságok társulnak.  
-Legutóbb egy japán filmben szólított vagy pontosabban a két kutya közül a fehér és fekete kutya megkülönböztetésül használt 'shiro és kuro chan \[chan itt nem a 'kan' neve, hanem becéző vagy tisztelet kifejezésére használt szóforma\]' kifejezések nyomán ötlött fel, hogy a japán `kuro` = fekete (ezek szerint főnév és nem melléknév) a fekete kutya neve lehetett eredetileg, mint ahogy a japán `shiro` = fehér kapcsán [[S/Szíriusz\|Szíriusz]] címnél is írtuk, hogy Shiro gyakori neve fehér kutyáknak Japánban.  
+A japán `kuro` = fekete (lehet talán főnév, nem csak melléknév) a fekete kutya neve lehetett eredetileg, mint ahogy a japán `shiro` = fehér kapcsán [[S/Szíriusz\|Szíriusz]] címnél is írtuk, hogy Shiro gyakori neve fehér kutyáknak Japánban.  
 (Más filmben Koro nevű kutya világosbarna, de nem is ez a lényeg, hanem, hogy a `kara` = üres, `kuro` = fekete és `koro` megölésre, ezzel halálra (kór is ilyen szavunk) utaló jelentései mind összefüggenek.)  
 Könnyen lehet, és erre az [[O/Ördög#Ördög: fekete kutya; Isten: fehér kutya\|ördög: fekete kutya; Isten: fehér kutya]] cím/alcímnél írottak is bizonyítékul szolgálnak, hogy a fekete kutya a sötét félévre, a fehér a világosra utal (alant Csontváry képén fekete és fehér lovak utalhatnak ugyanerre). A kuro tehát elképzelésem szerint ugyanúgy a kutya neve lehetett eredetileg, ahogy a finnben (`koira`) és maori nyelvben (`kurī`) is ilyen alakú, [[K/KUR\|KUR]]/[[K/Kúr\|kúr]] nyomán, de a [[P/Pene\|pene]]/[[F/Fene\|fene]] kutya is a fényre vagy éppen a másik oldalra, a sötétre utal.  
 [Ezen](https://qr.ae/pNzbcz) válaszban a török-mongol `kara`-`har` és a japán `kuro` = fekete szavak közös eredetéről adtak választ, ahol az az érdekes adat jött elő, hogy a proto-mongol ([[J/Jón\|jón]] címhez is betett) yowan/niowan = fekete szót váltotta fel. Mindkettő kapcsolatot mutat kutyával: koira, KUR, stb., valamint a mongol `nokhoi` = kutya is hasonló, de főleg a jón-hunok héber yavan nevére emlékeztet és az összesen keresztül a hun = han = kutya összefüggést értjük.  
@@ -215,7 +215,7 @@ A [[K/Khuit\|Khuit]] címnél szereplő Edward P. Butler Henadology című blogj
 
 ...című [[A/Ápisz\|Ápisz]] címnél is taglalt cikkében kiderül (Plutarchos révén is), hogy mind Széth és Ozirisz alakja kapcsolódik Ápiszhoz:  
 > Hórusz szintén harcba indult, mint Gilgames. A Bika figuráját az egyiptomiak is a büntetéssel, halállal kötötték össze, Bika jegyük magába olvasztotta a Plejádokat. A Bika legfényesebb csillaga káld\[?\] Al Debaran 'követő, vezető' jelentéssel használták. Béta csillagát az arabok El Nathja 'sebesült' vagy 'leölt' értelmű szóval jelölték. Hórusz "az erős bika" többször is háborút indított Széth ellen, aki trónkövetelő volt. A Bika eredeti színe azonban vörösesbarna, az egyiptomi áldozati rítusok előírták a vörös szín használatát például a káosz erőit jelképező viaszfiguráknál. Széth a káosz erőit képviselte. Küzdelme során Hórusz a Széth bikát ökörré változtatta. A másik, [[E/Egyiptomi szalag zodiákus\|egyiptomi szalag zodiákus]] ábrázoláson viszont Ápisz bika tűnik fel Ozirisz lelkét képviselve. Plutarkhosz is hivatkozik rá, hogy egyfajta misztikus egység van a két isten között.  
-- Mivel Ozirisz és Széth Orion Jupiter és [[S/Szaturnusz\|Szaturnusz]]i részéhez köthetők, azaz a világos és [[S/Sötét félév\|sötét félév]]hez, a bikák színe de legalábbis kettőssége is innen származik.  
+- Mivel Ozirisz és Széth Orion Jupiter és [[S/Szaturnusz\|Szaturnusz]]i részéhez köthetők, azaz a világos és [[S/Sötét oldal\|sötét félév]]hez, a bikák színe de legalábbis kettőssége is innen származik.  
 
 ## Fehér és fekete patak
 
@@ -223,7 +223,7 @@ A [[K/Khuit\|Khuit]] címnél szereplő Edward P. Butler Henadology című blogj
 
 ## Fehér és fekete kovács
 
-[[V/Vas\|Vas]], [[B/Blacksmith\|blacksmith]] és [[W/Whitesmith\|whitesmith]] címnél volt szó a témáról. Még egyszer nem tenném ide. A világos és sötét féléveket a ([[B/Balog\|Balog]]) [[K/Kovács\|kovács]]-Orion választja el.  
+[[V/Vas\|Vas]], [[B/Blacksmith\|blacksmith]] és [[W/Whitesmith\|whitesmith]] címnél volt szó a témáról. A világos és sötét féléveket a ([[B/Balog\|Balog]]) [[K/Kovács\|Kovács]]-Orion választja el.  
 
 ## Fehér és fekete napok
 
@@ -232,7 +232,7 @@ A [[K/Khuit\|Khuit]] címnél szereplő Edward P. Butler Henadology című blogj
 ...című az Ősi Gyökér 2008/2. sz. megjelent cikkének alábbi adata [[S/Szkíta\|szkíta]] címnél is szerepelt:  
 > Phylarch (élt. i.e . 210 körül): A szkíták midőn aludni készülnek, puzdrát vesznek elő és ha jó napjuk volt fehér, ha rossz, fekete követ dobnak bele. Évenkint így veszik számba a jót és a rosszat.  
 
-[[I/Idő#Idő szövése\|Idő szövése]] cím/alcímnél hasonlót láttunk (JM tollából):  
+[[I/Idő#Idő szövése\|Idő szövése]] cím/alcímnél hasonlót láttunk. Jankovics Marcell tollából való:  
 > Kolumbia egyenlítői kogi indiánjainak szertartási kunyhója belső vázát és levélborítását jelképes értelemben a Nap szövi a kogik szerint. A földasszony teste a szövőszék, ennek négy sarka a négy tűzhely, rajta észak-déli irányban a képzeletben fölvetett láncfonal. Napférfi a vetélő, aki nappal fehér, éjjel fekete [[K/Kereszt\|kereszt]]-szállal szövi földasszonyon az **idő** mintázatát. (L. a szabályosan, hálószerűén beszőtt felső ég a gordiuszi csomóba gabalyodott alvilág képzetét a közép- és dél-amerikai kozmológiákban.)  
 
 ## Fehér és fekete hegy
@@ -256,10 +256,9 @@ JM más mesei példákat is hoz; lásd [[P/Pelican\|pelican]], [[A/Ablak\|ablak]
 A [[P/Pengő királyfi mese\|Pengő királyfi mesé]]ben előjövő Gyémántvár fekete és fehér színtoposzáról érdemes még itt szólni:  
 > − No, te királyfi, jól megjegyezd, hogy ebben a várban minden fekete, még étellel is csak fekete étellel kínálnak. De te, akármit csináljanak veled, akárhogy megkínozzanak, egyebet el ne fogadj fehér ételnél. Bemegy Pengő a gyémántvárba, hát belől olyan fekete, mint a korom. Feketék a falak, feketék a garádicsok, az ablakok; megy a szobákba, azok is mind feketék. Jönnek a szolgák, fekete az arcuk, fekete a ruhájuk. Aztán asztalt terítenek, fekete abrosszal, fekete tálakkal. Hozták az ételeket, kínálták Pengőt, egyék. De Pengő semmihez sem nyúlt, mert minden étel fekete volt. Akkor egyszerre csak megtelt a szoba fekete emberekkel s asszonyokkal, s úgy megverték Pengőt, hogy elnyúlt a földön. Második nap éppen így járt. Hiába erőltették, hiába kínozták, hozzá nem nyúlt az ételekhez. Elkövetkezik a harmadik nap, s hát megfehéredtek mind a szobák, fehér ruhás emberek s asszonyok jöttek a szobába, fehér abrosszal terítettek asztalt, csupa fehér ételeket hoztak, s énekeltek Pengőnek szebbnél szebb nótákat. De most már Pengő is evett mindenből, amennyi csak belefért.  
 > Mondja reggel az aranyhalacska Pengőnek: − No, a próbát jól kiállottad.  
+- Nyilvánvaló, hogy a feketeség a sátán területe és a sátán kísértésének való ellenállás volt a próba.
 
-Nyilvánvaló, hogy a feketeség a sátán területe és a sátán kísértésének való ellenállás volt a próba.
-
-GYÁ a [[F/Fény és anyag\|fény és anyag]] címhez is betett soraiban érinti:  
+Gyárfás Ágnes a [[F/Fény és anyag\|fény és anyag]] címhez is betett soraiban érinti:  
 > "A fődnek nyilát" a lyukon át lőtték a Galaktikába. Ez a mese szimbolikus világában egy földbe vájt nyiladék, amin át az élet bejutott a várba, a valóság tornácába. Ez a világ akkor válik kézzelfoghatóvá, amikor a királyfi megtalálja három hálószobában a három királykisasszonyt és a korom sötét épület kívül belül fehérbe öltözik. Ez a jelenség a realitás ősképe, a térnek és az időnek szerencsés találkozása, amely kétféle minőséget igényel: egy hímnemű és egy nőnemű alany jelenlétét. Nem csak a vár világosodik ki, hanem minden, ami benne van. A berendezés, az étel és az ital egyaránt.  
 
 [[K/Kurva\|Kurva]] címnél, az arab `huri` szó arabból való eredeztetése nyomán fehér és fekete téma előjött.  
@@ -272,9 +271,9 @@ Bevezetésként lásd [[S/Szarvas\|szarvas]], ahol a [[D/Drumó\|drumó]] és [[
 
 Fentebb már volt szó a fehér szarvasünőről. Az alábbiakban járjuk még körül.  
 
-#### Magyar Adorján Csodaszarvasában...  
+#### Magyar Adorján Csodaszarvas...  
 
-...írja (meglepő fordítottsággal):  
+...című könyvében írja (meglepő fordítottsággal):  
 > A számos szarvasregében emlegetett "fehér szarvas" ősmagyar mitológiánkban csak a szóban lévő...  
 - A [[H/Hattyú vitéz mese\|Hattyú vitéz mesé]]ben szintén (rögtön az elején) fehér szarvas jön elő.  
 

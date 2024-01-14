@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2023-12-25T10:36"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2024-01-14T01:29"}
 ---
 
 
@@ -89,7 +89,8 @@ Remélhetőleg egy nálam fiatalabb – vagy csak: rátermettebb –, követőnk
 Az írások nagy része tehát másoktól származó idézet (igyekeztem a megfelelő kiemelésekkel adni), alapvetően elsődlegesen saját részre, adatgyűjtés céljából. A saját anyag kb. az összes szöveg 15-25 százalékát teheti ki, esetleg többet, de az idő és a kutatás előrehaladtával az arányok tolódhatnak: több adat állhat rendelkezésre a már felvázolt tézisek igazolására, pontosítására.  
 
 Az egyes helyeken található ún. Zotero linkek (ahol oldalszámokra lehet kattintani) egyelőre csak az én gépemen nyitják meg a kiadványokat az adott kiemeléseknél/idézetnél.  
-Úgy terveztem, hogy ez is publikusan működhet, de sajnos menet közben technikai akadályok merültek fel. Amíg nem találok ingyenes tárhelyet 50-100GB méretben, a könyvek lapjaira kattintva nem nyílik meg az olvasó böngészőjében semmi.  
+Úgy terveztem, hogy ez is publikusan működhet, de sajnos menet közben technikai akadályok merültek fel. A könyvek lapszámaira kattintva tehát nem nyílik meg az olvasó böngészőjében semmi.  
+Ellenben igyekeztem egyes könyvek, tanulmányok, cikkek MEGA-ra feltöltött példányainak linkjét a szövegeimbe elhelyezni, hogy klikkeléssel beléjük lehessen lépni (ha az oldalszámokra nem is). Ahol ezt elmulasztottam, ott ezen kiadványok nevére a [[101/Letöltések\|Letöltések]] részben magyarázott módon lehet keresni.  
 
 A lexikális adatok (lásd őket `ilyen` vagy főképpen tulajdon- és istennevek esetében **Ilyen** szedéssel) helyességére különösen ügyeltem, de becsúszhat itt-ott elírás vagy pedig a forrásom téved (vagy annak forrása). Olyan is előfordul, hogy minden igyekezetem ellenére nem sikerült minden lexikális adatot külön kiemeléssel jelölni. Ha látok valamit, menet közben javítom és ennek jogát fenntartom.  
 
