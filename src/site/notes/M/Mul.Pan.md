@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mul.Pan/","title":"Mul.Pan","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-29T06:48","updated":"2023-10-29T06:57"}
+{"dg-publish":true,"permalink":"/M/Mul.Pan/","title":"Mul.Pan","tags":["Englishtexttranslated"],"created":"2023-10-29T06:48","updated":"2024-01-16T12:58"}
 ---
 
 
@@ -47,7 +47,7 @@ Másutt egyértelműen kimondják:
 > Magát a Szíriuszt az ókori sumérok és az ókori babiloniak is "Nyílnak" nevezték (Britton & Walker 1996; lásd a 2.13. ábrát). A nyílvesszőt nyilvánvalóan Orion íjából lőtték ki.  
 > A babiloni aszterizmust "íjnak és nyílnak" (MUL.BAN, Chapman-Rietschi 1995) nevezték, és a δ CMa csillagot tartalmazta. A Szíriusz volt a nyílhegy csúcsán (Brecher 1979).  
 > A későbbi perzsák a Szíriuszra [[T/Tír\|Tír]]-ként utaltak, ami szintén "a nyílvesszőt" jelentette.  
-- Ez a pártus-perzsa **Tír** felel meg annak az arab **Jauzah**-nak, melyről [[J/Jász\|jász]] címnél volt szó. Mint kiderül, a jász név eredete is ugyanaz, mint a [[S/Szkíta\|szkíta]]é: a nyári napfordulós Nyilazó/Íj csillagkép a névadó.  
+- Ez a pártus-perzsa **Tír** felel meg annak az arab **Jauzah**-nak, melyről [[J/Jász\|jász]] címnél volt szó. Mint kiderül, a jász név eredete is ugyanaz, mint a [[S/Szkíta\|szkítá]]é: a nyári napfordulós Nyilazó/Íj csillagkép a névadó.  
 
 A [[N/Ninurta\|Ninurta]] és [[U/UR\|UR]] címnél anyaggal jelentkező ...
 
