@@ -1,7 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/L/LI/","title":"LI","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-09T04:34","updated":"2024-01-14T01:47"}
+title: LI
+aliases:
+  - Li
+  - li
+status: dg_uploaded
+tags:
+  - titleandheadingonedontmatch
+  - multipleentries
+  - stitched
+share: true
+dg-publish: true
+dg-created: 2023-10-09T04:34
+dg-updated: 2024-01-20T04:01
+dg_upload_status: VNC done
+date created: 2022-12-14
+date modified: 2024-01-20
+ghrepoURL:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/L/LI.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/L/LI.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/L/LI.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/L/LI.md
+  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/L/LI.md
 ---
-
 
 # LI 1)
 
@@ -25,7 +45,7 @@ LI az alábbiak szerint viszont nem lehet fa (PJI írja):
 
 # Li 2)
 
-A `gerstli`, `virsli`, `nudli`, `nokedli`, `hokedli`, `sámli`, `kurbli`, `stopli`, `dekli`, `kifli`, `stangli`, `kamásli`, `fásli`, `pemszli`, `csúzli`, `tasli` v. `tacsli`, `frocli`, `cetli`, `sramli`, `stikli`, `verkli`, `spicli` és hasonló szavak germán eredetűek.   
+A `gerstli`, `virsli`, `nudli`, `nokedli`, `hokedli`, `sámli`, `kurbli`, `fándli`, `stopli`, `dekli`, `kifli`, `stangli`, `kamásli`, `fásli`, `pemszli`, `csúzli`, `tasli` v. `tacsli`, `frocli`, `cetli`, `sramli`, `stikli`, `verkli`, `spicli` és hasonló szavak germán eredetűek.   
 A [[D/Dear\|dear]] címnél említett török `değerli` = értékes (drága mondhatnánk) szóban a -li végződés nyilván melléknévképző.  
 Ha már török, a -li végződés megvan [[G/Göbekli Tepe\|Göbekli Tepe]] nevében, ahol Göbek = Köpek = kutya, és LI valóban lehet király. De nyilván ez a végződés már egy bejáratott, későbbi korból való.  
 Ugyanígy a grúz `jaĝli` = kutya lehet Tűz Király értelmű, miután a roma `jag` = tűz jelentésű. Vagy inkább li = lich képző.  

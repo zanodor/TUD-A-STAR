@@ -1,20 +1,38 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ostya/","title":"Ostya","tags":["dg_uploaded","containstransclusions"],"created":"2023-10-21T03:35","updated":"2023-10-25T02:05"}
+title: Ostya
+aliases:
+  - ostya
+  - ostyá
+status: dg_uploaded
+tags:
+  - containstransclusions
+share: true
+dg-publish: true
+dg-created: 2023-10-21T03:35
+dg-updated: 2024-01-20T04:01
+dg_upload_status: VNC done
+date created: 2022-12-14
+date modified: 2024-01-20
+ghrepoURL:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/O/Ostya.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/O/Ostya.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/O/Ostya.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/O/Ostya.md
+  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/O/Ostya.md
 ---
-
 
 # Ostya
 
 Sir James Frazer The Golden Bough című könyvében írt arról, hogy "a passing stranger is often, as here, taken for a god or spirit," azaz az arra járó idegeneket, kívülállókat gyakran Istennek, szellemének tartották ill. könyvében Magyarország-közeli népek hagyományaiból merít, miképpen ragadták el ezen idegeneket a célból, hogy rítusaikon királyi-áldozati szerepet vállaljanak. Arról másutt is esett szó, hogy a(z erdei) királyokat meghatározott időre választottak és ezeket (illetve a faszellemeket) rituálisan feláldozták.  
 
-Namármost vegyük észre, hogy a `hostis` = idegen és a Jézus testeként (melyről lásd VJ sorait alant) fogyasztott **ostya** szót kiadó latin `hostia` = áldozat[^1] szavak összefüggnek. Nyilvánvalóan [[O/Oszt\|oszt]] szavunk adja ki. A latinok számára ki volt az ellenség? A magyar és magyar-rokon paraszti osztály, a (rusztikus) [[P/Pogány\|pogány]]-szkíta paganusok. Ostya lehet Ős-Atya (Teste/Tésztája) is.  
+Na mármost vegyük észre, hogy a `hostis` = idegen és a Jézus testeként (melyről lásd VJ sorait alant) fogyasztott `ostya` szót kiadó latin `hostia` = áldozat[^1] szavak összefüggnek. Nyilvánvalóan [[O/Oszt\|oszt]] szavunk adja ki. A latinok számára ki volt az ellenség? A magyar és magyar-rokon paraszti osztály, a (rusztikus) [[P/Pogány\|pogány]]-szkíta paganusok. Ostya lehet Ős-Atya (Teste/Tésztája) is.  
 
-Ami az áldozati szerepet illeti, [[O/Oszt\|oszt]] tulajdonképpen itt akár a [[C/Crucifixion\|crucifixion]] címnél is említett [[T/Táltos\|táltos]] [[F/Feldarabolás\|feldarabolás]]ára is utalhatna, de [[O/Ozirisz\|Osiris]]-t (kinek nevében egyszerre több idea is meglehet, egyrészt, ahogy megfejtésre került, az össze fogalma is) is feldarabolta [[S/Széth\|Széth]].  
+Ami az áldozati szerepet illeti, [[O/Oszt\|oszt]] tulajdonképpen itt akár a [[C/Crucifixion\|crucifixion]] címnél is említett [[T/Táltos\|táltos]] [[F/Feldarabolás\|feldarabolás]]ára is utalhatna, de [[O/Ozirisz\|Ozirisz]]t (kinek nevében egyszerre több idea is meglehet, egyrészt, ahogy megfejtésre került, akár az [[O/Össze\|össze]] fogalma is) is feldarabolta [[S/Széth\|Széth]].  
 
 [[V/Végvári József\|Végvári József]] Hit és anyanyelv című dolgozatában írja oszt – ostya – test/tészta/tiszta, valamint lakik és lakk vonalon ([[T/Test\|test]] címnél is szerepelt):  
 > Keresztény hitünk egyik kulcskérdéséről van szó: Jézus úgy lakik bennem, hogy én egyúttal jól is lakom vele. Ez a megvilágosító többértelműség esete mai világunkban, amelyben igen sokan törekednek az állandó, már-már rögeszmés egyértelműsítésre, holott a világ nem úgy működik. Legvégül tegyünk egy K betűt vizsgált szavunk végére: kapjuk a LaKK-ot, melynek eredetileg élőfa a forrása (skarlát tölgyből nyerték), szerepe pedig az, hogy megfényesítse a tárgyakat (Andics Árpád barátom szép gondolata). Jézusnak – a "világ világának" – talán nem az a szerepe, hogy fénybe öltöztesse a világot?  
 
-Végvári József Kölcsönszavak c. YouTube-ra feltöltött előadásában említi az "ennivaló gyermek," "meg kell ezt a gyereket zabálni," "egyem a zúzádat" kifejezéseket. Arról van szó, hogy Jézus felajánlja testét és vérét, hogy ebből fogyasztva az ő testvéreivé váljunk (test-vér csak magyarban testvér). VJ felhívja még itt a figyelmet arra, hogy az indo-germán magyarellenes törekvések szerint az [[O/Ogre\|ogre]] = emberevő óriás szót az ugor (hungár) szavakkal akarja megfeleltetni, így csínján kell bánni az ennivaló gyermek angolra fordításával:
+Végvári József Kölcsönszavak c. YouTube-ra feltöltött előadásában említi az "ennivaló gyermek," "meg kell ezt a gyereket zabálni," "egyem a zúzádat" kifejezéseket. Arról van szó, hogy Jézus felajánlja testét és vérét, hogy ebből fogyasztva az ő testvéreivé váljunk (test-vér csak magyarban testvér). VJ felhívja még itt a figyelmet arra, hogy az indo-germán magyarellenes törekvések szerint az [[O/Ogre\|ogre]] = emberevő óriás szót az ugor (hungár) szavakkal akarja megfeleltetni, így csínján kell bánni az ennivaló gyermek angolra fordításával:  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/e/embereves/#1sdmzu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -46,4 +64,4 @@ Végvári József Kölcsönszavak c. YouTube-ra feltöltött előadásában eml�
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Kresznerics Ferenc deák szótárában innen `dulces hostiæ` = mézes ostyák. Ugyanitt véráldozat jelentéssel hostiát és [[V/Victim\|victim]]át is hozza.  
+Kresznerics Ferenc deák szótárában innen `dulces hostiæ` = mézes ostyák. Ugyanitt véráldozat jelentéssel `hostia`-t és `victima`-t (lásd [[V/Victim\|victim]]) is hozza.  

@@ -1,7 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/P/Parthenogenesis/","title":"Parthenogenesis","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-11T12:17","updated":"2023-11-11T12:17"}
+title: Parthenogenesis
+aliases:
+  - parthenogenesis
+status: dg_uploaded
+tags:
+  - Englishtexttranslated
+share: true
+dg-publish: true
+dg-created: 2023-11-11T12:17
+dg-updated: 2024-01-20T04:02
+dg_upload_status: VNC done
+date created: 2022-12-14
+date modified: 2024-01-20
+ghrepoURL:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/P/Parthenogenesis.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/P/Parthenogenesis.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/P/Parthenogenesis.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/P/Parthenogenesis.md
+  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/P/Parthenogenesis.md
 ---
-
 
 # Parthenogenesis
 
@@ -9,7 +26,7 @@ Szűzként fogantatás. A háttérben a görög `parthenosz` = szűz (MA írja, 
 
 #### Magyar Adorján írja:
 
-> A görög-római mythologia [[H/Héra\|Héra]]-Juno-jának azonban már van férje, az őserőnyt megszemélyesítő [[Z/Zeusz\|Zeusz]]-Jupiter, vagyis ő már nem szűzanya, de ami tehát mindenesetre későbbi fejlemény, mivel az abszolút nőelvűség szerint az ős-Anyagistennő életet azaz erőnyt – csakis szűzen szülhetett, mivel azelőtt még nem létezett erőny, azaz tehát hímség, amely megtermékenyíthette volna. E gondolat aztán annak alapja is, hogy a **Szűzenszülő isteni nőalak mindig fiat, azaz tehát hímséget szül először**, amely eszmét támogatta az is, hogy például a "méhkirálynő", azaz a méhanya, meg nem termékenyítve, csak heréket (hím-méheket) képes létrehozni, nőneműeket ellenben csakis ha hímméh által megtermékenyíttetett.  
+> A görög-római mythologia [[H/Héra\|Héra]]-Juno-jának azonban már van férje, az őserőnyt megszemélyesítő [[Z/Zeusz\|Zeusz]]-Jupiter, vagyis ő már nem szűzanya, de ami tehát mindenesetre későbbi fejlemény, mivel az abszolút nőelvűség szerint az ős-Anyagistennő életet azaz erőnyt – csakis szűzen szülhetett, mivel azelőtt még nem létezett erőny, azaz tehát hímség, amely megtermékenyíthette volna. E gondolat aztán annak alapja is, hogy a **szűzenszülő isteni nőalak mindig fiat, azaz tehát hímséget szül először**, amely eszmét támogatta az is, hogy például a "méhkirálynő", azaz a méhanya, meg nem termékenyítve, csak heréket (hím-méheket) képes létrehozni, nőneműeket ellenben csakis ha hímméh által megtermékenyíttetett.  
 
 #### Magyar Adorján Csodaszarvasában...
 
@@ -31,8 +48,8 @@ Az [alábbi](https://www.cell.com/current-biology/pdf/S0960-9822(15)00782-4.pdf)
 A fenti tanulmány más adata szerint a héber `almah` = szűz. Ugyan első megérzésem az volt, hogy ez [[A/Alma\|alma]] szavunkkal azonos ([[A/Alma Mater\|Alma Mater]] is létezik ugye), könnyen lehet, hogy az Al itt névelő és a szóvégi [[H/H\|h]] nem hagyható el. Azaz mah = mag, mint a [[M/Magda\|Magda]] és [[M/Maiden\|maiden]] nevekben illetve elődjében. A lényeg, ahogy az [alábbi](https://carm.org/isaiah-7-14-virgin) oldal is taglalja, hogy félrefordítás történt (a héber [almah](https://en.m.wikipedia.org/wiki/Almah) = maiden, nem virgin; több címnél volt arról szó, hogy a szűz aspektusa a Tejútanyának (násza előtt) lány, tündér[^1]):  
 > As it turns out, even the most famous speculation about parthenogenesis, Jesus Christ's birth, owes its existence not to a miracle but to a human error during the translation of Isaiah 7:14 from Hebrew to Greek: The Hebrew word `almah` can refer to a young woman of marriageable age, whether married or not. The 'young woman' became a 'virgin' in the gospel according to Matthew, where `almah` was translated as the Greek `parthenos`.  
 > —  
-> Mint kiderült, még a leghíresebb spekuláció a parthenogenezisről, Jézus Krisztus születése sem egy csodának, hanem az Ézsaiás 7:14 héberről görögre történő fordítása során elkövetett emberi hibának köszönheti létét: a héber "alma" szó utalhat egy fiatal, házasodóképes korú nőre, akár házas, akár nem. Az "ifjú asszony" a Máté evangéliumában "szűz" lett, ahol az `almah` a görög `parthenos` szóval lett lefordítva.  { #fug3hb}
-
+> Mint kiderült, még a parthenogenezissel kapcsolatos leghíresebb spekuláció, Jézus Krisztus születése sem egy csodának, hanem egy emberi hibának köszönheti létét az Ézsaiás 7:14 héberről görögre történő fordítása során: a héber `almah` szó utalhat egy fiatal, házas korú nőre, akár házas, akár nem. Az "ifjú asszony" a Máté evangéliumában "szűz" lett, ahol az `almah` szót a görög `parthenosz` szóval fordították.  
+^fug3hb
 
 Ahogy [[B/Bibliai félrefordítások\|bibliai félrefordítások]] címnél is szerepelt, egyáltalán nem mindegy, hogy a biológiailag lehetetlen [[S/Szeplőtelen fogantatás\|szeplőtelen fogantatás]]t is (meg a zsidók kultúraalapító szerepét) elhisszük (mert hogy előbbi csodaszámba megy), vagy ész érvekkel rámutatunk, hogy eredetileg asztro-mitológiai háttér szolgált a "történelmi" alakok megszemélyesítéséhez.  
 

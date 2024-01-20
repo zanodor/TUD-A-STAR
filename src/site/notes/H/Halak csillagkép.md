@@ -1,7 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/H/Halak csillagkép/","title":"Halak csillagkép","tags":["Englishtexttranslated"],"created":"2023-10-14T04:19","updated":"2024-01-04T05:33"}
+title: Halak csillagkép
+aliases: 
+status: dg_uploaded
+tags:
+  - Englishtexttranslated
+share: true
+dg-publish: true
+dg-created: 2023-10-14T04:19
+dg-updated: 2024-01-20T04:00
+dg_upload_status: VNC done
+date created: 2022-12-14
+date modified: 2024-01-20
+ghrepoURL:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/H/Halak%20csillagk%C3%A9p.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/H/Halak%20csillagk%C3%A9p.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/H/Halak%20csillagk%C3%A9p.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/H/Halak%20csillagk%C3%A9p.md
+  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/H/Halak%20csillagk%C3%A9p.md
 ---
-
 
 # Halak csillagkép
 
@@ -54,11 +70,13 @@ De nemcsak a magyar nyelvben létezik azonosság:
 
 A kilencedik századi Abu Mashar – akit Al Biruni csillagászati kérdésekben sokat tévedőnek tart de mégicsak hallgassunk meg – szerint, ahogy...  
 
-#### Richard H. Allen Star Names című könyvében tudósít róla:  
+#### Richard H. Allen Star Names...  
 
+...című könyvében tudósít róla:  
 > In his Revolution of Years, he wrote of the Creation as having taken place when "the seven planets" – the Sun, Moon, Mercury, Venus, Mars, Jupiter, and Saturn – were in conjunction in Aries, and foretold the destruction of the world when they should be in the same position in the last degree of Pisces.  
 > —  
-> Az Évek forradalma című művében úgy ír a teremtésről, hogy az akkor történt, amikor "a hét bolygó" – a Nap, a Hold, a Merkúr, a Vénusz, a Mars, a Jupiter és a Szaturnusz – együttállásban volt a Kosban, és megjósolta a világ pusztulását, amikor ugyanebben a helyzetben lesznek a Halak utolsó fokán.  
+> Az Évek fordulata című művében úgy ír a teremtésről, hogy az akkor történt, amikor "a hét bolygó" – a Nap, a Hold, a Merkúr, a Vénusz, a Mars, a Jupiter és a Szaturnusz – együttállásban volt a Kosban, és megjósolta a világ pusztulását, amikor ugyanebben a helyzetben lesznek a Halak utolsó fokán.  
+^gbrz5v
 
 Al Biruni véleménye ide vagy oda, "Apu Magyar" jövendölése azért is tűnik helyesnek, mert a Halak a Halál szavunkkal alkot párt, így szükségszerűen, annak utolsó órájában, ha a bolygók együttállnak, valóban történnie kell valaminek.  
 

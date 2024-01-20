@@ -1,7 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-16T01:30","updated":"2023-11-25T11:25"}
+title: Széth
+aliases:
+  - Szeth
+  - Set
+  - Seth
+status: dg_uploaded
+tags:
+  - Englishtexttranslated
+share: true
+dg-publish: true
+dg-created: 2023-10-16T01:30
+dg-updated: 2024-01-20T04:04
+dg_upload_status: VNC done
+date created: 2023-04-17
+date modified: 2024-01-20
+ghrepoURL:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/S/Sz%C3%A9th.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/S/Sz%C3%A9th.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/S/Sz%C3%A9th.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/S/Sz%C3%A9th.md
+  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/S/Sz%C3%A9th.md
 ---
-
 
 # Széth
 
@@ -160,7 +179,7 @@ Kenneth Grant The Magical Revival című Aleister Crowley anyagát feldolgozó k
 > "A mi Napunk egy másik Napból lett kilökve, amely körül kering, és 25827 évbe telik, hogy elvégezze az Egy Év ciklusát" – az egyiptomiak [[N/Nagy Év\|Nagy Év]]ét.  
 > Hérodotosz szerint (Bk. II, 58) az egyiptomiak ennek a csillagnak, vagy istennek az éves visszatérését obszcén rítusokkal ünnepelték, melyeket bestiális közösülés jellemzett. Így a Kutya-csillag. Crowley tudta, hogy az ókor egyetlen rítusa sem volt mágikus cél nélkül.  
 > Set a beavató, az ember tudatának megnyitója a Szíriusz - a déli Nap - által tipizált Halhatatlan Isten sugarai felé, ahogy csillagászatilag is ő az állatövi év és az 1460 éves Nagy Ciklus nyitója.  
-> (Crowley ragaszkodik ahhoz, hogy az "ördög" egy isten volt, Set, Shaitan vagy Sátán istene, akit a későbbi kultuszok pontosan úgy degradáltak démoni rangra, ahogyan a Sarki Fény (Nut) - a Hét Csillag Sárkánya - a Gonosz Anyává, az ősi Boszorkány-Nővé, az éjszaka és a sötét pokoli szertartások istennőjévé vált).  
+> (Crowley kitartott nézete mellett, hogy az "ördög" egy isten volt, Set, Shaitan vagy Sátán istene, akit a későbbi kultuszok pontosan úgy degradáltak démoni rangra, ahogyan a Sarki Fény (Nut) - a Hét Csillag Sárkánya - a Gonosz Anyává, az ősi Boszorkány-Nővé, az éjszaka és a sötét pokoli szertartások istennőjévé vált).  
 
  (Arról másutt, [[N/North\|north]], [[B/Bal\|bal]], [[B/Bal és jobb\|bal és jobb]], [[B/Baj\|baj]], [[B/Bál\|Bál]], [[A/Ahriman\|Ahriman]], stb. címszavaknál is esett szó, hogy változik a megítélés egyes nézeteket illetően.)  
 WFW adata szerint Plutarkhosz[^9] épp az északi cirkumpoláris [[U/Ursa Maior\|Nagy Medve csillagkép]]pel azonosította Széthet: ezt azzal magyarázza (ha ez ebben a formában magyarázat), hogy kezdetben ő sem volt negatív isten (merthogy a hyperboreai, "pogány" hagyomány szerint [[E/Észak\|észak]] az istenek, dél a sátán/ördög/démonok lakhelye, de itt nem csak erről van szó).  
@@ -231,14 +250,14 @@ Legutóbb [[T/Typhon\|Typhon]] címnél is szerepelt...
 ...című könyvének Ursa Maior-nál szereplő adata (hasonlókról szó esett [[C/Cynosure\|Cynosure]] címnél is és betehető [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] címhez is):  
 > Hewitt writes of Set in his earliest form as [[H/Hapi\|Kapi]], the Ape-God, stars of our [[C/Cepheus\|Cepheus]] marking his head; while at one time on the Nile the [[W/Wain\|Wain]] stars seem to have been **the Dog of Set or of Typhon**. This may have given rise to the title Canis Venatica that La Lande cited, if this be not more correctly considered as the classic Kallisto's hound; and the same idea appears in the **Catuli**, Lap-dogs, and Canes Laconicae, the Spartan Dogs, that Caesius cited for both of the Wains.  
 > —  
-> Hewitt azt írja, hogy Set a legkorábbi formájában [[H/Hapi\|Kapi]] (helyesen [[H/Hapi\|Hapi]]), a Majomisten, a mi [[C/Cepheus\|Cepheus]]-unk csillagai jelölik a fejét; míg egykor a Níluson a [[W/Wain\|Wain]] \[Göncöl\] csillagok úgy tűnik, hogy **Set vagy Typhon Kutyája** voltak. Ebből adódhatott a La Lande által idézett Canis Venatica elnevezés, ha ezt nem tekintjük helyesebben a klasszikus Kallisto kutyájának; és ugyanez a gondolat jelenik meg a Catuli, ölbeli kutyák és a Canes Laconicae, a spártai kutyák elnevezésében, amelyet Caesius mindkét Wain (Szekér csillagzat) esetében idézett.  { #qz3nuv}
-
+> Hewitt azt írja, hogy Set a legkorábbi formájában [[H/Hapi\|Kapi]] (helyesen [[H/Hapi\|Hapi]]), a Majomisten, a mi [[C/Cepheus\|Cepheus]]-unk csillagai jelölik a fejét; míg egykor a Níluson a [[W/Wain\|Wain]] \[Göncöl\] csillagok úgy tűnik, hogy **Set vagy Typhon Kutyája** voltak. Ebből adódhatott a La Lande által idézett Canis Venatica elnevezés, ha ezt nem tekintjük helyesebben a klasszikus Kallisto kutyájának; és ugyanez a gondolat jelenik meg a Catuli, ölbeli kutyák és a Canes Laconicae, a spártai kutyák elnevezésében, amelyet Caesius mindkét Wain (Szekér csillagzat) esetében idézett.  
+^qz3nuv
 
 Majd lábjegyzetben:  
 > Set, also Anubis, Apap, Apepi, Bes, Tebha, Temha, and Typhoeus according to Plutarch, was one of Egypt's greatest gods, who subsequently became the Greek giant Typhon, father of the fierce winds, but slain by Zeus with a thunderbolt and buried under Mount Aetna.  
 > —  
-> Set, Plutarkhosz szerint Anubisz, Apap, Apepi, Bes, Tebha, Temha és Typhoeus is, Egyiptom egyik legnagyobb istene volt, aki később a görög óriás Typhon, a heves szelek atyja lett, de Zeusz villámcsapással megölte és eltemette az Etna hegy alatt.  { #itc5r4}
-
+> Set, Plutarkhosz szerint Anubisz, Apap, Apepi, Bes, Tebha, Temha és Typhoeus is, Egyiptom egyik legnagyobb istene volt, aki később a görög óriás Typhon, a heves szelek atyja lett, de Zeusz villámcsapással megölte és eltemette az Etna hegy alatt.  
+^itc5r4
 
 Tüphon is tehát arra a sorsra jutott, mint minden régen tisztelt nagy Isten. A fény-árnyék változások során a korábbi istenek befeketülnek a papság és a nép szemében: démonizálva lesznek. Lásd mi történt Bál-lal és a [[D/Dévák és Aszúrák\|dévák és aszúrák]] is megérnek egy misét. Minderről szóltunk [[M/Magyarellenesség\|magyarellenesség]] címnél is: hogy feledte el a világ Szíriusz és a hun-magyarság jótéteményeit.  
 

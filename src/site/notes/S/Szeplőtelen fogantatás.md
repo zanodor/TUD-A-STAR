@@ -1,11 +1,47 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szeplőtelen fogantatás/","title":"Szeplőtelen fogantatás","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T01:57","updated":"2024-01-12T06:34"}
+title: Szeplőtelen fogantatás
+aliases:
+  - szeplőtelen fogantatás
+status: dg_uploaded
+tags:
+  - Englishtexttranslated
+  - containstransclusions
+share: true
+dg-publish: true
+dg-created: 2023-11-13T01:57
+dg-updated: 2024-01-20T04:04
+dg_upload_status: VNC done
+date created: 2023-04-07
+date modified: 2024-01-20
+ghrepoURL:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/S/Szepl%C5%91telen%20fogantat%C3%A1s.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/S/Szepl%C5%91telen%20fogantat%C3%A1s.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/S/Szepl%C5%91telen%20fogantat%C3%A1s.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/S/Szepl%C5%91telen%20fogantat%C3%A1s.md
+  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/S/Szepl%C5%91telen%20fogantat%C3%A1s.md
 ---
-
 
 # Szeplőtelen fogantatás
 
-Magyarországon a legismertebb [[A/Álmos\|Álmos]] és [[J/Jézus\|Jézus]] fogantatásának története. De "időben" Jézus előtt [[B/Buddha\|Buddha]] és [[Z/Zarathustra\|Zarathustra]] is így született[^1]. A visszatérő elem mögött kozmológiai hátteret kell sejteni, különösen a [[S/Szűzanya\|Szűzanya]], [[O/Orion övcsillagai\|Orion övcsillagai]], [[H/Hunor és Magor\|Hunor és Magor]], valamint [[I/Incest\|incest]] és [[V/Vérfertőzés\|vérfertőzés]] címszavaknál írottak alapján.  
+Magyarországon a legismertebb [[A/Álmos\|Álmos]] és [[J/Jézus\|Jézus]] fogantatásának története. De "időben" Jézus előtt [[B/Buddha\|Buddha]] és [[Z/Zarathustra\|Zarathustra]] is így született[^1].  
+
+#### John G. Jackson Christianity before Christ...
+
+...című könyvének 87. oldalán maga is írja:  
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/b/buddha/#lv3itf" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+> Gautama Buddha, the ninth Avatar of India, flourished around 600 B.C. The stories relating to his life and death are similar to those recorded concerning [[K/Krishna\|Krishna]]. He was said to have been born of the Virgin Maya, or Mary.  
+> —  
+> Gautama Buddha, India kilencedik avatárja, i.e. 600 körül virágzott. Az életével és halálával kapcsolatos történetek hasonlóak a [[K/Krishna\|Krisna]] történetéhez. Azt mondták, hogy **Szűz Májától, azaz Máriától született**.
+
+
+</div></div>
+
+
+A visszatérő elem mögött kozmológiai hátteret kell sejteni, különösen a [[S/Szűzanya\|Szűzanya]], [[O/Orion övcsillagai\|Orion övcsillagai]], [[H/Hunor és Magor\|Hunor és Magor]], valamint [[I/Incest\|incest]] és [[V/Vérfertőzés\|vérfertőzés]] címszavaknál írottak alapján.  
 De [[N/Nut\|Nut]] kapcsán is írja...  
 
 #### Jankovics Marcell Mély a múltnak kútja...
@@ -36,9 +72,18 @@ Még [[A/Álmos\|Álmos]]sal kapcsolatosan felmerült másutt is, hogy hogyan le
 Szeplőtelen azaz szűzen fogantatásról lásd még [[P/Parthenogenesis\|parthenogenesis]].  
 Jankovics Marcell Jelkép-kalendárium című könyvének azonos című fejezetében írottakat is lásd ott és másutt.  
 Közben ott arról is szó volt, hogy **félrefordítás történt** (a héber `almah` = maiden, nem virgin):  
-> As it turns out, even the most famous speculation about parthenogenesis, Jesus Christ's birth, owes its existence not to a miracle but to a human error during the translation of Isaiah 7:14 from Hebrew to Greek: The Hebrew word `almah` can refer to a young woman of marriageable age, whether married or not. The 'young woman' became a 'virgin' in the gospel according to Matthew, where almah was translated as the Greek `parthenos`.  
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/p/parthenogenesis/#fug3hb" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+> As it turns out, even the most famous speculation about parthenogenesis, Jesus Christ's birth, owes its existence not to a miracle but to a human error during the translation of Isaiah 7:14 from Hebrew to Greek: The Hebrew word `almah` can refer to a young woman of marriageable age, whether married or not. The 'young woman' became a 'virgin' in the gospel according to Matthew, where `almah` was translated as the Greek `parthenos`.  
 > —  
-> Mint kiderült, még a parthenogenezissel kapcsolatos leghíresebb spekuláció, Jézus Krisztus születése sem egy csodának, hanem egy emberi hibának köszönheti létét az Ézsaiás 7:14 héberről görögre történő fordítása során: a héber `almah` szó utalhat egy fiatal, házas korú nőre, akár házas, akár nem. Az "ifjú asszony" a Máté evangéliumában "szűz" lett, ahol az almát a görög `parthenosz` szóval fordították.  
+> Mint kiderült, még a parthenogenezissel kapcsolatos leghíresebb spekuláció, Jézus Krisztus születése sem egy csodának, hanem egy emberi hibának köszönheti létét az Ézsaiás 7:14 héberről görögre történő fordítása során: a héber `almah` szó utalhat egy fiatal, házas korú nőre, akár házas, akár nem. Az "ifjú asszony" a Máté evangéliumában "szűz" lett, ahol az `almah` szót a görög `parthenosz` szóval fordították.  
+
+
+</div></div>
+
 
 A szeplőtelen fogantatás jelképállatai a [[M/Méh\|méh]]ek (Carla Ionescu Artemiszról szóló disszertációjában írja):  
 > Bees were thought to represent virginity due in part to the queen bee's reproducing parthenogenetically. The queen bee produces males, or drones, spontaneously out of her own body without the need for fertilization by sperm. Despite the fact that ancient naturalists were no aware of the role of the queen bee, and the generation of the hive, there are many traditions that connect parthenogenesis in the ancient mind to bees. Pliny points out in his Natural History that no one had ever witnessed sexual intercourse among bees. This gave them a reputation of being chaste, or virgins, and led to a variety of ideas, or suggestions, of how bees reproduced. Pliny confirms that bees were observed hatching in their cells, but other writers, such as Virgil, speak of their spontaneous generation, their parthenogenetic birth, from flowers. Consequently, an inevitable connection between bees-prophetess-virgin was formed.  

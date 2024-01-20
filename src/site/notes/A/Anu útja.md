@@ -1,7 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/A/Anu útja/","title":"Anu útja","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-04T02:42","updated":"2023-11-10T06:33"}
+title: Anu útja
+aliases:
+  - Anu útjá
+status: dg_uploaded
+tags:
+  - Englishtexttranslated
+share: true
+dg-publish: true
+dg-created: 2023-10-04T02:42
+dg-updated: 2024-01-20T03:59
+dg_upload_status: VNC done
+date created: 2022-12-14
+date modified: 2024-01-20
+ghrepoURL:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/A/Anu%20%C3%BAtja.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/A/Anu%20%C3%BAtja.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/A/Anu%20%C3%BAtja.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/A/Anu%20%C3%BAtja.md
+  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/A/Anu%20%C3%BAtja.md
 ---
-
 
 # Anu útja
 
@@ -15,12 +32,13 @@ A mellékelt kép C. W. Ceram A régészet könyve című könyvéből való a b
 
 Bakos Attila A Duna Evangéliuma című könyvének 92. oldalán úgy fogalmaz, hogy Anu a zodiákus vándorló égi napútjának megszemélyesítője; (ha igaz) Anu-t mutatja be hajlított [[T/Térd\|térd]]del a bika hátán.  
 
-#### Jeremy Black és Anthony Green Gods, Demons and Symbols in Ancient Mesopotamia...
+#### Jeremy Black és Anthony Green Gods, Demons and Symbols in Ancient Mesopotamia...  
 
-...című könyvében áll:  
+...című [letöltésre elérhető](https://mega.nz/file/BmEyjBiY#6C54JFLDU9WmNKa9mQ3kWC3fOZUm7rPgDoB48ez55uA) könyvében áll:  
 > According to one tradition, there were three superimposed heavens, the lowest of which contained the stars, the middle being the home of the Igigū and the topmost that of Anu (An). In a separate, astronomical, tradition the eastern horizon was divided into three vertical bands, the 'ways' of Enlil, Anu (An) and Ea (Enki), which were used for locating the position of the eighteen zodiacal constellations recognised from about 1000 BC. Later these eighteen constellations were assigned singly or in pairs to the twelve months, foreshadowing the later zodiac.  
 > —  
 > Egy hagyomány szerint három egymás fölött elhelyezkedő égbolt volt, amelyek közül a legalsó a csillagokat tartalmazta, a középső az Igigū otthona volt, a legfelső pedig Anu (An)é. Egy másik, csillagászati hagyomány szerint a keleti horizontot három függőleges sávra, Enlil, Anu (An) és Ea (Enki) "útjaira" osztották, amelyeket a Kr. e. 1000 körül ismert tizennyolc állatövi csillagkép helyzetének meghatározására használtak. Később ezt a tizennyolc csillagképet egyenként vagy párosával a tizenkét hónaphoz rendelték, ami a későbbi állatöv előképe.  
+^htyhqg
 
 ![assets/Anuutja_image2.jpg](/img/user/A/assets/Anuutja_image2.jpg)  
 A mellékelt képi anyag alsó része Wayne Horowitz Mesopotamian Cosmic Geography-jából való, a felső része (bár bárhonnan is származhatott volna) Hermann Hunger and David Pingree MUL.APIN: An Astronomical Compendium in Cuneiform (1989) című könyvéből származik. Kérdés, hogy mire építi Horowitz az elképzelést.  
@@ -56,7 +74,7 @@ Hasonló utakról szó volt másutt, egy internetről szedett csillagászati tan
 
 A kb. Kr. e. 600-700 körül készítetett MUL.APIN (lásd új adatokkal is [[M/Mulapin\|Mulapin]]) táblázatok ezt a felosztást mutatják be. A három zónát keresztezi az ekliptikai csillagképeket tartalmazó SAMASH ÚTJA ([[S/Samas\|Samash]] a Napisten), a már véglegesített 12 csillagképpel.  
 
-Az [alábbi](http://www.astromyth.ru/History/MULAPIN.htm) orosz oldalról származó adatokat angolra fordítva közben egy [[M/Mulapin\|MulApin]] PDF-be tettem, melyben szerepel többek között a [[S/Sumér zodiákus\|sumér zodiákus]] címhez is képként betett Gavin White könyvéből származó égtérkép és külön táblázatokba szedett, az Anu útjához, Enlil útjához, Ea útjához és a Hold útjához (a Nap útjához, azaz az ekliptikához) tartozó csillagképek listájával.  
+
 
 Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének 54. oldalán más megközelítéssel állt még (korábban?) elő. Nála Anu/Ana isten régiója illetve szférája az állatöv Kostól Rákig terjedő harmadát jelenti.  
 RB Jr. Primitive Constellations című könyvének (második kötetének) 161. oldalától kezdve ismét felkapja a témát. Anu, Bél és Ea nála a három csoport neve és más arányú felosztásról (3-4-5 hónapos) is szó esik.  
