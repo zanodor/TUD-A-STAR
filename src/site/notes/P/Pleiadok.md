@@ -1,7 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2023-12-04T01:17"}
+title: Pleiadok
+aliases:
+  - Pleiades
+  - Plejádok
+  - Pleiádok
+  - Fiastyúk
+status: dg_uploaded
+tags:
+  - containstransclusions
+  - Englishtexttranslated
+share: true
+dg-publish: true
+dg-created: 2023-11-09T04:07:00
+dg-updated: 2024-01-20T04:03
+dg_upload_status: VNC done
+parent_topic:
+  - Constellations
+date created: 2022-12-14
+date modified: 2024-01-20
+ghrepoURL:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/P/Pleiadok.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/P/Pleiadok.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/P/Pleiadok.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/P/Pleiadok.md
+  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/P/Pleiadok.md
+danglinglink_commentedout: true
 ---
-
 
 # Pleiadok
 
@@ -136,7 +160,7 @@ Az Alcyone-nal kapcsolatos történet folytatható lehet azzal, hogy...
 > A vad törzsek éppúgy jól ismerték a Plejádokat, mint az ókori és modern civilizáció emberei; Ellis pedig a Társaság és a Tonga-szigetek bennszülöttjeiről írt, akik ezeket a csillagokat Matarii[^2], Kis Szemeknek nevezték:
 > Az év két évszakát a Plejádok osztották meg; az első, Matarii i nia, a Plejádok fent, akkor kezdődött, amikor este ezek a csillagok megjelentek a horizonton, és addig tartott, amíg napnyugta után fent voltak. A másik évszak, a Matarii i raro, a Plejádok lent, akkor kezdődött, amikor napnyugtakor megszűntek látszani, és addig tartott, amíg este ismét a horizont felett jelentek meg.  
 > Gill egy hasonló történetet közöl a Hervey-csoportból, ahol a Kis Szemek Matariki, és egy időben csak egyetlen csillag volt, amely olyan fényes, hogy istenük, Tane irigységében megragadta Aumeát, a mi Aldebaranunkat, és Mere, a mi Szíriuszunk kíséretében üldözőbe vette a támadót, aki egy patakba menekült. Mere azonban lecsapolta a vizet, Tane pedig Aumeát a szökevényre hajította, és hat darabra törte, amit most látunk, innen ered a szilánkok bennszülött neve, Tauono, a Hat, amelyet Flammarion Tau-ként idéz, mindkét elnevezés különös módon hasonlít a latin Taurusra.  
-- Ebben a szövegben hemzsegnek a magyar-rokon nevek. Szíriusz Mere neve [[M/MIR\|MIR]] etimonnal, Isten Tane neve [[T/TEN\|TEN]]-nel, Matariki neve Madárral, fentebb a raro szó [[R/Ráró\|ráró]]val (betéve) szépen összecsengenek. Ezen egyezések is sarkalltak arra, hogy [[C/Cook-szigetek\|Cook-szigetek]]ről szerepeljenek adatok és arra, hogy letöltsek egy maori-angol szótárat, valamint hogy a [[M/Maori\|maori]] csillagisméket is egy csokorba szedjem.  
+- Ebben a szövegben hemzsegnek a magyar-rokon nevek. Szíriusz Mere neve [[M/MIR\|MIR]] etimonnal, Isten Tane neve [[T/TEN\|TEN]]-nel, Matariki neve Madárral, fentebb a `raro` szó [[R/Ráró\|ráró]]val (betéve) szépen összecsengenek.  
 - A Hamlet Malmában is előjön Matariki neve:  
 > Ami a Makalii szót illeti (a maoriban Matariki, a mikronéziai és melanéziai nyelvjárásokban Maharika, s más efféle alakok), ez a Pleiadok (Fiastyúk) neve, bár gyakrabban találkozunk a "Makalii hálója" kifejezéssel (a helyes alak: Huihui-o-Matariki, azaz Matariki csomója v. fürtje. Makalii "személye", akié a háló, továbbá egy másik alak, akit okunk van a Hyádokkal (Méhkas v. Kikelet hírmondó) azonosítani, a sötétben marad.  
 
@@ -182,8 +206,8 @@ A JMJ és Rene Guenon által több helyen is említett Nagy Medve – Pleiadok k
 > **A Plejádok a hét tehén női aspektusait fejezik ki, a hét bika által képviselt férfi Rishik ellentéteként. Ez a tizennégy erő együttesen az asztrális jegyek közül hét jegyen keresztül hat a Brahmával (Dagda) összhangban a láthatatlan spirituális Napon keresztül, amelyet az ezoterikusok gyakran "Nagy Központi Nap"-ként vagy Spirituális Napként** emlegetnek. A jóginok ezt a kozmikus központokból kiinduló három energiasugár vezérlő elveként értelmezik. A neodruidák hasonló elképzelésre hivatkoznak a Tribann (három sugár) formájában. Ezeket a láthatatlan, csak a belső szemmel látható erőket "akasha", "elektromos" és "pránikus" erőknek nevezik. Ez a hét Rishis viszont részt vesz a világegyetem hét kozmikus rendjében. A földön úgy nyilvánulnak meg, mint az ősóriás Manu első faja, aki a hét Manavát nemzette, és aki az első embereket nemzette.  
 > \[...\]
 > A Plejádok csoportjának hét fő Tündér-csillaga valamikor a Sarki csoportok része volt. Lassanként a nyári régiókba vándoroltak, és ezzel megteremtették az allegorikus változást Pwyll királyságából Arawn királyságába. Azóta a Plejádok negatív befolyást kaptak. A walesi szövegek azt illusztrálják, hogy [[A/Arawn\|Arawn]] volt [[A/Annwfn\|Annwn]] (Andumnon), "a Nem-világ" vadászkirálya, az egyik "másvilág" metafizikai fogalmának neve, amelyet egyesek összekevertek a \*Anderodumnon = az "Alvilággal". A továbbiakban megemlítik, hogy Pwyll of Dyfed Gyn Cuchban vadászat közben észrevesz egy falkányi furcsa kopót egy szarvasra, amire ő is rászabadítja a saját kopóit. Ezek Arawn kopói voltak. Ezért megdorgálja őt udvariatlanságáért. Jóvátételként Pwyll kénytelen eleget tenni Arawn feltételeinek; megöli ellenségét, Hafgant, és az ő álruhájában egy évig Arawn királynőjének ágyát osztja meg anélkül, hogy szeretkezne vele. Pywll teljesíti ezeket a feltételeket, és visszatérhet Dyfedbe, ahol nemcsak királyukként, hanem Annwn uraként is üdvözlik.  
-> Ez a mítosz az idő két [[F/Félév\|félév]]re való felosztását fejezi ki, mint a Semorotlio és Giiemorotlio régi kelta fogalma: Hafgan, \*Samocandos = "Summer White", a meleg és világos fél bikáját képviseli, míg a Szarvas, Pwyll, a másik fél hideg és sötét aspektusát. "A Sárkányból jött a Bika, és a Bikából a Sárkány, a Tehéntartó (Bootes) sötétsége egy hegy (Haemus hegye) alatt van" – énekelték az orfikus misztériumok beavatottjai. A Bhâgavata Pűranában pedig Rîchabha, az Ökör, "Mêru-Dêvi fiának", a kozmikus sarki tengelynek a neve. A Meru hegy volt a Védák világhegye.  { #3nf8ep}
-
+> Ez a mítosz az idő két [[F/Félév\|félév]]re való felosztását fejezi ki, mint a Semorotlio és Giiemorotlio régi kelta fogalma: Hafgan, \*Samocandos = "Summer White", a meleg és világos fél bikáját képviseli, míg a Szarvas, Pwyll, a másik fél hideg és sötét aspektusát. "A Sárkányból jött a Bika, és a Bikából a Sárkány, a Tehéntartó (Bootes) sötétsége egy hegy (Haemus hegye) alatt van" – énekelték az orfikus misztériumok beavatottjai. A Bhâgavata Pűranában pedig Rîchabha, az Ökör, "Mêru-Dêvi fiának", a kozmikus sarki tengelynek a neve. A Meru hegy volt a Védák világhegye.  
+^3nf8ep
 - Az alsó/sehol/túl világ nem azonos az alvilággal; [[A/Annwfn\|Annwfn]] a kelták másvilága, se mennyország, se pokol, hanem egy e világgal párhuzamos világ.  
   
 
