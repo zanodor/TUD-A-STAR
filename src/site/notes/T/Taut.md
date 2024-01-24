@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Taut/","title":"Taut","tags":["titleandheadingonedontmatch","multipleentries","stitched","dg_uploaded","Englishtexttranslated"],"created":"2023-10-20T02:21","updated":"2023-10-28T07:59"}
+{"dg-publish":true,"permalink":"/T/Taut/","title":"Taut","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2023-10-20T02:21","updated":"2024-01-24T03:44"}
 ---
 
 
@@ -55,5 +55,5 @@ Szankuniathón, aki nagy műveltségű és kíváncsi ember volt, és meg akarta
 
 [^2]: Lábjegyzet:  
 Az [alábbi](https://en.m.wikipedia.org/wiki/Tetragrammaton) oldal szerint:  
-Porphyry (meghalt című 305-ben) Eusebius (meghalt 339-ben) alapján a Ἰευώ (Ieuo) formát adta meg Jahve nevének. A Wikipédia oldal Patristic writings című részénél számos variánsa lejegyzése előjön az isten nevének.  
+Porphyry (meghalt kb. 305-ben) Eusebius (meghalt 339-ben) alapján a Ἰευώ (Ieuo) formát adta meg Jahve nevének. A Wikipédia oldal Patristic writings című részénél számos variánsa lejegyzése előjön az isten nevének.  
 Az [alábbi](https://phoenicia.org/theomythology.html) oldalon is sok érdekesség áll.  
