@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","tags":["dg_uploaded"],"created":"2023-10-13T05:41","updated":"2023-11-25T01:10"}
+{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","created":"2023-10-13T05:41","updated":"2024-01-25T12:48"}
 ---
 
 
@@ -56,7 +56,7 @@ Mint kiderül, [[H/Hágár\|Hágár]] fia, [[I/Izmael\|Izmael]] is vadász, de a
 
 Hogy Hunter-Orion az, aki a csillagképeket űzi, hajtja, erről [[O/Orion\|Orion]] és más címnél is volt szó. Legutóbb [[H/Hajt és óhajt\|hajt és óhajt]] címnél volt szó hasonlóról, a [[L/Love\|love]] címnél is szereplő orosz nyelvi adatokkal.  
 De az idegen nyelvi adatokkal ne álljunk le. [[A/Agár\|Agár]] címnél szerepeltek az alábbiak:  
-Ezek alapján az [[A/Agent\|agent]], [[A/Act\|act]] és más címnél előjövő görög `agein` = vezetni, hajtani és latin `agere` = hajtani igék és a CzF által megadott görög `agra` = vadászat szó eredete egy a [[J/JÁK\|JÁK]] címnél taglalt német `jäger` = vadász szóval is. A német szó tehát j-előtétesen nem (csak) Nimrudra, a Vadászra utal, hanem a kutyáira (valójában az Orion Szíriusszal tartozik össze; a Jäger és Ægir germán nevek Orionra utalnak inkább, mintsem vadászkutyára).  
+Ezek alapján az [[A/Agent\|agent]], [[A/Act\|act]] és más címnél előjövő görög `ἄγειν` (`ágein`) = vinni; vezetni, hajtani és latin `agere` = hajtani igék és a CzF által megadott görög `agra` = vadászat szó eredete egy a [[J/JÁK\|JÁK]] címnél taglalt német `jäger` = vadász szóval is. A német szó tehát j-előtétesen nem (csak) Nimrudra, a Vadászra utal, hanem a kutyáira (valójában az Orion Szíriusszal tartozik össze; a Jäger és Ægir germán nevek Orionra utalnak inkább, mintsem vadászkutyára).  
 Az is elképzelhető ezután, hogy a tupi indiánoktól ismert [[J/Jaguar\|jaguar]] szóban is az [[A/Agár\|agár]] szó szerepel. Nem véletlen, hogy nagy tisztelet övezte a jaguárt Közép- és Dél-Amerikában.  
 Azaz, a görög és latin igékre visszautalva lehet agar magyar ige értelme hajtani, akár [[A/Akar\|akar]]ni. Ahol írtuk legutóbb: Szíriusz-Orion hajtja a csillagképeket és valóban az ott említett életkörről van szó, mely félévekre tagolható ([[F/Félév\|félév]] címnél lásd GYÁ Szíriuszos adatait).  
 Ezek alapján is kimondható, hogy a hajt és akar (óhajt, vágy, sóvárog, stb.) fogalmai összefüggenek, úgy ahogy az [[I/Íj\|íj]] és [[E/Éh\|éh]] fogalmak/szavak és a [[H/Hunger\|hunger]]/hanker a Hungár-Hunor-[[K/Khamor\|Khamor]]-ral. Az elmúlt időszakban főleg ezen szavak gyűjtésével és vizsgálatával foglalkoztam.  
@@ -76,7 +76,7 @@ Lásd még hasonlókról [[F/Fuvar\|fuvar]].
 Legutóbb [[J/Játék\|játék]] és [[G/Game\|game]] címnél volt szó arról, hogy a játék valójában véresen komoly és a nemzésről, az életkörön való kőrözésről van szó.  
 A [[H/Hazard\|hazard]]-dal kapcsolatba hozható ([[S/Szerencse\|szerencse]])játék témához itt vissza is térünk.  
 
-#### Falvay Károly Nagyboldogasszony...
+#### Falvay Károly Nagyboldogasszony...
 
 ...című könyvének 296. oldaláról való adata [[N/Nőrablás\|nőrablás]] címnél (ott bővebben) is megvolt:  
 > Kevesen gondolnak ugyanis arra, hogy a párválasztáskor, a leány elvitelekor, minden férfi kirabolja a leány családját. Sohasem tudja ugyanis megfizetni azt az áldozatot, amit a szülőknek érzelemben és törődésben a leány felnevelése jelentett, aki ezzel örökre kiszakad a családból. A leány megszerzéséért a legény egykor még külsőleg is **rabló vadászként** jelent meg. A magyar gyermekjáték-szövegben is így láthatjuk, amint megszólal: "Felkötöttem kardomat, add nékem a lányodat!"  
