@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Ecliptic/","title":"Ecliptic","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-17T06:56","updated":"2023-11-17T06:56"}
+{"dg-publish":true,"permalink":"/E/Ecliptic/","title":"Ecliptic","tags":["Englishtexttranslated"],"created":"2023-11-17T06:56","updated":"2024-01-24T03:40"}
 ---
 
 
@@ -64,7 +64,7 @@ A Jankovics Marcell Jelkép-kalendárium című könyvének Alexandriai Katalinr
 > Az európai műveltségben a kerék ma a szerencse, a sors forgandóságát jelképezi. E képzet gyökerei viszont megint csak az égkerékhez és a Nyilas Jupiteréhez nyúlnak vissza. A szerencse és a sors latin istennője, [[F/Fortuna\|Fortuna]] volt, akit keréken egyensúlyozó nőalakként ábrázoltak. Görög megfelelője [[N/Nemeszisz\|Nemeszisz]] tejútistennő, ővele nemzette Zeusz az Ikreket. Nemesziszt szárnyakkal ábrázolták, hiszen Zeusz hattyúalakban közösült vele a Nyilas cikkelyében, és a kezében almafaágat tartott, mintha csak Héra almafáját (a Tejutat) őrző heszperisz volna. Katalin-napkor \[november 25.\] frissen metszett gyümölcsfa gallyat tesznek vízzel telt üvegbe ("katalinág"), hogy karácsonyra kivirágozhassék. Ezt a szokást más adventi, Nyilas-hónapbeli jeles nőnapokon (Borbála- és Luca-napkor) is gyakorolták.  
 
 A fentiekhez némi kiegészítéseket kell tenni. Egyrészt a körbe írt kereszt Föld-jelképnek való megfeleltetéséről – és ennek cáfolatáról – szóltunk [[L/LU\|LU]], [[K/Kereszt\|kereszt]] és [[M/Mandala\|mandala]] címnél. Ez a nézet a [[G/Geocentrikus világkép\|geocentrikus világkép]] alapján alakult ki.  
-Másrészt a kerékagy világkerék (nevezhetjük [[H/Hamlet malma\|Hamlet malmá]]nak is) kerékagyának is a Földet tartják, holott (a [[N/Navel\|navel]] címnél taglalt) szanszkrit `nabhi` = kerékagy, köldök szó rámutat, hogy Napról lehet szó[^1] (csillagról, mint amilyen a [[S/Sarkcsillag\|Sarkcsillag]] is végső soron). A Földdel való azonosítás tehát másodlagos, hisz a Föld – ahogy táltosaink tudták is – a Naprendszer része, és ez a Naprendszer kerül végsősoron keresztrefeszítésre (lásd [[C/Crucifixion\|crucifixion]], [[C/CSÁR\|CSÁR]], stb.) a Nagy Évben.  
+Másrészt a kerékagy világkerék (nevezhetjük [[H/Hamlet malma\|Hamlet malmá]]nak is) kerékagyának is a Földet tartják, holott (a [[N/Navel\|navel]] címnél taglalt) szanszkrit `nabhi` = kerékagy, köldök szó rámutat, hogy Napról lehet szó[^1] (csillagról, mint amilyen a [[S/Sarkcsillag\|Sarkcsillag]] is végső soron). A Földdel való azonosítás tehát másodlagos, hisz a Föld – ahogy táltosaink tudták is – a Naprendszer része, és ez a Naprendszer kerül végső soron keresztrefeszítésre (lásd [[C/Crucifixion\|crucifixion]], [[C/CSÁR\|CSÁR]], stb.) a Nagy Évben.  
 
 #### Jankovics Marcell A Nap könyve...
 
