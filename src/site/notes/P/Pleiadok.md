@@ -1,31 +1,7 @@
 ---
-title: Pleiadok
-aliases:
-  - Pleiades
-  - Plejádok
-  - Pleiádok
-  - Fiastyúk
-status: dg_uploaded
-tags:
-  - containstransclusions
-  - Englishtexttranslated
-share: true
-dg-publish: true
-dg-created: 2023-11-09T04:07:00
-dg-updated: 2024-01-20T04:03
-dg_upload_status: VNC done
-parent_topic:
-  - Constellations
-date created: 2022-12-14
-date modified: 2024-01-20
-ghrepoURL:
-  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/P/Pleiadok.md
-  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/P/Pleiadok.md
-  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/P/Pleiadok.md
-  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/P/Pleiadok.md
-  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/P/Pleiadok.md
-danglinglink_commentedout: true
+{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2024-01-25T12:47"}
 ---
+
 
 # Pleiadok
 
@@ -206,8 +182,8 @@ A JMJ és Rene Guenon által több helyen is említett Nagy Medve – Pleiadok k
 > **A Plejádok a hét tehén női aspektusait fejezik ki, a hét bika által képviselt férfi Rishik ellentéteként. Ez a tizennégy erő együttesen az asztrális jegyek közül hét jegyen keresztül hat a Brahmával (Dagda) összhangban a láthatatlan spirituális Napon keresztül, amelyet az ezoterikusok gyakran "Nagy Központi Nap"-ként vagy Spirituális Napként** emlegetnek. A jóginok ezt a kozmikus központokból kiinduló három energiasugár vezérlő elveként értelmezik. A neodruidák hasonló elképzelésre hivatkoznak a Tribann (három sugár) formájában. Ezeket a láthatatlan, csak a belső szemmel látható erőket "akasha", "elektromos" és "pránikus" erőknek nevezik. Ez a hét Rishis viszont részt vesz a világegyetem hét kozmikus rendjében. A földön úgy nyilvánulnak meg, mint az ősóriás Manu első faja, aki a hét Manavát nemzette, és aki az első embereket nemzette.  
 > \[...\]
 > A Plejádok csoportjának hét fő Tündér-csillaga valamikor a Sarki csoportok része volt. Lassanként a nyári régiókba vándoroltak, és ezzel megteremtették az allegorikus változást Pwyll királyságából Arawn királyságába. Azóta a Plejádok negatív befolyást kaptak. A walesi szövegek azt illusztrálják, hogy [[A/Arawn\|Arawn]] volt [[A/Annwfn\|Annwn]] (Andumnon), "a Nem-világ" vadászkirálya, az egyik "másvilág" metafizikai fogalmának neve, amelyet egyesek összekevertek a \*Anderodumnon = az "Alvilággal". A továbbiakban megemlítik, hogy Pwyll of Dyfed Gyn Cuchban vadászat közben észrevesz egy falkányi furcsa kopót egy szarvasra, amire ő is rászabadítja a saját kopóit. Ezek Arawn kopói voltak. Ezért megdorgálja őt udvariatlanságáért. Jóvátételként Pwyll kénytelen eleget tenni Arawn feltételeinek; megöli ellenségét, Hafgant, és az ő álruhájában egy évig Arawn királynőjének ágyát osztja meg anélkül, hogy szeretkezne vele. Pywll teljesíti ezeket a feltételeket, és visszatérhet Dyfedbe, ahol nemcsak királyukként, hanem Annwn uraként is üdvözlik.  
-> Ez a mítosz az idő két [[F/Félév\|félév]]re való felosztását fejezi ki, mint a Semorotlio és Giiemorotlio régi kelta fogalma: Hafgan, \*Samocandos = "Summer White", a meleg és világos fél bikáját képviseli, míg a Szarvas, Pwyll, a másik fél hideg és sötét aspektusát. "A Sárkányból jött a Bika, és a Bikából a Sárkány, a Tehéntartó (Bootes) sötétsége egy hegy (Haemus hegye) alatt van" – énekelték az orfikus misztériumok beavatottjai. A Bhâgavata Pűranában pedig Rîchabha, az Ökör, "Mêru-Dêvi fiának", a kozmikus sarki tengelynek a neve. A Meru hegy volt a Védák világhegye.  
-^3nf8ep
+> Ez a mítosz az idő két [[F/Félév\|félév]]re való felosztását fejezi ki, mint a Semorotlio és Giiemorotlio régi kelta fogalma: Hafgan, \*Samocandos = "Summer White", a meleg és világos fél bikáját képviseli, míg a Szarvas, Pwyll, a másik fél hideg és sötét aspektusát. "A Sárkányból jött a Bika, és a Bikából a Sárkány, a Tehéntartó (Bootes) sötétsége egy hegy (Haemus hegye) alatt van" – énekelték az orfikus misztériumok beavatottjai. A Bhâgavata Pűranában pedig Rîchabha, az Ökör, "Mêru-Dêvi fiának", a kozmikus sarki tengelynek a neve. A Meru hegy volt a Védák világhegye.  { #3nf8ep}
+
 - Az alsó/sehol/túl világ nem azonos az alvilággal; [[A/Annwfn\|Annwfn]] a kelták másvilága, se mennyország, se pokol, hanem egy e világgal párhuzamos világ.  
   
 
@@ -224,7 +200,7 @@ Ugyanez az araboknál, RHA könyvéből:
 
 ## Szófejtés
 
-RHA Star Names című könyvében előjön, hogy a Pleiadok nevét a görög `plein` = hajózni szóból kívánták levezetni. (Merthogy a Pleiadok májusi heliákus kelése a nyitotta meg és késő őszi lemente vetett véget a hajózásnak.) Mások szerint a `pleos` = teljes, teli lenne a név eredete. Végül is megengedi, hogy **Pleione** volt a görög mitológiában a hét lánytestvér anyja, és csak róla kapta nevét. (Persze akkor mit jelent Pleione?)  
+Richard H. Allen Star Names című könyvében előjön, hogy a Pleiadok nevét a görög `plein` = hajózni szóból kívánták levezetni. (Merthogy a Pleiadok májusi heliákus kelése a nyitotta meg és késő őszi lemente vetett véget a hajózásnak.) Mások szerint a `pleos` = teljes, teli lenne a név eredete. Végül is megengedi, hogy **Pleione** volt a görög mitológiában a hét lánytestvér anyja, és csak róla kapta nevét. (Persze akkor mit jelent Pleione?)  
 RHA folytatja:  
 > Some of the poets, among them Athenaeus, Hesiod, Pindar, and Simonides, likening the stars to Rock-pigeons flying from the Hunter Orion, wrote the word Πελειάδες, which, although perhaps done partly for metrical reasons, again shows the intimate connection in early legend of this group with a flock of birds.  
 > —  

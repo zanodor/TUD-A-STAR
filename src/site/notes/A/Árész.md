@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Árész/","title":"Árész","created":"2024-01-24T03:49","updated":"2024-01-24T03:49"}
+{"dg-publish":true,"permalink":"/A/Árész/","title":"Árész","created":"2024-01-23T03:59","updated":"2024-01-25T12:45"}
 ---
 
 

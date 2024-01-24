@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Jaguar/","title":"Jaguar","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-05T10:32","updated":"2023-11-17T09:43"}
+{"dg-publish":true,"permalink":"/J/Jaguar/","title":"Jaguar","tags":["Englishtexttranslated"],"created":"2023-11-05T10:32","updated":"2024-01-25T12:46"}
 ---
 
 
@@ -10,7 +10,7 @@ Jaguár. A tupí indiánok adták nevét. Felbontható lehetne Ja-Gu-Ár formáb
 [[J/JÁK\|JÁK]], [[J/JÁG\|JÁG]] és [[J/Jag\|jag]] hímségi jelentései alapján Jág-Vár a helyesebbnek tűnő felbontása: Tűz Háza. Azt az óamerikai nyelvekben láttuk, hogy a v hang helyett u hang áll.  
 Igen érdekes Eric Partridge adata, miszerint a tupi indiánok `jaguára` szava nagymacskát, de gyakran(!) [[K/Kutya\|kutyá]]t is jelöl. Ennek megfelelően a guarani nyelvben is `jagua` = kutya ([[J/Jahve\|Jahve]] névhez való hasonlósága miatt oda is betéve).  
 
-Hasonló szó a fentebb, [[J/Jackal\|jackal]] címnél is említett grúz `jaĝli` = kutya. Tulajdonképpen meg kell állapítanunk, hogy a sakál/dzsakál és jauga/jaguár és a másutt taglalt Ják-Úr, Gyak-Úr ([[G/Gyakor\|gyakor]]) és még a [[S/Sacchar-\|sacchar-]] címnél taglalt megannyi változat mind egy és ugyanarra, Orion+Szíriuszra utal, és (ahogy [[P/Párduc csillagkép\|Párduc csillagkép]] címnél is írtuk[^1]), ami másutt [[P/Panther\|Panther]], itt Jaguár. Persze az alant is említett [[A/Agár\|agár]] is ilyen alakú szó.  
+Hasonló szó a [[J/Jackal\|jackal]] címnél is említett grúz `jaĝli` = kutya. Tulajdonképpen meg kell állapítanunk, hogy a sakál/dzsakál és jauga/jaguár és a másutt taglalt Ják-Úr, Gyak-Úr ([[G/Gyakor\|gyakor]]) és még a [[S/Sacchar-\|sacchar-]] címnél taglalt megannyi változat mind egy és ugyanarra, Orion+Szíriuszra utal, és (ahogy [[P/Párduc csillagkép\|Párduc csillagkép]] címnél is írtuk[^1]), ami másutt [[P/Panther\|Panther]], itt Jaguár. Persze az alant is említett [[A/Agár\|agár]] is ilyen alakú szó.  
 
 #### Dr. Kovács Sándor Gán.Muš – a kígyó kertje avagy a sötétség...
 
@@ -36,7 +36,7 @@ Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylon
 > —  
 > A kutya gyakran kiindulópont az állatnevek \[adásának\] elgondolásában. Így a sumero-akkádoknál, ahogy a hiéna a csíkos kutya, a farkas a mohó kutya és az oroszlán a nagykutya. Így az eszkimóknál a jegesmedve a Fehér kutya, a Vendidadban (Fargard, xiii) pedig a sün a tüskés hátú kutya. Az Ak. Likbarra is a (Sem.) Barbaru adja vissza, amit általában Leopárdnak fordítanak. Ahogy a színek tekintetében, úgy az állatokra vonatkoztatva is gyakran nagy a terminológiai homály az ókori irodalomban.  { #cmhp48}
 
-- [[B/Barbár\|Barbár]] és [[C/Cynosure\|Cynosure]] címhez is betéve.  
+- [[B/Barbár\|Barbár]] és [[C/Cynosure\|Cynosure]] címhez is bekerült.  
 
 Ahogy [[S/Sphinx\|Sphinx]], [[S/Swastika\|swastika]] és sok más címnél is elhangzott, a nagymacskák Napszimbólumok, de Szíriusz is Nap, mely kutya.  
 Éppen ezért hívhatják a kolumbiai deszanák sámánját jaguárnak. (Lábjegyzetes adat van hasonló, de nem ez.)  
@@ -57,7 +57,7 @@ Sőt, ha a Jag-Vár neve utalás Nimród, a Vadász kutyájára, egyértelműnek
 
 [[A/Agár\|Agár]] címnél frissen írottak szerint a jaguár eredete egy lehet indo-európai nyelvek más jelentésű szavaival (de már fentebb is szóba került az agár a gepárd részben):  
 Igen könnyen elképzelhető, hogy [[N/Nimrud\|Nimrud]] kutyáit agárnak is hívták. Az [[O/Orion\|Orion]] csillagképről már volt szó, mint a csillagképek vezetőjéről (a Csudaszarvas űzőjéről/hajtójáról), de valójában az égi vadászkutyák azok, akik a hajtást végzik, különösen [[S/Szíriusz\|Szíriusz]]ról tudjuk ezt (persze [[P/Procyon\|Procyon]] is a képben van, mint közel lévő csillag; lásd [[H/Henry Kroll\|Henry Kroll]] írását is).  
-Ezek alapján az [[A/Agent\|agent]], [[A/Act\|act]] és más címnél előjövő görög `agein` = vezetni, hajtani és latin `agere` = hajtani igék eredete egy lehet a német `jäger` = vadász szóval is. A német szó tehát j-előtétesen nem Nimrudra, a Vadászra utalna, hanem a kutyáira. (ÉgÚr viszont Orion és Orion és kutyái, főleg a Szíriusz csillag, összetartoznak.)  
+Ezek alapján az [[A/Agent\|agent]], [[A/Act\|act]] és más címnél előjövő görög `ἄγειν` (`ágein`) = vinni; vezetni, hajtani és latin `agere` = hajtani igék eredete egy lehet a német `jäger` = vadász szóval is. A német szó tehát j-előtétesen nem Nimrudra, a Vadászra utalna, hanem a kutyáira. (ÉgÚr viszont Orion és Orion és kutyái, főleg a Szíriusz csillag, összetartoznak.)  
 Az is elképzelhető ezután, hogy a tupi indiánoktól ismert jaguar szóban is az [[A/Agár\|agár]] szó szerepel. Nem véletlen, hogy nagy tisztelet övezte a jaguárt Közép- és Dél-Amerikában. (Lásd még a közben a lábjegyzetes deszana infót is.)  
 
 Érdekes viszont azt is megemlíteni, hogy Varga Zsigmond Az ősmagyar mitológia című könyvének adata szerint a török `ag`, `av` = háló, de vadászni értelmű is (azért, mert valamikor így fogták a vadat; a szumirban az ellenség elfogatása az istenség, vagy a király hálójának reá való kivetése; ősi vadászati mód). Lehet tehát ag jejesen jag.
@@ -65,7 +65,7 @@ Az is elképzelhető ezután, hogy a tupi indiánoktól ismert jaguar szóban is
 Viszont vélhetően inkább a [[V/Vad\|vad]] = Csudaszarvas (minek neve MA szerint még ág, [[A/Ágas\|ágas]] is volt) elejtése nyomán alakult ki a szó.  
 
 [[G/Gnu\|Gnu]], [[G/Gazella\|gazella]], [[K/Kangaroo\|kangaroo]] és [[K/Kutya\|kutya]] címnél is volt arról szó, hogy a négylábúak (úgy mint nagymacska, kutya és ló, valamint szarvas és kecske, valamint tapír) nevei között átfedések lehetnek, hiszen az állatok a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] vagy kísérői.  
-Nem csoda, hogy (jaguar és Jahve) egymást követik a Tudástár címlistában, a jaguar és főleg a jagua név igen hasonló a [[J/Jahve\|Jahve]] névhez is.  
+ 
 
 ## Lábjegyzetek
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2024-01-14T01:29"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2024-01-25T12:44"}
 ---
 
 
@@ -10,7 +10,7 @@
 ## Üdvözlöm a kedves Olvasót!
 
 Amit itt talál, eredetileg egy forrásmunka a készülő **"Fény és sötétség - a magyarság helye a világban"** című kiadványhoz (angolul: **Light and Darkness - The Magyars' Place In The Universe**).  
-Azaz tervezem a valamikori angol fordítást is (egyes helyeken fordítani sem kellene, mert már angolul szerepelnek a Tudástárnak nevezett adatbázisban – azon helyeken a magyar fordításokkal vagyok adós), de annyi különbséggel, hogy mivel írott nyomtatásban lehetetlenség lenne bármelyiküket is megjelentetni, marad az elektronikus formátum.  
+Azaz tervezem a valamikori angol fordítást is (egyes helyeken fordítani sem kellene, mert a passzusok már angolul szerepelnek e Tudástárnak nevezett jegyzet-adatbázisban – azon helyeken a magyar fordításokkal vagyok adós, de menet közben ezt is orvosolom), de annyi különbséggel, hogy mivel írott nyomtatásban lehetetlenség lenne bármelyiküket is megjelentetni, marad az elektronikus formátum.  
 
 
 
@@ -58,13 +58,13 @@ Felül a borítékra kattintva lehet bármelyik oldalról email-t küldeni: az a
 A boríték mellett a három ikon értelemszerűen a téma színváltoztatását szolgálja: világos – sötét – automatikus. Legalábbis ez lett volna a cél; jelenleg leginkább átvált egyikről a másikra, mindegy hova kattint az ember, de ez is megfelel, sőt.  
 
 Amennyiben 1400 pixelszélességnél kisebb képernyőn tekinti meg az oldalt, akkor a mobil alkalmazásnak megfelelő nézetet kapja. Ilyenkor asztali gépen vagy laptopon az oldal jobb áttekinthetősége és funkcióinak könnyű elérése végett érdemes kipróbálni 90%-os nagyításban, mely állapothoz a CNTRL és mínusz gomb lenyomásaival juthat.  
-A jövőben erre is megoldás születik majd, így ezzel majd nem kell foglalkozni.  
+- A jövőben vélhetően erre is megoldás születik majd, így ezzel majd nem kell foglalkozni.  
 
 Egyes helyeken, ahol a Wikilinkek után közvetlenül egy kötőjel vagy rag következik, egy felesleges szóköz jelenhet meg. Ennek okát nem tudom; talán a Google automatikus fordítójának bekapcsolt állapota okozza. Az én gépeimen és böngészőimben ez a probléma nem áll fenn, de az olvashatóságot annyira nem befolyásolja, hogy ezért bárminemű szoftveres beavatkozást eszközöljek.  
 
 Az is kiderült, hogy sajnos az ingyenes app korlátai közé tartozik az app-építés időbeli limitje. Ami az jelenti, hogy néhány ezer file-ban kell maximalizálnom a feltöltést; minden szó nem fér fel. A fontosabb témák mindegyike viszont feltöltésre kerül.  
 
-A weboldal úgynevezett favicon-ja egy szarvast ábrázol egy körkeresztben. Tehát nem sátánista, szabadkőműves, sorosista, billgécista vagy akármilyen jelkép. A régi hitben a szarvas(ünő) isteni szimbólum és a körkereszt közepén is Isten van. Aki ettől az irányzéktól eltér (el[[T/Tévely\|tévely]]edik), bűnt követ el; lásd erről [[H/Hamartia\|hamartia]] és [[I/Íj és a nyíl#Az íj és a nyíl ősi vallási eszköz\|íj és a nyíl]] címnél.  
+A weboldal úgynevezett favicon-ja egy szarvast ábrázol egy körkeresztben. Tehát nem sátánista, szabadkőműves, sorosista, billgécista vagy akármilyen jelkép. A régi hitben a szarvas(ünő) isteni szimbólum és a körkereszt közepén is Isten van. Aki ettől az irányzéktól eltér (el[[T/Tévely\|tévely]]edik), bűnt követ el; lásd e témáról [[H/Hamartia\|hamartia]] és [[I/Íj és a nyíl#Az íj és a nyíl ősi vallási eszköz\|íj és a nyíl]] címnél.  
 
 ## A Tudástárról
 
@@ -382,7 +382,7 @@ Az óangolnak címkézett szavakat tarthatjuk egyszerűen germánnak. Azaz az ó
 
 Három fő forrása van a szavaknak utódnyelveinkben: etimonokra bontható csillag- és napvallásra korának szókincséből származó szótag-szavak, magyar ősvallás/mitológia/képzetek, és magyar király-, személy- és tájnevek.  
 Írhatnánk úgy is, hogy szakrális vagy asztrális szavak változnak át profánakká. (De a magyarban magunk is elfeledtük (ill. konkrét vizsgálat alá sosem vontuk) az [[A/Alma\|alma]], [[K/Kígyó\|kígyó]], [[C/Csiga\|csiga]], [[K/Kutya\|kutya]], [[H/Hattyú\|hattyú]], stb. nevek eredeti jelentését.)  
-A szaurusz szó gyík jelentésű volt az ókorban. Csak a név nem gyíkot jelent, hanem a Fény Urainak leszármazási helyét (a Tejútkígyót), de a görög szaurosz szó már nem szakrális jelentésű, hanem profán értelemben csak gyíkot jelöl.  
+A `szaurusz` szó gyík jelentésű volt az ókorban. Csak a név nem gyíkot jelent, hanem a Fény Urainak leszármazási helyét (a Tejútkígyót), de a görög `szaurosz` szó már nem szakrális jelentésű, hanem profán értelemben csak gyíkot jelöl.  
 
 Általánosságban elmondható, hogy az utódnyelvek szavai magyar szimbólumokból, azok sajátos használatából, félreértéséből alakulnak ki.  
 
@@ -398,9 +398,9 @@ Lásd még [[E/Etymon\|etimon]].
 #### Negatív értelmet nyert vagy aljas szavak
 
 Az idő előrehaladtával ([[K/Kali Yuga\|Kali Yuga]]) bizonyos szavak, szókapcsolatok értelme megváltozott; kialakult kettős jelentésük vagy csak kihangsúlyozottá váltak:  
-• [[R/Ronda\|Rondá]]ról esett szó [[R/Round\|round]] szónál. Ugyan rom szavunkból is eredhet (romda) de maradjon itt.  
+• [[R/Ronda\|Rondá]]ról esett szó [[R/Round\|round]] szónál. Ugyan rom szavunkból is eredhet (\*romda) de maradjon itt.  
   
-• [[B/Baj\|Baj]] szónál PJI leírja, miként változott negatívra jekentése. [[B/Bal\|Bal]] eredetileg hatalmast, majd bal-jóst, rossz értelmet vett fel.  
+• [[B/Baj\|Baj]] szónál PJI leírja, miként változott negatívra jelentése. [[B/Bal\|Bal]] eredetileg hatalmast, majd bal-jóst, rossz értelmet vett fel.  
 • [[F/Fene\|Fene]] szavunk [[F/Fény\|fény]] nyomán is pozitívból negatívvá alakult, de nem azért, mert a betegségek felütötték a fejüket a bolygón, hanem mert a [[N/Nyári napforduló\|nyári napforduló]] után a Nap a sötét tartományba lép.  
 • Tupa szavunk eredetileg szintén pozitív: Tu-Pa magyarul Nap-Apa.  
 
