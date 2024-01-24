@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Urgula/","title":"Urgula","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-12T01:48","updated":"2023-11-25T11:28"}
+{"dg-publish":true,"permalink":"/U/Urgula/","title":"Urgula","tags":["Englishtexttranslated"],"created":"2023-11-12T01:48","updated":"2024-01-25T12:47"}
 ---
 
 
@@ -144,7 +144,7 @@ Gavin White könyvének interneten elérhető kivonataiban tallózva az előző 
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-RHA Star Names című könyvében hozott adat szerint a nyolcadik (a Wikipédia szerint lehet 10. és 15. inkább) hindu [[N/Nakshatra\|nakshatra]] neve [[M/Maghā\|Maghā]], melyet az [[O/Oroszlán csillagkép\|Oroszlán csillagkép]] alfájának, [[R/Regulus\|Regulus]]nak ind `Maghā` = a Hatalmas neve nyomán kapott. Szogdiában szintén Magh volt a Regulus neve. Hogy most ez a sumér Ur-Mah nyomán ered-e, vagy a két csillagkultúra közös helyről merít, most nem is fontos.  
+Richard H. Allen Star Names című könyvében hozott adat szerint a nyolcadik (a Wikipédia szerint lehet 10. és 15. inkább) hindu [[N/Nakshatra\|nakshatra]] neve [[M/Maghā\|Maghā]], melyet az [[O/Oroszlán csillagkép\|Oroszlán csillagkép]] alfájának, [[R/Regulus\|Regulus]]nak ind `Maghā` = a Hatalmas neve nyomán kapott. Szogdiában szintén Magh volt a Regulus neve. Hogy most ez a sumér Ur-Mah nyomán ered-e, vagy a két csillagkultúra közös helyről merít, most nem is fontos.  
 
 [^2]: Lábjegyzet:  
 Hasonló a baszk nyelvben is `or`, `hor` = kutya, `zakur` = (nagy) kutya, (ma leginkább kicsinyítve használt) `xakur` = (kis) kutya. Lásd hasonló gyűjtésre került szavakat [[S/Sacchar-\|sacchar-]].  
