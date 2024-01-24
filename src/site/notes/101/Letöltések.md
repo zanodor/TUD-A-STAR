@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Letöltések/","title":"Letöltések","created":"2023-12-28T07:46","updated":"2024-01-14T01:35"}
+{"dg-publish":true,"permalink":"/101/Letöltések/","title":"Letöltések","created":"2023-12-28T07:46","updated":"2024-01-24T03:39"}
 ---
 
 
@@ -11,7 +11,7 @@ Az alábbi két MEGA webhelyről megtekinthetők és letölthetők\* magyarság-
 
 Használja a keresőt (search) bármely webhelyen a keresett állomány megtalálásához (már ha fel lett töltve bármelyik tárra is).  
 
-## Kiemelt szerzők és kiadványok
+## Kiemelt szerzők, kiadványok és előadók
 
 - [Péterfai János István összes](https://mega.nz/file/kqFXUK4C#3T6V6m8JN1ga0izseQ2D29XvWnVN-W6-nO-yHaBIGXk)
 - [Magyar Adorján összes](https://mega.nz/folder/diVDUSJR#5v1KKyRHxbioilnrUpyngg)
@@ -24,8 +24,9 @@ Használja a keresőt (search) bármely webhelyen a keresett állomány megtalá
 - [Magyar néprajzi lexikon](https://mega.nz/file/drNRBLrK#guCTPrlPTzaL9ae0DZeK8QclS4BQeFMLe9L4LhcOoGQ)
 - [Falvay Károly: Nagyboldogasszony](https://mega.nz/file/w21zCSqQ#Xxmcb0tPYtn5nDBLzWsDlhnXrma99lSJrXHK6W-fdYA)
 - [Tóth Gyula – Szkítiától Maghrebig (blog)](https://mega.nz/file/ZqMFVDJY#qQoUkL4j13STn6JTWXocdFx7nmYxjhQY6cHocsI1s_M)
-- [TeSz (Történeti-etimológiai szótár)](https://mega.nz/file/1zcCGYTA#McThRTg_bbn-caL-eF-9zvl3f__8xVJbawNY07XSavA)
+- [TeSz (Történeti-etimológiai szótár)](https://mega.nz/file/YrMH0bKQ#tQCyjtqz2a7tT_79JkspVqPxZUbpbMjgjWU8MTBLoXc)
 - [Drábik János](https://mega.nz/folder/oqU21TKQ#Z1yGjMKiJXrT9aynnfYFWg)
+- [Kubínyi Tamás ÁKTV](https://videa.hu/tagok/aktv-2237405)
 
 
 
