@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz Iránban/","title":"Szíriusz Iránban","tags":["Englishtexttranslated"],"created":"2023-10-29T06:02","updated":"2023-12-23T08:12"}
+{"dg-publish":true,"permalink":"/S/Szíriusz Iránban/","title":"Szíriusz Iránban","tags":["Englishtexttranslated"],"created":"2023-10-29T06:02","updated":"2024-01-25T12:47"}
 ---
 
 
@@ -22,7 +22,7 @@ A Szíriusz korábbi, Zend Avesztában talált elnevezése [[T/Tistrya\|Tishtrya
 > A Szíriusznak a vízzel való társítása a Zend-Avesztában fordul elő, amely Tishtriyát (Szíriuszt) az eső felelősének és a szárazság démonának ellenségének nevezi. A Zend-Aveszta szerint a Legfelsőbb Isten egyszer Tishtriya-t hatalmas áradást okozott az emberek gonoszságának és romlottságának büntetéseként.  
 > Az iráni mitológia Tishtrya, az isteni íjászként személyesítette meg Szíriuszt (a védikus mítoszokban a megfelelő szereplő Tishya volt). A "Tishtrya" név a szanszkrit "három csillag" kifejezésre és egy régebbi, azonos jelentésű indoeurópai kifejezésre vezethető vissza. Egyes tudósok inkább az Orion övének megnevezését látják itt.  
 
-RHA Star Names című művében említi, hogy bizonyos Edkins nevű kutató szerint Arcturus-t jelölhette inkább Tistar (Tishtrya). (Ugyanezen Edkins véleménye szerint a perzsák [[V/Vanant\|Vanant]] csillaga Procyon vagy Szíriusz volt...)  
+Richard H. Allen Star Names című művében említi, hogy bizonyos Edkins nevű kutató szerint Arcturus-t jelölhette inkább Tistar (Tishtrya). (Ugyanezen Edkins véleménye szerint a perzsák [[V/Vanant\|Vanant]] csillaga Procyon vagy Szíriusz volt...)  
 
 Véleményem szerint minden igen fényes csillagnak is neve lehetett, hiszen jelentése erről tanúskodik. Jelző ez, nem tulajdonnév.  
 [[S/Satavaesa\|Satavaesa]] címnél szerepel WFW véleménye is.  
