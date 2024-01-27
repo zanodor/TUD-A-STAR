@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2023-11-23T12:19"}
+{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2024-01-27T11:09"}
 ---
 
 
@@ -51,7 +51,7 @@ A közben talált [[M/Makardhwaja\|Makardhwaja]] név és a karakter születése
 
 Az év végi toldaléknapokra vonatkozó asszír-babiloni [[M/Magru\|magru]] = bajt hozó (ilyen jelentéssel adatolja VN) jelentésű szó nyilván a Magur formának változata és arra utal, hogy ezen napokat az év végére szokták tenni (de akár a balos, csálé, ökör és más eredete is lehetne a szónak).  
 
-A Constellations oldal szerzője, az RHA Star Names című könyvének adatait feldolgozó Anne Wright [ezen](https://www.constellationsofwords.com/nashira/) oldalon egy babiloni **Mahar** nevet hoz:  
+A Constellations oldal szerzője, az Richard H. Allen Star Names című könyvének adatait feldolgozó Anne Wright [ezen](https://www.constellationsofwords.com/nashira/) oldalon egy babiloni **Mahar** nevet hoz:  
 > Gamma (γ Nashira) marked the 27th Babylonian ecliptic asterism, Mahar sha hi-na Shahu, the Western One in the Tail of the Goat.  
 —  
 > Gamma (γ Nashira) jelölte a 27. babiloni ekliptikai csillagképet, Mahar sha hi-na Shahu-t, a Nyugatit a Kecskefarokban.  

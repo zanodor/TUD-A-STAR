@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Z/Zár/","title":"Zár","tags":["dg_uploaded","titleandheadingonedontmatch"],"created":"2023-11-19T03:41","updated":"2023-11-19T03:41"}
+{"dg-publish":true,"permalink":"/Z/Zár/","title":"Zár","tags":["titleandheadingonedontmatch"],"created":"2023-11-19T03:41","updated":"2024-01-27T11:18"}
 ---
 
 
@@ -8,7 +8,8 @@
 Zár szavunk is a [[K/KAR\|KAR]] alapszóhoz tartozik. Egy időszak ([[K/Kor\|kor]] = [[K/Kör\|kör]]) lezárultával jön a következő, kivált a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] fordulópontjaita vonatkoztatva. Az idő ugye körkörös. [[E/Életkör\|Életkör]]ben élünk.  
 Tehát ahogy [[S/Szer\|szer]]/[[S/Szerencse\|szerencse]] szavak kör értelműnek illetve ahhoz tarthatónak foghatók fel, zár is. Az időkör lezárulása napi ciklusban adná meg az olasz `sera` = este értelmét is, honnan az új nap kezdődik (lásd erről [[H/Holnap\|holnap]]).  
 
-[[S/SAR#Sar 2)\|Sar]] magyar-sumér szónál szóba került zár igénk, minthogy – az időt, annak körkörösségét szimbolizáló – kör periódust, így bolygók orbitális pályáját és időbeli hosszát is jelentheti. [[Z/Zero\|Zero]] értelmezése is így tulajdonképpen – PJI ajánlására – záró lenne.  
+[[S/SAR#Sar 2)\|Sar]] magyar-sumér szónál szóba került zár igénk, minthogy – az időt, annak – [[S/Samsara\|szamszára]] címnél (a szó utótagja is ide tartozik) is taglalt –  körkörösségét szimbolizáló – kör periódust, így bolygók orbitális pályáját és időbeli hosszát is jelentheti. [[Z/Zero\|Zero]] értelmezése is így tulajdonképpen – PJI ajánlására – záró lenne.  
+
 Zár, szorít szavakkal is kapcsolatos...
 
 #### Magyar Adorján...
@@ -21,5 +22,7 @@ A szolim-szarmata fejezetében pedig:
 
 [[S/SAR#Sar 2)\|Sar]] címnél és közben (a [[S/Szegény\|szegény]] címnél álló adatsor kiegészítésének kezelhető) [[F/Félelem\|félelem]] címnél is szerepeltek alábbi MA sorai, melyekben rámutat, hogy a zár fogalmában a [[S/Sure\|sure]] címnél is említett szoros fogalma van meg:  
 > Ha a magyar-finnugor nyelvészetben megállapítást nyert az, hogy a magyar aggódik igénk pontos megfelelőjét képezi a finn `ankea` = szoros (vesd össze: szanszkrit `anhas` = aggály) és hogy a szorongás és aggódás azonos szavakkal is neveztettek, úgy miért nem fejtetik meg azon meglepő tény is, hogy a magyar aggódik szó az olasz `angoscia` = aggodalom, latin `ango` = szorongatni, folytogatni, olasz `angustia` = szorultság, aggodalom, és a német `Angst` = félelem, `eng` = szoros, szűk szavakkal is azonosul? Miért nem magyaráztatik meg az is, hogy de hiszen a magyar szoros, szorít, szorong és a zár, összezár, magábazár szavak is teljesen azonosak az olasz-latin `serra` = zár igével?  
+
+[[S/Sorrow\|Sorrow]] címnél finn szavakkal is szó volt a témáról.  
 
 Amennyiben a zár főnévi értelmét vesszük alapul, még egyértelműbb a helyzet. A zár itt is a kör, hiszen kulcslyukba helyezzük a hímségi kulcsot. Ezen ideákról [[F/Fény és anyag\|fény és anyag]] címnél is volt szó, nemcsak [[K/KAR\|KAR]] bevezetőjében.  

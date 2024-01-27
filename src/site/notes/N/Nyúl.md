@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nyúl/","title":"Nyúl","tags":["Englishtexttranslated"],"created":"2023-10-13T01:41","updated":"2023-11-10T03:20"}
+{"dg-publish":true,"permalink":"/N/Nyúl/","title":"Nyúl","tags":["Englishtexttranslated"],"created":"2023-10-13T01:41","updated":"2024-01-27T11:13"}
 ---
 
 
@@ -60,7 +60,7 @@ Lásd még [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]].
 
 Hogy a lányok a szebbik nem, ez ismeretes. A latin `lepus` = nyúl is köthető [[L/Leveret\|leveret]] szónál írottak alapján lép = szép szóhoz (lásd még [[L/LIB\|LIB]]). A szépséget pedig a fehérség jelenti, így a fehér hattyú ([[L/Libéd\|libéd]]), liba is a nők, azaz a fehérnép (angol [[F/Fair\|fair]]) szimbóluma. A nyúl tehát mindenképpen a szabadsághoz, fényhez, női energiákhoz és a Földanyához köthető, de pontos kozmikus kontextusát nem ismerjük.  
 
-Érdekes viszont a Holddal való kapcsolata, ábrázolása, mellyel kapcsolatban lásd RHA Star Names című könyvéből mellékelt képeket és mellyel kapcsolatban VN könyvében találjuk:  
+Érdekes viszont a Holddal való kapcsolata, ábrázolása, mellyel kapcsolatban lásd Richard H. Allen Star Names című könyvéből mellékelt képeket és mellyel kapcsolatban VN könyvében találjuk:  
 > Kétségtelen ázsiai-amerikai megegyezések állnak fenn az égleírás (kozmogrammák) és a naptárrendszerek között. Noha a csillagos Ég mindenütt ugyanaz ("természetes tényező"), sokféleképpen foglalható rendszerbe, és a legváltozatosabb mítoszokat szülheti. Kezdjük a legközelebbi égitesttel, a Holddal. Robert Henseling, egyetemi tanár, a bonni csillagvárta vezetje, érdekesen fejti meg a **holdbéli nyúl** titkát. Grimm ismert népmeséje szerint a nyúl hiába fut szélsebesen, nem tudja megelőzni a sündisznót. Ugyanígy jár a leggyorsabb bolygó, a Hold: bármily gyorsan kering, mindig helyben találja a Napot. Ezért mondja róla a babiloni himnusz:  
 > *Siet, kinek térde sose fárad,  
 > aki testvérei, az istenek útját megnyitja,  

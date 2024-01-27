@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","created":"2023-10-09T06:36","updated":"2023-12-29T09:00"}
+{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","created":"2023-10-09T06:36","updated":"2024-01-27T11:09"}
 ---
 
 
@@ -27,7 +27,7 @@ Mint kiderül Rédei Károly Őstörténetünk kérdései című okoskodás-gyű
 Valójában az [[I/Indogermán nyelvészet\|indogermán nyelvészet]] címnél Götz László által említett A. Pictet (Les origines Indoeuropéennes on les Aryas primitifs, essai de paléontologie linguistique (1859-63)) lehetett az első, aki szóösszetételekkel, szóelválasztásokkal dolgozott. GL amit ír:  
 > Például ind `kabhara` (micsoda étel!) nála az ófelnémet `habaro` = Hafer szónak felel meg, vagy az ind `ka-rasa` = (micsoda táplálék!) az ófelnémet `hirsi` = Hirse szónak. Ilyen módszerekkel mindent bizonyíthatunk, amit csak akarunk, jegyzi meg Schrader idézett művében. Pictet kérdéses könyvét ugyan azonnal hevesen kritizálták (A. Weber, A. Kuhn és mások), de sokan, ennek ellenére, azóta is belőle indulnak ki kutatásaikban.  
 
-[[B/Börtön\|Börtön]] címnél lásd csatolva Twitter írást, ahol arról is szóltam, hogy a sumér is szótagnyelv volt (de a kínai ideogrammák is erre utalnak).  
+A sumér is szótagnyelv volt, krétai-mükénéi jelek szótagjelek, míg a kínai írás ideogrammái akár komplett szavakat is takarhatnak – a magyar szótagok is saját jelentéssel bíró szavak.  
 A [[V/Vezér\|vezér]] az egyik legkönnyebben érthető magyar név (de a Mag-Ur is az lenne), mely rá*vezet*hetné a díszes társaságot arra, hogy a magyar nyelv szótagnyelv.  
 [[V/Végvári József\|Végvári József]] munkásságával kapcsolatosan annyit, hogy sajnos az etimon-rendszerig még nem jutott el, csak szócsaládokban (béke – béka, stb.) gondolkodik. Azt jól látja, hogy a CzF szótárban is alkalmazott gyöknyelvészettel sokra nem megy az ember.  
 PJI jól látta meg, hogy a magyar szótagnyelv. Ezen szótagok pedig egy, két vagy három hangból álló alapszavak, idegen szóval [[E/Etymon\|etimon]]ok.  

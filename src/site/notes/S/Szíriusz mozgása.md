@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["dg_uploaded","Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:03","updated":"2023-12-04T01:18"}
+{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:03","updated":"2024-01-27T11:15"}
 ---
 
 
@@ -13,12 +13,12 @@ Kezdjük Szíriusz helyzetével, mely azért fontos számunkra, hogy a Tejútren
 ![assets/Sziriuszmozgasa_image1.jpeg](/img/user/S/assets/Sziriuszmozgasa_image1.jpeg)  
 ![assets/Sziriuszmozgasa_image2.png](/img/user/S/assets/Sziriuszmozgasa_image2.png)  
 
-Lásd a másik ábrát is, mely a Galaxis Tejútközponttal szemközti oldalát mutatja (persze hivatalosan az Aurigában van az anticenter: lásd [[G/Galactic anticentre\|Galactic anticentre]]). Az ábra alapján Szíriusz Napunk és az Orion között helyezkedik el.  
+Lásd a másik ábrát is, mely a Galaxis Tejútközponttal szemközti oldalát mutatja (persze hivatalosan az Aurigában van az anti-központ: lásd [[G/Galactic anticentre\|Galactic anticentre]]). Az ábra alapján Szíriusz Napunk és az Orion között helyezkedik el.  
 John Major Jenkins még azt is írja, hogy Szíriusz ugyanazon a meridiánon van, mint a Galaktikus Antiközpont:  
 > Virgo, Sirius (the Galactic Anticenter indicator), and the Galactic Center are geometrically related in the sky, and Isis has found a home in each location.  
 > Spica and the Galactic Anticenter are almost exactly 90° away and the Galactic Anticenter is on the same meridian as Sirius.  
 > —  
-> A Szűz, a Szíriusz (a Galaktikus Anticentrum jelzője) és a Galaktikus Központ geometriailag rokon az égen, és Ízisz \[Nut\] mindegyik helyen otthonra talált.  
+> A Szűz, a Szíriusz (a Galaktikus Anticentrum jelzője) és a Tejútközpont geometriailag rokon az égen, és Ízisz \[Nut\] mindegyik helyen otthonra talált.  
 > A Spica és a Galaktikus Anticentrum majdnem pontosan 90°-ra van egymástól, és a Galaktikus Anticentrum ugyanazon a meridiánon van, mint a Sirius.  
 
 Arról, hogy az Orion csillagkép és a vele szemközti Nyilasban lévő Tejútközpont hogyan vándorol (oszcillál) fel-le az égen és ennek kiváltója hogyan lehet Szíriusz (azzal közös mozgásunk), még ki kell fundálni (de egyelőre erre vonatkozólag adatokat lásd [[O/Orion övcsillagai\|Orion övcsillagai]] és [[G/Galactic centre\|Galactic centre]]).  
@@ -53,7 +53,7 @@ Az alábbi adatok J. B. Holberg könyvéből valók:
 ![assets/Sziriuszmozgasa_image7.png](/img/user/S/assets/Sziriuszmozgasa_image7.png)  
 [[I/Irán és Turán\|Irán és Turán]] címnél szereplő adatok szerint PJI nagyszerűen körüljárja miről lehet szó: Irán és Turán megszemélyesített, majd végül földi területekre értett égi fogalmak; ED szerint is valóban megfeleltethetők [[N/Nimrud\|Nimrud]] ([[F/Firdauszi\|Firdauszi]]nál [[F/Feridun\|Feridun]]) [[H/Hunor és Magor\|Hunor és Magor]] fiainak. Irán és Turán valójában égitestek (lásd [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]]) által bejárt égi tartományok, melyek időközönként átfedésbe kerülnek. Ha valóban hinni lehet az apa-ikerfiúk relációban, akkor a két Nap valóban az Orion övéből, vagyis Nimrud ([[O/Orion\|Orion]]) fallosza tájékából nemződött ill. röppent-robbant ki. Itt vág össsze a magyar monda a fent említett Henry Knoll történettel és a National Geographic által 2012-ben kiadott kutatási eredménnyel is, miszerint a – és itt a NG téves gondolkozása érhető tetten – Napunk valamely testvér (ő sister-ként asszociál rá) csillagát már azóta elveszítve az Orion-köd mintegy 100 fényév-szélességű M67 nevű klaszterjából született: ennek valószinűségét nemcsak az növeli, hogy az itteni csillagok paraméterei egyezőek Napunkéval, de az is, hogy viszonylag közel, 2900 fényévnyire vagyunk tőle. Az elképzelést támadták is, mondván, ennyire messzire és gyorsan onnan kiszakadva a Napunk darabokra kellett volna szakadjon. Jelenleg a Napunk 67000 mérföld per óra (meg sem lepődünk, hogy ez éppen 108000 km/h) sebességgel távolodik M67-től, de a modellezés szerint ennél jóval nagyobb sebességgel kellett volna kicsapódnia, amit nem lett volna szabad túlélnie Napunknak. Akárhogy is, az atlantiszi-egyiptomi vagy kárpátiai magyarok ismerték a Naprendszerünk kialakulását, és nem véletlen, hogy a születési hely három csillagát formázták meg piramisokként a Földön (és akár korábban a Marson is).  
 
-A fentebb és a táblázatban szolgáltatott adatok szerint kiszámítható, hogy a többszázer éve élő magyarok mennyire lehettek közelebb az Orion-ködhöz. Ami a Napunk társcsillagát illeti, elképzelhető, hogy valójában nem áll be a Napunk elé, ahogy [[A/Apocalypse\|apocalypse]] szónál érintettük: elég, ha az a [[V/Velikovsky, Immanuel\|Velikovsky, Immanuel]] által is említett jelenség lép fel, hogy az elliptikus orbitális pálya ellaposodik: a Naphoz túl közel érve megégünk, majd az extremitás-pontokon olyan távol, hogy lefagy a Föld (hasonló változások mintha napjainkban is érezhetőkké váltak volna).  
+A fentebb és a táblázatban szolgáltatott adatok szerint kiszámítható, hogy a több százer éve élő magyarok mennyire lehettek közelebb az Orion-ködhöz. Ami a Napunk társcsillagát illeti, elképzelhető, hogy valójában nem áll be a Napunk elé, ahogy [[A/Apocalypse\|apocalypse]] szónál érintettük: elég, ha az a [[V/Velikovsky, Immanuel\|Velikovsky, Immanuel]] által is említett jelenség lép fel, hogy az elliptikus orbitális pálya ellaposodik: a Naphoz túl közel érve megégünk, majd az extremitás-pontokon olyan távol, hogy lefagy a Föld (hasonló változások mintha napjainkban is érezhetőkké váltak volna).  
 
 A Lant csillagkép fényes Vegájáról viszont az járja, hogy a 23 (másutt 25) fényévnyire lévő csillag 12 mérföld per szekundum sebességgel közelít Napunk irányába és – ha addig nem változtatja helyét – 500000 év múlva ide is ér.
 
