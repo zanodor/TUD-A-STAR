@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/W/Wain/","title":"Wain","tags":["dg_uploaded"],"created":"2023-11-17T07:40","updated":"2023-11-17T07:40"}
+{"dg-publish":true,"permalink":"/W/Wain/","title":"Wain","created":"2023-11-17T07:40","updated":"2024-01-27T11:17"}
 ---
 
 
 # Wain
 
-Szekér neve, sőt, ahogy RHA Star Names című könyvében Ursa Maior-nál kiderül, a teutonok és angolszászok ugyanúgy szekérnek hívták, mint ahogy mi Göncölszekérnek.  
+Szekér neve, sőt, ahogy Richard H. Allen Star Names című könyvében Ursa Maior-nál kiderül, a teutonok és angolszászok ugyanúgy szekérnek hívták, mint ahogy mi Göncölszekérnek.  
 Az angolszász Manual of Astronomy forrása szerint a tanulatlanok Carles-wæn-nek hívták. Charles's Wain a ma ismert formája is, Oxford szerint. RHA könyvének 428. oldalán egyéb elnevezéseket látni; lásd [[K/Karoly\|karoly]] címnél.  
 Wain tehát vagy [[W/Wagon\|wagon]] összehúzása nyomán ered, vagy [[V/Von\|von]] (vonat is innen) szavunkból, minthogy a szekeret állat mögé befogva, az vonja, húzza maga után.  
 
