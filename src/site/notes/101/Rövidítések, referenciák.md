@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Rövidítések, referenciák/","title":"Rövidítések, referenciák","created":"2023-10-04T07:50","updated":"2024-01-14T01:35"}
+{"dg-publish":true,"permalink":"/101/Rövidítések, referenciák/","title":"Rövidítések, referenciák","created":"2023-10-04T07:50","updated":"2024-01-27T11:05"}
 ---
 
 
@@ -72,6 +72,7 @@ KZ - Kánnai Zoltán
 LAW - L. Austine Waddell  
 LGY - László Gyula  
 MA - Magyar Adorján  
+ME - Mircea Eliade
 MM - Mellár Mihály  
 MVJ - Molnár V. József  
 MZS - Mesterházy Zsolt  
