@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2023-11-25T11:28"}
+{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2024-01-27T11:17"}
 ---
 
 
@@ -130,7 +130,7 @@ Ezen hiperkozmikus Nappal kapcsolatban írja:
 > The existence of two suns in the Platonic tradition (one visible and one hypercosmic) is derived from the Chaldaean Oracles, a collection of enigmatic writings from the second century A.D. The Hypercosmic Sun is accessed through the galactic gateway between Sagittarius and Scorpio, strongly suggesting that the Galactic Center is behind this ancient cosmoconception.  
 > —  
 > David Ulansey, "Mithras and the Hypercosmic Sun", in Hinnells, Studies in Mithraism; Ulansey honlapján is megtalálható: www.well.com/user/davidu/.
-> A két nap létezése a platóni hagyományban (egy látható és egy hiperkozmikus) a káldeus orákulumokból származik, egy rejtélyes írások gyűjteményéből a Kr. u. II. századból. A hiperkozmikus Napot a Nyilas és a Skorpió közötti galaktikus kapun keresztül lehet elérni, ami erősen arra utal, hogy a Galaktikus Központ áll ezen ősi kozmokoncepció mögött.  
+> A két nap létezése a platóni hagyományban (egy látható és egy hiperkozmikus) a káldeus orákulumokból származik, egy rejtélyes írások gyűjteményéből a Kr. u. II. századból. A hiperkozmikus Napot a Nyilas és a Skorpió közötti galaktikus kapun keresztül lehet elérni, ami erősen arra utal, hogy a Tejútközpont áll ezen ősi kozmokoncepció mögött.  
 - Az ottani ábrán szereplő kutyát is (melyet Ulansey az égi egyenlítőn lévő Kis Kutyával azonosított) Szíriusszal hozzák kapcsolatba.
 
 > As Ulansey points out, the Pleiades are located precisely where the dagger slays the bull (see fig. 8.3). What can we make of this? First off, it identifies the Pleiades as a significant pole in the Mithraic tauroctony, associated with the Taurean gateway that leads the soul into manifestation (genesis). We have already described how the Pleiades are the general marker of the Galactic Anticenter. Now, the dog in the tauroctony represents Sirius, and he is lunging wildly at the wound that locates the Pleiades. Significantly, Sirius is on the same meridian as the Galactic Anticenter - that is, it passes through the southern meridian at the same time as the Galactic Anticenter, although it is lower in altitude.  
