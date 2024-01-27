@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ape/","title":"Ape","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-05T03:55","updated":"2024-01-14T01:36"}
+{"dg-publish":true,"permalink":"/A/Ape/","title":"Ape","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-05T03:55","updated":"2024-01-27T11:05"}
 ---
 
 
@@ -64,7 +64,7 @@ Az Ápisz-bika anyja ugye [[H/Hathor\|Hathor]] istennő, az Ég Tehene, akit az 
 Bullingernél és Lehmannál majomról nem esik szó, viszont a majom és kutya nemcsak elnevezési, hanem jelképi szinten is lehet egy és ugyanazt: őst jelentő. Az ős pedig nem más, mint a Tejútanya, Éganya, vagyis Isten. Ezért is lehet, hogy az egyiptomi [[M/Mut\|Mut]] istennő előképének tartott [[K/Kenemet\|Kenemet]] istennő/csillagkép, bármennyire is szintén a Nagy Kutya csillagkép helyén ábrázolták, szimbolikus állata nem kutya, hanem majom; talán itt is arra történik utalás, hogy mindkettő ős, ahogy az anya is lehet [[A/ATA\|ATA]], azaz ős. Azaz a MA által felvetett apa fogalommal való egyeztetés leegyszerűsítése a dolgoknak.  
 
 Elképzelhető, hogy a majom ősnek való megjelölése is onnan ered részint, hogy a majomban kutyát kell látni? (Lehet, de erről Darwin ugye aligha tudhatott.)  
-Elgondolkodtató ezek után, hogy vajon [[M/Majom\|majom]] szavunknak mi a jelentése. CzF fejtegetése latin és német nyelvek/szavak alapján (gyakorlatilag egyik gondolatával sem értek egyet; a [[M/Más\|más]] az Eb-Úr/Éber téridőbeli helye, ahogy [[H/Héber\|héber]] címhez, a kutyás részhez is vetettük):  
+Elgondolkodtató ezek után, hogy vajon [[M/Majom\|majom]] szavunknak mi a jelentése. CzF fejtegetése latin és német nyelvek/szavak alapján (gyakorlatilag egyik gondolatával sem értek egyet; a [[M/Más\|más]] az Eb-Úr/Éber téridőbeli helye, ahogy [[H/Héber\|héber]] címhez, a kutyás részhez is került):  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/h/heber/#vkg4sh" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
