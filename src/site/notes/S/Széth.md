@@ -1,30 +1,11 @@
 ---
-title: Széth
-aliases:
-  - Szeth
-  - Set
-  - Seth
-status: dg_uploaded
-tags:
-  - Englishtexttranslated
-share: true
-dg-publish: true
-dg-created: 2023-10-16T01:30
-dg-updated: 2024-01-20T04:04
-dg_upload_status: VNC done
-date created: 2023-04-17
-date modified: 2024-01-20
-ghrepoURL:
-  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/S/Sz%C3%A9th.md
-  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/S/Sz%C3%A9th.md
-  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/S/Sz%C3%A9th.md
-  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/S/Sz%C3%A9th.md
-  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/S/Sz%C3%A9th.md
+{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["Englishtexttranslated"],"created":"2023-10-16T01:30","updated":"2024-01-27T11:14"}
 ---
+
 
 # Széth
 
-Fontos egyiptomi mitológiai alak, ki egyfelől testvérének, Ozirisznek, és – a Hamlet Malma című könyv írói által sokat taglalt – unokaöccsének, [[H/Hórusz\|Hórusz]]nak ellenlábasa. Alakjáról bevezetésként lásd Jankovics Marcell írását és Robert Graves adatát [[S/Szamár\|szamár]], továbbá, szintén Jankovics Marcell írásokkal kiegészített [[O/Osiris és Set\|Osiris és Set]] címet. [[A/Apep\|Apep]] címnél is szóba került.  
+Fontos egyiptomi mitológiai alak, ki egyfelől testvérének, Ozirisznek, és – a Hamlet Malma című könyv írói által sokat taglalt – unokaöccsének, [[H/Hórusz\|Hórusz]]nak ellenlábasa. Alakjáról bevezetésként lásd Jankovics Marcell írását és Robert Graves adatát [[S/Szamár\|szamár]], továbbá, szintén Jankovics féle írásokkal kiegészített [[O/Osiris és Set\|Osiris és Set]] címet. [[A/Apep\|Apep]] címnél is szóba került.  
 Kevés olyan alak van, akit vagy 5-6 vagy még több csillagászati formával, égitesttel, csillagképpel is azonosítottak. Ez is mutatja, hogy rendkívül bonyolulttá vált az ősi tudás követése.  
 Az [alábbi](https://youtu.be/umyX-ZHVKgA) ÁKTV műsorban 1:29:25-nél KT azt mondja, hogy a zsidóknak volt Adonai-uk, Elohim-jük és Széth-jük, tehát különböző sátáni személyekből választották ki Jahvét. Nos, valójában ez egy leegyszerűsítése a dolgoknak; gondoljunk csak [[S/Szutek\|Szutek]]ra és [[E/El Shaddai\|El Shaddai]]-ra.  
 
@@ -95,7 +76,7 @@ Viszont ez a Magorral való azonosítás is csak akkor fogadható el, ha a Vasko
 > Idézem a legfőbb bizonyítékot. Ez a Seth találta ki először héber betűket, a bölcseletet, az égi jeleket, az évforduló, a hónapot, hetet, adott neveket a csillagoknak és az öt bolygónak. És valamivel alább ugyanazon az oldalon: Az özönvíz után Arphaxad \[lásd [[A/Arpakshad\|Arpakshad]] és említve [[K/Káld\|káld]]\] fia írta meg a csillagászatot, miután megtalálta Sethnek és fiainak, amint mondják, kőtáblára vésett csillagjegyzékét. Ennek az utóbbi helynek, amely valamelyest bővített fogalmazása a már (Flavius) Josephus által ismertetett mondának, azért van külön jelentősége, mert Arphaxad Zurwan mellett különben is, mint az Iránság képviselője jelenik meg.  
 
 Úgy tűnik, a héber Seth-tisztelet más forrásból is igazolható. [[S/Seven\|Seven]] címnél is szerepelt:  
-A héber is végső soron a sumér és az avar-hun-óegyiptomi nyelvből fejlődött ki. A [[J/Jehova\|Jehova]] címnél említett, RHA Star Names című könyvében előjövő [[E/El Shaddai\|El Shaddar]] a Szíriusz [[S/Sopdet\|Sopdet]], (a [[S/Septem\|septem]] címnél is közben említett) **Sept**, **Sed**, stb. elnevezéseihez köthető, minthogy bizonyos Müller szerint a Sed, Shed hieroglifa-olvasatok héber megfelelője lenne El Shaddar.  
+A héber is végső soron a sumér és az avar-hun-óegyiptomi nyelvből fejlődött ki. A [[J/Jehova\|Jehova]] címnél említett, Richard H. Allen Star Names című könyvében előjövő [[E/El Shaddai\|El Shaddar]] a Szíriusz [[S/Sopdet\|Sopdet]], (a [[S/Septem\|septem]] címnél is közben említett) **Sept**, **Sed**, stb. elnevezéseihez köthető, minthogy bizonyos Müller szerint a Sed, Shed hieroglifa-olvasatok héber megfelelője lenne El Shaddar.  
 
 Ezek alapján (és a bibliai [[E/El Shaddai\|El Shaddai]] névvel való azonossága alapján is!) Jehova Széth folytatása lenne és joggal mondhatnák a zsidók, hogy ők az "eredeti istent" (a sötét az alapállapot) imádják. Sőt, ha már itt tartunk, a Sed név – mellyel azonos zsidó `sed` név előjött afféle tündér jelentéssel [[S/Sidhe\|sidhe]] címnél is – eredetét képezheti a [[S/Sidó\|sidó]]/[[Z/Zsidó\|zsidó]] névnek is, de ha Széth alant taglalt kutya állatjelét vesszük figyelembe, akkor a [[K/Kutya\|kutya]]>kuta>kuda>khuda>huda>[[J/Júda\|Júda]] fejlődési sorozaton keresztül a zsidók másik nevét is meg tudjuk határozni.  
 - [[J/Jehova\|Jehova]] és [[O/Ószövetség\|Ószövetség]] címnél írtuk legutóbb, hogy a Jehova-kultusz nem más, mint a Széth-kultusz fennmaradása/folytatása, és így az Ószövetség elnevezés is eredetileg a – [[H/Hyperborea-Atlantisz átállás\|Hyperborea-Atlantisz átállás]] címnél taglalt változások alapján – régi anyakultuszra (plusz öreg Napisten/Szíriusz kultuszra) utalt volna és az Újszövetség pedig a szoláris napfiú-kultuszra, csak éppen az az eredeti Ószövetséget átírták.  
@@ -184,7 +165,7 @@ Kenneth Grant The Magical Revival című Aleister Crowley anyagát feldolgozó k
  (Arról másutt, [[N/North\|north]], [[B/Bal\|bal]], [[B/Bal és jobb\|bal és jobb]], [[B/Baj\|baj]], [[B/Bál\|Bál]], [[A/Ahriman\|Ahriman]], stb. címszavaknál is esett szó, hogy változik a megítélés egyes nézeteket illetően.)  
 WFW adata szerint Plutarkhosz[^9] épp az északi cirkumpoláris [[U/Ursa Maior\|Nagy Medve csillagkép]]pel azonosította Széthet: ezt azzal magyarázza (ha ez ebben a formában magyarázat), hogy kezdetben ő sem volt negatív isten (merthogy a hyperboreai, "pogány" hagyomány szerint [[E/Észak\|észak]] az istenek, dél a sátán/ördög/démonok lakhelye, de itt nem csak erről van szó).  
 - [[S/Stupid\|Stupid]] címnél szerepelt legutóbb, hogy a kiindulónak vett [[D/DUB\|DUB]] alapszó a Rák/[[S/Szamár\|szamár]] csillagképre és a Medve/Göncöl csillagzatra is utal:  
-A nappálya esésével jelzett alvilágot nyitó [[R/Rák csillagkép\|Rák csillagkép]] egy Alan Alford által valahonnan megadott (talán sumér-babiloni) [[D/DUB\|DUB]] neve (sumérnak [[A/Allul\|Allul]] volt megállapítva) neve lehet [[T/Typhon\|Typhon]] alakjának szülője, mely az összes többi jelentést magával hozta. Mivel Tüphon Széth görög neve és Széthet a [[G/Göncöl\|Göncöl]] csillagzattal is kapcsolatba hozták, nem érdemtelen megemlíteni, hogy RHA Star Names című könyvének 437. oldalának adata szerint **Dubb** (**Dubhe** a Nagy Medve alfájának a neve is) a Medve (csillagkép) neve is egyúttal. (`Dubb` az arabban és arab-perzsában is medvét jelent. Perzsa alapszó medvére `khirs`.)  
+A nappálya esésével jelzett alvilágot nyitó [[R/Rák csillagkép\|Rák csillagkép]] egy Alan Alford által valahonnan megadott (talán sumér-babiloni) [[D/DUB\|DUB]] neve (sumérnak [[A/Allul\|Allul]] volt megállapítva) neve lehet [[T/Typhon\|Typhon]] alakjának szülője, mely az összes többi jelentést magával hozta. Mivel Tüphon Széth görög neve és Széthet a [[G/Göncöl\|Göncöl]] csillagzattal is kapcsolatba hozták, nem érdemtelen megemlíteni, hogy Richard H. Allen Star Names című könyvének 437. oldalának adata szerint **Dubb** (**Dubhe** a Nagy Medve alfájának a neve is) a Medve (csillagkép) neve is egyúttal. (`Dubb` az arabban és arab-perzsában is medvét jelent. Perzsa alapszó medvére `khirs`.)  
 De ezzel nem mondtunk el mindent. Kiderül ugyanis, hogy Széth = [[T/Typhon\|Typhon]] = [[T/Thuban\|Thuban]], mely a [[S/Sárkány csillagkép\|Sárkány csillagkép]]beni [[S/Sarkcsillag\|Sarkcsillag]] volt korábban és [[A/AN, ÁN\|AN, ÁN]]/[[A/Anu\|Anu]] isten(nő) égi székhelye. Tehát ahogy az Anya lehet [[S/Szíriusz\|Szíriusz]] és a [[S/Sarkcsillag\|Sarkcsillag]] is, úgy az ő nemzője Széth is, hisz Széth a nemző minősége mellett az a sötét minőség is, mely az istenanya kiinduló minősége is. Erről [[S/Sátán\|Sátán]] címnél is volt szó legutóbb.  
 
 Plutarkhosz magyarázata még az lehetett volna, hogy a Nagy[[G/Göncöl\|Göncöl]] neve az óegyiptomiaknál [[S/Széth sakála\|Széth Sakála]]/Kutyája néven volt ismert. Csakhogy már az egyiptomiak sem igazán tudhatták, miért kapcsolták Széth-et vagy sakálát (nem is mindegy, illetve igen, ha Széth fejét elnézzük) az [[U/Ursa Maior\|Ursa Maior]]-hoz. Ahogy [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] címnél is írtam: ez már egy utólagosan hozzákapcsolt, indirekt értelmezés lehet (a körbeforgás így is, úgy is bekövetkezik, csak valódi okát feledték el).  
@@ -250,14 +231,14 @@ Legutóbb [[T/Typhon\|Typhon]] címnél is szerepelt...
 ...című könyvének Ursa Maior-nál szereplő adata (hasonlókról szó esett [[C/Cynosure\|Cynosure]] címnél is és betehető [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] címhez is):  
 > Hewitt writes of Set in his earliest form as [[H/Hapi\|Kapi]], the Ape-God, stars of our [[C/Cepheus\|Cepheus]] marking his head; while at one time on the Nile the [[W/Wain\|Wain]] stars seem to have been **the Dog of Set or of Typhon**. This may have given rise to the title Canis Venatica that La Lande cited, if this be not more correctly considered as the classic Kallisto's hound; and the same idea appears in the **Catuli**, Lap-dogs, and Canes Laconicae, the Spartan Dogs, that Caesius cited for both of the Wains.  
 > —  
-> Hewitt azt írja, hogy Set a legkorábbi formájában [[H/Hapi\|Kapi]] (helyesen [[H/Hapi\|Hapi]]), a Majomisten, a mi [[C/Cepheus\|Cepheus]]-unk csillagai jelölik a fejét; míg egykor a Níluson a [[W/Wain\|Wain]] \[Göncöl\] csillagok úgy tűnik, hogy **Set vagy Typhon Kutyája** voltak. Ebből adódhatott a La Lande által idézett Canis Venatica elnevezés, ha ezt nem tekintjük helyesebben a klasszikus Kallisto kutyájának; és ugyanez a gondolat jelenik meg a Catuli, ölbeli kutyák és a Canes Laconicae, a spártai kutyák elnevezésében, amelyet Caesius mindkét Wain (Szekér csillagzat) esetében idézett.  
-^qz3nuv
+> Hewitt azt írja, hogy Set a legkorábbi formájában [[H/Hapi\|Kapi]] (helyesen [[H/Hapi\|Hapi]]), a Majomisten, a mi [[C/Cepheus\|Cepheus]]-unk csillagai jelölik a fejét; míg egykor a Níluson a [[W/Wain\|Wain]] \[Göncöl\] csillagok úgy tűnik, hogy **Set vagy Typhon Kutyája** voltak. Ebből adódhatott a La Lande által idézett Canis Venatica elnevezés, ha ezt nem tekintjük helyesebben a klasszikus Kallisto kutyájának; és ugyanez a gondolat jelenik meg a Catuli, ölbeli kutyák és a Canes Laconicae, a spártai kutyák elnevezésében, amelyet Caesius mindkét Wain (Szekér csillagzat) esetében idézett.  { #qz3nuv}
+
 
 Majd lábjegyzetben:  
 > Set, also Anubis, Apap, Apepi, Bes, Tebha, Temha, and Typhoeus according to Plutarch, was one of Egypt's greatest gods, who subsequently became the Greek giant Typhon, father of the fierce winds, but slain by Zeus with a thunderbolt and buried under Mount Aetna.  
 > —  
-> Set, Plutarkhosz szerint Anubisz, Apap, Apepi, Bes, Tebha, Temha és Typhoeus is, Egyiptom egyik legnagyobb istene volt, aki később a görög óriás Typhon, a heves szelek atyja lett, de Zeusz villámcsapással megölte és eltemette az Etna hegy alatt.  
-^itc5r4
+> Set, Plutarkhosz szerint Anubisz, Apap, Apepi, Bes, Tebha, Temha és Typhoeus is, Egyiptom egyik legnagyobb istene volt, aki később a görög óriás Typhon, a heves szelek atyja lett, de Zeusz villámcsapással megölte és eltemette az Etna hegy alatt.  { #itc5r4}
+
 
 Tüphon is tehát arra a sorsra jutott, mint minden régen tisztelt nagy Isten. A fény-árnyék változások során a korábbi istenek befeketülnek a papság és a nép szemében: démonizálva lesznek. Lásd mi történt Bál-lal és a [[D/Dévák és Aszúrák\|dévák és aszúrák]] is megérnek egy misét. Minderről szóltunk [[M/Magyarellenesség\|magyarellenesség]] címnél is: hogy feledte el a világ Szíriusz és a hun-magyarság jótéteményeit.  
 
@@ -379,9 +360,9 @@ Plutarkhosz anyagára (is) látszik építeni Crowley is.
 
 [^10]: Lábjegyzet:  
 Fáy Elek A magyarok őshona című könyvének 34. oldalán még az is áll, hogy a turáni szkíta-féle hykszosz (vagy a velük azonos keta) nép istene is Szeth illetve Szutek nevű volt. Hogy ez csak afféle azonosítás, mint deus-nál (azaz egyiptomi istenséggel feleltették meg az idegen nép istenét), vagy valódi név, nem lehetünk biztosak benne, mindenesetre ezen istennek templomokat emeltek. És mivel Szét magyarul is értelmes és Egyiptom is magyar alapítású, talán mindegy is. Az tény, hogy ha tényleg 4-5000 évvel ezelőtt járunk, akkor még Széth uralma tarthatott és talán az Ozirisz kultusz előtt járunk.  
-Fáy könyvének 57. oldalán is Szutek (= Széth, Nut égistennő fia) egyiptomi istenek között említtetik, egyiptomi fáraó kontextusban. Viszont az 59. oldalon található felsorolásban az is szerepel, hogy a hittiták (keták) istene is Szutek, meg még más városállamoké.  
+Fáy könyvének 57. oldalán is Szutek (= Széth, Nut égistennő fia) egyiptomi istenek között említtetik, egyiptomi fáraó kontextusban. Viszont az 59. oldalon található felsorolásban az is szerepel, hogy a hettiták (keták) istene is Szutek, meg még más városállamoké.  
 A 60. oldal alján az is szerepel, hogy Szutek égisten.  
-Práczki István (gondolom ő firkálta össze és szkennelte be Fáy könyvét) szómegfordítást lát a Szutek szóban: Két Ős. Nos, azt le le kell szögezni, hogy ha a Szutek név óegyiptomi rekonstrukció, akkor bármely magánhangzóval fel lehet tölteni, mint Spdt (Sopdet) nevet is. Az is lehet, hogy ezen Szutek név egy hettita-hatti feliratból, szövegből lett megfejtve és a kutatók Széth-tel azonosították, de valójában más alakot vagy fogalmat kell látni alatta, hiszen a SZET is lehet kétféle értelmezésű, süt már csak hímségi, és így tovább. [[S/Szutek\|Szutek]] címnél MA is [[S/Süt\|süt]] szavunkat veszi alapul.  
+Práczki István szómegfordítást lát a Szutek szóban: Két Ős. Nos, azt le le kell szögezni, hogy ha a Szutek név óegyiptomi rekonstrukció, akkor bármely magánhangzóval fel lehet tölteni, mint Spdt (Sopdet) nevet is. Az is lehet, hogy ezen Szutek név egy hettita-hatti feliratból, szövegből lett megfejtve és a kutatók Széth-tel azonosították, de valójában más alakot vagy fogalmat kell látni alatta, hiszen a SZET is lehet kétféle értelmezésű, süt már csak hímségi, és így tovább. [[S/Szutek\|Szutek]] címnél MA is [[S/Süt\|süt]] szavunkat veszi alapul.  
 
 [^11]: Lábjegyzet:  
 Lásd még erről [[N/Nap – halott Nap\|Nap – halott Nap]], valamint [[B/Bier\|bier]].  
