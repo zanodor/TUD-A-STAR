@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar mint Szíriusz/","title":"Magyar mint Szíriusz","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-10-29T07:48","updated":"2023-10-29T08:44"}
+{"dg-publish":true,"permalink":"/M/Magyar mint Szíriusz/","title":"Magyar mint Szíriusz","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-29T07:48","updated":"2024-01-27T11:09"}
 ---
-
-
 
 
 # Magyar mint Szíriusz
@@ -15,7 +13,7 @@ Akkor most a csillagé a név? Kovács cikkének neve Stella Hungarorum (Ősi Gy
 <br/>
 2\. A kelta-ír `madra` = kutya szó is ilyen Magyar alakú[^3].  
 <br/>
-3\. [[H/Hargita Csaba Ferenc\|Hargita Csaba Ferenc]] A nevek titka című dolgozatából való infok alapján is arra kell gyanakodni, hogy a másutt (lásd [[D/Dread\|dread]] és [[T/Therio-\|therio-]]) is Szíriusszal kapcsolatba hozott rettegést kifejező szavak kapcsán Szíriuszra vagy azzal való együttállásra kell gondolni (persze lehet mindkét szó eredője [[T/Tart\|tart]] szavunk):  
+3\. [[H/Hargita Csaba Ferenc\|Hargita Csaba Ferenc]] A nevek titka című dolgozatából való infók alapján is arra kell gyanakodni, hogy a másutt (lásd [[D/Dread\|dread]] és [[T/Therio-\|therio-]]) is Szíriusszal kapcsolatba hozott rettegést kifejező szavak kapcsán Szíriuszra vagy azzal való együttállásra kell gondolni (persze lehet mindkét szó eredője [[T/Tart\|tart]] szavunk):  
 > Az eredeti héber Ószövetséget elővéve, azt adott esetekben a szó eredeti formáját használva annak lefordítása helyett azt vehetjük észre, hogy a héberek által teljesen idegennek tekintett népünk neve a félelem, iszonyat és, az isteni ítélet hordozójának szinonimájává vált. Erről jó 80 esetben emlékeznek meg az Ószövetség írói a "mgr" betűcsoport és annak hangzósított magur(ah), magor(ah), magar(ah), mager(ah) formáiban, ahol az "-ah" végződés Isten "Jah" nevének jele. A héber szerzők reményt is adnak az olvasóiknak, hogy eljön majd az idő amikor azok fognak félni tőlük, akiktől most ők rettegnek. Ez az utóbbi gondolat mintha csak egybecsengne a név lehetséges sumer magyarázataival és kísértetiesen előrevetítené azt a helyzetet, ami felé a magyarság vészesen sodródik. Néhány példa az előfordulásra:  
 > • Magar, vagy Magor (félelem): Ezék 21:12, Ezra 6:12 , Iza 31:9, Jer 20:4;  
 > • Magor misszabib (iszonyat mindenhol, iszonyat mindenhonnan): Jer 20:10, Jer 20:3, Jer 46:5, Jer 49:29, Jer 6:25, JSir 2:22, Zsolt 31:13  
@@ -141,7 +139,7 @@ Mâtarisvan, egy király, akivel Indra áldozatot mutat be az RV 8.52.2-ben, az 
 [^4]: Lábjegyzet:  
 David Frawley identifies Vishnunabhi with the Galactic Center. In his 1990 book Astrology of the Seers he writes, "The galactic center is called 'Brahma,' the creative force, or 'Vishnunabhi,' the navel of Vishnu. From the galactic sun emanates the light which determines the life and intelligence on Earth."  
 —  
-David Frawley Vishnunabhi-t a Galaktikus Központtal azonosítja. A Látók asztrológiája című 1990-es könyvében ezt írja: "A galaktikus központot 'Brahmának', a teremtő erőnek, vagy 'Vishnunabhinak', Visnu köldökének nevezik. A galaktikus Napból sugárzik a fény, amely meghatározza az életet és az intelligenciát a Földön".  
+David Frawley Vishnunabhi-t a Tejútközponttal azonosítja. A Látók asztrológiája című 1990-es könyvében ezt írja: "A galaktikus központot 'Brahmának', a teremtő erőnek, vagy 'Vishnunabhinak', Visnu köldökének nevezik. A galaktikus Napból sugárzik a fény, amely meghatározza az életet és az intelligenciát a Földön".  
 
 [^5]: Lábjegyzet:  
 This esoteric cycle conjoining the motions of Saturn and Jupiter would have seemed of immense importance to all ancient astronomers who had a good grasp of their subject. A cycle of sixty years is so long that no single person can live long enough to verify its recurrence a second time. The knowledge of such a cycle required a continuing tradition of observation which implies a priesthood with astronomical inclinations.  
