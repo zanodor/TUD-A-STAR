@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Oak/","title":"Oak","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-11T04:44","updated":"2023-11-13T05:45"}
+{"dg-publish":true,"permalink":"/O/Oak/","title":"Oak","tags":["Englishtexttranslated"],"created":"2023-10-11T04:44","updated":"2024-01-27T11:13"}
 ---
 
 
@@ -51,10 +51,10 @@ Azt pedig láttuk, hogy a fa és a tölgy fogalmai egymással megfeleltek (egyes
 
 Ugyanakkor szóba hozható még az MA által említett [[O/ÓG\|ÓG]], mely a földbe vájt (és DGW Dog-Man könyvének 176-177. oldalain található kínai adatai alapján bármely, nemcsak földbe vájt kialakítású) lak, ház füstkieresztő nyílásán kívül jelentenie kellett a [[S/Sarkcsillag\|Sarkcsillag]]ot is, minthogy minden lak közepén életfa volt leszúrva (sátor merevítője is ez), és ez mutatott a Sarkcsillagra (lásd erről diagramot [[I/Íj és a nyíl\|íj és a nyíl]]).  
 
-Nem Sarkcsillagot, de Medvét említ RHA Star Names című könyvében, kinek forrása, Lockyer szerint, **Āk** = Szem nevű a [[U/Ursa Maior\|Nagy Medve csillagkép]] alfája, [[D/Dubhe\|Dubhe]]. Nem írja, milyen nyelven, de ÓK/ÓG szem jelentésével egyező. PJI adata szerint az udmurt és komi `oh` = medve. Ez stimmel is. Nem vehette észre a csillagászati értelmet.
+Nem Sarkcsillagot, de Medvét említ Richard H. Allen Star Names című könyvében, kinek forrása, Lockyer szerint, **Āk** = Szem nevű a [[U/Ursa Maior\|Nagy Medve csillagkép]] alfája, [[D/Dubhe\|Dubhe]]. Nem írja, milyen nyelven, de ÓK/ÓG szem jelentésével egyező. PJI adata szerint az udmurt és komi `oh` = medve. Ez stimmel is. Nem vehette észre a csillagászati értelmet.
 
 Párhuzamát is megtaláljuk a szónak:  
-RHA Star Names című könyvében írja, hogy az észak-amerikai bennszülött [[I/Indián\|indián]]ok hagyományaiban [[U/Ursa Maior\|Ursa Maior]] neve **Ok**uari és Paukunawa: mely nevek jelentése szintén medve. Ezen adat [[I/Isten\|Isten]] címnél is szerepelt.  
+Richard H. Allen Star Names című könyvében írja, hogy az észak-amerikai bennszülött [[I/Indián\|indián]]ok hagyományaiban [[U/Ursa Maior\|Ursa Maior]] neve **Ok**uari és Paukunawa: mely nevek jelentése szintén medve. Ezen adat [[I/Isten\|Isten]] címnél is szerepelt.  
 
 A Nagy Medvénél maradva, az ősi csillagkép-istent benne kereső...
 
