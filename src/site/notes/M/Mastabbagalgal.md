@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mastabbagalgal/","title":"Mastabbagalgal","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-12T01:10","updated":"2023-11-12T03:03"}
+{"dg-publish":true,"permalink":"/M/Mastabbagalgal/","title":"Mastabbagalgal","tags":["Englishtexttranslated"],"created":"2023-11-12T01:10","updated":"2024-01-27T11:10"}
 ---
 
 
@@ -34,7 +34,7 @@ Pap Gábor egy előadásában közli, hogy az arabok pikkelyes altesttel jelení
 ![assets/Mastabbagalgal_image3.jpeg](/img/user/M/assets/Mastabbagalgal_image3.jpeg)  
 Hogy a hal és a kecske azonos szóval hogy jelezhetett, erről lásd például bakhal sumér jegy-elnevezést: [[S/Suhurmasku\|Suhurmasku]]. De MA is szólt a [[H/Hab\|hab]] és a [[K/Kabala\|kabala]] szavak azonosságáról, mely utóbbi szó gyöke megfordítva végül is: [[B/BAK\|bak]].  
 
-RHA Star Names című könyvében az Ikrek Csillagkép alfájánál szól egy érdekes asszír `Mas-Mas` = Ikrek elnevezésről.  
+Richard H. Allen Star Names című könyvében az Ikrek Csillagkép alfájánál szól egy érdekes asszír `Mas-Mas` = Ikrek elnevezésről.  
 Az Ikrek(hez köthető) M-S vázú név/neve azért is érdekes, mert a [[M/Miscoatl\|Miscoatl]] címnél szereplő Giorgio de Santillanatól származó adat is az Ikreket hozza szóba, mint (esetleges) (hatalom)váltási pontot.  
 De mindkét névben az is közös, hogy a Tejút [[M/MISZ\|MISZ]] nevével de legalábbis M-S vázú nevével hozható kapcsolatba. A MAS keresztet formázó piktogramja is nyilván jelentékeny lehet ebben a kontextusban vizsgálva is.  
 
