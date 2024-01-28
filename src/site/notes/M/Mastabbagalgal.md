@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mastabbagalgal/","title":"Mastabbagalgal","tags":["Englishtexttranslated"],"created":"2023-11-12T01:10","updated":"2024-01-27T11:10"}
+{"dg-publish":true,"permalink":"/M/Mastabbagalgal/","title":"Mastabbagalgal","tags":["Englishtexttranslated"],"created":"2023-11-12T01:10","updated":"2024-01-29T12:04"}
 ---
 
 
 # Mastabbagalgal
 
-Helyesen Mas-Tab-Ba-Gal-Gal a sumér-babiloni zodiákus Ikrek jegyének neve, melyet [[M/MAS\|MAS]]-nál és [[M/Más\|más]]nál is emítettünk, minthogy MAS = [[M/Más\|más]].  
+Helyesen Mas-Tab-Ba-Gal-Gal a sumér-babiloni zodiákus Ikrek jegyének neve, melyet [[M/MAS\|MAS]]-nál és [[M/Más\|más]]nál is említettünk, minthogy MAS = [[M/Más\|más]].  
 
 #### Gavin White Babylonian Star Lore...
 
