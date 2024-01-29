@@ -1,14 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csillagászat – tropikus kontra sziderikus/","title":"Csillagászat – tropikus kontra sziderikus","tags":["Englishtexttranslated"],"created":"2023-11-09T12:57","updated":"2024-01-04T05:33"}
+{"dg-publish":true,"permalink":"/C/Csillagászat – tropikus kontra sziderikus/","title":"Csillagászat – tropikus kontra sziderikus","tags":["Englishtexttranslated"],"created":"2023-11-09T12:57","updated":"2024-01-29T01:27"}
 ---
 
 
 # Csillagászat – tropikus kontra sziderikus
 
-Bakos Attila A Duna Evangéliuma című könyvének 82. oldalán taglalja a különbségeket.  
+A régi felfogást tükrözi a csillagok állásához számítás (sziderikus).  
+[[A/Apocatastasis\|Apocatastasis]] címnél Cicero, Somnium Scipionis, de Rep. VI,24-ből olvassuk (persze itt nem egyetlen évről van szó, de régi gyakorlat fontosságát igazolja):  
+> "Az emberek általában csak a Nap visszatérésével, tehát egyetlen csillaggal mérnek 1 évet; ha azonban minden csillag ugyanoda tér vissza, ahonnan elindult, és hosszú időközönként megismétli a teljes égbolt ugyanazon alakját, akkor ezt valóban 'évfordulónak' nevezik."  
 
-Az általam más adatok alapján kikövetkeztetett lényeg az, hogy keleten a [[P/Precesszió\|precesszió]] hatása alatt álló állócsillagokhoz, nyugaton viszont a precesszió naptárkorrekciókkal kiiktatott kalendáriumának napfordulati pontjaihoz igazodtak.  
-Tulajdonképpen így valamennyire érthető az alant még taglalásra kerülő Uwe Homann számítása, hogy a kettő egy és ugyanaz, de UH nem fejti ki azt, amit mi [[G/Gergely-naptár\|Gergely-naptár]] címnél is megtettünk (hogy a nyugati kalendárium már igazított).  
+Bakos Attila A Duna Evangéliuma című könyvének 82. oldalán taglalja a tropikus-sziderikus különbségeket.  
+
+Az általam más adatok alapján (talán túl nagy ugrással) kikövetkeztetett lényeg az, hogy keleten a [[P/Precesszió\|precesszió]] hatása alatt álló állócsillagokhoz, nyugaton viszont a precesszió naptárkorrekciókkal kiiktatott kalendáriumának napfordulati pontjaihoz igazodtak. – Az indiai asztrológiát is már így a nyugathoz kell sorolni.  
+Tulajdonképpen így valamennyire érthető az alant még taglalásra kerülő Uwe Homann számítása, hogy a kettő egy és ugyanaz, de UH nem fejti ki azt, amit mi [[G/Gergely-naptár\|Gergely-naptár]] címnél is megtettünk (mármint hogy a nyugati kalendárium már igazított).  
 
 #### Bakos Attila A Duna Evangéliuma...
 

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/M/Miscoatl/","title":"Miscoatl","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-21T02:18","updated":"2023-11-15T01:14"}
+{"dg-publish":true,"permalink":"/M/Miscoatl/","title":"Miscoatl","tags":["Englishtexttranslated"],"created":"2023-10-21T02:18","updated":"2024-01-29T01:28"}
 ---
 
 
 # Miscoatl
 
-Bevezetőleg annyit, hogy a Mizcoatl, Mixcoatl variánsok is előjönnek, de [[M/MISZ\|MISZ]]-t tartalmazó előtagja miatt itt szerepel. ([[M/Messiás\|Messiás]] címnél hasonló mexikói szavak is előjöttek.)  
+Bevezetőként annyit, hogy a Mizcoatl, Mixcoatl variánsok is előjönnek, de [[M/MISZ\|MISZ]]-t tartalmazó előtagja miatt itt szerepel. ([[M/Messiás\|Messiás]] címnél hasonló mexikói szavak is előjöttek.)  
 
 ![assets/Miscoatl_image1.png](/img/user/M/assets/Miscoatl_image1.png)  
 
@@ -30,7 +30,7 @@ Tulajdonképpen Teszkatlipoka és Miscoatl egy és ugyanazon dolog két minősé
 > —  
 > Ez az a pillanat, amikor Mexikóban Tezcatlipoca az Ikrek jegyében pálcáját forgatva új tüzet gyújt, és "ettől kezdve Mizcoatlnak hívták". Ezután a dolgok bonyolultabbá válnak (még egy kis türelmet kell kérnem); Mizcoatl eredeti tüzét állítólag a póluson gyújtotta meg, így egyáltalán nem világos, hogy ez miért éppen az Ikrekben történt, de ezt számos szertartás tanúsítja. Talán ebben kellene látni a szent tűz egyfajta ambivalenciáját vagy kétlakiságát, amely **szenteli a híres nulladik év egyenlőségi koluráját**, amelytől kezdve Mezopotámiában, Kínában és Mexikóban is számolták az időt: azt az ünnepélyes pillanatot, amikor a tavaszi napéjegyenlőség napja az Ikrek jegye alá és így a Tejútrendszerre is átment, és a horizontra emelt nagy galaktikus ív (vagy íj) egy majdnem teljes kört, az egyenlőségi kolurát tette. Ez valóban e kozmogóniának alapvető geometriai sémáját jelöli, amint az többször is megtalálható.  
 
-A Mizcoatl (Misz-Kő) név igen érdekes, hiszen ez tulajdonképpen a [[M/Mithra\|Mithra]] és [[M/Missera\|missera]] nevekkel mutat hasonlóságot és itt is a Tejúttal azonosuló [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]] általi felezésről lehet szó. Más kérdés, hogy Santillana a [[T/Tavaszpont\|tavaszpont]] Ikrekbe helyezésével számol, mely helytelen lehet, valamint, hogy a fényes [[N/Nagy Év\|Nagy Év]] fele Nyilastól Ikrekig (a tavaszpont mozgását figyelembevéve Vízöntőtől Oroszlánig) kell tartson és nem fordítva.  
+A Mizcoatl (Misz-Kő) név igen érdekes, hiszen ez tulajdonképpen a [[M/Mithra\|Mithra]] és [[M/Missera\|missera]] nevekkel mutat hasonlóságot és itt is a Tejúttal azonosuló [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]] általi felezésről lehet szó. Más kérdés, hogy Santillana a [[T/Tavaszpont\|tavaszpont]] Ikrekbe helyezésével számol, mely helytelen lehet, valamint, hogy a fényes [[N/Nagy Év\|Nagy Év]] fele Nyilastól Ikrekig (a tavaszpont mozgását figyelembe véve Vízöntőtől Oroszlánig) kell tartson és nem fordítva.  
 
 A Misz előtag Tejútra való utalását látszik megerősíteni a R. H. Allen Star Names című könyvében előjövő nevek:  
 Az évkör neve a babyloniaknál Mizrātå[^2], mely felbontható magyar etimonokra. Rokonításul RHA felhozza a bibliai-héber[^3], Tejút jelentésű (vagy arra utaló) Mazzārōth, Mazzālōth neveket (Tejút vagy zodiákus jelentésű akkor?).  
