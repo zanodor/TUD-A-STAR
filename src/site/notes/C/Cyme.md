@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cyme/","title":"Cyme","tags":["containstransclusions","dg_uploaded"],"created":"2023-10-17T08:28","updated":"2023-10-25T01:14"}
+{"dg-publish":true,"permalink":"/C/Cyme/","title":"Cyme","tags":["containstransclusions"],"created":"2023-10-17T08:28","updated":"2024-01-29T05:36"}
 ---
 
 
@@ -12,10 +12,11 @@ CzF adata:
 
 Pető Imre Hun és szkíta szavak című jegyzetében `csüma` = rügy, hajtás.  
 
-Egy Eric Partridge által talált (óangol?) `cyme` = csinos, szép, törékeny szó előjött [[C/Comely\|comely]] szó kapcsán is.  
+Egy Eric Partridge által talált (óangol?) `cyme` = csinos, szép, törékeny szó előjött `comely` szó eredete kapcsán is.  
 
-#### Magyar Adorján Ősműveltségében írja még:  
+#### Magyar Adorján Ősműveltség...  
 
+...című könyvében írja még:  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/e/end/#jq8z8x" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
