@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2023-11-25T11:23"}
+{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2024-01-30T10:10"}
 ---
 
 
@@ -11,7 +11,7 @@
 
 > A szarvak, tülkök és az agancs a Világegyetem jelképei.  
 
-Többször utaltunk rájuk amolyan kozmikus (isteni igét, szellemiséget fogni képes) adóvevő-antennaként. Lám, [[S/Sugar\|sugar]] címnél elő is jött egy **sumér Su-Gar-Ra** ilyen szarv-antenna jelentéssel ([[A/Antenna\|antenna]] és [[A/Antler\|antler]] is hasonlítanak egymásra).  
+Többször utaltunk rájuk amolyan kozmikus (isteni igét, szellemiséget fogni képes) adóvevő-antennaként. Lám, [[S/Sugar\|sugar]] címnél elő is jött egy **sumér Su-Gar-Ra** ilyen szarv-antenna jelentéssel.  
 
 #### J. E. Cirlot A Dictionary of Symbols...
 
