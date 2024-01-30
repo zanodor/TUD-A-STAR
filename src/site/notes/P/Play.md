@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Play/","title":"Play","tags":["dg_uploaded"],"created":"2023-10-25T02:36","updated":"2023-10-25T02:45"}
+{"dg-publish":true,"permalink":"/P/Play/","title":"Play","created":"2023-10-25T02:36","updated":"2024-01-30T10:17"}
 ---
 
 
@@ -8,9 +8,9 @@
 Játék, játszik; színdarab, előadás. A törökben `ojun` (olyan) a játék, mely igen hasonló alakú a [[T/Toy\|toy]] szóhoz. Franciában `jeu` (jó) a játék. Óangolban `plegian` = testmozgást végez, gyakorlatozik, a `plega` = gyors mozdulat. Mindkettőnek ellentmond ballag szavunk, így kizárjuk. \*Pilleg, billeg szavunk nagyon megtetszhetett északi rokonainknak. Bolondozik szavunk gyökével lehet inkább megfeleltetni, ami az örömében ugra-bugrál jelentésű, play etimológiájánál taglalt közép-holland `pleien` szóval is mutat rokonságot. Oroszban az akár ugrál szavunkkal azonosítható `igrá` jelentése játék.  
 A törökök másik szava játékra `topal`, mely dobál szavunkra hajaz.  
 
-Az angol [[E/Eye\|eye]]-ban azt látjuk, hogy a g/gy hanggal nem tudott mit kezdeni és nem a g, hanem a y hangot tartotta meg. Azt már más esetekben (például itt play szónál) is láttuk, hogy az angol [[W/W\|W]] és y (leírt) hangjai gyakran g, gy (és j) hangunkat takarják.  
+Az angol [[E/Eye\|eye]]-ban azt látjuk, hogy a g/gy hanggal nem tudott mit kezdeni és nem a g, hanem a y hangot tartotta meg. Azt már más esetekben (például itt play szónál) is láttuk, hogy az angol [[W/W\|w]] és y (leírt) hangjai gyakran g, gy (és j) hangunkat takarják.  
 
-Összességében, mivel a legtöbb ősszó Nap jelentésű előtagból és Föld(re leképző) jelentéssel álló utótagból áll, [[P/PÉL\|PÉL]]-[[G/GA\|GA]] lehet Háza a Fénynek/Bélnek értelmű, azaz tulajdonképpen bálozik, [[B/Buli\|buli]]zik jelentéssel lehetne leginkább (hitelesen?) visszadni plegian-t.  
+Összességében, mivel a legtöbb ősszó Nap jelentésű előtagból és Föld(re leképző) jelentéssel álló utótagból áll, [[P/PÉL\|PÉL]]-[[G/GA\|GA]] lehet Háza a Fénynek/Bélnek értelmű, azaz tulajdonképpen bálozik, [[B/Buli\|buli]]zik jelentéssel lehetne leginkább (hitelesen?) visszaadni `plegian`-t.  
 Hogy ezen bálozás zenekísérettel történik ma is, és a játék zenére utaló is lehet (játszd el azt a dalt), megerősíteni látszik, hogy az orosz `igrá` = játék szóhoz hasonló a magyar `igric` (Ipolyi Arnold Magyar mythologia című könyvének 600. oldalán `igrec`). Persze mivel taglejtésekről is volt szó, itt akkor a játék zenére táncolás is lehet.  
 
 Valószínűleg egyszerűen pajkos szavunk lesz vagy inkább mindkettőnek közös eredete.  
