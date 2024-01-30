@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2024-01-14T01:55"}
+{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2024-01-30T07:20"}
 ---
 
 
 # Szentháromság
 
-Többféle szentháromság létezik. Az ősmagyarnak mondott Atya-Anya-Fiú háromság és a test-lélek-szellem hármassága mellett a lentebb külön alcímnél taglalt [[J/Judeo-keresztény\|judeo-keresztény]] vallás Atya-Fiú-Szentlélekén kívül említhető az egyiptomi Ízisszel azonosított Szíriusz ([[S/Sothis\|Sothis]]), [[V/Vénusz\|Vénusz]] és a Szűz Csillagkép [[S/Spica\|Spica]] csillaga (DCS ajánlására).  
+Többféle szentháromság létezik. Az ősmagyarnak mondott Atya-Anya-Fiú háromság és a test-lélek-szellem hármassága mellett a lentebb külön alcímnél taglalt [[J/Judeo-keresztény\|judeo-keresztény]] vallás Atya-Fiú-Szentlélekén kívül említhető az egyiptomi Ízisszel azonosított Szíriusz ([[S/Sothis\|Sothis]]), [[V/Vénusz\|Vénusz]] és a Szűz Csillagkép [[S/Spica\|Spica]] csillaga (Dobos Csanád ajánlására).  
 Említhető a judeo-keresztény egyházat (jóval) megelőző, csillagvallás-kori világkép, amelyben a magyar Én, Te, Ő személyes névmások mind Isten jelentésűek. Az angol ill. indo-európai árja egy-kettő-három számokban szintén jelen van a magyar világkép: az Egy fogalma az Ég irányába mutat, mert az Ég az Egy és Egyetlen (Án), a kettő a Nap (Tu, Utu), a harmadik a Csillag (Tri, Ter).  
 [[G/Gyerek\|Gyerek]] címnél (többek közt) arról is volt szó, hogy az indo-európai nyelvek 1, 2, 3 jelentésű szavaiban következetlen, hogy a kettő [[T/TU\|TU]] lényegében a hárommal jelölt fogalommal (Tri = Csillag) azonos, hiszen a TU = Nap éppen az [[A/AN, ÁN\|AN, ÁN]] = Ég (eredetileg Anya) gyereke.  
 Rev. Padre Pesti József S. J.: A magyar vallás – A turáni népek és a kereszténység kapcsolatai című az Ősi Gyökér 1974/2-6. sz. megjelent cikkében a hivatalos nézeteket – turáni-turanista szemüvegen keresztül – közli:  
 > \[A zsidók felé hajló\] Albright is azt mondja, hogy \[a tan\] szintén keletről jön. Az EMBER FIA ugyanígy szintén keleti kifejezés. Az a gondolat is keleti, amikor az ISTEN HANGJÁRÓL van szó, az Ő mennydörgő, hatalmas, teremtő és pusztító hangjáról. Tehát, mint egy villámcsapás, mely teremt és rombol a hangjával. Az Isten Hangját keleten is és az [[E/Esszénus\|esszén]]ek is azonosítják az ISTEN FIÁVAL és az EMBER FIÁVAL (ezt a kifejezést használják az esszének is már, de keletről hozzák) és ezt azonosítjuk a **második Istenszemélly**el. Ez az egész gondolat összefügg [[A/Adapa\|Adapa]]-val a sumirok istenségével és visszanyúlik a Kr. előtti 3-4. évezredekbe. Beletartozik Enlil létezése is, a bölcsesség és a tűz fogalma.  
-> Megállapíthatjuk, hogy a Szentháromság gondolata az egészen új valami a zsidóságnál és az esszénusoknál is, mert a zsidóság istenének tartalma egy egyedülálló, egészen magános, végtelenül zárkozott és a valóságtól – a természettől – teljesen különválasztott valami. Ami új a Szentháromság tanában az maga az ŐSI TARTALOM. Az, hogy ez az EGY ISTEN nincsen ebben a szörnyű egyedülvalóságban, hanem az Isten bölcsességének, az alábocsátott tűznek, az Isten fiának létezésében – mint a Szentháromság új keleti tana – feltámad az ősi sumir tradíciók ADAPA nevű, szerető teremtő Istene.  
-> Természetes, hogy ez nem a zsidóság tradicionális sajátja, hanem a mi keleti őseink szellemi tulajdona, amire felépült és a mai napig is él – az ezeket a tradiciókat már régén elfelejtett – kereszténységünk is.  
+> Megállapíthatjuk, hogy a Szentháromság gondolata az egészen új valami a zsidóságnál és az esszénusoknál is, mert a zsidóság istenének tartalma egy egyedülálló, egészen magános, végtelenül zárkózott és a valóságtól – a természettől – teljesen különválasztott valami. Ami új a Szentháromság tanában az maga az ŐSI TARTALOM. Az, hogy ez az EGY ISTEN nincsen ebben a szörnyű egyedülvalóságban, hanem az Isten bölcsességének, az alábocsátott tűznek, az Isten fiának létezésében – mint a Szentháromság új keleti tana – feltámad az ősi sumir tradíciók [[A/Adapa\|Adapa]] nevű, szerető teremtő Istene.  
+> Természetes, hogy ez nem a zsidóság tradicionális sajátja, hanem a mi keleti őseink szellemi tulajdona, amire felépült és a mai napig is él – az ezeket a tradíciókat már régen elfelejtett – kereszténységünk is.  
 
 Badiny Jós Ferenc Az Ősi Gyökér 1998/4. számában megjelent cikkében utal **Jézus király – a pártus herceg** című könyvére és említi a szentháromságot: a középkorig tartotta magát az a nézet, hogy anya-atya-fiú alkotta.  
 
@@ -35,7 +35,7 @@ A Szentlélek-Isten kapcsán írja ([[T/Turul#Turul mint Szentlélek\|Turul mint
 
 Bíró Lajos A magyar régmúlt titkai című könyvének (a PDF) 24. oldalán idézi Munkácsi Bernáton keresztül Fritz Hommelt, aki könyvében a [[H/Hettita\|hettitá]]król (akik szkíta hattik, [[K/Keta\|ketá]]k, hunok) szólva kiemeli, hogy mythologiájuk úgy, mint a többi előázsiai népé, három főistenséget ismer, ú.m. az Égistent, a nagy Istenanyát s az ifjú Napistent. A PDF 25. oldalán írja, hogy Baál vagyis Bél isten párja (a lábjegyzetben is említett héber-föníciai) [[A/Anat\|Anat]][^1], azaz [[E/Eneth\|Eneth]] volt.  
 
-Hogy a Napfiú milyen néven futott ott, talán Molok/[[M/Meleg\|meleg]] néven.  
+Hogy a Napfiú milyen néven futott ott, talán Molok/[[M/Meleg\|Meleg]] néven.  
 
 [Ezen](https://en.wikipedia.org/wiki/Mihr_(Armenian_deity)) oldal adata szerint a **zoroasztriánus szentháromság** három tagja Ahura Mazda (örményben Aramazd), [[A/Anahita\|Anahita]] (örményben Anahid/Anahit) és fiuk, [[M/Mithra\|Mithra]] (örményben [[M/Mger\|Mger]]/Mher/Mihr).  
 
@@ -341,7 +341,7 @@ Hogy írtam bizonytalanul tehát immár hónapokkal vagy akár egy-két évvel e
 Annak vizsgálata is fontos, hogy a lélek székhelyét hová (solar plexusba, koponyába/fejbe) helyezték, viszont az asztráltest egy teljes testnyi, sőt, az auralátók beszámolói szerint a test körvonalain is túlnyűló méretét tekintve. A szellemnek nevezett lélek viszont valóban lehet a fejben, ahogy a népművészeti ábrázolásaink is erről tanúskodnak.  
 
 De más idegen nyelv segítségét is hívhatjuk: a latin `spirare` = lélegzeni szóra visszavezetett [[S/Spirit\|spirit]]us ezek szerint az a szellem, ami a lélegzet/lehelet-léleknek felelne meg (MA is írja):  
-> Az illat a virág lehelleteként fogatott föl, de ugyanígy azonosíttatott egymással a lélek és lehellet is, amit tanúsít e két szó azonos alakja, valamint "kilehelte a lelkét" = meghalt, mondásunk, de amelynek meg pontos megfelelője a latin-olasz `spirare` (szpiráre) = meghalni, holott a spiritus szó egyaránt jelent lehelletet, szellőt, szellemet. Aminthogy a magyarban is szellem, szellet, szellő, szél szavaink azonos alakúak. Viszont a latin-olasz `respirare` = lélegzeni, amely szavunk meg lélek szavunkkal azonos.  
+> Az illat a virág leheleteként fogatott föl, de ugyanígy azonosíttatott egymással a lélek és lehelet is, amit tanúsít e két szó azonos alakja, valamint "kilehelte a lelkét" = meghalt, mondásunk, de amelynek meg pontos megfelelője a latin-olasz `spirare` (szpiráre) = meghalni, holott a spiritus szó egyaránt jelent leheletet, szellőt, szellemet. Aminthogy a magyarban is szellem, szellet, szellő, szél szavaink azonos alakúak. Viszont a latin-olasz `respirare` = lélegzeni, amely szavunk meg lélek szavunkkal azonos.  
 
 #### Rostás László Mit lehet tudni a hunok és magyarok kapcsolatáról?...
 
