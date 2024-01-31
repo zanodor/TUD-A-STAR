@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Örmény/","title":"Örmény","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-20T06:56","updated":"2023-12-01T07:49"}
+{"dg-publish":true,"permalink":"/O/Örmény/","title":"Örmény","tags":["Englishtexttranslated"],"created":"2023-10-20T06:56","updated":"2024-01-31T11:15"}
 ---
 
 
@@ -36,7 +36,7 @@ A [[J/Jereván\|Jereván]] címnél csatolt Quora válaszom végére nem mertem 
 
 A név megfelel [[G/Germán\|germán]] eredetibbnek(?) vélt előhang nélküli alakjának. Erre akkor is gondoltam, amikor a [[N/Nefilim\|Nefilim]] címnél taglalt, [[H/Három\|három]] és [[H/Harmony\|harmony]] címnél is említett [[H/Hermon\|Hermon]] hegy került szóba.  
 
-A hasonló neveknek itt még nincs vége, mert az [[A/Albán\|albán]]ok arvan/arvanita másneve is teljesen ilyen alakú. Ez már átvezet az [[A/Árja\|árja]] névhez és az [[A/Arrow\|arrow]] névhez, mely lehetne Arvan -An nélkül.  
+A hasonló neveknek itt még nincs vége, mert az [[A/Albánia\|albán]]ok arvan/arvanita másneve is teljesen ilyen alakú. Ez már átvezet az [[A/Árja\|árja]] névhez és az [[A/Arrow\|arrow]] névhez, mely lehetne Arvan -An nélkül.  
 
 #### Pálfi Károly A magyar nemzet őstörténete és a zsidóság...
 
