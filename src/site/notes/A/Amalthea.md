@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/A/Amalthea/","title":"Amalthea","tags":["dg_uploaded","Englishtexttranslated","containstransclusions"],"created":"2023-11-13T05:35","updated":"2023-11-25T10:01"}
+{"dg-publish":true,"permalink":"/A/Amalthea/","title":"Amalthea","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T05:35","updated":"2024-02-01T11:00"}
 ---
 
 
 # Amalthea
 
-Görög kecskeistennő. [[G/Goat\|Goat]] címnél már volt szó arról, hogy a Tejútanya hun-kabar-árja állatalakja a ló mellett a kecske volt. Mivel az [[A/Aegis\|aegis]] (`égisz` = ég[[P/Palást\|palást]]), [[A/Athéné\|Athéné]] köpenye az Amalthea kecskének a bőréből készült (ahogy [[C/Coat\|coat]] címnél erről volt még szó), ahogy JM írja, ez is jól mutatja, hogy Athéné Tejútistennő és Amalthea (kecske-állatalakja) egy és ugyanaz.  
+Görög kecskeistennő. [[G/Goat\|Goat]] címnél már volt szó arról, hogy a Tejútanya hun-kabar-árja állatalakja a ló mellett a kecske volt. Mivel az [[A/Aegis\|aegis]] (`égisz` = ég[[P/Palást\|palást]]), [[A/Athéné\|Athéné]] köpenye az Amalthea kecskének a bőréből készült (ahogy [[C/Coat\|coat]] címnél erről volt még szó), ahogy Jankovics Marcell írja, ez is jól mutatja, hogy Athéné Tejútistennő és Amalthea (kecske-állatalakja) egy és ugyanaz.  
 Közben [[K/Kabar#Kabar és kecske\|kabar és kecske]] cím/alcímnél, a kecske latin neve kapcsán is szó volt arról, hogy a kabar-héberek szent állata a kecske.  
 
 Mint Tejút-állatalak/Tejútanya nem meglepő, hogy szoptat, ráadásul két "fia" is van ([[Z/Zeusz\|Zeusz]] és [[P/Pán\|Pán]], akik egymás [[M/Mostoha\|mostoha]]-testvérei):  
@@ -42,7 +42,7 @@ Ezen passzus alapján (mármint a görög mitológia ismerete alapján, hiszen n
 Ami a név magyarítását illeti, hasonló név a RG által adatolt [[A/Amathaon\|Amathaon]] és [[A/Amathaounta\|Amathaounta]] (előtagja), de ha próbálkozni kell, akkor lehet:  
 – A-Mal-Thea (A névelő, Mal – Édes/Méz, Thea – Istennő vagy inkább Tej);  
 – Ama-El-Thea (Ama = Anya, El = IL, mint Ilona nevében, Tej).  
-Az első megoldás azért is tetszetősebb, mert Amalthea regebeli húgának, Melisszának a nevében is megvan a méz értelem (ezt is jelenti \[FK-nál miért méhet[^1]?\]); sőt, így tudták ketten együtt tejjel-mézzel táplálni Zeuszt igazán..!  
+Az első megoldás azért is tetszetősebb, mert Amalthea regebeli húgának, Melisszának a nevében is megvan a méz értelem (ezt is jelenti \[Falvay Károlynál miért méhet[^1]?\]); sőt, így tudták ketten együtt tejjel-mézzel táplálni Zeuszt igazán..!  
 
 ## Lábjegyzetek
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Atum/","title":"Atum","tags":["dg_uploaded"],"created":"2023-10-03T11:35","updated":"2023-10-25T12:35"}
+{"dg-publish":true,"permalink":"/A/Atum/","title":"Atum","created":"2023-10-03T11:35","updated":"2024-02-01T11:14"}
 ---
 
 
@@ -32,7 +32,7 @@ Nem összekeverendő [[A/Aton\|Aton]]nal.
 
 Hogy a kétnemű Atum, a Napisten [[R/RÁ\|RÁ]]/[[R/RÉ\|RÉ]] mellett [[P/Ptah\|Ptah]] ki lehet, hát akkor legyen az Atya-Isten Orion.  
 
-DGW Myths of the Dog-Man című könyvének adata szerint az egyiptomi Halottak Könyve [[K/Kutyafejű\|kutyafejű]] démonnak írja le Atumot. Nos, [[S/Szíriusz\|Szíriusz]] valóban [[A/Androgün\|androgün]] azzal, hogy [[S/Széth\|Széth]] és [[S/Satet\|Satet]] is lehet, de még sok más egyiptomi páros ráhúzható.  
+David Gordon White Myths of the Dog-Man című könyvének adata szerint az egyiptomi Halottak Könyve [[K/Kutyafejű\|kutyafejű]] démonnak írja le Atumot. Nos, [[S/Szíriusz\|Szíriusz]] valóban [[A/Androgün\|androgün]] azzal, hogy [[S/Széth\|Széth]] és [[S/Satet\|Satet]] is lehet, de még sok más egyiptomi páros ráhúzható.  
 
 Fontos passzus a Hamlet Malma c. könyvből arra vonatkozóan, miképpen válik rosszá, gonosszá, bűnössé, üldözötté az előző kor:  
 > Ami **Atum**ot illeti, ő úgyszólván megelőzi az isteni hierarchiát. Bár csak metafizikai stílusban leírva, ő az a rejtélyes entitás, melyből az Egész sarjadt: lehetne a neve Kezdet-és-Vég \[[[SZAT\|[SZAT]]-nak is ez a jelentése\]. Ilymódon ő a Jelenlét és a titkos Terv, melyet szívesen azonosítanánk magával a csillagos éggel. Az ő rendelése bizonyára maga a változatlan tökély. De most úgy tűnik, vannak erők, melyek titokban gonoszságot (jogtalanságot) műveltek. Ezek az erők mindenütt megjelennek, és rendszerint megkapják az, "erőszakos (hatalmaskodó)" vagy "gonosz (igazságtalan)" jelzőt, vagy mindkettőt. De ezek az "erők" nem gonoszak kezdettől fogva: csak az idők folyamán derül ki róluk, hogy gonoszak, illetve azzá válnak. Csak az Idő változtatja a titánokat, az Aranykor hajdani urait "gonoszságok művelőivé" (vö. 2. függelék). A kijelölt vagy beleértett mérték képzete mutatja meg e "vétkezők" alapvető bűnét: az elrendelt fok túlszárnyalásáról, túl-lépéséről van szó, és ez betű szerint értendő.  
@@ -42,9 +42,9 @@ Az At Random: Thoughts and Observations on Life, Morality, Sex, Time, Truth and 
 Mivel [[N/Nimrud\|Nimrud]] neve Nemző Rúd és [[O/Orion\|Orion]] címnél volt szó vízfakasztás kapcsán másról is, mondható Atum Orionnal egyeztethető Atya istennek?  
 
 Borbola János A magyarok istene című Ősi Gyökér 2005/1. sz. megjelent tanulmányából való a mellékelt kép. Mutatja, hogy a név másképp is olvasható, de az ő olvasatát sem találom jónak.  
-![assets/Atum_image1.jpeg|undefined](/img/user/A/assets/Atum_image1.jpeg)  
+![assets/Atum_image1.jpeg](/img/user/A/assets/Atum_image1.jpeg)  
 [Ezen](https://www.borbolajanos.com/images/stories/cikkek/Birok.pdf) oldaláról származó másik képén tovább erőlteti.  
-![assets/Atum_image2.png|undefined](/img/user/A/assets/Atum_image2.png)  
+![assets/Atum_image2.png](/img/user/A/assets/Atum_image2.png)  
 
 Egészen hasonló név hozzá az Aten változataként is ismert [[A/Aton\|Aton]]. Az Atum Tum-je lehetne [[D/DON\|DON]] és [[T/TEN\|TEN]] nevekkel összevethető.  
 Igen hasonló módon képzett az indián nyelvű, eredetű, de magyarul tökéletesen értelmezhető [[T/Totem\|totem]]. Lásd még [[A/Atom\|atom]].  

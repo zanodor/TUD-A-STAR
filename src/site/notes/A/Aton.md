@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Aton/","title":"Aton","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-03T11:47","updated":"2023-11-10T06:35"}
+{"dg-publish":true,"permalink":"/A/Aton/","title":"Aton","tags":["Englishtexttranslated"],"created":"2023-10-03T11:47","updated":"2024-02-01T11:14"}
 ---
 
 
@@ -10,7 +10,7 @@
 > Aton a Napkorong az egyiptomi magyaroknál. Nevének változata Aten. A név összetett, A-Ton és A-Ten a helyes felbontás. Az "A" legfontosabb jelentéseit a magyar szótárak meg sem említik, ami eléggé nagy baj, mutatja a magyar nyelv nem kellő ismeretét. Az egyiptomi isten neve továbbá a Ten és Ton alakot is egyaránt tartalmazza. Nagy-Ton, Magas-Ton, Isten-Ton, ez az A-Ton név jelentése. Természetesen az A-Ten is pontosan ezeket a jelentéseket viseli.  
 > [[A/Adonisz\|Adonisz]] görög istennév, aminek megfelel az Adoni (Adonáj) – Uram értelmű istennév. Ezek a nevek mind a magyar nyelvből erednek. Az Adon az Aton változata. Adon egyik jelentése Isteni-Úr vagy Nagy-Úr.  
 
-PJI azt nem írja, hogy Aton és [[A/Atum\|Atum]] nevei illetve alakjai között lehet-e összefüggés. Elvileg más és más istenek.  
+Péterfai János azt nem írja, hogy Aton és [[A/Atum\|Atum]] nevei illetve alakjai között lehet-e összefüggés. Elvileg más és más istenek.  
 
 [Ezen](http://weekly.ahram.org.eg/2004/672/profile.htm) oldal és Ahmed Osman adata szerint Aton nevéből lett volna a héber Adonai.  
 

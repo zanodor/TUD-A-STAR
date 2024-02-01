@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Augusztus 15/","title":"Augusztus 15","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-06T01:03","updated":"2023-11-25T10:37"}
+{"dg-publish":true,"permalink":"/A/Augusztus 15/","title":"Augusztus 15","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-06T01:03","updated":"2024-02-01T11:15"}
 ---
 
 
@@ -23,7 +23,7 @@
 
 ...című könyvének 49-50. oldalain és 199. oldalától taglalja, majd a 372. oldalon előtörténetével is foglalkozik. Csak a végeredményt írom ide:  
 > Az ünnep napját hogyan ismerhették föl együttesen és egyszerre az ország lakosai? Erről a fontos és lényeges ismeretről hallgat a történettudomány.  
-> A válasz pedig megdöbbentően egyszerű: az időpont az augusztusi [[T/Telihold\|telihold]] \[lásd új FK adatokat is ott\] napja, a Nagy, az őseurópai antikvitásban jól ismert görög Aranykoronás Phoibé/Artemisz Holdistennő páros ünnepe volt, akik magukba ölelték később a görög Artemisz és Démétér, majd római Ceres istenasszonyok szerepkörét és tulajdonságaikat. A Kárpát-medencében ugyanez történt a megfelelő magyar istenanya és leánya páros: Nagyboldogasszony-Kisasszony párhuzamával.  
+> A válasz pedig megdöbbentően egyszerű: az időpont az augusztusi [[T/Telihold\|telihold]] \[lásd új Falvay Károly adatokat is ott\] napja, a Nagy, az őseurópai antikvitásban jól ismert görög Aranykoronás Phoibé/Artemisz Holdistennő páros ünnepe volt, akik magukba ölelték később a görög Artemisz és Démétér, majd római Ceres istenasszonyok szerepkörét és tulajdonságaikat. A Kárpát-medencében ugyanez történt a megfelelő magyar istenanya és leánya páros: Nagyboldogasszony-Kisasszony párhuzamával.  
 > \[...\]  
 > Az éves körforgásban az augusztusi holdhónap[^1] Oroszlán jegye és az időszak közepén lévő "teliholdja" határozta meg Nagyboldogasszony-istenasszony ünnepét. Éjszaka a Hold ragyogott, a Nagy Anyaistennő teljességében, jelezve az elkövetkező törvénynapot[^2], majd a világosságban a Nap fénye – a hatalom és az erő jelent meg a királyi törvénykezésben. Ez az ünnep egykor a Nagy Anyaistennő, a [[M/Magna Mater\|Magna Mater]] ünnepe volt.  
 
@@ -138,7 +138,7 @@ Jó hogy tisztázza, hogy holdhónapot ír, hiszen [[S/Szűz csillagkép\|Szűz 
 A magyar királyok Szent Istvántól II. András királyig, közel két évszázadon át Nagyboldogasszony napján tartottak törvénynapot, amelyen az ország minden lakosa jelen lehetett. A történettudomány szerint ez a nap augusztus 15-e volt. A magyarság őstörténetéről és első történelmi jelentőségű emlékeiről olvasva, meglepő módon ritkán merül fel a történészek gondolkodásában az a kérdés, hogyan tudhatta az Árpádok idején élő ember, mikor is van augusztus 15-e?!  
 
 [^3]: Lábjegyzet:  
-Azt másutt FK írja, hogy Sarlós Boldogasszony ünnepe ([[J/Július 2\|július 2]].) az év hetedik Újholdjára esik, illetve [[A/August\|August]] címnél volt szó arról, hogy Octavianus neve nyolcadik értelemre vezethető vissza.  
+Azt másutt Falvay Károly írja, hogy Sarlós Boldogasszony ünnepe ([[J/Július 2\|július 2]].) az év hetedik Újholdjára esik, illetve [[A/August\|August]] címnél volt szó arról, hogy Octavianus neve nyolcadik értelemre vezethető vissza.  
 
 [^4]: Lábjegyzet:  
 Érdekes ez a Falvay-féle fogalmazás, azért is, mert [[S/Sabbath\|Sabbath]] címnél Sa-Bat-nak (mint telihold-ünnepnek) én is adtam Istennői rangot.  

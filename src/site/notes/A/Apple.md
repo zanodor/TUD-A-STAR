@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/A/Apple/","title":"Apple","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-11T10:10","updated":"2023-11-21T02:19"}
+{"dg-publish":true,"permalink":"/A/Apple/","title":"Apple","tags":["Englishtexttranslated"],"created":"2023-10-11T10:10","updated":"2024-02-01T11:10"}
 ---
 
 
 # Apple
 
-[[A/Alma\|Alma]]. Apró alma is létezik, amit kötényébe gyűjthet az ember. [[A/Apron\|Apron]] angolul kötény. A német alma viszont `apfel`, mondhatnánk, köténykédbe kapd fel.  
+[[A/Alma\|Alma]]. A német alma viszont `apfel`.  
 Ha App-Ul alakokká bontjuk, Apa-Fia jelentést kapunk. Az Apa a Nap, kisebbik mása az alma, ez esetben. Nem esik messze az alma a fájától, mondjuk ma is.  
 Persze az alma inkább bolygót szimbolizál (a [[K/Karácsonyfa\|karácsonyfá]]n például).  
 
 #### Robert Graves The White Goddess...
 
-...című könyvének 254. oldalán [[A/Avalon\|Avalon]]ról írja, hogy az almafák titkos szigete. A szavak hasonlóságára vonatkozóan nem tesz említést. A Wikipédia viszont igen; lásd ott. Avalon nevében PJI az (alant még említett) [[A/Avul\|avul]] szavunkat látja.  
+...című könyvének 254. oldalán [[A/Avalon\|Avalon]]ról írja, hogy az almafák titkos szigete. A szavak hasonlóságára vonatkozóan nem tesz említést. A Wikipédia viszont igen; lásd ott. Avalon nevében Péterfai János az (alant még említett) [[A/Avul\|avul]] szavunkat látja.  
 Még amit RG ír:  
 > The connexion of the apple-tree with immortality is ancient and wide-spread in Europe. What does 'apple' mean? According to the Oxford English Dictionary its etymology is unknown, but the word runs North-westward across Europe all the way from the Balkans to Ireland in a form approximating in most languages to **Apol**.  
 > —  
@@ -29,13 +29,13 @@ Kimondottan magyaros felbontású a lett `ābolu` = alma.
 > Ehhez hasonló Aplu az etruszk Napisten, [[A/Apolló\|Apolló]] neve. Apollóról tudjuk, hogy trójai magyar név, az Ápoló (gyógyító), és Apoló (csókoló) neveink változata. Ap-Lu jelentése eszerint Háza a Fénynek. A Lu alapszó elemzését már elvégeztem, Lu a Fény is, ebből ered a Lux.  
 >
 > A magyar Apol Csókol, ez utal a szerelemisten funkcióra, az Ápoló magyar szó pedig a gyógyítás funkciójára.  
-- Ez utóbbit fejezi ki a közmondás is: *An apple a day keeps the doctor away.* (Egy alma naponta és nincs szükség orvosra.)  
+- Ez utóbbit fejezi ki a közmondás is: *An apple a day keeps the doctor away.* (Egy alma naponta és nincs szükség orvosra.)
 
 ## Éva almája
 
-#### Magyar Adorján írt...
+#### Magyar Adorján...
 
-...a [[N/Nász\|nász]]ünnepélyekről és az alma szimbolikus tartalmáról, mely alma később a Bibliába és a görög mitológiába is bekerült:  
+...írt a [[N/Nász\|nász]]ünnepélyekről és az alma szimbolikus tartalmáról, mely alma később a Bibliába és a görög mitológiába is bekerült:  
 > Noha nálunk régen egy lány valamely udvarló legényt szeretett és neki [[A/Alma\|almá]]t adott volt, úgy ez rendesen már eljegyzési jel is volt. Ez tehát a bibliabeli, de ott már az eredeti és igazi értelmét veszített "**Éva almája**"-ról szóló rege eredete is, amelynek igazi értelmét a zsidók már nem tudták.  
 
 Ahogy [[H/Hív\|hív]] címnél és az alanti alcímnél kitérünk rá, az alma idegen nevébe [[E/Éva\|Éva]] neve is beleillhetne.  

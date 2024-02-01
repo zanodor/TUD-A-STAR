@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/A/Anubisz/","title":"Anubisz","tags":["dg_uploaded"],"created":"2023-12-04T07:35","updated":"2023-12-04T07:35"}
+{"dg-publish":true,"permalink":"/A/Anubisz/","title":"Anubisz","created":"2023-12-04T07:35","updated":"2024-02-01T11:06"}
 ---
 
 
 # Anubisz
 
-PJI írja róla, hogy neve valójában **Anpu**. Ami helyes is lehet, hiszen An-Pu, Án-Pu Az Ég Üressége/Kapuja értelmet viseli.  
+Péterfai János írja róla, hogy neve valójában **Anpu**. Ami helyes is lehet, hiszen An-Pu, Án-Pu Az Ég Üressége/Kapuja értelmet viseli.  
 - Hasonló hozzá a Kandra Kabos Magyar Mythologia című könyvében [[E/EB\|EB]] ([[E/Ember\|ember]]?) szavunkkal rokonított osztják `amp` = kutya.  
 
 Ku-Ta Kutya Nap (Kutya Tája) értelmű lehet. [[K/Kut\|Kut]] címnél írottak alapján a kutyacsillag, [[S/Szíriusz\|Szíriusz]] (amellett, hogy a [[K/Kutyanemzés\|kutyanemzés]]t is ő végzi) kutya-ságával az [[A/Alvilág\|alvilág]]ot/másvilágot, annak kapuját jelképezi.  
 
-Jól indult el tehát PJI Ku-Ta irányban, csak nem a négylábú Száj-Tájékáról van itt szó, hanem az alvilági/[[S/Sötét félév\|sötét félév]] kaput őrző Kutyacsillag Szájának = Ajtajának, Kapujának Tájáról[^1].  
+Jól indult el tehát Péterfai János Ku-Ta irányban, csak nem a négylábú Száj-Tájékáról van itt szó, hanem az alvilági/[[S/Sötét oldal\|sötét félév]] kaput őrző Kutyacsillag Szájának = Ajtajának, Kapujának Tájáról[^1].  
 
 #### Jankovics Marcell Mély a múltnak kútja...  
 

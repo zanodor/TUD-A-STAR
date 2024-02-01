@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ape/","title":"Ape","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-05T03:55","updated":"2024-01-27T11:05"}
+{"dg-publish":true,"permalink":"/A/Ape/","title":"Ape","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-05T03:55","updated":"2024-02-01T11:09"}
 ---
 
 
@@ -19,7 +19,7 @@ Az összefüggések itt nem érnek véget, ugyanis...
 > A Bika vállán "kotló" Fiastyúkot ([[P/Pleiadok\|Pleiadok]]) eleink [[K/Kaptár\|kaptár]]-huggyának, vagyis Méhkaptár csillagzatnak is hívták. A Kaptár szomszédságában, a Bika mögött és a Kos felett kering egy parányi csillagcsoport, amelyet Andreas Cellarius 1661. évi égatlasza Méheknek (Apes) nevez, eltérően a kortárs Heveliustól, aki viszont Légynek hívta (latinul Muscának). Az Apes elnevezés is szerepel régi csillagtérképeken egyes számban (Apis), amely ugyanúgy hangzik és latinul ugyanúgy is van írva, mint az egyiptomi Ápisz bika neve. Hát nem elgondolkoztató? Akár Méh, akár Légy, mindkét csillagzatnév mitológiailag jól megalapozott. Antik görög mitográfusok szerint a Bika csillagképnek egy tehén, a tehénné változtatott Ió \[lásd róla [[I/Io\|Io]] és [[J/Jó\|Jó]]\] istennő volt a névadója \[megmagyarázhatja a [[B/Bika\|bika]] címnél taglalt *bikaistennő* kérdését is\], akit egy bögöly kergetett szó szerint a halálba, és aki az egyiptomiak első királyát, a bika-Ápiszt, görögül Epaphoszt szülte. Cellarius és Hevelius névadását Vergilius Georgicája és e görög mítosz egyaránt ihlethette.  
 
 [[A/Api\|Api]] szkíta istennőt lásd helyén. Az egyiptomi Apap, [[A/Apep\|Apep]] (lásd még őt [[S/Széth\|Széth]]) inkább kígyó, mintsem majom.  
-A [[B/Baboon\|baboon]] címnél is előjövő [[H/Hapi\|Hapi]] (PJI írja, hogy Hapi a Nílus \[istenének\] neve is, páviánfejjel is ábrázolták) viszont egy a pávián-istennevek közül és éppen az ape név eredetét adhatná, vagy, ami valószínűbb, közös ősre vihetők vissza. Hapi helyett ide teszem még a Götz László Keleten kél a Nap című könyvében szereplő indo-európai párokat: német `affe`, ófelnémet `affo`, óskandináv és óangol `api`, ószláv `opica`, görög `kepos` és óind `kapi`.  
+A [[B/Baboon\|baboon]] címnél is előjövő [[H/Hapi\|Hapi]] (Péterfai János írja, hogy Hapi a Nílus \[istenének\] neve is, páviánfejjel is ábrázolták) viszont egy a pávián-istennevek közül és éppen az ape név eredetét adhatná, vagy, ami valószínűbb, közös ősre vihetők vissza. Hapi helyett ide teszem még a Götz László Keleten kél a Nap című könyvében szereplő indo-európai párokat: német `affe`, ófelnémet `affo`, óskandináv és óangol `api`, ószláv `opica`, görög `kepos` és óind `kapi`.  
 ![assets/Ape_image1.png](/img/user/A/assets/Ape_image1.png)  
 
 A majom gyakori jelképállat az egyiptomi és hindu mitológiában/ábrázolásokon. Thomas Inman Ancient Pagan and Modern Christian Symbolism című könyvében az alábbi magyarázó szöveget teszi a melléklet kép mellé:  
@@ -36,7 +36,7 @@ Edward Topsell The History of Four-footed Beasts című 1607-es kiadású könyv
 > Cynocephales, a majmok egy fajtája, amelyek feje olyan, mint a kutyáké, és a többi részük olyan, mint az emberé; ezért Gaza Canicipites-nek, azaz kutyafejűnek fordítja őket.  
 
 ![assets/Ape_image2.png](/img/user/A/assets/Ape_image2.png)  
-Különösen hangsúlyos a hasonlításnál a farkuk. VN is említi a kutyafarkat ([[M/Majom\|majom]] címnél is megvolt):  
+Különösen hangsúlyos a hasonlításnál a farkuk. Várkonyi Nándor is említi a kutyafarkat ([[M/Majom\|majom]] címnél is megvolt):  
 > A tlascalák, quichék, guatemalai, costaricai, továbbá a zsidó, tibeti, kínai és a Fidzsi-szigeti mondákban az ember testalkatának (habitusának) változása is említtetik: majommá lesz, vagy kutyafarkat kap, megcsúful stb.; ez aránylag ritka motívum, s legérthetőbb magyarázatát Szuchisz, az egyiptomi pap adja meg Szolónnak: visszasüllyedés primitív körülmények, állati életformák közé a nagy pusztulás után. Hasonló értelemben ír Platón.  
 
 Na mármost, az ape név egyezőnek vehető [[E/EB\|EB]] szavunkkal. A kutyát és farkast több nép eredetmondájában szerepeltetve ősének tette meg. Az ős lehet ugye anya és apa. Azaz az [[A/Apa\|apa]] és [[E/EB\|EB]] szavunk között kell legyen jelentésbeli átfedés. Ez [[K/Kalb\|kalb]] és más címnél írottak alapján igazolt is. (A nagy kutya mindig a vezető, ahogy az apa a felső/felette álló.)  
@@ -59,7 +59,7 @@ Egy Helena Lehman nevű írónő Bullinger (feledésbe merült?) könyvét dolgo
 > A "Szíriusz" csillagnév az egyiptomi "Seir" és a héber "Zar" szóból származik, és mind a "Seir", mind a "Zar" jelentése "fejedelem".  
 - Persze mivel a [[D/Dendera\|dendera]]i zodiákus már lehet görög hatású, ezért az egyiptominak tartott szó lehet görög.  
 
-Az Ápisz-bika anyja ugye [[H/Hathor\|Hathor]] istennő, az Ég Tehene, akit az egész égbolt megtestesüléseként tiszteltek, ahogy JM írja. A fenti méh, a majom-kutya és bika összefüggéseket még taglalni kell.  
+Az Ápisz-bika anyja ugye [[H/Hathor\|Hathor]] istennő, az Ég Tehene, akit az egész égbolt megtestesüléseként tiszteltek, ahogy Jankovics Marcell írja. A fenti méh, a majom-kutya és bika összefüggéseket még taglalni kell.  
 
 Bullingernél és Lehmannál majomról nem esik szó, viszont a majom és kutya nemcsak elnevezési, hanem jelképi szinten is lehet egy és ugyanazt: őst jelentő. Az ős pedig nem más, mint a Tejútanya, Éganya, vagyis Isten. Ezért is lehet, hogy az egyiptomi [[M/Mut\|Mut]] istennő előképének tartott [[K/Kenemet\|Kenemet]] istennő/csillagkép, bármennyire is szintén a Nagy Kutya csillagkép helyén ábrázolták, szimbolikus állata nem kutya, hanem majom; talán itt is arra történik utalás, hogy mindkettő ős, ahogy az anya is lehet [[A/ATA\|ATA]], azaz ős. Azaz a MA által felvetett apa fogalommal való egyeztetés leegyszerűsítése a dolgoknak.  
 
@@ -130,4 +130,4 @@ A mezopotámiaiak számára a kutyák családja nemcsak a farkasokat, hiénákat
 Ez utóbbi érdekes információ, mert a nagymacskák is Napjelképek és eredetük sem ismert. Hasonló keveredésekről volt szó [[J/Jaguar\|jaguar]], [[F/Fo-kutya\|Fo-kutya]] és [[S/Sphinx\|Sphinx]] szócikkeknél is. Legutóbb [[A/Ape\|ape]] címnél is volt szó arról, hogy a majmokat is kutyafélének vették.  
 
 [^2]: Lábjegyzet:  
-Fáy Elek A magyarok őshona című könyvének 261. oldalán föníciaiként hozza az Aszten, Asztenu nevet, melyet nem láttam PJI-től sem. Itt is [[K/Kutyafejű\|kutyafejű]] majmokról volt szó.  
+Fáy Elek A magyarok őshona című könyvének 261. oldalán föníciaiként hozza az Aszten, Asztenu nevet, melyet nem láttam Péterfai Jánostól sem. Itt is [[K/Kutyafejű\|kutyafejű]] majmokról volt szó.  

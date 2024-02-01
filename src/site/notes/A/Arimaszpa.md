@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arimaszpa/","title":"Arimaszpa","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-20T06:59","updated":"2023-11-10T06:38"}
+{"dg-publish":true,"permalink":"/A/Arimaszpa/","title":"Arimaszpa","tags":["Englishtexttranslated"],"created":"2023-10-20T06:59","updated":"2024-02-01T11:11"}
 ---
 
 
 # Arimaszpa
 
-[[H/Három\|Három]] címnél a szkíta nép nevének (inkább ragadványnév) előtagjáról már volt szó.
+[[H/Három\|Három]] címnél a szkíta nép nevének (inkább ragadványnév) előtagjáról már volt szó.  
 
 Somos Zsuzsanna Párizsi múzeumokban című az Ősi Gyökér 2010/4. sz. megjelent cikkében írja, hogy [[H/Hérodotosz\|Hérodotosz]]tól tudjuk, hogy a szkíták az egyet `arima`-nak nevezték. Ez a szó inkább [[H/Három\|három]] azaz \*harma szóra emlékeztet, és az [[E/Egy#Egyháromság\|egyháromság]]/[[S/Szentháromság\|Szentháromság]] alapján utalhatott egyre.  
 
@@ -33,12 +33,12 @@ A Wikipedia azt írja a szkítákról, hogy indoeurópaiak. Az arimaszpu szó Eg
 > Herodotos szerint az "arimasp" népnév szkíta nyelven "egyszemű"-t jelent, mert a szkítáknál `arima` = "egy" és `szpu` = "szem".  
 > ...  
 > Az indogermán szemléletű történelemkutatás így okoskodott: mivel az arímaszpok lótartó nomádok voltak (Aristeas hőskölteménye, az "Arimaspeia" szerint), nevük a zend és az óperzsa nyelv alapján vagy "airyama-açp" = "engedelmes lovú", vagy "airima-açp" = "a sivatag lovainak birtokosa."  
-- Így PJI elméskedései a szóeredet kapcsán sem célravezetőek.
+- Így Péterfai János elméskedései a szóeredet kapcsán sem célravezetőek.
 
 Az arima lehet három mellett járom is, [[O/Orion övcsillagai\|Orion övcsillagai]]ra utalva, de ezek ló hímtagját is alkotják. (A ló Ikrek vonatkozásáról lásd [[A/Asb\|asb]].)  
 Lényegében a nép "neve" arra utal, hogy honnan származtatták magukat. A [[S/Szkíta\|szkíta]] név is hasonlóan fogandó fel.  
 
-Még amit PJI ír:  
+Még amit Péterfai János ír:  
 > A prokonnészoszi Ariszteasz, Kausztrobiosz fia epikus költeményt írt arról, hogy Phoibosztól megragadottan eljutott az [[I/Isszédonok\|isszédonok]] földjére. Ez a költemény Arimaszpea nevet visel. Az isszédonok valamerre keleten éltek, Ariszteasz viszont egy óriási hazudozó volt, akinek egyetlen állítását sem szabad elhinni, állították már az ókorban. Ettől függetlenül Ariszteasz érték is lehet, mint Háry János is érték, holott mindenki tudja, hogy nagyotmondó volt.  
 > A szkíták földje északon terül el, Ariszteasz szerint is. Az isszédonok messze keleten élnek, rajtuk túl laknak az egyszemű arimaszposzok, azokon túl az aranyat őrző griffek, azokon túl meg, a tengerig, a hüperboreoszok. Ezek a népek, a hüperboreoszok kivételével, az arimaszposzok kezdeményezésére állandó háborúban élnek a szomszédjaikkal. Az arimaszposzok elűzték földjeikről az isszédonokat, az isszédonok a szküthákat, a szküthák meg a déli tengernél lakó kimmereket. Ezt Ariszteasz beszéli, de a szkíták saját hagyományai ezzel nem egyeznek meg.  
 

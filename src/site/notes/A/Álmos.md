@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Álmos/","title":"Álmos","created":"2023-10-11T04:38","updated":"2023-11-08T03:30"}
+{"dg-publish":true,"permalink":"/A/Álmos/","title":"Álmos","created":"2023-10-11T04:38","updated":"2024-02-01T11:16"}
 ---
 
 
@@ -47,7 +47,7 @@ Híre ment annak, hogy Álmost valamilyen szakrális áldozatnak vetették volna
 > Szó sincs arról, hogy "szakrálisan feláldozták" (ez durva szemita szokás!); öregen halt meg természetes halállal, vagy egy másik verzió szerint testvérharcban esett el (a lázadó Ond vezér csalta tőrbe) a Bodrogközben.  
 - Az [[O/Önfeláldozás\|önfeláldozás]]sal kapcsolatos nézeteket is el kell vetni akkor.  
 
-Az Almus név mellett előjön egy másik hasonló név. TGY írja:  
+Az Almus név mellett előjön egy másik hasonló név. Tóth Gyula írja:  
 > Ibn Fadhlan egyik munkájában a volgai bolgárok uralkodóját Almis-t a saqlabok királyának nevezi! Ugyanezt teszi Yaqut "Az országok lexikona" című földrajzi szótárában, ahol így ír:  
 > "Miután Almis ibn Šilki Baltawar, a saqaliba király levele al-Muqtadir Billah, az igazhívők parancsnoka részére megérkezett, amelyben kérte őt, hogy küldjön hozzá valakit, aki őt a vallásjogban kioktatná, az iszlám vallási törvényeivel megismertetné..."  
 > Álljunk meg tehát egy pillanatra és gondoljuk végig! Almis, akit a volgai bolgárok királyának tart a hivatalos történelemkutatás, akinek neve soha senki által meg nem magyarázott módon kísérteties hasonlóságot mutat honfoglaló fejedelmünk apjának, Álmosnak nevével, e fenti idézetben saqaliba királyként jelenik meg! Persze ha figyelembe vesszük mindazt, amit a bolgárokról szóló fejezetben leírtam, különös tekintettel Fóthi Erzsébet kutatási eredményeire, mely szerint a korai bolgárok és a honfoglaló magyarok feltűnő antropológiai egyezéseket mutatnak (értsd: azonosak!), és tudjuk, hogy a \[[[Szláv\|szláv]] címnél szereplő\] saqlab kifejezés eredetileg a székely hunokra vonatkozott, akkor rögtön érthetővé válik minden!  
@@ -78,7 +78,7 @@ Kubínyi Tamás is szólt arról, hogy Metod püspök feljegyezte 882-ben, amiko
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-MA adata szerint az `anima` = lélek szó is a görög `anemosz` = szél szóból származik, ugyanúgy, mint a szláv `dusa`, `duh` = lélek szó a szláv `duh`, `dah` = szellet, fújás, lélekzet szóból. Lásd erről [[D/DOH\|DOH]].  
+Magyar Adorján adata szerint az `anima` = lélek szó is a görög `anemosz` = szél szóból származik, ugyanúgy, mint a szláv `dusa`, `duh` = lélek szó a szláv `duh`, `dah` = szellet, fújás, lélekzet szóból. Lásd erről [[D/DOH\|DOH]].  
 
 [^2]: Lábjegyzet:  
 [[A/Atilla hun király\|Atilla]] királyunk felmenőit, pontosabban Álmostól kezdve a Képes Krónikában megörökített nemzetségtáblázatában így közli: "Miután a somnium a mi nyelvünkön álom, s ama fiú származását álom jövendölte meg, ezért nevezték Álmosnak, aki Előd, ez Ögyek, ez Ed, ez Csaba, ez Etele, ez Bendegúz, ez Torda, ez Szemény, ez Etej, ez Apos, ez Kodocsa, ez Berend, ez Zsolt, ez Bulcsú, ez Balog, ez Zombor, ez Zámor, ez Lél, ez Levente, ez Kölcse, ez Ompód, ez Miske, ez Mike, ez Beszter, ez Budli, ez Csanád, ez Bökény, ez Bondorfán, ez Farkas, ez Otmár, ez Kádár, ez Belér, ez Keár, ez Keve, ez Keled, ez Dama, ez Bor, ez Hunor, ez Nimród, ez Thána, ez Jáfet, ez Noé fia volt."
