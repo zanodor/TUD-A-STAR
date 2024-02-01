@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Alvilág/","title":"Alvilág","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-22T03:43","updated":"2023-12-23T08:34"}
+{"dg-publish":true,"permalink":"/A/Alvilág/","title":"Alvilág","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-22T03:43","updated":"2024-02-01T10:59"}
 ---
 
 
@@ -49,7 +49,7 @@ Lásd még JM adatsorát Anubiszról is [[H/Hádész\|Hádész]]. Lásd még leg
 >
 > **Orion a téli napfordulókor, karácsonykor tényleg a "fölkelő Napot hozza" tejútágain. Az Orion csillagkép, melyet a Tejút köt össze valóságosan a túlnan születő Nappal, a napvallásokban jelképesen is a Naphoz kapcsolódik.** Vagy úgy mint "holt" azaz állócsillagzattá vált Ősnap, Nap atya, a halott Nap csillaglelke (ilyen volt Ozirisz), vagy – együttállásban a Nappal – mint napisteni attribútumokkal felruházott csillaghérosz (maga Orion, a bibliai Mózes és Sámson) és -isten (Mithras), vagy annak hordozója ([[A/Anubisz\|Anubisz]], [[S/Szent Kristóf\|Szent Kristóf]]).  
 
-Szintén Jankovics Marcell Jelkép-kalendárium című könyvében írja (az, hogy az alvilág északon van, értelmezés kérdése; a hinduknál WFW könyvében délen):  
+Szintén Jankovics Marcell Jelkép-kalendárium című könyvében írja (az, hogy az alvilág északon van, értelmezés kérdése; a hinduknál William F. Warren könyvében délen):  
 > Az analógiás észjárás a télhez az észak égtájat és a napszakok közül az éjt kapcsolta. Az elemek közül többnyire a vizet, a színek közül rendszerint a feketét (lásd még [[S/Színkódok\|színkódok]]). (Később a fekete helyett olykor a kéket. A két színt az égbolt színeváltozásainak okán feleltették meg egymásnak. Az éj feketesége a hajnali szürkületben fokozatosan kikékül, a nappali ég kékje pedig a naplementei bíbor közjáték után sötétül ismét feketébe.) A fekete víz – költői szövegekben olaj – az alvilági vizeket jelképezi; rejtett értelme szerint a Nagy Istennő magzatvize ez, melyben a hamarosan újjászülető Nap éli magzati életét. Egyetemes képzet szerint az **alvilág északon van** – észak régen azonos volt a "lent" fogalmával –, s ott Örökös éjszaka honol. (Az alvilági lejáratot viszont sok rege nyugatra helyezi. Ennek oka, hogy a Nap nyugaton nyugszik, s a "lejárat" égi helye, a Nyilas és a Skorpió csillagkép időszámításunk előtt még "nyugati", azaz őszi csillagkép volt.)  
 
 #### Jankovics Marcell A Nap könyve...
@@ -75,7 +75,7 @@ Szintén Jankovics Marcell Jelkép-kalendárium című könyvében írja (az, ho
 Szintén Jankovics Marcelltől való:  
 > A mítoszokban, mesékben kétszer találkoznak az ellenfelek; előbb ősszel, ekkor a gonosz kerekedik felül, másodízben tavasszal, amikor a feltámadt hős derekasan visszafizet. Mindkét alkalommal az alvilág valamelyik jelképes ki- vagy bejáratánál található a helyszín, azaz a Tejút és az Állatöv megfelelő kereszteződésének a szomszédságában. Ősszel a Skorpió-béli "kapu" előtere a viadal "szérűje". A mítoszok és mesék egy csoportjában a hős sárkánykígyó-ellenfele nő. A kétmenetes küzdelem eredetileg fogamzás-újraszülés értelmű volt, mint [[N/Nut\|Nut]] mítoszában: a tejútanya ősszel megeszi mihaszna öreg napfiát, hogy tavasszal ifjúként újraszülhesse. Ennek sajátos formája, amikor **a naphéroszt a kígyó vagy más szörny elnyeli**, s [[H/Három nap\|három nap]]ba telik, míg az kivágja magát a hüllő gyomrából (Héraklész, lászón, Jónás és mások).  
 
-[[E/Ég és föld\|Ég és föld]] címnél is szerepelt PJI írása:  
+[[E/Ég és föld\|Ég és föld]] címnél is szerepelt Péterfai János írása:  
 > Ipolyi Arnold, a legnagyobb mitológiai kutatónk, még megemlíti a Dör-Ög szót, így, kettéválasztva. A Dörög az égbolt neve, ahová a lelkek távoznak a Földről, tehát nem idegen az ördög fogalmától. Az égbolt is fekete, az Alvilág szintén fekete és tüzes, ahonnan a láva tör elő. A Felvilág és Alvilág szoros összeköttetésben van.  
 - Melyre jó példa Falvay Károly Nagyboldogasszony c. könyvének 68. oldalán szereplő sámános rajz is.
 
