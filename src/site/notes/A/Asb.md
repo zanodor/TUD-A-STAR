@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2023-11-08T03:32"}
+{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2024-02-01T11:12"}
 ---
 
 
@@ -45,7 +45,7 @@ A -medha utótagról lásd [[M/MATA\|MATA]].
 
 Ezek alapján ezt lehet mondani, hogy az asva (Ász-Fa) és az asvin (Ász-Fény) más és más szavak, de egyre utalnak: a Napot és az emberi lelkeket szülő Tejútra. A szavakat már nem értő indiaiak a két szót egy értelem alá vonták.  
 
-Itt még PJI [[A/Ass\|ass]] címnél szereplő adata is érdekes/érvényes lehet(ett volna), minthogy ott ló, szamár, öszvér jelentésekről is volt szó. A lovak és az ősök/ászok olyannyira összemosódtak, hogy a [[C/Centaur\|centaur]] is innen kaphatta nevét, és ahogy tudjuk, a Nyilas jegy is Ló a kínai asztrológiában.  
+Itt még Péterfai János [[A/Ass\|ass]] címnél szereplő adata is érdekes/érvényes lehet(ett volna), minthogy ott ló, szamár, öszvér jelentésekről is volt szó. A lovak és az ősök/ászok olyannyira összemosódtak, hogy a [[C/Centaur\|centaur]] is innen kaphatta nevét, és ahogy tudjuk, a Nyilas jegy is Ló a kínai asztrológiában.  
 Arról is lehetne beszélni, hogy a hímló [[M/Mén\|mén]] [[H/Halad\|halad]] jelentésű és a malom [[M/MUN\|MUN]]-nál szereplő neve is összefügghet vele úgy, ahogy a [[H/Honey\|honey]] és [[H/Hamlet malma\|Hamlet malma]] címnél előjövő perzsa malom(kő) jelentésű `āsyā`, `āsiyā` a lovat jelentő `asva`/`aspa` nevekkel.  
 Az is tény, hogy más nyelvekben is szerepel az ász illetve ős (mint Tejútanya; vesd össze némely nyelvek `asu` = kutya jelentésével és láttuk, hogy a kutya szóval azonos [[K/Kuda\|kuda]] egyes nyelveken ló jelentésű) név ló jelentéssel önállóan is: fidzsi-szigeteki `ose` = ló, kriol nyelvű `os`, míg a török, kirgiz, kazah, stb. nyelvekeni `at` = ló mint Atyára utaló jön elő, de itt már nyilván nem a Tejútra, hanem a (holdtisztelőknél) a Holdra utalva. Ennek bizonyítéka lehetne az igen érdekes irántxe[^1] nyelvű `wirapu` (Vér/Vir-Apu) = Hold szó is.  
 
@@ -71,7 +71,7 @@ Ami a fentebb sorolt keleti lovat jelentő szavakat illeti, mindkettő, vagy min
 Figyeljük meg, hogy a jászok [[F/Fehérlófia\|Fehérlófia]]-mondája és előkeresztény hitvilága jelenik meg perzsa-ind nyelvterületen, de ennek az asva = ló névnek az \*ahva/akva illetőleg jejes változata kerül át a filiszteus kánaánita népektől a hódító szemitákhoz is.  
 Még a [[J/Jászol\|jászol]] szó is a jász népünk nevét látszik tartalmazni! A jászok hozták létre a [[K/Kereszténység\|kereszténység]]et a hódító szemiták ellen, mondhatnánk, bár valójában annak alapjai az ősvallásban benne is voltak, de a zsidóvá avanzsált Jézusra húzták rá a politikai érdekeltségű szemita nyugatiak.  
 
-Szumma szummárum, Asz-Ba lehet Ősapa is, Nimród, akinek az ikrei valóban meglehetnek az Ikrekben. PJI legfelső értelmezésében azt hiányoltam, hogy sem Nimrud-Orion ló(fasz) szerepe, sem a [[L/Ló\|ló]] és [[F/Fehérlófia\|Fehérlófia]] címnél taglalt ősvallási-csillagászati téma nem került kifejtésre.  
+Szumma szummárum, Asz-Ba lehet Ősapa is, Nimród, akinek az ikrei valóban meglehetnek az Ikrekben. Péterfai János legfelső értelmezésében azt hiányoltam, hogy sem Nimrud-Orion ló(fasz) szerepe, sem a [[L/Ló\|ló]] és [[F/Fehérlófia\|Fehérlófia]] címnél taglalt ősvallási-csillagászati téma nem került kifejtésre.  
 A hunok azért sem szálltak le a lóról sosem, mert a Ló a Tejút állata és Nimródé is.  
 
 Úgy tűnik, hogy a [[S/Szpáhi\|szpáhi]] = lovas az Aszpa hangátvetett változataként tekintendő.  
@@ -83,7 +83,7 @@ A két jegy a [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]en egymással szem
 
 ## A latin equus az indo-iráni asva/asb rokona?
 
-Közben észrevettem, hogy PJI-nek is köszönhetően az indo-iráni szónak feladtam az equus/aqwa (lásd [[E/Equine\|equine]] és [[E/Ekva\|ekva]]) szavakkal való azonosíthatóságát és mindkét szót külön elemeztem?  
+Közben észrevettem, hogy PJI-nek is köszönhetően az indo-iráni szónak feladtam az equus/aqwa szavakkal való azonosíthatóságát és mindkét szót külön elemeztem?  
 
 Amennyiben közös nevező alá vesszük őket, akkor hasonló esetet látunk, mint az [[A/Asszony\|asszony]] szavunk esetében. Ott is volt olyan értelmezés, ami szerint előrésze Ah/Ak/Ég, mely az equus eredeti elgondolás szerinti eredete.  
 
