@@ -186,7 +186,7 @@ Bakos Attila A Duna Evangéliuma című könyvében sok helyen már a patriarch�
 
 Robert Graves könyvének 400. oldalán a nők szexuális prédáiról szól röviden, majd a 401. oldalon kitér arra, hogy a patriarchalizmus térnyerésével a férfi kezdi [[U/Űz\|űz]]ni a nőt. Nos, a helyzet az, hogy (ezt Péterfai János is megírta) régen nem volt patriarchalizmus és matriarchalizmus. Fentebb már kitértem ennek csillagászati vonatkozásaira is (Orion és Szíriusz kapcsán).  
 
-[Ezen](https://www.youtube.com/watch?v=-HN1dPS6Q9c) CMM műsor elején Facsar Imre azt mondja, hogy nem létezett kimondott matriarchalizmus és patriarchalizmus, mert régen, a munkamegosztás jegyében, mindenki tudta, mi a dolga: a férfi erősebb lévén férfimunkát végzett, a nő a gyereket nevelte. Mondja még, hogy a férfi-női kapcsolatot nem szabad elválasztani egymástól, mert az egy: ezért mondja a magyar, hogy [[F/Feleség\|feleség]]em. Tehát nincs olyan, hogy "én vagyok a főnök." (Ezzel egyetértek, Péterfai János is megírta, hogy nem volt a régi magyar felfogásban olyan, hogy egyik nem a másik fölé helyeződött volna, de azért azt tudnia kell, hogy az istennőket a legtöbb helyen teljesen leselejtezték.)  
+
 
 Legutóbb [[S/Szemiták és árják#Déli- vagy fekete magyarok/hunok, arabok, kabarok, héberek évköri nevei\|déli- vagy fekete magyarok/hunok, arabok, kabarok, héberek évköri nevei]] cím/alcímnél arra mutattunk rá, hogy az arab/héber hogyan vált apa-figurává (a mostanában – nemcsak az afrocentrista propagandával – nagyon nyomott négereket is ide vehetjük).  
 
