@@ -1,23 +1,7 @@
 ---
-title: Allul
-aliases: []
-status: dg_uploaded
-tags:
-  - Englishtexttranslated
-share: true
-dg-publish: true
-dg-created: 2023-11-12T02:46
-dg-updated: 2024-01-20T03:58
-dg_upload_status: VNC done
-date created: 2022-12-14
-date modified: 2024-01-20
-ghrepoURL:
-  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/A/Allul.md
-  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/A/Allul.md
-  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/A/Allul.md
-  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/A/Allul.md
-  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/A/Allul.md
+{"dg-publish":true,"permalink":"/A/Allul/","title":"Allul","tags":["Englishtexttranslated"],"created":"2023-11-12T02:46","updated":"2024-02-01T10:59"}
 ---
+
 
 # Allul
 
@@ -27,7 +11,7 @@ A mellékelt ábra és szöveg...
 
 #### Gavin White Babylonian Star Lore...
 
-...című könyvéből származik. Legyen meg magyarul is:  
+...című könyvéből származik:  
 > In astrology texts the Crab is usually written 'Mul Al-lul'  
 > The Sumerian term has been borrowed into Akkadian as `alluttu` - a 'crab'. The plural form of the Akkadian name may have been used to designate 'tongs or pincers'.  
 > Although one source suggests that the Crab's name means 'the deceptive digger', it is, in truth, impossible to be certain. Its component elements are as follows:  
@@ -52,13 +36,10 @@ Ennek folytán okszerűnek tekinthető az alul szavunkra bökni, és az akkád `
 - Ez mai fejjel június 21, de mindenképpen a nyári napforduló. Ellenpárja a [[T/Turul\|Turul]], Vetráb szerint.  
 Mindez tökéletesen összevág a [[B/Bak-Rák tengely\|Bak-Rák tengely]]nél írottakkal.  
 
-#### Gavin White Babylonian Star Lore...
-
-...című könyvének további adatai kerülnek bemutatásra:  
+Gavin White Babylonian Star Lore című könyvének további adatai kerülnek bemutatásra:  
 
 > THE SUMMER SOLSTICE PERIOD  
 >
-> ![assets/Allul_image2.png](/img/user/A/assets/Allul_image2.png)  
 > The next distinct group of symbols is made up from the constellations that rise during the summer. These stars mark the hot dry season, which, unlike the milder climes of Europe, is regarded as the time of death in Mesopotamia. At this time the lands are ravished by drought and plague, and even nature herself becomes barren – the life-giving rains have ceased and river levels decline, the harvest is finished and all vegetation dies back under the scorching summer sun.  
 > As the sun approached the peak of his powers, [[T/Tammuz\|Dumuzi]] had foreboding dreams of his own death. His premonitions came true at the summer solstice and his funeral rites were performed amidst wailings and lamentations in month 4, immediately after the solstice. As Dumuzi walked the path of the dead, he took the sorrows of the worlds with him to the land of the shades.  
 > Rituals dedicated to the dead also dominated month 5, which fell in late summer. At this time, when the veil between life and death was at its thinnest, the great Brazier festival was celebrated. This festival commemorated the ancestors, who were invited back to the world of the living for an annual feast in their descendant's homes. The rites involved lighting torches and braziers to guide the departed ghosts of the ancestors back from the darkness of the underworld. The stars rising around the time of the summer solstice are thus fittingly informed by images of death, war and travel between the worlds.  
@@ -72,10 +53,12 @@ Mindez tökéletesen összevág a [[B/Bak-Rák tengely\|Bak-Rák tengely]]nél �
 >
 > The Lion has a number of inter-related themes woven into its symbolic nature. As king of the beasts he can naturally represent the king; as a ferocious predatory beast he can also symbolise war and death – the Lion's astrological omens mostly concern the vagaries of war and the occurrence of natural disasters such as famine; and as a seasonal symbol he represents the heat of high summer – his radiant mane being a simple metaphor for the overbearing rays of the summertime sun.  
 > The goddess of war is also portrayed among the summertime stars in the form of the Bow-constellation. Together with her sacred Lion, she marks the summer as the season of war, when campaigns commenced in the spring finally come to fruition. She grants glory and victory to her royal favourites who are represented in the heavens by the King Star, which stands at the Lion's breast.  
->
+> 
 > —  
+> 
 > A NYÁRI NAPFORDULÓS IDŐSZAK
->
+> 
+> ![assets/Allul_image2.png](/img/user/A/assets/Allul_image2.png)
 > A szimbólumok következő különálló csoportját a nyár folyamán felkelő csillagképek alkotják. Ezek a csillagok a forró, száraz évszakot jelölik, amelyet Mezopotámiában – ellentétben Európa enyhébb éghajlatával – a halál időszakának tekintenek. Ebben az időszakban a földeket aszály és járványok sújtják, és még maga a természet is meddővé válik – az életadó esőzések elmaradnak, a folyók vízszintje csökken, a termésnek vége, és a perzselő nyári nap alatt minden növényzet visszahal.  
 > Ahogy a nap közeledett hatalma csúcsához, [[T/Tammuz\|Dumuzi]] vészjósló álmokat látott saját haláláról. Előérzései a nyári napforduló idején valóra váltak, és a temetési szertartásokat jajgatás és siránkozás közepette a 4. hónapban, közvetlenül a napforduló után végezték el. Ahogy Dumuzi végigjárta a holtak útját, magával vitte a világok bánatát az árnyak földjére.  
 > A halottaknak szentelt szertartások uralták az 5. hónapot is, amely a nyár végére esett. Ebben az időszakban, amikor az élet és a halál közötti fátyol a legvékonyabb volt, ünnepelték a nagy brazíri fesztivált. Ez a fesztivál az ősökre emlékezett, akiket évente meghívtak az élők világába, hogy a leszármazottaik otthonában lakomát tartsanak. A szertartások során fáklyákat és parazsat gyújtottak, hogy az ősök eltávozott szellemeit visszavezessék az alvilág sötétségéből. A nyári napforduló idején felkelő csillagok így a halál, a háború és a világok közötti utazás képeihez illeszkednek.  
@@ -122,4 +105,4 @@ Mindez tökéletesen összevág a [[B/Bak-Rák tengely\|Bak-Rák tengely]]nél �
 
 Gavin White könyvének interneten elérhető kivonataiban tallózva az előző jegy a (Nagy) Ikrek [[M/Mastabbagalgal\|Mastabbagalgal]], a következő jegy pedig az Oroszlán [[U/Urgula\|Urgula]].  
 
-A fenti szövegben szerepel, hogy későbbi csillagászati szövegekben a Rák jegy neve A-MES (Vizek), melyre úgy asszociál GW, hogy értelme egybevág az azt megelőző sorokkal. Igen ám, de [[M/MES\|MES]]-nek egész más jelentéseit (is) ismerjük. Továbbá a Ráknak utalni kell [[H/Holtpont\|holtpont]]ra. Lásd PZ írását [[R/Rák csillagkép\|Rák csillagkép]].  
+A fenti szövegben szerepel, hogy későbbi csillagászati szövegekben a Rák jegy neve A-MES (Vizek), melyre úgy asszociál GW, hogy értelme egybevág az azt megelőző sorokkal. Igen ám, de [[M/MES\|MES]]-nek egész más jelentéseit (is) ismerjük. Továbbá a Ráknak utalni kell [[H/Holtpont\|holtpont]]ra. Lásd Paksi Zoltán írását [[R/Rák csillagkép\|Rák csillagkép]].  
