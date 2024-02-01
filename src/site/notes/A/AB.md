@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/AB/","title":"AB","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-20T05:11","updated":"2023-11-06T12:48"}
+{"dg-publish":true,"permalink":"/A/AB/","title":"AB","tags":["Englishtexttranslated"],"created":"2023-10-20T05:11","updated":"2024-02-01T10:39"}
 ---
 
 
@@ -25,7 +25,7 @@ Az AB = víz értelme tetten érhető lehet még például a ser szavunkból ké
 
 Vízszintre utaló [[A/Apad\|apad]] szavunkat (a víz mindig a legalsó helyet keresi) ugyan A-Pad formában elemzi PJI, de [[A/AP\|AP]] = **AB**, ezt ne feledjük.  
 
-Az AB ház jelentéséről [[H/Hab\|hab]] címnél is volt szó. Ott is szerepelt Rasmus Bjørn Foreign elements in the Proto-Indo-European vocabulary című írásának 67-68. oldaláról való adata; hasonló hehes (nem víz hanem) folyó jelentésű szavakat hoz fel[^2]; a víz és a folyó értelmek nem összeegyeztethetlenek, sőt fentebb PJI ilyen szinonim jelentéseket is megad.  
+Az AB ház jelentéséről [[H/Hab\|hab]] címnél is volt szó. Ott is szerepelt Rasmus Bjørn Foreign elements in the Proto-Indo-European vocabulary című írásának 67-68. oldaláról való adata; hasonló hehes (nem víz hanem) folyó jelentésű szavakat hoz fel[^2]; a víz és a folyó értelmek nem összeegyeztethetetlenek, sőt fentebb Péterfai János ilyen szinonim jelentéseket is megad.  
 
 ![assets/AB_image1.png](/img/user/A/assets/AB_image1.png)  
 ![assets/AB_image2.png](/img/user/A/assets/AB_image2.png)  
@@ -42,7 +42,7 @@ Konkrétan számomra új volt a szumér nyelv ezen jelentése.
 
 ### AB törzs értelméről
 
-Tóth Gyula Szkítiától Maghrebig blogján a Maghreb és főleg a magyaráb nevek kapcsán mondja el, hogy az -ab szórész törzs jelentése onnan jön, hogy az `ab`/`aba` = apa jelentésű, azaz az apától való leszármazás adja a jelentést. [[M/Maghreb\|Maghreb]] névben -eb PJI-nél király(ság) értelmű.  
+Tóth Gyula Szkítiától Maghrebig blogján a Maghreb és főleg a magyaráb nevek kapcsán mondja el, hogy az -ab szórész törzs jelentése onnan jön, hogy az `ab`/`aba` = apa jelentésű, azaz az apától való leszármazás adja a jelentést. [[M/Maghreb\|Maghreb]] névben -eb Péterfai Jánosnál király(ság) értelmű.  
 
 ### AB – Apa és Víz kapcsolat
 

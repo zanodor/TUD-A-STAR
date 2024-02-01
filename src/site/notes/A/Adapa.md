@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Adapa/","title":"Adapa","tags":["dg_uploaded"],"created":"2023-10-22T02:38","updated":"2023-10-25T12:21"}
+{"dg-publish":true,"permalink":"/A/Adapa/","title":"Adapa","created":"2023-10-22T02:38","updated":"2024-02-01T10:40"}
 ---
 
 
@@ -60,7 +60,7 @@ Másutt:
 > maguk a nagy istenek is benne mossák meg arcukat.*  
 >  
 > Nyilván szent vizet, életvizet tartalmazó edények, medencék (chalzikuk) voltak ezekben a templomokban, Mardukéban bizonyosan; a szövegek Marduk "tisztító edényének", a "sorshatározat edényének" nevezik őket. Domborműveken és pecséthengereken is megtaláljuk az életfa és az életvize ábrázolását: a fa középen áll, előtte szárnyas lények tartják az életvize korsóját. Amikor nem pusztán rituális tisztálkodásra való szentelt vízről van szó, hanem valóban az élet vizéről, az istenek és a halhatatlanság italáról – e mozzanat mindig e paradicsomi misztikával kapcsolatos, belőle ered.  
-- A leírások tökéletesen illenek a WFW könyvében elemzett északi-sarki [[E/Életfa\|életfa]]- és életvíz-leírásokkal.  
+- A leírások tökéletesen illenek a William F. Warren könyvében elemzett északi-sarki [[E/Életfa\|életfa]]- és életvíz-leírásokkal.  
 
 Komoróczy Géza Gilgames – Agyagtáblák üzenete című könyvében a 310. oldalától szól Adapáról.  
 
