@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/A/Audio/","title":"Audio","tags":["dg_uploaded","containstransclusions"],"created":"2023-10-21T03:02","updated":"2023-10-25T12:36"}
+{"dg-publish":true,"permalink":"/A/Audio/","title":"Audio","tags":["containstransclusions"],"created":"2023-10-21T03:02","updated":"2024-02-01T11:15"}
 ---
 
 
 # Audio
 
-Hang(kiadás) értelmű görög eredetű szó. Talán PJI passzusa ér itt valamit:  
+Hang(kiadás) értelmű görög eredetű szó. Talán Péterfai János passzusa ér itt valamit:  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/a/ajto/#ggmb94" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
