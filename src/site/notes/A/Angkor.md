@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Angkor/","title":"Angkor","tags":["dg_uploaded"],"created":"2023-10-13T01:21","updated":"2023-11-25T10:02"}
+{"dg-publish":true,"permalink":"/A/Angkor/","title":"Angkor","created":"2023-10-13T01:21","updated":"2024-02-01T11:00"}
 ---
 
 
@@ -18,7 +18,7 @@ Minden ily városnegyed körülbelül egy kilométer oldalhosszúságú, vagyis 
 
 > Kambodzsában Angkor temploma \[Babilonban is volt, Hamlet Malma című könyv szerint vagy rosszul értelmezem?\] szintén kapcsolatos a magyar szupercivilizációval. Kambodzsát szintén a magyar szaka hercegek alapítják, ők is építik a fantasztikus templomot. Öt kapuja van, a kapukból öt út indul ki. Az öt utat két oldalt sorba állított gigantikus kőalakok szegélyezik, utanként 108, oldalanként 54. Összesen 540 szobor áll sorban, minden egyes sor egy [[N/Naga\|Naga]] kígyót tart. A kőszobrok nem tartják a kígyót, hanem húzzák, ahogy Santillana és von Deschend rámutat a Hamlet malmában, vagyis az 540 szobor "köpüli" a Tejútrendszer óceánját. "Angkorról így tehát kiderül, hogy egy kolosszális modell, melyet a valódi hindu fantázia és képtelenség állított fel". Tehát a magyar tudás így száll át a hindukra, akiket szintén mi tanítottunk meg mindenre. A Naga kígyó neve a mai Nagy szavunk változata, továbbá a Nagák az egyik fontos ősi magyar nép.  
 
-PJI nem elemzi a nevet. Az Ang lehet Án és Ég (hun és magyar ég jelentéssel álló) szavaink egyfajta összemosása, agg szavunk orrhangos változata, kevésbé valószínűbben [[H/Hang\|hang]] szavunk hehezet nélkül.  
+Péterfai János nem elemzi a nevet. Az Ang lehet Án és Ég (hun és magyar ég jelentéssel álló) szavaink egyfajta összemosása, agg szavunk orrhangos változata, kevésbé valószínűbben [[H/Hang\|hang]] szavunk hehezet nélkül.  
 Kor lehet kor és kör is \[a kor is kör, az időé\].  
 Lásd még említve [[A/Angel\|angel]] cím alján.  
 A mellékelt képek Falvay Károly Nagyboldogasszony című könyvéből valók.  
