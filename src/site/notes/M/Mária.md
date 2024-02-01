@@ -1,19 +1,7 @@
 ---
-title: Mária
-aliases:
-  - Máriá
-status: dg_uploaded
-tags:
-  - Englishtexttranslated
-share: true
-dg-publish: true
-dg-created: 2023-11-12T01:16:00
-dg-updated: 2023-12-23T08:17
-dg_upload_status: VNC done
-date created: 2022-12-14
-date modified: 2023-12-23
-danglinglink_commentedout: true
+{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2024-02-01T04:58"}
 ---
+
 
 # Mária
 
@@ -178,8 +166,8 @@ Marha szavunk hihetetlen sok ideában megjelenik.
 A Sirius in Ancient Greek and Roman literature című cikkben fejtegetik, hogy a görög-római mitológia **Maira** nevű (nimfa)alakja Szíriuszra utalóan jön elő. Nos, a maoriknál is Szíriusz neve Mere is, illetve M-R vázú, fényes jelentésű szavakat láttunk bőven. Okunk lehet tehát feltételezni, mivel a [[S/Szuka\|szuka]] a Tejút és a kutya egyben (ahogy [[G/Göd\|Göd]] címnél is ezt taglaltuk), hogy a Mária és a Maira nevek egy és ugyanazok. Ami a cikkből ide tehető:  
 > Sirius in the annual period from its heliacal rising to 22 August was also called 'Maira', a word coming from the ancient Greek verb `marmairo`, which means 'to shine' (Palatine or Greek Anthology, 1917, 9: 55). As a name, Maira (or Maera) therefore became the star-goddess of the scorching dog-star Seirios, whose rising in conjunction with the Sun brought on the scorching heat of midsummer.  
 > —  
-> A Szíriuszt a heliákus kelésétől augusztus 22-ig tartó éves időszakban "Maira"-nak is nevezték, amely szó az ógörög `marmairo` igéből származik, ami azt jelenti, hogy "ragyogni" (Palatinus vagy Görög Antológia, 1917, 9: 55). Maira (vagy Maera) mint név tehát a perzselő kutya-csillag, Seirios csillagistennője lett, akinek a Nappal együtt történő felkelése a nyár közepének perzselő hőségét hozta el.  
-^j3fmio
+> A Szíriuszt a heliákus kelésétől augusztus 22-ig tartó éves időszakban "Maira"-nak is nevezték, amely szó az ógörög `marmairo` igéből származik, ami azt jelenti, hogy "ragyogni" (Palatinus vagy Görög Antológia, 1917, 9: 55). Maira (vagy Maera) mint név tehát a perzselő kutya-csillag, Seirios csillagistennője lett, akinek a Nappal együtt történő felkelése a nyár közepének perzselő hőségét hozta el.  { #j3fmio}
+
 
 [[E/Eire\|Eire]] címnél felemlítettük, hogy mi lenne, ha Mária nem a [[M/Marha\|marha]] szavunkból eredne mégsem, hanem az "[[A/Árja\|árja]]" (levegő) ajakhang-előtételezése lenne. Illetve valójában pont arról volt szó, hogy mi lenne, ha a Mária lenne a kiinduló oda.  
 A Mária marhából való közvetlen eredeztetésének az is ellentmond, hogy az (általán területek nevére alkalmazott) -[[I/Ia\|ia]] végződés más nevekben is szerepel; például Kornélia, Natália, a gall fenyő (nem tölgy?) istennő [[D/Druantia\|Druantia]], a tölgy (nem inkább éger?) istennő [[E/Egeria\|Egeria]], a szintén Tejút/kígyóistennő [[L/Lamia\|Lamia]], illetve PJI Atlantiszról szóló írásában azt írja, hogy az ír [[E/Eriu\|Eriu]] (lásd róla illetve a passzust [[E/Eire\|Eire]]) nevében is az -ia végződés lenne meg.  
@@ -258,16 +246,18 @@ Nagyné dr. Fülöp Krisztina cikkében még Badiny Jós Ferenc Jézus Király a
 > \[...\]  
 > Nestor pátriárka (Kr.u.360-440) is Máriát a "szeplőtelen Szülőanyjának" nevezi. A római-zsidó kereszténység az Ephezusi Zsinaton (Kr. u. 431-ben) szavazza meg Máriának ugyanazt a titulust, amelyet évtizedeken át az egyiptomi Isis "Istenanya" viselt, s csak Kr. után a 6. században építenek egy kápolnát Mária tiszteletére. A sumíralapú, palesztinai "Szűzanya" (Astarte) tiszteletre való emlékezés szóba sem jöhetett, hiszen ez a hiedelem volt a Jézus-korabeli zsidó vallási felfogás legnagyobb ellensége. Ugyanis e fogalmakkal kifejezett istenszemélyeknek (mint: "Égkirálynő" "Szűzanya" "Világ-Világossága") tisztelete Közép-Ázsiától a Kárpát-medence – Kaukázus – Palesztina – Mezopotámia és Egyiptom térségében már évezredes múltra tekint vissza.  
 > \[...\]  
-> Összefoglalva: Máriát megelőző Istenasszony elnevezések a következők: "Ég Asszonya"= Istár (Amarna-táblákon: asszír, vagy akkád), "Ég Királynő"= Antit (Egyiptomi Beth-Shani felirat), "Ég Úrnője"= Anat (Kána-i termékenység istennő), "Ashtoreht"=Astarte (palesztinai Ras-Shamra szövegek), Innana (a sumer Boldogasszony), Isis (Egyiptomban), "Tanit" (Karthágóban), "Ana Hit" (a turáni népeknél), görögöknél "Aphrodité" ill. "Athéné" rómaiaknál "Minerva" és "Vénusz".  
+> Összefoglalva: Máriát megelőző Istenasszony elnevezések a következők: "Ég Asszonya" = [[I/Istár\|Istár]] (Amarna-táblákon: asszír, vagy akkád), "Ég Királynő" = Antit (Egyiptomi Beth-Shani felirat), "Ég Úrnője" = Anat (Kána-i termékenység istennő), "Ashtoreht" = Astarte (palesztinai Ras-Shamra szövegek), [[I/Inanna\|Inanna]] (a sumer Boldogasszony), [[I/Ízisz\|Isis]] (Egyiptomban), "[[T/Tanit\|Tanit]]" (Karthágóban), "Ana Hit" (a turáni népeknél), görögöknél "[[A/Aphrodité\|Aphrodité]]" ill. "[[A/Athéné\|Athéné]]" rómaiaknál "[[M/Minerva\|Minerva]]" és "[[V/Vénusz\|Vénusz]]".  
 
 ## Mária szeplőtelen fogantatása
+
+Erről másutt bőven volt szó.  
 
 Az [ezen](https://sg.hu/forum/tema/1112391905?page=11) fórumon író, fentebb említett boleron nevű hozzászóló szerint:  
 > Mária szeplőtlen fogantatása egyiptomi történetre épül, hiszen ismert, hogy III. Amenthope anyját Mutemmát maga Ámon isten termékenyítette meg. Vagyis III. Amenthope szeplőtlen fogantatásból született.  
 
 ## Mária szemita megítélése
 
-[Ezen](https://www.youtube.com/watch?v=yKq9Gxf-WFY&t=6s) Ne Legyen Áldozatos, Karácsonyi ünnep 2. rész című műsorban PG 4:00 után megint kitér arra, hogy racionális gondolkodással nehéz megragadni, mit értünk Atya, Szűzanya, Fiú stb. alatt (de ugyanígy a magyar nyelv szavainak és eredetének értelmezése sem könnyen racionalizálható).  
+[Ezen](https://www.youtube.com/watch?v=yKq9Gxf-WFY&t=6s) Ne Legyen Áldozatos, Karácsonyi ünnep 2. rész című műsorban Pap Gábor 4:00 után megint kitér arra, hogy racionális gondolkodással nehéz megragadni, mit értünk Atya, Szűzanya, Fiú stb. alatt (de ugyanígy a magyar nyelv szavainak és eredetének értelmezése sem könnyen racionalizálható).  
 16:00-tól tér rá Mária Talmudbeli leminősítése (hajfonó cselédlány – utcalány) után arra, hogy a Szűzanya kifejezés Szűz és Anya részeinek jelentése ellentmondanak egymásnak, a hétköznapi és orvosi tapasztalat illetve szakszerűség szintjén illetve tartományában – azaz itt megint a materialista és profán felfogást látjuk (szemita-zsidó részről pedig a [[S/Szajha\|szajhá]]sítást, mely Mária előtt már [[I/Istár\|Istár]]nál is jelentkezett).  
 
 ## Mária mint a Szentháromság tagja
