@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ajtó/","title":"Ajtó","tags":["dg_uploaded"],"created":"2023-10-21T03:07","updated":"2023-10-25T12:22"}
+{"dg-publish":true,"permalink":"/A/Ajtó/","title":"Ajtó","created":"2023-10-21T03:07","updated":"2024-02-01T10:43"}
 ---
 
 
@@ -21,7 +21,7 @@ A **Szimbólumtár** adataival kezdjük:
 
 > A görög énekes neve `Aoidos`, ami az AOI hangok éneklésére utal. Az Aojdosz olvasat azt igazolja, hogy a görög szó valóban a szájával Ajtós, kiabáló, harsogó ember neve. A magyar [[A/AJ\|AJ]] alapvetően Száj és Nyílás. Az Ajak változata az Ajok, többes szám, vagyis Két Ajak. Az Aj-Tu egyiptomi országrész, Ázsia és Afrika közötti Ajtó neve, pontosabban **Hirus Ajtu**, a Híres Ajtó, ahol Ázsia és Afrika között száraz lábon lehetett közlekedni ([[B/Baráth Tibor\|Baráth Tibor]]). Mivel a nyelvészet azt merészeli állítani, hogy az Aj indoeurópai szó, ezért kellett ide hozni az egyiptomi magyar `Ajtu` nevét. De a japánban, és az arabban is ismert az Aj szó, ami megdönti az indoeurópai eredetet. Nekünk fontos, hogy [[A/Ajax\|Ajax]] nevét megérthessük, és Ajász formában magyar eredetűnek minősíthessük. Még sok bizonyítékot lehet hozni az Aj szó jelentését elemezve, köztük a király fogalmát, mert a király joga volt a megszólalás. Az Aoidosz tehát Szájas, Aojdosz.  { #ggmb94}
 
-- PJI ezen passzusa [[A/Audio\|audio]] címhez és bekerült.  
+- Péterfai János ezen passzusa [[A/Audio\|audio]] címhez és bekerült.  
 
 [[D/Door\|Door]] szónál legutóbb arról volt szó, hogy az ajtók, átjárók, kapuk (lásd például [[T/Tejút-kapuk\|Tejút-kapuk]] vagy a gyerekmondókában "nyitva van az aranykapu, csak bújjatok rajta") is égi eredetűek, azaz ott kell keresni őket.  
 
@@ -33,7 +33,7 @@ Legutóbb JM adataival kiegészített [[T/Tölgy\|tölgy]] címnél írottak ala
 Az ajtó tehát nemcsak átjáró, de fordulópont jelentésű is. Erről legutóbb [[H/Hostile\|hostile]] és [[K/Köldök\|köldök]] címnél is volt szó.  
 
 A magyar szóval szinten azonos baszk atea azt feltételezi, hogy ajtóban inkább az [[A/AT\|AT]] = atya, ÁT = át a túlvilágra, a tűzbe ([[A/Atar\|Atar]]: At-Ar = Tűz-Ár) értelem van meg.  
-Ami PJI száj, nyílás értelmezését illeti, láttuk, hogy a lyukak, üregek, száj jelentésű szavaknak mindig megvolt a hímségi párhuzama: lásd [[S/Száj\|száj]] (továbbá fény jelentésű latin és görög [[L/Lux\|lux]], `lykos` szavakat).  
+Ami Péterfai János száj, nyílás értelmezését illeti, láttuk, hogy a lyukak, üregek, száj jelentésű szavaknak mindig megvolt a hímségi párhuzama: lásd [[S/Száj\|száj]] (továbbá fény jelentésű latin és görög [[L/Lux\|lux]], `lykos` szavakat).  
 
 Padányi Viktor szerint szabir-magyar őseink a bejáratot "kapunak" nevezték.  
 Ajtónak csak vermeik ásott lejáratát hívták, meg a földbe süllyesztett szláv kunyhók lejáratát. Nem ismert mióta vált általánossá a házak, helyiségek, épületek bejáratait ajtónak nevezni. Az viszont szembetűnő, hogy a kapuhoz hasonlatos szimbolikus jelentése az "ajtó"-nak nincsen.  
