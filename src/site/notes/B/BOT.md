@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/BOT/","title":"BOT","tags":["dg_uploaded"],"created":"2023-11-21T11:37","updated":"2023-12-03T09:46"}
+{"dg-publish":true,"permalink":"/B/BOT/","title":"BOT","created":"2023-11-21T11:37","updated":"2024-02-02T12:48"}
 ---
 
 
@@ -17,7 +17,7 @@ Práczki István Szittya Biblia című könyvének 84. oldalán ír egyetértől
 Legutóbb amikor [[R/Rúna\|rúna]] címnél az Ipolyi által megadott ónémet `runa`, középnémet `rune` = fatörzs jelentés kapcsán a rovásbotok eszembe jutottak, rögtön a B>W változás ürügyén a [[W/Wood\|wood]] = fa fogalma is megfordult a fejemben, de egyelőre túl sok szól az ellen, hogy eredete is bot szavunk legyen. Az mindenesetre egyértelmű, hogy a (Tejút)fa a Nap Háza, és az is, hogy a BO = PA/FA elemek megfelelnek egymásnak.  
 
 > Beth-Anu jelentése Isten Háza. Bethany volt a bibliai Lázár és húgai, Mária és Márta lakóhelye, mely egyiptomi eredetre vall: Osiris és húgai Isis és Nephtys Annu házában laktak.  
-- Innen PJI ház és Ég Királynője etimonjai.  
+- Innen Péterfai János ház és Ég Királynője etimonjai.  
 
 A ([[B/Bodega\|bodega]] és) [[B/Boutique\|boutique]] szónak megfelelő dán `butik` = bolt szó láttán ötlött fel, hogy [[B/Bolt\|bolt]] szavunk bót formája az, amit BOT, [[B/BAT\|BAT]] = ház, kis ház (bódé) jelentéssel ismertünk.  
 Persze jóval több a B-D vázú szó, mely alapjelentése ház, sőt, [[P/Pajta\|pajta]] is hasonló, ahol CzF adatával kapunk más nyelvekből hasonló szavakat:  
@@ -25,7 +25,7 @@ Persze jóval több a B-D vázú szó, mely alapjelentése ház, sőt, [[P/Pajta
 
 ## Bot ismertebb eszköz jelentése
 
-Fentebb PJI adataként láttuk, hogy a bot legelső értelme faág lenne, mellé pedig saját elképzelésem is szerepeltettem.  
+Fentebb Péterfai János adataként láttuk, hogy a bot legelső értelme faág lenne, mellé pedig saját elképzelésem is szerepeltettem.  
 Bot szavunk a mai magyarban, viszont csak mint pálca, rúdszerű (hímségi) valami ismert.  
 Bot szónál írja CzF:  
 > Ezen szóban az ütés alapfogalma rejlik, mennyiben ezen eszköz kiválólag e czélra használtatik. Ennélfogva rokonai a magyar: öt (ötvös szóban), üt, pat (pata szó gyöke), pet (pete, petél szókban), bit, böt (bitó, bötü szókban), a latin `batuo`, melyből lett `baculus` (= batulus) ütőszer; a szanszkrit `badh` (üt), hellen `patassw`, franczia `bâton` (bot) és `battre` (ütni), szláv `biti` (ütni), `bitka` (verés).  
@@ -63,7 +63,7 @@ Persze nem lenne az első eset, amikor ezt a kettősséget látjuk, hiszen a [[F
 Bot-Úr ([[B/Bátor\|Bátor]], Basz-Úr, Pat-Er, Vez-Ér) rámutat, hogy a Bot/Pat lehet bot/patéló hímségi jelentésű szó és házat is jelent (minthogy az Ég bizonyos részére – ahol Orion van – is utal egyúttal).  
 A (varázs)bot [[W/Wand\|wand]] pedig azon [[V/Vándor\|vándor]] névből ered, mely lényegében a Pater orrhangos változatának is tartható.  
 
-Közben találtunk újabb eseteket is: a tüzet jelentő, de MA szerint akár Napnevet is jelenthető [[K/KUS\|KUS]] is megfelel a [[K/KAS\|kas]] és [[H/Ház\|ház]] formáknak. ([[K/KUS\|KUS]] (valamint [[K/Kut\|kut]] és [[K/Kuckó\|kuckó]]) címnél közben megállapítottuk, hogy a ([[H/Ház\|ház]] jelentésén túl) [[T/Tűz\|tűz]] szavunk k-előhangos párjának vehető.)  
+Közben találtunk újabb eseteket is: a tüzet jelentő, de Magyar Adorján szerint akár Napnevet is jelenthető [[K/KUS\|KUS]] is megfelel a [[K/KAS\|kas]] és [[H/Ház\|ház]] formáknak. ([[K/KUS\|KUS]] (valamint [[K/Kut\|kut]] és [[K/Kuckó\|kuckó]]) címnél közben megállapítottuk, hogy a ([[H/Ház\|ház]] jelentésén túl) [[T/Tűz\|tűz]] szavunk k-előhangos párjának vehető.)  
 Másrészről a [[P/PAR\|PAR]] és [[P/PER\|PER]] címnél előjövő ház jelentések mellett a Pur = Tűz jelentését kell számba venni.  
 
 Botot jelentő szavak utódnyelveinkben a latin `baculum`, görög `klēros` (lásd [[C/Clergy\|clergy]]), [[C/Canon\|canon]], [[C/Crosier\|crosier]] ([[C/Crook\|crook]] – ahol a mellékelt képen kutya is szerepel!), [[S/Sceptre\|sceptre]], [[S/Staff\|staff]], [[S/Stave\|stave]], [[S/Stick\|stick]], [[W/Wand\|wand]], stb. Az [[E/Egyiptom istenei\|Egyiptom istenei]] címnél szereplő [[F/Fomenko, Anatolij\|Fomenko]] könyvéből vett kép és képfelirat tanúsága szerint az egyiptomi "istenek," (így idézőjelbe teszi ő is) abszolút többségéhez csillagászati jelentés társítható, legalábbis a bolygót jelképező botokkal rendelkezők mindenképpen. Lásd még erről [[B/Botos istenek\|botos istenek]].  
