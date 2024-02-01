@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Balk/","title":"Balk","tags":["titleandheadingonedontmatch","multipleentries","stitched","dg_uploaded"],"created":"2023-11-09T07:00","updated":"2023-11-09T07:00"}
+{"dg-publish":true,"permalink":"/B/Balk/","title":"Balk","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-11-09T07:00","updated":"2024-02-02T12:48"}
 ---
 
 
@@ -19,7 +19,7 @@ Ami a nevet illeti, [[B/Balkán\|Balkán]] és [[B/Balog\|Balog]] címnél írot
 [[M/Mestergerenda\|Mestergerenda]]. Igei értelmeit itt mellőzzük.  
 A latin `palus` = cölöp (lásd [[P/Pale\|pale]]), amivel kapcsolatos [[P/Pilis\|Pilis]] szavunk is. Palló szavunk padló jelentésű. A falap a deszka.  
 [[B/Bálvány\|Bálvány]] szavunk szintén idetartozik. Mindezek tisztán palóc szócsoportbeli szavak.  
-Akadály, akadályoz jelentését vizsgálta VCs is, szerinte ez [[B/BAK\|bak]] szavunk, [[L/L vendéghang\|l vendéghang]]gal.  
+Akadály, akadályoz jelentését vizsgálta Varga Csaba is, szerinte ez [[B/BAK\|bak]] szavunk, [[L/L vendéghang\|l vendéghang]]gal.  
 
 Nos, valójában a [[B/Balog\|Balog]] címnél taglalt *balog*fa is megfelelne. Sőt, a [[T/Toll#Toll 2)\|toll]] címnél taglalt támasztó is olyan ötletet vet fel, mely szerint Toldi, Thor is lehetne Orion. [[B/Balog\|Balog]] címnél Orionról is volt szó.  
 
