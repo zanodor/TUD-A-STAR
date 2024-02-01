@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Ság/","title":"Ság","tags":["dg_uploaded"],"created":"2023-10-14T06:22","updated":"2023-11-25T01:59"}
+{"dg-publish":true,"permalink":"/S/Ság/","title":"Ság","created":"2023-10-14T06:22","updated":"2024-02-01T04:56"}
 ---
 
 
@@ -19,9 +19,14 @@ Ság szerepel a [[S/Sumér zodiákus\|sumér zodiákus]] Nyilasnak megfelelő [[
 
 A Falvay Károly Nagyboldogasszony című könyvének 303-304. oldalán említett V. I. Abaev oszét filológus anyaga megtalálható angol nyelven a The Scythians – nomad goldsmiths of the open steppes című kiadványban. A 48-49. oldalon a felsorolt oszét szavak között (miután kimondja, hogy a szkítáknak nem maradt fenn az írása és az oszét feliratok segíthetnek nyelvük megfejtésében) említi az oszét `sag` = szarvas szót, mely nyilván szarvas fő.  
 
-Elképzelhető a [[S/Shogun\|shogun]] címnél előjövő (japán sógun névhez hasonló) Tóth Lívia által adatolt karluk \[délkeleti türk\] nyelvű `saĝun` = sámán(?) szóban is: Sá-Gun felbontása mellett Ság-Un is értelmes lehet.  
+Elképzelhető a (japán sógun névhez hasonló) Tóth Lívia által adatolt karluk \[délkeleti türk\] nyelvű `saĝun` = sámán(?) szóban is: Sá-Gun felbontása mellett Ság-Un is értelmes lehet.  
 
 Figyeljük meg, hogy a TAG – DAG – SZAG – SÁG – ZAG mind ugyanazon minőség fejlődési szakaszai: TAG tehát napnév, hiszen TA-GA Nap Háza felbontású lehet, DAG TAG lágyulása, SZAG Napnév már perzsában kutya, SÁG/SZÁG szintén hímséget, főséget jelentő, mint a ZAG az orosz `zagoraty` = napozni szóban van jelen.  
 Igaz, azt [[S/Sacchar-\|sacchar-]], [[S/Sah\|Sahu]] és más címeknél ([[P/Palóc\|palóc]], [[B/Balog\|Balog]]; [[P/Pogány\|pogány]], stb.) írottak alapján hozzá kell tenni, hogy ezen Napnevek leginkább vagy kizárólagosan a Nap az Orionbani állásra vonatkoznak.  
 
-[[S/Szkítizmus\|Szkítizmus]] címnél Cato Töredékeiben előjön Ság Szkítia elnevezés (ami talán Saka lenne vagy Shah-ra utaló).  
+[[S/Szkítizmus\|Szkítizmus]] címnél Cato Töredékeiben előjön Ság mint Szkítia elnevezés (ami talán Saka lenne vagy shah-ra utaló).  
+
+## Sok szóval való összevetése
+
+Aczél József írja, hogy ság szavunk tömeget, [[S/Számosság\|számosság]]ot (sokat) jelent olyan szavakban mint katonaság.  
+Éppen csak a [[S/Sok\|sok]] szó hiányzik még innen.  
