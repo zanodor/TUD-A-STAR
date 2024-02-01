@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/B/Balta/","title":"Balta","tags":["dg_uploaded"],"created":"2023-11-09T04:42","updated":"2023-11-09T11:17"}
+{"dg-publish":true,"permalink":"/B/Balta/","title":"Balta","created":"2023-11-09T04:42","updated":"2024-02-02T12:49"}
 ---
 
 
 # Balta
 
-Mint hímségi fegyver, nem lepődünk meg, hogy a Bál-Ta felbontásban előtagja Nap(Isten)név. Az ilyen szóösszetételekben az utótag általában "földreleképező." Bál-Ta a Nap Tája. Hasonlóan képeztük le [[P/Plate\|plate]] szót is (ott a Nap kereksége veendő számításba).  
+Mint hímség/fegyver, nem lepődünk meg, hogy a Bál-Ta felbontásban előtagja Nap(Isten)név. Az ilyen szóösszetételekben az utótag általában "földreleképező." Bál-Ta a Nap Tája. Hasonlóan képeztük le [[P/Plate\|plate]] szót is (ott a Nap kereksége veendő számításba).  
 
 Ugyanakkor sokkal több értelme lenne a Bal-Ata formában gondolkodni, annál is inkább, mert a Nap-Atya értelmű összetétel másutt is előfordul: lásd (avar-hun változatát) Bar-Ata > [[B/Bárd\|bárd]] (szintén balta féle eszköz/fegyver), továbbá a Nap-Ata a [[N/Nabateus\|nabateus]] és [[N/Napoca\|Napoca]] névben is megtalálható (továbbá [[A/Apam Napat\|Apam Napat]] nevében is).  
 
@@ -19,7 +19,7 @@ Ugyanakkor sokkal több értelme lenne a Bal-Ata formában gondolkodni, annál i
 > Ez utóbbi magyarázattal vö. a poliszemantikus szumér `bal` alaptő következő további jelentéseit: "ausgiessen, entleeren, graben" (kiönt, kiürít, ás); vö. magyar fej (melken), fejt (azaz "lefejti" a tejet, ahogy a bort is "lefejtik" a nagyobb hordóból a kisebbe), követ fejt, fejsze, váj.  
 - Götz László könyvének 164. oldalán szumér-görög szavak párhuzamait bemutató szavak között, valamint a 377. oldalon találjuk a sumér `BAL` = balta és görög `pelekys` = balta, csatabárd, harcibárd szavakat. A török `balta` azonos a magyarral. A német `biel` = balta felhangos és hiányos. <br/>
 Másutt megadja az arab `balt` = balta szót (ld. például más szavakkal egyetemben [ezen](https://qr.ae/pvlkLa) Quora válaszban is táblázatos adatként szerepeltetve). <br/>
-GL más táblázatos adatait lásd még korábbról [[P/Plow\|plow]].  
+Götz László más táblázatos adatait lásd még korábbról [[P/Plow\|plow]].  
 
 Pap Gábor művészettörténész Icai fekete kövek rejtélye című három részes előadássorozata [első részében](https://youtube.com/watch?v=EkK4R1UaIEY) 1:52:17-nél a [[B/Bolt\|bolt]] (égbolt) szóval rokonít, etimonok ismerete hiányában. Tény, hogy a Nap is az égen van, de a bolt szót máshogy is lehet elemezni.  
 
