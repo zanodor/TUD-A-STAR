@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Taj-Ji/","title":"Taj-Ji","created":"2023-11-05T01:20","updated":"2024-02-02T03:59"}
+{"dg-publish":true,"permalink":"/T/Taj-Ji/","title":"Taj-Ji","created":"2023-11-05T01:20","updated":"2024-02-02T04:14"}
 ---
 
 
@@ -9,7 +9,7 @@ Hatalmas Egy, Hatalmas Egység, Hatalmas Egyetlen. Elvont égi főisten az ókí
 
 Ez a hatalmas egy nem más, mint a [[N/Négy#Négy és az ötödik irány\|négy és az ötödik irány]] cím/alcímnél is taglalt [[K/Közép\|közép]] (amit Pap Gábor a kínai ötödik elemnek nevez).  
 
-Jankovics Marcell Ahol a madár se jár című könyvében és másutt is szól a világtengelyt forgató kozmikus istenség légköri megtestesüléseiről. Példákat is felhoz: ilyen világtengellyel (és így a mindenkori [[S/Sarkcsillag\|Sarkcsillag]]gal és az utóbbi időkben a Göncöllel \[sok esetben a Naggyal is\]) azonosítható istenségek az azték [[T/Teszkatlipoka\|Teszkatlipoka]], a maya Hurakán (lásd [[H/Hurrikán\|Hurrikán]]), hindu [[S/Siva\|Siva]] és ókínai Taj-Ji.  
+Jankovics Marcell Ahol a madár se jár című könyvében és másutt is szól a világtengelyt forgató kozmikus istenség légköri megtestesüléseiről. Példákat is felhoz: ilyen világtengellyel (és így a mindenkori [[S/Sarkcsillag\|Sarkcsillag]]gal és az utóbbi időkben a Göncöllel \[sok esetben a Naggyal is\]) azonosítható istenségek az azték [[T/Teszkatlipoka\|Teszkatlipoka]], a maja Hurakán (lásd [[H/Hurrikán\|Hurrikán]]), hindu [[S/Siva\|Siva]] és ókínai Taj-Ji.  
 Korábban és másutt szól a szintén kozmikus világtengely-forgatónak beillő görög [[K/Khronosz\|Khronosz]] = Idő nevű istenségről, mely ugyan a Kronosz-Szaturnusszal hozatott kapcsolatba, de tudjuk, hogy a Szaturnusz és a Sarkcsillag egymással fogalmi viszonyt alkotnak.  
 A "sokfunkciós" [[S/Széth\|Széth]]ről JM nem szól, márpedig a [[T/Typhoon\|typhoon]] > [[T/Typhon\|Typhon]] = Széth vonalon haladva egyértelmű, hogy ő az egyik (ha nem a legfontosabb) ilyen alak (aki Hórusszal a köpülésben is részt vesz; lásd képet például [[F/FU\|FU]]).  
 (Ha már tájfun, lásd még a csatolt képet [[K/Kamikaze\|kamikaze]] címnél.)  
