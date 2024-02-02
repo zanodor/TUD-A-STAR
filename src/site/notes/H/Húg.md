@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Húg/","title":"Húg","tags":["dg_uploaded"],"created":"2023-10-23T04:20","updated":"2023-10-25T01:36"}
+{"dg-publish":true,"permalink":"/H/Húg/","title":"Húg","created":"2023-10-23T04:20","updated":"2024-02-02T02:35"}
 ---
 
 
@@ -25,7 +25,7 @@ Az alábbi...
 
 #### Kandra Kabos Magyar Mythologia...
 
-...című könyvéből talált info[^1] alapján (is) a `húg` és [[H/Húgy\|húgy]] = csillag szavak között azonosság van (de a [[S/Sister\|sister]] szóban is fellelhető ez):  
+...című könyvéből talált info[^1] alapján (is) a `húg` és [[H/Húgy\|húgy]] = csillag szavak között azonosság van (de a [[S/Sister\|sister]] szóban is fellelhető a csillaggal, csillagképpel való rokonítás lehetősége):  
 > Előbb láttuk, hogy az átmeneti magyar imádság a szép, ragyogó Napot "testvér"-nek tiszteli, a Holdat "asszonynénénk"-nek, a Csillagokat "hugaink"-nak, a Szelet "süvünk"-nek, sógornak, a Vizet "ángyikánk"-nak, a Tüzet "urunkbátyánk"-nak, a Földet "nagyasszonyunk"-nak.  
 
 #### Antal István Tündéres, derengő...
@@ -33,7 +33,7 @@ Az alábbi...
 ...című, az Ősi Gyökér 2006/1. számában megjelent dolgozatában amit ír:  
 > A hód is, a [[H/Hold\|Hold]] is, a [[H/Hugy\|hugy]] is, csillagot, égitestet jelentett a régi magyarban. A Kasza hugy, Kasza hugja csillagnevek még egy lehetséges szókapcsolatra figyelmeztetnek: a húg, hugocska holdacska is lehet. Ez nem feltétlenül zavaros nyelvészkedés, tapasztalom, szerintem tapasztaljuk, a mai nyelvben is, a régiben is, elő-előfordulnak szókapcsolódások, jelentésátcsúszások. Csak egyetlen régi csillagnév két változatát említem: a Szíriusz, a Nagy-kutya csillagkép csillaga Ebecske és Ebédhordó névre is hallgat. (A Nehézlábú csillag névre tévedt a tekintetem, nehéz észjárású olvasóimnak tehát: eb, és ebéd.)  
 
-Ergo itt egy istencsaláddal is lehet dolgunk. A húg lehet olyan kifejezés, mint az árja nyelvek [[D/Daughter\|daughter]]-e, ahol a lány az istennő fiatalabb önmaga. A húg ugyanis nem véletlenül egyezik a [[H/Húgy\|húgy]] és [[H/Hölgy\|hölgy]]/[[H/Hold\|Hold]] formákkal is. Így a PJI féle sumérra támaszkodó magyarázat csak részben követendő.  
+Ergo itt egy istencsaláddal is lehet dolgunk. A húg lehet olyan kifejezés, mint az árja nyelvek [[D/Daughter\|daughter]]-e, ahol a lány az istennő fiatalabb önmaga. A húg ugyanis nem véletlenül egyezik a [[H/Húgy\|húgy]] és [[H/Hölgy\|hölgy]]/[[H/Hold\|Hold]] formákkal is. Így a Péterfai János féle sumérra támaszkodó magyarázat csak részben követendő.  
 
 ## Lábjegyzetek
 
