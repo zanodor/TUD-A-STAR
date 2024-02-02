@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated"],"created":"2023-10-30T08:39","updated":"2024-02-02T03:12"}
+{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated"],"created":"2023-10-30T08:39","updated":"2024-02-02T01:48"}
 ---
 
 
@@ -25,7 +25,7 @@ Az [[I/Íj\|íj]] szavunk [[A/AJ\|AJ]] változatából eredő [[H/Haj\|haj]]- pe
 ![assets/Ijesnyil_image1.png](/img/user/I/assets/Ijesnyil_image1.png)  
 Kezdjük a szexuális tartalommal. Már [[K/Kutyanemzés\|kutyanemzés]] címnél volt bőven róla szó. Ezúttal...
 
-#### R. D. Biggs Šà.zi.ga, ancient Mesopotamian potency incantations‬...
+#### R. D. Biggs Šà\.zi\.ga, ancient Mesopotamian potency incantations‬...
 
 ...című 1967-es írását feldolgozó Oxford Encyclopaedia of Bible and Gender Studies című kötet anyagával kezdeném, mely jól mutatja, hogy a szexuális mágiás ráolvasások is a Kutyacsillag általi nemzéssel kapcsolatosak, de mindenképpen égi hátterűek (a szerkesztők ezt persze nem veszik észre):  
 > Unlike in the Sumerian "love songs," in these texts penises (`ušaru`) are mentioned by name and the suffering man's penis is commanded to be like a stick of martû-wood, extended like a mašgašu-weapon, or taut as a harp string. In one of the few instances in which female genitalia are mentioned, the woman states:  
@@ -37,7 +37,7 @@ Kezdjük a szexuális tartalommal. Már [[K/Kutyanemzés\|kutyanemzés]] címné
 > "Az én vaginám (`ūru`) egy szuka vaginája (ūru)! A pénisze egy kutya pénisze (ušaru)! Ahogy a szuka hüvelye (ūru) tartja a kutya péniszét (ušaru), (úgy tartsa az én hüvelyem \[ūru\] az ő péniszét \[ušaru\])!" (Biggs, 1967, 33. o. 14: 9-10).  
 > Eltűnt a szexuálisan izgatott nő imitációja (nedves barázdák): helyébe a bilincsek és a remegés képei léptek. A harci képek és a kötelesség nem nyilvánul meg jobban, mint ebben a példában: "Ne ürüljön ki a kosár, ne lankadjon az íj! Kezdődjön a szerelmi csatározás!" (Biggs, 1967, 37. o., 18: 3'-4').  
 > Itt a kosár (= vagina) nem ürülhet ki (utalva vagy arra, hogy szüksége van egy "merev nyílvesszőre", vagy esetleg a spermára, arra, ami általában a "kosarat" tölti). Az íjat inkább metaforaként használjuk, mint a nyilat: mint a nem tanított, meg nem feszített íj, a pénisz is petyhüdt, mielőtt használatra előkészítik.  
-- A Šà.zi.ga névről lásd lábjegyzetben: [^1].  <br/>
+- A Šà\.zi\.ga névről lásd lábjegyzetben: [^1].  <br/>
 Az akkád `ūru` = vagina, vulva szó nyilván a (betöltendő) űrre és egyúttal az égre utal. A kutya [[U/UR\|UR]] neve kankutya név, a kan helyén másutt [[S/Szuka\|szuka]] (mint [[S/Sarama\|Sarama]]) van.  
 A szexuális szimbolika úgy képzelhető el, hogy a mellékelt képen Nut az íj és Geb hímvesszeje a nyíl.  
 
@@ -475,9 +475,9 @@ Lásd még [[N/Nyíl#Nyíl feltételezett nevei magyar és más szócsoportok sz
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-A set of 7th century Akkadian incantations were designed to produce "ŠÀ.ZI.GA" ("rising of the heart"), a term for successful male sexual performance, which I translate below as "erection." In other words, they were the ancient Mesopotamian equivalent of Viagra...  
+A set of 7th century Akkadian incantations were designed to produce "ŠÀ\.ZI\.GA" ("rising of the heart"), a term for successful male sexual performance, which I translate below as "erection." In other words, they were the ancient Mesopotamian equivalent of Viagra...  
 —  
-A 7. századi akkád varázsigék egy sora a "ŠÀ.ZI.GA" ("a szív felemelkedése"), a sikeres férfi szexuális teljesítményre vonatkozó kifejezés, amelyet az alábbiakban "erekciónak" fordítok. Más szóval, ezek voltak a Viagra ősi mezopotámiai megfelelői...  
+A 7. századi akkád varázsigék egy sora a "ŠÀ\.ZI\.GA" ("a szív felemelkedése"), a sikeres férfi szexuális teljesítményre vonatkozó kifejezés, amelyet az alábbiakban "erekciónak" fordítok. Más szóval, ezek voltak a Viagra ősi mezopotámiai megfelelői...  
 
 [^2]: Lábjegyzet:  
 Despite its antisex attitude and pretensions, Christianity incorporated many sexual images, including the ancient and ubiquitous [[L/Lingam\|lingam]] symbol, evident in the church steeple, and the [[Y/Yoni\|yoni]] or womb, symbolized by the church nave. From the earliest times, in fact, temples and churches themselves served as wombs, into which the priest, with his phallus-shaped hat would enter, beseeching the Deity for fertility and fecundity. As Allegro says:  
