@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Z/Zodiákus első jegye/","title":"Zodiákus első jegye","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-08T04:59:00","updated":"2023-11-09T07:10"}
+{"dg-publish":true,"permalink":"/Z/Zodiákus első jegye/","title":"Zodiákus első jegye","tags":["Englishtexttranslated"],"created":"2023-11-08T04:59:00","updated":"2024-02-02T02:45"}
 ---
 
 
@@ -12,6 +12,7 @@ Az, hogy a zodiákus kezdőjegye ma a [[K/Kos csillagkép\|Kos csillagkép]], is
 > A "Kos jegyében" kezdődő év (Állatöv) jelképe volt a saját farkába harapó kosfejű kígyó Egyiptomban, a keltáknál, és ilyennek írták le a sátánt az előző korszak urának szerepében a keresztény egyházatyák.  
 
 Nem mindenütt volt az, például a kínaiaknál és a hinduknál is a Vízöntőt[^1] írja...
+
 #### Richard H. Allen:
 
 > On the Ganges, as in China, **Acquarius began the circle of the zodiacal signs**; and Al Biruni said that at one time in India it was Khumba, or Kumbaba \[[[Humbaba\|[Humbaba]]?\], which recalls the Elamite divinity of that name, the Κόμβη, or Storm God, of Hesychios. This, too, was the Tamil title for it; La Lande writing it Coumbum.  
@@ -23,7 +24,7 @@ A kínaiaknál viszont a 12 éves ciklusok számolását tekintve a Patkány (Ik
 > —  
 > Délkelet-Ázsiában évezredek óta használják a különböző valós vagy mitológiai állatokról elnevezett tizenkét éves ciklusokat. Ez a tizenkét éves ciklus, amelyet néha "kínai zodiákusnak" is neveznek, minden évet felváltva egy bizonyos élőlényhez társít, a tizenkét állat meghatározott sorrendjében, majd visszatér a sorrendben elsőhöz, a Patkányhoz. A ciklus tizenegyedik állata a Kutya.  
 
-Lényegében azért kezdődik Kossal a zodiákus, mert a tavaszpont ennek a jegynek kezdetén volt az időszámítás kezdetén/előtt. De a [[P/Precesszió\|precesszió]] jelensége miatt ez a tavaszpont vándorol. Ma a Halakban vagyunk, és haladunk a Vízöntő felé. RHA könyvében is írja (és mások is), hogy a nagy csillagászati eredményeknek a Bika világhónap volt az aranykora \[legalábbis az indo-európaiak és szemiták olvasatában, ezt tegyük hozzá\] és így minden ősi számunkra fennmaradt zodiákusban a Bika kezdte az évet (ahogy a héber zodiákusban is, ahol A-val, azaz aleffel jelölték).  
+Lényegében azért kezdődik Kossal a zodiákus, mert a tavaszpont ennek a jegynek kezdetén volt az időszámítás kezdetén/előtt. De a [[P/Precesszió\|precesszió]] jelensége miatt ez a tavaszpont vándorol. Ma a Halakban vagyunk, és haladunk a Vízöntő felé. Richard H. Allen könyvében is írja (és mások is), hogy a nagy csillagászati eredményeknek a Bika világhónap volt az aranykora \[legalábbis az indo-európaiak és szemiták olvasatában, ezt tegyük hozzá\] és így minden ősi számunkra fennmaradt zodiákusban a Bika kezdte az évet (ahogy a héber zodiákusban is, ahol A-val, azaz aleffel jelölték).  
 Noha már nem vagyunk a Kos világhónapban, ez a kezdés mégis megmaradt: talán a zsidó-keresztény hagyományok miatt, vagy pedig azért, mert a kis éves bontásban is a Kossal kezdődik a csillagászati tavasz, sőt, a zoroasztriánus hagyományokban az újév ([[N/Nowruz\|Nowruz]]) is. (Lásd még MA sorait, kiegészítve friss infókkal [[T/Tavaszi évkezdés\|tavaszi évkezdés]].)  
 Az alábbiak Behram Pithavala True Zoroastrian Year című írásából származnak:  
 > Zand-Akasih (also known as Irani or Greater [[B/Bundahishn\|Bundahishn]]) records in unmistakable terms the fact that the religious year was a solar tropical year of three hundred and sixty-five days, and five hours, and a fraction, which is the period taken by the Sun to return to the first degree of Aries from which it had started in the beginning, i.e., at the time of creation, as stated hereafter.  
@@ -46,7 +47,7 @@ Ahogy a Bak csillagkép látszik kezdőnek az alábbi, Krizsai Mónika Tudomány
 Bal szélen a Bak, jobb szélen záróként a Nyilas szerepel. (Ezen alábbi (epitesz5.html) oldalon található írásban szerepelt a már idetett jobb minőségű kép.)  
 
 Más.  
-Hogy a világ kezdetekor a Nap a Kos első fokán állt volna, kétséges, hiszen minden kort így hívhattak, zodiákus-kezdőként. RHA írja Taurus-nál:  
+Hogy a világ kezdetekor a Nap a Kos első fokán állt volna, kétséges, hiszen minden kort így hívhattak, zodiákus-kezdőként. Richard H. Allen írja Taurus-nál:  
 > Still this constellation is said to have begun the zodiacal series on the walls of a sepulchral chamber in the Ramesseum; and, whatever may have been its title, its stars certainly were made much of throughout all Egyptian history and religion, not only from its then containing the vernal equinox, but from the belief that the human race was created when the sun was here.  
 > —  
 > Mégis azt mondják, hogy ez a csillagkép kezdte az állatövi sorozatot a Ramesseum egyik sírkamrájának falán; és bármi is volt a címe, csillagai minden bizonnyal az egész egyiptomi történelem és vallás során nagy jelentőséggel bírtak, nemcsak azért, mert akkoriban a tavaszi napéjegyenlőséget tartalmazta, hanem azért is, mert hitték, hogy az emberi faj akkor jött létre, amikor a Nap itt volt.  
