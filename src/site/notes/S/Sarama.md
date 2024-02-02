@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sarama/","title":"Sarama","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-17T05:34","updated":"2023-12-04T01:18"}
+{"dg-publish":true,"permalink":"/S/Sarama/","title":"Sarama","tags":["Englishtexttranslated"],"created":"2023-11-17T05:34","updated":"2024-02-02T03:42"}
 ---
 
 
@@ -41,7 +41,7 @@ Ott ([[D/Drumó\|drumó]] és [[D/Dream\|dream]] címnél) a tél időszaka is e
 
 Amiről nem volt még szó, hogy Sarama két kutyája lehet Szíriusz A és B jelű csillagok. Persze ez nem lehetséges. Tilaknál is szerepel, hogy a Tejút két végében álló két kutya a két kutya.  
 A szerzőpáros további adatait lásd [[P/Psychopomp\|psychopomp]] és [[K/Kutyaáldozás\|kutyaáldozás]].)  
-DGW Dogs Die c. könyvének kivonatában szól a négyszemű kutya áldozatáról, mint a asvamedha nevű lóáldozat szertartásának kezdeti aktusáról. Bemutatja, hogy a különböző indiai szent iratok írói már nem egészen értik, mitől négy szemű a kutya, de a több lehetséges értelmezése közül a legvalószínűbbnek az tűnik, hogy a négy fő irányt, az azokba való nézést jelképezi. Ennek megfelelően az iráni Aveszta [[V/Vendidad\|Vendidad]]jában előjövő temetési rítus is hasonló nevet visel:  
+David Gordon White Dogs Die c. könyvének kivonatában szól a négyszemű kutya áldozatáról, mint a asvamedha nevű lóáldozat szertartásának kezdeti aktusáról. Bemutatja, hogy a különböző indiai szent iratok írói már nem egészen értik, mitől négy szemű a kutya, de a több lehetséges értelmezése közül a legvalószínűbbnek az tűnik, hogy a négy fő irányt, az azokba való nézést jelképezi. Ennek megfelelően az iráni Aveszta [[V/Vendidad\|Vendidad]]jában előjövő temetési rítus is hasonló nevet visel:  
 > Closest to the Vedic tradition is that of second-century B.C. Iran, as reported in the Avesta (Vendidad 8.16-18), which describes the place of a four-eyed dog (spānem čaθru čašmem) in the funerary rite known as Sag-dīd, the "dog's gaze[^1]."  
 > —  
 > A védikus hagyományhoz legközelebb a Kr. e. II. századi Iránból származó hagyomány áll, amelyről az Avesta (Vendidad 8.16-18) számol be, és amely leírja egy négyszemű kutya (spānem čaθru čašmem) helyét a Sag-dīd, a "kutya tekintete"[^1] néven ismert [[T/Temetkezés\|temetkezés]]i rítusban.  
@@ -113,7 +113,7 @@ Nem elképzelhetetlen, ahogy [[G/Galactic centre\|Galactic centre]] címnél is 
 > Adrian Gilbert azt állítja, hogy a Styx eredeti változata a Tejút volt, mivel az egyiptomiak úgy hitték, hogy a Paradicsom az Orionban található, és hogy a halott test rituális átvitele a Níluson a piramisban tartott szertartás céljából a lélek útját a Tejúton át az Orionba jelképezte. Azonban a Szíriusz is belekeveredik ebbe, mivel a királyi kamrában lévő akna az Orionra mutatott, a királynői kamrában lévő akna viszont a Szíriuszra, és ez az akna vezet a titkos kamrába.  
 - Ezen Tejútra (a lelkek szülőhelyére) való átjutásról, a perzsa Cinvat-hídról volt szó fentebb.  
 
-Az is kétségtelen, hogy a Vadász/Orion csillagkép szintén Bíró, ahogy [[K/Kilenc\|kilenc]] szónál PJI is szólt róla:  
+Az is kétségtelen, hogy a Vadász/Orion csillagkép szintén Bíró, ahogy [[K/Kilenc\|kilenc]] szónál Péterfai János is szólt róla:  
 > Amikor a Lélek a Halál után az égben, a levegőben, vagy külső szférákban halad Isten, vagy Ten felé, akkor a Hét felöl a Nyolc, majd a Kilenc következik. A Kilencségek közül kiemelkedik az etruszk Kilenc Bíró, akik a lelkeket bírálják el. Azonban Gilgames magyar hős, félisten is, végül az Alvilág bírája lesz, Kilenc csillag alatt végzi munkáját. Kilenc csillag alatt dolgozik Vezér is, vagyis Ozirisz isten, az Orion csillagképben.  
 
 #### Angelo de Gubernatis Zoological Mythology...  
