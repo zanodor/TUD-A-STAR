@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cat/","title":"Cat","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-17T08:48","updated":"2024-02-02T02:10"}
+{"dg-publish":true,"permalink":"/C/Cat/","title":"Cat","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-17T08:48","updated":"2024-02-02T02:14"}
 ---
 
 
@@ -91,4 +91,4 @@ De a [[M/Magyar\|magyar]] név is köthető a makacshoz, ahogy a konok a hunokho
 [^2]: Lábjegyzet:  
 Az angol `miss` = kisasszony tehát nem más, mint Boldogasszony lánya, [[K/Kisasszony\|Kisasszony]]. Falvay Károly Nagyboldogasszony című könyvében is írja:  
 A magyar hagyományban Nagyboldogasszony szűz leánya Kisboldogasszony, más néven Kisasszony.  
-Ez számomra arra is enged következetni, hogy ami kis alakban megvolt a hun-magyarban, az a magyarban m-előhangosan is meglehetett. Arra más esetekben is láttuk példát (akár teoretikusat), hogy a kemény előhang helyett megjelenhet puha ajakhang a szó elején.  
+Ez számomra arra is enged következtetni, hogy ami kis alakban megvolt a hun-magyarban, az a magyarban m-előhangosan is meglehetett. Arra más esetekben is láttuk példát (akár teoretikusat), hogy a kemény előhang helyett megjelenhet puha ajakhang a szó elején.  
