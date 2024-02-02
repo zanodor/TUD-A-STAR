@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/I/Ilmatar/","title":"Ilmatar","created":"2023-10-10T03:40","updated":"2024-02-02T03:10"}
+{"dg-publish":true,"permalink":"/I/Ilmatar/","title":"Ilmatar","created":"2023-10-10T03:40","updated":"2024-02-02T04:12"}
 ---
 
 
 # Ilmatar
 
-Finn ég- illetve légistennő, a kalevalai [[V/Väinämöinen\|Väinämöinen]] anyja (lásd történetet alant). JM tengeristennőnek[^1] mondja, holott a germán [[R/RÁN\|Rán]] istennő és a magyar [[T/Tenger\|tenger]] szó értelmezése óta is tudjuk, hogy a tenger eredetileg ég jelentésű, azaz Ilmatar Égistennő és az alábbiak szerint is [[M/Magna Mater\|Magna Mater]]ek sorába tartozik.  
+Finn ég- illetve légistennő, a kalevalai [[V/Väinämöinen\|Väinämöinen]] anyja (lásd történetet alant). Jankovics Marcell tengeristennőnek[^1] mondja, holott a germán [[R/RÁN\|Rán]] istennő és a magyar [[T/Tenger\|tenger]] szó értelmezése óta is tudjuk, hogy a tenger eredetileg ég jelentésű, azaz Ilmatar Égistennő és az alábbiak szerint is [[M/Magna Mater\|Magna Mater]]ek sorába tartozik.  
 [[M/MA\|MA]] címnél taglaltuk, hogy a névben meglévő finn `ilma`[^2] = lég szó eredete Ilmatarból eredhet, mintsem fordítva.  
 Péterfai János azt írja, hogy a nevet elemezni kell. Hát íme, részemről:  
 Lássuk be, hogy magyar logikával Ilmatar nem más, mint Il-Matar = Él-Matar = Él-Anya azaz [[I/Ilona\|Ilona]] és így nem Ilma-Tar = Lég-Leány/Tündér értelmű.  
