@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Y/Yew/","title":"Yew","tags":["dg_uploaded"],"created":"2023-10-29T02:36","updated":"2023-10-29T02:36"}
+{"dg-publish":true,"permalink":"/Y/Yew/","title":"Yew","created":"2023-10-29T02:36","updated":"2024-02-02T02:48"}
 ---
-
-
 
 
 # Yew
@@ -19,4 +17,4 @@ Minden továbbit lásd [[T/Tiszafa\|tiszafa]].
 
 [^1]: Lábjegyzet:  
 Ami a tiszafa kelta nevét illeti, feltűnő, hogy egyezik vele a Jankovics Marcell Mély a múltnak kútja című könyvének 307. oldalán említett görög `idé` = élőfa, erdőség szó.  
-A kelta `idho` igaz, hogy RG szerint inkább a halállal kapcsolatos, mintsem az élettel (ezért is az év utolsó, legsötétebb napjára, a téli napforduló estéjének napjára teszi). Már ránézésre is idő szavunkkal feleltettem volna meg (azon a napon ér véget az év), de a görög szó alapján lehet Isten Háza vagy Ó-Isten értelmű is.  
+A kelta `idho` igaz, hogy Robert Graves szerint inkább a halállal kapcsolatos, mintsem az élettel (ezért is az év utolsó, legsötétebb napjára, a téli napforduló estéjének napjára teszi). Már ránézésre is idő szavunkkal feleltettem volna meg (azon a napon ér véget az év), de a görög szó alapján lehet Isten Háza vagy Ó-Isten értelmű is.  
