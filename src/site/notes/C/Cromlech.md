@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cromlech/","title":"Cromlech","tags":["dg_uploaded"],"created":"2023-10-23T02:32","updated":"2023-10-25T01:11"}
+{"dg-publish":true,"permalink":"/C/Cromlech/","title":"Cromlech","created":"2023-10-23T02:32","updated":"2024-02-02T02:18"}
 ---
 
 
@@ -11,7 +11,7 @@
 - Magam a kelta `crom` = görbe, hajlott jelentéseit láttam, de a [[K/Kör\|kör]] valóban a kiinduló.  
 
 VTT **köremlék** szót látott bele. Lehet igazsága, mert a kőemlék kifejezés ma is is ismert. Így utóbbi is lehet.  
-VN rengeteget foglalkozik efféle megalitikus építményekkel Sziriat oszlopai című kiváló művében (a mellékelt képek is onnan valók).  
-![assets/Cromlech_image1.png|undefined](/img/user/C/assets/Cromlech_image1.png)  
+Várkonyi Nándor rengeteget foglalkozik efféle megalitikus építményekkel Sziriat oszlopai című kiváló művében (a mellékelt képek is onnan valók).  
+![assets/Cromlech_image1.png](/img/user/C/assets/Cromlech_image1.png)  
 
 [[C/Crom\|Crom]] Napistennel kapcsolatosan lásd helyén és [[F/Fekete napistenek\|fekete napistenek]].  
