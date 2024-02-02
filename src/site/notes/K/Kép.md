@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kép/","title":"Kép","tags":["Englishtexttranslated"],"created":"2023-10-31T10:43","updated":"2024-02-02T03:17"}
+{"dg-publish":true,"permalink":"/K/Kép/","title":"Kép","tags":["Englishtexttranslated"],"created":"2023-10-31T10:43","updated":"2024-02-02T04:13"}
 ---
 
 
@@ -11,7 +11,7 @@ Ahogy [[B/Build\|build]] címnél is szerepelt, kép megfelel \*köv szónak.
 #### Magyar Adorjánnál...
 
 ...találjuk az alábbiakat:  
-> A régi magyarban a kép szó tulajdonképpen alak, szobor értelmű volt, aminek megfelel, hogy a törökben is `kep`, `ket`, a jakut-törökben pedig `kieb` = szobor. Amely szavakból származott tehát a szerb-horvát `kip` = szobor. De a német `bild` = kép szó is bálvály szavunkra mutat rá.  
+> A régi magyarban a kép szó tulajdonképpen alak, szobor értelmű volt, aminek megfelel, hogy a törökben is `kep`, `ket`, a jakut-törökben pedig `kieb` = szobor. Amely szavakból származott tehát a szerb-horvát `kip` = szobor. De a német `bild` = kép szó is bálvány szavunkra mutat rá.  
 - Az ujgurban is `kep`.  
 CzF [[P/Példa\|példa]] szavunkkal rokonítja a német szót.  
 
