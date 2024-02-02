@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-04T01:59","updated":"2023-11-25T11:25"}
+{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["Englishtexttranslated"],"created":"2023-10-04T01:59","updated":"2024-02-02T03:47"}
 ---
 
 
@@ -105,7 +105,7 @@ A képet újabb gondolatokkal [[L/LÁB\|láb]], [[H/Harmony\|harmony]] és [[O/O
 
 #### Molnár V. József Világ-virág...
 
-...című könyvének 154-155. oldalán elemzi a mellékelt képen látható sámándobot (a jobb-bal Hold-Nap leosztás miatt [[B/Bal és jobb\|bal és jobb]] címhez is bekerült; az alsó három pötty nyilván nem az [[O/Orion övcsillagai\|Orion övcsillagai]]ra utal, hiszen a [[H/Ház\|ház]] leginkább az itt, ezen címnél is taglalt méh, Orionnal szemben; az MVJ által aposztrofált "ősök háza" szintén érdekes kifejezés):  
+...című könyvének 154-155. oldalán elemzi a mellékelt képen látható sámándobot (a jobb-bal Hold-Nap leosztás miatt [[B/Bal és jobb\|bal és jobb]] címhez is bekerült; az alsó három pötty nyilván nem az [[O/Orion övcsillagai\|Orion övcsillagai]]ra utal, hiszen a [[H/Ház\|ház]] leginkább az itt, ezen címnél is taglalt méh, Orionnal szemben; az Molnár V. József által aposztrofált "ősök háza" szintén érdekes kifejezés):  
 > A sámándobon (212. ábra) az emberről homlokát szellemet idéző madár ékesíti, az alsó világra a láb terpesze utal, belső terében, az "ősök házában" három "mag"-karika folytatja a gerinc útját. A "kar" kettős szerkezetű: a felső szalagsugaras, az alsó boltozatos holdívű. A dob-mezőn az emberalak jobbja felől, a Hold "birtokán" csillagképek, lefele sugárzó fenyő, s állatalakok idézik a Hold erejét; balja felől, a Nap "országában" csillagképek, a sámán lova: Nap-dob karika, s az emberkettős képviseli a Nap erejét.  
 
 #### Falvay Károly Nagyboldogasszony...
@@ -169,7 +169,7 @@ Ne feledjük, a fenti ábra alapján is a Kis Év utolsó hónapjaiban járunk, 
 ## Aranyos szegelet
 
 [[A/Airyana Vaeja\|Airyana Vaeja]] címnél már említésre került ez a mondai név. Ott a Zajti Ferenc Zsidó volt-e Jézus című könyvében tárgyalt Yima-monda azon adata is előkerült, miszerint Airyanem vaejo-ban az emberek [[H/Háromszáz\|háromszáz]] évig élnek. Márpedig ez a 300 tündéri vonatkozású szám. Az Aranyos Szegelet pedig nyilván a fentebb taglalt Tejút-sziget.  
-Mivel PJI Atlantiszról szóló írásában ezen nevet a Komjáthy István Mondák könyve című könyvében is előadott "Világ Rámájának Aranyos Szegelete" c. monda kapcsán úgy érinti, mint [[A/Atlantisz\|Atlantisz]]ra vonatkozó nevet, könnyen lehet, hogy Atlantisz neve is a Tejút-szigetre utaló név.  
+Mivel Péterfai János Atlantiszról szóló írásában ezen nevet a Komjáthy István Mondák könyve című könyvében is előadott "Világ Rámájának Aranyos Szegelete" c. monda kapcsán úgy érinti, mint [[A/Atlantisz\|Atlantisz]]ra vonatkozó nevet, könnyen lehet, hogy Atlantisz neve is a Tejút-szigetre utaló név.  
 Ennek tükrében At-Lan-Tisz végződése [[T/Tűz\|tűz]], mely a [[V/Vulva\|vulva]] tüze. Az Az-Lány-Tüze vagy Atya-Lánya-Tüze (nem elfeledve, hogy állítólag [[A/ATA\|ATA]] lehet nőiség is) olvasatok nyilván merészek, de nem elképzelhetetlen, hogy ilyen irányban kell keresgélni.  
 
 #### Péterfai János értelmezése szerint Atlantiszról van szó, azaz földrajzi síkon gondolkodik:  
@@ -192,7 +192,7 @@ Tudjuk számtalan följegyezésből, hogy a régiek folyóvizeken tömlők, azaz
 A jász szócsoportnak is kellett legyen valamilyen a járást, vándorlást, bolyongást, mendegélést jelentő szavának, amely tehát jázás, juzás, ijázás, jizés alakú kellett legyen. És íme a szláv nyelvekben fönn is maradott `jezditi` utazást jelentő szó. De ezen föltételezett jázás szóra utal maga a magyar jár, járás szó is, mert hiszen az r-z mássalhangzó váltakozás, különösen a szó végén, ismeretes jelenség. De ugyan e szó jésítetlen alakját is megtaláljuk az olasz `ire` (hosszú í-vel, íre-nek ejtendő) = menni igében, valamint az olasz és német `errare` és `irren` = bolyongani, tévelyegni igében is. Igaz hogy eme szavak az r hang révén kőrös szócsoportunkba tartoznak, de amint mondám, az r-z változás révén a jász szócsoporthoz is közel állóak.  
 
 [^4]: Lábjegyzet:  
-MA szerint a két külső karajalakú sziget a régiek és a kereszténység Limbus- és Purgatórium-mondái és hitregéi alapját is képezte volt.  
+Magyar Adorján szerint a két külső karajalakú sziget a régiek és a kereszténység Limbus- és Purgatórium-mondái és hitregéi alapját is képezte volt.  
 
 [^5]: Lábjegyzet:  
 Nysa valóban szintén paradicsom-kori szigetként volt számon tartva, de ugyanúgy az északi [[V/Világhegy\|Világhegy]]en, mint ahogy MA Csallóközről és a szigetről (és a négy bibliai folyóról) szóló (ide be nem tett) írása is inkább az [[A/Ardvisura Anahita\|Ardvisura Anahita]] címnél említett négy égtáj-jelző folyóra és a Világhegyre asszociál, holott a sziget valójában nem úgy keresendő a nem-Földön, ahogy gondolják. Itt két különböző hagyomány keveredéséről lehet szó leginkább, bár lehet, hogy a kettő egynek is fogatott fel.  
