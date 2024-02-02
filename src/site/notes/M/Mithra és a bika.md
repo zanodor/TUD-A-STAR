@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mithra és a bika/","title":"Mithra és a bika","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T02:41","updated":"2024-01-27T11:10"}
+{"dg-publish":true,"permalink":"/M/Mithra és a bika/","title":"Mithra és a bika","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T02:41","updated":"2024-02-02T03:29"}
 ---
 
 
 # Mithra és a bika
 
-Amint alant kiderül, Mithra nemcsak a Bikát öli le, hanem a [[P/Pleiadok\|Pleiadok]]at is (azonosítja). Már [[P/Prajapati\|Prajapati]] és [[O/Orion\|Orion]] címnél is szerepelt, hogy Orion a Pleiadokat üldözi.  
+Amint alant kiderül, Mithra nemcsak a Bikát öli le, hanem a [[P/Pleiadok\|Pleiadok]]at is (azonosítja). Már [[P/Prajapati\|Prádzsapáti]] és [[O/Orion\|Orion]] címnél is szerepelt, hogy Orion a Pleiadokat üldözi.  
 És ha már más kultúrák is szóba jöttek, szögezzük le az elején, hogy a [[G/Gilgames\|Gilgames]] eposzban Gilgames és Enkidu szintén az Ég Bikáját ölik meg. Ahogy JM is írja, a [[T/Tavaszpont\|tavaszpont]] Bikából Kosba vándorlásáról van szó.  
 
 #### Péterfai János...
@@ -23,10 +23,10 @@ A Bika tehát a természet titáni, fékezetten erőit jelenti, az isten-hős le
 A mítosz árja eredetű, Indiában is vannak nyomai, s ezért különös, hogy a bika, illetve a szarvasmarha testéből kihajtó növények motívumát régi babiloni cserépfestményeken is megtaláljuk, sőt néhány ómexikói edény rajzain; azonban semmiféle magyarázatukra nem akadtunk.  
 
 ![assets/Mithraesabika_image1.png](/img/user/M/assets/Mithraesabika_image1.png)  
-A képhez tartozó leírás JM-től:  
+A képhez tartozó leírás Jankovics Marcelltől:  
 > Mithras legismertebb ábrázolásán, a Milhras-oltárokon mint bikaölő isten világmegváltói, a földnek termékenységet adó szerepkörben jelenik meg. A Nap, a Hold, [[C/Cautes és Cautopates\|Cautes és Cautopates]] meg a nyári félév csillagképei veszik körül a Bikától a Skorpióig: a Kis Kutya, Nagy Kutya, Vízikígyó, Serleg, Holló, Oroszlán és a Szűz Kalász ([[S/Spica\|Spica]]) nevű csillaga. A jelenetet az ég bolthajtása, a Zodiákus köríve keretezi úgy, ahogyan égen az Orion fölé borul. Mithras perzsa öltözetben, jellegzetes tartásban gyűri maga alá az állatot; jobbjában rövid kard, amit a bika szívébe döf, tekintetét a Napra emeli. (A mítosz szerint Héliosz, illetve Apollón mint az Ikrek ura ad parancsot közös madarukon, a hollón keresztül a bika megölésére.) A többi csillagállat segít neki a leterítésében (149. rajz).  
 
-A bika leölését PJI is említi: szokásos világkorszak-változás mítosz. Arra utal, hogy a [[T/Tavaszpont\|tavaszpont]] átcsúszott a Kosba. Ahogy Jankovics Marcell Jelkép-kalendárium című könyvében is írja:  
+A bika leölését Péterfai János is említi: szokásos világkorszak-változás mítosz. Arra utal, hogy a [[T/Tavaszpont\|tavaszpont]] átcsúszott a Kosba. Ahogy Jankovics Marcell Jelkép-kalendárium című könyvében is írja:  
 > Sok ismert rege a héroszoknak a bikával vívott küzdelméről szól. Ezek egy része a tavaszpont birtoklásáért folyik a régi tulajdonos, a Bika, és az utód, a Kos képviselője között. Az elbeszélő ezekben a történetekben az új korszak pártján áll, ezért a Bika a letűnt világ, immár alvilág képviselője.  
 
 Másutt:  
@@ -144,7 +144,7 @@ JMJ könyvének 115. oldalán írja ([[T/Tánc\|tánc]] és [[K/Kundalini\|Kunda
 
 - Erre én is gondoltam, hogy mi van, ha csak marker, azaz jelzőcsillag Szíriusz és semmi egyéb, viszont mind a Szíriusz, mind a Pleiadok az ellentétes irányban vannak, sőt, [[A/Alcyone\|Alcyone]]-nál szereplő adatok ezeket össze is kötik.  
 
-Még egy vizsgálati szempont létezik. Ennek értelmében a bikaölő Mithra nem egy bizonyos nem oly régi korra utal, hanem egy általános primordiális eseményre (vesd össze [[K/Kozmogónia és kozmológia\|kozmogónia és kozmológia]] értelmeit). Nem állítom, hogy ez egy kozmogóniai képet ábrázol, csak arra akarom a figyelmet felhívni, hogy az Orionnal azonosuló, vagy azzal együtt álló Mithra "vér szerinti" apja is Nimrud-Orion[^3]. Azaz a történetben nem is annyira Mithra személye fontos, hanem Orioné. Még az is lehet, hogy a jelenet egy ősi Nimrudot ábrázol (PJI szerint is Mithra a Vadász) és erre lett ("fia") Mithra ráhúzva.  
+Még egy vizsgálati szempont létezik. Ennek értelmében a bikaölő Mithra nem egy bizonyos nem oly régi korra utal, hanem egy általános primordiális eseményre (vesd össze [[K/Kozmogónia és kozmológia\|kozmogónia és kozmológia]] értelmeit). Nem állítom, hogy ez egy kozmogóniai képet ábrázol, csak arra akarom a figyelmet felhívni, hogy az Orionnal azonosuló, vagy azzal együtt álló Mithra "vér szerinti" apja is Nimrud-Orion[^3]. Azaz a történetben nem is annyira Mithra személye fontos, hanem Orioné. Még az is lehet, hogy a jelenet egy ősi Nimrudot ábrázol (Péterfai János szerint is Mithra a Vadász) és erre lett ("fia") Mithra ráhúzva.  
 Egyébként hasonló (kozmogónia versus kozmológia) esetről szól JMJ [[Z/Zep Tepi\|Zep Tepi]] kapcsán is:  
 > \[While\] Zep Tepi refers in Egyptian Creation texts to the dawn and creation of the universe, it is used in this context as a more recent "rebirth" event.  
 > —  
@@ -172,7 +172,7 @@ Ugyan [[F/Firdauszi\|Firdauszi]] [[S/Shahnameh\|Shahnameh]] eposza rengeteg szer
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Még egy töredékes felirat a poetovioi Mithras-emlékek között. Értelme, már ami a néhány szavas szövegnek lehet, homályos. Így szól: ...\[ele\]vavit in modum Solis (C)auti et Cautopati in (h)onor(em)]. Azaz: ...Napisten módjára emelkedett fel. Cautes és Cautopates tiszteletére (szentelték ezt az emléket). Cautes és Cautopates a bikaölés reliefek két oldalán álló két fáklyás ifjú, - az Ikrek csillagkép Castor és Pollux csillagai \[RHA könyvében ezek a nevek nem szerepelnek\] – az Élet és Halál egységének, az Örök Élet gondolatának megtestesítői. Az elevatio fogalma pedig – szótári szinten – egyértelmű: "felemelkedés, felemelés".  
+Még egy töredékes felirat a poetovioi Mithras-emlékek között. Értelme, már ami a néhány szavas szövegnek lehet, homályos. Így szól: ...\[ele\]vavit in modum Solis (C)auti et Cautopati in (h)onor(em)]. Azaz: ...Napisten módjára emelkedett fel. Cautes és Cautopates tiszteletére (szentelték ezt az emléket). Cautes és Cautopates a bikaölés reliefek két oldalán álló két fáklyás ifjú, - az Ikrek csillagkép Castor és Pollux csillagai \[Richard H. Allen könyvében ezek a nevek nem szerepelnek\] – az Élet és Halál egységének, az Örök Élet gondolatának megtestesítői. Az elevatio fogalma pedig – szótári szinten – egyértelmű: "felemelkedés, felemelés".  
 
 [^2]: Lábjegyzet:  
 Erre értheti JM:  
