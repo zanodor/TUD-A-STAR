@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Leek/","title":"Leek","created":"2023-10-15T03:55","updated":"2024-01-30T07:23"}
+{"dg-publish":true,"permalink":"/L/Leek/","title":"Leek","created":"2023-10-15T03:55","updated":"2024-02-02T03:20"}
 ---
 
 
@@ -15,7 +15,7 @@ Póré[[H/Hagyma\|hagyma]]. Hogy mennyire összefügg [[L/Lélek\|lélek]] szavu
 - A Parfüm című filmben is elhangzik: "Minden teremtmény lelke az illata."  
 - A. K. Salmin Dogs in the traditional worldview of the Chuvash people című (igen tanulságos) tanulmányának (angolul [[K/Kutya csuvasoknál\|kutya csuvasoknál]] címnél is megtalálható) anyagában hasonlóan:  
 > A csuvas kultúrában is hasonló hiedelmeket fejeznek ki. "A csuvasok úgy tartják, hogy ha egy tál, benne kenyérdarabkákkal, a házban van, akkor az elhunyt mintha ebből a tálból inna és enne. Állítólag ezért van az, hogy az elhunyt közelébe helyezett kenyér és víz elveszti az ízét" (Nikanor, 1910: 32). A mari hiedelmek szerint "**a lélek csak szaggal** tölthető meg, vagyis csak az étel illatát vagy esszenciáját fogyaszthatja, de magát az ételt nem." (Kuznyecov, 1907: 75).  
-- A sumér `lilla` = szellem, lélek kapcsán jegyezzük meg, hogy VZs adata szerint még a sumér `lil` nemcsak lélek, hanem szél jelentésű[^1].  
+- A sumér `lilla` = szellem, lélek kapcsán jegyezzük meg, hogy Varga Zsigmond adata szerint még a sumér `lil` nemcsak lélek, hanem szél jelentésű[^1].  
 
 Lásd még a témáról (lélek helyett szellemről) [[S/SZAG\|SZAG]], [[B/Bűz\|BŰZ]] és [[D/DOH\|DOH]].  
 Lásd még [[H/Hagyma\|hagyma]], [[G/Garlic\|garlic]] és [[O/Onion\|onion]]. Lásd még továbbá [[A/Animal\|animal]] és [[S/Spirit\|spirit]].  
