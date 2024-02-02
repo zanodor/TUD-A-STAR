@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kacsa/","title":"Kacsa","tags":["dg_uploaded"],"created":"2023-11-14T05:43","updated":"2023-11-25T11:14"}
+{"dg-publish":true,"permalink":"/K/Kacsa/","title":"Kacsa","created":"2023-11-14T05:43","updated":"2024-02-02T03:14"}
 ---
 
 
@@ -11,7 +11,7 @@ Ka-Csa felbontású, ahogy...
 
 > A Kacsa és Kácsa névből a Ka lélek a Vízen fogalmat lehet kiolvasni. Eszerint a Kacsa valójában lélekmadár.  
 
-Azért is igen érdekes a szó, mert mássalhangzó-vázával lényegében nem tér el azon nevektől ([[K/Koca\|koca]], [[K/Kútya\|kútya]]), melyek a [[N/Nap háza\|Nap házá]]ra utalnak; azaz [[K/KA\|KA]] értelmét itt jobbnak látom simán "ház"-ban megállapítani. Nyilván a kacsa is a [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]]. Azaz nem határolódok el a Kacs-A felbontástól sem. A PJI által említett [[C/CSA\|CSA]] = víz lehet az ég tengerén a Tejút vize is.  
+Azért is igen érdekes a szó, mert mássalhangzó-vázával lényegében nem tér el azon nevektől ([[K/Koca\|koca]], [[K/Kútya\|kútya]]), melyek a [[N/Nap háza\|Nap házá]]ra utalnak; azaz [[K/KA\|KA]] értelmét itt jobbnak látom simán "ház"-ban megállapítani. Nyilván a kacsa is a [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]]. Azaz nem határolódok el a Kacs-A felbontástól sem. A Péterfai János által említett [[C/CSA\|CSA]] = víz lehet az ég tengerén a Tejút vize is.  
 Annál is inkább gondolom helyesnek elképzelésem, mert a latin `anas` = kacsa szóban is megvan [[A/ANA\|ANA]].  
 Hasonló a CzF által [[G/Goose\|goose]] címnél adatolt `góca`.  
 A madár = ház témáról lásd külön alcímnél [[M/Madár\|madár]].  
