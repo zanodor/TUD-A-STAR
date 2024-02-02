@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2024-02-01T04:58"}
+{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2024-02-02T03:31"}
 ---
 
 
@@ -69,9 +69,9 @@ A könyv 191. oldalán lábjegyzetben:
 
 ...című Ősi Gyökér 2005/2. sz. megjelent cikkében írja:  
 > Az értelmező szótár szerint Mária neve: héber-görög-latin eredetű; jelentése: (ismeretlen). Nyelvészek biblikus szakemberek állítják: nem lehet pontosan meghatározni a Myriam (héber), Maryam (görög), Maria (latin) női név eredeti jelentését. A mintegy hatvanféle értelmezés (tengercsepp, úrnő, tengerek csillaga stb.) a századok áhítatos tiszteletét fejezi ki. Nevét ragyogó homály borítja, titok övezi. Misztérium.  
+- De [[A/Anahita\|Anahita]] nevét és ezernyi más nevet sem oldanak meg helyesen.
 
-De [[A/Anahita\|Anahita]] nevét és ezernyi más nevet sem oldanak meg helyesen.  
-> A "Keresztneveink védőszentjeink" című könyv szerint "jelentését évezredek erőfeszítései és kísérletei sem tudták tisztázni. Vitatottak: például ezek a szófejtések: a sátánnal ellenszegülő, a szép, az Istent szerető, vagy akit Isten szeret; tudománytalan magyarázatok: a tenger csillaga, keserû tenger, úrnő stb. - de megoldást egyáltalán nem ad a helyes értelmezésre. Azt sem magyarázza, miért vitatott, vagy miért tudománytalan." Más szerző tesz még egy megjegyzést Mária névvel kapcsolatban: "Már a kereszténység előtti korban is népszerű név volt az ószövetségi zsidóság körében.  
+> A "Keresztneveink védőszentjeink" című könyv szerint "jelentését évezredek erőfeszítései és kísérletei sem tudták tisztázni. Vitatottak: például ezek a szófejtések: a sátánnal ellenszegülő, a szép, az Istent szerető, vagy akit Isten szeret; tudománytalan magyarázatok: a tenger csillaga, keserű tenger, úrnő stb. - de megoldást egyáltalán nem ad a helyes értelmezésre. Azt sem magyarázza, miért vitatott, vagy miért tudománytalan." Más szerző tesz még egy megjegyzést Mária névvel kapcsolatban: "Már a kereszténység előtti korban is népszerű név volt az ószövetségi zsidóság körében.  
 - Ezzel ellentétesen ez [alábbi](https://youtu.be/bdzCafV_biY) ÁKTV műsorában 36:20-nál KT elmondja, hogy Mária nevet nem volt szokás adni a zsidóknál és ez is bizonyítaná Jézus nem-zsidóságát.  
 
 Mózes és Áron nénje is ezt a nevet viselte, így a népszerűségét ebből gondolják. Folytatásként említi, hogy a név különben héber, eredetileg Mirjam volt, ami Úrnő, Szépséges, Reménység, Isten kedveltje, Tenger csillaga jelentésű.  
@@ -170,7 +170,7 @@ A Sirius in Ancient Greek and Roman literature című cikkben fejtegetik, hogy a
 
 
 [[E/Eire\|Eire]] címnél felemlítettük, hogy mi lenne, ha Mária nem a [[M/Marha\|marha]] szavunkból eredne mégsem, hanem az "[[A/Árja\|árja]]" (levegő) ajakhang-előtételezése lenne. Illetve valójában pont arról volt szó, hogy mi lenne, ha a Mária lenne a kiinduló oda.  
-A Mária marhából való közvetlen eredeztetésének az is ellentmond, hogy az (általán területek nevére alkalmazott) -[[I/Ia\|ia]] végződés más nevekben is szerepel; például Kornélia, Natália, a gall fenyő (nem tölgy?) istennő [[D/Druantia\|Druantia]], a tölgy (nem inkább éger?) istennő [[E/Egeria\|Egeria]], a szintén Tejút/kígyóistennő [[L/Lamia\|Lamia]], illetve PJI Atlantiszról szóló írásában azt írja, hogy az ír [[E/Eriu\|Eriu]] (lásd róla illetve a passzust [[E/Eire\|Eire]]) nevében is az -ia végződés lenne meg.  
+A Mária marhából való közvetlen eredeztetésének az is ellentmond, hogy az (általán területek nevére alkalmazott) -[[I/Ia\|ia]] végződés más nevekben is szerepel; például Kornélia, Natália, a gall fenyő (nem tölgy?) istennő [[D/Druantia\|Druantia]], a tölgy (nem inkább éger?) istennő [[E/Egeria\|Egeria]], a szintén Tejút/kígyóistennő [[L/Lamia\|Lamia]], illetve Péterfai János Atlantiszról szóló írásában azt írja, hogy az ír [[E/Eriu\|Eriu]] (lásd róla illetve a passzust [[E/Eire\|Eire]]) nevében is az -ia végződés lenne meg.  
 
 Ezért is gondoltam, hogy a Mária-jelkép kagyló arab mahar neve alapján is inkább a Magyar < Mahar < Maar < Már-ia levezetésre, melyet a Quora cikkbe is felírtam. Csak hónapokkal ezután találkoztam...  
 
@@ -182,7 +182,7 @@ Ezért is gondoltam, hogy a Mária-jelkép kagyló arab mahar neve alapján is i
 > Bennünket most elsősorban a "mahar" változat érdekel, hiszen ennek az összevont alakja jelenhet meg az idézett "mári", "maeaeri" alakokban. És akkor máris ott vagyunk – Máriánál.  
 > Emlékezzünk csak vissza: "Lassan csendítsetek, ti apró diákok, hadd aludjon Mária napfelkőttig". Vagy: "Mikor a nap nyugszik, Szűz Mária alszik levél alatt". Vagy – a legszebb és egyben legtalányosabb változat: "Elmék, anyám, elmék Máriját szolgálni. Máriját szolgálni, Szent Fiát dajkálni". (MNT 218.) Mária nevét pedig bizony sokszor énekeljük, különböző népi, félnépi, illetve nagy-egyházi énekekben hosszan elnyújtva-hajlítgatva, úgy, hogy "Máhária". Ami azt jelenti, hogy a "Magyar" és a "Má(há)ria" megjelölés – végső soron ugyanarra a szakrális (szentségi tartalmú) minőségre vonatkozhat.  
 > Ez a felismerés persze sokak számára nem hat már az újdonság varázsával. Hiszen egy nyelvészeti tárgyú debreceni szakkollégium keretében néhány évvel ezelőtt megismerkedhettünk olyan szövegfejtési példákkal, amelyekben ez a két név egymás váltópárjaként szerepelt. A legismertebb idevágó adat: Csontváry Kosztka Tivadar az egyik utolsó képének azt a címet adta, hogy "Mária kútja Názáretben". Nos, ha komolyan vesszük a művész biztatását, hogy "a nyelvpergés útján" szabad, sőt ajánlatos járnunk, akkor ez a képcím ilyen változatban is "pergethető": "Mahariak útján az Aratóban (értsd: az Arató Szűzben), de így is: "Magyariak útján az Áradatban (a Vízöntőben), esetleg éppen "a Szeretetben". (Nota bene: Csontváry nemcsak ennek a festményének a címében rejtett el mögöttes tartalmakat – ugyanezzel a "nyelvpergető" módszerrel!)  
-- Amit PG nyelvpergető módszernek hív, azt én korábban [[M/Magyar képrejtvények\|magyar képrejtvények]] címnél már taglaltam.  
+- Amit Pap Gábor nyelvpergető módszernek hív, azt én korábban [[M/Magyar képrejtvények\|magyar képrejtvények]] címnél már taglaltam.  
 [[A/A háromvadas királyfi mese\|A háromvadas királyfi mesé]]ben is például a háromszor is előjövő eper nagyon könnyen Eb-Úr-ra vonatkozhat, azaz a szavak alakváltozataival utalni lehet valami másra (rébusz-olvasat).  
 
 A következő sorokból [[T/Tigris\|Tigris]] és [[U/Urgula\|Urgula]] valamint [[M/Magura\|Magura]] címhez is jutott:  
@@ -197,7 +197,7 @@ Ha már itt tartunk, [[B/Babba Mária\|Babba Mária]] címnél tértem ki arra, 
 
 Arról, hogy a héber [[M/Miriam\|Miriam]] azonos-e a Mária névvel és hogy az egyes ilyen nevű bibliai szereplők nevei között ezek szerint logikai-mitológiai kapcsolatot lehet keresni (szó lesz ott arról, hogy Mózes ilyen nevű lánytestvérének, Miriamnak férje sokatmondóan [[C/Caleb\|Caleb]]), lásd ott.  
 
-JM-nél Szíriusszal való azonosítás is előjön(!):  
+Jankovics Marcellnél Szíriusszal való azonosítás is előjön(!):  
 > Mária és Szíriusz azonosítása nincs ellentmondásban azzal, amit fentebb Mária és a Tejút megfeleléséről írtam.  
 - [[S/Szűzanya\|Szűzanya]] és [[S/Szíriusz mint istenanya\|Szíriusz mint Istenanya]] címnél írottak szerint helytálló is.  
 
@@ -227,7 +227,7 @@ Arról több helyen volt szó, hogy Máriát nyugaton Santa, Szent Máriának mo
 
 #### Nagyné dr. Fülöp Krisztina cikkében olvasható az alábbi is:  
 
-> A Katolikus egyház Mária neveihez tulajdonságot is fűz, melyet a litánia őrzött meg számunkra, s mutatja be azt a számtalan Máriához kapcsoló neveket, melyek tulajdonságaikban élő valósággá váltak a hívők lelkében. Ilyenek például: Istennek szent anyja; Szûzeknek szent Szûze; Isten malasztnak anyja; Tisztaságos anya, Szeplőtelen szûz anya; Üdvözítőnknek szent anyja; Nagyhatalmú szent szûz; Kegyes és irgalmas Szûz; Hívséggel teljes Szûz; Igazságnak tükre; Bölcsességnek széke; Örömünknek oka; Lelki tiszta edény; Titkos értelmû rózsa; Frigynek szent szekrénye; Mennyországnak ajtaja; Hajnali szép csillag; Betegek gyógyítója; Bûnösök oltalma; Szomorúak vigasztalója; Keresztények segítsége; Magyarország oltalmazója; Angyalok királynéja; Apostolok királynéja; Mártírok királynéja; Hitvallók királynéja; Mindenszentek királynéja; Szent olvasó királynéja; Béke királynéja; Magyarok Nagyasszonya.  
+> A Katolikus egyház Mária neveihez tulajdonságot is fűz, melyet a litánia őrzött meg számunkra, s mutatja be azt a számtalan Máriához kapcsoló neveket, melyek tulajdonságaikban élő valósággá váltak a hívők lelkében. Ilyenek például: Istennek szent anyja; Szűzeknek szent Szűze; Isten malasztnak anyja; Tisztaságos anya, Szeplőtelen szűz anya; Üdvözítőnknek szent anyja; Nagyhatalmú szent szűz; Kegyes és irgalmas Szűz; Hívséggel teljes Szűz; Igazságnak tükre; Bölcsességnek széke; Örömünknek oka; Lelki tiszta edény; Titkos értelmű rózsa; Frigynek szent szekrénye; Mennyországnak ajtaja; Hajnali szép csillag; Betegek gyógyítója; Bűnösök oltalma; Szomorúak vigasztalója; Keresztények segítsége; Magyarország oltalmazója; Angyalok királynéja; Apostolok királynéja; Mártírok királynéja; Hitvallók királynéja; Mindenszentek királynéja; Szent olvasó királynéja; Béke királynéja; Magyarok Nagyasszonya.  
 
 ## Zsidó volt-e Mária? – Anahita kultusz – Mária kultusz
 
@@ -276,7 +276,7 @@ Cikkének harmadik fejezetében Mária életének 7 állomása, a hét Boldogass
 
 ## Mária eljegyzése/menyegzője
 
-Napja [[J/Január 23\|január 23]]. Lásd MVJ írását ott.  
+Napja [[J/Január 23\|január 23]]. Lásd Molnár V. József írását ott.  
 
 ## Mária Boldogasszonnyal való megfeleltetése
 
@@ -356,7 +356,7 @@ Valahol már szerepelt arról adat, hogy Mária az Ős-Éva vagy efféle hasonl�
 #### Nagyné dr. Fülöp Krisztina Mária élete, édesanyák lelke...
 
 ...című Ősi Gyökér 2006/1. sz. megjelent cikkében Daczó Árpád atya szájába adva is említi a második Évát:  
-> "De jó is volna, ha ő is így tudná meg népünk szerelmét Mária iránt, és Mária szerelmét az Ő népe iránt! És azt is, hogy ezt a szent szerelmet hogyan őrzi az a maroknyi székely nép még abban a mai inkulturációs valóságában is, mely visszavezet a kinyilatkoztatás előtti évezredekbe, egészen a proto-, vagyis az ősevangéliumig! Biztosan ez is sarkallaná a Szentatyát, hogy Csíksomlyóra jöjjön! Honnan tudta az ősmagyar, hogy azt a második Évát már kezdettől fogva Boldogasszonynak nevezze? Honnan tudta olyan biztosan azt, amit aztán maga Szűzanya pecsételt meg csodálatos hálahimnuszában, a Magnificatban, amikor egyenesen megjövendölte saját magáról: "Íme ezentúl boldognak hirdet engem minden nemzedék." (Lk 1,48) Amit a Szûzanya a jövőre mondott önmagáról, azt a magyar már évezredekkel azelőtt tudta! Honnan tudta? Hogy lehet ez? Mert hordozta a magyar az ősevangélium tudatát! És várta annak beteljesülését! Ezzel magyarázható, hogy a magyar aránylag könnyen és olyan hamar elfogadta a kereszténységet. Mert nem kényszerből lett a magyar [[K/Keresztény\|keresztény]]!  
+> "De jó is volna, ha ő is így tudná meg népünk szerelmét Mária iránt, és Mária szerelmét az Ő népe iránt! És azt is, hogy ezt a szent szerelmet hogyan őrzi az a maroknyi székely nép még abban a mai inkulturációs valóságában is, mely visszavezet a kinyilatkoztatás előtti évezredekbe, egészen a proto-, vagyis az ősevangéliumig! Biztosan ez is sarkallaná a Szentatyát, hogy Csíksomlyóra jöjjön! Honnan tudta az ősmagyar, hogy azt a második Évát már kezdettől fogva Boldogasszonynak nevezze? Honnan tudta olyan biztosan azt, amit aztán maga Szűzanya pecsételt meg csodálatos hálahimnuszában, a Magnificatban, amikor egyenesen megjövendölte saját magáról: "Íme ezentúl boldognak hirdet engem minden nemzedék." (Lk 1,48) Amit a Szűzanya a jövőre mondott önmagáról, azt a magyar már évezredekkel azelőtt tudta! Honnan tudta? Hogy lehet ez? Mert hordozta a magyar az ősevangélium tudatát! És várta annak beteljesülését! Ezzel magyarázható, hogy a magyar aránylag könnyen és olyan hamar elfogadta a kereszténységet. Mert nem kényszerből lett a magyar [[K/Keresztény\|keresztény]]!  
 
 ## Mária és Johanna
 
