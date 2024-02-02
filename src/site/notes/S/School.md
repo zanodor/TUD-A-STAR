@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/School/","title":"School","tags":["dg_uploaded"],"created":"2023-11-07T05:11","updated":"2023-12-04T01:18"}
+{"dg-publish":true,"permalink":"/S/School/","title":"School","created":"2023-11-07T05:11","updated":"2024-02-02T03:43"}
 ---
 
 
@@ -23,14 +23,14 @@ Mit alátámasztani látszik a kotáni-szaka nyelvű `ṣkalä` = hang, zaj. Alt
 
 #### Virág Kálmán...
 
-...a következő módon vezeti le üt alapszóból (PJI-nél üt az [[U/UTU\|UTU]], azaz Nap):  
+...a következő módon vezeti le üt alapszóból (Péterfai Jánosnál üt az [[U/UTU\|UTU]], azaz Nap):  
 > Itt "verik" a tanuló fejébe a tudományt, itt "üskölik". Üskölő → üsköle → (uskola) →OSKOLA, ISKOLA. Az orosz is innen veszi a fogalmat: ÜS →ÜCS `ucsénie` = tanulás, `ucsenyík` = tanuló, `ucsíty` = tanít.  
 - A törökben (a magyarul is tökéletesen értelmes) `okul` = iskola (ok jelentése náluk nyílvessző).  
 
-PJI adatát megerősíteni látszik az Alex MacBain skót-kelta etimológiai szótárában talált walesi `ysgol`, mely kelta-ír nyelven `sgoil`. A latin `schola`-ból vezeti le, de akkor a walesi miért írta ki jobban nála? Talán mert a kelta, a magyarhoz hasonlóan kerülte a mássalhangzó-torlódást, ahogy TKS is írja ezt a szót és a walesi – szintén átvételnek minősített – `ysbata` = kórház (ispotály: lásd [[I/IS\|IS]]) szót említve. Korábban viszont arról írt, hogy Európában ingyenes kórházi ellátás volt (a rómaiak ezt is át kellett, hogy vegyék, ahogy a kelta-magyarok által elkezdett úthálózatokat is).  
+Péterfai János adatát megerősíteni látszik az Alex MacBain skót-kelta etimológiai szótárában talált walesi `ysgol`, mely kelta-ír nyelven `sgoil`. A latin `schola`-ból vezeti le, de akkor a walesi miért írta ki jobban nála? Talán mert a kelta, a magyarhoz hasonlóan kerülte a mássalhangzó-torlódást, ahogy Timaru-Kast Sándor is írja ezt a szót és a walesi – szintén átvételnek minősített – `ysbata` = kórház (ispotály: lásd [[I/IS\|IS]]) szót említve. Korábban viszont arról írt, hogy Európában ingyenes kórházi ellátás volt (a rómaiak ezt is át kellett, hogy vegyék, ahogy a kelta-magyarok által elkezdett úthálózatokat is).  
 Oxford nem említi a latin szót, csak a görög `skholē`-t.  
 Lásd még arab `iskala` = lépcső, létra szót is [[S/Scale\|scale]].  
-Lásd még szinte azonos hangalakú [[S/Skol\|skol]]-nál írottakat, ill. PJI passzusát.  
+Lásd még szinte azonos hangalakú [[S/Skol\|skol]]-nál írottakat, ill. Péterfai János passzusát.  
 
 Götz László Keleten kél a Nap című könyvében hasonlítja a görög `skholē` (iskola, tanítás) szót a héber `šachal` (kioktat) igével. Nos, nem is elképzelhetetlen, hogy a [[S/Szakáll\|szakáll]] címnél taglalt sumér `sukkal` = vezér szó nyomán eredne a szó, minthogy a szakállas ember az öreg, a bölcs megjelenítője lenne, de szerintem nem ez a megoldás.  
 
