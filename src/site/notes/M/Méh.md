@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Méh/","title":"Méh","tags":["Englishtexttranslated"],"created":"2023-11-11T10:46:00","updated":"2024-01-14T01:48"}
+{"dg-publish":true,"permalink":"/M/Méh/","title":"Méh","tags":["Englishtexttranslated"],"created":"2023-11-11T10:46:00","updated":"2024-02-02T02:40"}
 ---
 
 
@@ -57,7 +57,7 @@ Práczki István Szittya Biblia című könyvében mindenütt méhet és mézet 
 #### Jankovics Marcell...
 
 ...Jelkép-kalendárium című könyvének 116. oldalán és A Nap könyve c. könyvének 107. oldalán szól a méhekről. Utóbbi könyvéből:  
-> Napállatkák voltak azok a szárnyas rovarok, melyeknek Naphoz társítható tulajdonságaik vannak és hasznosak \[lásd VZs írását [[F/Féreg\|féreg]]\]. (Vannak kivételek. A mesékben, a mesék keleti hősének párhuzamaiban az aranyhajú naphérosz feje olykor bizony tetves. A mesélő csak annyira szépíti az élet eme tudomásul vett tényét, amennyire az a Naphoz illik: aranyhajában aranybogarak tenyésznek.)  
+> Napállatkák voltak azok a szárnyas rovarok, melyeknek Naphoz társítható tulajdonságaik vannak és hasznosak \[lásd Varga Zsigmond írását [[F/Féreg\|féreg]]\]. (Vannak kivételek. A mesékben, a mesék keleti hősének párhuzamaiban az aranyhajú naphérosz feje olykor bizony tetves. A mesélő csak annyira szépíti az élet eme tudomásul vett tényét, amennyire az a Naphoz illik: aranyhajában aranybogarak tenyésznek.)  
 > A méh. Arany színű állatka, mely az aranyló mézet és a világításra szolgáló [[G/Gyertya\|gyertya]] viaszát állítja elő. Fullánkjának fájdalmas csípése a napsugarak okozta leégést asszociálja (l. még napszúrás). Első kirajzása a tavaszi napéjegyenlőség, Húsvét idejére esik Európában; ezt jelzik a "méheresztö" szentek ünnepei (Patrik: márc. 17., József: márc. 19., Benedek: márc. 21., Ambrus: ápr. 4., György: ápr. 24.)  
 > A méh "államalkotó" rovar. A méhállam uralkodóját, a hatalmasra duzzadt potrohú királynőt úgy gondozzák alattvalói, mintha istennőjük lenne. Gyermekei, a dolgozók életüket áldozzák a kaptár védelmében, férjei, a herék pedig belehalnak a vele való egyesülésbe. Csupa napmítoszi mozzanat. Figyelemre méltó, hogy a méh háziasítása a Nagy Istennő, az anyajog egyeduralmának az idejére esik (Kr. e. 6-5. évezred). A Nap anyját egyik alakjában "Nagy Méh" néven tisztelték a Közel-Keleten.  
 - Az [[A/ANA\|ANA]] címnél képpel is bemutatot hurrita/heta Hannahannah istennő is ilyen.  
@@ -77,7 +77,7 @@ Carla Ionescu, a torontói egyetem hallgatójának The Enduring Goddess: Artemis
 Az itt elmondottak mind arra utalnak, hogy a méh = anyaméh. Lásd méhről [[S/Skorpió csillagkép\|Skorpió csillagkép]]nél írottakat is. Az alábbiak pedig a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] címnél is szerepeltek:  
 Igen ám, de rovar-alakja is volt, méghozzá a több szempontból legmegfelelőbb ilyen rovar az epheszoszi [[A/Artemisz\|Artemisz]]t is jelképző méh:  
 Egyrészt a méh a [[S/Szeplőtelen fogantatás\|szeplőtelen fogantatás]] jelképe[^2], így alkalmas a Tejútanya állatalakjaként, másrészt a méh kettős jelentésű: a Tejútanya méhében hordozza a Napgyermeket is. A [[S/Skorpió csillagkép\|Skorpió csillagkép]]nél (ma így hívjuk) van tehát a Tejút-Szarvasünő/tehén méhe/méhszája/[[V/Vulva\|vulvá]]ja.  
-VN [[P/Patala\|Patala]] címnél álló sorai ide is illenek az üsző méhével (fontossága miatt [[K/Krisztus#Krisztus a szarvasfiú születése az üsző méhéből, a Tejútközpontban\|Krisztus a szarvasfiú születése az üsző méhéből, a Tejútközpontban]] cím/alcímnél is szerepelt):  
+Várkonyi Nándor [[P/Patala\|Patala]] címnél álló sorai ide is illenek az üsző méhével (fontossága miatt [[K/Krisztus#Krisztus a szarvasfiú születése az üsző méhéből, a Tejútközpontban\|Krisztus a szarvasfiú születése az üsző méhéből, a Tejútközpontban]] cím/alcímnél is szerepelt):  
 > Pátála a "verem" is, az Alvilág, az újjászületés helye. Ide szállnak le a beavatandók, s ezért kellett Arjunának "leszállnia". Pátála mélységeit "az új Nap fénye járja át", s ennek dicsőségébe jut az "újszülött", miután átment az "üsző" méhén. Ez a leírás a beavatás rítusait jelzi a szokott képletes módon. Az [[U/Üsző\|üsző]], Surabi, Visnu szent állata, a "bőség borja", a "tej és aludttej forrása", a teremtéskor a Tejtengerből "extrahálták", s innen ered a szarvasmarha vallásos tisztelete Indiában.  
 - Valójában ősi képzet; a [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]].  
 
@@ -102,7 +102,7 @@ A Szimbólumtár anyaméh címnél álló adata:
 Japán étel körülírásakor indirekt módon kiderült(?), hogy a *womb* és a *bee*, azaz a magyar méh két jelentése japánul ugyanúgy homoním szó, mint a magyarban! (A Wordsense.eu oldalról szedett japán szavak viszont nem mutatnak egyezést, de ez nem jelent semmit. Egyébként rákérdeztem Quorán, de mindenhol negatív választ kaptam.)  
 Erről [[V/Végvári József\|Végvári József]] sem szól És mégsem mozog... című írásában, de felemlíti, hogy a latinban van átfedés a szavak közt:  
 > A latin-magyar szótár szerint: `alváriam` = méhkas; `alveus` = teknő, csónak, kaptár; `alvus` = has, hajó ürege, anyaméh, méhkas (Györkösy 1986: 34).  
-- Az alvus mintha alvós, [[A/Álmos\|álmos]] alakú lenne, márpedig tudjuk, hogy az álom és halál (JM-nél asztrológiai kiindulással) magzati állapotra utal, mely magzat helye a méh.  
+- Az alvus mintha alvós, [[A/Álmos\|álmos]] alakú lenne, márpedig tudjuk, hogy az álom és halál (Jankovics Marcellnél asztrológiai kiindulással) magzati állapotra utal, mely magzat helye a méh.  
 
 Lásd még legutóbb [[K/Kaptár\|kaptár]] címnél írottakat.  
 Lásd még [[M/Masculine\|masculine]] és [[M/ME\|ME]].  
@@ -115,7 +115,7 @@ A szarvasmarha szaporító szervrendszeréről képekkel lásd [[S/Szarv\|szarv]
 
 Fentebb esett róla már szó.  
 [[K/Krisztus#Krisztus a szarvasfiú születése az üsző méhéből, a Tejútközpontban\|Krisztus a szarvasfiú születése az üsző méhéből, a Tejútközpontban]] cím/alcímnél szerepeltek az alábbiak:  
-Tulajdonképpen VN [[U/Üsző\|üsző]], [[P/Patala\|Patala]] és [[M/Méh\|méh]] címnél álló sorai ezt mondják el, csak éppen Krisztus vagy – a Szarvasnak nézett és Világfánál lenyilazott – Krisztna-[[K/Krishna\|Krishna]] maradt ki (Arjuna viszont Krishna társa és tanítványa volt, aki "leszállt" Pátálába, s ott nőül vette a "nagalik" királyának, Kauravjának Ulupi vagy Ulupl nevű lányát):  
+Tulajdonképpen Várkonyi Nándor [[U/Üsző\|üsző]], [[P/Patala\|Patala]] és [[M/Méh\|méh]] címnél álló sorai ezt mondják el, csak éppen Krisztus vagy – a Szarvasnak nézett és Világfánál lenyilazott – Krisztna-[[K/Krishna\|Krishna]] maradt ki (Arjuna viszont Krishna társa és tanítványa volt, aki "leszállt" Pátálába, s ott nőül vette a "nagalik" királyának, Kauravjának Ulupi vagy Ulupl nevű lányát):  
 > Pátála a "verem" is, az Alvilág, az újjászületés helye. Ide szállnak le a beavatandók, s ezért kellett Arjunának "leszállnia". Pátála mélységeit "az új Nap fénye járja át", s ennek dicsőségébe jut az "újszülött", miután átment az "üsző" méhén. Ez a leírás a beavatás rítusait jelzi a szokott képletes módon \[a Nap születéséséről van itt szó inkább\]. Az üsző, **Surabi**, Visnu szent állata, a "bőség borja", a "tej és aludttej forrása", a teremtéskor a Tejtengerből "extrahálták", s innen ered a szarvasmarha vallásos tisztelete Indiában.  
 - Valójában ősi képzet; a [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]].  
 
@@ -126,7 +126,7 @@ A Szarv szavunknak megfelelő Surabi név a [[S/Szarvas\|szarvas]] címnél szer
 
 ## Alsó-Egyiptom Méh és Felső-Egyiptom Sás neve
 
-Több helyen volt erről szó[^3]. Nyilván PJI is említi, de Borbola János is és Szécsi Levente is talán utalt rá. [Ezen](https://en.wikipedia.org/wiki/Lower_Egypt) oldal szerint is Alsó-Egyiptom régi neve **Ta-Mehu** volt.  
+Több helyen volt erről szó[^3]. Nyilván Péterfai János is említi, de Borbola János is és Szécsi Levente is talán utalt rá. [Ezen](https://en.wikipedia.org/wiki/Lower_Egypt) oldal szerint is Alsó-Egyiptom régi neve **Ta-Mehu** volt.  
 - Ahogy fentebb láttuk, Magyar Adorján adata szerint az egyiptomi nyelvben `mehi` alakban is rögzítették a méh nevét. Melyik az elfogadott forma?
 
 #### Jankovics Marcell is írja:  
@@ -134,7 +134,7 @@ Több helyen volt erről szó[^3]. Nyilván PJI is említi, de Borbola János is
 > A Nap anyját egyik alakjában "Nagy Méh" néven tisztelték a Közel-Keleten. Alsó-Egyiptom szimbóluma volt – [[N/Neith\|Neith]] istennő delta vidéki templomát Szaiszban a "Méh házá"-nak nevezték. Az országrész első királyainak a jelzői között szerepelt: "Ő, aki a méhhez tartozik."  
 - Méh-fáraókról másutt is volt szó.
 
-JM ezen passzusa másutt, [[H/Hunor és Magor#Égi területek földre tükrözése\|égi területek földre tükrözése]] cím/alcímnél is szerepelt. Ezen adatát is annak bizonyítékául fogtuk fel – a méh-anyaméh-Nyilas csillagkép analógia mentén – hogy a sötét félév (ahol a [[S/Skorpió csillagkép\|Skorpió csillagkép]] és a Tejútanya [[A/Anyaméh\|anyaméh]]e is van) Alsó-Egyiptomhoz tartozik, így a PJI által megadott Hun alternatív név Alsó-Egyiptomra szintén megfelel elnevezésként.  
+JM ezen passzusa másutt, [[H/Hunor és Magor#Égi területek földre tükrözése\|égi területek földre tükrözése]] cím/alcímnél is szerepelt. Ezen adatát is annak bizonyítékául fogtuk fel – a méh-anyaméh-Nyilas csillagkép analógia mentén – hogy a sötét félév (ahol a [[S/Skorpió csillagkép\|Skorpió csillagkép]] és a Tejútanya [[A/Anyaméh\|anyaméh]]e is van) Alsó-Egyiptomhoz tartozik, így a Péterfai János által megadott Hun alternatív név Alsó-Egyiptomra szintén megfelel elnevezésként.  
 
 Nagy Károly A sakkjáték eredetének története című az Ősi Gyökér 2013/3. sz. megjelent cikkében mikor a [[N/Narmer-paletta\|Narmer-palettá]]n ábrázolt összecsavarodott hosszú nyakú szörnyekkel jelképezett Felső- és Alsó-Egyiptom egyesítésének említése után azt írja, hogy az egyiptomi nyelvben a SZEMA "egyesíteni" hieroglifa az ország egységére utal, akkor a [[S/Semi-\|semi-]] szó és a fél-egész téma ötlött fel rögtön, és aztán amikor azzal folytatja, hogy az óegyiptomi írásban **Felső-Egyiptomot a SÁS, míg *Alsó*-Egyiptomot a MÉH jelképezi**, akkor a sás indo-európai hatot (lásd [[S/Six\|six]]) jelentő szavainak lehetséges kapcsolatára gondoltam (a téridő 12-es rendszerének fele 6).  
 ![assets/Méh_image4.jpeg](/img/user/M/assets/M%C3%A9h_image4.jpeg)  
@@ -146,7 +146,7 @@ A nád népe elnevezés hivatalos egyiptológusoktól származhat, ugyanis BJ m�
 
 ## Méh-tudatú volt a régi emberiség?
 
-[[M/MI#'Mi' volt a régi 'én'? Hangya/termesz vagyis inkább méh-tudatú volt a régi emberiség?\|'Mi' volt a régi 'én'? Hangya/termesz vagyis inkább méh-tudatú volt a régi emberiség?]] cím/alcímnél leginkább a mi és én fogalmain keresztül vizsgáltuk a témát, de valahol már írt erről, talán VN a termeszek kapcsán, mármint hogy ahogy (már ezek szerint is nőiségi) [[I/Isten\|Isten]] az emberiséget, úgy irányítja az anyakirálynő rovar a közösséglelkű/tudatú dolgozókat.  
+[[M/MI#'Mi' volt a régi 'én'? Hangya/termesz vagyis inkább méh-tudatú volt a régi emberiség?\|'Mi' volt a régi 'én'? Hangya/termesz vagyis inkább méh-tudatú volt a régi emberiség?]] cím/alcímnél leginkább a mi és én fogalmain keresztül vizsgáltuk a témát, de valahol már írt erről, talán Várkonyi Nándor a termeszek kapcsán, mármint hogy ahogy (már ezek szerint is nőiségi) [[I/Isten\|Isten]] az emberiséget, úgy irányítja az anyakirálynő rovar a közösséglelkű/tudatú dolgozókat.  
 
 ## Lábjegyzetek
 
