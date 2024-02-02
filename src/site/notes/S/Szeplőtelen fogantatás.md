@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szeplőtelen fogantatás/","title":"Szeplőtelen fogantatás","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T01:57","updated":"2024-01-30T07:19"}
+{"dg-publish":true,"permalink":"/S/Szeplőtelen fogantatás/","title":"Szeplőtelen fogantatás","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T01:57","updated":"2024-02-02T03:46"}
 ---
 
 
@@ -50,7 +50,7 @@ Az alábbiakban elsősorban a napfiúk szeplőtelen fogantatásáról lesz szó[
 
 Még [[A/Álmos\|Álmos]]sal kapcsolatosan felmerült másutt is, hogy hogyan lehet prototípus más népek mondáiban, ha később élt: Bíró Lajos is elmondja előadásában, hogy az Álmos és Árpád nevek inkább olyanféle mitikus őstől örökül vett rangnevek, mint ahogy Egyiptomban (az Erpat-Árpád név kapcsán is taglalt) [[O/Ozirisz\|Ozirisz]] nevét felvették, hogy vele azonosuljanak.  
 
-[[V/VAN\|VAN]], [[V/VÁN\|VÁN]], [[V/VÁNY\|VÁNY]], [[V/Vain\|vain]], [[W/Want\|want]] szavaknál írtuk, hogy bár PJI Ványt a fény módosulataként tekinti, a latin `vanus` (lásd [[V/Vain\|vain]]) és angol [[W/Want\|want]] ige éppenhogy a fény hiányát, várva várt befogadását fejezik ki.  
+[[V/VAN\|VAN]], [[V/VÁN\|VÁN]], [[V/VÁNY\|VÁNY]], [[V/Vain\|vain]], [[W/Want\|want]] szavaknál írtuk, hogy bár Péterfai János Ványt a fény módosulataként tekinti, a latin `vanus` (lásd [[V/Vain\|vain]]) és angol [[W/Want\|want]] ige éppenhogy a fény hiányát, várva várt befogadását fejezik ki.  
 Szeplőtelen azaz szűzen fogantatásról lásd még [[P/Parthenogenesis\|parthenogenesis]].  
 Jankovics Marcell Jelkép-kalendárium című könyvének azonos című fejezetében írottakat is lásd ott és másutt.  
 Közben ott arról is szó volt, hogy **félrefordítás történt** (a héber `almah` = maiden, nem virgin):  
@@ -223,7 +223,7 @@ Az elterjedt hiedelem szerint a lélek a napsugárral jut az anya testében növ
 Amikor az [alábbi](https://youtu.be/n5DW35ch1kg) ÁKA előadásban (a spirituális kérdéseket kicsit nehezen magyarázó, kicsit nehezen követhető) Bars Mária 59:31-nél és másutt, korábban is a szeplőtelen fogantatásról szól, az embernek az az érzése, hogy nem csak a testre vonatkozik a kifejezés (nos, valóban asztrális vonatkozású, hiszen Jézus is Napgyermek).  
 
 [^3]: Lábjegyzet:  
-Kollarics Gábor DCS Zep Tepis oldalán a Nílus áradásakori, nyári időszaknál írja ezt (épp 6 hónappal arrébb járunk, csak itt a Nap kel fel, nem maga a csillagkép):  
+Kollarics Gábor Dobos Csanád Zep Tepis oldalán a Nílus áradásakori, nyári időszaknál írja ezt (épp 6 hónappal arrébb járunk, csak itt a Nap kel fel, nem maga a csillagkép):  
 [[S/Sothis\|Sothis]]szal kapcsolatban bátorít minket Borbola, hogy használjuk a magyar nyelvet. Nekem a szőtt, szőttes és a szűz, szűzies ötlött fel, ami inkább arra utalna, hogy a Nílus áradásakor a Szűz csillagképből kelt fel a Nap.  
 
 [^4]: Lábjegyzet:  
