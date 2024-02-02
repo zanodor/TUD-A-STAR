@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kutya és macska/","title":"Kutya és macska","tags":["containstransclusions"],"created":"2023-11-17T09:39","updated":"2023-12-22T03:36"}
+{"dg-publish":true,"permalink":"/K/Kutya és macska/","title":"Kutya és macska","tags":["containstransclusions"],"created":"2023-11-17T09:39","updated":"2024-02-02T03:16"}
 ---
 
 
@@ -39,7 +39,7 @@ Utólag azzal egészíteném ki, hogy évköri elhelyezkedésüket tekintve a Ku
 
 #### Gyárfás Ágnes...
 
-...[[M/Molnár Ferkó mese\|Molnár Ferkó mese]] elemzésében (Ősi Gyökér 2005/4. sz. megjelent cikkében) a Ferkó által először megvett macska és kutya GYÁ-nál a keleti állatövben értelmezett és a mi Szűz-ünknek és Kos-unknak felel meg. Ez is jól értelmezhetőnek tűnik, kivált a rajzolt képpel:  
+...[[M/Molnár Ferkó mese\|Molnár Ferkó mese]] elemzésében (Ősi Gyökér 2005/4. sz. megjelent cikkében) a Ferkó által először megvett macska és kutya Gyárfás Ágnesnél a keleti állatövben értelmezett és a mi Szűz-ünknek és Kos-unknak felel meg. Ez is jól értelmezhetőnek tűnik, kivált a rajzolt képpel:  
 > Ferkó élet-halál tengelye az Oroszlán-Szűz-Mérleg és szemben a Bika-Kos-Halak tengely nyolcasában zajlik. Sorsának ez a fekvő nyolcasa válik létének talpkövévé. Itt történnek a küzdelmei, s földi javaihoz is itt jut hozzá. A nyolcas középpontjában a Sárkány /Draco/ csillagkép kis erdejében megkapta a gyűrűt, és ettől kezdve három óriás engedelmeskedik neki.  
 > ![assets/Kutyaesmacska_image1.jpeg](/img/user/K/assets/Kutyaesmacska_image1.jpeg)  
 
