@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fül/","title":"Fül","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-03T09:41","updated":"2023-11-10T06:22"}
+{"dg-publish":true,"permalink":"/F/Fül/","title":"Fül","tags":["Englishtexttranslated"],"created":"2023-10-03T09:41","updated":"2024-02-02T03:04"}
 ---
 
 
 # Fül
 
-A fül angolul [[E/Ear\|ear]], ahol sok érdekes dologról volt szó. Emlékezzünk még Pap Gábor szavaira és a nála bemutatottakra, hogy a fül sokszor hangsúlyos (elnagyolt) a népművészetben, arra célzóan, hogy az első ill. legfőbb érzékelés az igével teremtett világ hangjára utal. [[M/Menyét\|Menyét]] és [[S/Száj\|száj]] címnél esett szó fülön át nemzésről, mely a [[L/Logosz\|logosz]]ra utal FK szerint.  
+A fül angolul [[E/Ear\|ear]], ahol sok érdekes dologról volt szó. Emlékezzünk még Pap Gábor szavaira és a nála bemutatottakra, hogy a fül sokszor hangsúlyos (elnagyolt) a népművészetben, arra célzóan, hogy az első ill. legfőbb érzékelés az igével teremtett világ hangjára utal. [[M/Menyét\|Menyét]] és [[S/Száj\|száj]] címnél esett szó fülön át nemzésről, mely a [[L/Logosz\|logosz]]ra utal Falvay Károly szerint.  
 
 Fül szavunk [[F/FUL\|FUL]] etimonnal való összecsengése mellett vizsgálandó [[F/FU\|FU]] mentén is.  
 A CzF szótár a fül szóban a fel(álló) (és kiálló) értelmet keresi, azzal rokonít.   
@@ -27,7 +27,7 @@ Igaz, lehetséges, hogy itt az f-előhang csak (arabos) utólagos és a p illetv
 
 Lehet a sémi szavaknak más eredete is. Amikor MA ezen sorait olvassuk ("a besenyő bűz és büzönd szavaknak a palócoknál pül, pul, ful, fül, fülünd, pulund, pülünd szóalakot kellett megfeleljenek"), akkor kell eszünkbe jusson a [[B/Bison\|bison]], mely felveti, hogy az elefánt sémi (azaz, mondjuk ki: jász-filiszteus) neve eredetileg nem elefántra utalt. \[[[Foul\|[Foul]] címnél is megvolt.\]  
 
-A fülek kapcsán már PJI írta, hogy a fentebb említett tündérfülekkel ékesített lehetett a magyarság. Lám, mire véljük azon egyes kontinensek őslakóinak azon fülcimpahosszító szokását: amikor fülükbe egy nehéz fülbevalót tesznek, ami a fület lehúzza. Ennek vagy szakrális célja van: a teremtő hangját a tündérmagyarok a legjobban hallották.  
+A fülek kapcsán már Péterfai János írta, hogy a fentebb említett tündérfülekkel ékesített lehetett a magyarság. Lám, mire véljük azon egyes kontinensek őslakóinak azon fülcimpahosszító szokását: amikor fülükbe egy nehéz fülbevalót tesznek, ami a fület lehúzza. Ennek vagy szakrális célja van: a teremtő hangját a tündérmagyarok a legjobban hallották.  
 
 A felfelé álló fülek (nem csak kutyáé) kapcsán...
 
