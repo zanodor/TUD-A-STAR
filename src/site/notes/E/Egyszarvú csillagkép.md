@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Egyszarvú csillagkép/","title":"Egyszarvú csillagkép","tags":["dg_uploaded"],"created":"2023-11-04T10:46","updated":"2023-11-04T10:46"}
+{"dg-publish":true,"permalink":"/E/Egyszarvú csillagkép/","title":"Egyszarvú csillagkép","created":"2023-11-04T10:46","updated":"2024-02-02T02:29"}
 ---
 
 
@@ -10,7 +10,7 @@ A mellékelt, [[K/Karácsony\|Karácsony]] és (függőleges állása miatt érd
 ![assets/Egyszarvúcsillagkep_image1.png](/img/user/E/assets/Egyszarv%C3%BAcsillagkep_image1.png)  
 
 A 17. századi elnevezés és rajz azért igen félrevezető, mert a szarvat rosszul rajzolják. GYÁ [[G/Gula\|Gula]] címnél álló rajzán is a [[C/Cassiopeia\|Cassiopeiá]]hoz hasonló módon rajzolja meg a szarvat.  
-GYÁ szerint ezt a Monocerost a régiek úgy nevezték, hogy Gula (ami azért furcsa, mert Gula csk. már előjött egyszer Vízöntőként (lásd [[G/Gula#Gula 2)\|Gula]]); itt még megadja a sumér `Gu-La` = tehén (a neten ökör, de az inkább [[G/GUD\|GUD]] sumérul) jelentését és felhozza a [[G/Gulya\|gulya]] és gulyás szavainkat. Ezt a Monocerost egy [[H/Híd\|híd]]nak mondja a két part között (a híd átjáró, és a [[N/Nibiru\|Nibiru]] és [[H/Héber\|héber]] címnél is szó volt átkelésről, nem beszélve [[S/Szíriusz mozgása\|Szíriusz mozgása]] címnél írottakról).  
+Gyárfás Ágnes szerint ezt a Monocerost a régiek úgy nevezték, hogy Gula (ami azért furcsa, mert Gula csk. már előjött egyszer Vízöntőként (lásd [[G/Gula#Gula 2)\|Gula]]); itt még megadja a sumér `Gu-La` = tehén (a neten ökör, de az inkább [[G/GUD\|GUD]] sumérul) jelentését és felhozza a [[G/Gulya\|gulya]] és gulyás szavainkat. Ezt a Monocerost egy [[H/Híd\|híd]]nak mondja a két part között (a híd átjáró, és a [[N/Nibiru\|Nibiru]] és [[H/Héber\|héber]] címnél is szó volt átkelésről, nem beszélve [[S/Szíriusz mozgása\|Szíriusz mozgása]] címnél írottakról).  
 
 Dr. Gyárfás Ágnes az Ősi Gyökér 2007/1. sz. 71. oldalán Eb a hite kölykei című cikkében írja, hogy [[A/Az aranyhajú királyfik mese\|Az Aranyhajú királyfik mesé]]ben a két gyönyörű aranyhajú ifjút kutyakölykökre cserélő banya az égen a Monocérosz, Egyszarvú csillagképnek felel meg.  
 Ugyanezt írja az Ősi Gyökér 2012/1. sz. megjelent Szíriusz Boldogasszonyként való ábrázolása című cikkében.  
