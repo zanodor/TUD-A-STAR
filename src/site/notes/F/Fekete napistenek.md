@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fekete napistenek/","title":"Fekete napistenek","tags":["dg_uploaded"],"created":"2023-10-23T02:58","updated":"2023-10-25T01:17"}
+{"dg-publish":true,"permalink":"/F/Fekete napistenek/","title":"Fekete napistenek","created":"2023-10-23T02:58","updated":"2024-02-02T03:02"}
 ---
 
 
 # Fekete napistenek
 
-Már a [[S/Szláv mitológia\|szláv mitológiá]]ból ismert [[K/Khors\|Khors]] és Chernobog[^1] nevek kapcsán tárgyalt [[K/Krishna\|Krishná]]nál és [[R/RÁ\|Rá]]-nál (lásd [[K/Kara\|kara]]) is szóba került fekete értelmük. A kimmerek főistene [[C/Crom\|Crom]]/Krum/stb. neve alapján szintén fekete jelentésű lehet, hiszen PJI adata szerint is korom szavunkkal mutat egyezést. (Lásd még [[C/Cromlech\|cromlech]].)  
+Már a [[S/Szláv mitológia\|szláv mitológiá]]ból ismert [[K/Khors\|Khors]] és Chernobog[^1] nevek kapcsán tárgyalt [[K/Krishna\|Krishná]]nál és [[R/RÁ\|Rá]]-nál (lásd [[K/Kara\|kara]]) is szóba került fekete értelmük. A kimmerek főistene [[C/Crom\|Crom]]/Krum/stb. neve alapján szintén fekete jelentésű lehet, hiszen Péterfai János adata szerint is korom szavunkkal mutat egyezést. (Lásd még [[C/Cromlech\|cromlech]].)  
 
 #### Magyar Adorján írja:  
 
