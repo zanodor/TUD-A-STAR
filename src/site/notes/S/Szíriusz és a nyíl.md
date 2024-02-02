@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz és a nyíl/","title":"Szíriusz és a nyíl","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-30T07:54","updated":"2023-10-30T07:54"}
+{"dg-publish":true,"permalink":"/S/Szíriusz és a nyíl/","title":"Szíriusz és a nyíl","tags":["Englishtexttranslated"],"created":"2023-10-30T07:54","updated":"2024-02-02T03:58"}
 ---
-
-
 
 
 # Szíriusz és a nyíl
@@ -48,7 +46,7 @@ Babilonban Szíriusz neve MUL.KAK.SI.DI: a Hamlet Malma írói szerint, "aki meg
 > ![assets/Szirnyil_image3.jpeg](/img/user/S/assets/Szirnyil_image3.jpeg)  
 
 A [[T/Tír\|tír]] valóban nyíl ma is a perzsában (CzF a tör (vagy tőr?) szóhoz rokonítja).  
-A Szíriusz korábbi iráni Zend elnevezését, szintén íjász-kapcsolódással, JM-től és Tilaktól származó passzussal kiegészítve lásd [[S/Szíriusz Iránban\|Szíriusz Iránban]].  
+A Szíriusz korábbi iráni Zend elnevezését, szintén íjász-kapcsolódással, Jankovics Marcelltől és Tilaktól származó passzussal kiegészítve lásd [[S/Szíriusz Iránban\|Szíriusz Iránban]].  
 
 #### Gavin White Babylonian Star-Lore...
 
@@ -58,8 +56,8 @@ A Szíriusz korábbi iráni Zend elnevezését, szintén íjász-kapcsolódássa
 > Pabilsag nyílvesszője a Nyíl csillagképpel azonosítható (helyesebben a Szíriusz csillaggal, amely a nyári napfordulót jelzi), skorpiófarkát pedig a Skorpió fullánkjával. A Pabilsag és [[N/Ninurta\|Ninurta]] közötti szoros rokonság hozzájárulhatott ezekhez a különleges azonosításokhoz, mivel mind a Nyíl, mind a Skorpió fullánkja szorosan kapcsolódik Ninurtához az asztrológiai hagyományokban.  
 
 Fentebb volt arról szó, hogy a brahmanista hinduknál is Szíriusz a Nyilazó/Vadász:  
-A hinduknál ismert Szíriuszra a Mrigavyadha = Szarvasölő elnevezés. RHA könyvéből az derül ki, hogy ő a vadász és a nyila magából a három övcsillagból tevődik ki, azaz a csillagképek teljesen máshogy voltak megformálva.  
-Másutt RHA azt írja, hogy a [[N/Nakshatra\|nakshatra]]-névként is szereplő Mrigaçiras (Szarvas Feje) volt még a hinduk neve Orion övére, a nyílra, valamint létezett egy Isus Trikāndā neve is.  
+A hinduknál ismert Szíriuszra a Mrigavyadha = Szarvasölő elnevezés. Richard H. Allen könyvéből az derül ki, hogy ő a vadász és a nyila magából a három övcsillagból tevődik ki, azaz a csillagképek teljesen máshogy voltak megformálva.  
+Másutt Richard H. Allen azt írja, hogy a [[N/Nakshatra\|nakshatra]]-névként is szereplő Mrigaçiras (Szarvas Feje) volt még a hinduk neve Orion övére, a nyílra, valamint létezett egy Isus Trikāndā neve is.  
 Minden továbbit erről, Tilak Orionját követve is lásd [[M/Mrigashira\|Mrigashira]].  
 
 #### Noah Brosch...
@@ -92,7 +90,7 @@ Egy újdonsült ("fringe" kutatóként[^3] nyilván rengeteg zagyvalékkal elő�
 > —  
 > De – és ez az a kulcsfontosságú szempont, ami a vitán kívülre került – a Szíriusz nem az egyetlen csillag volt, amely ezt a "nyilat" alkotta, amely része volt a mélységet mérő "merőleges vonalnak". Kollégája ezekben a feladatokban a [[C/Canopus\|Canopus]] volt, amelyet már azonosítottunk a merőlegessel, ha csak a 'nehéz' fogalmában is. Az egyik ok, amiért a Szíriuszt és a Canopust a mélység mérésének tekintik, az az, hogy a Canopus gyakorlatilag közvetlenül délre helyezkedik el a Szíriusztól. Vizuálisan tehát a Szíriuszt és a Canopust összekötő vonal egy "függőleges vonalnak" tekinthető, amelynek alján a Canopus a súly. Mivel a Canopus volt a "nyílás" csillaga, rá kell jönnünk, hogy a Mélységnek ez a "mérése" nem kizárólag a Szíriusz műve volt - mivel a mérés nyilvánvalóan a Canopustól, a "plafontól" venné a mérést, ahová a Mélység vizei emelkedhettek, mielőtt a ciszterna túlcsordul és elárasztja az édesvizeket. Befejezésül egy utolsó idézetsorozat a Kánopusz Kinyilatkoztatásából: "A csillagászati mitológiában tehát úgy tűnt, hogy a Szíriusz és a Canopus a Canopus által elzárt lyukkal játszik. Ha a Canopust fa alakjában kivágták, megnyílt a Szakadék és annak sós vize: özönvíz. Ha ugyanakkor a Szíriusz belepottyant a Canopus lyukába, megmérve a Szakadék mélységét, az eredmény tűz lett.  
 
-De Coppens mellett mások is foglalkoznak a témával, például a Diagnosys2012 weblapon, melyről szedett infokat egy Thunderbolt fórum-hozzászóló hozza elő:  
+De Coppens mellett mások is foglalkoznak a témával, például a Diagnosys2012 weblapon, melyről szedett infókat egy Thunderbolt fórum-hozzászóló hozza elő:  
 > Murray Hope concluded from her study of Egyptian mythology that Sirius was responsible for a change in the Earth's orbit, resulting in the 5 extra ("epagomenal") days and also, possibly, the axis tilt which causes the four seasons. She also concluded that Sirius would be somehow involved with an imminent "evolutionary quantum leap" for mankind.  
 > —  
 > Murray Hope az egyiptomi mitológia tanulmányozásából arra a következtetésre jutott, hogy a Szíriusz volt felelős a Föld pályájának megváltozásáért, ami az 5 extra ("epagomenális") napot eredményezte, és valószínűleg a tengely dőlését is, ami a négy évszakot okozza. Arra is következtetett, hogy a Szíriusznak valamilyen módon köze van az emberiség közelgő "evolúciós kvantumugrásához".  { #lbseo8}
