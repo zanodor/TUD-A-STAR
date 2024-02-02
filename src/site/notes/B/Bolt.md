@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bolt/","title":"Bolt","tags":["titleandheadingonedontmatch","multipleentries","stitched","dg_uploaded"],"created":"2023-10-10T10:45","updated":"2023-12-01T07:13"}
+{"dg-publish":true,"permalink":"/B/Bolt/","title":"Bolt","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-10T10:45","updated":"2024-02-02T01:29"}
 ---
 
 
 # Bolt 1)
 
-A magyar kétjelentésű szót PJI említi alant. Valóban igaza van az elárusító hely értelme kapcsán. Ahogy az égbolton a csillagok (melyek B=F azonosság alapján is [[F/Folt\|folt]] = csillag értelemben számolhatók), úgy a boltban a portékák fényes, csábító dolgok, melyeket az ember megkíván és megvesz. Persze nem mondanám, hogy csak a sátáni-sárkányi természetünket kielégíteni vágyó Kali Yuga [[M/Materializmus\|materializmus]]ában létezhetnek boltok.  
+A magyar kétjelentésű szót Péterfai János említi alant. Valóban igaza van az elárusító hely értelme kapcsán. Ahogy az égbolton a csillagok (melyek B=F azonosság alapján is [[F/Folt\|folt]] = csillag értelemben számolhatók), úgy a boltban a portékák fényes, csábító dolgok, melyeket az ember megkíván és megvesz. Persze nem mondanám, hogy csak a sátáni-sárkányi természetünket kielégíteni vágyó Kali Yuga [[M/Materializmus\|materializmus]]ában létezhetnek boltok.  
 
 Pap Gábor Icai fekete kövek rejtélye című három részes [előadássorozata 1. részében](https://www.youtube.com/watch?v=EkK4R1UaIEY) 1:52:17-nél az éppen ott elemzett [[B/Balta\|balta]] szóval rokonít, etimonok ismerete hiányában.  
 
@@ -25,7 +25,7 @@ Amennyiben Ég-Bót felfogásban tekintünk rá, akkor BOT = Ház, természetese
 
 Boltos fiúk jönnek elő a [[Z/Zöld király mese\|Zöld király mesé]]ben; a boltos azt jelenti, hogy az égbolton kell keresni eredetüket.  
 
-Vault és bolt kapcsán lásd írást [[A/Aszklépiosz\|Aszklépiosz]]. Hitetetlen vagy sem, az ott taglalt, ismeretlen eredetűnek mondható lengyel égboltra utaló `sklepienie` (meg nem határozott) törzsöke, `sklep` = boltot jelent, ugyanúgy, ahogy a magyarban is megvan ez az összefüggés. (Be is tettem világ és virág jelentésű orosz szavak mellé [[S/Szláv nyelvek\|szláv nyelvek]] címhez.)  
+Vault és bolt kapcsán lásd írást [[A/Aszklépiosz\|Aszklépiosz]]. Hitetetlen vagy sem, az ott taglalt, ismeretlen eredetűnek mondható lengyel égboltra utaló `sklepienie` (meg nem határozott) törzsöke, `sklep` = boltot jelent, ugyanúgy, ahogy a magyarban is megvan ez az összefüggés. (Be is tettem világ és virág jelentésű orosz szavak mellé [[S/Szláv#Szláv nyelvek\|szláv nyelvek]] címhez.)  
 [[A/Aszklépiosz\|Aszklépiosz]] címnél a [[B/Bolt#Bolt 2)\|bolt]] villám értelme is előkerült.  
 
 # Bolt 2)
