@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/W/Whiskey/","title":"Whiskey","tags":["dg_uploaded"],"created":"2023-10-25T02:10","updated":"2023-11-02T05:12"}
+{"dg-publish":true,"permalink":"/W/Whiskey/","title":"Whiskey","tags":["Englishtexttranslated"],"created":"2023-10-25T02:10","updated":"2024-02-02T04:10"}
 ---
 
 
@@ -16,7 +16,7 @@ Ezen `uisce` szó nem az iszok szavunkat, de ezek szerint nem is [[U/Üszög\|ü
 
 #### Zentai Ákos...
 
-...szerint ugyanúgy vizecskét jelent, mint [[V/Vodka\|vodka]]. PJI helyesli:  
+...szerint ugyanúgy vizecskét jelent, mint [[V/Vodka\|vodka]]. Péterfai János helyesli:  
 > Whisky és Vodka Vizecske értelme helyes. A Whisky még Isteni Ital is.
  
 Nemcsak a whisky és a vodka indul ki a víz értelemből, hanem a [[H/Hooch\|hooch]] is. Olvasom valahol:  
