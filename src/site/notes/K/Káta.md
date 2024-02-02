@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/K/Káta/","title":"Káta","tags":["dg_uploaded"],"created":"2023-11-23T06:08","updated":"2023-11-23T06:08"}
+{"dg-publish":true,"permalink":"/K/Káta/","title":"Káta","created":"2023-11-23T06:08","updated":"2024-02-02T03:16"}
 ---
 
 
 # Káta
 
-[[C/City\|City]] és [[G/GAD\|GAD]] címnél is szerepelt a PJI által említett Káta:  
+[[C/City\|City]] és [[G/GAD\|GAD]] címnél is szerepelt a Péterfai János által említett Káta:  
 > \[A szkíta város\] Tungátai városa Tun-Kátai értelmű. A Káta kb. Fő-Hely, ami kifejezetten Várost jelent. A Tun a Tün változata, ami magyar szó, és Isten az elsődleges értelme. Ez a város Isten Városa értelmet visel.  
 > Káta ma is élő helynév, például Nagykáta névben. További szkíta városok amelyek kátát tartalmazzák: Kraknakátai, Szalmakátai, Szakakátai, Giaiukátai.  
-- PJI adatát alátámasztandó, a kelta-ír `gcathair` = város.  
+- Péterfai János adatát alátámasztandó, a kelta-ír `gcathair` = város.  
 
 Na most, a helyzet az, hogy Pintye Mihály Besenyők és besgurok című Ősi Gyökér 2005/1. sz. megjelent cikkében és Anonymus végzetes névcseréje – Kik voltak a besenyők? c. az Ősi Gyökér 2007/2-3. sz. megjelent cikkében írottak[^1] alapján, ahol a Konstantin császár által felsorolt káta nevű besenyő földvárakról tesz említést, kiderül, hogy valójában a földvár jelentés vitetett át város jelentésre. Honnan tudjuk ezt? Talán onnan, hogy a káta nagyon úgy tűnik nekem, mintha olyan Tejútra vonatkozó értelme lenne, mint az [[A/Árok\|árok]] és [[D/Debre\|debre]] szavaknak. [[K/KÁD\|Kád]] is árok formájú. Az már csak megerősítés, hogy a kota, [[K/Kútya\|kútya]] és hasonló nevek ház jelentése is a [[N/Nap háza\|Nap házá]]ra, a Tejútra vonatkoznak.  
 
