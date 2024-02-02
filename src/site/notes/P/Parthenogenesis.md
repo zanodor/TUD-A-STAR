@@ -1,28 +1,11 @@
 ---
-title: Parthenogenesis
-aliases:
-  - parthenogenesis
-status: dg_uploaded
-tags:
-  - Englishtexttranslated
-share: true
-dg-publish: true
-dg-created: 2023-11-11T12:17
-dg-updated: 2024-01-20T04:02
-dg_upload_status: VNC done
-date created: 2022-12-14
-date modified: 2024-01-20
-ghrepoURL:
-  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/P/Parthenogenesis.md
-  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/P/Parthenogenesis.md
-  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/P/Parthenogenesis.md
-  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/P/Parthenogenesis.md
-  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/P/Parthenogenesis.md
+{"dg-publish":true,"permalink":"/P/Parthenogenesis/","title":"Parthenogenesis","tags":["Englishtexttranslated"],"created":"2023-11-11T12:17","updated":"2024-02-02T03:37"}
 ---
+
 
 # Parthenogenesis
 
-Szűzként fogantatás. A háttérben a görög `parthenosz` = szűz (MA írja, hogy a [[P/Párta\|pártá]]t viselők a szűzek), és az a `partheniasz` áll, mely átment a latinba is: `partheniæ` = szeplőtelenül fogant fiak, Valpy adata szerint.  
+Szűzként fogantatás. A háttérben a görög `parthenosz` = szűz (Magyar Adorján írja, hogy a [[P/Párta\|pártá]]t viselők a szűzek), és az a `partheniasz` áll, mely átment a latinba is: `partheniæ` = szeplőtelenül fogant fiak, Valpy adata szerint.  
 
 #### Magyar Adorján írja:
 
@@ -48,8 +31,8 @@ Az [alábbi](https://www.cell.com/current-biology/pdf/S0960-9822(15)00782-4.pdf)
 A fenti tanulmány más adata szerint a héber `almah` = szűz. Ugyan első megérzésem az volt, hogy ez [[A/Alma\|alma]] szavunkkal azonos ([[A/Alma Mater\|Alma Mater]] is létezik ugye), könnyen lehet, hogy az Al itt névelő és a szóvégi [[H/H\|h]] nem hagyható el. Azaz mah = mag, mint a [[M/Magda\|Magda]] és [[M/Maiden\|maiden]] nevekben illetve elődjében. A lényeg, ahogy az [alábbi](https://carm.org/isaiah-7-14-virgin) oldal is taglalja, hogy félrefordítás történt (a héber [almah](https://en.m.wikipedia.org/wiki/Almah) = maiden, nem virgin; több címnél volt arról szó, hogy a szűz aspektusa a Tejútanyának (násza előtt) lány, tündér[^1]):  
 > As it turns out, even the most famous speculation about parthenogenesis, Jesus Christ's birth, owes its existence not to a miracle but to a human error during the translation of Isaiah 7:14 from Hebrew to Greek: The Hebrew word `almah` can refer to a young woman of marriageable age, whether married or not. The 'young woman' became a 'virgin' in the gospel according to Matthew, where `almah` was translated as the Greek `parthenos`.  
 > —  
-> Mint kiderült, még a parthenogenezissel kapcsolatos leghíresebb spekuláció, Jézus Krisztus születése sem egy csodának, hanem egy emberi hibának köszönheti létét az Ézsaiás 7:14 héberről görögre történő fordítása során: a héber `almah` szó utalhat egy fiatal, házas korú nőre, akár házas, akár nem. Az "ifjú asszony" a Máté evangéliumában "szűz" lett, ahol az `almah` szót a görög `parthenosz` szóval fordították.  
-^fug3hb
+> Mint kiderült, még a parthenogenezissel kapcsolatos leghíresebb spekuláció, Jézus Krisztus születése sem egy csodának, hanem egy emberi hibának köszönheti létét az Ézsaiás 7:14 héberről görögre történő fordítása során: a héber `almah` szó utalhat egy fiatal, házas korú nőre, akár házas, akár nem. Az "ifjú asszony" a Máté evangéliumában "szűz" lett, ahol az `almah` szót a görög `parthenosz` szóval fordították.  { #fug3hb}
+
 
 Ahogy [[B/Bibliai félrefordítások\|bibliai félrefordítások]] címnél is szerepelt, egyáltalán nem mindegy, hogy a biológiailag lehetetlen [[S/Szeplőtelen fogantatás\|szeplőtelen fogantatás]]t is (meg a zsidók kultúraalapító szerepét) elhisszük (mert hogy előbbi csodaszámba megy), vagy ész érvekkel rámutatunk, hogy eredetileg asztro-mitológiai háttér szolgált a "történelmi" alakok megszemélyesítéséhez.  
 
@@ -90,7 +73,7 @@ Legutóbb [[S/Száj\|száj]] és [[K/Kutyanemzés\|kutyanemzés]] címnél szere
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-MA Csodaszarvasában írja:  
+Magyar Adorján Csodaszarvasában írja:  
 A magyar leány szónak régen szűz értelme is volt. Leány értelme volt az ónémet nyelvben a magd, magda szónak is, csakhogy itten már árja félreértéssel van dolgunk, mert mi tudjuk hogy [[I/Ilona\|Ilona]] Istennőnk épen ellenkezőleg a [[M/Magyar\|magyar]] vagy Magar nevet násza után veszi föl, vagyis amikor már többé nem leány hanem "[[B/Boldogasszony\|Boldogasszony]]."  
 —  
 Közben [[A/Alma\|alma]] címnél írottakat kicsit kiegészítettük. Az [alábbi](https://en.m.wiktionary.org/wiki/almah#English) oldal adata szerint az angolban ilyen alma/almah néven utaltak egyiptomi énekes/(has)táncos nőre, sőt, prostituáltra is. Utóbbi azért érdekes, mert a [[S/Szajha\|szajha]]/[[K/Kurva\|kurva]] is mindig a Tejútanya tündér/szépasszony-alakja. Mint kiderül ennek a szónak eredetije az arab `ʿālima` = énekes, ahol ugyanez igeként `ʿālima` = tudni (tény, hogy a dalnokok, bárdok is táltosok, azaz mindentudók). Az arab ʿālima eredete talán egy is lehetne a héberével; ki tudja, de azt se feledjük, hogy a tudás fája is almafa volt.  
