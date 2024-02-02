@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Therapy/","title":"Therapy","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-27T10:21","updated":"2023-11-25T11:27"}
+{"dg-publish":true,"permalink":"/T/Therapy/","title":"Therapy","tags":["Englishtexttranslated"],"created":"2023-10-27T10:21","updated":"2024-02-02T04:05"}
 ---
 
 
@@ -29,7 +29,7 @@ Egyes állatoknak és bőreiknek gyógyító hatást tulajdonítottak. Előbb sz
 > Plutarkhosz, aki beszámol arról, hogy a görögök a kölyökkutyákat különböző gyógyászati szertartásokban használták; például ezeket a kölyköket a beteg beteg beteg testrészein átjátszották, hogy a betegséget a beteg emberről átvigyék az állatra. Ld: Plutarkhosz, Quaest. Roman 68[^2].  
 > Plinius leírja, hogy a kölyökkutyákat a beteg gyomra, belei és más testrészei fölé tartották: a kutyák elpusztultak, a beteg ember pedig meggyógyult. Ld: Nat. Hist. 30.42-43; 30.64. Az élő kutyák vagy ürülékük használatával gyógyítható betegségek teljes listáját lásd: E. E. Burris, "The Place of the Dog in Superstition as Revealed in Latin Literature", Classical Philology 30 (1935), pp. 32-42.  
 
-DGW Dogs Die című könyvének 294-295. oldalán szól kutyával kapcsolatos terápiás rítusról.  
+David Gordon White Dogs Die című könyvének 294-295. oldalán szól kutyával kapcsolatos terápiás rítusról.  
 
 #### Sophia Menache Dogs God's Worst Enemies?...
 
