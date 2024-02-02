@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Taj-Ji/","title":"Taj-Ji","tags":["dg_uploaded"],"created":"2023-11-05T01:20","updated":"2023-11-05T01:20"}
+{"dg-publish":true,"permalink":"/T/Taj-Ji/","title":"Taj-Ji","created":"2023-11-05T01:20","updated":"2024-02-02T03:59"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Hatalmas Egy, Hatalmas Egység, Hatalmas Egyetlen. Elvont égi főisten az ókínai mitológiában. A Han-kori szövegekben (Kr. e. 3. - Kr. u. 3. sz.) csillagnév. Taj-Ji baljában a Nagy Medve rúdját, jobbjában a [[S/Sarkcsillag\|Sarkcsillag]]ot tartja (vagy a Sarkcsillagon lakik). A világtengelyt (is) megszemélyesítő főistenek (maja Hurakán, azték [[T/Teszkatlipoka\|Teszkatlipoka]], hindu [[S/Siva\|Siva]]) kínai megfelelője.  
 
-Ez a hatalmas egy nem más, mint a [[N/Négy#Négy és az ötödik irány\|négy és az ötödik irány]] cím/alcímnél is taglalt [[K/Közép\|közép]] (amit PG a kínai ötödik elemnek nevez).  
+Ez a hatalmas egy nem más, mint a [[N/Négy#Négy és az ötödik irány\|négy és az ötödik irány]] cím/alcímnél is taglalt [[K/Közép\|közép]] (amit Pap Gábor a kínai ötödik elemnek nevez).  
 
 Jankovics Marcell Ahol a madár se jár című könyvében és másutt is szól a világtengelyt forgató kozmikus istenség légköri megtestesüléseiről. Példákat is felhoz: ilyen világtengellyel (és így a mindenkori [[S/Sarkcsillag\|Sarkcsillag]]gal és az utóbbi időkben a Göncöllel \[sok esetben a Naggyal is\]) azonosítható istenségek az azték [[T/Teszkatlipoka\|Teszkatlipoka]], a maya Hurakán (lásd [[H/Hurrikán\|Hurrikán]]), hindu [[S/Siva\|Siva]] és ókínai Taj-Ji.  
 Korábban és másutt szól a szintén kozmikus világtengely-forgatónak beillő görög [[K/Khronosz\|Khronosz]] = Idő nevű istenségről, mely ugyan a Kronosz-Szaturnusszal hozatott kapcsolatba, de tudjuk, hogy a Szaturnusz és a Sarkcsillag egymással fogalmi viszonyt alkotnak.  
