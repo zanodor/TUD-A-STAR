@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2024-01-27T11:17"}
+{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2024-02-02T04:09"}
 ---
 
 
@@ -172,7 +172,7 @@ Szintén szerepelt [[T/Tavaszi évkezdés\|tavaszi évkezdés]]nél:
 [[C/Canopus\|Canopus]] és a [[S/Szíriusz és a nyíl\|Szíriusz és a nyíl]] címnél is szerepelt a Hamlet Malmából származó passzus:  
 > A babilóniai **újév** rituális szövege így szólítja meg a Szíriuszt: "mulKAK.SI.DI, aki megméri a tengerek mélyét". A [[M/MUL\|MUL]] egy csillagokat jelölő előképző, KAK.SI.DI jelentése "nyílvessző", s épp ez a nyílvessző áll a legtöbb meghökkentő íjásztörténet hátterében. Az íj, melyből kiröpítik, az Argó és Canis Maior csillagaiból alkotott csillagkép, s jól ismert Mezopotámia, Egyiptom és Kína Övezeteiben. És mivel Istár nevén Vénusz és Szíriusz osztozik, lehet tudni, ki "keveri föl az Apszút Ea előtt".  
 
-Az "[[I/Istenfa\|istenfá]]ját" és "kutyafáját" kifejezéseink, amennyiben ugyanarra vonatkoznak, ismét rámutathatnak-e, hogy kutya ([[K/Khuda\|Khoda]], gott/[[G/God\|God]]) = isten? VN csak ezt írja (a későbbi felfogással kapcsolatban):  
+Az "[[I/Istenfa\|istenfá]]ját" és "kutyafáját" kifejezéseink, amennyiben ugyanarra vonatkoznak, ismét rámutathatnak-e, hogy kutya ([[K/Khuda\|Khoda]], gott/[[G/God\|God]]) = isten? Várkonyi Nándor csak ezt írja (a későbbi felfogással kapcsolatban):  
 > A "kutyafád" kifejezés blaszfémikus, istenkáromló megsértése a hívőnek: istenfáját, azaz bálványát alacsonyítja le egy megvetett alvilági állat szintjére.  
 
 [Ezen](https://m.nyest.hu/hirek/gyorstalpalo-karomkodasbol-mikor-miert-hogyan-karomkodunk) oldal cikkírója szerint:  
@@ -242,7 +242,7 @@ Lásd még Zsuzsanna névben is: [[S/Szűzanya\|Szűzanya]]!
 Érdekes, hogy a boldog szót ilyen összefüggésben említi, mert nálam is Bol-Dog a téli téridő-pontra utal..  
 
 [^3]: Lábjegyzet:  
-Szó szerint lehetne "fényépítés," fényt derítés, ugyanis az ógörög, csángó επι- (épi-) prefix – VCs adata szerint – épít szavunkat takarná (de a szótár hivatalosan rá, fölé, fölötte jelentésekkel azonosítja), míg a `ϕαεινóς` (faeinósz) fényes jelentésű. A hivatalos levezetés a görög `epiphainein` igét adja meg eredetként, ami szó szerint így "ráfényel" jelentésű.  
+Szó szerint lehetne "fényépítés," fényt derítés, ugyanis az ógörög, csángó επι- (épi-) prefix – Varga Csaba adata szerint – épít szavunkat takarná (de a szótár hivatalosan rá, fölé, fölötte jelentésekkel azonosítja), míg a `ϕαεινóς` (faeinósz) fényes jelentésű. A hivatalos levezetés a görög `epiphainein` igét adja meg eredetként, ami szó szerint így "ráfényel" jelentésű.  
 Utótagját lásd még [[F/Fancy\|fancy]] és [[F/Fantasy\|fantasy]] szavakban; hasonló [[E/Euphemism\|euphemism]], [[P/Prophet\|prophet]] és [[B/Blasphemy\|blasphemy]] utótagjához is.  
 
 [^4]: Lábjegyzet:  
