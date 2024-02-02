@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Ninhursag/","title":"Ninhursag","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-05T01:07","updated":"2023-11-25T11:20"}
+{"dg-publish":true,"permalink":"/N/Ninhursag/","title":"Ninhursag","tags":["Englishtexttranslated"],"created":"2023-11-05T01:07","updated":"2024-02-02T03:33"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 #### Péterfai János írja:
 
-> Nin-Hur-Szág is [[E/Enki\|En-Ki]] feleségének a neve, a nevet "Hegycsúcs Úrnője" formában értelmezik. A Ninről szóltunk, a Hur a Kur változata akar lenni, Hegy értelemben. A Szág, mint Főség jelenthetné a csúcsot, ezért a Hur-Szág a Hegy-Fősége, amit pontatlanul Hegy-Csúcsnak értelmeznek. Megjegyzendő, a Hur szónak több jelentése is van. A Húr az Íj Ívének az Ura, az Úr pedig gyakran Nap. Továbbá a Csillag-Húr, Bél-Húr nevekben a Húr kifejezetten Napot jelent. Nin-Hur-Szág eszerint olyan Néni, aki Nap-Főség. Talán ő az egyik Napba Öltözött Asszony \[PJI érti vajon ezen kifejezést?\]. A Nin rangnévből, amely eredetileg a nőket jelölte, később a férfi uralkodók tőkét kovácsoltak maguknak, és felvették ezt a címet. A Szág, Ság és sok változata terjedelmes csoportot alkot a magyar nyelvben.  
+> Nin-Hur-Szág is [[E/Enki\|En-Ki]] feleségének a neve, a nevet "Hegycsúcs Úrnője" formában értelmezik. A Ninről szóltunk, a Hur a Kur változata akar lenni, Hegy értelemben. A Szág, mint Főség jelenthetné a csúcsot, ezért a Hur-Szág a Hegy-Fősége, amit pontatlanul Hegy-Csúcsnak értelmeznek. Megjegyzendő, a Hur szónak több jelentése is van. A Húr az Íj Ívének az Ura, az Úr pedig gyakran Nap. Továbbá a Csillag-Húr, Bél-Húr nevekben a Húr kifejezetten Napot jelent. Nin-Hur-Szág eszerint olyan Néni, aki Nap-Főség. Talán ő az egyik Napba Öltözött Asszony \[Péterfai János érti vajon ezen kifejezést?\]. A Nin rangnévből, amely eredetileg a nőket jelölte, később a férfi uralkodók tőkét kovácsoltak maguknak, és felvették ezt a címet. A Szág, Ság és sok változata terjedelmes csoportot alkot a magyar nyelvben.  
 > 
 > Nin-Hur-Szág másik neve Nin-Ti, aminek pontos jelentése Úrnője (Nínje) az Életnek. A Ti személyes névmás Életet jelent.  
 > Az Élet, vagyis a Ti ápolója a Nap, ami miatt Nin-Hur-Szág nevében a Húr mégis Nap, és nem Hegy jelentésű lehet. A híres filmhős, Ben Húr neve is magyar nyelvű, Fia a Napnak a pontos jelentése. Nin-Ti, vagyis az Élet Úrnője, más neveket is viselt.  
