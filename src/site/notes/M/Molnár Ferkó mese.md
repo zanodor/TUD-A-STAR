@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Molnár Ferkó mese/","title":"Molnár Ferkó mese","tags":["dg_uploaded"],"created":"2023-11-17T07:03","updated":"2023-11-17T07:03"}
+{"dg-publish":true,"permalink":"/M/Molnár Ferkó mese/","title":"Molnár Ferkó mese","created":"2023-11-17T07:03","updated":"2024-02-02T03:30"}
 ---
 
 
@@ -30,11 +30,11 @@ No, jött is Molnár Ferkó mindjárt, aranyos gúnyában, hatlovas hintón. Bez
 > Ez az epizód elénk tárja a Világmindenség és a molnárferkóság közös ügyét. A mindenkori Molnár Ferkót megjelenítő magyarság közös ügye a Világmindenség ügye. A mi vállunkra helyezte Isten a kígyók, sárkányok, az Idő, a Tér, a boldogság, tehát a világ helyes mederben tartásának feladatát, egyensúlyban tartását, a rend felügyeletét. Ahol a rend valahol félrebillen, nekünk kell helyretenni azt, mert Isten munkájának részesei vagyunk.  
 - Az elemzésének itt hiányzó részét lásd [[H/Hamlet malma\|Hamlet malma]].  
 
-Az először megvett macska és kutya GYÁ-nál a keleti állatövben értelmezett és a mi Szűz-ünknek és Kos-unknak felel meg. Én azért sejtek itt valami mást, mert a macska Szűz-jelentőségét a hím Ferkónál nem látom. Persze az alternatív gondolat most nem tud megszületni. Valószínűleg GYÁ jól olvassa. Az elemzésének ezen részét lásd képpel [[K/Kutya és macska\|kutya és macska]]. Ide csak annyit, hogy Ferkó élet-halál tengelye az Oroszlán-Szűz-Mérleg és szemben a Bika-Kos-Halak tengely nyolcasában zajlik. Sorsának ez a fekvő nyolcasa válik létének talpkövévé. Itt történnek a küzdelmei, s földi javaihoz is itt jut hozzá. A nyolcas középpontjában a Sárkány /Draco/ csillagkép kis erdejében megkapta a gyűrűt, és ettől kezdve három óriás engedelmeskedik neki. \[A [[G/Gyűrű\|gyűrű]]ről adott információkat lásd oda áttéve.\]  
+Az először megvett macska és kutya Gyárfás Ágnesnél a keleti állatövben értelmezett és a mi Szűz-ünknek és Kos-unknak felel meg. Én azért sejtek itt valami mást, mert a macska Szűz-jelentőségét a hím Ferkónál nem látom. Persze az alternatív gondolat most nem tud megszületni. Valószínűleg GYÁ jól olvassa. Az elemzésének ezen részét lásd képpel [[K/Kutya és macska\|kutya és macska]]. Ide csak annyit, hogy Ferkó élet-halál tengelye az Oroszlán-Szűz-Mérleg és szemben a Bika-Kos-Halak tengely nyolcasában zajlik. Sorsának ez a fekvő nyolcasa válik létének talpkövévé. Itt történnek a küzdelmei, s földi javaihoz is itt jut hozzá. A nyolcas középpontjában a Sárkány /Draco/ csillagkép kis erdejében megkapta a gyűrűt, és ettől kezdve három óriás engedelmeskedik neki. \[A [[G/Gyűrű\|gyűrű]]ről adott információkat lásd oda áttéve.\]  
 
-Némiképp meglepő, hogy a három óriás GYÁ-nál nem az [[O/Orion övcsillagai\|Orion övcsillagai]] (ahol ezt a témát PG tükrösével még tárgyaljuk), hanem a [[H/Herkules csillagkép\|Herkules csillagkép]], Medveőrző ([[O/Ökörhajcsár csillagkép\|Ökörhajcsár csillagkép]]) és [[O/Orion\|Orion]]. Ezekre, mármint az első kettőre voksoltunk, mint Orion duplikációkra korábban.  
+Némiképp meglepő, hogy a három óriás Gyárfás Ágnesnél nem az [[O/Orion övcsillagai\|Orion övcsillagai]] (ahol ezt a témát Pap Gábor tükrösével még tárgyaljuk), hanem a [[H/Herkules csillagkép\|Herkules csillagkép]], Medveőrző ([[O/Ökörhajcsár csillagkép\|Ökörhajcsár csillagkép]]) és [[O/Orion\|Orion]]. Ezekre, mármint az első kettőre voksoltunk, mint Orion duplikációkra korábban.  
 Gyárfás Ágnes Három óriás és az öreg király – a nyári égbolt híres férfi-csillagképei című Ősi Gyökér 2006/2. sz. megjelent cikkében viszont Orion helyett a Kígyótartó [[O/Ophiuchus\|Ophiuchus]]-t tartja már harmadiknak (a Molnár Ferkó mesére hivatkozik ismét itt).  
-Lásd folytatást [[O/Orion övcsillagai\|Orion övcsillagai]]. (Azért ott kezdtük tárgyalni, mert a három ugye más esetekben is arra utaló volt. Tehát, ha úgy tetszik, a saját elképzelésem cáfolandó kerül oda GYÁ adata.)  
+Lásd folytatást [[O/Orion övcsillagai\|Orion övcsillagai]]. (Azért ott kezdtük tárgyalni, mert a három ugye más esetekben is arra utaló volt. Tehát, ha úgy tetszik, a saját elképzelésem cáfolandó kerül oda Gyárfás Ágnes adata.)  
 
 Az Ősi Gyökér 2006/3. számában Krizsai Mónika cikkében további gondolatokat szolgáltat a meséhez.  
 
