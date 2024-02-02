@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kunmes/","title":"Kunmes","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-04T10:42","updated":"2023-11-04T10:42"}
+{"dg-publish":true,"permalink":"/K/Kunmes/","title":"Kunmes","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-04T10:42","updated":"2024-02-02T02:35"}
 ---
 
 
 # Kunmes
 
-A [[S/Sumér zodiákus\|sumér zodiákus]] Halak jegynek megfelelő neve Kun-Mes. A nyelvészek Farkak jelentéssel adatolják ezt a csillagképet, minthogy Kun (ahogy [[K/Kûn\|kûn]], [[K/KONY\|KONY]] és [[K/Konyec\|konyec]] szavaknál is láttuk) farkat, a ló farkát (vagy ékalakú pofáját) jelenti, Mes pedig a többesszámot(?). [[M/MES\|MES]] PJI-nél Ifjú, Hős jelentésű, de [[M/MISZ\|MISZ]]-hez, mézhez is köthető lehet. [[M/MES\|MES]] címnél legutóbb alternatív levezetése is született Kunmes-nek: MES a mes-fa, a messzi fa, a Világfa, a Tejút neve és ennek alsó vaskori ideje a Halak (mikor is a [[T/Tavaszpont\|tavaszpont]][^1] a Halakba ér).  
+A [[S/Sumér zodiákus\|sumér zodiákus]] Halak jegynek megfelelő neve Kun-Mes. A nyelvészek Farkak jelentéssel adatolják ezt a csillagképet, minthogy Kun (ahogy [[K/Kûn\|kûn]], [[K/KONY\|KONY]] és [[K/Konyec\|konyec]] szavaknál is láttuk) farkat, a ló farkát (vagy ékalakú pofáját) jelenti, Mes pedig a többesszámot(?). [[M/MES\|MES]] Péterfai Jánosnál Ifjú, Hős jelentésű, de [[M/MISZ\|MISZ]]-hez, mézhez is köthető lehet. [[M/MES\|MES]] címnél legutóbb alternatív levezetése is született Kunmes-nek: MES a mes-fa, a messzi fa, a Világfa, a Tejút neve és ennek alsó vaskori ideje a Halak (mikor is a [[T/Tavaszpont\|tavaszpont]][^1] a Halakba ér).  
 ![assets/Kunmes_image1.png](/img/user/K/assets/Kunmes_image1.png)  
 
 #### Gavin White Babylonian Star Lore...
@@ -19,7 +19,6 @@ A [[S/Sumér zodiákus\|sumér zodiákus]] Halak jegynek megfelelő neve Kun-Mes
 
 > THE POST-WINTER SOLSTICE PERIOD  
 > 
-> ![assets/Suhurmasku_image4.png](/img/user/S/assets/Suhurmasku_image4.png)  
 > Unlike the familiar calendar system that commences in the spring, the symbolic cycle embodied in the stars makes most sense when you start and end with the winter solstice. When the longest night is celebrated, the sun's power is at its weakest and it has reached its lowest and most southerly station in the heavens. But the crucial turning point has been attained and from this time onwards the sun's light and power increase day by day. The period following on from the winter solstice thus celebrates the rebirth of the sun from the waters of chaos and the re-emergence of life, in all its manifold forms, from the realm of darkness and death.  
 > As mythical symbols, **the Horse and Stag both represent the rebirth of the sun**. This is most clearly seen in the mythology of the horse, whose principle mythic duty was to pull the chariot of the sun. The solar chariot ultimately governs the three major cycles of time recognised in myth – the rising of the chariot announces the dawn of each and every day, its annual rising after mid-winter ushers in the New Year, and in terms of the whole cycle of creation its rising celebrates the original birth of the sun from the primordial waters of chaos. The Horse was probably chosen for this exalted role because of its speed and its shimmering mane, which was thought to represent radiating beams of sunlight.  
 > **The Stag is, in many respects, a very similar symbol to the Horse; it too has an age-old association to the sun and fire, and like the horse's mane the stag's horns also represent rays of sunlight. The annual renewal of its horns further predisposes it to be a symbol of rebirth**, and in the form of **the reindeer sledge of Father Christmas, the Stag is still honoured to this day as the symbol of the sun's wintertime passage**. As symbols of solar rebirth the Horse and the Stag are thus very appropriate symbols to find at the very start of the stellar calendar.  
