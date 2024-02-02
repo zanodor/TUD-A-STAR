@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Epiphany/","title":"Epiphany","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-11T11:13","updated":"2023-11-25T10:44"}
+{"dg-publish":true,"permalink":"/E/Epiphany/","title":"Epiphany","tags":["Englishtexttranslated"],"created":"2023-11-11T11:13","updated":"2024-02-02T02:23"}
 ---
 
 
@@ -25,7 +25,7 @@ Lásd még [[V/Vízkereszt\|Vízkereszt]].
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Szó szerint lehetne "fényépítés," fényt derítés, ugyanis az ógörög, csángó επι- (épi-) prefix – VCs adata szerint – épít szavunkat takarná (de a szótár hivatalosan rá, fölé, fölötte jelentésekkel azonosítja), míg a `ϕαεινóς` (faeinósz) fényes jelentésű. A hivatalos levezetés a görög `epiphainein` igét adja meg eredetként, ami szó szerint így "ráfényel" jelentésű.  
+Szó szerint lehetne "fényépítés," fényt derítés, ugyanis az ógörög, csángó επι- (épi-) prefix – Varga Csaba adata szerint – épít szavunkat takarná (de a szótár hivatalosan rá, fölé, fölötte jelentésekkel azonosítja), míg a `ϕαεινóς` (faeinósz) fényes jelentésű. A hivatalos levezetés a görög `epiphainein` igét adja meg eredetként, ami szó szerint így "ráfényel" jelentésű.  
 Utótagját lásd még [[F/Fancy\|fancy]] és [[F/Fantasy\|fantasy]] szavakban; hasonló [[E/Euphemism\|euphemism]], [[P/Prophet\|prophet]] és [[B/Blasphemy\|blasphemy]] utótagjához is.  
   
 
