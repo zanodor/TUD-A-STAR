@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vezér/","title":"Vezér","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-20T01:40","updated":"2023-11-22T11:38"}
+{"dg-publish":true,"permalink":"/V/Vezér/","title":"Vezér","tags":["Englishtexttranslated"],"created":"2023-10-20T01:40","updated":"2024-02-02T04:17"}
 ---
 
 
@@ -17,7 +17,7 @@ Itt is azt a magánhangzó-harmónia törvényt látjuk, mint [[K/Kenyér\|keny�
 >
 > Vezér magyar szó, egy nagy szócsoport tagja. Egyiptomban a fáraó utáni második ember neve Vezér, ami a rangját is jelenti. A fordítások igyekeznek a Vezír formát elfogadtatni, ami inkább szumer alak, ahol az Úr gyakran Ír formájú, de nem török. Vezér a halottak vezetője. Kézen fogja a halottak lelkét, és felviszi a Vadász csillagképbe. Vezér egyben a Nílus istene is, ami a [[V/Vezet\|vezet]] igének a Víz variánsait is felmutatja. Vezet, Veszt, [[W/West\|West]] – Nyugat angol szó, ahol a halottak lelkei távoznak, Vezér, Vízér, Weser, Visz, Vesz és más szavaink ebből a fontos témakörből erednek.  
 
-Vezér [[O/Orion\|Orion]] is (hiszen Ozirisz = Orion) (PJI írja):  
+Vezér [[O/Orion\|Orion]] is (hiszen Ozirisz = Orion) (Péterfai János írja):  
 > Vezér csillagisten alakját írja le az angol [[H/Hunter\|Hunter]], aminek a jelentése [[V/Vadász\|vadász]], lásd magyar Vadász és Nimrúd.  
 - Ugyanakkor [[A/Agent\|agent]] és más címnél írottak szerint a vezér/[[V/Vezető\|vezető]] lehet az [[I/Íj csillagkép\|Íj csillagkép]]en keresztül Orionhoz kapcsolódó Kutya(csillag) [[S/Szíriusz\|Szíriusz]] is. Lásd [[V/Vezető\|vezető]].  
 
@@ -29,13 +29,13 @@ Magyar Adorján A lelkiismeret aranytükre című könyvének első lapján szer
 Pater, mint Bot-Úr lényegében ugyanazt a (profánnak nevezhető) jelentést viszi, mint Nimrud neve. (Viszont ahogy [[B/Balta\|balta]] és [[P/Pálca\|pálca]] címnél is láttuk, a palóc Napisten Balota a névadó. Azaz hasonló név megjelenhet Orion neveként is. Van ilyen? Igen, [[B/Balog\|Balog]].)  
 
 [[N/Nap#Nap és Orion\|Nap és Orion]] cím/alcímhez is betettük az alábbiakat.  
-Alapesetben, PJI adatát követve a Vezér = \[V>O\] Ozirisz = Orion, de valójában itt is a Nap az Orionban állást kell figyelembe venni. Ismerjük Ozirisz gabonaisten szerepkörét is, mely az Orion csillagképtől független.  
+Alapesetben, Péterfai János adatát követve a Vezér = \[V>O\] Ozirisz = Orion, de valójában itt is a Nap az Orionban állást kell figyelembe venni. Ismerjük Ozirisz gabonaisten szerepkörét is, mely az Orion csillagképtől független.  
 
 Azzal indítottam volna, hogy kezdjük a "Vezér mint Nap" olvasattal, de rá kellett jöjjek, hogy nem lett volna megfelelő.  
 Ugye egyszer Vezér nem más, mint a Vas-Ár/Vas-Úr/Basz-Úr értelemmel visszaadható [[V/Vasárnap\|vasárnap]] név előrésze. Csakhogy ami a Napvallásokban Vasárnap = Nap napja[^1], az az ősvallásban az Úr (Isten) Napja lehetett, istentiszteleti nap (hasonlóan a germánban a magyar [[M/Magor\|Magor]] névből [[M/Maker\|Maker]] = teremtő lett és a szlávoknál a magyar [[B/BOG\|Bog]] = Nap névből lett teremtő/főisten). Ez az Úr pedig felkerült az égre is, [[O/Orion\|Orion]]ként (lásd erről ott illetve [[I/Isten\|Isten]] címnél).  
 
 [[V/VEZ\|VEZ]] címnél írottak szerint Basz-Úr értelmű Vezér. Amely Basz-Úr lehet végső soron Pat-Er ([[P/Pater\|Pater]]) is, mely ismét megint csak Ozirisz-Orionra utal.  
-MA adata vizont, hogy a besenyők a Napistent Pet, Petur, [[B/Bátor\|Bátor]] (és Veszer \[= Vezér\]) néven tisztelték. A besenyők is viszont egy újabb, napvalláskorban létrjött népünk.  
+Magyar Adorján adata vizont, hogy a besenyők a Napistent Pet, Petur, [[B/Bátor\|Bátor]] (és Veszer \[= Vezér\]) néven tisztelték. A besenyők is viszont egy újabb, napvalláskorban létrjött népünk.  
 Azt persze mindenképpen hozzá kell tenni, hogy a hímségi (ha úgy tetszik, patriarchális) nevek mindig Napnevek. Azaz itt is az a tény áll, hogy a központi Napunk a legfontosabb és még a [[M/Magyar\|Magyar]] istennőnév is tulajdonképpen a [[M/Magor\|Magor]] Napnév lágyulásaként jön létre (továbbá a Mars, Jupiter és Szaturnusz is "fiatalkorukban Napok").  
 
 Vezér Vez eleme megfelelne [[V/Vata\|Vata]] és [[B/Buda\|Buda]] nevek első három hangjának is.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Téridő/","title":"Téridő","created":"2023-10-22T03:36","updated":"2024-01-12T06:35"}
+{"dg-publish":true,"permalink":"/T/Téridő/","title":"Téridő","created":"2023-10-22T03:36","updated":"2024-02-02T04:15"}
 ---
 
 
@@ -48,7 +48,7 @@ Az Atya pedig Jupiter-Orion is. Born Gergely A kettőskereszt mint kulcs című 
 ...című könyvének mesei téridő, mesei kozmosz című fejezetében írja:  
 > Az olyan "nélkülözhetetlen" mesekezdő fordulatoknak, mint "hol volt, hol nem volt", "a hetedhét országon túl", "az Óperenciás-tengeren, az üveghegyen is túl", "volt egyszer egy szegény ember, annak volt egy felesége, meg annyi gyereke, mint a rosta lika (mint égen a csillag), csak eggyel több", eredeti célja az volt, hogy a hallgatóság tudja, amit most hallani fog, nem itt a földön, ebben vagy abban a faluban esett meg, hanem a mintát adó "túlnan"-ban történik.  
 > A "hol volt, hol nem volt" az örök körforgás jin-jang elvű tömör megfogalmazása. A "hetedhét ország" elnevezés a 7 rétegű (7 planétaszférájú), 7 irányban kiterjedő (a 4 égtáj, valamint a zenit, a közép és a nadír által meghatározott) világunkra vonatkozik. Az "Óperenciás-tenger" itt a földön az Enns folyón túli más (nem magyar) világot (ném. ober Enns), az égen pedig annak égi mását, a másvilágot jelenti.  
-- PJI ezzel a nyelvészeti fordulattal nem tud azonosulni.  
+- Péterfai János ezzel a nyelvészeti fordulattal nem tud azonosulni.  
 
 > A csillogó "üveghegy" az átlátszó csillagos ég jelképe (vö. az óegyiptomi "fényhegy[^1]" metaforával), a szegény ember sok gyereke pedig a csillagoké. A hasonlatban szereplő [[R/Rosta\|rosta]] (dob) tulajdonképpen maga az ég – számos nép használ Háló, Rosta, Szita csillagzatneveket (főleg a Fiastyúkra, mivel sűrűn állnak a lyukai, azaz a csillagai). Altaji népek az eget sátornak képzelik, a csillagokat pedig a sátorszövet lyukain áttűző fényeknek.  
 > És ha szó volt a mese elejéről, legyen szó a végéről is. A mesék olyan mondókákkal zárulnak, amelyeknek szintén azt kell tudatosítaniuk a hallgatóságban, hogy lélekben az örök körforgás színterein jártak. Ilyen a "dióhéjba (tojáshéjba) keveredtek, és a gyémántrétre hemperedtek", vagy: "boldogan éltek, míg meg nem haltak", s egy rafináltabb: "Lakodalomban vőfély voltam, Duna és Tisza egy zsákba kötve, madzaggal megtámasztva. Tökhajsarkantyúmnak uborka-taréjja a zsákot kivágta, a víz a lakodalmat a mesével együtt elvitte. Még most is viszi." (Tehén fijú, szép vitéz Jankó.)  

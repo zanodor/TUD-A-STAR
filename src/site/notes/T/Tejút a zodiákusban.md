@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tejút a zodiákusban/","title":"Tejút a zodiákusban","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-30T04:26","updated":"2023-10-30T04:26"}
+{"dg-publish":true,"permalink":"/T/Tejút a zodiákusban/","title":"Tejút a zodiákusban","tags":["Englishtexttranslated"],"created":"2023-10-30T04:26","updated":"2024-02-02T04:02"}
 ---
-
-
 
 
 # Tejút a zodiákusban: kilépés a Tejútba
@@ -39,7 +37,7 @@ JMJ könyvének magyar fordítása:
 ...című könyvéből származó passzusa [[W/Wepwawet\|Wepwawet]] címnél is szerepelt:  
 > Találkozunk más csillagképekkel is a mesékben. Így, mint láttuk, a [[F/Farkas csillagkép\|Farkas csillagkép]]pel, a Tündér Ilona, Vasfejű farkas típusú mesékben. A Farkas **a túlvilágra nyíló egyik tejútszorost őrzi, de a másik körül is ebek vicsorognak** (a Kis Kutya és a [[N/Nagy Kutya\|Nagy Kutya]] csillagkép), és **van egy harmadik átjáró is**, épp az imént esett szó róla, a Medve csillagzatok tájékán. A Ptolemaiosz-kori híres denderai zodiákuson azt is egy Farkas csillagkép vigyázza; mégpedig a Marhacomb mellett látható Up-uaut farkas, az "Utak megnyitója", lába közt a túlvilági utat megnyitó rögtörő kapával. (Véletlen egybeesés vagy sem, az obi-ugorok hite szerint a másvilágon van egy ház, ajtaját, mely a Sarkcsillag tájékán található, medve és farkas őrzi.)  
 
-Sokatmondó az Ikrek csillagkép arab **Tejat** neve, mely, mint ahogy a mellékelt képen látszik, éppen/szinte a Tejút és a Nappálya metszéspontján áll. RHA írja Star Names című könyvében:  
+Sokatmondó az Ikrek csillagkép arab **Tejat** neve, mely, mint ahogy a mellékelt képen látszik, éppen/szinte a Tejút és a Nappálya metszéspontján áll. Richard H. Allen írja Star Names című könyvében:  
 > Tejat prior is from Al Tahayi, an anatomical term of Arabia by which it was known in early days; a name also applied to stars in the head of Orion.  
 > —  
 > A Tejat az Al Tahayi-ból származik, egy arábiai anatómiai kifejezésből, amelyen a korai időkben ismerték; ez a név az Orion fejében lévő csillagokra is vonatkozott.  
@@ -73,8 +71,8 @@ Az ember azt várná, hogy netán Szíriusz-Nap-Föld együttállásokhoz lehetn
 > —  
 > Számos kultúrában tehát a kutya pásztori, cinegetikus és védelmező szerepe az élők világán túl a holtak világára is kiterjed. Így a **pszükhopomposz**okat, a pokol kapujának őrzőit, a pokolkutyákat és magukat a halottak lelkét is gyakran kutyaként ábrázolják. Valójában nem annyira arról van szó, hogy a kutya szerepe túlmutat az élők világán a holtak világába, hanem inkább arról, hogy a kutya helye az egyik és a másik világ között van. Ahogyan a Szíriusz helye a [[C/Canicular\|kutyanapok]] alatt a keleti horizonton van közvetlenül napkelte előtt (innen a "[[S/Szíriusz heliakus kelése\|helikális kelés]]" kifejezés), úgy a kutya helye szinte mindenben, amit az emberrel való kapcsolatában tesz, [[L/Liminal\|liminális]]. A kutya az indoeurópai hagyományokban számos égi vagy időbeli küszöböt őriz, többek között a hajnalt és az alkonyatot, az új- és teliholdat, valamint **a nyári és a téli napfordulót**. Ez az éjszakai égbolton különböző kutyás csillagképekben mutatkozik meg, amelyeken a Nap áthalad az ekliptikán, és mivel az égi boltozat útjai – a Tejút, a nap-ekliptika, a Hold pályája stb. – azonosíthatók a halottak útjaival, az égi kutyák gyakran állomásoznak veszélyes égi kereszteződéseknél és hidaknál.  
 
- Azt PJI adata alapján is tudjuk, hogy a halálba átsegítő Vezér, Ozirisz, Kilenc, akinek, mint az éji ég leírása alapján tudjuk, két segítője, kutyája van.  
-Itt egyrészt azt a képet kell látni, hogy a [[S/Szíriusz\|Szíriusz]] és [[P/Procyon\|Procyon]] a Tejút (Hadak Útja) két oldalán áll, őrként, lélekvezetőként, hiszen a Tejúton születnek a lelkek, másrészt, hogy a Föld-Nap-Szíriusz együttállások a [[T/Téli napforduló\|téli napforduló]] és a [[N/Nyári napforduló\|nyári napforduló]] környékén történnek. A [[S/Szíriusz heliakus kelése\|Szíriusz heliakális kelésé]]t megszemélyesítő [[S/Szent Kristóf\|Szent Kristóf]] is a gyermek Jézust, azaz a fiatal, reggeli ereje teljében lévő Napot egy folyón viszi által: ez a folyó a [[T/Tejút\|Tejút]]. Másutt hasonló (VN írja):  
+ Azt Péterfai János adata alapján is tudjuk, hogy a halálba átsegítő Vezér, Ozirisz, Kilenc, akinek, mint az éji ég leírása alapján tudjuk, két segítője, kutyája van.  
+Itt egyrészt azt a képet kell látni, hogy a [[S/Szíriusz\|Szíriusz]] és [[P/Procyon\|Procyon]] a Tejút (Hadak Útja) két oldalán áll, őrként, lélekvezetőként, hiszen a Tejúton születnek a lelkek, másrészt, hogy a Föld-Nap-Szíriusz együttállások a [[T/Téli napforduló\|téli napforduló]] és a [[N/Nyári napforduló\|nyári napforduló]] környékén történnek. A [[S/Szíriusz heliakus kelése\|Szíriusz heliakális kelésé]]t megszemélyesítő [[S/Szent Kristóf\|Szent Kristóf]] is a gyermek Jézust, azaz a fiatal, reggeli ereje teljében lévő Napot egy folyón viszi által: ez a folyó a [[T/Tejút\|Tejút]]. Másutt hasonló (Várkonyi Nándor írja):  
 > Mexikóban [[K/Kutya\|kutya]] az alvilági vezető. A görögöknél a háromfejű kígyó \[kutya\], Kerberosz (lásd [[C/Cerberus\|Cerberus]]) őrizte az Alvilág, a Hadész bejáratát, és senkit sem engedett ki; ennek párja, az azték [[X/Xolotl\|Xolotl]] isten, kutya alakban vezette a halottakat s a lenyugvó Napot az Alvilágba. Emezt a Chicunauh-mictlán nevű folyó folyta körül [[K/Kilenc\|kilenc]]szer, mint a Sztüx a Hadészt; az elhunytak egy **vörös kutya** segítségével juthattak át rajta.  
 - A folyók itt is a Tejutat jelentik.  
 

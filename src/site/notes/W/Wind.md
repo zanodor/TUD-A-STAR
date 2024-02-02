@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/W/Wind/","title":"Wind","tags":["dg_uploaded"],"created":"2023-11-09T11:46","updated":"2023-12-04T01:19"}
+{"dg-publish":true,"permalink":"/W/Wind/","title":"Wind","created":"2023-11-09T11:46","updated":"2024-02-02T04:11"}
 ---
 
 
@@ -13,7 +13,7 @@ A [[F/Fény\|fény]] és [[V/Vén\|vén]] szavak csengenek ki belőle, ahogy a [
 > A Vendek, akik a szlovének, a venetáktól vették vend nevüket. A Vén ugyanis Fény értelmű is, a vének a magyarok, a fény népe, akiktől számtalan nép származik, mint a szlovének is.  
 - Szlovének, vendek nagyapám szerint sokan éltek Vas megyében is.  
 
-A szélfajták között PJI említi a Jövendölő szelet, amiben a sokat emlegetett pannon vend szó is megtalálható. 
+A szélfajták között Péterfai János említi a Jövendölő szelet, amiben a sokat emlegetett pannon vend szó is megtalálható. 
 
 #### Magyar Adorján írja:
 

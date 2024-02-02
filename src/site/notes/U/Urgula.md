@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Urgula/","title":"Urgula","tags":["Englishtexttranslated"],"created":"2023-11-12T01:48","updated":"2024-01-25T12:47"}
+{"dg-publish":true,"permalink":"/U/Urgula/","title":"Urgula","tags":["Englishtexttranslated"],"created":"2023-11-12T01:48","updated":"2024-02-02T04:08"}
 ---
 
 
@@ -17,7 +17,7 @@ A [[S/Sumér zodiákus\|sumér zodiákus]] Oroszlánnak megfelelő csillagjegye,
 Gavin White-nak, a Babylonian Star Lore című könyv írójának táblázatos adatai nyilván valamelyik sumerológustól valók; a Gu-La [[G/GAL\|GAL]] olvasatát nem fogadnám el – lentebb még visszatérünk rá.  
 Az [[U/UR\|UR]], ahogy a vendéghajat vagy inkább a Bobula Ida szerint is kutyafejet ábrázoló piktogram mutatja, Úr jelentésű. [[G/GU\|GU]] több jelentésű etimon, [[L/LA\|LA]] pedig helyet és fényt is jelent.  
 
-#### PJI-nél is megvolt a név:  
+#### Péterfai Jánosnál is megvolt a név:  
 
 > Ur-gu-la az egyik neve az oroszlánnak. A \[sumér\] Ur szót Vadnak értelmezik egyesek, de a vadállat itt **Úr, az oroszlán úrként való megszólítása**. A Gu Szarvasmarha, a La a Hely egyik neve. Ma is mondjuk: Kutya úr, Macska úr, Ló úr, vagy Vi-Tor-La, Kaj-La, Szám-La, Szik-La, stb.  
 
@@ -32,7 +32,7 @@ Lásd még [[U/UR#Oroszlán vagy kutya\|oroszlán vagy kutya]] témát.
 
 Ezt a vélhetően dél-indiai/dravida eredetű tigris nevet nem sikerült megtalálni azóta sem, ahogy a [[N/Nerve\|nerve]] címnél előjövő ind `nahar` = ideg szóról sem tudom még, Indiában melyik nyelvé (vagy csak a szanszkrit). 
 
-Itt még PG megemlíti a [[M/Magura\|Magura]] címhez is betett `magura` = forrásbarlang jelentésű szót (nem írja, milyen nyelven). Ez azért érdekes gondolat, mert az [[U/UR\|UR]] és [[U/Urgula\|Urgula]] címnél is taglalt sumér Ur-Mah szótagmegfordított változataként ismert Magur nevéből az oroszlán > barlang jelentésváltozás lehetőségére is felhívja a figyelmet (valamint az is, hogy forrást is említ, mely a héberben is `makor` = forrás (lásd ezen szót [[M/Magyar\|magyar]])). Ergo a tigris nem feltétlenül Tejútanya állatalakként számítandó, lehet az Oroszlán nevéből képzett (M>N és G>H váltással).  
+Itt még Pap Gábor megemlíti a [[M/Magura\|Magura]] címhez is betett `magura` = forrásbarlang jelentésű szót (nem írja, milyen nyelven). Ez azért érdekes gondolat, mert az [[U/UR\|UR]] és [[U/Urgula\|Urgula]] címnél is taglalt sumér Ur-Mah szótagmegfordított változataként ismert Magur nevéből az oroszlán > barlang jelentésváltozás lehetőségére is felhívja a figyelmet (valamint az is, hogy forrást is említ, mely a héberben is `makor` = forrás (lásd ezen szót [[M/Magyar\|magyar]])). Ergo a tigris nem feltétlenül Tejútanya állatalakként számítandó, lehet az Oroszlán nevéből képzett (M>N és G>H váltással).  
 
 Carl J. Becker A Modern Theory of Language Evolution című könyvének internetről leszedhető kivonatában az áll, hogy a (G. I. Gurdjieff által használt elnevezéssel) [[I/Imastun\|Imastun]] bölcsek (akik csillagtudományokkal, sőt, telepátiás beszéddel voltak megáldva) neve Ur-Mah volt a sumér hagyományban. Mivel a kutatók nem látszanak érteni a nevet, Becker is nagy kavarodást idéz elő. Mivel UR-t itt kutya jelentéssel adja meg (ahogy Varga Zsigmond is könyvében; lásd [[U/UR\|UR]]), Nagy Kutya értelmet is ad a névnek[^2], de `MAH` = pap jelentéssel is előhozakodik (másutt pedig [[G/Guda\|Guda]][^3] a papi kaszt neve). Mivel viszont Ur-Mah az Oroszlán csillagkép neve is volt, kénytelenek UR-nak "nagyobb testű húsevő" jelentést is adni. A problematika könnyen megoldható: az Ur-Mah másképpen Mah-Ur, [[M/Magur\|Magur]], mely a magyarok Napneve: a Nap jelképe lehet az oroszlán, és éppen az Oroszlánban van uralomban a Nap, ezért kapta a nevét is.  
 Hogy ebben az oroszlán-kutya keveredésben most kell-e keresnünk azt a relációt, hogy az Oroszlán korszakban érjük el a precessziós fénymaximumot (az Aranykorban, amikor a Kutya közel kerül hozzánk), vagy sem, nem tudni. Valószínűleg nem.  
@@ -69,7 +69,7 @@ FK frissen betett passzusa alapján most már inkább úgy gondolom, hogy [[G/Gu
 ...írása (a lényeg, hogy a Gulya lehetett közvetlen a Marhacsordaként jelölt Tejútfolyam neve – ezért [[C/Cola\|cola]] címnél is szerepelt e passzus – és mivel tudjuk, hogy a Tejútanya nevei mennek át egyes csillagképek neveire, Gula alkalmas neve a Vizöntőnek):  
 > Gulya szavunk a szarvasmarha csordáját jelenti. A Csorda a csordogáló, sorban járó (sorda) tehenek csapata, reggel sorban, folyamatosan, folydogálva mennek a mezőre, este pontosan így térnek haza az istállóba. A Csorda jelentésének megértése segít a Gu-Lya megértésében. A Gu szarvasmarha, a Lya (Ja) Folyó, folydogáló szarvasmarha csapat. Az **Úr-gu-la szumer név *Gula* része közeli rokona a Gulya szónak. A kaukázusi Gula – Göböly, egyértelműen a magyar Gula > Gulya párja**.  
 
-Ur-Gula megjelenne a [[N/Nergal\|Nergal]] címnél is taglalt Nir-Ur-Gula névben, de nyilván etimológiában nem segít (szintén PJI adata):  
+Ur-Gula megjelenne a [[N/Nergal\|Nergal]] címnél is taglalt Nir-Ur-Gula névben, de nyilván etimológiában nem segít (szintén Péterfai János adata):  
 > G. Rawlinson szerint a mezopotámiai hagyományok Amon-kos fiának, a párducfejű turulmadár képével szimbolizált Nimrúdnak két királyi utódot tulajdonítanak. A káld-babiloni pantheon szenthármasságának első tagja Bel-Nimrud, fiai Sin-Magur (Ur), és az asszír nemzetős, Ninip (Ninus). A hagyomány a bibliai Hur (Ur) város megalapítóját, Magurt tartja az öregebbiknek, aki a korabeli feliratokon Nimrud néven is szerepelt, és akit halála után Nir-**ur-gula** ([[N/Nergal\|Nergal]]), vagy szárnyas oroszlánember képében Orion-Arian néven apotheizált.  
 
 Oláh Imre A Nimrud hagyomány című tanulmányában nem akármit állít: [[H/Herkules\|Herkules]] megvolt a suméroknál Urgula-ként! Nos, a nevek egyeztethetők is! Ezzel kellett volna kezdeni. Viszont a [[H/Herkules\|Herkules]] címnél álló eredeztetési kíséreltek is sántítanak. Aztán még ott van annak a kérdése, hogy nemcsak az Oroszlán csillagképnek ismert Ur-Mah – Magur neve, hanem a [[H/Herkules csillagkép\|Herkules csillagkép]] szintén kapott Magorhoz hasonló nevet RB Jr. adata szerint is.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Trivial/","title":"Trivial","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-30T01:48","updated":"2023-11-10T07:49"}
+{"dg-publish":true,"permalink":"/T/Trivial/","title":"Trivial","tags":["Englishtexttranslated"],"created":"2023-10-30T01:48","updated":"2024-02-02T04:05"}
 ---
 
 
@@ -41,7 +41,7 @@ Igen érdekes, amit Csodaszarvasában MA ír, ismét szeméremrészek kapcsán:
 
 Arról, hogy a háromágú, [[T/Trident\|trident]]-szerű villák hogyan váltak az ördög eszközévé, lásd ott. Lásd tehát még szintén [[T/Travail\|travail]].  
 
-A [[H/Hecatomb\|hecatomb]] szónál is előjövő görög `hekatón` = száz számnév értelemről PJI csak ennyit mond:  
+A [[H/Hecatomb\|hecatomb]] szónál is előjövő görög `hekatón` = száz számnév értelemről Péterfai János csak ennyit mond:  
 > [[H/Heka\|Heka]] isten nevét Varázslatnak értelmezik. Mivel a magyarok voltak a legnagyobb tudósok, ilyen értelemben a név csak a tulajdonságot írja le, de nem a valódi jelentést. He-Ka a név helyes felbontása, a He Nap, a Ka Ház. A magyarok a Hékások népe, akik a Nap Házából valók. Kétségtelen, hogy régi nevünk a Heka. A görög Hekaton – Száz, de a nagy számok, amint sikerült azonosítani, általában a csillagos égbolt neveiből keletkeztek, mégpedig magyar névadással. A [[H/Hykszosz\|Hykszosz]] név is a Heka névből származik.  
 
 Holott biztosan ugyanúgy csillagászati eredete van, mint [[S/Száz\|száz]] ([[S/SZAT\|SZAT]]) szavunknak. Ahogy [[C/Csata\|csata]] szónál írtunk erről, arra kell következtetni, hogy égi pályák találkoznak.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Taut/","title":"Taut","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2023-10-20T02:21","updated":"2024-01-24T03:44"}
+{"dg-publish":true,"permalink":"/T/Taut/","title":"Taut","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2023-10-20T02:21","updated":"2024-02-02T04:01"}
 ---
 
 
@@ -9,8 +9,8 @@ Fáy Elek A magyarok őshona című könyvének 259-260. oldalán említi a fön
 
 [[T/Táltos#^eo1vcv\|Táltos]] címnél lásd arról, hogy Taut a [[T/Tud\|tud]] szavunkon kívül a [[T/Táltos\|táltos]] névvel is kapcsolatba hozható.
 
-Ahogy PJI írja, az i.e. XIV. és XIII. századi időszakban [[F/Fönícia\|Fönícia]] Egyiptomhoz tartozott, nagyon szoros kötelékek fűzték Egyiptomhoz, sok száz év óta.  
-FE azt akarná bemutatni, hogy Thot eredete föníciai, ha jól értelmezem. PJI viszont atlantiszi-magyarnak adatolja a nevet.  
+Ahogy Péterfai János írja, az i.e. XIV. és XIII. századi időszakban [[F/Fönícia\|Fönícia]] Egyiptomhoz tartozott, nagyon szoros kötelékek fűzték Egyiptomhoz, sok száz év óta.  
+FE azt akarná bemutatni, hogy Thot eredete föníciai, ha jól értelmezem. Péterfai János viszont atlantiszi-magyarnak adatolja a nevet.  
 
 #### Fáy Elek A magyarok őshona...
 

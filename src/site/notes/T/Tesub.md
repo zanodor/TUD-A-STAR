@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tesub/","title":"Tesub","tags":["Englishtexttranslated"],"created":"2023-10-07T10:07","updated":"2024-01-14T12:10"}
+{"dg-publish":true,"permalink":"/T/Tesub/","title":"Tesub","tags":["Englishtexttranslated"],"created":"2023-10-07T10:07","updated":"2024-02-02T04:04"}
 ---
 
 
 # Tesub
 
-Tesub heta/hettita isten családfája PJI adata szerint (bővebben lásd [[H/Hettita istenek\|hettita istenek]]):  
+Tesub heta/hettita isten családfája Péterfai János adata szerint (bővebben lásd [[H/Hettita istenek\|hettita istenek]]):  
 > A heták főistene Alalu, az Ég Királya. Alalu fia Anu. Anu fia Kumarbi. Alalut letaszítja a trónról Anu, Anut letaszítja Kumarbi, az istenek atyja. Szép kis család! Kumarbinak két fia születik: Tesub és Ullikummi. A két isten különböző, bár [[S/Sitchin, Zecharia\|Sitchin, Zecharia]] azt állítja, hogy a két név egy isten kétféle neve. Ullikummi anyja Vasitta.  
 > Tesub nevéről nem tudni, hogy Teszub formájú-e? Van Tessub alakja is. Az Ub szó Sarok a szumirban, a Tesz magyar ige és Isten, a Ten változata. Ha a névben a Szub élő, akkor jelentése Alsó, a Szub a szumirban is megvan, például Szublugal Allugal, a lugal császár helyettese. A Szubtrópus, Szubmediterrán szavak jelzik latinban való jelenlétét, de a Szob is azonos a Szub szóval, amit jelez Szob városa a Börzsöny alján, vagy a Szob-Oszló város neve az Alföldön. Szobek egyiptomi isten neve is Szob-Ek formában az Alsóság-Fia magyar jelentést tartalmazza. Tesz-Ub a sarok isten, az istenek sarka, akire támaszkodik az isteni világ.  
 > Tesub felesége Heba, a szóban a He a magyar nyelvben Nap, a Ba Gyerek, a Baba, aki Tündér. Csupán Ipolyi Arnold tényeit alkalmazom a helyes megértés érdekében. Van Hebat alakja is, mint Ené ősanya istennőnk nevét is írták Enéth alakban. He-Ba neve egyszerűen a Nap-Lánya.  

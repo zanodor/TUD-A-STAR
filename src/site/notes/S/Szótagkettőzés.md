@@ -1,13 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szótagkettőzés/","title":"Szótagkettőzés","tags":["dg_uploaded"],"created":"2023-10-29T05:21","updated":"2023-10-29T05:21"}
+{"dg-publish":true,"permalink":"/S/Szótagkettőzés/","title":"Szótagkettőzés","created":"2023-10-29T05:21","updated":"2024-02-02T03:58"}
 ---
-
-
 
 
 # Szótagkettőzés
 
-PJI és VCs is megírta[^1] – amit már magam is tudtam –, hogy a régi archaikus nyelvben, így a sumérben is a szóelem kettőzése többesszámot jelentett illetve nyomatékosítást (nagyon valami valami; például, ahogy a nemrég Quorára írott ezen témát ragozó válaszomban írtam, Ma-Ma lehet Drága (Föld)Anya értelmű).  
+Péterfai János és Varga Csaba is megírta[^1] – amit már magam is tudtam –, hogy a régi archaikus nyelvben, így a sumérben is a szóelem kettőzése többesszámot jelentett illetve nyomatékosítást (nagyon valami valami; például, ahogy a nemrég Quorára írott ezen témát ragozó válaszomban írtam, Ma-Ma lehet Drága (Föld)Anya értelmű).  
 Legutóbb a [[B/Barbár\|barbár]] elemzésénél is előjött (lásd [[B/Barber\|barber]] címhez téve). Ott a Ma-Ma és Pa-Pa szavakat hoztam csak fel, de [[D/Double\|double]] címnél szóltam a Ba-Ba[^2] névről is.  
 
 [[G/Galgal\|Galgal]] címnél szerepelt:  

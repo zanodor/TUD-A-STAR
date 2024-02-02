@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Ugor/","title":"Ugor","tags":["Englishtexttranslated"],"created":"2023-10-20T09:42","updated":"2024-01-29T05:40"}
+{"dg-publish":true,"permalink":"/U/Ugor/","title":"Ugor","tags":["Englishtexttranslated"],"created":"2023-10-20T09:42","updated":"2024-02-02T04:16"}
 ---
 
 
@@ -17,7 +17,7 @@ Az éppen ezen cikkben említett Gombocz Zoltán féle elmélet cáfolatát bemu
 > A szlávok azonban [[I/Idegen\|idegen]]t jelentő ősi\[?\] szavukkal nemcsak a vogulokat, hanem a barna, mongolos népeket, s így a honfoglaló magyarokat is "ugornak" nevezték.  
 - Az [[O/Oguz\|oguz]] nevet lásd még külön.  
 
-Márpedig a népnevek mitológiai nevek. Amit utóbbival kapcsolatban, a népnévvel (PJI írja; itt és másutt is **ugor = szumer** azonosságot ad meg) kapcsolatban tudni kell:  
+Márpedig a népnevek mitológiai nevek. Amit utóbbival kapcsolatban, a népnévvel (Péterfai János írja; itt és másutt is **ugor = szumer** azonosságot ad meg) kapcsolatban tudni kell:  
 > Az Ogór néphez tartoztak, írja Theophylaktosz Szimokatta, az Oüarkhonitai, vagyis Uar és Huni, a [[V/Várhun\|Várhun]]ok, Vár-Hunni népek. Tehát teljesen világos a forrás szerint, hogy az Uarok és Hunok az Ugor (szumer) magyarokhoz tartoztak. Ezek a népek a szkítákkal rokonok.  
 
 Tulajdonképpen már itt ezen adat alapján is leszögezhető, hogy az ugor – uar – avar nevek voltaképpen egy és ugyanazok. [[A/Avar#Avar (Obor) – Ugor (Uhor) – Várhun\|Avar (Obor) – Ugor (Uhor) – Várhun]] cím/alcímnél volt erről szó legutóbb (és arról, hogy a közös kiinduló voltaképpen az alant említett kopt szó eredete kapcsán is előjövő Úr szavunk).  
@@ -68,7 +68,7 @@ Még másutt:
 > [[L/Lükurgosz\|Lükurgosz]] trák király, Kr.e. 800 tájáról, vagy régebbről, egy másik Lükurgosz Spárta törvényhozója. Lük-Urgosz pontos jelentése Farkas-Ember. A Lük a fénnyel kapcsolatos farkas, ellenben Urgosz (Ember) nem más, mint az Ugor magyarok neve.  
 - Lentebb lesz egy másik görög szó is.  
 
-Ugor ogur változatáról PJI-től [[U/Utigur\|utigur]] (és [[O/Onogur\|onogur]]) címnél álló sorokat lásd. Amiről nem beszélt illetve beszélhetett, hogy itt csillagászati-mondai összefüggéseket kellhet keresni ill. találni. Ugyanis az alant említett Kutya nem más, mint a Kutya csillagkép, mely más kultúrákban vagy időben vagy ([[S/Szkíta\|szkíta]], [[I/Íj csillagkép\|Íj csillagkép]] és sok más címnél taglaltak szerint) más felfogásban Íjazó/Nyilazó, Nyíl csillagkép is volt. Adja magát, hogy az Og-Ur és Ugor nem más mint a ([[N/Nimrud\|Nimrud]] fogalmát is kiadó) Orion + Szíriusz elemekből összeteendő csillagkép, ahol Og-Úrnak Obor-hoz (lásd Obor óriás értelmét [[A/Avar\|avar]]) hasonló Óriás Úr értelme ismét Nimrud-Orionra utaló név lenne, ahogy [[O/Ogre\|ogre]] is rá utal. [[O/OG\|OG]] ugye egyúttal [[E/Ég\|ég]] is, mely a német (egészen hasonló formát mutató) `jäger` = vadász szóban is szerepel (és az óéjszaki-skandináv [[A/Ægir\|ægir]] névben is).  
+Ugor ogur változatáról Péterfai Jánostól [[U/Utigur\|utigur]] (és [[O/Onogur\|onogur]]) címnél álló sorokat lásd. Amiről nem beszélt illetve beszélhetett, hogy itt csillagászati-mondai összefüggéseket kellhet keresni ill. találni. Ugyanis az alant említett Kutya nem más, mint a Kutya csillagkép, mely más kultúrákban vagy időben vagy ([[S/Szkíta\|szkíta]], [[I/Íj csillagkép\|Íj csillagkép]] és sok más címnél taglaltak szerint) más felfogásban Íjazó/Nyilazó, Nyíl csillagkép is volt. Adja magát, hogy az Og-Ur és Ugor nem más mint a ([[N/Nimrud\|Nimrud]] fogalmát is kiadó) Orion + Szíriusz elemekből összeteendő csillagkép, ahol Og-Úrnak Obor-hoz (lásd Obor óriás értelmét [[A/Avar\|avar]]) hasonló Óriás Úr értelme ismét Nimrud-Orionra utaló név lenne, ahogy [[O/Ogre\|ogre]] is rá utal. [[O/OG\|OG]] ugye egyúttal [[E/Ég\|ég]] is, mely a német (egészen hasonló formát mutató) `jäger` = vadász szóban is szerepel (és az óéjszaki-skandináv [[A/Ægir\|ægir]] névben is).  
 Az Ugor, Ogor, Ogur tehát egy hunos, mondhatjuk, Úr széthúzott változatának és önálló, alanyi jogon is értelmezhető névnek tartható, melyből a török nyelv is táplálkozott. A nyílvessző jelentést a csillagmitológiának értelmezésével nyerhette ki.  
 Itt még az [[O/Ökör\|ökör]] névre is rá lehet mutatni hasonlóként, mely nemcsak Ő-Kör, hanem Ég-Úr olvasatú is lehet szintén, ahogy az [[A/Agár\|agár]] is, bár az inkább Ég-Úr (Orion) kutyája (aki viszont Úr szintén, hiszen Orion [[M/Magyar istencsalád\|magyar istencsalád]] címnél írottak és [[N/Nimrud\|Nimrud]] címnél írottak szerint is összetartozik a Szíriusszal).  
 
@@ -120,7 +120,7 @@ Czeglédi Katalin Magyar-török nyelvviszony című az Ősi Gyökér 2012/2-4. 
 > A belaja ugra megnevezés érdekessége, hogy az orosz ugra alakot használ és nőneműnek fogja fel. Mindemellett \[Mahmud al-\]Kāšgari \[oszmán-török etimológiai szótárában\] ugrak népet említ, akik az ő (mármint Kāšγ.) nyelvéhez hasonlót, ugyanazt beszélik. Ez azt jelenti, hogy i.sz. 1100 körül Kāšγar körzetében ugrak nép élt és török nyelven beszélt, amelynek az ugra, ugry, ugor alakokhoz köze van.  
 - Na de nekünk ez is csak annyit mond, hogy egyes népeink beolvadni kényszerültek.  
 
-Azt MA Ősműveltségéből is tudjuk, hogy nedvesség mindig nőiség. Ezért lehet az, hogy...
+Azt Magyar Adorján Ősműveltségéből is tudjuk, hogy nedvesség mindig nőiség. Ezért lehet az, hogy...
 
 #### Zentai Ákos Méd kulcs őstörténetünk megfejtéséhez...
 

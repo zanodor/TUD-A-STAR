@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szűzanya/","title":"Szűzanya","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-25T02:34","updated":"2023-10-29T03:05"}
+{"dg-publish":true,"permalink":"/S/Szűzanya/","title":"Szűzanya","tags":["Englishtexttranslated"],"created":"2023-10-25T02:34","updated":"2024-02-02T03:59"}
 ---
 
 
 # Szűzanya
 
-Amikor PJI az alábbiakat írja, nem is sejti, hogy [[S/Sothis\|Sothis]]-Szíriuszról van szó:  
+Amikor Péterfai János az alábbiakat írja, nem is sejti, hogy [[S/Sothis\|Sothis]]-Szíriuszról van szó:  
 > Zsuzsa, vagy [[Z/Zsuzsanna\|Zsuzsanna]] nevünk a Szűz szóból származik. A héber azért mondja a Zsuzsanna nevet Liliomnak, mert a magyarból eredően a Liliom-Tiprás a Szűz (Szud) megbecstelenítése[^1].  
 
 #### Jankovics Marcell...
@@ -22,7 +22,7 @@ Amikor PJI az alábbiakat írja, nem is sejti, hogy [[S/Sothis\|Sothis]]-Szíriu
 
 Az [alábbi](https://youtu.be/RxOJrmdPYKA) ÁKTV műsorban KT 1:16:00-tól taglalja különböző vallások napisteneinek ([[H/Hórusz\|Hórusz]], [[A/Attis\|Attis]], [[D/Dionüszosz\|Dionüszosz]], [[M/Mithra\|Mithra]], [[K/Krishna\|Krishna]]) Jézuséval azonos életútját (persze itt a napistenek már antropomorfizált próféták). Elmondja, hogy Hórusz is szűztől ([[I/Ízisz\|Ízisz]]) született és születését egy keleti csillag felragyogása kísérte, melyet három király követett, hogy megleljék és magasztalják a megváltót. Teljesen azonos a történet Jézuséval.  
 
-[Ezen](https://www.youtube.com/watch?v=R8u27XQCafI) Ne Legyen Áldozatos A zsinatok emberiségre gyakorolt hatásai 1. rész című műsorban, ahogy [[Z/Zsinat\|zsinat]] címnél is szerepelt, PG az ellentmondásos dolgok kapcsán kérdi, hogy lehet valaki egyszerre Szűz és egyszerre Anya? PG természetesen nem megy bele a fogalmak csillagvallásbeli elemzésébe.  
+[Ezen](https://www.youtube.com/watch?v=R8u27XQCafI) Ne Legyen Áldozatos A zsinatok emberiségre gyakorolt hatásai 1. rész című műsorban, ahogy [[Z/Zsinat\|zsinat]] címnél is szerepelt, Pap Gábor az ellentmondásos dolgok kapcsán kérdi, hogy lehet valaki egyszerre Szűz és egyszerre Anya? Pap Gábor természetesen nem megy bele a fogalmak csillagvallásbeli elemzésébe.  
 A Szűzanya attól szűz, hogy tényleges megtermékenyítés nem éri: csillagászati mítoszról van szó. [[N/Nimrud\|Nimrud]] vesszeje csak látszólag hatol be a Tejútanya [[S/Száj\|száj]]ába (ott jön létre a nemzés), és a téli napfordulón jön létre a szülés.  
 
 Fáy Elek A magyarok őshona című könyvének harmadik oldalán említi a hasonló alakú **Szuziána** nevű országnevet, [[E/Elám\|Elám]] szomszédságában. Nyelvüket, a (másutt már előjövő) susánt, susunkát (adata szerint) még annyira sem ismerték a tudósok, mint a proto-médet és a sumért. Mind turáni nyelv.  

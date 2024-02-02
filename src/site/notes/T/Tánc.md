@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tánc/","title":"Tánc","tags":["dg_uploaded","containstransclusions"],"created":"2023-11-12T05:06","updated":"2023-11-25T11:27"}
+{"dg-publish":true,"permalink":"/T/Tánc/","title":"Tánc","tags":["containstransclusions"],"created":"2023-11-12T05:06","updated":"2024-02-02T04:06"}
 ---
 
 
@@ -73,4 +73,4 @@ Lásd még JM írását [[I/Ismétlés\|ismétlés]] és [[R/Ritual\|ritual]].
 - Erre én is gondoltam, hogy mi van, ha csak marker, azaz jelzőcsillag Szíriusz és semmi egyéb.  
 
 A táncról Ipolyi Arnold Magyar mythologia című könyvének 600-601. oldalán szól.  
-MA Csodaszarvasának (a PDF) 383. oldalán ír a táncról. Az ott szereplő adatai alapján is gondoltam, hogy [[T/Trance\|trance]] akár tánc szavunkból vagy változatából is eredhet, de akár a fentebb említett [[T/Tantra\|Tantra]] is.  
+Magyar Adorján Csodaszarvasának (a PDF) 383. oldalán ír a táncról. Az ott szereplő adatai alapján is gondoltam, hogy [[T/Trance\|trance]] akár tánc szavunkból vagy változatából is eredhet, de akár a fentebb említett [[T/Tantra\|Tantra]] is.  

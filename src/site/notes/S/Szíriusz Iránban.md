@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz Iránban/","title":"Szíriusz Iránban","tags":["Englishtexttranslated"],"created":"2023-10-29T06:02","updated":"2024-01-25T12:47"}
+{"dg-publish":true,"permalink":"/S/Szíriusz Iránban/","title":"Szíriusz Iránban","tags":["Englishtexttranslated"],"created":"2023-10-29T06:02","updated":"2024-02-02T03:57"}
 ---
 
 
@@ -25,7 +25,7 @@ A Szíriusz korábbi, Zend Avesztában talált elnevezése [[T/Tistrya\|Tishtrya
 Richard H. Allen Star Names című művében említi, hogy bizonyos Edkins nevű kutató szerint Arcturus-t jelölhette inkább Tistar (Tishtrya). (Ugyanezen Edkins véleménye szerint a perzsák [[V/Vanant\|Vanant]] csillaga Procyon vagy Szíriusz volt...)  
 
 Véleményem szerint minden igen fényes csillagnak is neve lehetett, hiszen jelentése erről tanúskodik. Jelző ez, nem tulajdonnév.  
-[[S/Satavaesa\|Satavaesa]] címnél szerepel WFW véleménye is.  
+[[S/Satavaesa\|Satavaesa]] címnél szerepel William F. Warren véleménye is.  
 
 [[S/Szent László és a leányszöktető kun\|Szent László és a leányszöktető kun]] címnél (több is) szerepelt JM adatai (közül):  
 > A szóban forgó csillagmítoszt az egyiptomiak szinte szó szerint így mesélték. Oriont Ozirisz, a [[N/Nap – halott Nap\|halott Nap]] istene személyesíti meg, a rátámadó Bikát gyilkos fivére, [[S/Széth\|Széth]], míg a Nagy Kutya és a Hajótat együttese Ozirisz Szeth-hez pártolt feleségében, Íziszben testesül meg, akit a keresztény mitológia kutatói Szűz Mária előképének tekintenek. (Ez lehet az oka annak, hogy Íziszt még a művelt köztudat is csak a jó oldaláról ismeri.) Az istennőt ebben az összefüggésben fölajzott íjjal ábrázolják, olykor tehénfejjel (több okból, de azért is, mert itt és most a Bika-Szethtel alkot párt).  
@@ -50,7 +50,7 @@ A Hamlet Malmából való adatsor:
 
 Az alábbiak szintén a Hamlet Malmából származnak és [[A/Apam Napat\|Apam Napat]] címnél is szerepeltek:  
 > Azzal a hatalmas mennyiségű adattal, mely Agni és Szóma ("a világpólusok ura") **napfordulós és napéjegyenlőségi szerepkörei**[^2] mellett szól, a megfelelő keretek között majd foglalkozni kell, mégpedig a Rigvéda első mandalája úgynevezett Sunasepa-himnuszainak vizsgálata révén, minthogy [[S/Sunasepa\|Sunasepa]] szó szerint Cynosoura, "Kutya-farok", azaz Ursa Minor.  
-- Azt pedig WFW könyvéből is tudjuk, hogy az istenek hyperboreai északi sarki trónja a – későbbi mindenkori – [[S/Sarkcsillag\|Sarkcsillag]], mely ma is [[P/Polaris\|Polaris]], az Kis Medve alfája.  
+- Azt pedig William F. Warren könyvéből is tudjuk, hogy az istenek hyperboreai északi sarki trónja a – későbbi mindenkori – [[S/Sarkcsillag\|Sarkcsillag]], mely ma is [[P/Polaris\|Polaris]], az Kis Medve alfája.  
 
 > A jelen szövegkörnyezetben csupán Agni még egy nevére szeretnénk rámutatni, mely maga is egy cím: Apām Napāt, s e megjelölés megilleti az iráni Tistryát (Tistrját), Szíriuszt is.  
 > Fordítása általában "a vizek gyermeke", mi viszont nem érthetünk egyet a napāt szó (melyből \[szerintük is\] a Neptunusz is ered) "gyermekként" való értelmezésével.  
@@ -60,7 +60,7 @@ Az alábbiak szintén a Hamlet Malmából származnak és [[A/Apam Napat\|Apam N
 A fentiekhez több hozzáfűznivalónk lehet. Először is a [[N/Nephew\|nephew]] és [[N/Neptunusz\|Neptunusz]] nevekkel kapcsolatosan az, hogy a Nap nevéből ered Nép, Név, Nev (nevel) és Növ (növekszik) szavunk is.  
 Az Apām Napāt tökéletesen értelmes magyarul: Apám a Napatya. Hogy a Szíriuszra is alkalmazták ezt a nevet, és a várt értelmezés, az unokaöccs "inverze" a nagybácsi, [[U/Uncle\|uncle]] = An-Kal (An-Gol?), azt jelezheti ismét, hogy a Szíriusz (rendszer valamely csillaga? Nibiru?) felelős a Nap fényének időleges csökkenéséért (lásd [[C/Circumcision\|circumcision]] és/vagy [[A/Apocalypse\|apocalypse]]), majd ahogy "az unokaöccs bosszút áll," a Nap fénye újra növekszik.  
 
-[[A/Apam Napat\|Apam Napat]] és [[A/Ardvisura Anahita\|Ardvisura Anahita]] szócikkek úgymond összetartoznak. Utóbbi szócikknél – bár WFW óva int Szíriusznak névértékben való kezelésétől (szerinte [[M/Mozgó név\|mozgó név]]?) – főleg hogy a Szíriusz folyton előkerül azonosításokként, nem képzelhető el, hogy valaha az volt a Sarkcsillag vagy ahhoz közeli csillag?  
+[[A/Apam Napat\|Apam Napat]] és [[A/Ardvisura Anahita\|Ardvisura Anahita]] szócikkek úgymond összetartoznak. Utóbbi szócikknél – bár William F. Warren óva int Szíriusznak névértékben való kezelésétől (szerinte [[M/Mozgó név\|mozgó név]]?) – főleg hogy a Szíriusz folyton előkerül azonosításokként, nem képzelhető el, hogy valaha az volt a Sarkcsillag vagy ahhoz közeli csillag?  
 Elképzelhető, hogy a Föld jelenleg fejjel lefelé van és a hyperboreai időkben a Canopus és a Szíriusz volt a fejük felett? Hogy is volt korábban:  
 A Fúrócsillag gyakorlatilag olyan csillag, mely körül cirkumpolárisan fordul el egy más, fontosnak talált csillag vagy csillagegyüttes. [[C/Canopus\|Canopus]] így a Szíriusz [[F/Fúrócsillag\|Fúrócsillag]]a a déli féltekén.  
 Már csak az a kérdés, mi esélye van annak, hogy az a csillag, melynek rendszerének bolygójáról a dogonok (is?) származtatták magukat, egykor az ősmagyarok feje felett volt...  

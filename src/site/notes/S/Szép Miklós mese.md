@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szép Miklós mese/","title":"Szép Miklós mese","tags":["dg_uploaded"],"created":"2023-10-25T05:16","updated":"2023-10-25T05:16"}
+{"dg-publish":true,"permalink":"/S/Szép Miklós mese/","title":"Szép Miklós mese","created":"2023-10-25T05:16","updated":"2024-02-02T03:56"}
 ---
 
 
 # Szép Miklós mese
 
-MA-nál Világszép Magyar Miklós címmel is megadja a mese címét (másutt is előfordulnak hasonló nevek: Világszép úrfi, Toldi Miklós, stb). Csodaszarvasának (a PDF) 243. oldalán közli a mese saját költésű verses változatát, majd a 276. oldalon magyarázatait.  
+Magyar Adorjánnál Világszép Magyar Miklós címmel is megadja a mese címét (másutt is előfordulnak hasonló nevek: Világszép úrfi, Toldi Miklós, stb). Csodaszarvasának (a PDF) 243. oldalán közli a mese saját költésű verses változatát, majd a 276. oldalon magyarázatait.  
 
 A Benedek Elek féle meseváltozat:  
 Egyszer volt, hol nem volt, hetedhét országon túl volt, de még az Óperenciás-tengeren is túl, túlonnan túl, volt egy szegény ember, annak egy fia, úgy hívták, hogy Miklós. Ez a legény olyan szép volt, hogy szépségének híre ment messze földre, lepingálták a képét, s úgy árulták ország-világszerte. Nem is hítták másként: Szép Miklós.  
