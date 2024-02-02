@@ -1,19 +1,7 @@
 ---
-title: Ízisz
-aliases:
-  - Eszit
-  - Iszisz
-status: dg_uploaded
-tags:
-  - Englishtexttranslated
-share: true
-dg-publish: true
-dg_upload_status: VNC done
-date created: 2022-12-14
-date modified: 2023-12-23
-dg-created: 2023-11-15T04:40
-dg-updated: 2023-12-23T08:26
+{"dg-publish":true,"permalink":"/I/Ízisz/","title":"Ízisz","tags":["Englishtexttranslated"],"created":"2023-11-15T04:40","updated":"2024-02-02T02:32"}
 ---
+
 
 # Ízisz
 
@@ -179,7 +167,7 @@ A phallosz másolatától [[I/Íj csillagkép\|Íj csillagkép]] és [[O/Ötven\
 > The body of Osiris in the sky was the giant Sahu sky-image, which we saw as a striding man with one arm outstretched, the open palm cupping a star. The sexual part, i.e., the phallus[^1], is clearly fixed with the stars of Orionʼs Belt, and these must have evoked the sexual potency and seeding of the stellar Osiris. In the Osiris-Isis myth, the crucial moment was the making by Isis of an artificial phallus so that she could fertilise her womb with the seed of Osiris, and become pregnant.  
 > —  
 > Ozirisz teste az égen az óriási Sahu égi kép volt, amelyet mi úgy láttunk, mint egy lépkedő férfit, aki egyik karját kinyújtva, nyitott tenyerével egy csillagot szorongat. A nemi rész, azaz a fallosz[^1], egyértelműen az Orion övcsillagaihoz rögzült, és ezek a csillag-Oszirisz nemi potenciáját és magvetését idézhették fel. Az Ozirisz-Izisz mítoszban a döntő pillanat az volt, amikor Ízisz mesterséges falloszt készített, hogy megtermékenyíthesse méhét Ozirisz magjával, és teherbe eshessen.  
-- Itt Bauvalt nem értem, mert FK adatsora alapján kiderül, hogy Ízisz már akkor megtermékenyült tőle, amikor sas képében a phalloszra rárepült. Pót-phalloszt is azért kellett készíteni, mert az eredeti elveszett. Az, hogy egy hal nyelte el, annyit jelenthet, hogy az égen [[O/Orion övcsillagai\|Orion övcsillagai]] az [[E/Égi egyenlítő\|égi egyenlítő]] alá buktak. Indiai mítoszokból a Szarvasfő került levágásra. Ott is az égi egyenlítő volt a viszonyítási alap.
+- Itt Bauvalt nem értem, mert Falvay Károly adatsora alapján kiderül, hogy Ízisz már akkor megtermékenyült tőle, amikor sas képében a phalloszra rárepült. Pót-phalloszt is azért kellett készíteni, mert az eredeti elveszett. Az, hogy egy hal nyelte el, annyit jelenthet, hogy az égen [[O/Orion övcsillagai\|Orion övcsillagai]] az [[E/Égi egyenlítő\|égi egyenlítő]] alá buktak. Indiai mítoszokból a Szarvasfő került levágásra. Ott is az égi egyenlítő volt a viszonyítási alap.
 
 A mindenütt a Nagy Medve csillagképet kereső Greg Rigby The God Secret című könyvében idézett...  
 
