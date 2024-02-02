@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Erdő/","title":"Erdő","created":"2023-11-13T05:47","updated":"2024-01-04T05:33"}
+{"dg-publish":true,"permalink":"/E/Erdő/","title":"Erdő","created":"2023-11-13T05:47","updated":"2024-02-02T02:27"}
 ---
 
 
@@ -13,13 +13,13 @@ Erdő és [[T/Tölgy\|tölgy]] kapcsolatáról lásd [[D/Druida\|druida]]. Lásd
 
 Nemcsak az `earth` hasonló szó, hanem a Götz László Keleten kél a Nap című könyvének 486. oldalán [[B/Budenz József\|Budenz József]] szóhasonlításaiból tallózott cser. `erdä` "a fa veleje, gesztje" szó is.  
 
-Az erdőről, mint a [[K/Kutyafejű\|kutyafejű]] népek liminális helyéről sok szó esik DGW könyvében; lásd [[J/Jungle\|jungle]], [[V/Vrâtya\|Vrâtya]], [[R/Rogue\|rogue]], [[S/Satyr\|Satyr]] és más címszavaknál.  
-Legutóbb a [[D/Dream\|dream]] címnél előjött görög `δρυµός` (drumósz) = erdő is a Tejútra utaló és nem földi erdő.  
+Az erdőről, mint a [[K/Kutyafejű\|kutyafejű]] népek liminális helyéről sok szó esik David Gordon White könyvében; lásd [[J/Jungle\|jungle]], [[V/Vrâtya\|Vrâtya]], [[R/Rogue\|rogue]], [[S/Satyr\|Satyr]] és más címszavaknál.  
+Legutóbb a [[D/Dream\|dream]] címnél előjött görög `δρυµός` (drümósz) = erdő is a Tejútra utaló és nem földi erdő.  
 Erdő és [[K/Kert\|kert]] Tejút-specifikus égi elnevezések, melyek közvetlenül a Tejútanya [[V/Vulva\|vulvá]]janak, [[O/Odú\|odú]]jának, [[B/Barlang\|barlang]]jának, [[O/Öl\|öl]]ének (lásd [[G/Galactic centre\|Galactic centre]]) tájára utalhatnak.  
 Az [alábbi](https://qr.ae/pNr3PT) Quora oldalon is leírtam válaszomban, hogy az erdő az eredő helye, hogy a fa a nimfa/tündér, aki baba is lehet, és hogy a szavak átvezetnek más nyelvekbe, de leginkább azt kell látni, hogy az első mesék, mítoszok magyar nyelvűek voltak.  
 Ezért lehet az, hogy a mes, messze, mész, méz, stb. szavainkat csoportosító [[M/MISZ\|MISZ]] etimonnál szerepeltettük a török `meşe` = tölgy szó (elődjével) rokonnak tekinthető azeri `meşə` = erdő, lett `mežs` = erdő, finn `metsä` = erdő, karéliai `meččä` szavakat.  
 Említendő még itt a kelta `meas`, walesi `mes` = gyümölcs; tölgy gyümölcse, a makk!  
-De hogy az erdőség és a tölgy összefüggenek, testálja a görög szavak által mutatott analógia is: a görög `δάσος`, `δρυµός` (dárosz, drumósz) = erdő, `drüsz` = tölgy, továbbá az ógörög `δόρυ` (dórü) = fa, lándzsa (a walesiben `dâr` = tölgyes(ek)).  
+De hogy az erdőség és a tölgy összefüggenek, testálja a görög szavak által mutatott analógia is: a görög `δάσος`, `δρυµός` (dárosz, drümósz) = erdő, `drüsz` = tölgy, továbbá az ógörög `δόρυ` (dórü) = fa, lándzsa (a walesiben `dâr` = tölgyes(ek)).  
 [[M/Méz\|Méz]] címnél is lényegében arról volt szó, hogy a régi magyar és a kún-hun nyelvnek lehetett más szava is erdőre, de persze az, hogy más nyelvekben megvannak bizonyos szavak, még nem bizonyíték:  
 Ami a [[M/MISZ\|MISZ]] címnél és nagyjából fentebb is felsorolt erdő jelentésű szavakat illeti (beleértve a `mis` = erdei, tündér értelmű vogul szót is), nyilvánvaló, hogy nem a mező szavunkat vették át az utódnyelvek. [[M/MES\|MES]]-fán kívül (minthogy a fa és erdő kapcsolata egyértelmű) kívül viszont [[M/Méz\|méz]] szavunkat is felhozhatnánk eredetéül.  
 Annál is inkább, mert ahogy [[J/Jungle\|jungle]], [[J/Juniper\|juniper]] és [[H/Honey\|honey]] címnél is láttuk, az erdőlakó tündérnép nevéről kapta a nevét: a kún-hun nyelvben tehát erdő, erdei és tündér lehet egyszerűen hun (az azték `hun`[^1], csecsen `ẋun` \[hun\] = erdő és a német `hain` = berek, liget szavak alapján is) vagy efféle név, míg a magyarban mes, mis, mez, méz alakú szó. Tulajdonképpen mindkettő fény jelentésű alapszóból indul ki.  
@@ -32,9 +32,9 @@ Egyébként istentiszteleteit is erdőben (lásd Sir James Frazer The Golden Bou
 > Erdő szavunk, mely az `ered` ige főnévi alakja, és ilyeténképpen kétségtelenül termékenység értelmű, "kis kerek erdő" jelzős szerkezetben a mesék és dalok szövegében a szeméremdomb szőrzetét jelképezi: "Népdalaink szép kerek erdeje, bár valójában nem is kerek, mint már bizonyítottuk, a női *pubes*, közepében a két szál vessző a férfi és a női vessző egyesülését jelenti..." (i.m.: 316).  
 > A ruhára: "a ruhaneműek, a kalaptól a lábbeliig a női nemi szervet, a fej és a végtagok, melyeket amazokba bújtatnak, a phalloszt jelképezhetik. Ezért is nevezi a vulgáris francia nyelv a vulvát habit à vit (a penis ruhája) névvel." (I.m.: 138.)  
 
-#### Magyar Adorján Kérdésekjében...
+#### Magyar Adorján Kérdések...  
 
-...levő adata és a reakcióm [[G/Germán\|germán]] címnél is szerepelt:  
+...című könyvében található adata és a reakcióm [[G/Germán\|germán]] címnél is szerepelt:  
 > Vajon igaz-e, hogy ugor, ugar, azaz magor vagy magyar őseink a földművelést éppen a hegyek között kecskenyájakat legeltető szláv, és az őserdőkben vadászó életmódot folytató germán népektől tanulták? Nem én, hanem a germán tudósok állítják, hogy a germán név kelta eredetű, és erdei, erdőlakó értelemmel bír. (Mayers lex. 1897 Germ.) Nem sajátságos-e tehát, hogy viszont törökül `orman` = erdő?  
 - Nos, mivel az erdő valójában a Tejút kivételes része, valóban onnan ered az ember. De a [[M/MISZ\|MISZ]] címnél említett vogul-osztják `mis` = erdei ember, erdőlakó, tündér is a Tejút MISZ nevével azonos. Érdekes, a németek összes neve Tejútról származásról tanúskodik. Ger-Man tehát a Menny Gyermeke/Ura, viszont az előhangmentes török orman is Menny Ura értelmű lehet. Ugyanakkor másutt láttuk, hogy az erdő, erőd, hegy értelmek keverednek és a török szó is lehet Hegy-Mennybe értelmű. <br/>
 Orman az Ormánság tájegységünk nevében is szerepel. A hivatalos verzió szerint:  
