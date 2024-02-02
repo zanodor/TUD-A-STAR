@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Indra/","title":"Indra","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-10T07:33","updated":"2023-11-10T07:33"}
+{"dg-publish":true,"permalink":"/I/Indra/","title":"Indra","tags":["Englishtexttranslated"],"created":"2023-11-10T07:33","updated":"2024-02-02T03:12"}
 ---
 
 
@@ -28,7 +28,7 @@ Szergej Tokarev írja:
 > Az egyik legarchaikusabb vonásokkal rendelkező korai isten Indra volt. Ő volt a legnépszerűbb isten a Védákban: 250 himnuszt szenteltek neki, és a többi himnuszban is gyakran említik. Egyrészt harcos isten volt, másrészt a mennydörgés és a villámlás istene. Valószínűleg Indra eredetileg az árják törzsi istene volt, vagy valamelyik Tritsu nevű törzsüké. Ő volt a harcos isten, és csak később vált a természet istenévé. Indrát a Rigvéda himnuszokban harcosként írták le. Más írásokban a mennydörgés istene, a nagy égi isten, sőt a nap és a fény ura volt.  
 > Volt egy mítosz Indra harcáról a nagy démonnal, [[I/Indra és Vritra\|Vritra]], akit a mennydörgő felhők megszemélyesítőjének tekintettek. Minden isten félt ettől a démontól; egyedül Indra vívott vele csatát és győzött.  
 
-DGW könyvének lábjegyzetében szó van a germán [[R/Ragnarök\|Ragnarök]] indiai párhuzamáról:  
+David Gordon White könyvének lábjegyzetében szó van a germán [[R/Ragnarök\|Ragnarök]] indiai párhuzamáról:  
 > In the Buddhist Mahâkanha Jâtaka (Jâtaka no. 469; in Cowell, Jâtaka 4:112-15), Sakka (Indra) transforms his charioteer Mâtali[^1] into a great black dog. This dog punishes those who stray from their svadharma. In this story, it is also said that one of the "four typical sounds" of the central continent of Jambu-dvipa is the bark of Vissakamma (Visvakarma) in the guise of a dog that threatens to devour all wicked beings after the decay of Kassapa's (Kasyapa's) rule Jâtaka 4:113 and n. 4). This is apparendy an Indian parallel to the Scandinavian theme of Ragnarok, in which the escape of a wolf-dog, [[F/Fenrir\|Fenrir]], from his bonds unleashes the apocalypse at the end of time.  
 > —  
 > A buddhista Mahâkanha Jâtakában (Jâtaka 469. sz.; Cowell, Jâtaka 4:112-15) **Sakka** (Indra) a szekérhajtóját, Mâtalit[^1] nagy fekete kutyává változtatja. Ez a kutya megbünteti azokat, akik eltévednek a svadharmától. Ebben a történetben az is elhangzik, hogy a Jambu-dvipa központi kontinensének "négy jellegzetes hangja" közül az egyik a kutya alakjában megjelenő Vissakamma (Visvakarma) ugatása, amely azzal fenyeget, hogy Kassapa (Kaszjapa) uralmának bomlása után felfal minden gonosz lényt Jâtaka 4:113 és 4. sz. n.). Ez nyilvánvalóan a skandináv Ragnarök témájának indiai párhuzama, amelyben egy farkaskutya, [[F/Fenrir\|Fenrir]] kiszabadulása kötelékeiből elszabadítja az idők végén bekövetkező apokalipszist.  
