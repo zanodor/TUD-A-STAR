@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Humbaba/","title":"Humbaba","tags":["Englishtexttranslated"],"created":"2023-10-23T03:13","updated":"2024-01-27T11:08"}
+{"dg-publish":true,"permalink":"/H/Humbaba/","title":"Humbaba","tags":["Englishtexttranslated"],"created":"2023-10-23T03:13","updated":"2024-02-02T03:09"}
 ---
 
 
@@ -20,7 +20,7 @@ Az [alábbi](https://youtu.be/u9eX2Hs9OUc) Álomvarázs videóban taglalt [[K/Ku
 Azt mondja, hogy a kurgán-temetkezés ék kőszobrait kő-babáknak hívják az oroszok. Folyt. lásd [[B/Baba\|baba]].  
 Álomvarázs adata szerint [[B/Bau\|Bau]] istennő [[B/Baba\|baba]]-ként és [[G/Gula\|Gula]]-ként is ismeretes, de mivel [[B/Bába\|bába]] funkciót is ellát, a Baba nyilván akkor bábát jelent.  
 Szól még utána a Kish-beli Ku-Bau-ról és a vele asszociált hettita Ku-Babáról/Kumbabáról is. Utóbbiban nyilván (K = H) Humbabát és így tehát Bau-t kell látni.  
-A Ku-Baba > Kubebe > [[C/Cybele\|Cybele]] fejlődési sorozatot – még ha PJI így is írja – persze nem lehet feltétlenül elfogadni. A kebel szó megléte miatt (ráadásul k-előhang nélkül is megvan öböl).  
+A Ku-Baba > Kubebe > [[C/Cybele\|Cybele]] fejlődési sorozatot – még ha Péterfai János így is írja – persze nem lehet feltétlenül elfogadni. A kebel szó megléte miatt (ráadásul k-előhang nélkül is megvan öböl).  
 
 ![assets/Humbaba_image2.png](/img/user/H/assets/Humbaba_image2.png)  
 Robert Temple Sirius Mystery könyve 110. oldalán szól arról, hogy a Humbaba-fej mintha belekből lenne kialkotva. [[M/Mithra\|Mithra]] címnél legutóbb írottak kapcsán vetődött fel bennem, hogy ez a belek = méh = mostani világkorszakbeli Skorpió csillagkép körüli terület lehet a [[G/Gilgames és Enkidu\|Gilgames és Enkidu]] mítoszában[^1] de ellenőrizni kell.  
