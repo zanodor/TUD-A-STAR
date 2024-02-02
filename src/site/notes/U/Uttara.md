@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Uttara/","title":"Uttara","tags":["Englishtexttranslated"],"created":"2023-10-17T08:05","updated":"2024-01-14T01:49"}
+{"dg-publish":true,"permalink":"/U/Uttara/","title":"Uttara","tags":["Englishtexttranslated"],"created":"2023-10-17T08:05","updated":"2024-02-02T04:08"}
 ---
 
 
@@ -37,4 +37,4 @@ Uttara szerepel nemcsak az [[U/Uttarayana\|Uttarayana]], hanem az Északi Hegy j
 
 Az indeknél Uttarakuru tulajdonképpen [[H/Hyperborea\|Hyperborea]] neve, ahol a [[K/KUR\|KUR]] szó utalhat a Világhegyre (Ut-Tar Kur-U: NapCsillag (Végtelen) Magas Hegye).  
 
-VN Sziriat oszlopai című könyvének adata szerint az uttarakura nevű nép viszont a Szaka Dvipán lakik, melyről annyit ír, hogy a Tejtengerben fekszik. Ezek nyilván egy és ugyanazon szigeten = hegyen, helyen állnak, egy és ugyanazt jelentik.  
+Várkonyi Nándor Sziriat oszlopai című könyvének adata szerint az uttarakura nevű nép viszont a Szaka Dvipán lakik, melyről annyit ír, hogy a Tejtengerben fekszik. Ezek nyilván egy és ugyanazon szigeten = hegyen, helyen állnak, egy és ugyanazt jelentik.  
