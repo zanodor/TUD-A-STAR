@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bika/","title":"Bika","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-09T02:07","updated":"2023-11-25T10:37"}
+{"dg-publish":true,"permalink":"/B/Bika/","title":"Bika","tags":["Englishtexttranslated"],"created":"2023-11-09T02:07","updated":"2024-02-02T01:27"}
 ---
 
 
@@ -28,7 +28,7 @@ A Bika magyarral azonos egyiptomi Bakh, Bakis, Pakis, P-ka, Pika neveiről lásd
 > A Bika csillagkép egy része átlendült az [[E/Égi egyenlítő\|égi egyenlítő]]n kicsit, ami miatt azt hitték őseink, hogy összeomlik a világ. A Bikát ezért igyekeztek leölni, amit Mithra, vagy Mithrász is gyakorol (lásd [[M/Mithra és a bika\|Mithra és a bika]]). Természetesen nem egy bikát öl meg, hanem visszalöki az Égi Bikát a helyére. Az Aldebarán és egy másik csillag a Bika Szarva.  
 - Amiről még lehet itt még szólni, hogy a bikaáldozatok is arra a korra tehetők, amikor a precessziós skálán a Bika csillagkép uralkodott: a bika leölésével gyakorlatilag az időt próbálták siettetni.
 
-PJI adatát a bika név jelentésében annyiban lehet kiegészíteni, hogy [[K/KA\|KA]] – [[K/KAR\|KAR]] valójában a szarvára, mint a szakrális királyok által viselt fejfedők kozmikus fény-adóvevőjére, egyfajta villámhárítójára utal.  
+Péterfai János adatát a bika név jelentésében annyiban lehet kiegészíteni, hogy [[K/KA\|KA]] – [[K/KAR\|KAR]] valójában a szarvára, mint a szakrális királyok által viselt fejfedők kozmikus fény-adóvevőjére, egyfajta villámhárítójára utal.  
 BI valóban a kettősségre kell hogy utaljon, utódnyelveink szerint (ahogy [[A/Ambivalent\|ambivalent]] szóban is). Vélhetően – [[P/Pig\|pig]] és [[B/Bitch\|bitch]] szónál is előjövő – PiCsa aljas szavunkban is Pi Bi = kettő értelemmel áll, utalva a két farpofára. Bihar magyar és indiai tájnévben is két hegyet ([[H/HAR\|HAR]]) kell keresni. Hogy hogyan alakult ki BI kettős értelme? Vélhetően asztroteológiai háttere van: [[P/PI\|PI]] csillagot jelent. Minden jel arra mutat, hogy [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]] van egy másik csillaggal. De ha az [[A/Ambi-\|ambi-]] előtagot vizsgáljuk, mely [[E/Ember\|ember]] szavunkat idézi, akkor is férfi-női kettősségről van szó.  
 BI megvan még billeg (Bi(l)-Leg) szavunkban, szintén kettős értelemmel, ha a mérleg két serpenyőjére gondolunk. Mivel viszont a mérleg, mint Állatövi jegy (lásd [[Z/Zodiac\|zodiac]]) – ahogy a latin [[L/Libra\|Libra]] szónál láttuk – elsődlegesen a fény és a sötétség eloszlására utal a tágabb értelmezésben vett Maha Yuga nagyciklus (lásd [[Y/Yuga cycles\|Yuga cycles]]) és a nappalt-sötétséget 12-12 órára osztó napéjegyenlőségek ciklusának értelmezésében, azt kell gondolni, hogy BI(L) valódi értelme egyezik KA(R) értelmével: előbbi a palóc szócsoport szerint, utóbbi a kőrös ill. kár/kér szócsoport szerint (besenyőknél [[V/VASZ\|VASZ]] lehet ugyanez).  
 BI kettő értelme megvan még a CzF által is homályos eredetűnek tartott bilincs szavunkban, ahol BI ismét a két láb és két kéz lánccal való összekötését jelenti.  
@@ -113,10 +113,10 @@ Jankovics Marcell Mély a múltnak kútja című könyvének adata szerint volt 
 [[M/MIN\|MIN]] címnél szerepelt legutóbb, hogy vajon a [[M/Mén\|mén]] (mely ugye a Hold nevét adja ki) névvel egyeztethető-e. Ott is szóba került a bika illetve a kapcsolat a bika és a Hold között.  
 A másik furcsaságot képviselő [[N/Napistennő\|Napistennő]] címnél egy másik összefüggést is feltártunk.  
 
-Némi magyarázatul szolgálna még az, hogy a Vénusz a Bika csillagképben uralkodó. Viszont nem magyarázza meg a bika[[S/Szarv\|szarv]]akat, melyek inkább [[H/Hold\|Hold]]ra utalnak. (Lásd MVJ ilyen témában érintett adatait ott.)  
+Némi magyarázatul szolgálna még az, hogy a Vénusz a Bika csillagképben uralkodó. Viszont nem magyarázza meg a bika[[S/Szarv\|szarv]]akat, melyek inkább [[H/Hold\|Hold]]ra utalnak. (Lásd Molnár V. József ilyen témában érintett adatait ott.)  
 De ha már itt tartunk, a [[Z/Zodiákus-ember\|zodiákus-ember]] felépítését tekintve a Kos a fej, a Bika a nyak, és a népi bölcsesség szerint a férfi a fej, a nő a nyak.  
 
-Amikor a kihalófélben lévő nyugat-germán vilamovian nyelvben megtalált `bow` \[bof\] = nő; nej ([lásd itt](https://en.wiktionary.org/wiki/bow#Vilamovian)) szót megláttam, előbb a [[B/Bow\|bow]] = íj, ív, majd később a [[B/Bovine\|bovine]] szónál említett görög `bos`, `bous` = ökör szón keresztül a [[S/Szarv\|szarv]]as Hold ökör (lásd MVJ adatát szarvas Holdról [[H/Hold\|Hold]]) minősége ötlött fel (ezen keresztül alakult ki a nő értelem). (Mindkét megoldás megfelel, tekintve, hogy az ív/íj a Holdat, holdsarlót formázza az égen.)  
+Amikor a kihalófélben lévő nyugat-germán vilamovian nyelvben megtalált `bow` \[bof\] = nő; nej ([lásd itt](https://en.wiktionary.org/wiki/bow#Vilamovian)) szót megláttam, előbb a [[B/Bow\|bow]] = íj, ív, majd később a [[B/Bovine\|bovine]] szónál említett görög `bos`, `bous` = ökör szón keresztül a [[S/Szarv\|szarv]]as Hold ökör (lásd Molnár V. József adatát szarvas Holdról [[H/Hold\|Hold]]) minősége ötlött fel (ezen keresztül alakult ki a nő értelem). (Mindkét megoldás megfelel, tekintve, hogy az ív/íj a Holdat, holdsarlót formázza az égen.)  
 Ekkor értettem meg végérvényesen a bikaistennő fogalmát. Azt viszont le kell szögezni, hogy ez a felfogás csak akkortól válik bejáratottá, amikor a szarvasmarha felváltja a szarvas tiszteletét (későbbi).  
 
 Azt is tudni kell a felfogások kialakulásában, hogy mi volt előbb: egyrészt magyar nyelv és Tejútistennő tisztelet, csak utána sumér nyelv és az abból boncolgatható tételek, melyről [[G/Göd\|Göd]] címnél volt szó:  
