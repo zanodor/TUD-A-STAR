@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Freyja/","title":"Freyja","tags":["dg_uploaded"],"created":"2023-10-05T03:45","updated":"2023-12-04T06:28"}
+{"dg-publish":true,"permalink":"/F/Freyja/","title":"Freyja","created":"2023-10-05T03:45","updated":"2024-02-02T03:04"}
 ---
 
 
@@ -11,7 +11,7 @@ A skandináv mitológiában a Ván istenség Njörd lánya Freyja (kivel [[V/Vé
 John Lindow Norse Mythology című könyvében az áll róla bevezető jellemzésként, hogy fontos istennő, a Ván istenségek között az egyetlen megnevezett női képviselő és hogy az óriások kéjvágyának tárgya.  
 
 A [[V/VAN\|VAN]], [[V/VÁN\|VÁN]], [[V/VÁNY\|VÁNY]], továbbá latin vanus (lásd angol [[V/Vain\|vain]]) és angol [[W/Want\|want]] szavak kapcsán felmerült, hogy hívó (mint [[E/Éva\|Éva]] nevében), befogadó, befogadni vágyó, nőiségi így anyag értelműek, ahol a fény a hímségi ellenpárja.  
-PJI viszont [[V/VÁNY\|VÁNY]]-nál írja, hogy a Fény szó variánsa. Ezzel egyrészt egybevág, hogy a Frey, Frejya, [[F/Firuna\|Firuna]], [[F/Firtos\|Firtos]], [[F/Fair\|fair]], [[F/Fairy\|fairy]], stb. nevek mind a [[F/Fehér\|fehér]] (fejér; [[F/FER, FÉR\|FER, FÉR]]) szavunkkal vethetők össze, abból fejlődtek ki, de másrészt pedig ez így nem igaz, mert a VAN/VÁNY a FÉNY-nyel csak úgy azonosul, hogy azt befogadja. Lásd erről még [[W/Wan\|wan]] (és [[W/Wane\|wane]]).  
+Péterfai János viszont [[V/VÁNY\|VÁNY]]-nál írja, hogy a Fény szó variánsa. Ezzel egyrészt egybevág, hogy a Frey, Frejya, [[F/Firuna\|Firuna]], [[F/Firtos\|Firtos]], [[F/Fair\|fair]], [[F/Fairy\|fairy]], stb. nevek mind a [[F/Fehér\|fehér]] (fejér; [[F/FER, FÉR\|FER, FÉR]]) szavunkkal vethetők össze, abból fejlődtek ki, de másrészt pedig ez így nem igaz, mert a VAN/VÁNY a FÉNY-nyel csak úgy azonosul, hogy azt befogadja. Lásd erről még [[W/Wan\|wan]] (és [[W/Wane\|wane]]).  
 Hasonló a helyzet [[S/Sár\|sár]], [[S/Szár\|szár]] (és főleg a nagy gondot okozó [[S/Sárkány\|sárkány]]) szavak esetebében is, hiszen a [[F/Fény és anyag\|fény és anyag]] is megjelenik bennük. Az anyag, mint tudjuk, a fény megszilárdulásaként fogható fel, ahogy az arany a Nap féme: a napfény megszilárdulása.  
 Ugyanígy, visszatérve a fehérre, a tej a [[T/Tejút\|Tejút]] fényeinek földi, anyagi megnyilvánulása, minekfolytán a perzsa [[D/Dugh\|dugh]] = tej szentnek (lásd [[D/Daughter\|daughter]] és [[D/DUG\|DUG]], valamint [[B/Boldog\|boldog]]) értelmezhető, ahogy Indiában a tehén számít szent állatnak (lásd még bővebben [[B/Bovine\|bovine]]).  
 
