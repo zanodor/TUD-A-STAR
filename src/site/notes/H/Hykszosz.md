@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hykszosz/","title":"Hykszosz","tags":["Englishtexttranslated"],"created":"2023-10-31T08:16","updated":"2023-11-08T03:44"}
+{"dg-publish":true,"permalink":"/H/Hykszosz/","title":"Hykszosz","tags":["Englishtexttranslated"],"created":"2023-10-31T08:16","updated":"2024-02-02T02:32"}
 ---
 
 
@@ -37,7 +37,7 @@ Az [[A/Avar\|avar]] viszont valóban a [[H/Héber\|héber]] nép(név) eredetét
 - Götz László Keleten kél a Nap című könyvének 926. oldalán [[V/Velikovsky, Immanuel\|Velikovsky]] elméletének ismertetésénél, szintén a [[E/Exodus\|zsidó kivonulás]] témájában írja, hogy a hikszoszok uralma mintegy 100-120 évig tartott, kb. Kr. e. 1700 és 1580 között.
 
 Golenya Ágnes a Jakab Istvánnal folytatott ([[J/Jehova-program\|Jehova-program]]ról szóló) beszélgetésében is úgy említi őket, mint azon népet, melyből a későbbi zsidókat "gyártották." (Nos, közben [[S/Szemiták és árják\|szemiták és árják]] címnél írottak alapján jobban látjuk, miről lehetett szó.)  
-PJI lentebbi passzusában is szerepel az azonosítás.  
+Péterfai János lentebbi passzusában is szerepel az azonosítás.  
 
 Kubínyi Tamás Turul és szarvas [című](https://youtu.be/VlJJdkm4AWE) YouTube-os előadás-sorozatának első részében 1:14:37-től kezdve tárgyalja a [[Z/Zsidó\|zsidó]]k valódi kilétét, a hykszoszokat (akik ragozó nyelvet beszéltek[^2]) és [[J/Jeruzsálem\|Jeruzsálem]]et. 1:20:30-nál képi szöveges adat is árulkodik arról, hogy Egyiptomból való kivonulásuk után Jeruzsálemben telepedtek le.  
 ![assets/Hykszosz_image1.png|500](/img/user/H/assets/Hykszosz_image1.png)  
@@ -50,7 +50,7 @@ Elmondja még, hogy a személyesen helyszínen járó [[H/Hérodotosz\|Hérodoto
 #### Jankovics Marcell is írja:  
 
 > Széth a forró júniusban vette át fivérétől a hatalmat, az ő uralmának kezdetét jelezte a hónap csillagképében, a Rákban lévő két [[S/Szamár\|szamár]] \[Asellus inkább Szamárka\] csillag. Idővel a két isten megítélésének dialektikus egyensúlya felborult, Ozirisz és fia, Hórusz javára, Széth mint testvérgyilkos egyre ördögibb alakot öltött. Ennek történelmi oka is van. Amikor a hykszoszok meghódították Egyiptomot (i.e. XVIII.sz.), Kisázsiából és Palesztinából egy szamáristen kultuszát hozták magukkal, akit Egyiptomban Szethtel azonosítottak. Ettől kezdve Szeth az ország ellenségeinek istene lett. (E palesztinai szamárkultusznak tulajdonítható, hogy jóval később a rómaiak a zsidókat és keresztényeket azzal csúfolták, hogy istenüknek szamárfeje van. Vö. a bibliai Sét nevével.)  
-- Azt már én teszem itt hozzá, hogy a [[S/Szamár\|szamár]] gyakran a szabadságszerető magyarok (és akár hunok) jelképállata. Legalábbis PJI ezt írja, de azóta kissé átértékeltem a szamárkérdést.
+- Azt már én teszem itt hozzá, hogy a [[S/Szamár\|szamár]] gyakran a szabadságszerető magyarok (és akár hunok) jelképállata. Legalábbis Péterfai János ezt írja, de azóta kissé átértékeltem a szamárkérdést.
 
 [Ezen](https://youtu.be/veRiCjnJ_YQ) Jeruzsálem ősi neve című ÁKTV műsorban KT 1:22:00 után a név esetleges alternatív alakjait ízlelgetve Gis-Kus formát is említ, mely már ugye Kus Fia Nimród összefüggést takarhatna, de itt KT Gis-Kus = Király Szkíta értelemmel jön elő.  
 Itt még elmondja, hogy visszacsapó nyilat és különleges nyílhegyeket használtak. Lóvontatású harci szekerei voltak abban az időben, amikor másnak ilyen nem volt. Egyiptomi faliképek örökítették meg a hykszoszokat.  
@@ -88,7 +88,7 @@ Ezek az események a bibliai Exodussal egybevágóak, és a KT által ezen műso
 Zajtitól való szintén:  
 > A hittiták (hitteusok), avagy kheták ugyanegy fajúak a turán-iráni népcsaládhoz tartozó "skyth" néppel'' ugyanegy az ősi chion, chionita, khún, avagy hun néppel. Renan hivatkozik arra, hogy az egyiptomi emlékek [[H/Heta\|kheta]] néven említik a hyksosokat.  
 
-A fentebbi bevezető soroknak megfelelően írja PJI is:  
+A fentebbi bevezető soroknak megfelelően írja Péterfai János is:  
 > A **hykszósz és héber történések feltűnően egybe esnek**. A hykszószok szemita eredete teljes tévedés[^5] \[fentebb Hérodotosz ilyen adatát is láttuk\], viszont Tifon ([[T/Typhon\|Typhon]]) imádása, valamint a szemiták \[a bibliai?\] Szettől való származása olyan perdöntő bizonyíték a zsidók és más szemita népek magyaroktól, hunoktól való eredetére, aminek hatálya alól nincs lehetőség kibújni.  
 
 #### Magyar Adorján írja:
@@ -96,7 +96,7 @@ A fentebbi bevezető soroknak megfelelően írja PJI is:
 > Némely tudós a hikszoszokat araboknak véli. Tény mindenesetre, hogy az a-rab név az a-var vagy a-bar névvel azonos, mert hiszen ennek csak megfordított kiejtése. Szerintem tehát a dolog a következőkép áll: létezett egy avar avagy abar, azaz a var avagy a bar, nevű s Elő-Ázsiába kiköltözött [[B/Barkó\|barkó]] vagyis avar őstörzsünk, amely utóbb \[hykszosziként\] Egyiptomot is meghódította. Azonban századok múlva, miután őket az egyiptomiak legyőzték, részben Előázsiába menekültek vissza de részben talán a Vörös-Tenger partjaira is. Utóbb azonban az Arábia terméketlen sivatagos tájairól folyton közéjük szivárgó műveletlen de sémita nyelvű beduin féle nép által ugyanúgy boríttattak és semításíttattak el mint ahogy a dalmáciai művelt olaszságot a terméketlen hegységek közül folyton közéjük szivárgó műveletlen szlávság borította és szlávosította el, de átvéve az olaszság műveltségét. Ugyanígy a műveletlen beduinokból és művelt avarokból előállott keveréknép is megtartotta, ha már elhanyatlott alakban is, az ősi avar, azaz abar vagy arab műveltséget, de megtartotta az arab nevet is, ugyanúgy mint ahogy például az igazi bolgárokból és szlávokból előállott de már szláv nyelvű keveréknép is megtartotta a bolgár nevet.
 - De [[A/Asera\|asera]] címnél is arról volt szó, hogy az [[A/Asszír\|asszír]] nép neve eredetileg turáni volt.
 
-PJI másutt avarok abar név-variánsát veti össze az [[A/Arab\|arab]] népnévvel.  
+Péterfai János másutt avarok abar név-variánsát veti össze az [[A/Arab\|arab]] népnévvel.  
 
 A vitatható levezetésekkel előhozakodó [[D/Dudás Rudolf\|Dudás Rudolf]] is elemzi a nevet, de nem tartom érdemesnek ideírni. Maradjon egyelőre a heka/hékás kiinduló, de tartsuk előtérben az [[E/Egy\|egy]] és [[E/Ég\|ég]] szavakat is.  
 Hasonló előtagú a [[H/Hickory\|hickory]].  
