@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bone/","title":"Bone","tags":["dg_uploaded"],"created":"2023-11-21T02:03","updated":"2023-11-21T02:03"}
+{"dg-publish":true,"permalink":"/B/Bone/","title":"Bone","created":"2023-11-21T02:03","updated":"2024-02-02T01:30"}
 ---
 
 
 # Bone
 
 [[C/Csont\|Csont]].  
-Bont szavunkból, PJI szerint:  
+Bont szavunkból, Péterfai János szerint:  
 > Az Iszton alak az Isztán magyar eredetű szóval azonos, ami a Fény Tanyája értelmet tartalmazza. Isz a Fény, a Tán a Tanya. A szikla, kő fehér, mint a csont. Őseink felismerték a földön heverő csontok és a kövek közti hasonlóságot, mivel tudtak gondolkodni. A Csontom-Bontom kifejezésben az állat szétbontása van, az angol Csont még Bone, ami a levágott állat csontjának [[B/Bont\|bont]]ására utal.  
 
 Létezik viszont `bőnye` szavunk, mely egy ma közkeletű definíciója szerint az izmok felületén lévő hártya.  
