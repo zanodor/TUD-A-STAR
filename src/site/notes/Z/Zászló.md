@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/Z/Zászló/","title":"Zászló","created":"2023-10-17T09:23","updated":"2023-11-08T04:23"}
+{"dg-publish":true,"permalink":"/Z/Zászló/","title":"Zászló","created":"2023-10-17T09:23","updated":"2024-02-02T04:18"}
 ---
 
 
 # Zászló
 
 A zászló jelvünkről Ipolyi Arnold Magyar mythologia című könyvének 578. oldalán szól.  
-A szót PJI nem elemzi, és a szláv szavakkal (`zaslona` = függöny) rokonításon túl CzF is annyit mond csak róla, hogy előjön z-előhang nélkül is. Ha a lobogó (láng), [[F/Flag\|flag]] és [[B/Bunting\|bunting]] szavak logikáját tekintjük, Ász-Lu valóban értelmezhető lehet ilyen síkon, vagy Szász/Száz-Ló/Lu vagy méginkább Sas-Lu irányban kell gondolkodni. A római zászló is ilyen sasos, de a [[T/Turul\|Turul]] madarunk is efféle madár.  
+A szót Péterfai János nem elemzi, és a szláv szavakkal (`zaslona` = függöny) rokonításon túl CzF is annyit mond csak róla, hogy előjön z-előhang nélkül is. Ha a lobogó (láng), [[F/Flag\|flag]] és [[B/Bunting\|bunting]] szavak logikáját tekintjük, Ász-Lu valóban értelmezhető lehet ilyen síkon, vagy Szász/Száz-Ló/Lu vagy még inkább Sas-Lu irányban kell gondolkodni. A római zászló is ilyen sasos, de a [[T/Turul\|Turul]] madarunk is efféle madár.  
 - Ha már Turul (ami a megfejtés is lehet akkor), éppen Dúcz László Szent madarunk a Turul című tanulmányában [[C/Címer\|címer]] címnél írottak tehetők lennének ide. Lásd ott.  
 A kétfejű sasos zászlókról lásd [[S/Sas\|sas]].  
 Egyébiránt a Száz-Ló összefüggés előjön Kállay-nál is alant.  
