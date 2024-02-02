@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["dg_uploaded","Englishtexttranslated","containstransclusions"],"created":"2023-10-19T11:35","updated":"2023-11-10T03:47"}
+{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T11:35","updated":"2024-02-02T03:05"}
 ---
 
 
 # G
 
-Immáron két sumér szót találtam, melyek elején szerepel egy feleslegesnek tűnő G hang. Az egyik az [[A/Asszony\|asszony]] és [[B/Boldogasszony\|Boldogasszony]] címnél is taglalt `Gasan` (Asan = asszony), a másik a Gyárfás Ágnes A kék emlékkő című Ősi Gyökér 2005/2. sz. megjelent cikkében hozott, Labat 554 jelű `Geme` (lásd azóta GL féle adatokkal is [[G/Geme\|geme]]), mely rendesen [[E/Eme\|eme]], mely [[E/Emese\|Emese]] nevében is szerepel.  
+Immáron két sumér szót találtam, melyek elején szerepel egy feleslegesnek tűnő G hang. Az egyik az [[A/Asszony\|asszony]] és [[B/Boldogasszony\|Boldogasszony]] címnél is taglalt `Gasan` (Asan = asszony), a másik a Gyárfás Ágnes A kék emlékkő című Ősi Gyökér 2005/2. sz. megjelent cikkében hozott, Labat 554 jelű `Geme` (lásd azóta Götz László féle adatokkal is [[G/Geme\|geme]]), mely rendesen [[E/Eme\|eme]], mely [[E/Emese\|Emese]] nevében is szerepel.  
 
 Ismert még a szumer `sal` = asszony, nő (vö. a főképpen René Labat adataira támaszkodó [[D/Dudás Rudolf\|Dudás Rudolf]] közlése alapján ismert szinte azonos alakú sumér `ŠUL` = férfi, hős szóval).  
 
@@ -14,8 +14,8 @@ GYÁ-nak van egy több helyen említett Lugal Geme című tanulmánya, melyben s
 A csatolt jelet – nyilvánvaló okokból – például [[P/Pina\|pina]] címnél is szerepeltettük.  
 Záhonyi András A káld-szabír (sumer) képjelek, hangértékek rejtett üzenetei című az Ősi Gyökér 2021/1. sz. megjelent cikke alján is említi futólag.  
 
-Megjegyzés: GL adata szerint a [[G/Gyne\|gyne]] és [[Q/Queen\|queen]] címnél is említett sumér `GIN` = nőszemély, rabnő jelentésű (hasonló alakú).  
-GL más adatát tehát (gólya ügyben) lásd [[G/Geme\|geme]].  
+Megjegyzés: Götz László adata szerint a [[G/Gyne\|gyne]] és [[Q/Queen\|queen]] címnél is említett sumér `GIN` = nőszemély, rabnő jelentésű (hasonló alakú).  
+Götz László más adatát tehát (gólya ügyben) lásd [[G/Geme\|geme]].  
 
 ## G-előhangos nőre, asszonyra utaló szavak magyartalanok
 
@@ -33,7 +33,7 @@ Azaz a másik megközelítés az, hogy ezen nevek király (honnan ég királynő
 A modern arab-perzsában `khanum` a khan/kán női megfelelője, eredetileg tehát méltóságnév, de udvarias megszólitásokban is ezt használják a tisztelet kifejezésére. Tulajdonképpen asszonyom a jelentése. Ugyanakkor vigyázat: mint kiderül, az -um végződés nem feltétlenül birtokos.
 
 Lásd itt: https://en.wikipedia.org/wiki/Khanum  
-Ugyanott, [[G/Gyne\|gyne]] címnél PJI soraiban találjuk az eligazítást:  
+Ugyanott, [[G/Gyne\|gyne]] címnél Péterfai János soraiban találjuk az eligazítást:  
 > Arikan Atilla felesége. Ari az Arany becézése, a Kan = Királynő. Őseink a királynőket is királynak nevezték, mert valóban királyok voltak. A női ügyekben férfi király nem ítélkezhetett, mert be sem engedték a nők a férfi királyt az ítélkezéseik vitájába.  
 
 Hasonló esetet másutt is láttuk, amikor például [[M/Magor\|Magor]]/[[M/Magar\|Magar]] nevéből alakulhat [[M/Magyar\|Magyar]] istennő neve, vagy amikor Orionra utaló elnevezésből kreáltak Tejút/Szíriusz-elnevezést.  
