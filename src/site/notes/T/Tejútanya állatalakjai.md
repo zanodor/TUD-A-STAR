@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tejútanya állatalakjai/","title":"Tejútanya állatalakjai","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-13T02:19","updated":"2023-11-25T11:26"}
+{"dg-publish":true,"permalink":"/T/Tejútanya állatalakjai/","title":"Tejútanya állatalakjai","tags":["Englishtexttranslated"],"created":"2023-11-13T02:19","updated":"2024-02-02T04:02"}
 ---
 
 
@@ -29,7 +29,7 @@ Különösen az állat nagysága is fontos, hiszen ami nagyobb méretű, vagy fi
 
 A [[D/Dinosaur\|dinosaur]] a sárkány és kígyó és persze a madár kategóriája mellé passzol és bár rég kihalt, nincs kizárva, hogy ember látta élőben.  
 De ezzel még nincs vége. Igen valószínű, hogy a Tejútanyának az élőlények primitívebb formáit is elképzelték jelképként. Azzal nem igazán értek egyet, amit JM Jelkép-kalendárium című könyvében ír, miszerint az archaikus gondolkodásban a puhatestűek, halak, hüllők, kétéltűek álltak a "rangsor" legalsó fokán, mert a régiek felfogásában minden egy: minden élőlény ugyanazt az életenergiát képviseli (növény, rovar, kétéltű, emlős, mind).  
-Így válik érthetővé, hogy miért nem tűnnek negatívnak a [[F/Féreg\|féreg]], [[G/Giliszta\|giliszta]], [[H/Hernyó\|hernyó]], [[M/Métely\|métely]], [[M/Mite\|mite]], [[N/Nyű\|nyű]] stb. nevek. A [[M/Medusa\|Medusa]] szintén idevehető. Ahogy VZs is írja:  
+Így válik érthetővé, hogy miért nem tűnnek negatívnak a [[F/Féreg\|féreg]], [[G/Giliszta\|giliszta]], [[H/Hernyó\|hernyó]], [[M/Métely\|métely]], [[M/Mite\|mite]], [[N/Nyű\|nyű]] stb. nevek. A [[M/Medusa\|Medusa]] szintén idevehető. Ahogy Varga Zsigmond is írja:  
 > A szumirok sem tettek kezdetben semmi különbséget madarak, hernyók, férgek, csúszómászók, pillangók, sőt még a halak közt sem.  
 
 Az tény, ahogy [[F/Féreg\|féreg]] és más címnél is szerepelt, hogy a [[L/Légy\|légy]], [[M/Moth\|moly]], stb. az alvilághoz tartozó szárnyas rovarok.  
@@ -46,7 +46,7 @@ A Tejútanya kutyaalakot való felvevése [[G/Göd\|Göd]], valamint [[S/Szuka\|
 
 A szuka kapcsán szót kell ejteni a nemi részéről. [[I/Íj és a nyíl\|Íj és a nyíl]], valamint [[G/Göd\|Göd]] címnél volt erről szó.
 
-A szuka, ahogy VN is írja, a ringyó szimbóluma, valóban a hetérák állatává tették meg.  
+A szuka, ahogy Várkonyi Nándor is írja, a ringyó szimbóluma, valóban a hetérák állatává tették meg.  
 > Homérosznál Helené saját magát szukának nevezi[^10], Írisz pedig Athénét, Héra Artemiszt, a hazatérő Odüsszeusz ledér, hűtlen szolgálóit.  
 
 De igen sokatmondó az indo-európai anyát jelentő szavakkal és [[M/Magyar Ilona\|Magyar Ilona]] nevével azonos, [[M/Magyar mint Szíriusz\|Magyar mint Szíriusz]] címnél is említett ír `madra` = kutya forma is. A Tejútanya azért azonosulhat a szukával, és lehet egyik fia Szíriusz, mert az nemzi. (Közben [[B/Bau\|Bau]] címnél szerepelt, hogy kutyával személyesítették meg, valamint lásd még kutya nemi részéről [[I/Íj és a nyíl\|íj és a nyíl]] címnél írottakat.)  
@@ -94,7 +94,7 @@ Másutt írja:
 **A Tejút (az égig érő fa)** – mint azt Berze Nagy János felismeréséből is tudjuk – **a magyar néphit szerint azonos az Istennel**.  
 
 [^2]: Lábjegyzet:  
-Felvetődött, hogy az RHA által megadott magyar Tejútnév, Hada Kuttya lehetne-e kutyás név, de nem valószínű. (Persze nyilvánvaló az elírás, mert RHA jól fordítja, Via Belli-ként.)  
+Felvetődött, hogy az Richard H. Allen által megadott magyar Tejútnév, Hada Kuttya lehetne-e kutyás név, de nem valószínű. (Persze nyilvánvaló az elírás, mert Richard H. Allen jól fordítja, Via Belli-ként.)  
 A kutya [[S/Szuka\|szuka]] azért is lehet a Tejútanya állatalakja, mert az ír `madra` = kutya szó [[M/Magyar\|magyar]] alakú úgy, ahogy Ilona nevéből a szláv nyelvben lesz szarvas.  
 
 [^3]: Lábjegyzet:  
