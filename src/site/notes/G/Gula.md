@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gula/","title":"Gula","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions","Englishtexttranslated"],"created":"2023-11-04T11:49","updated":"2024-01-24T03:41"}
+{"dg-publish":true,"permalink":"/G/Gula/","title":"Gula","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions","Englishtexttranslated"],"created":"2023-11-04T11:49","updated":"2024-02-02T03:07"}
 ---
 
 
@@ -63,7 +63,7 @@ Korábban még itt szereplő kiegészítő infók:
 
 > [[G/Gulya\|Gulya]] szavunk a szarvasmarha csordáját jelenti. A Csorda a csordogáló, sorban járó (sorda) tehenek csapata, reggel sorban, folyamatosan, folydogálva mennek a mezőre, este pontosan így térnek haza az istállóba. A Csorda jelentésének megértése segít a Gu-Lya megértésében. A Gu szarvasmarha, a Lya (Ja) Folyó, folydogáló szarvasmarha csapat.  
 > Gólya szavunk szintén a Gu-Lya fogalmával lehet rokon, de a Gu Gó alakra módosult, jelentése pedig Nyak. A gólyának hosszú nyaka van, hosszú lábával a vízben ácsorog, amikor vadászik. Így a Nyak a Vízben fogalom adhatja vissza a legjobban gólya szavunk jelentését. Gó Nyak, Lya Víz.
-- PJI-nél is Gu-La, Gyula nevek a Főség Helye értelemmel állnak.  
+- Péterfai Jánosnál is Gu-La, Gyula nevek a Főség Helye értelemmel állnak.  
 
 Mivel kutyával ábrázolt, [[K/Kutya\|kutya]] címnél is szerepeltek ezen infók.  
 
@@ -85,7 +85,7 @@ A Gula = [[G/Gulya\|gulya]] = [[T/Tehén\|tehén]]csorda kapcsolat a Kutyacsilla
 ...című könyvének 120. oldalán Tehén csillagképről szól a Nagy Kutya kapcsán/helyén, mely nyilvánvalóan nem [[K/Kenemet\|Kenemet]] kell legyen:  
 > [[H/Héra\|Héra]] egyiptomi mása viszont [[H/Hathor\|Hathor]] volt, az "Ég Tehene" és Ápisz anyja, akit az egész égbolt megtestesüléseként tiszteltek. De volt külön Tehén csillagkép is az egyiptomi égen, a [[S/Szíriusz\|Szíriusz]] csillagot magába foglaló Nagy Kutya csillagkép\[nek megfelelő\], ezúttal [[I/Ízisz\|Ízisz]] képmásaként, pontosan körülhatárolt szerepben.  
 
-A kérdés már csak az (miután az M jel valóban lehet szarvat jelölő, mint [[C/Cassiopeia\|Cassiopeia]] esetében), hogy akkor Gula = Bau = Baba = Babba Mária = Tündér Ilona ha itt jogosan szerepel (Toroczkai-Wigand Edénél vajon mi a neve ennek a résznek?), akkor miért van meg Gula még egyszer Vízöntőként? Nos, talán azért, mert a Gula régen homonima volt, azaz két külön jelentése volt? PJI [[G/Gulya\|gulyá]]ra adott definíciója pedig mindkettőt magyarázni tudja (a Ja viszi a folyó értelmet). [[C/Cola\|Cola]] címnél is folyadékról volt szó. (Egy biztos, közben más forrást is ellenőrizve, hogy GW nem tévedett Gula Vízöntőségével kapcsolatban.)  
+A kérdés már csak az (miután az M jel valóban lehet szarvat jelölő, mint [[C/Cassiopeia\|Cassiopeia]] esetében), hogy akkor Gula = Bau = Baba = Babba Mária = Tündér Ilona ha itt jogosan szerepel (Toroczkai-Wigand Edénél vajon mi a neve ennek a résznek?), akkor miért van meg Gula még egyszer Vízöntőként? Nos, talán azért, mert a Gula régen homonima volt, azaz két külön jelentése volt? Péterfai János [[G/Gulya\|gulyá]]ra adott definíciója pedig mindkettőt magyarázni tudja (a Ja viszi a folyó értelmet). [[C/Cola\|Cola]] címnél is folyadékról volt szó. (Egy biztos, közben más forrást is ellenőrizve, hogy GW nem tévedett Gula Vízöntőségével kapcsolatban.)  
 A másik lehetséges magyarázat (melyről más kapcsán volt szó [[P/Precesszió\|precesszió]] címnél), hogy a sumér időkben a tél csillagképe volt a Vízöntő!  
 
 Az Ősi Gyökér 2007/1. számának Eb a hite kölykei című cikkében hasonló témát boncolgat. Lásd [[S/Szíriusz – Gyárfás Ágnes Szíriuszról\|Szíriusz – Gyárfás Ágnes Szíriuszról]].  
