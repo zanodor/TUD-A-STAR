@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-04T02:14","updated":"2023-11-02T12:40"}
+{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["Englishtexttranslated"],"created":"2023-10-04T02:14","updated":"2024-02-02T02:30"}
 ---
 
 
@@ -15,7 +15,7 @@ A cikket is ezen név említésével nyitja:
 > —  
 > "Sém, 'Ever minden gyermekének atyja..." Bereshyit 10:21  
 
-A csak angol nyelven elérhetőnek mutatkozó cikkben azt írja még, hogy RG adatához kapcsolódva **Apiru** néven is hívták őket az egyiptomiak (falfeliratokon olvashatók) és abban az időben munkások voltak náluk (szolgasorban, ahogy divatos náluk mondani, majd említi a habiruk gyakorlatilag lopás általi terjeszkedésüket).  
+A csak angol nyelven elérhetőnek mutatkozó cikkben azt írja még, hogy Robert Graves adatához kapcsolódva **Apiru** néven is hívták őket az egyiptomiak (falfeliratokon olvashatók) és abban az időben munkások voltak náluk (szolgasorban, ahogy divatos náluk mondani, majd említi a habiruk gyakorlatilag lopás általi terjeszkedésüket).  
 Ezután rátér a sumér forrásokra, amelyek a habirukat említik, majd asszír és újra egyiptomi kapcsolatokat mutat be. Nem tudom, hogy ezen rejtélyes, interneten sehol sem lekövethető Hargita Csaba írta-e a szöveget, vagy mástól származik, mindenesetre erősen a héberek magasabb rendűségét (továbbá a hikszoszok sémi jellegét) bemutatóan fogalmaz és a weboldala is a cigányok és a héberek kulturális tevékenységét mutatja be, nyilván a magyarság kárára. Jó lesz vigyázni vele, holott a Nevek titka című dolgozatában sok hasznos adatot mutatott be. (Nos, mint kiderül, egyes írásokban csak társszerző, de a másik nevet nem tudtam kideríteni.)  
 
 A Hargita Csaba Ferenc közreműködésével készült A magyarok őstörténete – a magyar-héber kapcsolat című dolgozatban azt írják, hogy [[A/Ábrahám\|Ábrahám]]ot az egyiptomiak egyértelműen \[a fentebbi apiru változataként számítható\] **apir**ként azonosították, de azt tudjuk, hogy az apir kifejezés nem egy jól meghatározott nemzetiséget jelölt, hanem sokkal inkább társadalmi helyzetet.  
@@ -37,7 +37,7 @@ Fáy Elek A magyarok őshona című könyvének 70. oldalán említi a [[H/Habur
 Fáy Elek A magyarok őshona című könyvének 114. oldalán a [[H/Habur\|Habur]] folyó (ami az Euphratesz mellékfolyója; Khaburnak is írják; Kabur írásmódja GYÁ részéről helytelen) mellé párosítja a zemplén-megyei Habura község- és pataknevet.  
 
 Szintén Fáy Elek A magyarok őshona című könyvének 70. oldalán említi a Habur folyó melléki sumér illetve szingarországi Magarisz város nevét, ahogy fentebb is szerepelt.  
-Namost a Habur/Habiru nevek kapcsán előjön alant a Szíriusz arab neve, **Al-Habur**, de Dr. Gyárfás Ágnes az Ősi Gyökér 2007/1. PDF 71. oldalán Eb a hite kölykei című cikkében közli Dr. Kovács Sándor adatát, aki a Labat szótár segítségével kimutatta, hogy a Nagy Kutya csillagkép \[akkor ezek szerint nem a Szíriuszé?\] neve MA-GAR, s el is nevezte a "Magyarok Csillagának" (Stella Hungarorum). \[Akkor most a csillagé a név? Kovács cikkének neve Stella Hungarorum, Ősi Gyökér 1999. Másik cikkében Mahgar-nak írja.\]  
+Na most a Habur/Habiru nevek kapcsán előjön alant a Szíriusz arab neve, **Al-Habur**, de Dr. Gyárfás Ágnes az Ősi Gyökér 2007/1. PDF 71. oldalán Eb a hite kölykei című cikkében közli Dr. Kovács Sándor adatát, aki a Labat szótár segítségével kimutatta, hogy a Nagy Kutya csillagkép \[akkor ezek szerint nem a Szíriuszé?\] neve MA-GAR, s el is nevezte a "Magyarok Csillagának" (Stella Hungarorum). \[Akkor most a csillagé a név? Kovács cikkének neve Stella Hungarorum, Ősi Gyökér 1999. Másik cikkében Mahgar-nak írja.\]  
 Na most nem-e ezen Magarisz város az, amely az égre helyezve Magarként kiolvasott? Hiszen Magar, Magor, Magur a Solaris Nap neve és nem lehetne Szíriusz neve is. Hacsak nem arról van szó, hogy a [[M/Magor\|Magor]] és [[M/Makara\|Makara]] címnél felfejtett téma nyomán vitetett át a név Szíriuszra, mert a téli napfordulón vele együttállás van:  
 Valószínűleg, mivel több nyelvben a Bakban születő Nap neve révén a Bak neve lett és ilyenkor együttállás történik a Szíriusszal, az elnevezés még átment arra is. Vagy valamilyen kontextusbeli hiba van Kovácsnál is, mint Sitchinnél. Sajnos ha nincs meg a forrás, nehéz bármit mondani.  
 Másutt GYÁ Ur Magar-ként is utal rá. Könnyen lehet, hogy az [[U/UR\|UR]] az, ami viszi benne a kutya értelmet, annál is inkább mert kutyafejjel jelzik ezt a szót.  
@@ -46,7 +46,7 @@ Egyébként Hunor kellene Szíriusz legyen. Nem hiszem, hogy át kell értékeln
 
 A helyzet az, hogy mivel minden [[F/Folyó\|folyó]] a Tejútfolyó és magukat a Tejútról származtatták az emberek, ezért egyes népek (számuk egyre növekedni látszik, ahogy megfejtjük őket) nevei is vagy magából a magyar Tejút/Teut névből vagy egyes folyók nevéből ered. Ezen megfontolás alapján a [[H/Héber\|héber]]ek neve eredhetne a Habur folyó nevéből, de ha közvetlenül nem, akkor a [[K/Kabar\|kabar]]ok nevéből, míg a kabarok neve a Habur/Habor folyó nevéből.  
 Az igaz, hogy a kabar viszont a [[K/Kabir\|kabir]] névvel is rokon, mely a [[S/Szabir\|szabir]] k-s ([[K/Kentum\|kentum]]os) kiejtése lehet.  
-Namost ezen Kabir viszont előjön az araboknál (láttam Quora választ ilyen kérdésben), mint Allah jelzője, mely Allah-hal kapcsolatosan pedig előjön a Szíriusszal azonosítás. Nem nehéz így belátni, hogy Kabir = Eb-Úr szintén.  { #d05agb}
+Na most ezen Kabir viszont előjön az araboknál (láttam Quora választ ilyen kérdésben), mint Allah jelzője, mely Allah-hal kapcsolatosan pedig előjön a Szíriusszal azonosítás. Nem nehéz így belátni, hogy Kabir = Eb-Úr szintén.  { #d05agb}
 
 - Még kentum-szatem témában (is) érdekes, hogy a [[S/Savant\|savant]] címnél említett arab `khabar` = (meg)ismer, (meg)tud szó (mely [[S/Szatem\|szatem]] változatának is tarthatjuk a francia `savoir` és a spanyol `saber` = ismer, tud szavakat) eredhet a [[H/Habur\|Habur]] Tejút(folyam) elnevezésétől, mint ahogy a mi [[T/Tud\|tud]] szavunk eredete is lehet Teut-Tejút (hacsak nem a [[K/KAP\|KAP]] (ismeretet) igénk áll egyszerűen mögötte, ahogy a latin `habere` mögött is).  
 
@@ -68,7 +68,7 @@ Habur a Wikipédia adata szerint az [[E/Eufrátesz\|Eufrátesz]] mellékfolyója
 - A Wiki oldal szerkesztői nem jönnek rá, hogy az Élet folyója a Halál folyója is egyben.  
 Azt jegyezzük meg egyébként, hogy az indo-európai nyelvcsaládba sorolt örmény nyelvben `hawaṙi` = víz kilóg a sorból[^3], talán mert Habúr eredetre megy vissza.  
 
-Namármost, a Sirius in Ancient Greek and Roman Literature című cikkben Al-Habur (másutt Al-Abur[^4]) előjön a [[S/Szíriusz\|Szíriusz]] arab neveként:  
+Na mármost, a Sirius in Ancient Greek and Roman Literature című cikkben Al-Habur (másutt Al-Abur[^4]) előjön a [[S/Szíriusz\|Szíriusz]] arab neveként:  
 > In Carmina Burana, based on the pastoral songs of the 13th century, the whiteness of Sirius is compared to that of ivory. Geoffrey Chaucer, in 1391, relates that the Arabians call Sirius Al-Habur, the beautiful white star.  
 > —  
 > A 13. századi pásztorénekeken alapuló Carmina Buranában a Szíriusz fehérségét az elefántcsonthoz hasonlítják. Geoffrey Chaucer 1391-ben arról számol be, hogy az arabok a Szíriuszt Al-Haburnak, a gyönyörű fehér csillagnak nevezik.  

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/G/Galactic anticentre/","title":"Galactic anticentre","tags":["Englishtexttranslated"],"created":"2023-11-12T07:13","updated":"2024-01-27T11:07"}
+{"dg-publish":true,"permalink":"/G/Galactic anticentre/","title":"Galactic anticentre","tags":["Englishtexttranslated"],"created":"2023-11-12T07:13","updated":"2024-02-02T02:31"}
 ---
 
 
 # Galactic anticentre
 
-A Wiki adata szerint a Tejútközponttal szemben az az Auriga van:  
+A Wiki adata szerint a Tejútközponttal szemben az [[A/Auriga\|Auriga]] van:  
 > The galactic anticenter is a direction in space directly opposite to the Galactic Center, as viewed from Earth. This direction corresponds to a point on the celestial sphere. From the perspective of an observer on Earth, the galactic anticenter is located in the constellation Auriga, and Beta Tauri is the bright star that appears nearest this point.  
 > In terms of the galactic coordinate system, the Galactic Center (in Sagittarius) corresponds to a longitude of 0°, while the anticenter is located exactly at 180°. In the equatorial coordinate system, the anticenter is found at roughly RA 05h 46m, dec +28° 56'.  
 > —  
@@ -39,7 +39,7 @@ De először még, hogy térben el tudjuk képzelni, álljon egy JMJ-től szárm
 > A galaktikus anticentrum a legfelső \[a fent = [[E/Észak\|észak]]\] pont ebben az új keretben, mert ez az irány a galaxisunkból kifelé, a transzgalaktikus tartományokba vezet. A Plejádok, akárcsak a Nagy Medve, kis távolságra vannak a rendszer legmagasabb pontjától, mégis mitikus és szimbolikus jelzőként szolgálnak.  
 
 [[N/Nap#Csillagképek iránya\|Csillagképek iránya]] címnél is szerepelt:  
-Az értelmezésből az látszik kiderülni, hogy az Ikrekben van az északi kapu, a Nyilasban pedig a déli. Ergo ha jól értelmezem, jelenleg – a Vaskorban – a Tejútfa nem fejjel lefelé áll, hanem rendesen (a fa gyökere van délen) és csak 13000 év múlva áll a feje tetejére az Aranykorba érve ([[Z/Zep Tepi\|Zep Tepi]] címnél volt már erről vagy hasonlóról szó korábban; lásd a DCS féle magyarázatra adott reakcióm).  
+Az értelmezésből az látszik kiderülni, hogy az Ikrekben van az északi kapu, a Nyilasban pedig a déli. Ergo ha jól értelmezem, jelenleg – a Vaskorban – a Tejútfa nem fejjel lefelé áll, hanem rendesen (a fa gyökere van délen) és csak 13000 év múlva áll a feje tetejére az Aranykorba érve ([[Z/Zep Tepi\|Zep Tepi]] címnél volt már erről vagy hasonlóról szó korábban; lásd a Dobos Csanád féle magyarázatra adott reakcióm).  
 JMJ tehát helyesen a GC nem a Tejútfa koronájával, hanem a [[M/Mula\|Mula]] címnél is taglalt gyökerével[^2] való megfeleltetését érzi tehát helyesnek (dacára annak, hogy mások szerint a Nyilas a korona; lásd könyvének 266. oldalát).  
 
 Érdekes még ([[S/Szűz csillagkép\|Szűz csillagkép]] címnél, ahol a Szíriuszt és a Szüzet próbáltuk közös nevezőre hozni, szintén szerepelt):  

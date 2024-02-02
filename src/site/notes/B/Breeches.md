@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Breeches/","title":"Breeches","tags":["dg_uploaded"],"created":"2023-11-29T02:20","updated":"2023-11-29T02:20"}
+{"dg-publish":true,"permalink":"/B/Breeches/","title":"Breeches","created":"2023-11-29T02:20","updated":"2024-02-02T01:33"}
 ---
 
 
@@ -13,4 +13,4 @@ Nadrág, térdnadrág, bricsesz.
 - Ugyanezen szavakat lásd még Kérdések című írásából más megközelítésben is [[P/Pergamen\|pergamen]].  
 
 KS burok szót hozza fel ezen szavakkal kapcsolatot találván: a latin `bracæ`, orosz `bryuki`, ukrán `bryuky`. Az albánban is `brekë`.  
-A kelta-ír `bríste` = nadrág szó mellé TKS csak annyit mond, hogy ez a magyar briccses-nadrág; az ír szó (a [[P/Priest\|priest]] és) a magyar [[P/Paraszt\|paraszt]] szavakkal is mutat rokonságot.  
+A kelta-ír `bríste` = nadrág szó mellé Timaru-Kast Sándor csak annyit mond, hogy ez a magyar briccses-nadrág; az ír szó (a [[P/Priest\|priest]] és) a magyar [[P/Paraszt\|paraszt]] szavakkal is mutat rokonságot.  

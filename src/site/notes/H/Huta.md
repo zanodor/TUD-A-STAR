@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Huta/","title":"Huta","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-05T03:19","updated":"2023-11-10T06:56"}
+{"dg-publish":true,"permalink":"/H/Huta/","title":"Huta","tags":["Englishtexttranslated"],"created":"2023-11-05T03:19","updated":"2024-02-02T02:33"}
 ---
 
 
@@ -20,7 +20,7 @@ A Srini Kalyanaraman által feltöltött Uniquely orthographed hieroglyph, X-sha
 
 Közben a huta szó (nem német `Hütte`) eredetét megvédve [ezen](https://qr.ae/pND8Qc) oldalon írtam (persze a [[S/Szakrális geometria\|szakrális geometriá]]ba nem mehettem bele):  
 > What does `huta` mean in Hungarian place names like Vágáshuta, Répáshuta, or Újhuta? Does that refer to the Hutsul (Rusyn) peoples?  
-> No. `Huta` means a workshop where they were work with molten metal or glass (hence the furnace definition you will find online but it may not be the original meaning). Hu-Ta means hot place (which the furnace is, granted). The English word `hot` also comes from this premise. Magyar `hő` = heat comes from this [[H/HU\|HU]] etimon. [[T/TA\|TA]] is also an etymon.  
+> No. `Huta` means a workshop where they were work with molten metal or glass (hence the furnace definition you will find online but it may not be the original meaning). Hu-Ta means hot place (which the furnace is, granted). The English word `hot` also comes from this premise. Magyar `hő` = heat comes from this [[H/HU\|HU]] etymon. [[T/TA\|TA]] is also an etymon.  
 > Should the names in Vágáshuta, Répáshuta, Újhuta (there is also a Huta near where I am from, in the Pilis) refer to hills or mountains, I refer to you to Magyar `dagad` and Turkish [[D/DAG\|dag]]. In Sanskrit as well, one of the meanings of `kuta` = mountain, as in [Devakuta](https://www.wisdomlib.org/definition/devakuta). (Heat > volume > mountain.)  
 > —  
 > Mit jelent a "huta" az olyan magyar helynevekben, mint Vágáshuta, Répáshuta vagy Újhuta? Ez a hucul (ruszin) népekre utal?  
@@ -35,7 +35,7 @@ Borbola János [[H/Ház\|ház]] címnél taglalt A kota és a ház című az Ős
 Dr. Kovács Sándor Gán.Muš – a kígyó kertje avagy a sötétség című az Ősi Gyökér 2010/1-2. sz. megjelent cikkében, lábjegyzetben az óegyiptomi nyelvben megjelenő ómagyar szó(variáns)ok között bemutatja: ház> egyiptomi `h3t` \[hat\] (ház) szót (vö. az obdorszki osztyák (hanti) `hat` (ház) ekvivalensével).  
 A BJ által csatolt egyiptomi `hwt` (hut)...  
 ![assets/Huta_image1.jpeg](/img/user/H/assets/Huta_image1.jpeg)  
-...kut alakban előjött MA-nál [[K/Kufu\|Kufu]] címnél, ahol MA megadja a jelentéseket is:  
+...kut alakban előjött Magyar Adorjánnál [[K/Kufu\|Kufu]] címnél, ahol MA megadja a jelentéseket is:  
 > A piramisok egyiptomi neve `kha` vagy `ku` (lásd [[K/KU\|ku]]), sőt éppen Keopszé, vagyis Kufué, egyiptomi nyelven [[K/Kut\|kut]], holott ez utóbbi szóalak a kún szó csoport egyik alapszava.  
 > E neveket az egyiptomi nyelvből "korona, tüzes, világos" értelműnek magyarázzák.  
 

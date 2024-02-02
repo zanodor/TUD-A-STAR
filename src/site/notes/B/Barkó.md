@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barkó/","title":"Barkó","tags":["dg_uploaded"],"created":"2023-10-31T08:19","updated":"2023-10-31T08:20"}
+{"dg-publish":true,"permalink":"/B/Barkó/","title":"Barkó","created":"2023-10-31T08:19","updated":"2024-02-02T01:23"}
 ---
 
 
 # Barkó
 
 Palóc törzsnek mondja KT, Ózdot is szóba hozva (a másik palóc törzsnek mondja a matyókat).  
-A nevükben az R hang és főleg a [[B/BAR\|BAR]] alapszó alapján nem palócok, hanem ahogy alant is szerepel, avarok, de alant MA-nál is előjön a palóc azonosítás (és a helyretétel). Maradjunk annyiban, hogy a két nép gyakran élt együtt.  
+A nevükben az R hang és főleg a [[B/BAR\|BAR]] alapszó alapján nem palócok, hanem ahogy alant is szerepel, avarok, de alant Magyar Adorjánnál is előjön a palóc azonosítás (és a helyretétel). Maradjunk annyiban, hogy a két nép gyakran élt együtt.  
 
 #### Magyar Adorján írja:
 

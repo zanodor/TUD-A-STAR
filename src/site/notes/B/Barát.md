@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated"],"created":"2023-10-31T06:45","updated":"2024-01-25T12:46"}
+{"dg-publish":true,"permalink":"/B/Barát/","title":"Barát","tags":["Englishtexttranslated"],"created":"2023-10-31T06:45","updated":"2024-02-02T01:23"}
 ---
 
 
@@ -20,7 +20,7 @@
 
 [[R/Rama\|Rama]] címnél volt szó legutóbb a hindu mitológia különböző Bharatáiról. Szerepel [Bharata a Ramayanában](https://wikipedia.org/Bharata_(Ramayana)), de külön Wiki oldal foglalkozik a [Mahabharatából](https://wikipedia.org/Bharata_(Mahabharata)) ismert Bharatával (ha ezek nem egy és ugyanazok, legalább minőségben). ([[T/Taksony\|Taksony]] címnél előjön Bharata fiának, Takshának neve is.)  
 Viszont [[S/Saraswati\|Saraswati]] címnél előjön **Bharati**, mint hindu istennő, Saraswatival azonosítva.  
-Azt se feledjük, hogy MA szerint az avarok napistene Barata néven fut(hat)ott.  
+Azt se feledjük, hogy Magyar Adorján szerint az avarok napistene Barata néven fut(hat)ott.  
 Az [[A/Avar\|avar]]oknál a Nap és a Tűz istensége, **Barata**, Varuk vagy Barisa és Páris neveken neveztetett, írja MA.  
 Nyilván nem az öreg, hanem a fiatal napisten neve volt. ([[R/Rama\|Rama]] címnél azt próbáljuk eldönteni, hogy melyik név utal a világos és sötét félévre.)  
 Aztán ott van a [[P/Pártus\|pártus]] címnél előjövő elnevezés (Parathas), melyről alant még lesz szó.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gonosz/","title":"Gonosz","tags":["dg_uploaded"],"created":"2023-10-06T12:12","updated":"2023-10-25T01:22"}
+{"dg-publish":true,"permalink":"/G/Gonosz/","title":"Gonosz","created":"2023-10-06T12:12","updated":"2024-02-02T02:31"}
 ---
 
 
@@ -17,9 +17,9 @@ A [[B/Bűn\|bűn]] címnél említett szláv `vina` és perzsa `gonah` szavak er
 Ott egy japán `gan` = rák, rákos gonosz szóról is emíltést tettünk.  
 Arról pedig [[R/Rák csillagkép#Rák (csillagkép) K-N/H-N/G-N és K-T (és rokon) vázú hun-szkíta nevei\|Rák (csillagkép) K-N/H-N/G-N és K-T (és rokon) vázú hun-szkíta nevei]] cím/alcímnél is volt szó (azon túl, hogy Rák csillagkép japán neve **Kani**), hogy a japán `kanashii` = szomorú szó (ha nem a [[K/KAN\|KAN]] nevű Kutyacsillaggal kezdődő más(odik)/sötét ([[S/Söt\|söt]] = angol szomorú [[S/SAD#Sad 2)\|sad]]) félévre utaló szóelemet rejti, akkor), közvetlenül [[G/Gonosz\|gonosz]] szavunkkal teljesen egyeztethető.  
 
-A szót PJI nem taglalja asztrális [[E/Életkör\|életkör]] alapján. Holott már [[H/HAN\|HAN]] névnél jól rámutatott, miről is van szó. [[H/Hunor csillagkép\|Hunor csillagkép]] címnél és [[N/Nap#Nap és Orion\|Nap és Orion]] cím/alcímnél volt már arról szó, hogy a [[F/Félév\|félév]]ek tagolása Hunor-Szíriusz mentén [[H/Határ\|határ]]olódik el. Gonosz tehát \*Hunosz, de nem konkrétan a hunok gonoszságára utalva (ahogy a makacs/konok/csökönyös magyarok/hunok szamársága sem több, mint egy jelképi szinten értelmezhető dolog), hanem [[E/Észak\|észak]]ra, az észak sötétségére és akár arra a korszakra, amelyben a hunoknak a magyar eszmék gonosz elleni védelmére fel kellett készülnie. (Észak itt talán kevésbé jó magyarázat; a kis éves évkör sötét fele a HAN/Hunosz/Gonosz fél.)  
+A szót Péterfai János nem taglalja asztrális [[E/Életkör\|életkör]] alapján. Holott már [[H/HAN\|HAN]] névnél jól rámutatott, miről is van szó. [[H/Hunor csillagkép\|Hunor csillagkép]] címnél és [[N/Nap#Nap és Orion\|Nap és Orion]] cím/alcímnél volt már arról szó, hogy a [[F/Félév\|félév]]ek tagolása Hunor-Szíriusz mentén [[H/Határ\|határ]]olódik el. Gonosz tehát \*Hunosz, de nem konkrétan a hunok gonoszságára utalva (ahogy a makacs/konok/csökönyös magyarok/hunok szamársága sem több, mint egy jelképi szinten értelmezhető dolog), hanem [[E/Észak\|észak]]ra, az észak sötétségére és akár arra a korszakra, amelyben a hunoknak a magyar eszmék gonosz elleni védelmére fel kellett készülnie. (Észak itt talán kevésbé jó magyarázat; a kis éves évkör sötét fele a HAN/Hunosz/Gonosz fél.)  
 Felvetődik, hogy esetleg nem eredeti hun-magyar kifejezés lenne, -osz végződése miatt. Nos, [[R/Rossz\|rossz]] (eredetileg inkább: rosz) szavunk is -osz végződésű, ha nagyon akarjuk...  
-Azt PJI egyébként jól akarja érzékeltetni, hogy a [[S/Sátán\|Sátán]]hoz hasonlóan itt is van egy kiinduló nem-gonosz, hanem kezdet (nemzés vagy az előtti: ősállapot) értelem.  
+Azt Péterfai János egyébként jól akarja érzékeltetni, hogy a [[S/Sátán\|Sátán]]hoz hasonlóan itt is van egy kiinduló nem-gonosz, hanem kezdet (nemzés vagy az előtti: ősállapot) értelem.  
 
 Azt már a [[B/Bűn\|bűn]] (és [[H/HAN\|HAN]]) fogalmai kapcsán tisztáztuk, hogy a gonosz a sötét/sátáni félévre utal a kis éves időkörben, melyből az [[E/Erkölcs\|erkölcs]]i értelemben vett gonoszság ideája keletkezik.  
 [[E/EB\|EB]] címnél, külön alcímnél és [[K/Kutya\|kutya]] címnél is említettük az [[E/Evil\|evil]] címhez is betett, 'evil' – 'ebül' fogalmi párosítás igazolására is alkalmas, kutyás alakú török `kötücül` = gonosz szót. Ugyebár a gonosz félév a [[M/Más\|más]]odik, sötét félév, ahogy ott is megjegyeztük. ([[O/Ördög\|Ördög]] címnél, külön alcímnél azóta a szinte azonos hangalakú török `kutsal` = szent szót is betettük kötücül mellé.)  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cover/","title":"Cover","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-05T02:53","updated":"2023-11-05T02:53"}
+{"dg-publish":true,"permalink":"/C/Cover/","title":"Cover","tags":["Englishtexttranslated"],"created":"2023-11-05T02:53","updated":"2024-02-02T02:17"}
 ---
 
 
@@ -23,6 +23,6 @@ Nem először fordul elő, így [[A/Arab szavak\|arab szavak]] címhez is tehet�
 Különösen érdekes a kontextus, melyben ültetésről van szó.  
 A kérdés itt még az, hogy a [[K/Kufár\|kufár]] szó (merthogy a cikk először oda került) milyen összefüggésben lehet a befödéssel. Nyilván a közös kapocs a kutyafej, mely több nyelvben a főséget, vezetőt, akár királyt (közös etimon a megmondója) szimbolizálja. Márpedig a föd igében is benne van a fő főnévi fogalom, nemcsak a födél.  
 
-[[K/Koponya\|Koponya]] szónál hasonlókról volt még szó (MA Kérdések című írása nyomán).  
+[[K/Koponya\|Koponya]] szónál hasonlókról volt még szó (Magyar Adorján Kérdések című írása nyomán).  
   
 Lásd még [[C/Cap\|cap]] és [[C/Cabin\|cabin]].  

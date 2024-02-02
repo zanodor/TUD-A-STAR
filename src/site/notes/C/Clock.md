@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Clock/","title":"Clock","created":"2023-11-03T12:18","updated":"2024-02-01T04:57"}
+{"dg-publish":true,"permalink":"/C/Clock/","title":"Clock","created":"2023-11-03T12:18","updated":"2024-02-02T02:16"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Óra; falióra; órával időt mér (munkahelyen is). Német párja `Glocke` = harang, csengő jelentésű.  
 
-TZs, nyilván a [[C/Calendar\|calendar]] szónál szereplő MA adatok hatására, halad szavunkkal veti össze. A nyelvészet a rokon germán szavakat a középkori latin `clocca` = harang (francia [[C/Cloche\|cloche]] szintén harang) szóhoz köti. Ez utóbbit EP kelta eredetűnek véli, az ír `cloc` és walesi `cloch` alapján. A modern ír nyelvben is `clog` = harang, óra(mű).  
+Tomory Zsuzsa, nyilván a [[C/Calendar\|calendar]] szónál szereplő Magyar Adorján féle adatok hatására, halad szavunkkal veti össze. A nyelvészet a rokon germán szavakat a középkori latin `clocca` = harang (francia [[C/Cloche\|cloche]] szintén harang) szóhoz köti. Ez utóbbit EP kelta eredetűnek véli, az ír `cloc` és walesi `cloch` alapján. A modern ír nyelvben is `clog` = harang, óra(mű).  
 A szinte azonos óír `cloth` és walesi `clod` = hírnév jelentésű.  
 
 [[K/Kolomp\|Kolomp]] szavunk nekünk is van. Nehéz másra gondolni mint kondul, kong és hasonló szavakra eredetéül, de mindenképp hangkiadáshoz kötve. Bár ha az időre gondolunk, az rohanhat, szaladhat és akár kulloghat is.  

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bulge/","title":"Bulge","created":"2023-12-16T07:46","updated":"2023-12-16T07:46"}
+{"dg-publish":true,"permalink":"/B/Bulge/","title":"Bulge","created":"2023-12-16T07:46","updated":"2024-02-02T01:35"}
 ---
 
 
 # Bulge
 
-Dudor, duzzanat, kihasasodás; kidülled. Hólyag/\*bólyag szavunkból eredhet, de VCs egyszerűen a `buga` szót írja mellé.  
+Dudor, duzzanat, kihasasodás; kidülled. Hólyag/\*bólyag szavunkból eredhet, de Varga Csaba egyszerűen a `buga` szót írja mellé.  
 
 #### Magyar Adorján írja:  
 

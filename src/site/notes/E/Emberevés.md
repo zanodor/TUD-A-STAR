@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Emberevés/","title":"Emberevés","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-21T03:45","updated":"2023-11-11T12:42"}
+{"dg-publish":true,"permalink":"/E/Emberevés/","title":"Emberevés","tags":["Englishtexttranslated"],"created":"2023-10-21T03:45","updated":"2024-02-02T02:24"}
 ---
 
 
@@ -7,8 +7,9 @@
 
 A termeszekről több helyen (például [[T/Termite\|termesz]], [[R/Rovarok\|rovarok]], [[F/Földevők\|földevők]]) volt szó, így arról is, hogy bizonyos tekintetben az emberi fajjal mutatnak hasonló társadalmi-rétegződési hasonlóságokat, de abban is, hogy megeszik társaikat.  
 
-#### Várkonyi Nándor Az Elveszett Paradicsomában írja:
+#### Várkonyi Nándor Az Elveszett Paradicsom...  
 
+...című könyvében írja:  
 > "Ha valamelyik lakos elhullatja felső bőrét, a többi rögtön felfalja; ha valaki kimúlik,  
 > munkás, király, királyné, katona, hulláját nyomban elfogyasztják a megmaradottak.  
 > Hulladék nincs, a tisztogatás gépies és mindig hasznot hajt. Minden jó, semmi sem vész kárba, minden ehető, minden cellulóz és még az exkrementum is csaknem végtelenül, újból és újból felhasználódik. Az utóbbi anyag különben alapanyaga minden termesz-iparnak, ideértve az élelmezést is. Folyosóik például a legnagyobb gonddal vannak simára csiszolva és fényesítve. Az erre használt fénymáz kizárólag a belekből származik. Ha alagutat kell ásni, utat alátámasztani, fülkéket vagy kamrákat építeni, rést kijavítani, nyílást betömni, melyen át a mindennél félelmetesebb fénysugár behatolhatna, mindig csak emésztésük hulladékait veszik igénybe. Azt hihetné az ember, hogy ezek a rovarok szinte transzcendentális vegyészek, tudományuk felüláll minden előítéleten, minden undorodáson, s elérkeztek annak a tiszta meggyőződésnek magaslatára, hogy a természetben semmi sem visszataszító, és hogy minden visszavezethető néhány egyszerű, vegyileg közömbös és tiszta anyagra." (A termeszek élete, 1927.) – Még evvel sincs vége, a hullafeldolgozást iparrá, konzervgyártássá fejlesztették. Amikor valami csapás vagy betegség annyira megnöveli a halálozást, hogy a tetemeket mind felzabálni nem tudják, megszárítják, porrá örlik, és raktárakban tartalékolják. Ugyanezt teszik a fölösleges ürülékkel is. Legvégül: felhatoltak a hasznosság elképzelhető legmagasabb tetőfokáig, az iparosított kannibalizmusig. Ha a "központi vezetőség" úgy véli, hogy túl nagy a szaporulat, az álcák egy-részét elkülönítik, egymásra halmozzák, lábaikat levagdalják, hogy mozogni ne tudjanak, s az így nyert tartalékot aztán föleszik, szükség szerint."
@@ -53,6 +54,6 @@ Patricia Monaghan könyvének [[S/Satire\|satire]] címnél is szereplő passzus
 > Végelemzésben, műveldéstörténeti szemszögből nézve, a kultikus emberevés nem jelent állati vadságot, még kulturálatlanságot sem, sőt, inkább olyan szemléletről, értékelésről tanúskodik, mely a testet kevesebbre becsüli a benne lakozó szellemi "erőknél", kvalitásoknál. Ezeket akarják például épen megőrizni, "megmenteni" azok a néger törzsek, melyek a gyengülő öregeket megölik és megeszik, azaz lényük jobb részét szinte tisztelettel és nagyrabecsülésük jeléül magukévá hasonítják. Hasonló okból történt, hogy a test, az anyag tiszteletének növekedése, másszóval a civilizáció fejlődése küzdötte le, ennek életszemlélete szerint vált mindjobban elítélendővé, végül a legborzasztóbb bűnné. Démétér, a Magna Mater krétai változata, igazat beszélt: az anyajogi, matriarkális műveltségek mindig megszüntették, mert az anyaölből születő élet, a test, a termő anyag (mater – matéria, anya – anyag) állt értékrendjük csúcsán, kultuszaik középpontjában. Enyhítő körülmény mindenesetre, hogy a vallásos emberevő a maga testét is az értékskála ugyanazon fokára helyezte, és vonakodás nélkül feláldozta, ha úgy hitte, hogy az istenek akarata és a közösség érdeke megkívánja.  
 > Ezenfelül mérlegre kell tennünk, hogy néhány ritka és szűk körön kívül sehol sem vált általánossá, a műveltség vagy kultusz fő tényezőjévé.  
 
-[Ezen](https://youtu.be/A8x7ECr5vbg) Ne Legyen Áldozatos videóban 10:30-nál PG azt meséli, a német Jancsi és Juliska című meséről, hogy (németek, magukról!) kimutatták, hogy a ma közkézen forgó változata nem eredeti (volt is miért az eredetit elhallgatni), mert az eredeti úgy kezdődött, hogy Jancsit és Juliskát szülei megették és hogy ennek valós történelmi háttere van, ugyanis a Harmincéves háborúban nagy volt az éhség. Nálunk effélének nyoma sincs.  
+[Ezen](https://youtu.be/A8x7ECr5vbg) Ne Legyen Áldozatos videóban 10:30-nál Pap Gábor azt meséli, a német Jancsi és Juliska című meséről, hogy (németek, magukról!) kimutatták, hogy a ma közkézen forgó változata nem eredeti (volt is miért az eredetit elhallgatni), mert az eredeti úgy kezdődött, hogy Jancsit és Juliskát szülei megették és hogy ennek valós történelmi háttere van, ugyanis a Harmincéves háborúban nagy volt az éhség. Nálunk effélének nyoma sincs.  
 
 Lásd még [[E/Emberevő\|emberevő]].  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cerberus/","title":"Cerberus","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-16T02:33","updated":"2023-12-04T01:12"}
+{"dg-publish":true,"permalink":"/C/Cerberus/","title":"Cerberus","tags":["Englishtexttranslated"],"created":"2023-11-16T02:33","updated":"2024-02-02T02:16"}
 ---
 
 
@@ -32,9 +32,9 @@ Az [[O/Ötven\|ötven]] is előjön Cerberus fejeinek száma kapcsán, mely ugye
 
 Ami a szófejtést illeti, EP írja:  
 > A Gr mythical hound: L Cerberus: Gr Kerberos, akin to Skt [[K/Karbarás\|Karbarás]], one of Yama the Lord of the Netherworld's two dogs[^4]\: prob echoic.  
-- Az, hogy valószínűleg [[H/Hangutánzó szavak\|hangutánzó szó]]...ilyen nincs, ezt PJI is megírta.  
+- Az, hogy valószínűleg [[H/Hangutánzó szavak\|hangutánzó szó]]...ilyen nincs, ezt Péterfai János is megírta.  
 
-A [[K/KAR\|KAR]] és [[B/BAR\|BAR]] etimonok a szanszkrit szóban ezúttal is egy körforgást idéznek, mint ahogy a [[S/Samsara\|Samsara]] és a [[K/Karma\|karma]] is. Lásd még PJI gondolataiért is [[C/Ceramics\|ceramics]].  
+A [[K/KAR\|KAR]] és [[B/BAR\|BAR]] etimonok a szanszkrit szóban ezúttal is egy körforgást idéznek, mint ahogy a [[S/Samsara\|Samsara]] és a [[K/Karma\|karma]] is. Lásd még Péterfai János gondolataiért is [[C/Ceramics\|ceramics]].  
 De ha már [[J/Janus\|Janus]] szóba került, azon címnél [[S/Szarvas\|szarvas]]ról is volt szó és a fenti nevek alakilag a szarvasnak is megfelelnek.  
 
 Igen érdekes, hogy hasonló név (de milyen altáji nyelven) előjön Jankovics Marcell Ahol a madár se jár című könyvében altaji sámándobok elemzésénél:  

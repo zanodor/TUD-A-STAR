@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Etymon/","title":"Etymon","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-13T06:08","updated":"2023-11-11T01:49"}
+{"dg-publish":true,"permalink":"/E/Etymon/","title":"Etymon","tags":["Englishtexttranslated"],"created":"2023-10-13T06:08","updated":"2024-02-02T02:27"}
 ---
 
 
@@ -24,7 +24,7 @@
 > Az etimonok rendje már elhalványult az indoeurópai nyelvekben, sőt!, minden nyelvben, **csakis a magyar nyelvből lehet kihámozni az eredeti etimonokból felépült szavak alakját és jelentését**.  
 
 [[V/Végvári József\|Végvári József]] munkásságával kapcsolatosan annyit, hogy sajnos az etimon-rendszerig nem jutott el, csak szócsaládokban (béke – béka, stb.) gondolkodik. Azt jól látja, hogy a CzF szótárban is alkalmazott, az indogermán módszert követő [[G/Gyöknyelvészet\|gyöknyelvészet]]tel sokra nem megy az ember.  
-PJI jól látta meg, hogy a [[M/Magyar ősnyelv szótagnyelv\|magyar nyelv szótagnyelv]]. Ezen szótagok pedig egy, két vagy három hangból (nála a három hangos már nem etimon, de én ilyen "teoretikus/ideiglenes" etimonokkal tűzdelem tele a könyvet) álló alapszavak, idegen szóval etimonok.  
+Péterfai János jól látta meg, hogy a [[M/Magyar ősnyelv szótagnyelv\|magyar nyelv szótagnyelv]]. Ezen szótagok pedig egy, két vagy három hangból (nála a három hangos már nem etimon, de én ilyen "teoretikus/ideiglenes" etimonokkal tűzdelem tele a könyvet) álló alapszavak, idegen szóval etimonok.  
 
 Götz László Keleten kél a Nap című könyvének 190.oldalán írja:  
 > A nyelvészet megállapítása, de a 4-5000 éves szumér nyelvemlékek tanúsága szerint is, a nyelvek legősibb tőszavai egyszótagúak voltak.  
