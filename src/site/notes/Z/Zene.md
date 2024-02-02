@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Z/Zene/","title":"Zene","tags":["dg_uploaded"],"created":"2023-11-12T05:18","updated":"2023-11-12T05:18"}
+{"dg-publish":true,"permalink":"/Z/Zene/","title":"Zene","created":"2023-11-12T05:18","updated":"2024-02-02T02:49"}
 ---
 
 
@@ -8,8 +8,8 @@
 [[D/Dana\|Dana]] felhangos zöngés változata a zene.  
 
 [[F/Fül\|Fül]] szónál is volt szó Pap Gábor szavairól és a nála bemutatottakról, miszerint a fül sokszor hangsúlyos (elnagyolt) a népművészetben, arra célzóan, hogy az első ill. legfőbb érzékelés az igével teremtett világ hangjára utal.  
-A zenével, dallal teremtésről lásd TZs sorait is [[D/Dal\|dal]] (és [[T/Tale\|tale]]).  
-Eredetileg minden [[T/Tánc\|tánc]] rituális tánc volt, [[T/TEN\|TEN]]-nek, azaz istennek szentelve. Zene is Tene zöngés párjának tűnik. Zene igei párja a [[Z/Zeng\|zeng]], melynek előzménye lehet Döng, de létezik Zsong is, melyek szintén mind a Ten szócsoportba tartoznak és PJI szerint sem [[H/Hangutánzó szavak\|hangutánzó szavak]]:  
+A zenével, dallal teremtésről lásd Tomory Zsuzsa sorait is [[D/Dal\|dal]] (és [[T/Tale\|tale]]).  
+Eredetileg minden [[T/Tánc\|tánc]] rituális tánc volt, [[T/TEN\|TEN]]-nek, azaz istennek szentelve. Zene is Tene zöngés párjának tűnik. Zene igei párja a [[Z/Zeng\|zeng]], melynek előzménye lehet Döng, de létezik Zsong is, melyek szintén mind a Ten szócsoportba tartoznak és Péterfai János szerint sem [[H/Hangutánzó szavak\|hangutánzó szavak]]:  
 > Varga Géza, különben kitűnő írásában, azt mondja, a Ten kezdetben a mennydörgés hangját utánzó szó. Felsorolja a Döng, Dördül, Dong, Zeng, Peng, Pendül szavakat, gondolata alátámasztására. Minden nyelvkutatónak tudnia kell, eredetileg nincsenek hangutánzó szavak. Ha alaposan megvizsgáljuk az etimonok rendszerét, egy pillanat alatt ráébredünk erre az alaptényre. Viszont később egyes szavakhoz hangutánzó és hangfestő tartalmakat gondoltak a modern és legmodernebb korokban. Így alakult ki a hangutánzó szavak fogalma.
 
 Nemcsak zenében van benne a [[T/TEN\|TEN]], de Ten a [[C/Csend\|csend]] szóban is szerepel. Ugyanazt a szót használjuk hangra és hangtalanságra (a csendben hallani meg Is-Ten szavát). Csend megvan csendül szóban is, épp ilyen ellentétes értelemmel.  

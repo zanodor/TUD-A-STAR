@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/D/Dialektikus ellentét/","title":"Dialektikus ellentét","created":"2023-10-06T12:03","updated":"2023-12-15T01:31"}
+{"dg-publish":true,"permalink":"/D/Dialektikus ellentét/","title":"Dialektikus ellentét","created":"2023-10-06T12:03","updated":"2024-02-02T02:58"}
 ---
 
 
 # Dialektikus ellentét
 
-Péterfai János István ezen a néven említi azt, amit én hímségi asztrális és nőiségi telluris ellentétekként jellemzek. Igaz, a nő fent is megvan ([[T/Tejútanya\|Tejútanya]]ként). Valójában [[D/Dialektika\|dialektika]] címnél írottak alapján kicsit másképp értelmezendő. Erről volt szó [[F/Fény és sötétség\|fény és sötétség]] címnél is.  
+Péterfai János ezen a néven említi azt, amit én hímségi asztrális és nőiségi telluris ellentétekként jellemzek. Igaz, a nő fent is megvan ([[T/Tejútanya\|Tejútanya]]ként). Valójában [[D/Dialektika\|dialektika]] címnél írottak alapján kicsit másképp értelmezendő. Erről volt szó [[F/Fény és sötétség\|fény és sötétség]] címnél is.  
 Bakos Attila A Duna Evangéliuma című könyvének 89. oldalán úgy fogalmaz, hogy **van nyelvünknek egy, a földi polaritást feloldó belső logikája**.  
 
 Péterfai János talán nem mondja ki elégszer, hogy a magyar szavakba kettős, egymásnak ellentmondó jelentések is be vannak építve. Nos, mint kiderül, [[S/Szegény\|szegény]] szót taglalva kimondja:  
@@ -64,7 +64,7 @@ Dialektikus ellentétet képez az [[O/Ószövetség\|Ószövetség]] és az Újs
 Miklósvölgyi János festőművész [ezen](https://youtu.be/Hf0HIuMetKM) előadásában 1:18:09-nél beszél arról, hogy az Ószövetség rátelepedett az Újszövetségre. Előzmény: [[B/Bibliai teremtéstörténet\|bibliai teremtéstörténet]].  
 A Pap Gábor nyomdokaiban haladó Miklósvölgyi minden asztrálmítoszi analógiás példájával ugyan nem tudok azonosulni, de az [alábbi](https://youtu.be/cKSfWvb2Gjg) előadásában 1:28:00-nál elhangzó szavai találóak: "a sötétség a fény nyelvén kezd el kommunikálni, vagyis megtéveszt, azaz hazudik[^2]." [[F/Fascism\|Fascism]] címnél szerepelt egy YouTube kommentfelületről oda másolt gondolatom, miszerint a fasiszta azt képzeli magáról, hogy ő képviseli a fényt (haladást, igazságot, stb.).  
 
-[Ezen](https://www.youtube.com/watch?v=EQjoBd2ZXNM) Ne Legyen Áldozatos videóban PG 4:11-től sorol ellentétpárokat (a bal oldalra mindig ugyanazt a típust képviselő kerül, a jobb oldalon szintén): hírek – tények, bizonyíthatóság – igazság, mennyiség – minőség, tünetmentesség – egészség, szerkezet – szervezet.  
+[Ezen](https://www.youtube.com/watch?v=EQjoBd2ZXNM) Ne Legyen Áldozatos videóban Pap Gábor 4:11-től sorol ellentétpárokat (a bal oldalra mindig ugyanazt a típust képviselő kerül, a jobb oldalon szintén): hírek – tények, bizonyíthatóság – igazság, mennyiség – minőség, tünetmentesség – egészség, szerkezet – szervezet.  
 
 Tibold Szabina Ágnes Fényben járni, fénnyé válni című Ősi Gyökér 2006/4. sz. megjelenő cikkében írottak szerint a szeretet ellentéte nem gyűlölet, hanem 'szenvedés'. Ahol nincsen jelen a Szeretet Fénye, ott minden és mindenki szenved.  
 Nos, mások ezt úgy szokták mondani, hogy a szenvedés a boldogság ára. Önfeláldozásra is szükség van.  
@@ -82,7 +82,7 @@ Másutt írja:
 > A dialektikus ellentét fogalma nagyon ősi, a magyar nyelvet teljesen áthatja. Úgy tűnik, hogy a magyar nyelvből eredő filozófiai áramlat hozta létre, még abban a korban, amikor indoeurópaiak és afroázsiaiak még nem léteztek. A dialektikus ellentét egy szónak két ellentétes jelentést biztosít. Ennek a kornak meghatározása még várat magára. A Szeg lehet Kiemelkedő, Kiszögellő, de lehet Alászegettség, Szegény is.  
 - Az STN msh-váz lehet [[I/Isten\|Isten]] és [[S/Sátán\|Sátán]] is például.  
 
-PJI folytatja:  
+Péterfai János folytatja:  
 > An-U jelentése Égi-Magasságos, lehet válogatni az U jelentései között. Az U önálló szó, a magánhangzók családjába tartozik, változata az Ü és Ő. De Anu isten neve mindentől függetlenül, az Ég, An nevéből képződótt. **Dialektikus ellentéte** az An névnek az Ördög, amit [[H/HAN\|Han]], Hány alakban írunk. An az Ég, de változata az Ördög, sok név alatt. An ugyanis nálunk mindig Ég, ige és főnév, de éjjel fekete, nincs fenn a Napisten, illetve Napkirály. A fekete szín a végzet színe, az ördögök éjjel járnak elsősorban kísérteni. Ha Anu jellegtelen ősisten, aki már a szumerok korában is az idők homályába vész, akkor csakis magyar istenség lehet, mert mi írunk sok tízezer év óta, nem a szumirok. A Han, szinte teljesen biztos, az An szóból keletkezett, hasonlóan a Jan szócsoporthoz. A Han-Ság nagy mocsár, az ördög területe. Hany Istók nem más, mint Ördög Istók. Akit megszállt az ördög, azt Hánytatni kell, hogy kijöjjön belőle a rossz. Matematikában a Hány? kérdőszó az ördöghöz, a Mennyi? kérdőszó a Mennyhez (eredetileg Mén) tartozik. A hánykolódik, hányja-veti magát és egyéb szavaink a rossz állapotot írják le.  
 > De a Kor-Hány, Kur-Gán halotti építmények nevében is szerepel a Hány. A Kur és Kor itt egyértelműen Hegy, de előfordul Ország jelentése is. Ám a Kor lehet Kör is, mivel a felhányt hegyek kör alakúak, a Kör szó viszont a Nap sajátja, elterjedt a magyar földrajzi nevekben. Különösen a Gán szó fura, mert a király jelentésű Kán szóval is rokon, ami Gán és Hán alakra fejlődött a törököknél. A Kán magyar szó, a Kan változata, amiből kialakult a Gan és Han. Han Tengri értelme Tengri Király, de akkor mi a kapcsolat a Kán és az ördögöt jelentő Hán között? A magyar nyelv nem utóda a török nyelvnek, a származás éppen fordított, magyarból ered a török, de a Han, mint kínai Hanok népe, a Han Tengri, és a magyar Hany Istók, Hány kérdőszó, az An, vagyis égi eredetű szavakat jelöli, esetleg a bukott angyalt is, aki az Anból ered, de Hanná, ördöggé változott.  
 
@@ -119,7 +119,7 @@ Az alábbiak [[E/Ellentétek harca\|ellentétek harca]] címnél is állhatnána
 ...című könyvének 84. oldalán írja:  
 > Összefoglalva, Kr. e. 11501 óta, amikor az őszi napéjegyenlőség a Kos kezdőpontján volt a Nap pályájának a nagy középponthoz legközelebb eső részéhez, innen elkezdett távolodni s ez vezetett korszakonként nemegyszer megrázkódtatásokon, kataklizmákon át az emberi tudás egyre lejjebb és lejjebb való zuhanásához. Lemuria, Atlantisz, Mu sejtelmes emlékei csupán az egykori fejlettségnek. Az isteni elrendezés végrehajtása érdekében kétféle emberi törekvés az, **ami összecsap, az isteni és a démoni emberi természet**. Az elsötétülés időszakában a testvérgyilkosság Káin és Ábeli az Ikrek diszharmonikus világuralmi gátlástalansága, a testvériség megtagadása dominál, a felemelkedés idején Hunor és Magyar, az Ikrek minőség magasrendű kibontakozása és nemes vetélkedése a példaadó. Ezeknek a fázisoknak, az emberi tudatosság emelkedésének és sülyedésének nyomon követése az igazán lényeges történelem, s ebben van elrejtve, mi több eltemetve hun-magyar fajunk eredete, dicsősége, bukása, szenvedése és föltámadása.  
 
-PJI azt írja, hogy a [[H/HAN#Han nép\|hanok]] a kínaivá lett hunok:  
+Péterfai János azt írja, hogy a [[H/HAN#Han nép\|hanok]] a kínaivá lett hunok:  
 > A kínai Hanok meg ördögök a magyar Hunokkal, a Menny Fiaival szemben. A Hun és Han népnév régebben azonban egy nép két részét jelentette, vagyis magyarokat és kínaiakat.  
 - Valóban a `Han` = ördög jelentésű is. Azaz ezek a népek hasonló ellentétet alkotnak így, mint a [[D/Dévák és Aszúrák\|Dévák és Aszúrák]], [[I/Irán és Turán\|Irán és Turán]], [[A/Ászok és Vánok\|Ászok és Vánok]], vagy [[A/Ahura Mazda\|Ahura Mazda]] és [[A/Ahriman\|Ahriman]], [[O/Osiris és Set\|Osiris és Set]]. [[K/Káin és Ábel\|Káin és Ábel]] is említhető és [[R/Rama\|Rama]] (és Ravana) is. [[H/Hunor és Magor\|Hunor és Magor]] is ellentétpárok, de nem ellenségesek (eredetileg).
 
@@ -138,7 +138,7 @@ A téma a Hamlet malma c. könyv ([[G/Gilgames és Enkidu\|Gilgames és Enkidu]]
 Arról is lehet persze beszélni, hogy Han az [[A/AN, ÁN\|AN, ÁN]] sötétjével azonos. Viszont akkor a [[S/Sátán\|Sátán]] névben a Sát nem feltétlenül kellene sötét értelmű legyen, ha már An viszi az ég sötétje értelmet.  
 [[F/Fény és sötétség\|Fény és sötétség]], valamint [[V/VAN\|VAN]] címnél is szerepelt, hogy a Han, Van szavakkal kifejezett ideák a fény anyagi világban való megtestesülése útján válnak valóra. Fény, azaz a hullámai, rezgés nélkül anyag sincs.  
 
-A dialektikus ellentét iskolapéldája [[M/Martu\|Martu]] címnél állt, miszerint a fehér és fekete színnel lehet ugyanazt (jelen esetben a halált) jelölni[^4] (PJI írja):  
+A dialektikus ellentét iskolapéldája [[M/Martu\|Martu]] címnél állt, miszerint a fehér és fekete színnel lehet ugyanazt (jelen esetben a halált) jelölni[^4] (Péterfai János írja):  
 > De miért viseli a Mar egyszerre az Ifjúság és a Halál értelmet? A [[M/Mars\|Mars]] istennév is jó választ ad kérdésünkre, de az eredet Martu istenhez kapcsolható. Martu isten neve ugyanis Nyugat értelmű, a nyugati irányban terjeszkedő szumerok a nyugati részeket, mint Szíriát, Libanont, új területként kezelték. Így a Martu fogalomhoz kapcsolódott az Ifjú, Új fogalom, továbbá a Halál, Pusztulás fogalma, mert a Napisten mindig nyugaton megy le. A magyar és a hun (ami ugyanaz) színrendszerben a Nyugat ezért viseli a Fehér színt, ami, egyik értelemben a Halál színe, a Fekete mellett. Mar-Tu szó szerint Nyugat-Táj, Ifjú-Táj.  
 
 Egyébként az újlatin fehéret jelentő szavak szinte egyeznek a [[B/Black\|black]] = fekete szóval is alakilag. Azóta lásd [[B/Balog\|Balog]] címnél írottakat.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szűr/","title":"Szűr","tags":["dg_uploaded"],"created":"2023-11-19T02:58","updated":"2023-11-19T02:58"}
+{"dg-publish":true,"permalink":"/S/Szűr/","title":"Szűr","created":"2023-11-19T02:58","updated":"2024-02-02T02:43"}
 ---
 
 
@@ -18,7 +18,7 @@ Arról már [[K/KAR\|KAR]], [[S/Szer\|szer]] és más címnél ([[M/Madár\|mad�
 Ha valaki nem értené: a szűrrel rokon a [[S/Sürög\|sürög]] sür eleme, mely a [[F/Forog\|forog]] párja. A forog meg a kering, kőröz rokona.  
 Telluris párja, ugyanígy az életkörből kiindulva, lehet [[Z/Zűr\|zűr]].  
 
-Megfelel neki az igeképző nélküli [[S/Sző\|sző]] szavunk, mely címnél GL ide tehető adatait is táblázatos adatként szerepeltettünk.  
+Megfelel neki az igeképző nélküli [[S/Sző\|sző]] szavunk, mely címnél Götz László ide tehető adatait is táblázatos adatként szerepeltettünk.  
 
 #### Pálfi Károly A magyar nemzet ősvallása...  
 

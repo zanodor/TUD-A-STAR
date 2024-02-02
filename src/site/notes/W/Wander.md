@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/W/Wander/","title":"Wander","tags":["dg_uploaded"],"created":"2023-10-20T10:19","updated":"2023-10-25T02:23"}
+{"dg-publish":true,"permalink":"/W/Wander/","title":"Wander","created":"2023-10-20T10:19","updated":"2024-02-02T02:47"}
 ---
 
 
 # Wander
 
-Vándorol, [[V/Vándor\|vándor]] szóból. A szóhoz hasonló [[W/Wonder\|wonder]] és [[U/Under\|under]] felépítését PJI alapján azon címszavak alatt taglaljuk. Pannon fejezetében...
+Vándorol, [[V/Vándor\|vándor]] szóból. A szóhoz hasonló [[W/Wonder\|wonder]] és [[U/Under\|under]] felépítését Péterfai János alapján azon címszavak alatt taglaljuk. Pannon fejezetében...
 
 #### Magyar Adorján is említi:
 

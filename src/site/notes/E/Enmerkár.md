@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Enmerkár/","title":"Enmerkár","tags":["dg_uploaded"],"created":"2023-11-09T04:00","updated":"2023-11-09T04:00"}
+{"dg-publish":true,"permalink":"/E/Enmerkár/","title":"Enmerkár","created":"2023-11-09T04:00","updated":"2024-02-02T03:00"}
 ---
 
 
@@ -17,7 +17,7 @@ Közben megtaláltam forrását...
 ...című az Ősi Gyökér 2010/1-2. sz. megjelent cikkében:  
 > "Hatalmas vadász (szubirul **KÁR**.NUN) volt ő az Úr előtt." (1Móz 10, 9) Őt tekintették az [[U/Unug\|Unug]]i királyság atyjának, akit később a szubirok isteni rangra emeltek. De a "Haragos (propr. Szenvedélyes) Vadász Úr" (EN.MER.**KÁR**) végül egyre zsarnokibbá vált, maximálisan igénybe vette az erőforrásokat és túlterjeszkedett a lehetőségein.  
 
-A Bíró József A szabir-magyarok a sumirok tanítómesterei című könyvében (Emmerkar névalakban) és PJI-nél is előjövő Enmerkár király kapcsán [[G/Grandpierre Atilla\|Grandpierre Atilla]] [ezen](https://youtu.be/oVSHcgp2mfY) műsorban 21:00-nál azt mondja, hogy a mássalhangzók (N-M-R és K-R) figyelembevételével [[N/Nimrud\|Nimród]] királynak kell olvasni Enmerkár nevét.  
+A Bíró József A szabir-magyarok a sumirok tanítómesterei című könyvében (Emmerkar névalakban) és Péterfai Jánosnál is előjövő Enmerkár király kapcsán [[G/Grandpierre Atilla\|Grandpierre Atilla]] [ezen](https://youtu.be/oVSHcgp2mfY) műsorban 21:00-nál azt mondja, hogy a mássalhangzók (N-M-R és K-R) figyelembevételével [[N/Nimrud\|Nimród]] királynak kell olvasni Enmerkár nevét.  
 Igen ám, de nyelvészeti szempontból Enmer = [[E/Ember\|Ember]], a [[K/KÁR\|Kár]] névről pedig volt külön szó. Kár tulajdonképpen a [[H/Hungár\|hungár]] és más névformák utórésze lehet, melyet alanyi jogon kívánnak értelmezni.  
 Enmer < Emmer < Ember fejlődési változásokon keresztül értendő meg a név.  
 Az Ember Vadász istenként valóban lehet Nimród, miről/kiről GA elmondja, hogy több bizonyíték szerint valóban létező ember volt.  

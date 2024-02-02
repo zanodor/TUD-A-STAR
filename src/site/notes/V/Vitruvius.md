@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vitruvius/","title":"Vitruvius","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-26T03:11","updated":"2023-10-28T08:38"}
+{"dg-publish":true,"permalink":"/V/Vitruvius/","title":"Vitruvius","tags":["Englishtexttranslated"],"created":"2023-10-26T03:11","updated":"2024-02-02T02:46"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 A világon mindenki által ismert jelkép a négy (öt) elemet és a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]]ot jeleníti meg, többek között.  
 [[V/Világmodell\|Világmodell]] cím alján már esett szó róla.  
-[[P/Pentagram\|Pentagram]] címnél pedig az alábbi PJI adat szerepelt:  
+[[P/Pentagram\|Pentagram]] címnél pedig az alábbi Péterfai János adat szerepelt:  
 > Igen fontos az egyiptomi festményeken az ötágú csillagok szerepeltetése. Valójában embert jelentenek. Alul van a két láb, felül van a kitárt két kar, legfelül pedig a fejet jelképező csillagkar.  
 
 ![assets/Vitruvius_image1.png](/img/user/V/assets/Vitruvius_image1.png)  

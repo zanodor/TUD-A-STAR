@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","created":"2023-10-09T06:36","updated":"2024-01-27T11:09"}
+{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","created":"2023-10-09T06:36","updated":"2024-02-02T02:38"}
 ---
 
 
@@ -24,15 +24,15 @@ Ha már kő, Baráth Tibor A magyar népek őstörténete I. kötetének 80. old
 Mint kiderül Rédei Károly Őstörténetünk kérdései című okoskodás-gyűjteményéből (ahol a több helyen idézett Hegedűs Józsefhez hasonló dilettáns nyelvhasonlítási kísérletekről ír), Kúr Géza volt vagy lehetett egyik úttörője annak, hogy a szavakat szótagszinten kell értelmezni:  
 > Az etruszk-magyar rokonság híve Kúr Géza (Etruszkok Magyarországon? Ohio, Warren 1970; Az etruszk-magyar rokonság I-II. uo. 1966, 1968). Kur eljárása az, hogy a magyar szavakat szótagokra bontja és azokat egyezteti etruszk szavakkal. Például: etruszk `ax` ~ m. ah 'sóhajtás, óhajtás, vágy; emelkedni, jobb sorsa kerülni'; etruszk `mar` ~ m. marad.  
 
-Valójában az [[I/Indogermán nyelvészet\|indogermán nyelvészet]] címnél Götz László által említett A. Pictet (Les origines Indoeuropéennes on les Aryas primitifs, essai de paléontologie linguistique (1859-63)) lehetett az első, aki szóösszetételekkel, szóelválasztásokkal dolgozott. GL amit ír:  
+Valójában az [[I/Indogermán nyelvészet\|indogermán nyelvészet]] címnél Götz László által említett A. Pictet (Les origines Indoeuropéennes on les Aryas primitifs, essai de paléontologie linguistique (1859-63)) lehetett az első, aki szóösszetételekkel, szóelválasztásokkal dolgozott. Götz László amit ír:  
 > Például ind `kabhara` (micsoda étel!) nála az ófelnémet `habaro` = Hafer szónak felel meg, vagy az ind `ka-rasa` = (micsoda táplálék!) az ófelnémet `hirsi` = Hirse szónak. Ilyen módszerekkel mindent bizonyíthatunk, amit csak akarunk, jegyzi meg Schrader idézett művében. Pictet kérdéses könyvét ugyan azonnal hevesen kritizálták (A. Weber, A. Kuhn és mások), de sokan, ennek ellenére, azóta is belőle indulnak ki kutatásaikban.  
 
 A sumér is szótagnyelv volt, krétai-mükénéi jelek szótagjelek, míg a kínai írás ideogrammái akár komplett szavakat is takarhatnak – a magyar szótagok is saját jelentéssel bíró szavak.  
 A [[V/Vezér\|vezér]] az egyik legkönnyebben érthető magyar név (de a Mag-Ur is az lenne), mely rá*vezet*hetné a díszes társaságot arra, hogy a magyar nyelv szótagnyelv.  
 [[V/Végvári József\|Végvári József]] munkásságával kapcsolatosan annyit, hogy sajnos az etimon-rendszerig még nem jutott el, csak szócsaládokban (béke – béka, stb.) gondolkodik. Azt jól látja, hogy a CzF szótárban is alkalmazott gyöknyelvészettel sokra nem megy az ember.  
-PJI jól látta meg, hogy a magyar szótagnyelv. Ezen szótagok pedig egy, két vagy három hangból álló alapszavak, idegen szóval [[E/Etymon\|etimon]]ok.  
+Péterfai János jól látta meg, hogy a magyar szótagnyelv. Ezen szótagok pedig egy, két vagy három hangból álló alapszavak, idegen szóval [[E/Etymon\|etimon]]ok.  
 
-[[A/A\|A]] címnél is szerepelt PJI adatsora, ahol elmondja a magyar szavak működésének receptjét:  
+[[A/A\|A]] címnél is szerepelt Péterfai János adatsora, ahol elmondja a magyar szavak működésének receptjét:  
 > Ha a magánhangzók jelentéseit feltártuk, akkor a két hangból álló szavak jelentéseit kell meghatározni. Utána jönnek a három hangból álló szavak. A két hangból álló alapszavakat az U-A-E-I magánhangzók alapján vizsgáljuk, az O-Ö-Ü magánhangzókra csak ez után megyünk át[^1]. A mássalhangzók a következők, zöngétlen és zöngés párokban: T-D, Sz-Z, K-G, J-H, P-B, F-V, és M-N, L-R. Ez a 16 betű alkotja az alapvázat, amely alapszavak jelentései megadják az egész emberiség nyelveinek alapját. Az emberiség összes nyelve tehát egyetlen nyelvből ered, amit nevezzünk ősnyelvnek.  
 
 ## Kétszótagú szavak összeállása
@@ -67,7 +67,7 @@ Ha a magyar és magyarutód nyelvekben talált szó 3-4 hangos, akkor lehetsége
 Jó példa a [[S/Sátán\|Sátán]] és [[S/Satyr\|Satyr]]/[[S/Szaturnusz\|Szaturnusz]] nevek tulajdonképpeni azonossága: azonos előrész, egyszer ilyen, másszor olyan végződéssel, de a téridőbeli helyük alapján azonosak.  
 [[Z/Zsúp\|Zsúp]] és [[Z/Zsupán\|zsupán]] nevek értelmét egymás értelmei alapján tudtuk meghatározni; érdemes volt rápróbálni, de akár -Ar végződéssel is eljuthatunk a téridőbeli helyét tekintve azonos [[S/Sacchar-\|sacchar-]] címnél taglalt nevekhez.  
 [[W/Weak\|Weak]] szó is így a vékony rövidült alakja.  
-PJI is ezt teszi, amikor a (magyar lélekjelkép) [[G/Galamb\|galamb]] szavukat a Gal-Ember összetételből igyekszik magyarázni.  
+Péterfai János is ezt teszi, amikor a (magyar lélekjelkép) [[G/Galamb\|galamb]] szavukat a Gal-Ember összetételből igyekszik magyarázni.  
 És hogy miért van erre szükség? Hogy ne legyenek rövid egymáshoz nagyon hasonló szavak (mint az angolban).  
   
 Arra is rá kell mutatni, hogy – ahogy (majdnem) erről [[N/Nyelvészet mint tudomány\|nyelvészet mint tudomány]] címnél is volt szó – hogy az igék alakjai a végződésekkel együtt nem térnek el a főnevektől. Ugyanis:  

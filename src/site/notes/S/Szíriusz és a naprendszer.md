@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz és a naprendszer/","title":"Szíriusz és a naprendszer","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-13T05:21","updated":"2024-01-27T11:16"}
+{"dg-publish":true,"permalink":"/S/Szíriusz és a naprendszer/","title":"Szíriusz és a naprendszer","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-13T05:21","updated":"2024-02-02T02:44"}
 ---
 
 
@@ -187,7 +187,7 @@ A [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]], [[M/Miscoatl\|Miscoatl]], [[
 </div></div>
  
 
-A mellékelt, [[M/MISZ\|MISZ]] címnél is szereplő képet jól kiegészíti (az ott is szerepeltetett) JM-től származó passzus:  
+A mellékelt, [[M/MISZ\|MISZ]] címnél is szereplő képet jól kiegészíti (az ott is szerepeltetett) Jankovics Marcelltől származó passzus:  
 ![assets/Szirnap_image4.png](/img/user/S/assets/Szirnap_image4.png)  
 [[J/Jézus\|Jézus]] ebben az összefüggésben a Nap, aki az égi [[K/Kapu\|kapu]]kon áthalad. A metafora arra az ősi és általános felfogásra vezethető vissza, mely a Napot, a nappali világosságot az [[E/Éj\|éj]], az éjszakai és hajnali [[E/Ég\|ég]] gyermekének tekinti, és aminek a szellemében a Hold, a Vénusz vagy a [[S/Szíriusz\|Szíriusz]], hiába a Nap után legfényesebb égitestek, mint az éjszaka lámpásai az éjanyához tartoznak az ég hatalmas csillagfolyamával, a [[T/Tejút\|Tejút]]tal együtt. ([[V/Vénusz\|Vénusz]] a legtöbb nép képzeletvilágában "szembenáll", "harcol" a Nappal, hiszen napkeltével veszti el a fényét és napnyugtával nyeri vissza. Mondhatnók, felváltva élnek, halnak. Jézus és Mária vonatkozásában ez a kontraszt visszafogottan, árnyaltan fejeződik ki a Születés, Pietá és Mária elszenderülése ábrázolásokon.) A [[N/Nyári napforduló\|nyári napforduló]] körüli Szűzanya-szimbolika ezért kap a szokásosnál nagyobb hangsúlyt. Ekkor halad át ugyanis a Nap a Tejúton, akit a görögök a nagy Fehér Istennővel, a Nap és a Hold szülőjével azonosítottak (ld. "fehér rózsa, Mária"), hasonlóképpen az egyiptomiak. **Ekkor áll együtt a Szíriusszal**, s történik mindez a "nőies" Rák jegy uralma alatt, mely a Hold jelképes "otthona". - Egyiptomban a [[S/Szíriusz heliakus kelése\|Szíriusz heliakus kelése]] a Nílus áradásának kezdetét jelezte. A várva várt eseményt méltó módon ünnepelték meg. Ez volt Egyiptomban az [[U/Újév\|újév]] napja (júl. 19.), amelyen **Szíriusz és a Nap a nászát ülte**. (Egyesülésük a Földről nézve a valóságban is végbemegy; a hajnali égen fölragyogó csillag fénye beleolvad a kelő Nap vakító sugaraiba.) Az eseményt elbeszélő mítoszt az ünnepen el is játszották. A denderai Hathor templomban Szíriuszt Hathor-Ízisz, a Napot Hórusz személyesítette meg. (A Nap és csillag vagy csillagzat együttállása nemcsak egyesülést, hanem azonosulást is jelenthetett, így lesz a Kos csillagkép a rajta áthaladó Nap fényében aranygyapjas kos, az Orion a feje fölé érkező Napnak köszönhetően naphérosz, a Tejutat keresztező Nap a világfán termő aranyalma.)  
 

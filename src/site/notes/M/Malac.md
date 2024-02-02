@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/M/Malac/","title":"Malac","tags":["dg_uploaded"],"created":"2023-11-22T01:09","updated":"2023-11-22T01:09"}
+{"dg-publish":true,"permalink":"/M/Malac/","title":"Malac","created":"2023-11-22T01:09","updated":"2024-02-02T02:39"}
 ---
 
 
 # Malac
 
-Nem látom, hogy PJI elemezné. Mal-Asz vagy Ma-Lasz felbontásban vajon mit jelent? Nyilván a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] közül a [[K/Koca\|koca]]/[[E/Emse\|emse]] jó kandidátus.  
+Nem látom, hogy Péterfai János elemezné. Mal-Asz vagy Ma-Lasz felbontásban vajon mit jelent? Nyilván a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] közül a [[K/Koca\|koca]]/[[E/Emse\|emse]] jó kandidátus.  
 Bárczi Géza Magyar Szófejtő Szótárában persze szlávozik: `mlac` = fiatal állat lenne.  
 
 [[P/Pig\|Pig]], [[P/Picsa\|picsa]] és [[P/Pina\|pina]] címnél is volt arról szó, hogy a [[D/Disznó\|disznó]], malac is lehet a női szeméremrész állatjelképe (a [[M/Macska\|macska]], [[R/Róka\|róka]] és [[B/Béka\|béka]] mellett).  

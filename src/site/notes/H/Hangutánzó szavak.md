@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hangutánzó szavak/","title":"Hangutánzó szavak","tags":["nyelvészet","Götz"],"created":"2023-10-05T03:29","updated":"2023-12-29T08:59"}
+{"dg-publish":true,"permalink":"/H/Hangutánzó szavak/","title":"Hangutánzó szavak","tags":["nyelvészet","Götz"],"created":"2023-10-05T03:29","updated":"2024-02-02T03:08"}
 ---
 
 
@@ -20,8 +20,8 @@
 > Egy pillanatig sem akarjuk vitatni, hogy hangutánzó, hangfestő szavak valóban szép számmal előfordulnak minden nyelvben. Csupán az ilyen fajta szavakkal való visszaéléseket vetjük el. Olyasmiket, mint például a német `Rabe` (holló) és `Krähe` (vetési varjú) esete a germanisztikában. Mivel ugyanis a latin `corvus` (holló) az ófelnémetben előírásszerűen `hraban` (holló) alakban található, e szavak természetesen rokonok. De mivel a latin `cornix` (vetési varjú) németül még ma is "Krähe", ezek hangutánzó szavak lettek, amelyekre nem vonatkoztathatók a hangtörvények. Pedig a "corvus" éppúgy "károg", mint a "cornix." Itt tehát a hangutánzó szó csodálatosképpen mégis hasonlítható a hangtörvények alapján, holott a tézis szerint nem szabadna hangváltozásokat felmutatnia.  
 > E példa kitűnően rávilágít a hangutánzó szavak posztulátumának valóságos céljára és rugóira: segítségével nem egy kellemetlen kivételt eliminálni lehetett és ezáltal a \[[[Nyelvészet mint tudomány\|nyelvészet mint tudomány]] címnél bőven taglalt\] hangtörvények általános érvényessége is szilárdabb alapokra került.  
 
-Götz is említi, hogy szavak a nyelvek legősibb alaprétegéhez tartoznak. Persze PJI mást posztulált. Utána szóba hozza a (csekély számú) gyermeknyelvi szavakat, mondván hogy ez (illetve számuk önkényes megnövelése) is lehetőséget nyújt számukra elszámolni olyan szavakkal amelyekre nem találtak megoldást.  
-GL írja még előtte:  
+Götz is említi, hogy szavak a nyelvek legősibb alaprétegéhez tartoznak. Persze Péterfai János mást posztulált. Utána szóba hozza a (csekély számú) gyermeknyelvi szavakat, mondván hogy ez (illetve számuk önkényes megnövelése) is lehetőséget nyújt számukra elszámolni olyan szavakkal amelyekre nem találtak megoldást.  
+Götz László írja még előtte:  
 > A Benkő-féle legújabb Magyar történeti-etimológiai szótárban \[TeSz\] például sorozatosan találhatunk olyan szláv jövevényszavaknak nyilvánított magyar szavakat amelyeknek töve mind a szlávban mind a magyarban hangutánzó szó.  
 
 Másutt, bővebben:  

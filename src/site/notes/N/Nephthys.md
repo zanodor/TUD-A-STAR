@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nephthys/","title":"Nephthys","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-25T02:58","updated":"2023-12-04T08:12"}
+{"dg-publish":true,"permalink":"/N/Nephthys/","title":"Nephthys","tags":["Englishtexttranslated"],"created":"2023-10-25T02:58","updated":"2024-02-02T02:40"}
 ---
 
 
@@ -17,7 +17,7 @@ Nem a [[N/Nép\|nép]], hanem a [[N/Nap\|Nap]] szóval rokonítva jön elő Neph
 
 Az egyiptomi [[N/Neb\|Neb]] = úr női párja lenne a `nebet` = úrnő, és kimutatható másutt is az egyiptomi nyelvben, hogy a [[T/T\|T]] (itt -et) végződés nőnemképző. (A franciában -ette valóban nőnemet képez.)  
 Mi a helyzet [[N/Nebethet\|Nebethet]] névvégződésével?  
-Amennyiben Nephthys [egyiptomi Nebethet nevében](https://hu.m.wikipedia.org/wiki/Nebethet) is ilyen szóvégi nőnem-jelző szerepel, akkor PJI értelmezése helytelen lenne? [[N/Neb\|Neb]] címnél álló adat szerint a `nebet` = úrnő már egyszer viszi a jelzőt, hiszen `neb` = úr. Ráadásul [[K/Kutya\|kutyá]]s értelemről is volt szó. Helyben is volnánk, hiszen [[S/Szíriusz\|Szíriusz]]-vonatkozású ezen istennő is.  
+Amennyiben Nephthys [egyiptomi Nebethet nevében](https://hu.m.wikipedia.org/wiki/Nebethet) is ilyen szóvégi nőnem-jelző szerepel, akkor Péterfai János értelmezése helytelen lenne? [[N/Neb\|Neb]] címnél álló adat szerint a `nebet` = úrnő már egyszer viszi a jelzőt, hiszen `neb` = úr. Ráadásul [[K/Kutya\|kutyá]]s értelemről is volt szó. Helyben is volnánk, hiszen [[S/Szíriusz\|Szíriusz]]-vonatkozású ezen istennő is.  
 
 Nephthys csak a görög neve Ne-Bet-Het-nek. Ne-Bet-Het mint a Hét Ház Úrnője valójában azt takarja Plutarkhosz Robert Temple Sirius Msytery című könyvében szereplő adatával kiegészítve...  
 > On the subject of Anubis, Plutarch reports (44;61) some interesting beliefs. After referring to the view that Anubis was born of Nephthys, although Isis was his reputed mother, he goes on to say, 'By Anubis they understand the horizontal circle, which divides the invisible part of the world, which they call Nephthys, from the visible, to which they give the name of Isis; and as this circle equally touches upon the confines of both light and darkness, it may be looked upon as common to them both – and from this circumstance arose that resemblance, which they imagine between Anubis and the Dog, it being observed of this animal, that he is equally watchful as well by day as night.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Flag/","title":"Flag","created":"2023-10-17T09:40","updated":"2024-01-03T03:09"}
+{"dg-publish":true,"permalink":"/F/Flag/","title":"Flag","created":"2023-10-17T09:40","updated":"2024-02-02T03:02"}
 ---
 
 
@@ -12,7 +12,7 @@
 
 > A zászlót magyarul lobogónak is nevezzük, mert a tűz, a láng lobogásához hasonló mozgást végez. Eszünkbe kell itt jussanak a rómaiak és régi keresztények [[L/Labarum\|labarum]] nevü zászlói azaz lobogói, amelyek e neve a magyar lebernyeg szónak csak mélyhangzós változata.  
 
-VCs egyszerűen `lóg` szavunkat adja meg, de ez nem a megoldás.  
+Varga Csaba egyszerűen `lóg` szavunkat adja meg, de ez nem a megoldás.  
 AJ adata is [[L/Láng\|láng]] felé visz el: `flogo`- és `fleg`- görögül ég, `flogion` = láng.  
 Lásd hasonlókról [[F/Flog\|flog]].  
 

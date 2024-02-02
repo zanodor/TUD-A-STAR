@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2023-12-29T02:49"}
+{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2024-02-02T03:09"}
 ---
 
 
@@ -9,7 +9,7 @@
 
 > A Bibliában szereplő, genealógiai nevek többsége magyar nyelvű. A héberek, nagyon úgy tűnik, még magyarok voltak, majd a zsidók már teljesen szemitává lettek. Ez az oka a bibliai nevek eredeti magyar, majd későbbi zsidó jelentésének.  
 
-[[B/Barabás\|Barabás]] címnél PJI magyar-héber kapcsolatokról ír:
+[[B/Barabás\|Barabás]] címnél Péterfai János magyar-héber kapcsolatokról ír:
 > A Bar ma is gyakori zsidó névrész, megtartva eredeti és ősi magyar jelentését. A Bar is mérhetetlenül erős magyar-héber kapcsolatoknak a bizonyítéka.  
 
 Nos, valójában itt inkább hun, azon belül is avar-hun hatást kell látni.  
@@ -57,7 +57,7 @@ Patricia Monaghan Kelta enciklopédiájában egy kelta Éber névnél is szól a
 
 Hajlok arra, a [[C/Caleb\|Caleb]] és [[K/Kohén\|kohén]] kutyás nevek (és [[G/Goat\|goat]] címnél írottak) miatt, hogy a héberek kutyatisztelő kecskepásztor kabar-hunok voltak. Az Éb-Er egyik olvasata Eb-Úr. [[S/Szkíta\|Szkíta]] címnél is szó van a zsidó név szkítás magyarázatáról (de az erőltetett).  
 
-[[H/Habiru\|Habiru]] (RG adata szerint ilyen néven hívták az egyiptomiak a hébereket) címnél is szerepelt:  
+[[H/Habiru\|Habiru]] (Robert Graves adata szerint ilyen néven hívták az egyiptomiak a hébereket) címnél is szerepelt:  
 A helyzet az viszont, hogy mivel minden [[F/Folyó\|folyó]] a Tejútfolyó és magukat a Tejútról származtatták az emberek, ezért egyes népek (számuk egyre növekedni látszik, ahogy megfejtjük őket) nevei is vagy magából a magyar Tejút/Teut névből vagy egyes folyók nevéből ered. Ezen megfontolás alapján a héberek neve eredhetne a Habur folyó nevéből, de ha közvetlenül nem, akkor a kabarok nevéből, míg a kabarok neve a Habur/Habor folyó nevéből. (Az igaz, hogy a kabar viszont a [[K/Kabir\|kabir]] névvel is rokon, mely a [[S/Szabir\|szabir]] k-s ([[K/Kentum\|kentum]]os) kiejtése lehet.)  
 
 Adott tehát egy Tejutas és egy kutyás levezetési lehetőség. Igen ám, de a kutya a Tejút "tartozéka," ahogy [[G/Göd\|Göd]] és sok más címnél szerepelt. Ezért tulajdonképpen egyre megy.  
@@ -65,7 +65,7 @@ Adott tehát egy Tejutas és egy kutyás levezetési lehetőség. Igen ám, de a
   
 
 
-Visszatérve az Éber – Héber párhuzamra, valahol PJI is úgy írta (talán Fáy és mások adata nyomán), hogy az Éber a Héber változata. [[E/Éber\|Éber]]nek Eb-Úr (nem Eb-Erő) olvasatot ad, mondhatjuk helyesen.  
+Visszatérve az Éber – Héber párhuzamra, valahol Péterfai János is úgy írta (talán Fáy és mások adata nyomán), hogy az Éber a Héber változata. [[E/Éber\|Éber]]nek Eb-Úr (nem Eb-Erő) olvasatot ad, mondhatjuk helyesen.  
 Na mármost a [[S/Scot\|Scot]] és [[S/Szkíta\|szkíta]] címnél (főleg előbbinél) John Carey (és azóta mások) írása nyomán szóba került a kelta-héber kapcsolat, azért is mert a keltáknál is szerepelt egy Éber Scot (másutt Ebur Scot) nevű ős/törzsfő, mely név azonos a héber Éber ősapa-névvel. Több weboldal és szerző foglalkozik a kelták héber eredetével (ahogy az angolok szkíta eredetével is a brit izraeliták).  
 
 Craig White The True Roots and Origin of the Scots című skótokat zsidó származásúnak beállító kiskönyvében írja:  
@@ -192,11 +192,11 @@ A vezető fogalma található meg nemcsak a [[G/Governor\|governor]] címnél is
 > The Jews called Orion Gibbor, the Giant. The Syrians knew Orion as Gabbara; the Arabians as Al Jabbar, both signifying 'the Giant.'  
 
 Mely Oriontól (Indiában Szarvasfő) nem választhatók el a lélekvezető kutyái sem.  
-Ha egyébként szarvas jelentésű Kabar/Kapar/Gabar/stb. jelentésű magyar összefüggést keresnék, első ötletem az lenne, hogy a [[M/Mleccha\|mleccha]] és [[M/Mriga\|mriga]] címnél említett módon a nép neve (jelen esetünkben a [[S/Szabir\|szabir]], mely a [[S/Sacchar-\|sacchar-]] címnél sorolt szavak mellé is illik) keresendő, mely nép a szarvas népe és innen jön szekunder jelentésként a szarvas. Második ötletem, hogy a szarvas előtagjának (nem is annyira szar, inkább szár-ként lehetett kiejtve, hogy a széthúzást illetve betoldás szükségességét kiváltsa) széthúzott, majd SZ>H/K változásos alakjait találjuk a GL által felsorolt állatnevek eredete mögött.  
+Ha egyébként szarvas jelentésű Kabar/Kapar/Gabar/stb. jelentésű magyar összefüggést keresnék, első ötletem az lenne, hogy a [[M/Mleccha\|mleccha]] és [[M/Mriga\|mriga]] címnél említett módon a nép neve (jelen esetünkben a [[S/Szabir\|szabir]], mely a [[S/Sacchar-\|sacchar-]] címnél sorolt szavak mellé is illik) keresendő, mely nép a szarvas népe és innen jön szekunder jelentésként a szarvas. Második ötletem, hogy a szarvas előtagjának (nem is annyira szar, inkább szár-ként lehetett kiejtve, hogy a széthúzást illetve betoldás szükségességét kiváltsa) széthúzott, majd SZ>H/K változásos alakjait találjuk a Götz László által felsorolt állatnevek eredete mögött.  
 Ugyanakkor azt le kell szögezni, hogy a magyar(?) felfogás szerint Szarvas az égen, csillagképként a Bak/Nyilas helyén lenne, nem ezen téridőbeli hellyel szemközt. Ettől még a szarvas vezérállat, ő vezeti körbe Hunor és Magort az év körén a [[T/Turul\|Turul]] címnél, külön alcímnél írottak szerint. [[S/Szarvas#Szarvas téridőbeli helyei\|Szarvas téridőbeli helyei]] cím/alcímnél másról is volt szó.  
 Arra is fel kell hívni a figyelmet, hogy a kecske nem szarvasnevet örököl (bár a bak [[B/Buck\|buck]]-ként szarvasra utal), az igaz ugyan, hogy a kecske a nép ([[K/Kabar\|kabar]]) nevéről neveztetik el. A szarvasra visszatérve, a szarvasmarha üszőjének neve [[H/Heifer\|heifer]], mely szót GL-nek jó alkalma lett volna itt említeni. A szarvasmarha is a szarvas déli váltója. Ezek alapján mondhatnánk, hogy a szarvat viselő állat a közös értelem, azaz két szarv = két ív = [[L/Lemniszkáta\|lemniszkáta]] egyenletet találunk.  
 
-Ami még említhető és GL nem hozza fel, az a [[G/Gopher\|gopher]] = ürge, pocok, hörcsög jelentésű szó, de [[G/Gopher#Gopher 2)\|gopher]] alatt fáról is szó esett, mely a ciprusfa ([[C/Cypress\|cypress]]) neve lenne az értelmezők szerint és a fa megint csak a Tejútfa, mely ketté osztja a téridőt.  
+Ami még említhető és Götz László nem hozza fel, az a [[G/Gopher\|gopher]] = ürge, pocok, hörcsög jelentésű szó, de [[G/Gopher#Gopher 2)\|gopher]] alatt fáról is szó esett, mely a ciprusfa ([[C/Cypress\|cypress]]) neve lenne az értelmezők szerint és a fa megint csak a Tejútfa, mely ketté osztja a téridőt.  
 Az pedig nem is biztos, hogy csak véletlen egybeesés, hogy a [[C/Cypress\|cypress]] címnél szereplő adatok szerint a perzsában `sarv` = ciprusfa... Ott is kimondtuk, hogy lehetséges a szarv/as formából való kiindulás. És hogy fentebb szarvasról már szó esett, ezek után...  
 A hasonló szóalakú [[C/Cypher\|cypher]] illetve cifra szó – melyet [[S/Sacchar-\|sacchar-]] címnél is említettük és a szóeleji K-SZ (kentum-szatem) változás ismert – kapcsán a [[K/Kapar\|kapar]] szó jött elő ([[G/Graph\|graph]] címnél).  
 A latin `scrofa` = emse lehet még a fentebbi szavak mellé tehető sz-előtétesként.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Ünnep/","title":"Ünnep","tags":["dg_uploaded"],"created":"2023-10-25T05:26","updated":"2023-11-25T11:29"}
+{"dg-publish":true,"permalink":"/U/Ünnep/","title":"Ünnep","created":"2023-10-25T05:26","updated":"2024-02-02T02:45"}
 ---
 
 
@@ -14,11 +14,11 @@ Internetes cikk írójától:
 >
 > A Napút sarokpontjaihoz, a napfordulók és napéjegyenlőségek ünnepeihez – eredetileg a Karácsony, a Húsvét és a Szentivánéj ezek lennének – így csatlakozik még két ünnep: Pünkösd és Halottak napja. Előbbi az Ikrek jegyéhez kapcsolódik, amikor a Nap az Állatövön megtett éves útja során elér a Tejút felső végéhez az Ikrek jegyénél. Itt nyílik meg a világfa tetején a felső világ, a Menny kapuja. Ezért állítottak régen ekkor májusfát és énekelték: "...nyitva van az aranykapu, csak bújjatok rajta!". Ezzel átellenben, az év második felében a Nap a Skorpió jegyében találkozik a Tejút másik végével, a Világfa tövéhez érkezve, ahol az alsó világ, azaz az Alvilág felé nyílik meg az út. Vagyis a "másvilág", a holtak birodalma felé. Ezért van ekkor a Halottak napja.  
 
-[[H/Hallowe'en\|Hallowe'en]] címnél a [[P/Pleiadok\|Pleiadok]]at hoztuk szóba a halottak napjával kapcsolatosan; RHA adatait (tévesen?) követve.  
+[[H/Hallowe'en\|Hallowe'en]] címnél a [[P/Pleiadok\|Pleiadok]]at hoztuk szóba a halottak napjával kapcsolatosan; Richard H. Allen adatait (tévesen?) követve.  
 
 Falvay Károly Nagyboldogasszony című könyvének idevágó passzusait lásd [[A/Asztrálmítoszi keretrendszer\|asztrálmítoszi keretrendszer]].  
 
-Lásd még arról, hogy az ünnepek hogyan kapcsolják be az embert a nagy kozmikus egészbe [[G/Grandpierre Atilla\|Grandpierre Atilla]] anyagát. YouTube-on van két előadása is karácsonyról. Taglalását lásd [[K/Karácsony\|Karácsony]].  
+Lásd még arról, hogy az ünnepek hogyan kapcsolják be az embert a nagy kozmikus egészbe [[G/Grandpierre Atilla\|Grandpierre Atilla]] anyagát. YouTube-on van két előadása is karácsonyról. Közben [letöltésre elérhetővé vált](https://mega.nz/file/pzNzhKJB#KXz_bvQtrp_QYzmqFqWwIpf4TSn31z4Fn4bUVLJ8jpA) Karácsony eredete és jelentősége című dolgozata, mely a könyvének bizonyos fejezeteiből készült kivonat. Taglalását lásd [[K/Karácsony\|Karácsony]].  
 Egy másik, [alábbi](https://youtu.be/CZwvyvBjM3o) előadásában 1:22-nél is elmondja, hogy az ünnepek célja a nagy egésszel való összekapcsolódás, hogy kilássunk a hétköznapok kereteiből, hogy lássuk, miért élünk a földön és lássuk, miért kell végeznünk a hétköznapokon azt a tevékenységet, amit végzünk.  
 
 #### Jankovics Marcell írja:

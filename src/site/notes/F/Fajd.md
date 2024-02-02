@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fajd/","title":"Fajd","tags":["dg_uploaded"],"created":"2023-11-10T04:01","updated":"2023-11-10T04:01"}
+{"dg-publish":true,"permalink":"/F/Fajd/","title":"Fajd","created":"2023-11-10T04:01","updated":"2024-02-02T03:01"}
 ---
 
 
@@ -15,4 +15,4 @@
 Tényleg nem kizárt, hogy akár ezen mítosz eredeti magyar változata az, ahonnan a magyar szó eredetét veszi. A (csillag)mítoszok adják a magyar (és utódnyelvi \[elferdített\]) szókincset. Tehát ahogy a [[M/Magyar\|magyar]], [[M/Magor\|Magor]] és [[M/Madár\|madár]] nevek összefüggőnek mutatkoznak, úgy a fajd is lehet olyan madárnév, mely beszédes: mondani akar valamit, de csak a monda alapján érthető, hogy mit: a madár lehet anya és fia/fiókája ([[F/Fióka\|fióka]]: fiúka) is madár, de már napmadári minőségben. A [[F/Fészek\|fészek]] pedig nyilván az égen is megtalálható hely, de vajon szabad-e a Tejút-vulvához ragaszkodni, amikor Fiastyúk (lásd [[P/Pleiadok\|Pleiadok]]) csillagkép és az Orion öve alatt Fürjfészek is létezik (lásd róla [[F/Fészek\|fészek]])?  
 Hogy a lucfajd tápláléka javarészt fenyőtűkből és fenyőmagvakból áll, ez is beszédes lehet.  
 
-A legérdekesebb dolog talán viszont az, hogy úgy tűnik, a [[P/Pleiadok\|Pleiadok]] neve egyes számát tekintve fajd szavunkból eredhet. Viszont mivel a [[F/Faj\|faj]] és [[F/Fajta\|fajta]] szavak is rokonok, kijelenthető lenne, hogy ez emberi faj eredete a Pleiadok, ahogy egyesek mondják (még PJI is említi, a Vega és más csillagok mellett)? Na, ne szaladjunk ennyire előre...  
+A legérdekesebb dolog talán viszont az, hogy úgy tűnik, a [[P/Pleiadok\|Pleiadok]] neve egyes számát tekintve fajd szavunkból eredhet. Viszont mivel a [[F/Faj\|faj]] és [[F/Fajta\|fajta]] szavak is rokonok, kijelenthető lenne, hogy ez emberi faj eredete a Pleiadok, ahogy egyesek mondják (még Péterfai János is említi, a Vega és más csillagok mellett)? Na, ne szaladjunk ennyire előre...  

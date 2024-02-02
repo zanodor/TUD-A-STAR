@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Perro/","title":"Perro","tags":["dg_uploaded"],"created":"2023-10-26T02:46","updated":"2023-11-09T07:10"}
+{"dg-publish":true,"permalink":"/P/Perro/","title":"Perro","created":"2023-10-26T02:46","updated":"2024-02-02T02:41"}
 ---
 
 
@@ -22,7 +22,7 @@ Az észak-azerbajdzsáni/kaukázusi Qudiyalcay folyó mellett/felett található
 Érdekes, hogy nyelvükön `пхра` \[phra\] = kutya, mely nem áll messze a spanyoltól. Mivel a kutya lélek és tűz-jelkép, [[F/Forr\|forr]] és így [[F/Fire\|fire]] szóval is azonosítható. (Ugyanezen nyelven `pir` = szentély, mely érthető miért ilyen alakú.)  
 Több helyen láttuk a kutya és hímtag jelentések összevágását. A WordSense.eu oldal első helyen hozza a cseh szavak közül a `péro` = fasz szót. Nyilvánvaló a mögöttes tűz jelentés.  
 
-[[B/Barbár\|Barbár]] címnél PJI azt írja, hogy [[B/BAR\|BAR]] = barlangi oroszlán. Erre reflektáltam ott:  
+[[B/Barbár\|Barbár]] címnél Péterfai János azt írja, hogy [[B/BAR\|BAR]] = barlangi oroszlán. Erre reflektáltam ott:  
 Az oroszlán is (hasonlóan a párduchoz – aminek neve [[P/Perzsa\|perzsa]] címnél írottak alapján is oroszlánt is jelenthet egyes nyelveken – és a jaguárhoz; a tigris és oroszlán fogalmakat is jelölhet azonos szó[^2]) kutyaszerű állatnak vétetett a régiségben, ezért jelenthet Napot, kutyát is (**perro** is egy ilyen elnevezés), sőt a [[B/Boar\|boar]] = vaddisznó is ilyen alakú név (ismét csak ismerjük a vadkan kutyás minőségét, de a vadszamárnak, melynek a spanyol neve `burro`, szintén) és az a medve is, mely [[B/Bear#Bear 2)\|bear]] neve vagy az oroszlán (mint legnagyobb testű ismert állat) kiváltására használt elnevezés (akár fordítva is történhetett), vagy a [[C/Cynosure\|Cynosure]] címnél taglaltak alapján megint csak a kutyából indul ki, abból a kutyából, amiről [[B/Barbár\|barbár]] címnél volt szó korábban is (farkas téma mentén).  
 
 Hasonló alakú név Nagy Sándor mondai ebének neve, **Peritasz** (kit szintén említettem a Quora válaszban, melynek címét most meg nem mondom fejből).  
@@ -35,5 +35,5 @@ Perszeusz-ról van szó. Lásd a Kerényit taglaló BL írását Perszeuszról [
 
 [^2]: Lábjegyzet:  
 Erről lásd [[T/Tiger\|tiger]] címnél; például az óperzsa \*šagra = oroszlán; tigris.  
-De PJI is írja:  
+Péterfai János is írja:  
 A Barsz tigris is, ami arra utal, hogy a Bar név alatt tényleg értettük a Kardfogú Tigriseket is, amíg ezek a nagymacskák éltek (Kr.e. 8.000).  
