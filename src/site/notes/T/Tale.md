@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tale/","title":"Tale","tags":["dg_uploaded"],"created":"2023-10-25T05:22","updated":"2023-10-25T05:22"}
+{"dg-publish":true,"permalink":"/T/Tale/","title":"Tale","created":"2023-10-25T05:22","updated":"2024-02-02T04:00"}
 ---
 
 
 # Tale
 
-[[M/Mese\|Mese]]. Talán a PJI által említett [[T/TÁL\|tál]]lal kezükben járó bölcsekről kapta a nevét, akik meséket mondtak? Nem.    
+[[M/Mese\|Mese]]. Talán a Péterfai János által említett [[T/TÁL\|tál]]lal kezükben járó bölcsekről kapta a nevét, akik meséket mondtak? Nem.
 Tomory Zsuzsa egyszerűen, helyesen, a [[D/Dal\|dal]] szavunkból eredezteti:  
 > E felfogásban hasonlít magyar népünk változó váraira, de a csallóközi tündérkertre is. A dallal, zenével való teremtés táltos-hagyományunk része, s annak tudatát őrzi, hogy a teremtés maga dal. Ide tartozik az angol `tale` = mese, a [[T/Tune\|tune]] = hang jelentéssel és a magyar dana szó is. A dal elbeszélő költemény; ez utóbbi szó gyöke a kelt, alkot, teremt szavainkkal azonos.  
 
