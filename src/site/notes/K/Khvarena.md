@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/K/Khvarena/","title":"Khvarena","tags":["dg_uploaded"],"created":"2023-10-26T05:30","updated":"2023-10-26T05:30"}
+{"dg-publish":true,"permalink":"/K/Khvarena/","title":"Khvarena","created":"2023-10-26T05:30","updated":"2024-02-02T03:15"}
 ---
-
-
 
 
 # Khvarena
@@ -20,10 +18,10 @@ Karcagi Oláh Imre Külföldi és magyar írók a magyar mitológiáról című 
 
 #### Oláh Imre írja:
 
-> Ezen Khvarena, egy királysólyom-turulmadár (szaéna-meregó, [[S/Szimurgh\|Szimurgh]]) kepében szállt alá Adzsembe (Iránba) a két őskirályt megkoronázni: Feridunt, majd később Keresaspát, akik hatalmas uralkodók lettek.   
+> Ezen Khvarena, egy királysólyom-turulmadár (szaéna-meregó, [[S/Szimurgh\|Szimurgh]]) kepében szállt alá Adzsembe (Iránba) a két őskirályt megkoronázni: Feridunt, majd később Keresaspát, akik hatalmas uralkodók lettek.
 
 Jellemző különben, hogy a görög, latin és perzsa (valamint az alábbi csagataj) szavak egyszerre írják körül a magyar korona szót, de a perzsa elüt jelentésében a görög-római korone, korona szavaktól.  
-MA Kérdések című írásában is megkérdi (ha nem is ezen eszmefuttatással), hogy a tatár `küren` és csagatáj `körün` = kör szavak közül utóbbi hogy lehet azonos az árja szavakkal? Nyilván a nyelvészet azt mondaná rá, hogy a perzsáktól vette át. Igen ám, de perzsa khvarena már mást jelent. Mindent az old meg, ha a magyar szavakat (kör, kor, korona) tartjuk elődnek. Mekkora szerencséje az árja nyelvészeknek, hogy a magyarok Iránban is laktak...  
+Magyar Adorján Kérdések című írásában is megkérdi (ha nem is ezen eszmefuttatással), hogy a tatár `küren` és csagatáj `körün` = kör szavak közül utóbbi hogy lehet azonos az árja szavakkal? Nyilván a nyelvészet azt mondaná rá, hogy a perzsáktól vette át. Igen ám, de perzsa khvarena már mást jelent. Mindent az old meg, ha a magyar szavakat (kör, kor, korona) tartjuk elődnek. Mekkora szerencséje az árja nyelvészeknek, hogy a magyarok Iránban is laktak...  
 
 Még OI-nél a `khavarenó` (amely nem egy másik belső fejlődéssel alkotott szó, hanem csak leírási változat) fogalma: nimbusz, glória. A királyok, és szentek arculatát övező dicsfény. Mind a szakrális királyságot, mint jó, aranykori modellt mutatja be.  
 
