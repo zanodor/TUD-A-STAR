@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz heliakus kelése/","title":"Szíriusz heliakus kelése","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T12:04","updated":"2023-12-04T04:59"}
+{"dg-publish":true,"permalink":"/S/Szíriusz heliakus kelése/","title":"Szíriusz heliakus kelése","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T12:04","updated":"2024-02-02T03:57"}
 ---
 
 
@@ -83,7 +83,7 @@ J. Ellard Gore Astrological curiosities című könyvének adata szerint i.e. 40
 - Ez azért érdekes, mert 6000 éve a [[T/Tavaszpont\|tavaszpont]] éppen a [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]en volt, azaz a Nagy Évben keresztrefeszített Nap egy világévszaknyit fordult azóta.  
 
 [[P/Precesszió\|Precesszió]] és [[S/Szíriusz és a naprendszer\|Szíriusz és a naprendszer]] címnél szereplő W. Cruttenden-féle adatok viszont szintén azt fedik fel, hogy a Szíriusz nem változtatja helyét, mert egyenesen az okozza a precessziót!  
-Itt két dolgot lehet felhozni. Egyrészt, hogy szélességében valóban nem változtathatja, de mi van hosszúságában (deklinációjában)? Másrészt, máshol DCS azt vélte észrevételezni, mintha a planetárium szoftverek is be lennének programozva a Gregorian-naptár csalására (Julian-naptár szerint jó adat jött neki ki): a program tehát vagy a NASA hivatalos adatait használja, vagy pusztán azért vándorol a heliákus felkelés, mert ezt – a hivatalos nézet szerint – a sziderikus és tropikus napév diskrepanciája hozza létre. (Uwe Holmannék szerint nincs is négyperces eltérés!)  
+Itt két dolgot lehet felhozni. Egyrészt, hogy szélességében valóban nem változtathatja, de mi van hosszúságában (deklinációjában)? Másrészt, máshol Dobos Csanád azt vélte észrevételezni, mintha a planetárium szoftverek is be lennének programozva a Gregorian-naptár csalására (Julian-naptár szerint jó adat jött neki ki): a program tehát vagy a NASA hivatalos adatait használja, vagy pusztán azért vándorol a heliákus felkelés, mert ezt – a hivatalos nézet szerint – a sziderikus és tropikus napév diskrepanciája hozza létre. (Uwe Holmannék szerint nincs is négyperces eltérés!)  
 ![assets/Sziriuszheliakuskelese_image5.png](/img/user/S/assets/Sziriuszheliakuskelese_image5.png)  
 
 William Brown blogger is írja:  
@@ -92,7 +92,7 @@ William Brown blogger is írja:
 > Ha a napéjegyenlőségek és napfordulók különböző helyeken következnének be, akkor a Szíriusznak nem lehetne minden július 23-án pontos spirális kelése Egyiptom szélességi köréből!  
 - Richard Hinckley Allen Star Names and their Meanings című könyvében említi Oppertet, aki azt nyilatokozta, hogy a káldeusok i.e. 300 körül végzett Szíriusz mozgásainak lejegyzése csak olyan csillagászati periódusok ismeretéből származhat, aminek alapját egy, az i.e. 11542. április 29-én, csütörtökön, a perzsa-öbölbeli Zylos nevű szigetről tett megfigyelés képezte.
 
-Nyilván arra gondol (és ennek utána lehetne nézni), hogy a Szíriusz több ezer évig eltűnt a láthatárból, ahogy DCS is írt róla.  
+Nyilván arra gondol (és ennek utána lehetne nézni), hogy a Szíriusz több ezer évig eltűnt a láthatárból, ahogy Dobos Csanád is írt róla.  
 ![assets/Sziriuszheliakuskelese_image6.png](/img/user/S/assets/Sziriuszheliakuskelese_image6.png)  
 
 Itt még említendő:  
@@ -120,7 +120,7 @@ A [[K/Kutyaáldozás\|kutyaáldozás]] címnél is előjövő ókori görög Her
 > The death day of two of the other three saints mentioned above falls on July 25, the day of St. Christopher as well as the day of the heliacal rising of Sirius. The first of these is James, the James whose pilgrimage route, to Compostello (Latin campus-stellae, "the field of stars"), was the most popular of the Middle Ages. Again according to Gaignebet, the church of St. James at Compostello, which is on the western shore of Galicia at a western extremity of the ancient world, is a Christianization of a pagan site. The "starry path" to Compostello was a trail toward the sunset, and thus toward the land of the dead. As such, it stood as the earthly homologue of **the celestial Milky Way, whose gate – through which the westering sun passed – was guarded by the starry dogs, Canis major and Canis minor, and the dog stars Sirius and Procyon**.  
 > —  
 > A fent említett másik három szent közül kettőnek a halála július 25-re esik, Szent Kristóf napjára, valamint a Szíriusz heliákus kelésének napjára. Az első közülük Jakab, az a Jakab, akinek zarándokútja Compostellóba (latinul campus-stellae, "a csillagok mezeje"), a középkorban a legnépszerűbb volt. Gaignebet szerint megint csak egy pogány helyszín keresztényesítését jelenti a Compostellóban lévő Szent Jakab-templom, amely Galícia nyugati partján, az ókori világ egyik nyugati végpontján áll. A Compostellóba vezető "csillagösvény" a naplemente, és így a holtak földje felé vezető ösvény volt. Mint ilyen, az út a **a mennyei Tejút földi homológja volt, amelynek kapuját – amelyen keresztül a nyugat felé haladó nap áthaladt – a csillagkutyák, a Canis major és a Canis minor, valamint a Szíriusz és a Procyon** kutyacsillagok őrizték.  
-- [[S/Szent Jakab\|Szent Jakab]] napja is július 25.; Szent Kristófról bőséges JM-től származó infot lásd [[O/Orion\|Orion]].  
+- [[S/Szent Jakab\|Szent Jakab]] napja is július 25.; Szent Kristófról bőséges Jankovics Marcelltől származó infot lásd [[O/Orion\|Orion]].  
 
 ## Nap és Szíriusz egybekelése/násza
 
