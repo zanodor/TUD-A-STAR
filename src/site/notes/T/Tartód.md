@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tartód/","title":"Tartód","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-26T06:27","updated":"2023-10-29T03:08"}
+{"dg-publish":true,"permalink":"/T/Tartód/","title":"Tartód","tags":["Englishtexttranslated"],"created":"2023-10-26T06:27","updated":"2024-02-02T04:01"}
 ---
 
 
 # Tartód
 
-PJI a nevet nem érinti/elemzi, csak Firtosról és Tartódról egy rövid verse jelent meg.  
+Péterfai János a nevet nem érinti/elemzi, csak Firtosról és Tartódról egy rövid verse jelent meg.  
 Patricia Monaghan (Encyclopedia of Goddesses and Heroines című könyvében) azt írja, hogy [[F/Firtos\|Firtos]]sal szemben ő volt a rossztündérek királynője:  
 > Queen of the good Hungarian fairies, [[F/Firtos\|Firtos]] may be a diminished goddess. A castle, where she lived with her human lover, bears her name. His horse fell as they were mounting the hill beyond the castle and remains petrified. Firtos's opposite was Tartod, queen of the bad fairies. Both good and bad fairies influenced humans through magic, which they worked through words and curses, although folktales also endow them with wands of diamond, whips of copper, and milk that makes the countenance beautiful.  
 > —  
