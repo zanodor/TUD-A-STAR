@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Folyóistennő/","title":"Folyóistennő","tags":["dg_uploaded"],"created":"2023-11-13T06:15","updated":"2023-11-13T06:15"}
+{"dg-publish":true,"permalink":"/F/Folyóistennő/","title":"Folyóistennő","created":"2023-11-13T06:15","updated":"2024-02-02T03:03"}
 ---
 
 
@@ -12,7 +12,7 @@ Ugyan maga úgy értelmezi a neveket, mint egyes bizonyos földi folyók istenn�
 
 A kelta [[D/Danu\|Danu]] PM-nél nem folyóistennőként kerül elő, holott maga is kijelenti, hogy Európában (jellemző, hogy Kelet-Európát ír) folyó viseli nevét. Persze Danu [[D/Dame\|dame]] címnél írottak alapján sokkal több, mint folyóistennő.  
 
-Még mindig kelta/kimmér/brit vonalon érdekes Robert Graves The White Goddess című könyve, melyből [[F/Fehér istennő\|fehér istennő]] címnél szemezgetünk (illetve lásd RG adatait helyükön).  
+Még mindig kelta/kimmér/brit vonalon érdekes Robert Graves The White Goddess című könyve, melyből [[F/Fehér istennő\|fehér istennő]] címnél szemezgetünk (illetve lásd Robert Graves adatait helyükön).  
 
 Molnár V. József Világ-Virág című könyvének 122. oldalán közöl képet régi mexikói indián folyóistennőről. A témát illetve a képet [[O/Orion övcsillagai#^8uwr5\|Orion övcsillagai]] címnél taglaltuk, három korong miatt.  
 
