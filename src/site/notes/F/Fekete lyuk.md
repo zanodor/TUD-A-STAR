@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fekete lyuk/","title":"Fekete lyuk","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-18T08:58","updated":"2023-11-18T08:58"}
+{"dg-publish":true,"permalink":"/F/Fekete lyuk/","title":"Fekete lyuk","tags":["Englishtexttranslated"],"created":"2023-11-18T08:58","updated":"2024-02-02T02:23"}
 ---
 
 
@@ -20,7 +20,7 @@ Bíró Lajos Táltosokról szóló előadásában is említi a fekete lyukat a [
 
 Ha a fekete lyuk ősmagyar nyelvű megfelelőjét keresnénk, a [[H/Hue\|hue]] ([[H/HU\|HU]]) és [[W/Wan\|wan]] ([[V/VAN\|VAN]], [[V/VÁNY\|VÁNY]]) felé keresgélhetnénk, dacára annak, hogy mindkettő alatt fényt is értünk (talán az által, hogy a fekete elnyelni a fényt). ([[G/Galactic centre\|Tejútközpont]] címnél más szavak is előjöttek.)  
 
-Fekete lyukat is érintő passzust JM-től lásd [[T/Téli napforduló\|téli napforduló]]. Magánál [[L/Lyuk\|lyuk]] címnél is szóba került.  
+Fekete lyukat is érintő passzust Jankovics Marcelltől lásd [[T/Téli napforduló\|téli napforduló]]. Magánál [[L/Lyuk\|lyuk]] címnél is szóba került.  
 Dr. Gyárfás Ágnes az Ősi Gyökér 2005/1-2. sz. megjelent Kecskehal című cikkének bevezetőjében említ örvényt és labirintust, mely passzust lásd szintén [[T/Téli napforduló\|téli napforduló]] címnél.  
 
 [[T/Tejút\|Tejút]] címnél is szerepelt:  
