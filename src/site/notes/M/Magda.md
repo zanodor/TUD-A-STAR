@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magda/","title":"Magda","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-21T03:58","updated":"2023-11-02T12:40"}
+{"dg-publish":true,"permalink":"/M/Magda/","title":"Magda","tags":["Englishtexttranslated"],"created":"2023-10-21T03:58","updated":"2024-02-02T02:39"}
 ---
 
 
@@ -55,7 +55,7 @@ Az ír `maighdean` és ónémet `magd`, `magda` szavakat lásd még [[M/Maid\|ma
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Olyan ez, mint hogy Helene apja Tynderaosz. Kiről PJI írja:  
+Olyan ez, mint hogy Helene apja Tynderaosz. Kiről Péterfai János írja:  
 Spárta királya Tündaraosz, a Tündér Király. Két lánya van, Tündér Ilona és Kültaimnésztár. Van még két fia is, akiket most hagyjunk. Tündaraosz neve egyértelműen magyar nyelvű. Tün-Da-Ra-O formában Tünde-Ember-Úr nevének jelentése. Kétségtelenül magyar nyelvű név. A király neve azt a magyar dinasztiát jelöli meg, amelyik Spártát alapította és uralta. A betörő dórok a királyi családot nem elpusztították, hanem magukénak tekintették. A dór invázióban ez a jelenség furcsa is lehet annak a történésznek, aki nem ismerte fel a dórok magyar bosszúálló jellegét. A dórok az akhájok elpusztítására indultak, bosszúhadjáratra.  
 
 [^2]: Lábjegyzet:  
