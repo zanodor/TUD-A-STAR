@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/J/Jaguar/","title":"Jaguar","tags":["Englishtexttranslated"],"created":"2023-11-05T10:32","updated":"2024-01-25T12:46"}
+{"dg-publish":true,"permalink":"/J/Jaguar/","title":"Jaguar","tags":["Englishtexttranslated"],"created":"2023-11-05T10:32","updated":"2024-02-02T03:12"}
 ---
 
 
@@ -62,7 +62,7 @@ Az is elképzelhető ezután, hogy a tupi indiánoktól ismert jaguar szóban is
 
 Érdekes viszont azt is megemlíteni, hogy Varga Zsigmond Az ősmagyar mitológia című könyvének adata szerint a török `ag`, `av` = háló, de vadászni értelmű is (azért, mert valamikor így fogták a vadat; a szumirban az ellenség elfogatása az istenség, vagy a király hálójának reá való kivetése; ősi vadászati mód). Lehet tehát ag jejesen jag.
 
-Viszont vélhetően inkább a [[V/Vad\|vad]] = Csudaszarvas (minek neve MA szerint még ág, [[A/Ágas\|ágas]] is volt) elejtése nyomán alakult ki a szó.  
+Viszont vélhetően inkább a [[V/Vad\|vad]] = Csudaszarvas (minek neve Magyar Adorján szerint még ág, [[A/Ágas\|ágas]] is volt) elejtése nyomán alakult ki a szó.  
 
 [[G/Gnu\|Gnu]], [[G/Gazella\|gazella]], [[K/Kangaroo\|kangaroo]] és [[K/Kutya\|kutya]] címnél is volt arról szó, hogy a négylábúak (úgy mint nagymacska, kutya és ló, valamint szarvas és kecske, valamint tapír) nevei között átfedések lehetnek, hiszen az állatok a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] vagy kísérői.  
  
