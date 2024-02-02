@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kapu/","title":"Kapu","tags":["dg_uploaded"],"created":"2023-10-30T08:56","updated":"2023-12-04T01:15"}
+{"dg-publish":true,"permalink":"/K/Kapu/","title":"Kapu","created":"2023-10-30T08:56","updated":"2024-02-02T02:36"}
 ---
 
 
@@ -24,7 +24,7 @@ A legfontosabb kapuk égi kapuk, melyekről [[P/Pünkösd\|Pünkösd]], [[T/Tej�
 A kapu [[K/Kert\|kert]], gate és [[S/Szexualitás jelképekben, használati tárgyakban, gyermekjátékokban, stb\|szexualitás jelképekben, használati tárgyakban, gyermekjátékokban]] címnél írottak alapján szexuális jelkép is. A Pu pedig ugyanazon szó, mely [[P/Pussy\|pussy]] szóban is szerepel.  
 
 Szimpatikusak [[F/Forrai Zoltán Tamás\|Forrai Zoltán Tamás]] írásai is, aki azt írja, hogy kapu az ég és föld között – a másutt [[P/Pilis\|Pilis]]nek is nevezett – fejcsúcs. A lélek kapuja a koponyacsúcson van; a mágus hit szerint itt távozik a lélek az emberből. Ezért akad fel a halott szeme is.  
-Ez a megközelítés jól kiegészíti a PJI által írtakat, és jól definiálja [[K/KA\|KA]] jelentését is: lélek, fény, [[P/PU\|PU]] pedig az a hely, ahol távozik.  
+Ez a megközelítés jól kiegészíti a Péterfai János által írtakat, és jól definiálja [[K/KA\|KA]] jelentését is: lélek, fény, [[P/PU\|PU]] pedig az a hely, ahol távozik.  
 
 Az alant írottak alapján viszont a Kap-U felbontás is értelmes lehet, kb. Az Örök(kévaló) (Forgás) Fője jelentéssel.  
 És minthogy a Tejút kapuiról, azaz égi kapukról lesz szó, nem meglepő, hogy az oszmán-törökben **Gök kapusu** = Ég Kapuja (a Tejút). Innen válhat érthetővé a [[T/Trója\|Trója]] címnél szereplő Ipolyi Arnold Magyar mythologia című könyvében megosztott kalevalai **finn `kapo` = tündér** elnevezés is.  
