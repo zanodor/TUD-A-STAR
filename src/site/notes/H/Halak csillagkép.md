@@ -1,23 +1,7 @@
 ---
-title: Halak csillagkép
-aliases: 
-status: dg_uploaded
-tags:
-  - Englishtexttranslated
-share: true
-dg-publish: true
-dg-created: 2023-10-14T04:19
-dg-updated: 2024-01-20T04:00
-dg_upload_status: VNC done
-date created: 2022-12-14
-date modified: 2024-01-20
-ghrepoURL:
-  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/H/Halak%20csillagk%C3%A9p.md
-  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/H/Halak%20csillagk%C3%A9p.md
-  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/H/Halak%20csillagk%C3%A9p.md
-  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/H/Halak%20csillagk%C3%A9p.md
-  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/H/Halak%20csillagk%C3%A9p.md
+{"dg-publish":true,"permalink":"/H/Halak csillagkép/","title":"Halak csillagkép","tags":["Englishtexttranslated"],"created":"2023-10-14T04:19","updated":"2024-02-02T03:08"}
 ---
+
 
 # Halak csillagkép
 
@@ -75,8 +59,8 @@ A kilencedik századi Abu Mashar – akit Al Biruni csillagászati kérdésekben
 ...című könyvében tudósít róla:  
 > In his Revolution of Years, he wrote of the Creation as having taken place when "the seven planets" – the Sun, Moon, Mercury, Venus, Mars, Jupiter, and Saturn – were in conjunction in Aries, and foretold the destruction of the world when they should be in the same position in the last degree of Pisces.  
 > —  
-> Az Évek fordulata című művében úgy ír a teremtésről, hogy az akkor történt, amikor "a hét bolygó" – a Nap, a Hold, a Merkúr, a Vénusz, a Mars, a Jupiter és a Szaturnusz – együttállásban volt a Kosban, és megjósolta a világ pusztulását, amikor ugyanebben a helyzetben lesznek a Halak utolsó fokán.  
-^gbrz5v
+> Az Évek fordulata című művében úgy ír a teremtésről, hogy az akkor történt, amikor "a hét bolygó" – a Nap, a Hold, a Merkúr, a Vénusz, a Mars, a Jupiter és a Szaturnusz – együttállásban volt a Kosban, és megjósolta a világ pusztulását, amikor ugyanebben a helyzetben lesznek a Halak utolsó fokán.  { #gbrz5v}
+
 
 Al Biruni véleménye ide vagy oda, "Apu Magyar" jövendölése azért is tűnik helyesnek, mert a Halak a Halál szavunkkal alkot párt, így szükségszerűen, annak utolsó órájában, ha a bolygók együttállnak, valóban történnie kell valaminek.  
 
@@ -158,7 +142,7 @@ Amint azt a 16. fejezetben látni fogjuk, ez a bonyodalom abból adódik, hogy a
 [[T/Tavaszi évkezdés\|Tavaszi évkezdés]] címnél írottak alapján is logikus, illetve nyilván más a Kis Év és a Nagy Év, bár az is tény, hogy régen a [[T/Téli napforduló\|téli napforduló]] után kezdődött az újév. Azt kellene valahogy megtudni, vagy eldönteni, hogy egyrészt mennyire lehet MA-nak igaza arról, hogy a tavaszi évkezdés hyperboreai hagyomány (abból az időből származik, amikor a magyarok az északi sarkkörön éltek, vagyis amikor a Kárpát-medence volt az északi sarkon), másrészt hogy a magyar-maya felfogás szerint hogyan álltak a dolgok.  
 
 [^3]: Lábjegyzet:  
-Wallis Budge An Egyptian Hieroglyphic Dictionary című könyvében nem sikerült ugyan megtalálni ilyen jelentéssel, de hasonló szavakat igen. Például a 7. oldalon `ah`, `aha` = tehén, tehénistennő utalhat az ég tehenén keresztül az égre ([[A/AG\|AG]] is az ég párja, ahogy [[A/Akar\|akar]] és [[A/Aquatic\|aquatic]] címnél WB adatokkal is láttuk), míg a 8. oldalon `akhakh` = menny virágai (csillagok) is az égre, a csillagos égre utal. GM nem tudom honnan vette adatát, de nagyon jónak tűnik. Minél több több információ áll rendelkezésünkre, annál könnyebben ki lehet következetni a magyar ősnyelv kiinduló szavát és az elhajló vagy mindet átfogó jelentéseket. Ott van még például a WB által megadott, [[A/Akar\|akar]] címnél is taglalt egyiptomi `ag` = akar; hiányt szenved jelentésű ige. Az [[E/Éva\|Éva]] név kapcsán előjövő [[E/Éh\|éh]] az éhom szóban is ilyen alakú, mely rámutat, hogy a közös kiinduló az [[E/Ég\|ég]]istennő.  
+Wallis Budge An Egyptian Hieroglyphic Dictionary című könyvében nem sikerült ugyan megtalálni ilyen jelentéssel, de hasonló szavakat igen. Például a 7. oldalon `ah`, `aha` = tehén, tehénistennő utalhat az ég tehenén keresztül az égre ([[A/AG\|AG]] is az ég párja, ahogy [[A/Akar\|akar]] és [[A/Aquatic\|aquatic]] címnél WB adatokkal is láttuk), míg a 8. oldalon `akhakh` = menny virágai (csillagok) is az égre, a csillagos égre utal. GM nem tudom honnan vette adatát, de nagyon jónak tűnik. Minél több több információ áll rendelkezésünkre, annál könnyebben ki lehet következtetni a magyar ősnyelv kiinduló szavát és az elhajló vagy mindet átfogó jelentéseket. Ott van még például a WB által megadott, [[A/Akar\|akar]] címnél is taglalt egyiptomi `ag` = akar; hiányt szenved jelentésű ige. Az [[E/Éva\|Éva]] név kapcsán előjövő [[E/Éh\|éh]] az éhom szóban is ilyen alakú, mely rámutat, hogy a közös kiinduló az [[E/Ég\|ég]]istennő.  
 
 [^4]: Lábjegyzet:  
 Kisboldogasszony a magyar hagyományban Nagyboldogasszony szűz leánya, más néven Kisasszony. (Emiatt nem lehet azonos Szűz Máriával.) A néphitben idővel a Kisasszony és a Boldogasszony szerepe összefonódott, a Kisboldogasszony helyett.  
