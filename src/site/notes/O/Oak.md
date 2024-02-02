@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/O/Oak/","title":"Oak","tags":["Englishtexttranslated"],"created":"2023-10-11T04:44","updated":"2024-01-27T11:13"}
+{"dg-publish":true,"permalink":"/O/Oak/","title":"Oak","tags":["Englishtexttranslated"],"created":"2023-10-11T04:44","updated":"2024-02-02T03:35"}
 ---
 
 
 # Oak
 
 [[T/Tölgy\|Tölgy]]fa. [[T/Táltos\|Táltos]]ok, [[D/Druida\|druidá]]k fája. A magyar tölgy inkább boncolgatható és hasonlítható tőgyhöz, amiből a táltost tápláló tej származik.  
-Az angol oak elődei a magyar [[O/OK\|OK]], [[E/Ég\|ég]], [[E/Egy\|egy]], [[A/Ág\|ág]] szavaink bármelyikére utalhatnak. Az Ok PJI adata szerint Csillag.   
+Az angol oak elődei a magyar [[O/OK\|OK]], [[E/Ég\|ég]], [[E/Egy\|egy]], [[A/Ág\|ág]] szavaink bármelyikére utalhatnak. Az Ok Péterfai János adata szerint Csillag.   
 
 A német `Eiche` és ófelnémet `eih` = tölgy [[Y/Ygg\|Ygg]] nevével és egyértelműen [[E/Ég\|ég]] szavunkkal azonosíthatók.  
 Az ([[E/Elk\|elk]] címnél is említett) ónorvég `eik` egyszerre tölgyfa és fa jelentésű, de megtudjuk (ahogy [[D/Druida\|druida]] címnél is szerepelt), hogy a görög nyelvben is `drúsz`/`drüsz` egyszerre fa és tölgyfa (és JM adata szerint fenyő is!); ezzel megkaptuk, hogy a tölgyfa a legfontosabb fa, a fák legszentebbike, királya.  
@@ -18,7 +18,7 @@ Az ([[E/Elk\|elk]] címnél is említett) ónorvég `eik` egyszerre tölgyfa és
 ...szól a szarvas [[A/Agancs\|agancs]]ának tölgyfával való összevetéséről:  
 > A magyaroknál párhuzamát találjuk a tölgyfa ágai és a közönséges szarvas agancsa ágasbogossága azonos vonalritmusában, amit népünk ma is ezen ágasbogas szavunkkal nevez meg, amivel azután egyeznek a magyar-kún ág, makk, makk-fa (tölgy-fa) valamint e szarvasfaj egykori ágos, ákos neve; emlékezünk pedig, hogy regös-énekeink a Csodaszarvas "ezer ágaboga"-ról szólanak.  
 
-Lásd erről MA Csodaszarvasának anyagát képekkel [[A/Ágas-bogas\|ágas-bogas]]. Egy képet ide is tehetünk:  
+Lásd erről Magyar Adorján Csodaszarvasának anyagát képekkel [[A/Ágas-bogas\|ágas-bogas]]. Egy képet ide is tehetünk:  
 ![assets/Oak_image1.png](/img/user/O/assets/Oak_image1.png)  
 
 Robert Graves The White Goddess című könyvében is megtalálható az összevetés:
@@ -49,9 +49,9 @@ Ezen szavak lesznek tehát azok, melyek az indo-európai nyelvekben megjelennek.
 Az elmondottak alapján nagyon valószínű, az oak etimológiáját is figyelembe véve, hogy az angol tölgy [[A/Ágas\|ágas]] (ágos, ákos) szavunkról kapta nevét. Ennek megerősítéseként a türk karakalpak nyelvben is `ag'ash` = fa, illetve a török (tatár, türkmén) `ağaç` is ezt jelenti (nem [[A/Akác\|akác]] szavunk keresendő benne).  
 Azt pedig láttuk, hogy a fa és a tölgy fogalmai egymással megfeleltek (egyes nyelveken a fa és tölgy ugyanazon szóalak).  
 
-Ugyanakkor szóba hozható még az MA által említett [[O/ÓG\|ÓG]], mely a földbe vájt (és DGW Dog-Man könyvének 176-177. oldalain található kínai adatai alapján bármely, nemcsak földbe vájt kialakítású) lak, ház füstkieresztő nyílásán kívül jelentenie kellett a [[S/Sarkcsillag\|Sarkcsillag]]ot is, minthogy minden lak közepén életfa volt leszúrva (sátor merevítője is ez), és ez mutatott a Sarkcsillagra (lásd erről diagramot [[I/Íj és a nyíl\|íj és a nyíl]]).  
+Ugyanakkor szóba hozható még az MA által említett [[O/ÓG\|ÓG]], mely a földbe vájt (és David Gordon White Dog-Man könyvének 176-177. oldalain található kínai adatai alapján bármely, nemcsak földbe vájt kialakítású) lak, ház füstkieresztő nyílásán kívül jelentenie kellett a [[S/Sarkcsillag\|Sarkcsillag]]ot is, minthogy minden lak közepén életfa volt leszúrva (sátor merevítője is ez), és ez mutatott a Sarkcsillagra (lásd erről diagramot [[I/Íj és a nyíl\|íj és a nyíl]]).  
 
-Nem Sarkcsillagot, de Medvét említ Richard H. Allen Star Names című könyvében, kinek forrása, Lockyer szerint, **Āk** = Szem nevű a [[U/Ursa Maior\|Nagy Medve csillagkép]] alfája, [[D/Dubhe\|Dubhe]]. Nem írja, milyen nyelven, de ÓK/ÓG szem jelentésével egyező. PJI adata szerint az udmurt és komi `oh` = medve. Ez stimmel is. Nem vehette észre a csillagászati értelmet.
+Nem Sarkcsillagot, de Medvét említ Richard H. Allen Star Names című könyvében, kinek forrása, Lockyer szerint, **Āk** = Szem nevű a [[U/Ursa Maior\|Nagy Medve csillagkép]] alfája, [[D/Dubhe\|Dubhe]]. Nem írja, milyen nyelven, de ÓK/ÓG szem jelentésével egyező. Péterfai János adata szerint az udmurt és komi `oh` = medve. Ez stimmel is. Nem vehette észre a csillagászati értelmet.
 
 Párhuzamát is megtaláljuk a szónak:  
 Richard H. Allen Star Names című könyvében írja, hogy az észak-amerikai bennszülött [[I/Indián\|indián]]ok hagyományaiban [[U/Ursa Maior\|Ursa Maior]] neve **Ok**uari és Paukunawa: mely nevek jelentése szintén medve. Ezen adat [[I/Isten\|Isten]] címnél is szerepelt.  
@@ -73,7 +73,7 @@ A Nagy Medvénél maradva, az ősi csillagkép-istent benne kereső...
 Lényegében mondjuk ki: az [[A/AK\|AK]], [[A/AG\|AG]], [[I/IG\|IG]], [[O/OG\|OG]], [[O/OK\|OK]] mind az ég nevei és másrészt égi világítók, szemek nevei. Az égen van a Tejút is, mely tölgyfa alakot is ölt. A tölgyfa ágai, ahogy a Szarvas agancs-ágai pedig kinyúlnak a 12/14 állatövi csillagkép irányába, ahogy [[P/Perennial\|perennial]] és [[Z/Zodiac\|zodiac]] címnél szerepelt.  
 A vélhetően [[A/Ágas\|ágas]] szavunkból erődjei szanszkrit `akasha` = ég kapcsán lásd előbbi címnél.  
 
-A tölgy párja a [[B/Bükk\|bükk]]fa, szintén Világfa-jelkép. Ugyan AJ adata szerint az ógörögben `fagosz` = bükk(fa), ezt a szót ma már nem használja a görög, helyette az `oξιά` (oksziá) = bükkfa és `ξύλο` (kszúlo) és `oξιάς` (oksziász) = bükk(fa faanyaga) szavakat használja. Ezen szavak igen hasonlóak a tölgy angol nevéhez (Oxford nem rokonít), de a PJI által elemzett [[O/Oxus\|Oxus]] névhez is.  
+A tölgy párja a [[B/Bükk\|bükk]]fa, szintén Világfa-jelkép. Ugyan AJ adata szerint az ógörögben `fagosz` = bükk(fa), ezt a szót ma már nem használja a görög, helyette az `oξιά` (oksziá) = bükkfa és `ξύλο` (kszúlo) és `oξιάς` (oksziász) = bükk(fa faanyaga) szavakat használja. Ezen szavak igen hasonlóak a tölgy angol nevéhez (Oxford nem rokonít), de a Péterfai János által elemzett [[O/Oxus\|Oxus]] névhez is.  
 
 De ha már ennyire ragaszkodunk **a germán Ok alakú szóhoz, nem szabad kihagyni, hogy a japáni `ōku` = tölgy azonos a germánnal**.  
 A Falk Nóra által adatolt északi lapp `oaksi` = ág is tökéletesen megfelel mind a magyar, mind a taglalt angol szónak. Az északi lapp `áksán` = agancs(ozat), agancskorona jelentésű.  
@@ -84,7 +84,7 @@ De ha már itt tartunk, az [[O/Okád\|okád]], valamint [[C/Csudaszarvas\|Csudas
 
 Egy távolabbi hasonlítási kísérlet lehet [[O/Őz\|őz]] = ős szavunk, de MA megoldása a helyes. (Ez itt ilyenkor már csak játék a szavakkal, és azért kerülnek ide, mert valamikor átolvasva új gondolatokat ébreszthetnek más témákkal (való kapcsolódás) irányában.)  
 
-Lásd még a Tejút-tölggyel azonosuló Csudaszarvasünő agancsaival kapcsolatba hozható Tejút-ágas ([[V/Villa\|villa]]) szerű képződmény [[M/Magyar térrendezés\|magyar térrendezés]]ben való megjelenése kapcsán [[G/Gable\|gable]], valamint szintén MA adatait, rajzait [[A/Axis\|axis]] és [[T/Toll#Toll 2)\|toll]] címnél.  
+Lásd még a Tejút-tölggyel azonosuló Csudaszarvasünő agancsaival kapcsolatba hozható Tejút-ágas ([[V/Villa\|villa]]) szerű képződmény [[M/Magyar térrendezés\|magyar térrendezés]]ben való megjelenése kapcsán [[G/Gable\|gable]], valamint szintén Magyar Adorján adatait, rajzait [[A/Axis\|axis]] és [[T/Toll#Toll 2)\|toll]] címnél.  
 De ha már `axis`, nem lehet, hogy ez is ágas, ákos szavunk, ahogy a Tejút-folyó [[O/Oxus\|Oxus]] is innen vehette nevét? A fentebbi görög szavak is mind ide tartoznak, ehhez a képhez.  
 
 A lengyelek Alexandra-Dorothea információja szerint:  
