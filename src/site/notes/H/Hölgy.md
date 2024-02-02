@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hölgy/","title":"Hölgy","created":"2024-01-14T12:05","updated":"2024-01-14T12:05"}
+{"dg-publish":true,"permalink":"/H/Hölgy/","title":"Hölgy","created":"2024-01-14T12:05","updated":"2024-02-02T03:10"}
 ---
 
 
@@ -14,7 +14,7 @@
 
 ## Hölgy – Hold – Hód
 
-A Hölgy – [[H/Hold\|Hold]] azonosságról (arról, hogy egymás alaki változatai) már PJI is írt, de...
+A Hölgy – [[H/Hold\|Hold]] azonosságról (arról, hogy egymás alaki változatai) már Péterfai János is írt, de...
 
 #### Jankovics Marcell Ahol a madár se jár...  
 
