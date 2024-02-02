@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Polip/","title":"Polip","tags":["dg_uploaded"],"created":"2023-11-18T09:05","updated":"2023-11-18T09:05"}
+{"dg-publish":true,"permalink":"/P/Polip/","title":"Polip","created":"2023-11-18T09:05","updated":"2024-02-02T03:40"}
 ---
 
 
@@ -8,7 +8,7 @@
 #### Péterfai János írja:
 
 > Polip volt a neve azoknak az állatoknak, amelyeknek a lába a Pa, vagyis Po (Fej) részből nőtt ki, és úgy Lépkedtek. Po-Lip nagyjából Pa-Lép, a Fej-Lépő.  
-- Mivel a PO = vizet is jelent(het?), nemcsak Főt, Fejet, PJI vízl(ben) épőnek is fordíthatta volna.  
+- Mivel a PO = vizet is jelent(het?), nemcsak Főt, Fejet, Péterfai János vízl(ben) épőnek is fordíthatta volna.  
 
 Értelmezés kérdése, hiszen MA is írja, hogy igen intelligens állatról van szó és a szellem hímségi princípium:  
 > A sokaságot jelentő `poly` tehát polip szavunkból is eredhet. Hogy miért fontos ez az egyébként rendkívül intelligens állat a magyaroknál? Mert [[T/Tejút\|Tejút]]-jelkép. A karjai a spirál-galaxisokat jelképezik.  
