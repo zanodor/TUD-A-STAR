@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Canopus/","title":"Canopus","tags":["Englishtexttranslated"],"created":"2023-10-30T07:29","updated":"2024-01-04T05:32"}
+{"dg-publish":true,"permalink":"/C/Canopus/","title":"Canopus","tags":["Englishtexttranslated"],"created":"2023-10-30T07:29","updated":"2024-02-02T02:08"}
 ---
 
 
@@ -42,7 +42,7 @@ Robert E. Briggs így is fogalmaz:
 
 Sőt, Norman Lockyer és Richard Hinckley Allen biztosan állítják, hogy az egyiptomiak nagyra becsülték a Canopust, különösen Dél-Egyiptomban. Továbbá Canopus nemcsak összekapcsolódik [[H/Hapi\|Hapi]]-val, a Nílus Istenével hanem a mezopotámiai Enki istennel is.  
 
-VN [[C/Canopy\|canopy]] címnél is szereplő adata szerint a kanoposz eredete valójában Kahin-Nub (mely így Cahen Nap-ként KutyaNap lehetne), viszont ebből az égboltot tartó oszlopból négy is van:
+Várkonyi Nándor [[C/Canopy\|canopy]] címnél is szereplő adata szerint a kanoposz eredete valójában Kahin-Nub (mely így Cahen Nap-ként KutyaNap lehetne), viszont ebből az égboltot tartó oszlopból négy is van:
 > Az egyiptomiak hite szerint az Égboltot négy **kanoposz** (kahin-nub) tartja, Hor fiai, a világ [[N/Négy\|négy]] sarkán; az emberfejű Emszet, a majomfejű Hapi, a karvalyfejű Duatmuft és a sakálfejű Kebehzennuf.  
 
 A [[V/Világ négy oszlopa\|Világ négy oszlopá]]ról volt szó, de ezek között Canopus nem szerepel, viszont nem is biztos hogy feltétlenül kell szerepeljen (annál is inkább, mert az egyenlítőtől északra vagyunk még mindig Egyiptomban) (ugyanakkor [[K/Khnum\|Khnum]] címnél déli sarkról szóltunk).  
@@ -52,13 +52,13 @@ Négy kutyáról már másutt is esett szó...
 
 > Hermes may have played the same role as psychopomp when, in the Boetian Homeric Hymn to Hermes (194-96), he stole in the night the fifty cattle of Apollo and took them to Mount Cyllene in Arcadia-leaving Apollo's four sheephounds behind!
 
-...de általában négyszemű kutyáról lásd szintén DGW írását [[K/Kutyaáldozás\|kutyaáldozás]].  
+...de általában négyszemű kutyáról lásd szintén David Gordon White írását [[K/Kutyaáldozás\|kutyaáldozás]].  
 
 Ipolyi Arnold Magyar mythologia című könyvének 322. oldalán váratlanul előjön egy eddig még nem taglalt Ka-Nap felbontási lehetőség is. Ka-Nap lehet Háza a Napnak és Királyi Nap értelmű így.  
 
 Robert E. Briggs idézete akár a magyar párostánc lényegét fogalmazná meg. A férfi (jelen esetben Ozirisz) irányít és a ragyogó nő (Ízisz) körbetáncolja a férfit. Ennek megfelelően az Ízisz-Szíriusz helyett akkor kerül előtérbe az Ízisz-Spica (SZŰZ csillagkép fő csillaga), amikor a **Föld precessziós mozgása eredményeként több ezer évig a Szíriusz sem tudott a horizont fölé lépni**.  
 ![assets/Canopus_image4.png](/img/user/C/assets/Canopus_image4.png)  
-Nem tudott, mert a Szíriusznak is követni kellett Canopust a láthatatlanságba. Így amikor Canopus-Ozirisz helyét időszakosan az Orion (Hórusz) csillagkép veszi át, akkor a Szíriusz-Íziszét a Szűz csillagkép fő csillaga, a [[S/Spica\|Spica]]. \[Mivel viszont a precesszió Szíriuszra nem vonatkozik, a mellékelt ábra DCS-től hasztalan.\]  
+Nem tudott, mert a Szíriusznak is követni kellett Canopust a láthatatlanságba. Így amikor Canopus-Ozirisz helyét időszakosan az Orion (Hórusz) csillagkép veszi át, akkor a Szíriusz-Íziszét a Szűz csillagkép fő csillaga, a [[S/Spica\|Spica]]. \[Mivel viszont a precesszió Szíriuszra nem vonatkozik, a mellékelt ábra Dobos Csanádtól hasztalan.\]  
 
 Canopus mint a Kan Szeme érdekes elnevezés, mert – ahogy Robert Temple Szíriuszról szóló könyve szól róla – a [[D/Dogon\|dogon]]okkal rokon Mali-beli Bozo törzs a Szíriusz B-t ([[S/Sothis\|Sothis]]?) tartják szem-csillagnak, míg az egyiptomiak As-Art, azaz Oziriszt illették szemmel. [[O/OG\|OG]] etimon szem és óriás jelentése itt kapcsolódik össze.  
 Vélhetően persze elsődlegesen arról van szó, hogy éj fekete fátylán beszűrődő fényt tartották az ősmagyarok jelképesen(!) szemeknek: itt kapcsolódik a [[C/Canopy\|canopy]] szónál MA által adatolt [[K/Kanop\|kanop]] szó is, fátyol jelentéssel.  
@@ -67,7 +67,7 @@ Canopust tartották a déli földteke tájolópontjának ([[F/Fúrócsillag\|Fú
 A Canopust a Hamlet Malma című könyv is említi:  
 > Legfelül pedig, jó magasan az egyenlítő "száraz" síkja felett a középpontban, ragyogott a Sarkcsillag. Vele szemközt legfelül, vagy inkább az alant folyó vizek legmélyén, a mi szélességi fokainkról már nem láthatóan, helyezkedett el a déli pólus, föltehetően a Canopus, mely e régiók legeslegfényesebb csillaga, még a Dél Keresztjénél is szembeötlőbb.  
 > A Canopus neve az araboknál Kalb at-taiman ("a Dél szíve"), de megőrződött egy másik neve is: Suhail el-wezn, "Canopus Ponderosus", a nehéz súlyú[^1] Canopus, mely nevet a szakemberek azonnal értelmetlennek nyilvánítottak, holott igencsak része lehetett egy archaikus rendszernek, melyben Canopus volt a nehezék a mérőón végén, ami illett is helyzetéhez, lévén egy súlyos csillag az "alant folyó" vizek déli sarkán.  
-- Megjegyzés: [[K/Kalb\|kalb]] nemcsak szívet, hanem kutyát is jelent arabul. Márpedig a Kan szerepel is a névben és a VN által adatolt egyiptomi Kahen-Nub előtagja is kutya.  
+- Megjegyzés: [[K/Kalb\|kalb]] nemcsak szívet, hanem kutyát is jelent arabul. Márpedig a Kan szerepel is a névben és a Várkonyi Nándor által adatolt egyiptomi Kahen-Nub előtagja is kutya.  
 
 Hogy a Canopus és a Kutyacsillag fontos markerek és társak, ez leszűrhető az alábbi arab történetből.  
 
@@ -94,7 +94,7 @@ Persze nem feltétlenül az araboknak kell az emléket megköszönni; a 60000 é
 
 A Hamlet Malma című könyv íróinak vizsgálódásai szerint az [[E/Eridanus csillagkép\|Eridanus csillagkép]] – mivel nincs rendes görög magyarázata – ésszerűen levezethető [[E/Eridu\|Eridu]]ból, amint Kugler javasolta – Eridu lévén Enki-Ea székhelye, a sumer `mulNUNki` = Canopus (alpha Carinae).  
 A mulNUNki nevet lehet elemezni: [[M/MUL\|Mul]] – Csillag, [[N/NUN\|NUN]] – Kezdet, [[K/KI\|ki]] – Föld. A Nun kezdet értelme tökéletesen összevág az Eridu eredő jelentésével.  
-A kezdet, eredet ezáltal már több csillaghoz, csillagképhez kapcsolható: TZs adata nyomán a tündérek [[H/Hattyú csillagkép\|Hattyú csillagkép]]éhez, a Canopushoz, [[S/Szíriusz\|Szíriusz]]hoz és Szántai Lajos szerint a [[C/Capella\|Capellá]]hoz is.  
+A kezdet, eredet ezáltal már több csillaghoz, csillagképhez kapcsolható: Tomory Zsuzsa adata nyomán a tündérek [[H/Hattyú csillagkép\|Hattyú csillagkép]]éhez, a Canopushoz, [[S/Szíriusz\|Szíriusz]]hoz és Szántai Lajos szerint a [[C/Capella\|Capellá]]hoz is.  
 Mivel a Canopus is tartalmazza a Kan = Ember (inkább utaljunk kanra emberrel mint [[K/Kutya\|kutyá]]val) nevet, mondhatjuk, hogy a [[N/Napvallás\|Napvallás]]ú, késeinek nevezhető földi (magyar utód)népek szemlélete szerint az égi eredetként szolgáló csillag aszerint lett kinevezve, ahogy látható volt vagy sem. Az emberi emlékezet így működik: "*Out of sight, out of mind.*" Ha nem látom, nem marad meg emlékezetemben (hogy miért is volt fontos). [[M/Mozgó név\|Mozgó nevek]]ről tettünk említést.  
 
 A Hamlet Malmát is vizsgáló internetes forumozó, aki nyilván az alábbi passzus...  
