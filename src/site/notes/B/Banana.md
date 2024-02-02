@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/B/Banana/","title":"Banana","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-31T02:55","updated":"2023-12-04T01:11"}
+{"dg-publish":true,"permalink":"/B/Banana/","title":"Banana","tags":["Englishtexttranslated"],"created":"2023-10-31T02:55","updated":"2024-02-02T01:09"}
 ---
 
 
 # Banana
 
-Banán. A nagy tömegtáplálékok közül legérdekesebb a banán. Talán az összes közt ez tartja el a legtöbb embert a Föld kerekén; nemcsak kenyeret és számtalan változatban készíthető ételt ad, hanem erjesztett italt is, levelét, ágait, rostját, belét utolsó morzsáig feldolgozzák, hasznosítják. Élelmet, italt, ruhát, szerszámot, építanyagot ad a fa, mindent, ami az élet fenntartásához szükséges: meg lehet élni belőle.  
+Banán. A nagy tömegtáplálékok közül legérdekesebb a banán. Talán az összes közt ez tartja el a legtöbb embert a Föld kerekén; nemcsak kenyeret és számtalan változatban készíthető ételt ad, hanem erjesztett italt is, levelét, ágait, rostját, belét utolsó morzsáig feldolgozzák, hasznosítják. Élelmet, italt, ruhát, szerszámot, építőanyagot ad a fa, mindent, ami az élet fenntartásához szükséges: meg lehet élni belőle.  
 Garcilaso de la Vega, az inka herceg (1530-1598) az indiánok régi néptáplálékai közt említi, s leírja főbb fajtáit; azóta pedig feljegyezték eredeti indián neveit (a tamanacoknál `páruru`, a maypuróknál `arata`, a tupiknál `pacoba` vagy `bacoba`).  
 
-A nyelvészet szerint a portugálok vagy a spanyolok hozták be Mande nyelvterületről. PJI nem elemzi a nevet. Bán-Ana formában magyarítható: Ég/Anya Fősége, Fő Tápláléka.  
+A nyelvészet szerint a portugálok vagy a spanyolok hozták be Mande nyelvterületről. Péterfai János nem elemzi a nevet. Bán-Ana formában magyarítható: Ég/Anya Fősége, Fő Tápláléka.  
 
 Mint kiderül, íj/szivárvány alakjáról kapta a nevét, ugyanis Morris Silver Talking Ancient Mythology című könyvének adata szerint a sumér `Tir-An-Na` (lásd róla [[T/TIR\|TIR]]) mellett a sumér `Ban-An-Na` szintén jelentett íjat és szivárványt.  
 
@@ -20,7 +20,7 @@ Mint kiderül, íj/szivárvány alakjáról kapta a nevét, ugyanis Morris Silve
 > Az egyetlen dolog, amit azonban biztosan tudunk, hogy a `qĕšĕt-beʿānān` csak kétszer fordul elő a héber Bibliában, mégpedig itt, az 1Mózes 9:14-16-ban, ahol Isten először a 13. versben mutatja be, mint "íjam, amelyet a felhőkbe helyeztem". Tehát ez biztosan nem egy hagyományos vagy rögzített szóösszetétel a héber Bibliában. Továbbá a meteorológiai jelenség ritkaságán és a `qĕšĕt` és a `beʿānān` kifejezések nyelvi kollokációján kívül mind a fogalmi, mind a szövegbeli elemek kizárni látszanak a szivárvány lehetőségét. A szavak fogalmi tartalma függ a lexikai elemekben kifejezett jelentés nyelvi konstrukciójától, valamint kulturális és kommunikációs használati kontextusuktól.  
 - A bibliai-héber `qĕšĕt` = íj jelentéssel megadott, mely az akkád **Qaštu** azaz [[I/Íj csillagkép\|Íj csillagkép]] nyomán ered. Ennek eredetije a sumér [[M/Mul.Pan\|Mul.Ban]], melyről lásd még [[I/Íj csillagkép\|Íj csillagkép]].
 
-(Mondanám, hogy a [[M/Mulapin\|Mulapin]]-ban `BAN` = Orion, mely Úr és [[P/Pán\|Pán]] értelmű is lehet, de azóta ott más, pontosabb forrásokból tettünk infókat és nem olyan egyértelmű a helyzet. Lásd átemelve az idevágó infót [[M/Mul.Pan\|Mul.Ban]]. Ami pedig a héber (íjat és) Nyilast illeti, lásd [[K/Kazár\|kazár]] címhez betett adatokat.)  
+(Mondanám, hogy a [[M/Mulapin\|Mulapin]]-ban `BAN` = Orion, mely Úr és [[P/Pán\|Pán]] értelmű is lehet, de  nem olyan egyértelmű a helyzet. Lásd átemelve az idevágó infót [[M/Mul.Pan\|Mul.Ban]]. Ami pedig a héber (íjat és) Nyilast illeti, lásd [[K/Kazár\|kazár]] címhez betett adatokat.)  
 
 [[B/Béna\|Béna]] és [[B/Banya\|banya]] címnél említettük a [[B/Bint\|bint]] címnél is előjövő ókelta \*bena = nő és cseh `běhna` = kurva szót, melyek lehetnek [[P/Pina\|pina]] eredetre visszavezethetők. (Vegyük észre, a [[S/Suta\|suta]] is a [[C/Csuda\|csuda]] ([[C/Csudaszarvas\|Csudaszarvas]]) alaki változata. Nincs benne rosszallás, csak nőiséget jelent.)  
 Arról másutt, [[G/Göd\|Göd]] és [[C/Coot\|coot]] kapcsán is volt szó, hogy a [[T/Tejútanya\|Tejútanya]] és vulvájának neve azonos lehet.  
