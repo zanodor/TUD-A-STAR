@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Őz/","title":"Őz","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-14T03:20","updated":"2023-11-14T03:20"}
+{"dg-publish":true,"permalink":"/O/Őz/","title":"Őz","tags":["Englishtexttranslated"],"created":"2023-11-14T03:20","updated":"2024-02-02T03:36"}
 ---
 
 
@@ -9,7 +9,7 @@
 
 Mivel a [[C/Csudaszarvas\|Csudaszarvas]]ünő a Nap szülője, őse, ezért őz az [[O/Ős\|ős]] variánsa kell legyen. Megvan a kelta `os` szóban is (melyről lásd még [[O/Ossian\|Ossian]]), valamint Varga Zsigmond Az ősmagyar mitológia című könyvének adata szerint egyezik vele a sumér `uz`, vogul `as`, `os`, zürjén/votják `iz`.  
 
-VZs adata, miszerint a sumér `uz` = őz, kecske, [[U/UD\|UD]] címnél is előjött. Viszont [[G/Gula\|Gula]] címnél Huszárik László adataként az őzt/szarvast másutt is kiváltó kecske értelmezés jött elő (ahol **Uz** sumér csillagkép-elnevezés).  
+Varga Zsigmond adata, miszerint a sumér `uz` = őz, kecske, [[U/UD\|UD]] címnél is előjött. Viszont [[G/Gula\|Gula]] címnél Huszárik László adataként az őzt/szarvast másutt is kiváltó kecske értelmezés jött elő (ahol **Uz** sumér csillagkép-elnevezés).  
 A Wordsense adata szerint tagalog `usa` = őz, szarvas.  
 
 Ne feledjük el, hogy [[S/Szarvas\|szarvas]] címnél hasonló Az nevet taglaltunk.  
@@ -29,7 +29,7 @@ Felhoztaható még vele kapcsolatban a [[G/Galactic centre\|Galactic centre]], [
 ...csak ennyit ír róla (furcsa, hogy az [[O/Ős\|ős]] szóval való összefüggését nem hozza fel):  
 > Őzeink neve szintén titkos talányokat rejteget. Magát az Őz szót is igen nehéz értelmezni, sokrétű jelentést takar. Kétségtelenül napállat \[nőstényként Tejútanya-állat\], az éji égbolt megjelenítője, mivel a bak szarva és az őzek oldalán lévő fehér foltok csillagjelképek.  
 
-Lásd még PJI írását is [[S/Sika\|sika]].  
+Lásd még Péterfai János írását is [[S/Sika\|sika]].  
 Lásd még tehát szintén [[K/Kecske és őz\|kecske és őz]].  
 
 ## Lábjegyzetek
