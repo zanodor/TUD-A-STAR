@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tűzfúrás/","title":"Tűzfúrás","tags":["dg_uploaded"],"created":"2023-11-30T05:01","updated":"2023-11-30T05:01"}
+{"dg-publish":true,"permalink":"/T/Tűzfúrás/","title":"Tűzfúrás","created":"2023-11-30T05:01","updated":"2024-02-02T04:06"}
 ---
 
 
 # Tűzfúrás
 
-A szexuális tartalmú eljárásról több helyen volt szó: [[F/Fornicate\|fornicate]], [[F/Friction\|friction]], [[F/Frig\|frig]] és MA adataival [[T/Terebra\|terebra]] címnél.  
+A szexuális tartalmú eljárásról több helyen volt szó: [[F/Fornicate\|fornicate]], [[F/Friction\|friction]], [[F/Frig\|frig]] és Magyar Adorján adataival [[T/Terebra\|terebra]] címnél.  
 
 #### Falvay Károly Nagyboldogasszony...  
 
