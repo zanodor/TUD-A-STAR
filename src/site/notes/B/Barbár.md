@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["dg_uploaded","Englishtexttranslated","containstransclusions"],"created":"2023-11-04T04:55","updated":"2023-11-06T12:49"}
+{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-04T04:55","updated":"2024-02-02T01:23"}
 ---
 
 
@@ -21,10 +21,10 @@ Nálam, minthogy [[T/Teremtő és teremtett\|Teremtő és teremtett]] címnél i
 
 Ezt erősíteni látszik Varga Zsigmond Az ősmagyar mitológia c. könyvének adata is (a nap szót persze lehet hogy Napként értelmezi):  
 > A sumér [[B/Babbar\|babbar]] a bar gyök összevont reduplikációja, bar-bar helyett, jelentése fehér, fénylik, világosodik (de a nap egyik neve is).  
-- Babbar előjön PJI-nél [[B/Bab\|bab]] címnél és lásd még [[B/Babba Mária\|Babba Mária]] nevénél is. <br/>
+- Babbar előjön Péterfai Jánosnál [[B/Bab\|bab]] címnél és lásd még [[B/Babba Mária\|Babba Mária]] nevénél is. <br/>
 `Bar-Bar` világosság világossága értelmet kap a fentiek alapján Rostás László "Lehel-kürt" és a "Szent László legenda" ikonográfiai azonossága a szkíta kereszténység tükrében c. az Ősi Gyökér 2008/3-4. sz. megjelent cikkében is.  
 
-PJI megspórolt volna nekem némi időt és néhány Quora oldalon is lefutott kanyart (ahol csak a barbar = fényes, magasztos jelentését érintettem egy-két cikkben), ha az akkád értelmezését is megadja a szónak. Ugyanis nagyon valószínű, hogy ezt vette át az elsémisedett(nek mutatkozó) görög.  
+Péterfai János megspórolt volna nekem némi időt és néhány Quora oldalon is lefutott kanyart (ahol csak a barbar = fényes, magasztos jelentését érintettem egy-két cikkben), ha az akkád értelmezését is megadja a szónak. Ugyanis nagyon valószínű, hogy ezt vette át az elsémisedett(nek mutatkozó) görög.  
 (A Quorára írott cikkekben, melyben védem a barbár eredeti jelentését, így sajnos nem tértem arra, pedig muszáj illetve jó lehetőség lett volna, hogy a görög nyelvbe nem a sumér, hanem már a szemita akkád szóalak és jelentés került át.).  
 [Ezen](https://en.wikipedia.org/wiki/Ur_(cuneiform)) Wiki oldalon szereplő adatok szerint a [[G/Gilgames\|Gilgames]] eposzban a sumér [[U/UR\|UR]] = kutya jelentésű szóból kifejezett, az eredeti sumér `urbarra` = farkas szónak, az annak átírásaként számon tartott akkád `barbaru` = farkas olvasatú névnek felel meg. A sumér urbarra szóra ezen alábbi magyarázat nem a Wiki oldalról való:  
 > The Sumerian word for "wolf" is urbarra, which literally means "dog (ur) of the outdoors (bar)".  
@@ -65,7 +65,7 @@ Az már egy másik kérdés illetve vizsgálati vonal, hogy [[A/Atilla hun kirá
 > —  
 > Onomatopoetikus reduplikált képződmény, amely eredetileg az idegen nyelvére utalt. Összehasonlíthatjuk a szkt. (poszt-védikus) `barbara` 'dadogás', a nem árja népek megnevezésére. A sumér. `barbar` 'idegen' \[megléte\] ellenére nem babiloni vagy sumér eredetű. A `ßápßapos`-ból kölcsönözték a lat. `barbarus`-t. Hasonló képződmények más IE nyelvekben a Pok. 91f. és Mayrhofer EW Aia 2: 217 s.v. balbalā-.  
 
-A barbaru jelentését illetően még annyit, hogy Nimród, a hatalmas vadász, a leopárdok ura volt, illetve [[N/Nimrud\|Nimrud]] címnél akkád szavak párduc és leopárd jelentéssel visszaadottak (ami pedig ott leopárd, az az amerikai földrészen [[J/Jaguar\|jaguar]]). Azaz ezek a nagymacskák mind a Napra és egyúttal apjára, Nimrud-Orionra is vonatkoznak. Namost Orion és Szíriusz összetartoznak. Így talán nem meglepő, hogy a [[B/Barbara\|Barbara]], [[K/Kutia\|kutia]], [[N/Negyven\|negyven]], [[S/Szít\|szít]] és [[T/Tél\|tél]] címnél is említett vagy szereplő alábbi passzusban egy teljesen hasonló beduin-arab kifejezés jön elő (bár korábban nem volt számomra egyértelmű, hogy a barbár vagy berber szóval rokon lehet ez a Szíriuszra használt beduin kifejezés, most már leesett, hogy a fenti akkád szó párja és mindig is erre, égi állatra vonatkozott a név és avar-hun eredetével kapcsolatban sem lehet kifogásunk):  
+A barbaru jelentését illetően még annyit, hogy Nimród, a hatalmas vadász, a leopárdok ura volt, illetve [[N/Nimrud\|Nimrud]] címnél akkád szavak párduc és leopárd jelentéssel visszaadottak (ami pedig ott leopárd, az az amerikai földrészen [[J/Jaguar\|jaguar]]). Azaz ezek a nagymacskák mind a Napra és egyúttal apjára, Nimrud-Orionra is vonatkoznak. Na most Orion és Szíriusz összetartoznak. Így talán nem meglepő, hogy a [[B/Barbara\|Barbara]], [[K/Kutia\|kutia]], [[N/Negyven\|negyven]], [[S/Szít\|szít]] és [[T/Tél\|tél]] címnél is említett vagy szereplő alábbi passzusban egy teljesen hasonló beduin-arab kifejezés jön elő (bár korábban nem volt számomra egyértelmű, hogy a barbár vagy berber szóval rokon lehet ez a Szíriuszra használt beduin kifejezés, most már leesett, hogy a fenti akkád szó párja és mindig is erre, égi állatra vonatkozott a név és avar-hun eredetével kapcsolatban sem lehet kifogásunk):  
 > The Bedouins of the Sinai and the Negev, however, called Sirius **Al-Burbarah**, probably deriving the name from the barking noise of a dog (Bailey 1974). They used its appearance on the easterly horizon at nightfall, in mid-January, as a season marker for the start of their **40**-day winter season ash-shita that lasts till late-February.  
 > —  
 > A Sínai-félsziget és a Negev beduinjai azonban a Szíriuszt **Al-Burbarah**-nak nevezték, valószínűleg egy kutya ugatásából eredeztetve a nevet (Bailey 1974). Ők január közepén, sötétedéskor a keleti horizonton való megjelenését évszakjelzőként használták a február végéig tartó **40** napos téli időszakuk, az ash-shita kezdetére.  
@@ -93,9 +93,9 @@ A neten is megtaláltam:
 
 ![assets/Barbár_image1.png](/img/user/B/assets/Barb%C3%A1r_image1.png)  
 
-[[P/Pogány\|Pogány]] címnél PG szól arról, hogy a másságról nyilatkozó szerint a [[M/Más\|más]] a más nyelvet beszélő és más erkölcsöket képviselő [[I/Idegen\|idegen]]/külföldi. A degradálóról viszont az bizonyosodik be, hogy valójában alacsonyabb műveltségű. Ugyanazt ezt teszi a talmudista zsidó (és a YouTube videókon rögzített izraeli járókelő is), amikor [[J/Jézus\|Jézus]]t senkinek és semminek (a kereszténységet pedig kiirtandónak) tekinti: meg van róla győződve, hogy az ő által képviselt értékrend magasabb, holott könnyen kimutatható, hogy épp fordítva van. Erről [[G/Gentile\|gentile]] címnél és [[M/Magyar népművészet\|magyar népművészet]] bevezetőjében is volt szó.  
+[[P/Pogány\|Pogány]] címnél Pap Gábor szól arról, hogy a másságról nyilatkozó szerint a [[M/Más\|más]] a más nyelvet beszélő és más erkölcsöket képviselő [[I/Idegen\|idegen]]/külföldi. A degradálóról viszont az bizonyosodik be, hogy valójában alacsonyabb műveltségű. Ugyanazt ezt teszi a talmudista zsidó (és a YouTube videókon rögzített izraeli járókelő is), amikor [[J/Jézus\|Jézus]]t senkinek és semminek (a kereszténységet pedig kiirtandónak) tekinti: meg van róla győződve, hogy az ő által képviselt értékrend magasabb, holott könnyen kimutatható, hogy épp fordítva van. Erről [[G/Gentile\|gentile]] címnél és [[M/Magyar népművészet\|magyar népművészet]] bevezetőjében is volt szó.  
 
-[[P/Pogány\|Pogány]] címnél említettük PG Gondolatok a szkíta nép-nemzeti szertartásrendről című cikkét, melyben a barbár szó görög és latin bővítményes jelentéseiről is szó esik:  
+[[P/Pogány\|Pogány]] címnél említettük Pap Gábor Gondolatok a szkíta nép-nemzeti szertartásrendről című cikkét, melyben a barbár szó görög és latin bővítményes jelentéseiről is szó esik:  
 Például: görögül `barbaridzó` = barbárként viseli magát... idegen nyelven beszél (az idegen nyelv itt nem-görög nyelvet jelent! – P.G.); `barbariszmosz` = idegen nyelven beszélés, hibás beszéd (Soltész-Szinyei); latinul `barbaricus` = idegen nyelvű, paraszt, kietlen; `barbarizo` = parasztúl szólok; `barbarus` = szólásban parasztos, nem nyelvünkön szóló (Páriz Pápai Ferenc).  
 
 Több helyen szóltam arról, hogy tulajdonképpen a hunoknak és vallásos nézetüknek és ennek elterjedésenek és ennek ellenességének (valamint az általuk képviselt patriachalizmusnak) tulajdonítható a legtöbb Földet érő baj. Még azt sem tartom kizártnak, hogy a héber [[G/Gój\|gój]] nemcsak marha, hanem kutya (lásd kínai `gou` = kutya, ír `cù` = kutya, stb.) asszociációkkal illethető és az általuk képviselt felfogás annak szól, hogy ha "Szíriusz távollétében a Szíriuszt tisztelők nem élvezik annak pártfogását, így a világuralom a miénk." \[Azóta szépen kiderült, hogy a [[K/Kutyahit\|kutyahit]] az ősi hit.\]  
@@ -152,7 +152,7 @@ Götz László Keleten kél a Nap című könyvének 216. oldalán szól arról,
 
 [^1]: Lábjegyzet:  
 Erről lásd [[T/Tiger\|tiger]] címnél; például az óperzsa \*šagra = oroszlán; tigris.  
-De PJI is írja:  
+De Péterfai János is írja:  
 A Barsz tigris is, ami arra utal, hogy a Bar név alatt tényleg értettük a Kardfogú Tigriseket is, amíg ezek a nagymacskák éltek (Kr.e. 8.000).  
 
 [^2]: Lábjegyzet:  
