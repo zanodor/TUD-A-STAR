@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Frank/","title":"Frank","tags":["titleandheadingonedontmatch","multipleentries","stitched","dg_uploaded"],"created":"2023-11-29T01:40","updated":"2023-11-29T01:40"}
+{"dg-publish":true,"permalink":"/F/Frank/","title":"Frank","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-11-29T01:40","updated":"2024-02-02T03:03"}
 ---
 
 
@@ -18,7 +18,7 @@ A hivatalos nézet szerint a frank germán név (a [[G/Gall\|gall]] név pedig l
 > Franco nagy trójai néptömeggel Pannóniába jött, ahol a Szikán-hegy mellett, az Ister-folyó partján, hatalmas várost alapított, amit Sicambriának nevezett el a hegyről.  
 > Franco magyar vezér tovább ment nyugatra, a hagyomány szerint, nagyjából Kr.e. 1.200 körül, és a Szajna folyónál várost alapított, amit apjáról, Pariszról, Párizsnak nevezett el. A Parisi törzs a rómaiaknál már jóval régebbi idők óta élt Párizs környékén, mint egy magyar törzs.  
 
-PJI a [[T/Tarihi Üngürüsz\|Tarihi Üngürüsz]] alapján (is) írta mindezt, amiben az áll, hogy a frankok területének, országának neve **Firendzsijja**, azaz Francia.  
+Péterfai János a [[T/Tarihi Üngürüsz\|Tarihi Üngürüsz]] alapján (is) írta mindezt, amiben az áll, hogy a frankok területének, országának neve **Firendzsijja**, azaz Francia.  
 Tóth Gyula adata szerint a Tarih-i Üngürüszben a frankok neve firenk.  
 Mivel a magyar eredeti szóalak megtalálása a cél, azt kell itt látni, hogy eredetileg a Firenc (Firanko) szóhoz hasonló alak lehet a kiindulóalap. Az angol [[F/Fairy\|fairy]] (tündér) magyar megfelelője fer (mivel a Ferenc név már kicsinyítő képzővel ellátott).  
 Ferenc nevünk tehát nem a frankból, majd franciából ered, hanem mind ered a tündérek nevéből.  
