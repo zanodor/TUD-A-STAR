@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mitre/","title":"Mitre","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-14T06:10","updated":"2023-11-10T11:05"}
+{"dg-publish":true,"permalink":"/M/Mitre/","title":"Mitre","tags":["Englishtexttranslated"],"created":"2023-10-14T06:10","updated":"2024-02-02T03:30"}
 ---
 
 
@@ -11,7 +11,7 @@ Püspöksüveg(gel ellát); alakja miatt 45°-ot is jelent. Lásd csatolt képet
 Háttéradat: Jézus világra jöttével lépett át az emberiség a Halak világkorszakba. Jézus ezért is választotta \[a regeíró vele választatta\] az első apostolait a halászok közül. A keresztény szimbolika többszörösen is utal erre, hiszen a római katolikus (tátott szájú hal formájú) püspöksüveg, vagy a református templomtornyok kakas díszítése is erre utal (a [[K/Kakas\|kakas]] a Halak jegy keleti megfeleltetése).  
 Fontos kiemelni, hogy a [[H/HAL\|hal]] egyszerre női és hím szemérem jelkép. [[P/Phallic\|Phallic]] címnél volt szó kereszténységben is fellelhető szexuális jelképiségről templom (bejárat) kapcsán.  
 
-Dobos Csanád interneten megosztott A Szarv és a Glória című tanulmányáról [[K/KUS\|KUS]] címnél esett szó, de érintettük [[G/Glory\|glory]] és [[C/Colour\|colour]] szavaknál is. DCS ott szintén szól arról, hogy az ék-alakot vagy inkább szarvakat jelképező fejfedő neve Mitra és Mithra alakjához kapcsolandó. Arról nem szól, hogy [[M/Mithra\|Mithra]] (Ifjú Nap) nevének mi az értelme, és hogy a görög eredetű szó hogyan kapcsolható össze a Napistennel. Mi itt megtettük.  
+Dobos Csanád interneten megosztott A Szarv és a Glória című tanulmányáról [[K/KUS\|KUS]] címnél esett szó, de érintettük [[G/Glory\|glory]] és [[C/Colour\|colour]] szavaknál is. Dobos Csanád ott szintén szól arról, hogy az ék-alakot vagy inkább szarvakat jelképező fejfedő neve Mitra és Mithra alakjához kapcsolandó. Arról nem szól, hogy [[M/Mithra\|Mithra]] (Ifjú Nap) nevének mi az értelme, és hogy a görög eredetű szó hogyan kapcsolható össze a Napistennel. Mi itt megtettük.  
 
 A másutt beígért `mítra` szó jelentései:  
 > μίτρᾰ (mítra):  
