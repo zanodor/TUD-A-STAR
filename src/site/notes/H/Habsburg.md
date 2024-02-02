@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Habsburg/","title":"Habsburg","tags":["dg_uploaded"],"created":"2023-11-17T07:57","updated":"2023-11-17T07:57"}
+{"dg-publish":true,"permalink":"/H/Habsburg/","title":"Habsburg","created":"2023-11-17T07:57","updated":"2024-02-02T03:07"}
 ---
 
 
@@ -46,7 +46,7 @@ Kubínyi Tamás egy műsorában azt mondja, Habsburg Ottó és apja, IV. Károly
 Az 1505-ös [[R/Rákosi végzés\|Rákosi végzés]] kimondta, hogy a magyarságnak csak magyar vérből való királya lehet. És persze hogy nem ez történt. A Jagelló-Habsburg házasság révén (II. Ulászló felesége volt Habsburg Mária) a Habsburgok ármánnyal és csellel megkaparintották a magyar trónt és 400 éven keresztül gyarmatosították Magyarországot.  
 Egy másik műsorban is elmondja, hogy a Habsburgok házassági szerződésre hivatkozva szerezte meg a trónt.  
 
-[[M/Mátyás#Mátyás megmérgezése\|Mátyás megmérgezése]] cím/alcímnél is szóba került a téma. Az ott állott sorokat itt folytatom KT adataival:  
+[[M/Mátyás#Mátyás megmérgezése\|Mátyás megmérgezése]] cím/alcímnél is szóba került a téma. Az ott állott sorokat itt folytatom Kubínyi Tamás adataival:  
 > Ezek a dolgok máig nincsenek igazán feltárva, sőt elvannak maszatolva. Mert hogyha mondjuk a kisdiákoknak tanítanák, hogy Mátyás királyt 1490. április 6-án megmérgezték, akkor a kisdiák feltenné a kérdést, hogy igen és ki mérgezte meg? És akkor elkerülhetetlen lenne a válasz, hogy a Habsburg mérgezte meg. És a [[H/Habsburg\|Habsburg]] a továbbiakban a magyar trón elfoglalására mindent megtett.  
 > \[...\]  
 > Mátyásnak ellensége, Habsburg Frigyes német császár, a tehetségtelen hadvezér aki félti a Habsburg birodalmat Mátyástól és Mátyás európai népszerűsége is rendkívül zavarja, egyben Magyarországot meg akarja szerezni. Na most Mátyás viszont törekszik a Habsburg trónra, ezért köt szerződést Frigyessel. Örökösödési szerződést köt még az első fia születése és a koronázása előtt és mégis ugye az a furcsa helyzet állt elő hogy a végén a Habsburg arra hivatkozik, hogy ő jogosan örökli meg Mátyás trónját. És hogy Habsburg Miksa római király, Ulászló cseh király, János Albert lengyel herceg és aragóniai Beatrix királyné közül Habsburg Miksa lenne az első, aki a magyar trónnak az örököse. Egyetlen probléma van ezzel a négy névvel. Egyiknek sincs köze a magyarsághoz. Mindegyik hódítóként lép fel és nekünk magyaroknak mindegyik a kárunkra tör. És ez a szándék, ez a gondolkodásmód a későbbiekben be is bizonyosodott, hogy tragikus következményekkel jár a magyarságra.  
