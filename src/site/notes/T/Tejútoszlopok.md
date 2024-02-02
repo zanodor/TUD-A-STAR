@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tejútoszlopok/","title":"Tejútoszlopok","created":"2023-10-29T04:45","updated":"2024-02-02T04:03"}
+{"dg-publish":true,"permalink":"/T/Tejútoszlopok/","title":"Tejútoszlopok","created":"2023-10-29T04:45","updated":"2024-02-02T04:15"}
 ---
 
 
@@ -9,7 +9,7 @@
 
 ...című könyvében írja:  
 > A Tejút [[N/Négy\|négy]] oszlopa a [[S/Szíriusz\|Szíriusz]][^1], a [[C/Capella\|Capella]], a [[V/Vega\|Vega]] és az [[A/Antares\|Antares]], ami az egyetlen csillag, amely Világ- és Tejútoszlop is egyben. Tehát dimenzióváltás lehetőségét is hordozza.  
-> Hogy ezen négyes mely népek számára volt olyan fontos, hogy Paksi Zoltán ezeket sorolja, nem tudni, mindenestre Jankovics Marcell A Nap könyve című könyvében említi e csillagnégyest, mint a Tejút négy legfényesebb csillagát, melyek az ún. szkidi póni indiánok számára is fontosak voltak, de talán az óegyiptomiak számára is:  
+> Hogy ezen négyes mely népek számára volt olyan fontos, hogy Paksi Zoltán ezeket sorolja, nem tudni, mindenesetre Jankovics Marcell A Nap könyve című könyvében említi e csillagnégyest, mint a Tejút négy legfényesebb csillagát, melyek az ún. szkidi póni indiánok számára is fontosak voltak, de talán az óegyiptomiak számára is:  
 > A síksági szkidi póni indiánok kerek "földkunyhó-temploma", közösségi háza szintén az univerzum földi tükörképe. Keleti bejáratát úgy alakították ki, hogy az év egy bizonyos napján a rajta beeső napfény a nyugati oldalon álló oltárra essék. A póni szent kunyhót is 4 oszlop tartja. Ezek a "mennyek oszlopai", s a pónik a Tejút 4 legfényesebb csillagával azonosítják őket: a fehér Szíriusszal, a sárga Capellával, a "fekete" (kék) Vegával és a vörös Antaresszel. (E csillagokat jelképezhették az egyiptomi [[N/Nut\|Nut]] karjai és lábai, melyekkel a tejútistennő a Földre támaszkodott, valamint a bibliai "egek oszlopai" és apokaliptikus lovasai. L. Jób 26,11; Jel 6,2.)  
 
 Tehát hasonló, de természetesen más tagokból álló négyest alkot a [[V/Világ négy oszlopa\|Világ négy oszlopa]], "a menny négy őrzője."  
