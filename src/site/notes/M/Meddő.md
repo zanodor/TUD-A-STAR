@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Meddő/","title":"Meddő","created":"2023-11-09T03:28","updated":"2023-11-09T03:28"}
+{"dg-publish":true,"permalink":"/M/Meddő/","title":"Meddő","created":"2023-11-09T03:28","updated":"2024-02-02T03:26"}
 ---
 
 
@@ -19,4 +19,4 @@ Egyébként érdekes még, hogy a meddő alakilag azonos a [[N/Nedű\|nedű]] sz
 ## Meddő és szűz
 
 [[E/Eszter\|Eszter]] és [[S/Sterile\|sterile]] címnél a székely `ester` = meddő szó kapcsán jegyeztük meg, hogy [[H/Hágár\|Hágár]] címnél írottak szerint [[S/Sára\|Sára]] is meddő volt: azaz a meddő = szűz összefüggést tárhatjuk fel, ahol `szűz` = [[S/Szűzanya\|Szűzanya]].  
-Valóban van létjogosultsága a meddő és szűz fogalmainak közös nevezőre hozatalának, mert PG is szólt a "még szűz és már szűz" témáról (föld szentelésének rítusánál volt róla szó).  
+Valóban van létjogosultsága a meddő és szűz fogalmainak közös nevezőre hozatalának, mert Pap Gábor is szólt a "még szűz és már szűz" témáról (föld szentelésének rítusánál volt róla szó).  
