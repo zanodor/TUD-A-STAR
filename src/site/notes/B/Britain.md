@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/B/Britain/","title":"Britain","tags":["Englishtexttranslated"],"created":"2023-11-11T12:30","updated":"2023-12-25T11:32"}
+{"dg-publish":true,"permalink":"/B/Britain/","title":"Britain","tags":["Englishtexttranslated"],"created":"2023-11-11T12:30","updated":"2024-02-02T01:35"}
 ---
 
 
 # Britain
 
 [[B/Bretagne\|Bretagne]] volt Franciaországban előbb vagy sem, minket most nem ez köt le. A Britain szót akarjuk elemezni. Az is elképzelhető, hogy a két szárazföld az özönvíz előtt összefüggő volt és a két név egy és ugyanaz, csak Bretagne elfrankosodott.  
-A [[B/BAR\|BAR]] etimon és valószínűleg az [[A/AN, ÁN\|AN, ÁN]] ([[B/Baráth Tibor\|Baráth Tibor]]nál ez mindig egyszerűen: hon) elemek bújnak meg benne. A brit kelták nyelve szerint Brython! A hon a hunból ered, a hon haza. Egyesek Barátok Hona, Barátok Hazája kifejezéssel illetik, de PJI nem hozza szóba:  
+A [[B/BAR\|BAR]] etimon és valószínűleg az [[A/AN, ÁN\|AN, ÁN]] ([[B/Baráth Tibor\|Baráth Tibor]]nál ez mindig egyszerűen: hon) elemek bújnak meg benne. A brit kelták nyelve szerint Brython! A hon a hunból ered, a hon haza. Egyesek Barátok Hona, Barátok Hazája kifejezéssel illetik, de Péterfai János nem hozza szóba:  
 > A Brit kétségtelenül valamilyen Berit, Birit forma rövidülése. Bran, Brian, Brennan és hasonlók mind a Bar, Ber, Bir magyar szavak származékai.  
 
 Bretagne nevét összevetik Berthenon-Ville nevével, a város nevében még tiszta a Berthenon név, amely Breton, Bratgne alakra tömörül. Birgit és Birgitta \[lásd [[B/Birghid\|Birghid]]\] neve a Brigitta névben él ma tovább. A régebbiek a kelta-magyar formák, az újabb az indoeurópai forma.
@@ -15,9 +15,9 @@ A Briganti (lásd [[B/Brigand\|brigand]]) egy régi törzs neve volt, a Brutáli
 
 Az általa említett Berit név előjött [[B/Berith\|Berith]] címnél, minthogy ilyen ugariti isten (nem istennő?) létezett. Márpedig arról alant is lesz szó, hogy a briteket föníciai eredetűnek mondják (a hiberniai skótokat pedig hébereknek).  
 
-PJI nemhogy a [[B/Barát\|barát]]okat, de a birkákat sem említi a brit kontextusban. Ha valahol sok a birka, az a brit szigeteken ma is. A marha és tinó szavak országra, hűbérre vonatkoztatásáról Tóth Gyula írt. Itt a birka mellett a birtok, birodalom szavak bir gyökét lehet még látni.  
+Péterfai János nemhogy a [[B/Barát\|barát]]okat, de a birkákat sem említi a brit kontextusban. Ha valahol sok a birka, az a brit szigeteken ma is. A marha és tinó szavak országra, hűbérre vonatkoztatásáról Tóth Gyula írt. Itt a birka mellett a birtok, birodalom szavak bir gyökét lehet még látni.  
 
-Bharat-ot Acharia S (mely forrás alapján?) India eredeti-bennszülött nevének tartja (és maga is Britain nevéhez hasonlítja); tény, hogy WFW könyvében is enlíti a Bharata nevet (képet lásd [[M/Mahabharata\|Mahabharata]]):  
+Bharat-ot Acharia S (mely forrás alapján?) India eredeti-bennszülött nevének tartja (és maga is Britain nevéhez hasonlítja); tény, hogy William F. Warren könyvében is enlíti a Bharata nevet (képet lásd [[M/Mahabharata\|Mahabharata]]):  
 > First, of course, we come to the Himalaya range, the Himavat of Indian geography. All that portion of the earth lying between this mountain range and the great ocean to the South constitutes one of the seven, or nine, varshas, or divisions of the habitable (upper) hemisphere. Its name is Bharata.  
 > —  
 > Először természetesen a Himalája hegyvonulatához, az indiai földrajz Himavatjához érkezünk. A Földnek az e hegyvonulat és a déli nagy óceán között fekvő része alkotja a hét vagy kilenc varsha, vagyis a lakható (felső) félteke egyikét. A neve Bharata.  
@@ -33,7 +33,7 @@ A Quora oldalon volt [egy kérdés](https://qr.ae/TWN8T8) arra vonatkozólag, ho
 > —  
 > A latin Brittania valószínűleg a walesi (ókori brit) "Pritannia" (walesi "Prydain") szóból származik. A görögök feljegyezték, hogy a lakosok magukat "Prettanoi"-nak nevezték.  
 
-Még nagyobb baromságokat terjesztenek a brit izraeliták, akikről [[S/Szkíta\|szkíta]] címnél is volt szó (és akik butasága EP szótárában is helyet követelt[^1]). Az őket, adataikat követő...
+Még nagyobb baromságokat terjesztenek a brit izraeliták, akikről [[S/Szkíta\|szkíta]] címnél is volt szó (és akik butasága Eric Partridge szótárában is helyet követelt[^1]). Az őket, adataikat követő...
 
 #### Lewis Freemantle The Thirteenth Stone...
 
@@ -49,7 +49,7 @@ Még nagyobb baromságokat terjesztenek a brit izraeliták, akikről [[S/Szkíta
 > Zarah és rokonai vitathatóan északnyugatra (Európába?) vándorolnak, itt találjuk a sacait vagy sacea-sunnit (Izsák fiai) – lásd 1Mózes 21:12 és Róma 9:7. Ezek a szászok lehettek a bibliai egel/engel is, ami bikát jelent. Ez jól kapcsolódik a britországi bikaimádathoz, és ez lehet a forrása az "angol" névnek. Az 'Ish', mint emlékezhetünk rá, 'embert' jelent, Ábrahám pedig a Bika. Így azt is lehet érvelni, hogy mivel a "brith" szövetséget jelent, a "brith-ain" szövetséges népet jelent.  
 - "Héberül a brith-ish azt jelenti, hogy 'szövetséges ember'." Ajaj.
 
-Lásd még [[B/Barát\|barát]] és [[B/Brother\|brother]]. Lásd még szintén "barátságos" [[M/Mahabharata\|Mahabharata]].  
+  
 
 ## Lábjegyzetek
 
