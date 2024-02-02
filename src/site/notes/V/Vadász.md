@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","created":"2023-10-13T05:41","updated":"2024-01-25T12:48"}
+{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","created":"2023-10-13T05:41","updated":"2024-02-02T02:46"}
 ---
 
 
@@ -50,7 +50,7 @@ Ami még a Hágár név változatait illeti, Hacer török női név. Hacser Jó
 A többi nyelven is fussunk végig. A szláv `lovec`, `лове́ц`, stb. alakok egyértelműen `lövész` szavunkat árulják el. A germán szavaknál is a nyíllövő az íjász, aki ugye a vadász is. De ha már lövész, nem-e a [[L/Love\|love]] szó is [[A/Ámor\|Ámor]] és [[C/Cupid\|Cupid]] címnél írottak alapján lövés szavunk törzse? Azaz a szanszkrit [[L/Lubdhaka\|Lubdhaka]] dakák lövője lenne? A szláv szavak gyöke erre enged következtetni. A [[L/Lubdhaka\|Lubdhaka]] névvel [[S/Szíriusz\|Szíriusz]] címnél találkoztunk már; [[L/Love\|love]] címnél is említettük közben, hogy a lövés és lövész törzse lehet.  
 A lengyel `myśliwy` a [[M/MISZ\|MISZ]] előtag miatt érdekes; emlékeztet a [[L/Luna\|Luna]] címnél elővett lengyel `miesiąc` = holdsarló, hold szóra, mely felveti, hogy a közös fogalom bennük az ív/ij(asság) (hasonlóan az arab `kamr` = Hold, de a héber `hamor` = íjász).  
 A görög `κυνηγός` = vadász a `κύων` = kutya előtagot viszi, de az utótagot nem magyarázza meg a Wiktionary. Beekes etymologia szótárában elő sem jön a szó, de egy hasonlót megad kutyavezető néven. Én éppen erre az etimológiára gondoltam: csak az égre kell nézni.  
-A török `avci` és azeri `ovçu` = vadász talán [[A/Ács\|ács]] vagy [[J/Jász\|jász]] illetve (a PJI szerint akár a magyar [[H/Heta\|heta]] nevünkhöz köthető) kínai [[J/Jüecsi\|jüecsi]] átvétele (a [[H/Hét\|hét]] pedig észak ugye) (a shor nyelvű `añçı` hasonló még (sőt, ismét N = V?)).  
+A török `avci` és azeri `ovçu` = vadász talán [[A/Ács\|ács]] vagy [[J/Jász\|jász]] illetve (a Péterfai János szerint akár a magyar [[H/Heta\|heta]] nevünkhöz köthető) kínai [[J/Jüecsi\|jüecsi]] átvétele (a [[H/Hét\|hét]] pedig észak ugye) (a shor nyelvű `añçı` hasonló még (sőt, ismét N = V?)).  
 [[J/Jüecsi\|Jüecsi]] címnél arról szóltunk legutóbb, hogy a [[J/Jász\|jász]] nevünk kell legyen, és valóban, a jász = íjász = vadász.  
 Mint kiderül, [[H/Hágár\|Hágár]] fia, [[I/Izmael\|Izmael]] is vadász, de atyja [[A/Ábrahám\|Ábrahám]] is Orion alak.  
 
@@ -62,7 +62,7 @@ Azaz, a görög és latin igékre visszautalva lehet agar magyar ige értelme ha
 Ezek alapján is kimondható, hogy a hajt és akar (óhajt, vágy, sóvárog, stb.) fogalmai összefüggenek, úgy ahogy az [[I/Íj\|íj]] és [[E/Éh\|éh]] fogalmak/szavak és a [[H/Hunger\|hunger]]/hanker a Hungár-Hunor-[[K/Khamor\|Khamor]]-ral. Az elmúlt időszakban főleg ezen szavak gyűjtésével és vizsgálatával foglalkoztam.  
 
 Joseph Fontenrose Orionjában mindenféle isten folyton vadászik. Úgy tűnik, a vadászat azt jelenti, hogy űzni a (Csuda)szarvast, azaz kőrözni az égen (nemzés-teremtés az életkörben). Márpedig a [[K/KÁR\|KÁR]] = vadász(?) szóban is K-R/kör váz szerepel.  
-Valóban vadászni nem más, mint szexuálisan űzni. Ilyen értelemben a kár = cigány káró és perzsa [[K/Kir\|kir]] = hímtag értelme is tisztázott. Vegyük észre, az Orionnal azonosított [[N/Nimrud\|Nimrud]] nevében – TZs szerint is – a Nemző Rúd, azaz a hímtag értelem van meg. Ezen témáról [[M/Magyar istencsalád\|magyar istencsalád]] és [[H/Hunor csillagkép\|Hunor csillagkép]] címnél is volt szó.  
+Valóban vadászni nem más, mint szexuálisan űzni. Ilyen értelemben a kár = cigány káró és perzsa [[K/Kir\|kir]] = hímtag értelme is tisztázott. Vegyük észre, az Orionnal azonosított [[N/Nimrud\|Nimrud]] nevében – Tomory Zsuzsa szerint is – a Nemző Rúd, azaz a hímtag értelem van meg. Ezen témáról [[M/Magyar istencsalád\|magyar istencsalád]] és [[H/Hunor csillagkép\|Hunor csillagkép]] címnél is volt szó.  
 
 #### Varsa Mátyás A legrégibb magyar mítosz...
 
@@ -102,7 +102,7 @@ Két olyan szót sikerült találni eddig ([[P/Pagony\|pagony]] és [[T/Tryst\|t
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-BF a [[K/KUS\|kus]]okra gondol:  
+Bognár Ferenc a [[K/KUS\|kus]]okra gondol:  
 Ezek után magától következik, hogy a `chasseur` (`cazador`/ `cacciatore`/`caçador`) variánsok, a chus népnévre utalnak. A chusiták egy ága, a mellettük élő örmények krónikái szerint, kaukázusi hun volt.  
 
 [^2]: Lábjegyzet:  
