@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kennedy/","title":"Kennedy","tags":["dg_uploaded"],"created":"2023-11-02T11:44","updated":"2023-11-02T11:44"}
+{"dg-publish":true,"permalink":"/K/Kennedy/","title":"Kennedy","created":"2023-11-02T11:44","updated":"2024-02-02T03:15"}
 ---
 
 
 # Kennedy
 
-PJI [[K/Kenéz\|kenéz]] címnél szereplő adata szerint a család neve hun-magyar eredetű.   
+Péterfai János [[K/Kenéz\|kenéz]] címnél szereplő adata szerint a család neve hun-magyar eredetű.   
