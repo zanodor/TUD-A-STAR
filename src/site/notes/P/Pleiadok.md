@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2024-01-25T12:47"}
+{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2024-02-02T03:39"}
 ---
 
 
@@ -109,7 +109,7 @@ A Föld kering a Nap körül, mely a Szíriusz körül, mely az [[A/Alcyone\|Alc
 
 > And indeed the Mayan's chose the Galactic Center as a reference point to mark the passage of time, which is evident as the Mayan Long Count ends with the galactic alignment of the Solar System on December 21st 2012. Therefore, the idea that the **Earth orbits the Sun, or that the Sun orbits Sirius, or that Sirius orbits Alcyone and that Alcyone orbits the Galactic Nucleus**, is not revolutionary – it's just a rediscovery of lost knowledge.  
 > —  
-> És valóban, a maják a Galaktikus Központot választották referenciapontnak az idő múlásának jelölésére, ami nyilvánvaló, mivel a maják hosszú számlálása a Naprendszer galaktikus együttállásával ér véget 2012. december 21-én. Ezért az az elképzelés, hogy a **Föld kering a Nap körül, vagy hogy a Nap kering a Szíriusz körül, vagy hogy a Szíriusz kering az Alcyone körül, és hogy az Alcyone kering a Galaktikus Mag körül**, nem forradalmi – ez csak egy elveszett tudás újrafelfedezése.  
+> És valóban, a maják a Tejútközpontot választották referenciapontnak az idő múlásának jelölésére, ami nyilvánvaló, mivel a maják hosszú számlálása a Naprendszer galaktikus együttállásával ér véget 2012. december 21-én. Ezért az az elképzelés, hogy a **Föld kering a Nap körül, vagy hogy a Nap kering a Szíriusz körül, vagy hogy a Szíriusz kering az Alcyone körül, és hogy az Alcyone kering a Galaktikus Mag körül**, nem forradalmi – ez csak egy elveszett tudás újrafelfedezése.  
 
 
 </div></div>
@@ -150,7 +150,7 @@ Egyre több mutat arra, hogy azon interneten közkézen forgó információk, mi
 - Jankovics Marcell Ahol a madár se jár című könyvében áll, hogy finnugor nyelvrokonaink a planétaistenek lakhelyét a Fiastyúkkal azonosították (nemcsak ők): az obi-ugor mitológiában a Fiastyúk (Récefészek) az égisten planétagyermekeinek szülőotthona.  
 
 [[A/Alcyone\|Alcyone]] címnél még további adatok szerepelnek, arra nézve, hogy a Pleiadokat évszak-jelzőként használták. Érdekes, hogy Alcyone dec. 31-én tetőzik (tetőzött?), mely szinte egybeesik [[U/Újév\|újév]] napjával, mely napot [[S/Szíriusz\|Szíriussz]]al is kapcsolatba hoztuk.  
-WFW könyvének adata szerint a görög [[M/Meropisz\|Meropisz]] a görög mondai hagyományok szerint az első ember megszületésének helye, mely hely ugyan Cos (Kosz; Cosmos = Kosz-Mosz!) szigetére utal a Földön, de az "ahogy fenn, úgy lenn" axióma értelmében ezen hely fenn is meg kellett legyen. Valóban, [[M/Merope\|Merope]] a Pleiadok egyik csillaga, gyakran az "Elveszett Pleiadnak" tartják. Ezen név egyezik a Meropia, Meropisz nevekkel. Ismét csak azt veti fel, hogy az Univerzum közepe (emberiség-keletkezés-szempontú közepe) a Pleiadok lehetett.  
+William F. Warren könyvének adata szerint a görög [[M/Meropisz\|Meropisz]] a görög mondai hagyományok szerint az első ember megszületésének helye, mely hely ugyan Cos (Kosz; Cosmos = Kosz-Mosz!) szigetére utal a Földön, de az "ahogy fenn, úgy lenn" axióma értelmében ezen hely fenn is meg kellett legyen. Valóban, [[M/Merope\|Merope]] a Pleiadok egyik csillaga, gyakran az "Elveszett Pleiadnak" tartják. Ezen név egyezik a Meropia, Meropisz nevekkel. Ismét csak azt veti fel, hogy az Univerzum közepe (emberiség-keletkezés-szempontú közepe) a Pleiadok lehetett.  
 Legutóbb [[T/TÜN\|TÜN]] etimonnál is szóba került a neve.  
 
 Dacára annak, hogy a Fiastyúk másik neve, Hetevény kimondja, hogy [[H/Hét\|hét]] csillagról van szó, mások kilencről is szólnak:  
@@ -193,7 +193,7 @@ Negyven napig, vagy másképp szólva hat hétig tűnik/tűnnek el Pleiadok a Na
 > —  
 > A Plejádok felbukkannak a hajnali égbolton (heliákusan), miután hat hétig eltűntek a Nap sugarai között. Ezt a hathetes időszakot általában "Nap-Pleiádok" konjunkciónak nevezik.  
 
-Ugyanez az araboknál, RHA könyvéből:  
+Ugyanez az araboknál, Richard H. Allen könyvéből:  
 > The Arabs thought their forty days' disappearance in the sun's rays was the occasion of great harm to mankind.  
 > —  
 > Az arabok úgy gondolták, hogy negyven napos eltűnésük a nap sugaraiban nagy kárt okoz az emberiségnek.  
@@ -201,14 +201,14 @@ Ugyanez az araboknál, RHA könyvéből:
 ## Szófejtés
 
 Richard H. Allen Star Names című könyvében előjön, hogy a Pleiadok nevét a görög `plein` = hajózni szóból kívánták levezetni. (Merthogy a Pleiadok májusi heliákus kelése a nyitotta meg és késő őszi lemente vetett véget a hajózásnak.) Mások szerint a `pleos` = teljes, teli lenne a név eredete. Végül is megengedi, hogy **Pleione** volt a görög mitológiában a hét lánytestvér anyja, és csak róla kapta nevét. (Persze akkor mit jelent Pleione?)  
-RHA folytatja:  
+Richard H. Allen folytatja:  
 > Some of the poets, among them Athenaeus, Hesiod, Pindar, and Simonides, likening the stars to Rock-pigeons flying from the Hunter Orion, wrote the word Πελειάδες, which, although perhaps done partly for metrical reasons, again shows the intimate connection in early legend of this group with a flock of birds.  
 > —  
 > Néhány költő, köztük Athénéosz, Hésziodosz, Pindarosz és Szimonidész, a csillagokat az Orion vadászáról repülő sziklagalambokhoz hasonlítva, a Πελειάδες szót írta, ami, bár talán részben metrikai okokból, ismét azt mutatja, hogy a korai legendákban ez a csoport szoros kapcsolatban áll egy madárrajjal.  
 
-Márpedig Hetevény (Hét Háza a Fénynek) mellett magyar elnevezése valóban (bár újabb alkotásúnak mondott) Fiastyúk. RHA is említi (Grimm révén) a magyar elnevezéseket (Fiastik-et ír Fiastyúk helyett, mindezt ugye a 19. század végén), és felhozza, hogy a finneknél is Het'e wā'ne a neve, azaz Hetevénnyel egyező.  
+Márpedig Hetevény (Hét Háza a Fénynek) mellett magyar elnevezése valóban (bár újabb alkotásúnak mondott) Fiastyúk. Richard H. Allen is említi (Grimm révén) a magyar elnevezéseket (Fiastik-et ír Fiastyúk helyett, mindezt ugye a 19. század végén), és felhozza, hogy a finneknél is Het'e wā'ne a neve, azaz Hetevénnyel egyező.  
 
-RHA kissé lejjebb írja a következőket (anélkül, hogy tudná, hogy a Fiastik is ezt jelenti):  
+Richard H. Allen kissé lejjebb írja a következőket (anélkül, hogy tudná, hogy a Fiastik is ezt jelenti):  
 > A common figure for these stars, everywhere popular for many centuries, is that of a Hen with her Chickens, - another instance of the constant association of the Pleiades with flocking birds, and here especially appropriate from their compact grouping. Aben Ragel and other Hebrew writers thus mentioned them, sometimes with the Coop that held them, - the Massa Gallinae of the Middle Ages; these also appearing in Arabic folklore, and still current among the English peasantry. In modern Greece, as the Hen-coop, they are Πούλια or Πούλεια, not unlike the word of ancient Greece.  
 > —  
 > Ezeknek a csillagoknak egy gyakori, évszázadok óta mindenütt népszerű ábrája a tyúk a tyúkjaival – egy újabb példa a Plejádok állandó társítására a madarakkal, és itt különösen helyénvaló a kompakt csoportosulásuk miatt. Aben Ragel és más héber írók így említik őket, néha az őket tartó csordával együtt – a középkor Massa Gallinae-je; ezek az arab folklórban is megjelennek, és az angol parasztság körében még mindig aktuálisak. A modern Görögországban, mint a Tyúkól, Πούλια vagy Πούλεια, nem eltérően az ókori görög szavaktól.  
@@ -227,7 +227,7 @@ A könyv első kötetének 271. oldala alján még azt írja, hogy a [[S/Szümpl
 > —  
 > A Plejádok, a Nyitott Ajtó csillagai kb. i.e. 2250 körül hirdették a tavaszt.  
 
-Maradjunk a fenti szürkével kiemelt megoldásnál, hogy [[F/Fajd\|fajd]] szavunkból ered. Viszont mivel a [[F/Faj\|faj]] és [[F/Fajta\|fajta]] szavak is rokonok, kijelenthető lenne, hogy ez emberi faj eredete a Pleiadok, ahogy egyesek mondják (még PJI is említi, a Vega és más csillagok mellett)?  
+Maradjunk a fenti szürkével kiemelt megoldásnál, hogy [[F/Fajd\|fajd]] szavunkból ered. Viszont mivel a [[F/Faj\|faj]] és [[F/Fajta\|fajta]] szavak is rokonok, kijelenthető lenne, hogy ez emberi faj eredete a Pleiadok, ahogy egyesek mondják (még Péterfai János is említi, a Vega és más csillagok mellett)?  
 
 ## Lábjegyzetek
 

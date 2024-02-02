@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/MES/","title":"MES","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-21T04:46","updated":"2023-12-04T01:16"}
+{"dg-publish":true,"permalink":"/M/MES/","title":"MES","tags":["Englishtexttranslated"],"created":"2023-10-21T04:46","updated":"2024-02-02T03:21"}
 ---
 
 
@@ -12,14 +12,14 @@
 
 A két részre metszéssel adódnak ki a félévek urai, kikről [[O/Osiris és Set\|Osiris és Set]], [[M/Missera\|missera]] és [[N/Nephthys\|Nephthys]] címnél is volt szó.  
 Nem tartom elképzelhetetlennek, hogy (az [[A/Alter\|alter]] és [[O/Other\|other]] címnél taglalt idegen szavak elegyeként kezelt) An/Ó-Dár (magyarul a [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]] és [[D/Drug\|drug]] címnél is taglalt [[T/Társ\|társ]] szavunk) a mellékelt diagramban a Nagy Év egyik/másik félévét jelölő név lehetett: ahol a [[T/Tree\|tree]] = fa [[T/Tör\|tör]]i ketté a [[T/TER\|ter]]et, éppúgy ahogy a [[M/MISZ\|MISZ]]-es diagramon a mes-fa által két részre [[M/Metsz\|metsz]]ett (mesett) tér/mező egyik feléhez képest másik a [[M/Más\|más]]-ik.  
-De alterhez igen hasonló az [[A/Altar\|altar]] = oltár név is, és ahogy JM írja, az égen is látható egy "Oltár", az Ara (lat. "Áldozati asztal") csillagkép, mely a Tejút déli szakaszán látható, ott, ahol a Nap télen, "áldozata" idején tartózkodik.  
+De alterhez igen hasonló az [[A/Altar\|altar]] = oltár név is, és ahogy Jankovics Marcell írja, az égen is látható egy "Oltár", az Ara (lat. "Áldozati asztal") csillagkép, mely a Tejút déli szakaszán látható, ott, ahol a Nap télen, "áldozata" idején tartózkodik.  
 És ha már asztalról van szó, a [[M/MISZ\|MISZ]] címnél hozott perzsa `miz` = asztal is áldozati asztal lehetett, ahogy a [[D/Dolmen\|dolmen]] is az volt. (Sőt, az [[A/Altar\|altar]] címnél levő képen a négy sarok szarvat(!) formáz.)  
 
 #### Péterfai János írja:
 
 > [[G/Gilgames\|Gilgames]] nevét akkádnak minősítik, holott színmagyar név. A név helyesen Gil-Ga-Mes elemekből áll. Mind a három elem magyar szó, semmi köze az akkádokhoz, hacsak az akkádok nem magyarul beszéltek. Gil a Galamb egyik neve, lásd Gilice, ami galambot jelent, és a Gil becézése. A perzsa `Gil` szintén galamb, a perzsa szó kétségtelenül a magyar nyelvből ered, csak vessük össze a két nyelv létezésének idejét. A Ga egyértelműen Ház, a Mes Ifjú, mint a Mes-E szavunkban is. Ez a Galamb-Házi-Ifjú jelentés a hős galamb lelkű viselkedésére vonatkozik. Elsősorban édesanyja nevezte Gilnek, gyakran Gisnek.  
 > Az Ifjú szónak több változata van, mint Mesz, Mász, Mosz, Mes, Mis és egyebek.  
-- RHA könyvében Oroszlán csk. [[R/Regulus\|Regulus]] csillagánál írja, hogy a turáni népeknél `Masu` = [[H/Hős\|hős]] volt a neve. PJI-nél is az Ifjú és Hős jelentések keverednek, de keletkezés jelentéssel is adatolják e szavakat. <br/>
+- Richard H. Allen könyvében Oroszlán csk. [[R/Regulus\|Regulus]] csillagánál írja, hogy a turáni népeknél `Masu` = [[H/Hős\|hős]] volt a neve. Péterfai Jánosnál is az Ifjú és Hős jelentések keverednek, de keletkezés jelentéssel is adatolják e szavakat. <br/>
 Lásd még fiú jelentések kapcsán [[M/MAS\|MAS]] és [[M/Más\|más]], valamint [[M/Mózes\|Mózes]].
 
 Ezek alapján MES jelentése [[M/MISZ\|MISZ]]-hez is hasonló(an ifjú, fiú jelentésű), de Gavin White Babylonian Star Lore című könyvének adata szerint MES egyszerűen többes számot jelöl:  

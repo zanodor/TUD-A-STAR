@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelv sajátosságai, gazdagsága/","title":"Magyar nyelv sajátosságai, gazdagsága","created":"2023-12-14T12:40","updated":"2023-12-14T12:40"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelv sajátosságai, gazdagsága/","title":"Magyar nyelv sajátosságai, gazdagsága","created":"2023-12-14T12:40","updated":"2024-02-02T03:22"}
 ---
 
 
@@ -13,4 +13,4 @@ Ha a magánhangzók jelentéseit feltártuk, akkor a két hangból álló szavak
 > A magyar nyelv szókincse irdatlanul nagy. Szinte minden falu népe saját nevekkel illette a növényeket, amire sok bizonyítékunk van. Ha csak 5.000 lakott területet veszünk alapul, amely népe csak 500 növénynevet alkotott saját szükségletére, akkor ez a szám 2,5 millió növénynév. De ennél a számnál bizonyosan sokkal nagyobb volt a magyar nyelvben a növénynevek száma. Talán kezdjük megérteni a magyar nyelv szókincsének gazdagságát?  
 - Lásd felépítésükről [[E/Etymon\|etimon]]. Lásd meg a [[M/Magyar ősnyelv szótagnyelv\|magyar ősnyelv szótagnyelv]] címet.  
 
-Magyar Adorján "törzsek" szerinti rendszerezése is mutatja, hogy egy bizonyos szó állhat például T-M alapú szóból és ezzel megegyező jelentésű lehet B-R alapú is, attól függően, hogy melyik törzsről van szó. A temet szavunk például angolban [[B/Bury\|bury]], de azt kell hinni, hogy létezett olyan magyar szó, ami a bury-vel egyező vagy hozzá hasonló (burít). PJI állítása ill. utalása szerint is, a magyar több tíz millió szavas szókincssel rendelkezhet (elég csak a temérdek növénynévre gondolni).  
+Magyar Adorján "törzsek" szerinti rendszerezése is mutatja, hogy egy bizonyos szó állhat például T-M alapú szóból és ezzel megegyező jelentésű lehet B-R alapú is, attól függően, hogy melyik törzsről van szó. A temet szavunk például angolban [[B/Bury\|bury]], de azt kell hinni, hogy létezett olyan magyar szó, ami a bury-vel egyező vagy hozzá hasonló (burít). Péterfai János állítása ill. utalása szerint is, a magyar több tíz millió szavas szókincssel rendelkezhet (elég csak a temérdek növénynévre gondolni).  

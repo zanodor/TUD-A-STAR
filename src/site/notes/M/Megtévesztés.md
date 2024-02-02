@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2023-12-30T08:30"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2024-02-02T03:27"}
 ---
 
 
@@ -86,7 +86,7 @@ A másik eszköz a [[P/Politikai korrektség\|politikai korrektség]] fogalma é
 Mondja még KT a PC-t bunkósbotnak, vállalhatatlan modorosságnak is.  
 
 Az [alábbi](https://youtu.be/6q18nmOojWY) Szent Korona fény nélkül című VNTV adásban Facsar Imre 8:40-nél mondja, hogy a szkíta evangéliumból zsidó evangéliumot csináltak, viszont amíg előbbi a szabadságra, a zsidók mózesi törvényei a zsarnokságra alapul. A kettő pedig nem összeegyeztethető. A megtévesztés egyik eszköze a szemben álló dolgokat egylényegűnek mondani.  
-Itt jut eszembe KT egyik ÁKTV műsorának azon mondása (de [[P/Politikai korrektség\|politikai korrektség]] 4. pont alatt is erről volt szó), hogy ami ma megy, az vélemények ütköztetése (például Habsburgok kapcsán, valakik szerint milyen jó volt a magyarságnak). Elsikkad az igazság és annak megkeresésének vágya, csak a félrebeszélés működik. Ezt a Quorán is megírtam a minap:  
+Itt jut eszembe Kubínyi Tamás egyik ÁKTV műsorának azon mondása (de [[P/Politikai korrektség\|politikai korrektség]] 4. pont alatt is erről volt szó), hogy ami ma megy, az vélemények ütköztetése (például Habsburgok kapcsán, valakik szerint milyen jó volt a magyarságnak). Elsikkad az igazság és annak megkeresésének vágya, csak a félrebeszélés működik. Ezt a Quorán is megírtam a minap:  
 > There is no sense of truth and untruth today in the minds of people, they see only differences in opinion. And while they are bogged down in important matters brought down to the level of pub quiz seriousness, important decisions are being made over their heads (with their consent and voting power).  
 > —  
 > Az emberek fejében ma már nincs meg az igazság és valótlanság érzete, csak a véleménykülönbségeket látják. És miközben a kocsmai kvíz-vetélkedő komolyságának szintjére süllyesztett fontos ügyekben vergődnek, a fejük felett (beleegyezésükkel és szavazati jogukkal) fontos döntéseket hoznak.  
@@ -125,10 +125,10 @@ KT is egy műsorában saját maga írásából olvassa fel: a közvéleménynek 
 
 [[F/Fascism\|Fascism]] címnél a bolsevizmus és fasizmus egy-gyökerűségéről volt szó; azok sem ellentétek.  
 Ugyanígy látszólagos ellentét van a politikai [[B/Bal és jobb\|bal és jobb]] oldal között, ahogy ott külön alcím alatt foglalkoztunk is vele.  
-Az [alábbi](https://youtu.be/WsxN4DyIXMw) Ne Legyen Áldozatos videóban PG 9:53-nál szól röviden arról, hogy a valódi útra keresztben lefektetett [[B/Bal és jobb\|bal és jobb]] címnél is taglalt ál-ellentétekre építettek régen és ma is. A háttérhatalom tehát úgy gondolkodik, hogy mindig kettőben kell fellépni és úgy kell tenni (elhitetni), hogy mintha állandóan egymást támadnák. PG itt a Fugger és Medici féle bankházakról beszélt (igaz, megjegyzi, hogy ezek valóban versengtek is egymással és majd tulajdonképpen ugyanazt a képet festi le, mint Facsar Imre, a református és katolikus szétválasztódással kapcsolatosan is).  
-Amiről PG nem beszél, hogy ennek a látszólagos ellentét-párnak a gyökerei is az évkör két, fényes és sötét kategóriáiban keresendők.  
+Az [alábbi](https://youtu.be/WsxN4DyIXMw) Ne Legyen Áldozatos videóban Pap Gábor 9:53-nál szól röviden arról, hogy a valódi útra keresztben lefektetett [[B/Bal és jobb\|bal és jobb]] címnél is taglalt ál-ellentétekre építettek régen és ma is. A háttérhatalom tehát úgy gondolkodik, hogy mindig kettőben kell fellépni és úgy kell tenni (elhitetni), hogy mintha állandóan egymást támadnák. Pap Gábor itt a Fugger és Medici féle bankházakról beszélt (igaz, megjegyzi, hogy ezek valóban versengtek is egymással és majd tulajdonképpen ugyanazt a képet festi le, mint Facsar Imre, a református és katolikus szétválasztódással kapcsolatosan is).  
+Amiről Pap Gábor nem beszél, hogy ennek a látszólagos ellentét-párnak a gyökerei is az évkör két, fényes és sötét kategóriáiban keresendők.  
 Ami a keresztirányú lefeketést (vonalat) illeti, erről volt szó [[K/Kereszt\|kereszt]] címnél is, hogy mit is jelképez, a halál vonalát:  
-Ahogy [[B/Bal és jobb\|bal és jobb]] címnél PG adatai alapján is láttuk, a jó és rossz nem ezen a halálvonalon helyezkedik el. A két rossz (mely közül az egyik mindig jónak van beállítva) van ezen a síkon/vonalon, és ezek felett, a függőlegesen, annak tetején van a jó.  
+Ahogy [[B/Bal és jobb\|bal és jobb]] címnél Pap Gábor adatai alapján is láttuk, a jó és rossz nem ezen a halálvonalon helyezkedik el. A két rossz (mely közül az egyik mindig jónak van beállítva) van ezen a síkon/vonalon, és ezek felett, a függőlegesen, annak tetején van a jó.  
 
 [Ezen](https://www.youtube.com/watch?v=oNULoLMuX8w) Ne Legyen Áldozatos videóban 14:20-nál úgy fogalmaz, hogy a hazugság nem az igazsággal szemben fogalmazódik meg, hanem ahhoz képest derékszögben (használja korábban a lólépés kifejezést is), de a gond az (a csalók leleplezésénél), hogy nem tudjuk, hogy hol tért le az útról. Ha szembe hazudna, könnyebb lenne, mert ugyanazon a pályán vagyunk, szembe jönne, egyszerűbb is lenne.  
 [Ezen](https://youtu.be/I58ziLg1GZc) Szántai Lajos Mágusok című 2012-es négyrészes előadássorozat 1. rész című videóban 43:30-nál mesemotívumainkat elemezve mondja SZL, hogy a mesékben a [[S/Sárkány\|sárkány]] szemtől-szembe harcol ("gyere ki a szérűre, birkózzál meg velem"), míg a [[B/Boszorkány\|boszorkány]] mindig máshonnan, valamilyen sötét, élettelen helyről (a fa tetején gubbaszt példájáról az [[E/Észak\|észak]] jut eszembe). \[Folytatást lásd [[V/Vízi Péter és Vízi Pál mese\|Vízi Péter és Vízi Pál mese]].\]  
@@ -139,7 +139,7 @@ De éppen [[B/Bal és jobb\|bal és jobb]] címnél szerepelt ...
 
 ...alábbi passzusa is (a 2006. augusztus 7-11-ig tartott XI. Magyar Őskutatási Fórumról az Ősi Gyökér 2006/3. számában számolnak be; e cikkben szerepel Pap Gábor előadásának összefoglalója (teljességében lásd [[T/Tudomány\|tudomány]] címnél); onnan való):  
 > A két agyféltekénk működésével világította meg az ember különleges képességét, mely szerint nemcsak a realitások regisztrálására vagyunk képesek (bal agyfélteke), hanem az érzékelhető világon túli rezgések, jelek, képek, üzenetek és ismeretek felfogására is (jobb agyfélteke). Ha csak az egyik oldalt, a kézenfekvőt, az evilágit szolgáljuk, elveszítjük a lelki, szellemi szabadságunkat, a független gondolkodásmódunkat, s a tudományosság nagyképűségével leplezett szolgai állapotba süllyedünk. Ez az út vezette az akadémiát a magyartalanítás vonalára. Ez a magyartalanító módszer nem szemtől szembenállva működik, hanem lóugrásszerűen. A hazugság ellentéte ugyanis nem az igazság, hanem egy ellentétes tartalmú hazugság.  
-> Ahogy PG mondja több előadásában: beöltöztetnek minket két tábort képviselően két színbe és megvárják, amíg lövünk egymásra (kér minket: "ne lőjünk egymásra!").  
+> Ahogy Pap Gábor mondja több előadásában: beöltöztetnek minket két tábort képviselően két színbe és megvárják, amíg lövünk egymásra (kér minket: "ne lőjünk egymásra!").  
 
 A bilaterális technika már többször szóba került. [[F/Finnugor elmélet\|Finnugor elmélet]] címnél is, hogy "választhatsz a szamojéd/mansi vagy török eredet között." Vagy amikor egy (talán Christopher Hutton Linguistics and the Third Reich – Mother Tongue Fascism, Race and the Science of Language című) könyvben nyelvészeti alapon lefektetik, hogy a világegyetem vagy indogermán, vagy zsidó, de legalábbis ezen két félből állhat. A politikai választhatsz bal és jobb oldalból témáról volt szó.  
 Itt még csak a tudományos/vizsgálati vonal kapcsán arról, hogy hogyan járnak el.  
@@ -191,11 +191,11 @@ KT számtalanszor elmondja (legutóbb Marosvásárhely magyar de Hit Gyülekezet
 
 ## Figyelemelterelés – red herring
 
-A KT egyik műsorában bejátszott Dr. Bardócz Zsuzsanna biokémikus által bemutatott, angolul red herring-nek nevezett módszer a figyelemelterelés módszere. Ha van valami komoly problémánk vagy egy nagyon jó megoldásunk, amiről nem akarják, hogy az emberek tudjanak és beszéljenek, akkor bevezetnek egy álproblémát, vagy egy kisebb jelentőségű problémát, és egy álmegoldást, vagy csak egy részmegoldást ajánlanak fel, és hagyják, hogy erről beszéljenek, vitatkozzanak az emberek. Így aztán mindig el tudják érni a céljukat: az információ eltussolása (lásd *elhallgatás*), vagy az emberek gondolkodásmódjának megváltoztatása.  
+A Kubínyi Tamás egyik műsorában bejátszott Dr. Bardócz Zsuzsanna biokémikus által bemutatott, angolul red herring-nek nevezett módszer a figyelemelterelés módszere. Ha van valami komoly problémánk vagy egy nagyon jó megoldásunk, amiről nem akarják, hogy az emberek tudjanak és beszéljenek, akkor bevezetnek egy álproblémát, vagy egy kisebb jelentőségű problémát, és egy álmegoldást, vagy csak egy részmegoldást ajánlanak fel, és hagyják, hogy erről beszéljenek, vitatkozzanak az emberek. Így aztán mindig el tudják érni a céljukat: az információ eltussolása (lásd *elhallgatás*), vagy az emberek gondolkodásmódjának megváltoztatása.  
 
 Új probléma/vizsgálati elem fókuszba állítása (arrébbcsúsztatás), figyelemelterelés témájában [ezen](https://youtu.be/XPS5kTZiiZM) Ne Legyen Áldozatos Szent István király uralkodása 4. rész című videóban Pap Gábor is szól.  
 Szent István koronázási palástjáról szólva 17:00 után említi az egyik (az országalmát tartó – valójában nem tartja, az a kéz felett lebeg) kéz kapcsán, hogy az elemzők szerint mintha 6 ujja lenne egyik kezén: beültetik az emberek számára, hogy akkor az egész témában ez legyen a legfontosabb rész: hogy táltoskirály volt! Holott valójában utólag hímeztek bele (hamisították a palástot).  
-Ez a taktika: innentől kezdve már senkit nem érdekel, hogy hamisítvány, tehát hogy áthímezték, hanem "ez táltos volt, táltos király volt!" Kihúztam a problémát az eredeti medréből, és itt már csak egy másik problémán engedem, hogy a diskurzus folytatódjék; így tudják a figyelmet máshová irányítani. Itt elmondja PG az alábbi székely viccet is illusztráció gyanánt (nála nem teljesen így szerepel, de ez most mindegy):  
+Ez a taktika: innentől kezdve már senkit nem érdekel, hogy hamisítvány, tehát hogy áthímezték, hanem "ez táltos volt, táltos király volt!" Kihúztam a problémát az eredeti medréből, és itt már csak egy másik problémán engedem, hogy a diskurzus folytatódjék; így tudják a figyelmet máshová irányítani. Itt elmondja Pap Gábor az alábbi székely viccet is illusztráció gyanánt (nála nem teljesen így szerepel, de ez most mindegy):  
 *Öreg székely és a fia üldögélnek a szobában. Egyszer a fiú iszonyat büdöset érez:  
 – Idesapám, Kend fingott?  
 – A bodri vót az!  
@@ -204,7 +204,7 @@ A fiú szétnéz.
 – Majd begyün!*  
 Adva van egy probléma. Először egy aránylag könnyen cáfolható állítást melléteszek, ő megörül, hogy cáfolni tudja (nincs bent az állat) – innen már senki nem beszél a pukkról, csak az állatról, mellyel kapcsolatban azzal zárja le, hogy majd csak begyün.  
 Elmondja, hogy ezzel etetnek (ezzel a taktikával találkozunk) nap mint nap.  
-Itt még PG kitér (nagy vonalakban, nem egyértelműen szólva; itt már én kiegészítve adom) a Covid-járványra, hogy az eredeti kínos problémát (lehet gazdasági válság illetve túlnépesedés, stb.) elhallgatom \[lásd még *elhallgatás*\], abba a mederbe terelem a diskurzust, hogy van-e vírus, vagy nincs vírus (innentől kezdve a probléma nem is kerül az asztalra), akkor ha ez is kínossá válik, akkor tolom tovább (segít-e a vakcina), stb. Így lehet mindig egy újabb témával foglalkozni úgy, hogy már régen senki sem tudja, hogy mi is volt a legelején.  
+Itt még Pap Gábor kitér (nagy vonalakban, nem egyértelműen szólva; itt már én kiegészítve adom) a Covid-járványra, hogy az eredeti kínos problémát (lehet gazdasági válság illetve túlnépesedés, stb.) elhallgatom \[lásd még *elhallgatás*\], abba a mederbe terelem a diskurzust, hogy van-e vírus, vagy nincs vírus (innentől kezdve a probléma nem is kerül az asztalra), akkor ha ez is kínossá válik, akkor tolom tovább (segít-e a vakcina), stb. Így lehet mindig egy újabb témával foglalkozni úgy, hogy már régen senki sem tudja, hogy mi is volt a legelején.  
 Azzal is ki lehet egészíteni, hogy akkor véletlenül vagy szándékosan szabadult el a vírus a wuhani laborból? Amíg ezen megy az adok-kapok, addig megfeledkeznek arról, hogy 1) Chemtrail mérgezés áldozatai 2) 5G rádiósugárzás áldozatai vagyunk (és még ezen kettőről sem tudjuk, melyik, de akár a második felerősíti az elsőt).  
 
 ## Elhallgatás – létezést tagadás
@@ -256,7 +256,7 @@ Marácz László [ezen](http://www.magtudin.org/Maracz%20L.%20Untenability%20of%
 > Thúry József egyenesen azt állította – jegyzi meg Pusztay -",... hogy Budenz József finnugor rokonsági teóriája a priori született, s a Magyar-Ugor Összehasonlító Szótárban ehhez az elmélethez próbálta összeszedni a bizonyítékokat. Hogy mennyire eredménytelenül, annak bizonyítására – sok tévedése mellett – néhány valóban nem helytálló etimológiát is kipécézett: bízni...; beteg...; idő." (id. m. 106. old.)  
 > Ehhez az idézethez feltétlenül megjegyzendő, hogy minden jel arra mutat, Budenzék elmélete a magyar nyelv finnugor származásáról (nem rokonságáról, mint Pusztay megtévesztő célzattal írja) valóban *a priori* fogant, mert bizonyítható – akkor is és ma is – csak a rokonság ténye volt, de nem nyelvünk finnugor eredete. Ezt az igen lényeges körülményt azonban Pusztay ismét csak jobbnak látja elhallgatni. Arról sem beszél, hogy a valóban komoly kutatók ellenállását éppen ez a bizonyíthatatlan, s a legnagyobb mértékben valószínűtlen a priori finnugor származtatási elmélet váltotta ki, nem pedig nyelvünk finnugor rokonságának állítása.
 
-Igen, számomra is megfogalmazódott, hogy a célnak megfelelően kotorják össze a "bizonyítékokat" a különböző tudományokban (a logikai lánc elemei tetszőlegesen illeszthetők). Azaz a GL által felismert jelenség tágabb, mondhatni egyetemes/abszolút közegben alkalmazott – a Sátán eljárása/tudománya ez.  
+Igen, számomra is megfogalmazódott, hogy a célnak megfelelően kotorják össze a "bizonyítékokat" a különböző tudományokban (a logikai lánc elemei tetszőlegesen illeszthetők). Azaz a Götz László által felismert jelenség tágabb, mondhatni egyetemes/abszolút közegben alkalmazott – a Sátán eljárása/tudománya ez.  
 
 ### Kettős játszma
 
@@ -300,7 +300,7 @@ A (lengyel Dorothea nevű nyelvésszel folyamatos vitaalapot képező) proto-szl
 ## Fake news (álhírek)  
 
 Kitalációnak tartott hírek, ezeket tartalmazó videók, publikációk az álhír kategóriájába tartoznak. Valójában az igazi fake news az, amit legalább a Biblia hamisítása óta ők maguk terjesztenek, kimondottan az írott és digitális sajtó elterjedése óta.  
-Arról is kell szólni, hogy a hírhez képest a tény lenne az, amivel foglalkozni kellene, PG szerint is.  
+Arról is kell szólni, hogy a hírhez képest a tény lenne az, amivel foglalkozni kellene, Pap Gábor szerint is.  
 
 ## Fact-checking (tény-ellenőrzés)
 
@@ -317,7 +317,7 @@ A sztárok közé tartoznak az internetes/instagramos "influencer"-ek, melyek ne
 ## Erőszakkal vagy kényszerítés által "elfogadtatás"
 
 Ha valamit erőszakkal rákényszerítenek egy népre, azt jelenti, hogy ellenálltak vagy korábban valamilyen más, azon ideológiát helyettesítő (vagy annál erkölcsileg magasabb rangú) nézetrendszerrel bírtak (a magyarok).  
-[Ezen](https://www.youtube.com/watch?v=Xkk8F2gaFPs) Ne Legyen Áldozatos videóban PG 8:45-nél mondja (adja szájába rabtartóinknak):  
+[Ezen](https://www.youtube.com/watch?v=Xkk8F2gaFPs) Ne Legyen Áldozatos videóban Pap Gábor 8:45-nél mondja (adja szájába rabtartóinknak):  
 > "Ti magyarok mindig olyan idióták voltatok, hogy a legelemibb értékeiteket is csak fegyverrel lehetett rátok kényszeríteni."  
 
 ## Ideológia, felfogás rákényszerítése és annak ellentételeztetése
@@ -381,7 +381,7 @@ Lásd [[I/Igazság és gazság#Igazmondók-e az igazmondók?\|igazmondók-e az i
 
 Ahogy friss műsoraiban KT is felhozza, a hazug ember felveszi az igazat mondó stílusjegyeit: szembe nézés, stb. Az igazmondó juhász szerepében megmutatkozó Jakab Péter jobbikos miniszterelnök-jelölt kapcsán is elmondja, hogy a Fideszt tolvajoknak bizonyító képviselő még rosszabb, sátáni programot hozna el Gyurcsány oldalán. Minden egy sátáni színjáték része. A legnagyobb megtévesztés az egészben az, hogy embereknek gondoljuk a politikusainkat és az utca emberét, stb. A legtöbb esetben a gonosz bőrébe bújókról vagy zombikról/biorobotokról van szó.  
 
-#### GYÁ írja egy cikkében:
+#### Gyárfás Ágnes írja egy cikkében:
 
 > A Gonosz emberré változtatja magát, méghozzá Úri emberré, hogy minél vonzóbb legyen. (Pénz, bankbetét, kocsi, izomkolosszus.) A babiloni megromlott világ tele van álemberekkel, akik lélekben és erkölcsben leállatiasodtak.  
 

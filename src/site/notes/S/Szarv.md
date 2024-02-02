@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2024-01-30T10:10"}
+{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2024-02-02T03:46"}
 ---
 
 
@@ -24,7 +24,7 @@ Többször utaltunk rájuk amolyan kozmikus (isteni igét, szellemiséget fogni 
 #### Pap Gábor...
 
 ...megkülönbözteti az [[A/Agancs\|agancs]]ot a szarvaktól abban, hogy a bivaly-, bika-, ökör-, tülök- stb. szarvak behúzzák az energiát, az agancsok pedig kifelé sugároznak. Mindkettő a Tejút energiáival gazdálkodik.  
-Ha elfogadjuk PG szarvas agancs és a Tejútrendszer közti megfeleltetésre vonatkozó megállapításait, akkor ezekből már következik a tűz-villám-csillagok-agancs kapcsolat is. Sőt ahogy a [[K/Korona\|korona]] és a glória is fényt sugárzáshoz, a fényáradathoz kapcsolódik, úgy az [[A/Agancs\|agancs]] is.  
+Ha elfogadjuk Pap Gábor szarvas agancs és a Tejútrendszer közti megfeleltetésre vonatkozó megállapításait, akkor ezekből már következik a tűz-villám-csillagok-agancs kapcsolat is. Sőt ahogy a [[K/Korona\|korona]] és a glória is fényt sugárzáshoz, a fényáradathoz kapcsolódik, úgy az [[A/Agancs\|agancs]] is.  
 
 #### Molnár V. József...
 
@@ -94,7 +94,7 @@ Amiről nem volt szó, az konkrétan a szaporító szervrendszer. Figyeljük meg
 [[K/Kürt\|Kürt]] címnél volt szó a szarvval azonos jelentésről.  
 > Méhkürt: A méhből kétoldalt kiinduló, 12 cm hosszú, hullámos lefutású, üreges nyúlványok, más néven petevezetékek, melyek a szabad hasüregbe nyílnak a petefészkek közelében. Amikor egy érett petesejt kiszabadul valamelyik petefészekből, e két vezeték valamelyikébe kerül, hogy eljusson a méhüregbe.  
 
-Ha ezen képeken látott formát összehasonlítjuk a [[L/Lily\|liliom]] (lásd a heraldikában a [[F/Fleur de lis\|fleur de lis]] címert) és (a kiindulónak tekintendő) [[T/Tulipán\|tulipán]] formákkal, kirajzolódik előttünk egy tágabb kép (melyet kibontva GYÁ adataival lásd még lentebb).  
+Ha ezen képeken látott formát összehasonlítjuk a [[L/Lily\|liliom]] (lásd a heraldikában a [[F/Fleur de lis\|fleur de lis]] címert) és (a kiindulónak tekintendő) [[T/Tulipán\|tulipán]] formákkal, kirajzolódik előttünk egy tágabb kép (melyet kibontva Gyárfás Ágnes adataival lásd még lentebb).  
 ![assets/Szarv_image5.jpeg](/img/user/S/assets/Szarv_image5.jpeg)  
 Ami pedig fantasztikus (és ezt hónapokkal később ismerem fel), hogy a latinban is éppen **cervix** névvel rögzítették (csak ott nyakat jelent és a szarvak alatt helyezkedik el).  
 Az ötletet egyébként a torontói egyetem hallgatójának...  
@@ -176,7 +176,7 @@ Ami érdekes lehet tőle:
 
 Viszont azt tudni kell, hogy [[P/Pán\|Pán]] nem a Kossal, hanem a Bakkal hozatott kapcsolatba. Az tény, hogy szarvak itt és ott is vannak.  
 Aztán a cikkíró megkér minket, nézzük meg a Kos jelét, hogy mire emlékeztet minket. Valóban az általa is említett Istennőre, annak méhére (és még ahogy írja, a menstruális ciklusra) utal.  
-A Kos/szarv jel tehát együttesen jelezheti, hogy Napfiú ezen a MA által is [[N/Nász\|nász]]ünnepélynek tartott március 21.-i tavaszi napéjegyenlőségi napon fogan meg (hogy 9 hónap múlva a Napfiú megszülethessen): az MVJ könyvében kettős-spirál néven is nevezett Kos/szarv jel ezen felfelé álló [[F/Fleur de lis\|fleur de lis]] szerű állapotában nőiségi (szaporító szervrendszer) jelképként ([[K/KUS\|KUS]] = tűz, ahogy [[V/Vulva\|vulva]] a Tejútközpontban is a [[T/Tűz\|tűz]]es lába köze az istennőnek) mutatkozik, viszont fejjel lefelé nézve egy hímtagot formázna a két monnyal. Azaz visszatérünk a fentebbi "a hím és női ivarszervek egymás inverzei" kérdéshez. Az [[E/Egy\|egy]] címnél taglalt egyháromság témához így tehetőek az alábbiak:  
+A Kos/szarv jel tehát együttesen jelezheti, hogy Napfiú ezen a MA által is [[N/Nász\|nász]]ünnepélynek tartott március 21.-i tavaszi napéjegyenlőségi napon fogan meg (hogy 9 hónap múlva a Napfiú megszülethessen): az Molnár V. József könyvében kettős-spirál néven is nevezett Kos/szarv jel ezen felfelé álló [[F/Fleur de lis\|fleur de lis]] szerű állapotában nőiségi (szaporító szervrendszer) jelképként ([[K/KUS\|KUS]] = tűz, ahogy [[V/Vulva\|vulva]] a Tejútközpontban is a [[T/Tűz\|tűz]]es lába köze az istennőnek) mutatkozik, viszont fejjel lefelé nézve egy hímtagot formázna a két monnyal. Azaz visszatérünk a fentebbi "a hím és női ivarszervek egymás inverzei" kérdéshez. Az [[E/Egy\|egy]] címnél taglalt egyháromság témához így tehetőek az alábbiak:  
 Ahhoz, hogy a nemzés létrejöhessen, a(z egymás inverzének is felfogható) férfi és női nemi szervek háromságának megfelelően kell működnie. A férfinél nem elég a pénisz (annak is erekt állapota), ha nem működik a hormontermelés (herék). A nőnél a petefészek hasonló fontosságú. A két szervrendszer egyháromsága együtt hozza létre az életet. (Arról pedig több helyen volt szó, hogy a magyar-hun azaz [[H/Hunor és Magor\|Hunor és Magor]] rendszerben a hunok a nemzésért, magyarok a szülésért felelősek.)  
 
 #### Pető Imre Nimród és fiai...

@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szikla/","title":"Szikla","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-29T05:00","updated":"2023-10-29T05:00"}
+{"dg-publish":true,"permalink":"/S/Szikla/","title":"Szikla","tags":["Englishtexttranslated"],"created":"2023-10-29T05:00","updated":"2024-02-02T03:47"}
 ---
-
-
 
 
 # Szikla
@@ -23,7 +21,7 @@ A [[K/Kufu\|Kufu]] piramis is lényegében egy ilyen szikla, csak sokkal "többe
 
 Amiről viszont nem szó, hogy a szikla hegy-alakját tekintve utalhat a nyári napfordulós kulminációs pontra, melyről [[S/Sacchar-\|sacchar-]] címnél is volt szó. Lám, az ott említett tamil `szigaram` = hegycsúcs szóban (szikaram-ként írják de inkább g-sen ejtik; az -am a végéről megint csak lenyisszandó) szóban is ezt a szóformát látjuk.  
 
-De ha már napforduló szóba került, Szik-La lehetne még a [[C/Charybdis\|Charybdis]] címnél talált info szerint, PJI adata szerint **Szűk-La olvasat**tal akár, itt már a téli napfordulós Nyilasban tartózkodó Nap helyére, a Tejútra/Tejútfaistennőre utaló is (annál is inkább mert ...
+De ha már napforduló szóba került, Szik-La lehetne még a [[C/Charybdis\|Charybdis]] címnél talált info szerint, Péterfai János adata szerint **Szűk-La olvasat**tal akár, itt már a téli napfordulós Nyilasban tartózkodó Nap helyére, a Tejútra/Tejútfaistennőre utaló is (annál is inkább mert ...
 
 John Major Jenkins Galactic Alignment című könyvének 158. oldalán az alant előjövő [[S/Szümplegádok\|szümplegádok]]at Coomaraswamy adatát követve északi kapura vonatkozó helyre értve hozza (annak mondjuk a másutt általa is délinek mondott Nyilasban kell lennie).  
 
@@ -48,14 +46,14 @@ Jankovics Marcell A Nap könyve című könyvének szól a gnomónokról.
 > Nemcsak kőszirt, hanem élőfa is lehetett természet adta gnómon. A fák a "nézők" sok-sok nemzedékét kiszolgálhatják, bár nem halhatatlanok, s hogy fontos szerepet játszhattak a csillagászati mérésekben, arra a [[F/Fa\|fa]] és a Nap (valamint a többi égitest) szoros és eleven hiedelmi kapcsolatából következtethetünk. Fa tövén kelő, fa ágai közt lebegő Nap képével minden műveltségben találkozunk. Megtaláljuk szibériai sámándobon (27. rajz), japán selyemfestményen, kínai írásjelen, egyiptomi bronzedényen, mexikói kódex-miniatúrán, a keresztény művészetben, a népművészetben, egyszóval mindenütt. Százszámra idézhetnénk a fa-Nap kapcsolat szöveges példáit.  
 - Lásd ezeket A fa mitológiájából kimásolva [[F/Fa\|fa]], [[F/Fa és nő\|fa és nő]], [[N/Nut\|Nut]] és [[T/Tejút\|Tejút]].  
 
-Ami még JM-től ide tehető:  
+Ami még Jankovics Marcelltől ide tehető:  
 > Az ún. szümplegád-motívum minden nép mitikus-mesei hagyományában föllelhető, és lényegében mindenütt ugyanazt is szimbolizálja: a halál és az (újjá)születés terein való áthaladás nehézségeit, aminek minden, ami "él": a kozmikus "élőlények", így a Nap is ki van téve. A példa ezért azt is kifejezi, hogy az ősműveltség, rétegzettségében jelentésének gazdagságában is kiterjedtebb, mint az egzaktságra törekvő újabb kori gondolkodás. A szümplegádok a vándorló hős (lélek, ős, Nap) útjában álló, nyíló-csukódó sziklák, amelyeken egyebek mellett az égen a Tejút ágait értették, a földön a nő férfit átkapcsoló, születő gyermekének utat engedő combjait, s amelyeket az eszkimó a kajakját összeroppantó jégtáblákhoz hasonlít, a görög Argó-mítosz a Boszporusz szikláinak nevez, a magyar és török népmesékben vagy mint egy óriás állkapocs alsó és felső fogsora vagy hegymélyi kincseskamra nyíló-csukódó ajtaja szerepel. Szibériai népek a vasból szőtt égsátor föl- s lebillenő szegélyeként emlegetik, vagy az átkelőhelyen bunkójával csapkodó vak emberként írják le, akit látó, de kezetlen társa irányít. És tudták is, miről beszélnek: a szümplegádokat az ógörög szerző, KALLIMAKHOSZ (az ég) ,"sötétkék szikláinak", az ausztrál őslakók a "Tejút tüzes, legördülő szikláinak" nevezik.  
 
 A James Frazer The Golden Bough című könyvében előjövő bennszülött ausztrál gyakorlat is ilyen példának hozható fel:  
 > South African natives, in travelling, will put a stone in a branch of a tree or place some grass on the path with a stone over it, believing that this will cause their friends to keep the meal waiting till their arrival. In these, as in previous examples, the purpose apparently is to retard the sun. But why should the act of putting a stone or a sod in a tree be supposed to effect this? A partial explanation is suggested by another Australian custom. In their journeys the natives are accustomed to place stones in trees at different heights from the ground in order to indicate the height of the sun in the sky at the moment when they passed the particular tree. Those who follow are thus made aware of the time of day when their friends in advance passed the spot.  
-> Possibly the natives, thus accustomed to mark the sun's progress, may have slipped into the confusion of imagining that to mark the sun's progress was to arrest it at the point marked. 
+> Possibly the natives, thus accustomed to mark the sun's progress, may have slipped into the confusion of imagining that to mark the sun's progress was to arrest it at the point marked.  
 > —  
-> A dél-afrikai bennszülöttek utazáskor egy követ tesznek egy faágba, vagy egy kis füvet raknak az útra, amely fölé egy követ helyeznek, mert úgy vélik, hogy ez arra készteti a barátaikat, hogy az étellel megvárják az érkezésüket. Ezekben, akárcsak az előző példákban, a cél nyilvánvalóan a nap késleltetése. De miért kellene azt feltételezni, hogy egy kő vagy egy gyepszőnyeg fára helyezése ezt eredményezi? Részleges magyarázatot ad erre egy másik ausztrál szokás. A bennszülöttek utazásaik során szoktak köveket helyezni a fákba a földtől különböző magasságban, hogy jelezzék, milyen magasan áll a nap az égen abban a pillanatban, amikor az adott fa mellett elhaladnak. Az utánuk jövők így értesülnek arról, hogy az előttük haladó barátaik mikor haladtak el az adott ponton.
+> A dél-afrikai bennszülöttek utazáskor egy követ tesznek egy faágba, vagy egy kis füvet raknak az útra, amely fölé egy követ helyeznek, mert úgy vélik, hogy ez arra készteti a barátaikat, hogy az étellel megvárják az érkezésüket. Ezekben, akárcsak az előző példákban, a cél nyilvánvalóan a nap késleltetése. De miért kellene azt feltételezni, hogy egy kő vagy egy gyepszőnyeg fára helyezése ezt eredményezi? Részleges magyarázatot ad erre egy másik ausztrál szokás. A bennszülöttek utazásaik során szoktak köveket helyezni a fákba a földtől különböző magasságban, hogy jelezzék, milyen magasan áll a nap az égen abban a pillanatban, amikor az adott fa mellett elhaladnak. Az utánuk jövők így értesülnek arról, hogy az előttük haladó barátaik mikor haladtak el az adott ponton.  
 > Lehetséges, hogy a bennszülöttek, akik így szokták meg a nap járását jelölni, abba a tévhitbe estek, hogy a nap járásának jelölése azt jelenti, hogy megállítják a napot a megjelölt ponton.
 
 Lásd még [[S/Stone\|stone]]. Lásd még továbbá [[K/Kőszikla\|kőszikla]] és [[I/Isztán\|Isztán]]. Lásd még [[S/Szkülla és Karübdisz\|Szkülla és Karübdisz]].  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Phallic/","title":"Phallic","tags":["dg_uploaded","containstransclusions","Englishtexttranslated"],"created":"2023-11-09T05:11","updated":"2023-12-04T01:17"}
+{"dg-publish":true,"permalink":"/P/Phallic/","title":"Phallic","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T05:11","updated":"2024-02-02T03:38"}
 ---
 
 
@@ -27,14 +27,14 @@ A ló és hímtagja kapcsolatáról még annyit, hogy cseh nyelvben informálisa
 > A mitológiában számos isten kapcsolódik a phallosz-jellegűséghez. Ámon-Ra, Nimród, Bakkhosz, Apolló, Zeusz, Ozirisz, Priapus, Pán, szatíroszok, óriások, ördögök, angyalok stb. A phallikus jelleg a régi istenek világában domináns.  
 > A lóval való bármilyen nyelvi kapcsolat nyomán bizonyosra vehető, hogy ősmagyar kifejezésre utal. Ez természetes és érthető.  
 > Szembesülni kell azzal is, hogy a magyar basz, baszik, baszó, baszni stb. szó (csakúgy mint a fasz és a többi hasonló) az eredeti egyiptomi szövegekben is szerepel(!), méghozzá ugyanebben az alakban, és azonos értelemmel. Ráadásul ősmagyar nyelven írott kerek mondatokba ágyazottan. (Például: "És jön baszó, és megharagszik." stb. - Budge E. A. Wallis: The Book of Dead. London, 1956. 189 és 538-540 old. stb.)  
-- [[B/Basztet\|Basztet]] nevénél jön még elő, PJI-nél.  
+- [[B/Basztet\|Basztet]] nevénél jön még elő, Péterfai Jánosnál.  
 
 #### Vasváry-Tóth Tibor írja:
 
 > A **pallos** balta és bárd, de mindenekelőtt kétélű kard, széles pengéjű, egyenes, hüvelybe dugható, döfő, ütő, csapó, vágó eszköz, fegyver. Ebben a vonatkozásban megfelelést mutat a phallosz (nemi szerv) kifejezéssel, melyet szintén hosszú és hüvelybe dugható tagnak tartunk (például "belé mártotta a phalloszát vagy a pallosát valakibe" értsd: megdöfte).  
 
 Ezen pallos azért is lehet jó nyomvonal, mert a karó és kard szót is használjuk ilyen értelemben; sőt, albán, cigány és perzsa nyelvben is a K-R "teremtőgyök" szerepel a hímtag jelentésű szavakban (kar, kár(ó) ill. [[K/Kir\|kir]]).  
-Ha már teremtőgyök, a pelaszg-palóc nyelven ez P-L, (B-L) mássalhangzóvázzal valósul meg, így lehet [[B/Bál\|Bál]] > Fál (Fal) vonalon is vizsgálni. Hasonlóképp indultunk ki [[B/BIL\|BIL]]/[[P/PIL\|PIL]] etimonoknál illetve [[P/Pale\|pale]] = karó szónál. Itt a megoldás. MZS is írja:  
+Ha már teremtőgyök, a pelaszg-palóc nyelven ez P-L, (B-L) mássalhangzóvázzal valósul meg, így lehet [[B/Bál\|Bál]] > Fál (Fal) vonalon is vizsgálni. Hasonlóképp indultunk ki [[B/BIL\|BIL]]/[[P/PIL\|PIL]] etimonoknál illetve [[P/Pale\|pale]] = karó szónál. Itt a megoldás. Mesterházy Zsolt is írja:  
 > Írország közepén, a "tarai dombon áll Fál köve, az a "fállikus" kő, amely felsikoltott, ha az az ember érintette meg, akit királynak szánt a sors", vagyis ez egy "FÁLikus" megalit, ahol a szakrális királyt megválasztották.  
 
 [[P/Pale\|Pale]] mellett a [[P/PÉL\|PÉL]] címnél említett **péló** is ilyen alakú szó, sőt, a lengyel `wał` = tengely (shaft) is fallikus, sőt, Dorothea lengyel nyelvész szerint figuratív értelemben lehetne akár hímtagra alkalmazott is. A lengyel `wałek` = sodrófa szerinte az iménti szó kicsinyezése lehet.  

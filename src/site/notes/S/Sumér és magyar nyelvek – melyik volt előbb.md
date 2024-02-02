@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2023-11-08T04:16"}
+{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2024-02-02T03:44"}
 ---
 
 
@@ -12,7 +12,7 @@ Götz leginkább ugye azt kívánja bizonyítani, hogy a magyar nem finnugor nye
 > Régészetileg és embertanilag bizonyítható, hogy az európai nyelvekben található tömeges szumér megfeleléseknek konkrét őstörténeti okai vannak.  
 
 [[S/Sumér és akkád nyelvek\|Sumér és akkád nyelvek]] címnél már esett szó arról, hogy a [[F/Finnugor nyelvek\|finnugor nyelvek]] időben megelőzik a sumér nyelvet.  
-PJI több helyen kimondja, hogy azon kutatók, akik a sumér kultúrából és nyelvből akarják levezetni a magyart, tévednek.  
+Péterfai János több helyen kimondja, hogy azon kutatók, akik a sumér kultúrából és nyelvből akarják levezetni a magyart, tévednek.  
 
 #### Péterfai János írja:  
 
@@ -37,7 +37,7 @@ Persze ez lehet éppen óvatosság vagy a szumér erények kisebbítének szánd
 
 ## Magyart sumérből levezetők és eljárásaik
 
-[[N/Novotny Elemér\|Novotny Elemér]], [[D/Dudás Rudolf\|Dudás Rudolf]], [[F/Farkasinszky Tibor\|Farkasinszky Tibor]], [[B/Badiny Jós Ferenc\|Badiny Jós Ferenc]], [[G/Gyárfás Ágnes\|Gyárfás Ágnes]] és sokan mások [[R/René Labat\|René Labat]] adatai alapján haladva állítják össze a magyar szavak értelmét a sumér alapján, ami helytelen. Maga az eljárás már azért is kritizálandó, mert indo-európaiak készítették a sumér-akkád szótárat, de már a sumér maga is önkényesen bánik a szórészekkel: önkényesen bántak a szótagokkal és önálló jelentéseket adtak nekik. Az igaz, hogy PJI is részint ezek alapján határozza meg az alapszavak jelentéseit. A sumér mankó, de nem az alapnyelv.  
+[[N/Novotny Elemér\|Novotny Elemér]], [[D/Dudás Rudolf\|Dudás Rudolf]], [[F/Farkasinszky Tibor\|Farkasinszky Tibor]], [[B/Badiny Jós Ferenc\|Badiny Jós Ferenc]], [[G/Gyárfás Ágnes\|Gyárfás Ágnes]] és sokan mások [[R/René Labat\|René Labat]] adatai alapján haladva állítják össze a magyar szavak értelmét a sumér alapján, ami helytelen. Maga az eljárás már azért is kritizálandó, mert indo-európaiak készítették a sumér-akkád szótárat, de már a sumér maga is önkényesen bánik a szórészekkel: önkényesen bántak a szótagokkal és önálló jelentéseket adtak nekik. Az igaz, hogy Péterfai János is részint ezek alapján határozza meg az alapszavak jelentéseit. A sumér mankó, de nem az alapnyelv.  
 Ennél merészebb és kiábrándítóbb már csak az, amikor hosszabb magyar szókapcsolatokat, szövegeket sumerizál valaki (mint Dudás a Tápiószentmárton nevet) és azok helyérték szerinti értelmezésén keresztül használja fel az általunk tökéletesen értett magyar szöveg értelmi "feltuningolására." Az Ősi Gyökér 1974/2-6. sz. megjelent Badiny Jós Ferenc által is leközölt cikkében – próbálom visszafogni magam a jelzővel – "garázdálkodó" – más esetekben oly éleseszűnek mutatkozó Novotny Elemérre gondolok (a szöveg eredetijét letöltésre elérhetőkönyvében is megtaláltam; majd óvakodni kell tőle (is)).  
 Novotny Elemér csúcsra járatta nyelvünk sumér nyelven keresztüli bemutatását. Így jár az, aki – a történelmet nem ismerve, vagy például Horvát István írásait nem ismerve – a sumér nyelvből akarja a magyart meghatározni. Ha a fejlődési irányt megfordítjuk, akkor ilyen megborult elmék elméletei jönnek elő alapjában véve értelmes emberektől.  
 Mit csinál Novotny? Veszi a legrégebbinek tartott szövegeinket, kiemel belőle valami neki tetszőt és sumerizálja. Például:  
@@ -106,7 +106,7 @@ Lásd még [[E/Észak és dél#Északi népek délre költözése (és fordítva
 ### 6.
 
 A hatodikként említhető példa/bizonyíték is érdekes. A [[P/Pabilsag\|Pabilsag]] nevet hímséginek tekinti GYÁ és BA is (lásd [[O/Orion#Orion mint Nyilas/Vadász – Orion/Aryan és Pabilsag problematika\|Orion mint Nyilas/Vadász – Orion/Aryan és Pabilsag problematika]] cím/alcímnél). A sumér itt is a maga elképzelése alapján használja az ideogrammákat. Ugyebár arról van szó, hogy a Nyilas Nyílás (fő/mellék)értelmét már a sumerok nem ismerték-értették (ahogy ezek szerint [[A/Anu\|Anu]] nevét sem), úgy bánhattak önkényesen (el) más csillagképek neveivel is.  
-Már GYÁ adatait olvasva, [[P/Pabilsag\|Pabilsag]] címnél írottak alapján is felvetődött bennem, hogy Nyilas nem lehet Atya, ahogy GYÁ (és nyilván a sumér nyelvet ismerő forrásai) ilyen értelemmel ill. nemi előjellel megadták. A Tejútközpont a szülőhely, az anyaméh, ahonnan csak az anyai/istennői energiák jöhetnek, az én értelmezésem szerint.  
+Már Gyárfás Ágnes adatait olvasva, [[P/Pabilsag\|Pabilsag]] címnél írottak alapján is felvetődött bennem, hogy Nyilas nem lehet Atya, ahogy GYÁ (és nyilván a sumér nyelvet ismerő forrásai) ilyen értelemmel ill. nemi előjellel megadták. A Tejútközpont a szülőhely, az anyaméh, ahonnan csak az anyai/istennői energiák jöhetnek, az én értelmezésem szerint.  
 
 ### 7.
 
@@ -114,7 +114,7 @@ Egy hetedikként taglalható példa a [[G/G#G-előhangos nőre, asszonyra utaló
 
 ### 8.
 
-Nyolcadikként felhozható a [[M/Men\|men]] címnél GL táblázatos adataként megjelenő óegyiptomi `mani` = nyaklánc, szumér `MEN` = korona, diadém, akkád-asszír `mênu` = fejkötő (volt még: óskandináv `men` = nyakék, nyaklánc) szavak mellé/nyomán kikövetkeztetett magyar menyasszony felékesített jelentése kapcsán megfogalmazható cáfolat: a menyasszony a menny asszonya és a földi nő csak annak tükörképe és minden díszítés (legyen a [[P/Párta\|párta]] címnél is taglalt holdsarló) csak másodlagos, utólagos értelmezés.  
+Nyolcadikként felhozható a [[M/Men\|men]] címnél Götz László táblázatos adataként megjelenő óegyiptomi `mani` = nyaklánc, szumér `MEN` = korona, diadém, akkád-asszír `mênu` = fejkötő (volt még: óskandináv `men` = nyakék, nyaklánc) szavak mellé/nyomán kikövetkeztetett magyar menyasszony felékesített jelentése kapcsán megfogalmazható cáfolat: a menyasszony a menny asszonya és a földi nő csak annak tükörképe és minden díszítés (legyen a [[P/Párta\|párta]] címnél is taglalt holdsarló) csak másodlagos, utólagos értelmezés.  
 
 ### 9.
 
@@ -129,7 +129,7 @@ Az már egy szekunder képzet, hogy a Hold kapja a [[S/Szarv\|szarv]]akat.
 ### 11.
 
 A [[T/Tartarosz\|Tartarosz]] címnél a Kovács Sándor által körülírt teremtés előtti nemlét magyarázatában a sumér/szubar szavakat elnézve azt látom, hogy nem az őssötétség fogalmát takarják, hanem a sötét félév végén uralkodó sötétséget kifejező fogalmak keresendők. Úgy tűnik, a sumérok már nem igazán tudták, pontosan miről is van szó: összekeverték a [[K/Kozmogónia és kozmológia\|kozmogónia és kozmológia]] címnél taglalt témát (itt is).  
-Ugyanígy az [[U/Us#US 2)\|us]] címnél taglalt (KS által összefilozofált) halál illetve nem-lét, semmi VG jelének ismeretében nem az őssötétség fogalmára utal, hanem a Tejútközpontban szülő Tejútanyára (akinek eleve teste csillagos az éj sötétjében). Itt is van tehát egy fogalmi zavar vagy kettősség.  
+Ugyanígy az [[U/Us#US 2)\|us]] címnél taglalt (KS által összefilozofált) halál illetve nem-lét, semmi Varga Géza jelének ismeretében nem az őssötétség fogalmára utal, hanem a Tejútközpontban szülő Tejútanyára (akinek eleve teste csillagos az éj sötétjében). Itt is van tehát egy fogalmi zavar vagy kettősség.  
 
 ### 12.
 
@@ -137,7 +137,7 @@ Amikor az alábbiakat [[N/Nap\|Nap]] címnél megláttam, arra gondoltam, talán
 Varga Zsigmond Az ősmagyar mitológia című könyvének 319. oldalán hozza a sumér `nab` = égitest, atmoszféra, isten szót:  
 > Deimel (SL. 168 1.) közli a nab kiejtési értékét is, nap alakban. Semmi kétség, hogy ez az alapja a magyar nap szónak.
 
-VZs persze nem tudhatta, hogy épp fordítva van. Épp az, hogy égitest, a Nap isten lehet, a későbbi napvallásra utaló összefüggés lehet. A magyar nyelv pedig a [[C/Csillagvallás\|Csillagvallás]] idejéből való.  
+Varga Zsigmond persze nem tudhatta, hogy épp fordítva van. Épp az, hogy égitest, a Nap isten lehet, a későbbi napvallásra utaló összefüggés lehet. A magyar nyelv pedig a [[C/Csillagvallás\|Csillagvallás]] idejéből való.  
 
 ### 13.
 
@@ -170,7 +170,7 @@ Götz László Keleten kél a Nap című könyvének 965-967. oldalán taglalja 
 
 ---
 
-A [[T/Tatárlakai napvárta-korong\|tatárlakai korongon]] talált írás régisége (a sumér ékírásos táblák idejével szemben sok kutató elsőként hozza fel a magyarság "ősibbsége" bizonyítékául) kapcsán itt most nem szólanék (lehet ugyanis, hogy nem is írás van rajtuk, továbbá KT és GL friss adatai szerint nem régebbi az).  
+A [[T/Tatárlakai napvárta-korong\|tatárlakai korongon]] talált írás régisége (a sumér ékírásos táblák idejével szemben sok kutató elsőként hozza fel a magyarság "ősibbsége" bizonyítékául) kapcsán itt most nem szólanék (lehet ugyanis, hogy nem is írás van rajtuk, továbbá KT és Götz László friss adatai szerint nem régebbi az).  
 
 Ha már a sumér és magyar nyelvek egyáltalán hasonlíthatók egymással! Honnan máshonnan kapnánk bagatellizáló véleményeket, mint héber oldalról.  
 Az [alábbi](http://www.hebraisztika.hu/attachments/00000353.pdf) oldalon még a nevetséges szó is elhangzik:  

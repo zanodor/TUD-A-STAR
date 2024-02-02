@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/J/Japhet/","title":"Japhet","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-23T05:34","updated":"2023-11-10T10:48"}
+{"dg-publish":true,"permalink":"/J/Japhet/","title":"Japhet","tags":["Englishtexttranslated"],"created":"2023-10-23T05:34","updated":"2024-02-02T03:13"}
 ---
 
 
 # Japhet
 
-Az [alábbi](https://youtu.be/xF2hpMBgYn0) közepe táján PG helytelenül **Javít** igével adja vissza nevét (Noé Sém fiának neve nála szintén "Práczkisan" semmítő). PJI kihangsúlyozza, hogy a névben a P és H külön kezelendő. Jap-Het, Ap-Hét annyi mint, Háza a Hétnek.  
+Az [alábbi](https://youtu.be/xF2hpMBgYn0) közepe táján Pap Gábor helytelenül **Javít** igével adja vissza nevét (Noé Sém fiának neve nála szintén "Práczkisan" semmítő). Péterfai János kihangsúlyozza, hogy a névben a P és H külön kezelendő. Jap-Het, Ap-Hét annyi mint, Háza a Hétnek.  
 Az általa elemzett Japhet Ap-Het, általa Háza a Hétnek módon értelmezett név Apja a Hétnek formában való értelmezése nyomán jutunk el oda, hogy [[A/AP\|AP]] = [[A/AB\|AB]]/[[A/Aba\|Aba]]. Nyilván a ([[S/Szláv\|szláv]] névben is kereshető?) arab `Ab` = törzs(?) szó eredete is innen ered (az ugariti nyelvben is `ảb` = apa).  
 Nyilván Ap-At, Apát értelmezése azért lenne helytelen, mert pleonazmus lenne, ill. mit keresne ott a szóvégi t? Még ha nőnemű lenne, akkor meg tudnánk magyarázni.  
 A [[H/Hét\|hét]] kapcsán érdemes északi csillagképeket említeni, mint amilyenek rendesen a szkíta-hun népek magukkal azonosított téridőbeli helyük és Japhet valóban a szkíta népek ősatyjának mondott.  

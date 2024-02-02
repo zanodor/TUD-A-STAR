@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lily/","title":"Lily","tags":["dg_uploaded"],"created":"2023-10-15T03:54","updated":"2023-12-03T06:13"}
+{"dg-publish":true,"permalink":"/L/Lily/","title":"Lily","created":"2023-10-15T03:54","updated":"2024-02-02T03:20"}
 ---
 
 
@@ -13,7 +13,7 @@ Liliom. Liliom szavunkat latinból átvettnek veszik, de...
 - A perzsa `lāl` = vörös ezek szerint tulipán-szín, az élet színe.  
 
 > Amely utóbbi két szóban azonban, úgy hiszem, már elferdülés is van, mivel szerintem eredetileg a kellemes illat és így a kellemes illatú virágok i vagy e magánhangzós nevűek voltak, a rossz szagok ellenben a, o vagy u magánhangzósak (magas, illetve mély hangzósak). Igazolhatja e véleményem az, hogy a baszk nyelvben `lili` = virág, amely szó egyezik a liliom nevével, a virágok viszont általában kellemes illatúak. Vogul rokonaink nyelvében `lili` = lélek, de ugyanígy a szumerban is `lilla` = szellem, lélek.  
-- VZs adata szerint még [[L/LIL\|lil]] = szél[^1].  
+- Varga Zsigmond adata szerint még [[L/LIL\|lil]] = szél[^1].  
 
 A virág és a lélek összetartozásának tudományos magyarázatát...
 

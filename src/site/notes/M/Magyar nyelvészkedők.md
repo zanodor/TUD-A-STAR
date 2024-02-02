@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelvészkedők/","title":"Magyar nyelvészkedők","tags":["dg_uploaded"],"created":"2023-11-19T03:30","updated":"2023-11-19T03:30"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelvészkedők/","title":"Magyar nyelvészkedők","created":"2023-11-19T03:30","updated":"2024-02-02T03:23"}
 ---
 
 
@@ -14,7 +14,7 @@ Péterfai János is megteszi a magáét kritika ügyében: hol tévednek az elj�
 Addig, amíg a kutatóknak nem jönnek rá, hogy a szavak a nyelv alaprétegüket tekintve csillagvallás-kori és a szavak kettős, asztrális és telluris vonatkozásúak, addig nem is lesz változás.  
 
 [[V/Végvári József\|Végvári József]] is rámutatott, hogy **szavaink és a köztük fennálló szerves összefüggések magát a világmindenséget képletezik szerkezetében, keletkezésében és működésében egyaránt, tanulmányozásuk – együtt népünk alkotóerejének más megnyilvánulásaival, mint a népművészet különböző ágazatai – a tudás teljességét adhatja meg**.  
-Azóta ennek tudatában rengeteg ember vállalta magára azt a szerepet, hogy megmondja az igazságot a magyarok ősműveltségét illetően, de persze csak kisebb részegységek (téves) kidolgozásáig jutottak (legtöbben). Ők azok, akik a komolyabb kutatókhoz hasonlításra kerülve lejáratják a magyarság ügyét. Több kárt okoznak, mint hasznot. Erről a Quorán lévő fő cikkem végén is szóltam. Ott szóba került a Stockholm – Istókhalma eset is. Állítólag ezt az összefüggést [[H/Horvát István\|Horvát István]]nak tulajdonítják, melyre (vagy más, általa még nem nevezett forrásra hivatkozva) PJI azt írja, hogy...  
+Azóta ennek tudatában rengeteg ember vállalta magára azt a szerepet, hogy megmondja az igazságot a magyarok ősműveltségét illetően, de persze csak kisebb részegységek (téves) kidolgozásáig jutottak (legtöbben). Ők azok, akik a komolyabb kutatókhoz hasonlításra kerülve lejáratják a magyarság ügyét. Több kárt okoznak, mint hasznot. Erről a Quorán lévő fő cikkem végén is szóltam. Ott szóba került a Stockholm – Istókhalma eset is. Állítólag ezt az összefüggést [[H/Horvát István\|Horvát István]]nak tulajdonítják, melyre (vagy más, általa még nem nevezett forrásra hivatkozva) Péterfai János azt írja, hogy...  
 > Stockholm  Istók-Halma fogalmát Horvát Istvánnál nem találtam meg, ellenben az ellenséges Gestapo és NKVD ügynökei által terjesztett szövegekben igen!  
 
 Így működik a dolog. A baromságokat összehordókat egy napon/lapon (és, ahogy alant látjuk a példát, összevágott videókban egy csomagban) említik a komoly kutatómunkát végzőkkel.  
@@ -57,7 +57,7 @@ Egyrészt az, hogy régóta hallják, a magyar az ősnyelv, illetve – a kevés
 #### Götz László Keleten kél a Nap...  
 
 ...című könyvének 371. oldalán szól (igaz, nem nyelvészeti, hanem őstörténeti vonatkozásban) annak körülményeiről, hogyan jelennek meg megfelelő elő­képzettséggel nem rendelkező autodidakták hogy megpróbáljanak "rendet rakni[^1]."  
-A kiváltó ok természetesen az, hogy nem hozzáértő és egyenesen hazug ügynökök (ezen vádak felhozásától GL persze mindig óvakodik) dolgoznak a magyar őstörténet szétverésén és [[T/Történelemhamisítás\|meghamisításán]].  
+A kiváltó ok természetesen az, hogy nem hozzáértő és egyenesen hazug ügynökök (ezen vádak felhozásától Götz László persze mindig óvakodik) dolgoznak a magyar őstörténet szétverésén és [[T/Történelemhamisítás\|meghamisításán]].  
 
 Lásd még [[M/Magyar összefogás hátráltató tényezői\|magyar összefogás hátráltató tényezői]].  
 

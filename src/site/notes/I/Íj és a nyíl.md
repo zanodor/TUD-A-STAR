@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated"],"created":"2023-10-30T08:39","updated":"2024-01-14T01:40"}
+{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated"],"created":"2023-10-30T08:39","updated":"2024-02-02T03:12"}
 ---
 
 
@@ -63,7 +63,7 @@ A Gal-La igen hasonló a [[G/Gula\|Gula]] névhez, így ott is szerepelt. Amiket
 Ez a szeméremháromszög ("pubic triangle") megtalálható Labat 554-es ékjelében is, amely (G)eme olvasatú (lásd [[G/Geme\|geme]] és [[E/Eme\|eme]]). Jól látható a képecskén miről van szó. Valójában alkímiai értelemben sincs meglepetés, hiszen a csúcsával lefelé álló háromszög nőiség (a víz és föld elementálok jele).  
 Lásd még [[P/Pina#Női nemi rész – szentség/templom allegória\|női nemi rész – szentség/templom allegória]] cím/alcímet.  
 
-- Egy kutya szuka nemi részét jelentő 8. századra datált óholland `quintuc` szó előjött [[C/Cunt\|cunt]] címnél is. Nem hinném, hogy a szuka vaginájának nevét külön számon tartották volna. Inkább lehet arról szó, hogy ott is az emberi és kutya vagina hasonlítgatása került szóba. A [[S/Szuka\|szuka]], ahogy VN is írja, a ringyó szimbóluma, valóban a hetérák állatává tették meg. Homérosznál Helené saját magát szukának nevezi, Írisz pedig Athénét, Héra Artemiszt, a hazatérő Odüsszeusz ledér, hűtlen szolgálóit. <br/>
+- Egy kutya szuka nemi részét jelentő 8. századra datált óholland `quintuc` szó előjött [[C/Cunt\|cunt]] címnél is. Nem hinném, hogy a szuka vaginájának nevét külön számon tartották volna. Inkább lehet arról szó, hogy ott is az emberi és kutya vagina hasonlítgatása került szóba. A [[S/Szuka\|szuka]], ahogy Várkonyi Nándor is írja, a ringyó szimbóluma, valóban a hetérák állatává tették meg. Homérosznál Helené saját magát szukának nevezi, Írisz pedig Athénét, Héra Artemiszt, a hazatérő Odüsszeusz ledér, hűtlen szolgálóit. <br/>
 Egyébiránt mivel a sumér Boldogasszony [[B/Bau\|Bau]] kutyás ábrázolásokat kapott, ismét oda jutunk vissza, hogy a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] közül egyik a kutya volt. Így nyilván annak asztrális vulvájáról lehet szó. <br/>
 A [[B/Béna\|béna]] címnél előjövő cseh `běhna` = kurva szó a cseh `fena` = szuka párja. Itt ismét a kutya-szuka szexualitását vehetjük észre, de lehet egyszerűen [[P/Pina\|pina]] szavunkra is gondolni, hogy a fenti Zsolnay Ilona féle gondolatmenethez kapcsoljunk.  
 
@@ -79,7 +79,7 @@ Az alábbi három passzus [[N/Nyilas csillagkép\|Nyilas csillagkép]] címnél 
 #### Paksi Zoltán írja:
 
 > Az íjnak és a nyílnak az archaikus korban betöltött szerepe, elterjedtsége alakította ki gazdag és összetett szimbolikáját. A nyílvessző a férfi nemzőerejének phallikus jelképe. Ismertek olyan teremtésmítoszok, melyekben a teremtés kezdetén nyilak teremtik meg a világosságot. Ha a nyíl férfias jelkép, akkor az íj nőies és az anyaméhet szimbolizálja, így **a nyíllövés a születést jelenti**.  
-- Ez így nem igaz. A nyíllövés = nemzés akkor zajlik, amikor a férfi ejakulál (az [[E/Ejaculate\|ejaculate]] ige is az íjaz, ajz alapértelemre megy vissza) a nő méhébe. A szülés ugye az emberi nőknél ugyanazon a helyen zajlik (ritkábban, illetve ma már gyakrabban másutt a hasfalon át), viszont az égen máshogy zajlik a dolog. A nemzés a nyári égen, a szülés a télin történik. PZ és mások sem számolnak azzal, hogy a Nyilas csillagkép fő értelme Nyílás, míg a vele szemben lévő Nyilas/Nyilazó/Íj csillagkép a "valódi Nyilas." Ott történik a nemzés, míg az általunk ismert Nyilasban a szülés. Így Nyilasra értve PZ jól írja amit ír, végkövetkeztetésként (a szülés ott történik), de nem fejtette ki bővebben.  
+- Ez így nem igaz. A nyíllövés = nemzés akkor zajlik, amikor a férfi ejakulál (az [[E/Ejaculate\|ejaculate]] ige is az íjaz, ajz alapértelemre megy vissza) a nő méhébe. A szülés ugye az emberi nőknél ugyanazon a helyen zajlik (ritkábban, illetve ma már gyakrabban másutt a hasfalon át), viszont az égen máshogy zajlik a dolog. A nemzés a nyári égen, a szülés a télin történik. Paksi Zoltán és mások sem számolnak azzal, hogy a Nyilas csillagkép fő értelme Nyílás, míg a vele szemben lévő Nyilas/Nyilazó/Íj csillagkép a "valódi Nyilas." Ott történik a nemzés, míg az általunk ismert Nyilasban a szülés. Így Nyilasra értve Paksi Zoltán jól írja amit ír, végkövetkeztetésként (a szülés ott történik), de nem fejtette ki bővebben.  
 - Nyíllövés előjön Falvay Károly Nagyboldogasszony című könyvében is ([[T/Temetkezés\|temetkezés]] címnél is szerepelt):  
 > A föld fogalom, mint a következőkkel is bizonyítjuk, a kultúránkban mindenkor női szimbólumként van jelen. A hazai régészeti kutatásokban közismert, hogy számos nyitott sírgödörben fekvő halott mellé a temetés alkalmával nyíllal, később puskával lőttek. Jelen munkánk vizsgálódásai során úgy találjuk, ennek célja az újjászületési mágia volt, ami a halott új életre kelésének, újjászületésének megerősítését célozta. Ezek a kultuszok széleskörűen ismertek voltak Európában is, s jelképeik (attribútumaik) megjelennek a kereszténység eszmekörében egészen a reneszánszig; a nép körében szinte napjainkig.  
 
@@ -88,7 +88,7 @@ Majd a 450. oldalon írja:
 > **A magyarnak egyesítenie kell a végtelenül hajlékony íj, és a könyörtelenül merev, hegyes és éles nyílvessző természetét, ha Isten íjásza kíván lenni ismét**. Uralkodnia kell az íj és a nyíl felett.  
 - A 451. oldalon még folytatja a nyilas-nyílvesszős témát, de csak hasonlatok mentén.  
 
-PZ folytatja:  
+Paksi Zoltán folytatja:  
 > Az égbolton zajló csillagkép teremtésmonda vadászjelenete is \[asztro-\]szexuális[^3] tartalommal bír. A piros, fehér, zöld\[?\] színekben újjászülető, felajzott Hold-íj az Oriont megszemélyesítő vadász ősapa kezében az Ikreket szülő [[C/Csudaszarvas\|Csudaszarvas]] ősanyára irányítva a nemzés aktusát jelképezi, a lövés előtti pillanat, a születés ígéretét hordozza.  
 - Lásd Makoldi Sándor – Szarvasvadászat – elemzéssel [[C/Csudaszarvas\|Csudaszarvas]].  
 
@@ -109,7 +109,7 @@ Ezt megerősítendő, a latin `porcus` = disznó jelentése mellett éppúgy jel
 > Végül is a hősnek a kígyóasszonytól 3 fia született, Agathürszosz, Gelónosz és Szküthész[^4] Héraklész egy [[I/Íj\|íj]]at és egy [[O/Öv\|öv]]et (amelynek csatjáról aranycsésze csüngött le – alighanem a Napot és a Nappályát jelképezhette ez) adott át az asszonynak, hogy majd csak az a fia legyen annak a földnek a lakója, amelyik úgy képes felajzani az íját és felövezni magát, mint ő. Erre csak a legkisebbik fiú, Szküthész volt képes.  
 - [[R/Rózsa vitéz mese\|Rózsa vitéz mesé]]beni analógiákért lásd [[R/Rózsa\|rózsa]].
 
-PJI-nél ugyanez (lásd zárójeles megjegyzéseim illetve kiemeléseim):  
+Péterfai Jánosnál ugyanez (lásd zárójeles megjegyzéseim illetve kiemeléseim):  
 > Amikor Heraklész távozni készült, egy [[I/Íj\|íj]]at, és egy [[O/Öv\|öv]]et adott a \[[[Kígyó\|kígyó]] altestű\] \[**Tejútisten\]nő**nek, aki királynő volt amúgy. "Amikor megnőnek a fiaim, akkor add a kezükbe az íjat és az övet. Amelyik úgy ajzza fel az íjat, mint én, és úgy köti fel az övet, mint én, azt tartsd magadnál, amelyik nem így tesz, azt küldd el!"  
 > Az övön aranycsésze csüngött alá. Heraklész bemutatta az íj felajzását, és az öv felcsatolását, azzal dolgára indult.  
 > Tudnunk kell, hogy az íj a magyar népeknél királyi jelkép, valójában az [[E/Ég\|ég]] és [[I/Ív\|ív]] megszemélyesítője.  
@@ -118,7 +118,7 @@ PJI-nél ugyanez (lásd zárójeles megjegyzéseim illetve kiemeléseim):
 Herkules íja lehet az [[I/Íj csillagkép\|Íj csillagkép]], annál is inkább, mert ha végén arany csésze függött, az csillag kell legyen, bár a Szíriusz inkább ezüstös, míg a Nap aranyszínű.  
 Alant illetve legalul szerepel JM azon adata hogy mennyi és mennyi különböző íjas, nyilas csillagkép található az égen. Ennek analógiájára van jócskán [[S/Szarvas csillagkép\|Szarvas csillagkép]]ekből is. Lásd még Santillana értelmezését az ívről.  
 
-Szintén fontos lehet itt megemlíteni, hogy a [[S/Székely-magyar rovásírás#Ny\|székely-magyar rovásírás ny]] és (főleg) [[S/Székely-magyar rovásírás#N\|n]] betűje valamiféleképpen az ív feszített állapotára utalhat, akár a PJI által is vélelmezett kontextusban, annak függvényében, hogy a Tejút hogyan mutatkozik meg az égen (számunkra a precessziós elmozdulása, forgása fontos, ahogy nyilván elsődlegesen a [[D/Dzsed\|dzsed]]-állítás is leginkább precessziós értelemben lehetett fontos). Azóta az az értelmezés is megszületett, hogy az ívek a lemniszkáta homorú és domború évfeleire utalhatnak.  
+Szintén fontos lehet itt megemlíteni, hogy a [[S/Székely-magyar rovásírás#Ny\|székely-magyar rovásírás ny]] és (főleg) [[S/Székely-magyar rovásírás#N\|n]] betűje valamiféleképpen az ív feszített állapotára utalhat, akár a Péterfai János által is vélelmezett kontextusban, annak függvényében, hogy a Tejút hogyan mutatkozik meg az égen (számunkra a precessziós elmozdulása, forgása fontos, ahogy nyilván elsődlegesen a [[D/Dzsed\|dzsed]]-állítás is leginkább precessziós értelemben lehetett fontos). Azóta az az értelmezés is megszületett, hogy az ívek a lemniszkáta homorú és domború évfeleire utalhatnak.  
 
 Arról a [[D/Daughter\|daughter]], [[D/Dame\|dame]], [[D/Danu\|Danu]] és [[T/Taut\|Taut]]/[[T/Tejút\|Tejút]] címnél volt szó, hogy a Tejútanya alakja milyen formákban és szavakban jelenik meg: vegyük észre, hogy [[T/Tündér\|tündér]], [[T/Tehén\|tehén]] és [[T/Tejút\|Tejút]] szavaink más-más jelentésű szavakban fordulnak elő és a Tejút(anya), annak szarvastehén állatalakja, az íj[^5] (nyíl) fogalma, sőt, a világ(egyetem)[^6] is bennük foglaltatik.  
 
@@ -135,7 +135,7 @@ Arról a [[D/Daughter\|daughter]], [[D/Dame\|dame]], [[D/Danu\|Danu]] és [[T/Ta
 
 [[M/Mestergerenda\|Mestergerenda]] és [[I/Ideg\|ideg]] címnél írottak szerint érthető meg (a régi magyarok ugyanis tudvalevőleg az íjat kifeszítő [[H/HÚR\|húr]]t nevezték volt idegnek, aminthogy ezt mai irodalmi nyelvünk is nevezi még így), miről is van szó.  
 MA nagy szolgálatot tett rajzával is. Ugyanis Id-Eg annyit tesz, mint Isten Ege, és mivel íjról is szó van és a fentiek alapján tudjuk, hogy az íj = ív = év = ég és a nyíl = Níl(us) = Tejút, valamint hogy a húr nemcsak bél jelentésű de a [[T/Teknős\|teknős]] és [[L/Lapos Föld\|lapos Föld]] címnél is említett [[H/Horizon\|horizon]] szónak kiadója is, hogy itt [[S/Szakrális geometria\|szakrális geometria]] újabb és egyben legalapvetőbb példájával állunk szemben.  
-(Mellékelve lásd még a látható ég félgömbjét, a hupolagot, melyet PJI [[C/Csuda\|csudá]]nak hív.)  
+(Mellékelve lásd még a látható ég félgömbjét, a hupolagot, melyet Péterfai János [[C/Csuda\|csudá]]nak hív.)  
 ![assets/Ijesnyil_image5.png](/img/user/I/assets/Ijesnyil_image5.png)  
 
 Szintén ide tehető a tűzfúró-szerszám [[T/Terebra\|terebra]] címnél is szereplő képe, mely nagyon hasonló az íj és a nyíl együtteséhez.  
@@ -201,7 +201,7 @@ Mexikónál maradva, Robert Burnham Jr. Burnham's Celestial Handbook III. kötet
 
 Ahogy Szántai Lajos és Pap Gábor előadásaikban szólnak róluk, a vadász ([[T/Táltos\|táltos]]) ezen két kellékének meditációs szerepe volt (és van a mai napig is a Zen buddhizmusban, tudjuk meg egy beavatást nyert német Eugen Herrigel nevű úr magyarul is olvasható **Íj és a Nyíl Ösvénye** című füzetkéjéből) és a barlangrajzok idejében is még ezen tárgyak az elsődleges funkciójukban lettek lefestve; az állat vagy ember ellen használhatóságuk, elejtés vagy ölés céljából, másodlagos.  
 
-PG másutt, [[G/Gárdonyi Géza\|Gárdonyi Géza]] Láthatatlan ember című könyvéről szóló cikkében (lásd Ősi Gyökér 2004/4. sz. utolsó negyedében) "szellemi fegyverzet"-nek mondja:  
+Pap Gábor másutt, [[G/Gárdonyi Géza\|Gárdonyi Géza]] Láthatatlan ember című könyvéről szóló cikkében (lásd Ősi Gyökér 2004/4. sz. utolsó negyedében) "szellemi fegyverzet"-nek mondja:  
 > A regény dramaturgiai csomópontja: \[a merkuri\] Zéta végletes, száznyolcvan fokos pályafordulása. A szkíta vallás fogalomtárából vett hasonlattal a szellem anyagba áldozódásáról beszélhetünk itt. Valódi, teljes, viszonzást nem váró önfeláldozás ez a legtisztább, füst nélküli lánggal égő szerelem oltárán. Ahogyan a szentpétervári Ermitázs "Nagy Péter-aranyainak" talán legismertebb darabján, az altáji szkíták hagyatékába sorolt övcsaton a női ölbe hanyatlott férfialak, úgy a mi filozófus-hajlamú Zétánk is önként mond le a maga szellemi fegyverzetéről – az aranycsaton ezt a fára akasztott, eredetileg meditációs célra használt **íj és nyíl** képviseli –, a sok "-ráról, -fiáról, -ikáról", hogy kényre-kegyre kiszolgáltassa magát a nő-elven működő anyag-világnak. Amelyben: "Az embernek csak az arca ismerhető, de az arca nem ő. Ő az arca mögött van. Láthatatlan."  
 
 [[E/Ember#Ember szavunk Íjas értelme az Ikrek jegyére vonatkoztatva\|Ember szavunk Íjas értelme az Ikrek jegyére vonatkoztatva]] cím/alcímnél is szóltunk az íj szerepéről, ahol kimondtuk, hogy **nincs ember íj nélkül** (legalábbis az égen).  

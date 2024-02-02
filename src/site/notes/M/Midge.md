@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Midge/","title":"Midge","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-21T04:26","updated":"2023-11-10T10:55"}
+{"dg-publish":true,"permalink":"/M/Midge/","title":"Midge","tags":["Englishtexttranslated"],"created":"2023-10-21T04:26","updated":"2024-02-02T03:27"}
 ---
 
 
@@ -13,4 +13,4 @@ Az [[M/Magyar nyelv és nyelvcsaládok#Ausztráliai magyar nyelv\|ausztráliai m
 > —  
 > "Migy"-nek hívták az ugari/ausztrál törzseknél a homoki legyeket.  
 
-A latin szó egyező a magyarral; lásd (új, VZs-től származó adatokért) [[M/Muscat\|muscat]].  
+A latin szó egyező a magyarral; lásd (új, Varga Zsigmondtól származó adatokért) [[M/Muscat\|muscat]].  

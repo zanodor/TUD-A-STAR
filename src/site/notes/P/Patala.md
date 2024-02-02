@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Patala/","title":"Patala","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-13T01:18","updated":"2023-10-29T02:56"}
+{"dg-publish":true,"permalink":"/P/Patala/","title":"Patala","tags":["Englishtexttranslated"],"created":"2023-10-13T01:18","updated":"2024-02-02T03:38"}
 ---
 
 
@@ -31,7 +31,7 @@ Várkonyi Nándor Az elveszett Paradicsomában Pátála-Amerika benépesítésé
 #### Péterfai János tud ilyenről:  
 
 > A Puránák azt is bizonyítják, hogy ismertük Amerikát, sok évezreddel ezelőtt is. Igaz, csak a keleti ismereteket bizonyítják, de mi tudjuk, hogy nyugaton is elértük Amerika hatalmas térségeit. Keleten \[értsd: a Puranákat és Védákat írók nyelvén\] tehát Patala volt Amerika neve. Ez a név Pata-La formában a Halál-Földje értelemmel bírt. A nevet csak a nyugati értelmezéssel lehetne megmagyarázni, ezért Patala földjének a nevét inkább nem szabad értelmezni.  
-- PJI a halál értelmet Ipolyi Arnold Magyar mythologia című könyve útján [[H/Hérodotosz\|Hérodotosz]]tól vehette, aki szerint Oiorpata egy szkíta-amazon nép neve és jelentése annyit tenne, mint férjölő (`oior` = úr; `pata` = (ahogy IA írja: "csatapaténál fogva") ölő).  
+- Péterfai János a halál értelmet Ipolyi Arnold Magyar mythologia című könyve útján [[H/Hérodotosz\|Hérodotosz]]tól vehette, aki szerint Oiorpata egy szkíta-amazon nép neve és jelentése annyit tenne, mint férjölő (`oior` = úr; `pata` = (ahogy IA írja: "csatapaténál fogva") ölő).  
 
 #### Bakos Attila A Duna Evangéliuma...
 
@@ -49,4 +49,4 @@ A Pátála elnevezéssel azért is csínján kell bánni, mert William F. Warren
 
 Ami Patala Amerikára vonatkozó jelentése mellett szól, az az, hogy Amerikát rengeteg természeti katasztrófa sújtja (vesd össze a kietlen [[P/Patagonia\|Patagonia]] nevével; az is azon a kontinensen van). Summa summárum, a hunok sokfelé eljutottak, maguk adtak nevet a helyeknek, és csak bízni tudunk abban, hogy az átvevő és feljegyzést készítő népek hitelesen őrizték meg őket.  
 
-Feltűnni látszik pata az aveszta `spâda`, `spâtha` = hadsereg szóban (ugyan [[S/Spárta\|Spárta]] katonaállam neve r-hangbetoldással ezen szóból is kifejlődhetett, azt PJI máshogy (Szapár-Ta) vezeti le). Felbontása lehet Ász-Pata. Spatha-paiti (Ász-Pata-Pátyolgató) pedig hadsereg védnök/parancsnok.  
+Feltűnni látszik pata az aveszta `spâda`, `spâtha` = hadsereg szóban (ugyan [[S/Spárta\|Spárta]] katonaállam neve r-hangbetoldással ezen szóból is kifejlődhetett, azt Péterfai János máshogy (Szapár-Ta) vezeti le). Felbontása lehet Ász-Pata. Spatha-paiti (Ász-Pata-Pátyolgató) pedig hadsereg védnök/parancsnok.  

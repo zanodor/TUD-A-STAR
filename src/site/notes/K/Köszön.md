@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Köszön/","title":"Köszön","tags":["dg_uploaded"],"created":"2023-10-17T08:48","updated":"2023-11-30T09:38"}
+{"dg-publish":true,"permalink":"/K/Köszön/","title":"Köszön","created":"2023-10-17T08:48","updated":"2024-02-02T03:19"}
 ---
 
 
@@ -10,7 +10,7 @@
 > Köszön igénkben a Kö a Száj, a Szön a Nap (Sun). A Köszönés a Szájból kiröppenő Nap.  
 - Ha az -ön igeképző, mint a germán nyelvekben, akkor viszont gondolata nem helyes; az más kérdés, hogy akkor mi a kösz/küsz.  
 
-Ugyan PJI elemezése költőien szép, elképezhető, hogy a Kü-Szön, Kö-Szön formákból más jelentéseket olvassunk ki, de a lényegen nem változtat. [[K/KU\|KU]] ugyanis maga Napot is jelenthet és annak teremtményét is (lásd [[K/Kü\|kü]] = kölyök, fi). Így köszön jelentheti azt is, hogy a Nap teremtménye köszöni meg a Napnak áldásos munkáját. A fiatalabbak kell előre köszönnie is, a magyar etika szerint.  
+Ugyan Péterfai János elemezése költőien szép, elképezhető, hogy a Kü-Szön, Kö-Szön formákból más jelentéseket olvassunk ki, de a lényegen nem változtat. [[K/KU\|KU]] ugyanis maga Napot is jelenthet és annak teremtményét is (lásd [[K/Kü\|kü]] = kölyök, fi). Így köszön jelentheti azt is, hogy a Nap teremtménye köszöni meg a Napnak áldásos munkáját. A fiatalabbak kell előre köszönnie is, a magyar etika szerint.  
 A cserébe semmit sem visszakérő Napnak úgy is megköszönjük, hogy szinte minden szavunkba beépítettük.  
 
 Ennél is nagyobb felismerést takarhat a köszön. Nem köszönhetjük meg eléggé Péterfai Jánosnak: a kiröppen szó segített igazán rávilágítani, miről is van szó. [[K/Követ\|Követ]], [[C/Close\|close]] és [[C/Cataclysm\|cataclysm]] címnél írottakhoz passzol jól az alábbi:  
@@ -29,7 +29,7 @@ A német `tschüss` = szia, viszlát szó egyaránt csókol és köszön értelm
 A csókolom eredetileg talán nem a nők kezére irányuló szó lehetett, hanem férfiak és nők arcára. A köszön lényegében így lett a csókollal összekötve (a germánban is). Egyes helyeken, Oroszországban, Olaszországban és persze Magyarországon is máig divat férfiak közt is a két orcát csókkal illetni.  
 A két orca csókkal illetése akár azt is jelenthette, hogy a Napos, fényes feledet és a sötét (Holdas) oldaladat is köszöntöm, szeretem. Itt jut eszünkbe a kétarcú [[J/Janus\|Janus]], aki az év két félévére néz előre és vissza. Egészen nyilvánvalóan ez a csókolásos köszöntés is ilyen szakrális-asztrális jelentőségű lehet, ahogy fentebb is láttuk.  
 
-Ezt a tartalmat a magyar nyelvet nem ismerő és magyarságát (sőt, a kutyákat) sem igen szívlelő frankofil germánpárti Toldy Géza nem látta meg; lásd nyilatkozatát [[K/Kisztihand\|kisztihand]].  
+  
 Az angol [[C/Cheek\|cheek]] = (far)pofa/arc egyik fele szó alakja is csók illetve köszön szavunkra kell visszavezethető legyen.  
 
 [[G/Gőz\|Gőz]] szónál is előjött, minthogy kösz igen hasonló sok más, fényes/hímségi jelentésű szóhoz. Úgy tűnik, óriási ez a kún/hun szócsoport, [[H/HAT\|HAT]] szavunkból és [[K/KU\|KU]] alapszóból kiindulva.  

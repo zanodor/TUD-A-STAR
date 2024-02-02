@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Négyzet/","title":"Négyzet","tags":["dg_uploaded"],"created":"2023-10-26T05:19","updated":"2023-11-25T11:20"}
+{"dg-publish":true,"permalink":"/N/Négyzet/","title":"Négyzet","created":"2023-10-26T05:19","updated":"2024-02-02T03:34"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Molnár V. József Világ-Virág című könyvének 13. oldalán azzal kezdi, hogy a vizsgált műveltségek embere a természetet (népünknél a Mindenséget) [[E/Egy\|egy]]ségként éli át, s önmagát az egység szerves részének tekinti. Jeleinek bemutatását tehát az egység, a teljesség megidézőivel, a körrel és a négyzettel kezdi, a 14. oldalon éppen a négyzet alaposztásával.  
 
-A MVJ által [[K/Kereszt\|kereszt]] bevezetőjében taglaltak szerint (miszerint a kereszt jelkép kiindulója a négyzet és nem a kör) és a [[S/Szakrális geometria\|szakrális geometria]] címnél taglaltak szerint a felülnézeti [[V/Világmodell\|világmodell]]ben a négyzetbe rajzolt X adja ki a 3D-ben a gúlát, piramist, mely felfelé állóként az isteni szféra (lefelé állóként az alvilágé). A gúla azaz a [[V/Világhegy\|Világhegy]] középpontjából képzeletben felfelé húzott egyenes a [[V/Világtengely\|Világtengely]], mely [[T/TAT\|TAT]], azaz [[T/TÁT\|TÁT]]-ja a [[S/Sarkcsillag\|Sarkcsillag]] (a tengely pedig TAT-[[D/Dzsed\|dzsed]]). Ha felmennénk a Sarkcsillagra és onnan néznénk le, akkor a négyzetet és az X-keresztet látnánk kicsiben. Ez a kereszt-középpont egyszer [[A/AN, ÁN\|AN, ÁN]] ([[A/Anu\|Anu]]) istennel (és lakóhelyével) azonosított (hely), másszor a Föld, mely a [[G/Geocentrikus világkép\|geocentrikus világkép]] szerint is középen volt elképzelve, nem butaságból.  
+A Molnár V. József által [[K/Kereszt\|kereszt]] bevezetőjében taglaltak szerint (miszerint a kereszt jelkép kiindulója a négyzet és nem a kör) és a [[S/Szakrális geometria\|szakrális geometria]] címnél taglaltak szerint a felülnézeti [[V/Világmodell\|világmodell]]ben a négyzetbe rajzolt X adja ki a 3D-ben a gúlát, piramist, mely felfelé állóként az isteni szféra (lefelé állóként az alvilágé). A gúla azaz a [[V/Világhegy\|Világhegy]] középpontjából képzeletben felfelé húzott egyenes a [[V/Világtengely\|Világtengely]], mely [[T/TAT\|TAT]], azaz [[T/TÁT\|TÁT]]-ja a [[S/Sarkcsillag\|Sarkcsillag]] (a tengely pedig TAT-[[D/Dzsed\|dzsed]]). Ha felmennénk a Sarkcsillagra és onnan néznénk le, akkor a négyzetet és az X-keresztet látnánk kicsiben. Ez a kereszt-középpont egyszer [[A/AN, ÁN\|AN, ÁN]] ([[A/Anu\|Anu]]) istennel (és lakóhelyével) azonosított (hely), másszor a Föld, mely a [[G/Geocentrikus világkép\|geocentrikus világkép]] szerint is középen volt elképzelve, nem butaságból.  
 
 Sípos Erzsébet az Ősi Gyökér 2006/2. sz. megjelent aranymetszésről szóló cikkében elhangzik, hogy a kör égi, a négyzet földi jelkép.  
 Ugyanezt leírta JM [[N/Négyszögletes Föld\|négyszögletes Föld]] címnél:  

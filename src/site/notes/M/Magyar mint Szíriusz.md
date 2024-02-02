@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar mint Szíriusz/","title":"Magyar mint Szíriusz","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-29T07:48","updated":"2024-01-27T11:09"}
+{"dg-publish":true,"permalink":"/M/Magyar mint Szíriusz/","title":"Magyar mint Szíriusz","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-29T07:48","updated":"2024-02-02T03:22"}
 ---
 
 
@@ -61,7 +61,7 @@ A [[H/Habur\|Habur]] (Hab-Úr, Ha-Bor) folyó mentén \[Fáy Elek A magyarok ős
 
 Az ír kutyát jelentő `madadh` és `madra` szavakat első körben [[M/Magyar\|magyar]]ral azonosítottam, mondván, a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] között a [[K/Kutya\|kutyá]]nak is meg kell lennie. Tehát a kelta szó nem annyira a Szíriuszra, hanem az egész Tejútra utalhatna.  
 
-Viszont van itt még egy másik dolog. Ez pedig a Hargita Csaba által említett óegyiptomi `makharu`, `makheru` = a túlvilági létben a megdicsőült, tökéletességet elért emberi lélek szóval azonosnak látszó görög `makariosz` = boldog, áldott és a MA által más, Napistennel/Mezőgazdasági istennel/isten-aspektussal kapcsolatba hozott `makarosz` = boldog szavak boldog értelme. BF úgy írja, hogy a prehellén mediterránumban a "magyar" szóval összecsengő [[M/Makar\|Makar]] nevű istenben tisztelték a boldogság eszményképét.  
+Viszont van itt még egy másik dolog. Ez pedig a Hargita Csaba által említett óegyiptomi `makharu`, `makheru` = a túlvilági létben a megdicsőült, tökéletességet elért emberi lélek szóval azonosnak látszó görög `makariosz` = boldog, áldott és a MA által más, Napistennel/Mezőgazdasági istennel/isten-aspektussal kapcsolatba hozott `makarosz` = boldog szavak boldog értelme. Bognár Ferenc úgy írja, hogy a prehellén mediterránumban a "magyar" szóval összecsengő [[M/Makar\|Makar]] nevű istenben tisztelték a boldogság eszményképét.  
 GYÁ írt [[B/Boldogasszony\|Boldogasszony]] (Szíriusszal, vele való karácsonyi együttállásával kapcsolatos) [[B/Boldog\|boldog]] állapotáról. Ezek szerint a boldog jelentésű görög és egyiptomi szavak is Szíriusz MGR nevére utalnak? Vagy [[M/Magyar\|Magyar]] Tejútistennőre?  
 
 Közben csak jelzem, hogy a melléknévként szintén boldogat jelentő szanszkrit `mudrā` ([lásd itt](https://wiktionary.org/wiki/%E0%A4%AE%E0%A5)), melynek főnévi értelmei 15-re rúgnak (talán nem véletlenül) is magyar alakú.  

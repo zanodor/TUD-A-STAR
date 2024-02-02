@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mikulás/","title":"Mikulás","tags":["dg_uploaded","containstransclusions"],"created":"2023-11-03T12:28","updated":"2023-11-03T12:28"}
+{"dg-publish":true,"permalink":"/M/Mikulás/","title":"Mikulás","tags":["containstransclusions"],"created":"2023-11-03T12:28","updated":"2024-02-02T03:27"}
 ---
 
 
@@ -39,7 +39,7 @@ Gondolom a szóalakra szlávot mondanak és valóban van is egy Mikulaskova nev�
 
 #### Tomory Zsuzsa Istenes magyar emlékeink 1. rész...
 
-...című Ősi Gyökér 2005/1. sz. megjelent cikkében írja MA nyomán (és itt bizony fel kell ismerni, hogy a Télapó szarvas szánhúzói a [[C/Csudaszarvas\|Csudaszarvas]] mondánk maradványa is lehet; kár, hogy TZs nem tárgyalja):  
+...című Ősi Gyökér 2005/1. sz. megjelent cikkében írja MA nyomán (és itt bizony fel kell ismerni, hogy a Télapó szarvas szánhúzói a [[C/Csudaszarvas\|Csudaszarvas]] mondánk maradványa is lehet; kár, hogy Tomory Zsuzsa nem tárgyalja):  
 > Ősi Karácsonyunk előestéje az öreg, búcsúzni készülő Nap ünnepe, akit ereje teljében Szép Miklósnak, Magornak hívott népünk. A téli napéjegyenlőség Öreg Miklósának hófehér felhőkből van szakálla, fényből szövött vörös palástját fehér hószegély borítja. Érzi, hogy ereje fogytán; elindul, hogy végzete beteljesülvén, Karácsony sötét éjszakáját követően ismét újjászületve áldhassa e földi életünket. Távozása előtt leteszi népünk asztalára a múlt évi termés bőségét jelző ajándékokat: almát, diót, narancsot, s ezek egyúttal az új élet letéteményesei is. Magjaikba rejtve ott szunynyad a tavasszal ég felé nyúló élet. Öreg Miklós távozásakor a falusi élet magányos csendjében indul el Csodaszarvasunk. Agancsai között ringó bölcsőcskében új életet hoz, hogy az év legsötétebb éjszakáján, a titkok éjjelén új fény születését hirdesse.   
 
 #### Gavin White Babylonian Star Lore...

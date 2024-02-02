@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/PAD/","title":"PAD","tags":["dg_uploaded"],"created":"2023-11-21T04:23","updated":"2023-11-21T04:23"}
+{"dg-publish":true,"permalink":"/P/PAD/","title":"PAD","created":"2023-11-21T04:23","updated":"2024-02-02T03:36"}
 ---
 
 
@@ -15,7 +15,7 @@ Másutt:
 > A Pó is Fő, Padus volt a régi neve, vagyis Csillagos. Itália városainak java részét mi alapítottuk.  
 - Lehetne akkor a pad- gyököt víz értelemben venni?  
 
-Arról itt PJI nem ír, hogy a PAD szükségszerűen azonos értelmű kell legyen az eredetibb [[P/PAT\|PAT]] = ház etimonnal. Persze azt tudjuk, hogy a magyarok az égi hazából származnak. P-T vázú szavak ég jelentéssel is előjönnek.  
+Arról itt Péterfai János nem ír, hogy a PAD szükségszerűen azonos értelmű kell legyen az eredetibb [[P/PAT\|PAT]] = ház etimonnal. Persze azt tudjuk, hogy a magyarok az égi hazából származnak. P-T vázú szavak ég jelentéssel is előjönnek.  
 Az ég vize pedig a Tejút, ahogy a csillag jelentésű szavak (lásd [[H/Hugya\|hugya]], [[H/Húgy\|húgy]]) egyben vizet is jelenthetnek.  
 
 Däniken ír egy, tibeti buddhizmus mítoszaiban elevenen élő a nagy tanítóról, neve [[P/Padmaszambhava\|Padmaszambhava]] (vagy U-Ryan Pad-Ma), aki az égből jött és ismeretlen nyelvű írásokat hozott magával.  

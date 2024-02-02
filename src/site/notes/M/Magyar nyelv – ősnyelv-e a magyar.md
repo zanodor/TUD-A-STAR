@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelv – ősnyelv-e a magyar/","title":"Magyar nyelv – ősnyelv-e a magyar","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-09T06:38","updated":"2023-12-04T05:41"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelv – ősnyelv-e a magyar/","title":"Magyar nyelv – ősnyelv-e a magyar","tags":["Englishtexttranslated"],"created":"2023-10-09T06:38","updated":"2024-02-02T03:23"}
 ---
 
 
@@ -188,7 +188,7 @@ Arról [[T/Turanizmus\|turanizmus]] címnél volt szó, Max Müller megállapít
 
 > Lehetetlen azt állítani, hogy az ókori nyelvek magyar nyelvek. Csak azt lehet állítani, hogy sok ókori nyelv, így a hatti-hettita is nagyon közeli rokona a mai magyar nyelvnek. Egy régebbi, magyar nyelvnek tekinthető nyelvből származott, amelyik nyelvet Kis-Ázsiában beszéltek, de sok ezer évvel a hatti, hurri, szumir nyelvek előtt.  
 
-PJI Atlantiszról szóló írásában úgy fogalmaz, hogy a magyar nyelv több ősi nyelvjárásból ered. Szerintem már az Aranykorban kialakult a nyelv, és azóta csak vallási-mondai rárakódások útján változott (Napvallás és kereszténység ráhatása).  
+Péterfai János Atlantiszról szóló írásában úgy fogalmaz, hogy a magyar nyelv több ősi nyelvjárásból ered. Szerintem már az Aranykorban kialakult a nyelv, és azóta csak vallási-mondai rárakódások útján változott (Napvallás és kereszténység ráhatása).  
 [[N/Nosztratikus nyelvcsalád\|Nosztratikus nyelvcsalád]] címnél is szereplő folytatása:  
 > A Nosztratikus Nyelvcsalád nyelvész kutatói helyes úton járnak, csak azt nem látták meg, hogy az általuk kutatott nyelvek egy még ma is létező nyelvből ágaztak ki. Ebből a nyelvből könnyű levezetni a mai nyelvek sok tízezer, sok százezer szavát, ami igazolja a magyar nyelv ősiségét, a konkrét rovás feliratokon és genetikai bizonyítékokon kívül.  
 > Mivel az ősnyelv a magyar nyelv volt, amit sok kiváló tudós is felismert, a nosztratikus kutatók az ősi egységes nyelvet Kr.e. 15.000 körül gondolják részeire szakadni, ezt az elméletet nagyjából el kell fogadnunk. A magyarnak nevezett ősnyelvből származó más nyelvek keletkezése azonban ma sincs tisztázva. De rengeteg szavuk bizonyíthatóan magyar eredetű, ezért aztán nem lehet vita e nyelvek magyar eredetéről.  
@@ -221,7 +221,7 @@ Még mindig Nagyernyei Szabó Zoltán misszionárius pap Tomory Zsuzsa Magyar-En
 > Mily délibábos és lehetetlen dolgok ezek? Holott mily egyszerű és természetes azt feltételeznünk, hogy a magyarság mindig ott volt, ahol ma van, és hogy nyelve azon aránylag elváltozatlanul maradott ősnyelv, amelyhez a tőle legmesszebb eső és legősibb török nyelvek egyszerűen azért állanak a legközelebb, mert hiszen *azok a legrégebben váltak ki belőle*. Maga a magyar nyelv pedig azért változott oly keveset, mert hiszen eredete helyén megmaradva mindenféle új és idegen hatásoknak a legkevésbé volt kitéve, hiszen a minden oldalról járhatatlan hegyekkel körülvett középeurópai medencében jól el volt szigetelve, és így önmagában fejlődött. Megállapítja Vámbéry továbbá azt is, hogy különböző nyelvi jelenségek miatt lehetetlen amellett maradnunk, hogy a magyarság csak egy ezredévvel ezelőtt jött volna Európába, illetve magyarázatként kénytelen a jazigokra, azaz a jászokra utalni, akik tudvalevőleg hazánk területén éltek már a rómaiak előtti korban is.  
 > De megállapítja Vámbéry még azt is, hogy a magyarban az összes nyelveknek is nyoma van! Vagyis hogy eszerint a magyar nyelv csak azon ősidőkben alakulhatott ki, amikor az összes ugor népek is még együtt éltek, vagyis a történelem előtti idők messzeségében. Ha tehát a magyar nyelvnek úgy török, mint ugor vonatkozásai a legrégibb ősidőkbe utalnak, nem kézenfekvő dolog-e akkor az, hogy a magyart tartsuk mindezen nyelvek legősibb alakjának – ami mind e megfejthetetlen és "homályba burkolt" dolgoknak igen egyszerű magyarázatát adja?  
 
-Más PJI anyag:  
+Más Péterfai János anyag:  
 > Alaptézisünk szerint az ősnyelv az egyszerű, két hangból álló szavakat használó magyar nyelv. Erre a nagyon fontos alapszabályra rengeteg nyelvész ráismert, és közülük sokan elismerték a szabályt, ők az emberiség legnagyobb nyelvészei, de sokan igyekeztek meghamisítani a szabályt, különböző érdekek elképzelései szerint, ők az emberiségnek ártó ügynökök hada. A magyar nyelv, az írásos bizonyítékok alapján, már 200.000 éve létezett, az írásunkkal együtt, az utód nyelveink megjelenése általában 4-5.000 évnél nem régebbiek.  
 >
 > A magyar ősnyelvet a rovásírásos feliratok megtalálása és elolvasása teszi rendkívülivé. Kiváló magyar kutatók gyűjtik az adatokat, az olvasatokat közre adják, a hibákat kijavítják.  
