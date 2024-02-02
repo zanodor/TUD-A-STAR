@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/W/Wet/","title":"Wet","tags":["dg_uploaded"],"created":"2023-10-25T02:12","updated":"2023-10-25T02:12"}
+{"dg-publish":true,"permalink":"/W/Wet/","title":"Wet","created":"2023-10-25T02:12","updated":"2024-02-02T02:48"}
 ---
 
 
@@ -16,6 +16,6 @@ Nedves, vizes. Víz szavunkból, vagy víz okozta vetemedés folytán.
 
 > A ved (vad, vád, vid, vüd) vizet jelent. A ved gyök változatai jelen vannak a veder, vidör, vüdör, de a vidra (vízi állat) szavakban is. A vedel del gyöke a dől alakban sok mennyiség áramlását jelenti. Vagyis: vedel – víz dől – dől a víz belé.  
 
-A leginkább elfogadható, VCs által megadott levezetést lásd [[W/Water\|water]].  
+A leginkább elfogadható, Varga Csaba által megadott levezetést lásd [[W/Water\|water]].  
 
 Lásd még [[W/Weather\|weather]]. Lásd továbbá még [[F/Fish\|fish]] és [[B/Bath\|bath]].  
