@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fül/","title":"Fül","tags":["Englishtexttranslated"],"created":"2023-10-03T09:41","updated":"2024-02-02T03:04"}
+{"dg-publish":true,"permalink":"/F/Fül/","title":"Fül","tags":["Englishtexttranslated"],"created":"2023-10-03T09:41","updated":"2024-02-05T02:43"}
 ---
 
 
@@ -11,7 +11,7 @@ Fül szavunk [[F/FUL\|FUL]] etimonnal való összecsengése mellett vizsgáland�
 A CzF szótár a fül szóban a fel(álló) (és kiálló) értelmet keresi, azzal rokonít.   
 
 Fül szavunkkal mutat egyezést a francia `feuille` = (fa)levél (talán a kutya füléhez hasonlíttatott). [[F/File\|File]] címnél is előjött fül.  
-Igeként fül a fől és fűt (és a fú(j)) szavainkkal rokon. Valószínűbb, hogy a francia szó és a [[F/Foliage\|foliage]] címnél is említett latin elődje inkább [[F/Fúj\|fúj]] (szél) szavunkkal rokonítandó.  
+Igeként fül a fől és fűt (és a fú(j)) szavainkkal rokon. Valószínűbb, hogy a francia szó és a latin `folium` = levél elődje inkább [[F/Fúj\|fúj]] (szél) szavunkkal rokonítandó.  
 Fül rokon a [[F/Fürj\|fürj]] für elemével is.  
 ![assets/Fül_image1.png](/img/user/F/assets/F%C3%BCl_image1.png)  
 
@@ -21,8 +21,9 @@ A nagy fül az elefántokra és az elefántokra hasonlító cigány és indiai e
 Az [alábbi](https://www.youtube.com/watch?v=d5dtZEVQk6Q) Bahador Alast (perzsa és héber szavakat hasonlító) videóban volt róluk szó.  
 Igaz, lehetséges, hogy itt az f-előhang csak (arabos) utólagos és a p illetve b-előhanggal kell itt számolni, valamint a [[B/Bál\|Bál]] = Nagy jelentésével.  
 
-#### Magyar Adorján is írja Ősműveltségében:  
+#### Magyar Adorján Ősműveltség...  
 
+...című könyvében is írja:  
 > De ugyanígy lehetett az őskori óriásnagyságú fehér elefántfaj neve `bál` is, mert tudjuk hogy Elő-Ázsiában egy [[B/Bél\|Bél]], de egyúttal [[B/Bál\|Bál]] nevű istenség is tiszteltetett, amely név értelme ugyan úr, hatalmas és király de ezenkívül nagy és óriás is volt.  
 
 Lehet a sémi szavaknak más eredete is. Amikor MA ezen sorait olvassuk ("a besenyő bűz és büzönd szavaknak a palócoknál pül, pul, ful, fül, fülünd, pulund, pülünd szóalakot kellett megfeleljenek"), akkor kell eszünkbe jusson a [[B/Bison\|bison]], mely felveti, hogy az elefánt sémi (azaz, mondjuk ki: jász-filiszteus) neve eredetileg nem elefántra utalt. \[[[Foul\|[Foul]] címnél is megvolt.\]  

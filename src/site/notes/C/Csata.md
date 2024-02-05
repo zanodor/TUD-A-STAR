@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csata/","title":"Csata","tags":["dg_uploaded"],"created":"2023-11-02T01:48","updated":"2023-11-02T01:48"}
+{"dg-publish":true,"permalink":"/C/Csata/","title":"Csata","tags":["Englishtexttranslated"],"created":"2023-11-02T01:48","updated":"2024-02-05T02:41"}
 ---
-
-
 
 
 # Csata
@@ -39,4 +37,4 @@ Alant írottak alapján [[C/Csatár\|csatár]] visszaképzése is megadhatja ere
 
 Elképzelhető, mivel a háború és szerelem istennője Szíriusz, a Kutyacsillag, mely kutya a [[C/Csat\|csat]] szónál is előjövő [[K/Köt\|köt]] szót tartalmazza, hogy a [[L/Lemniszkáta\|lemniszkáta]] középső kötőpontja a csata.  
 
-A kata szóvázát némileg követő, de m-előhangos [[M/Meet\|meet]] is olyan találkozás, mely pályák metszőpontjára utal. [[E/Encounter\|Encounter]] eredeti értelme is hasonló.  
+A kata szóvázát némileg követő, de m-előhangos [[M/Meet\|meet]] is olyan találkozás, mely pályák metszőpontjára utal. `Encounter` eredeti értelme is hasonló.  

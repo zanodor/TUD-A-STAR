@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hykszosz/","title":"Hykszosz","tags":["Englishtexttranslated"],"created":"2023-10-31T08:16","updated":"2024-02-02T02:32"}
+{"dg-publish":true,"permalink":"/H/Hykszosz/","title":"Hykszosz","tags":["Englishtexttranslated"],"created":"2023-10-31T08:16","updated":"2024-02-05T02:44"}
 ---
 
 
@@ -99,7 +99,7 @@ A fentebbi bevezető soroknak megfelelően írja Péterfai János is:
 Péterfai János másutt avarok abar név-variánsát veti össze az [[A/Arab\|arab]] népnévvel.  
 
 A vitatható levezetésekkel előhozakodó [[D/Dudás Rudolf\|Dudás Rudolf]] is elemzi a nevet, de nem tartom érdemesnek ideírni. Maradjon egyelőre a heka/hékás kiinduló, de tartsuk előtérben az [[E/Egy\|egy]] és [[E/Ég\|ég]] szavakat is.  
-Hasonló előtagú a [[H/Hickory\|hickory]].  
+  
 
 ## Lábjegyzetek
 
