@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2024-02-02T03:21"}
+{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2024-02-05T02:46"}
 ---
 
 
@@ -95,7 +95,7 @@ Tehát ez a bizonyos isteni szikra illetve önvaló/énség az isa/[[I/Íz\|íz]
 
 ...című az Ősi Gyökér 2011/2. és 3. sz. megjelent dolgozatában írja:  
 > A néprajzosok szerint az embernek két lelke van: egyik a test-lélek, mely a halál beálltával elenyészik, a másik az árnyék vagy szabad lélek[^1], amelyik a halál után néhány napig még a földön marad. (Az árnyék-lélek az, mely reinkarnálódik – ezt a ma érvényes keresztény dogmák nem fogadják el!) Ha az árnyék-lélek eltávozik és nem jön vissza idejében, az az egyén súlyos megbetegedését, akár halálát is okozhatja. A magyarokra oly jellemző, jelképes koponya-trepanáció egyik, nem orvosi oka is talán éppen a lélekhitre vezethető vissza. Ugyanez lehet a magyarázata a szemre és szájra helyezett halotti fémlemezeknek is! A magyar nyelvben egyébként a "lélek" és "lélegzet" szó egy tőről fakad.  
-> Egy nép szimbólumai a lélek mélyén meghúzódó ősképek halmazából tűnnek elő: ezek egy közös nemzeti gondolkodásra/őslátásra vezethetők viszsza. A magyar nép jelkép-rendszerében meghatározó a [[M/Madár\|madár]], a [[S/Szarvas\|szarvas]] és a [[T/Tulipán\|tulipán]]. A madár az égi kapcsolat jele – az ókereszténységben is a lélek előképe – a Szentlelket (Szent Szellemet) pedig a [[G/Galamb\|galamb]] jelképezi.  
+> Egy nép szimbólumai a lélek mélyén meghúzódó ősképek halmazából tűnnek elő: ezek egy közös nemzeti gondolkodásra/őslátásra vezethetők vissza. A magyar nép jelkép-rendszerében meghatározó a [[M/Madár\|madár]], a [[S/Szarvas\|szarvas]] és a [[T/Tulipán\|tulipán]]. A madár az égi kapcsolat jele – az ókereszténységben is a lélek előképe – a Szentlelket (Szent Szellemet) pedig a [[G/Galamb\|galamb]] jelképezi.  
 
 Internetes forrásból:  
 > A honfoglaló magyarok is a lélek pluralizmusát hihették. Dienes István A honfoglaló magyarok és ősi hiedelmeik – Uráli népek című könyvének 83. oldalán írja, hogy megkülönböztették a testi lelket, azaz az életlelket, amely mindenfajta életműködés, értelmi-érzelmi képesség hordozója, s ez "leheletlélek" formájában nyilatkozik meg. Az utolsó lehelettel következik be a halál. Emellett ismerték a testtől teljesen független szabadlelket vagy árnylelket.  
