@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/R/Rahu/","title":"Rahu","tags":["dg_uploaded"],"created":"2023-11-02T01:34","updated":"2023-11-02T01:34"}
+{"dg-publish":true,"permalink":"/R/Rahu/","title":"Rahu","tags":["Englishtexttranslated"],"created":"2023-11-02T01:34","updated":"2024-02-07T01:40"}
 ---
-
-
 
 
 # Rahu
@@ -26,7 +24,7 @@ Ra-Hu (egyáltalán nem biztos, hogy helyes) felbontásában Nap-Csillag értelm
 ...című könyvének 74. oldalán foglalkozik a témával. Számára, úgy tűnik, új volt, hogy a csomópontok a számára oly fontos Nyilasban "(de)aktivizálódnak." Már a megelőző fejezetében is szól arról, hogy [[G/Galactic centre\|Galactic centre]]-rel való együttállása nemcsak a Napnak, hanem egy napfogyatkozásnak nagy jelentőségű lehet. Ő azt írja, hogy a hindu és arab asztrológusok a Nyilasban lévő déli, leszálló holdcsomópont-erőnlét specifikus helye a Nyilas 3. fokán van, míg a Tejútközpont a Nyilas 6. fokán:  
 > The Galactic Center is located nearby at 6° Sagittarius in the sidereal zodiac.  
 > —  
-> A Galaktikus Középpont a közelben, a Nyilas csillagkép 6°-ában található a sziderikus állatövben.  
+> A Tejútközpont a közelben, a Nyilas csillagkép 6°-ában található a sziderikus állatövben.  
 
 A csomópontok régi görög neveire is kitér:  
 > Fifty years after Ptolemy, around A.D. 230, Tertullian mentioned the `anabibazon` and the `katabibazon`, which are the Greek terms for the ascending and descending nodes.  
@@ -37,7 +35,7 @@ Elképzelhető lenne, hogy a [[K/Kata\|kata]], [[C/Csata\|csata]] szavaink jelen
 
 A lényeget tekintve persze mindegy: csata együttállásokra értendő, ezt korábban is kimondtuk.  
 
-> The Navagraha reliefs are eighth- and ninth-century sculptures that portray the seven planetary deities together with the additional eighth and ninth "planets"-the lunar south and north nodes, Ketu and Rahu. In figure 6.8 we can see, on the far right, the monster head, Rahu, and the half-fish snake-dragon Ketu with its coiled or knotted tail.  
+> The Navagraha reliefs are eighth- and ninth-century sculptures that portray the seven planetary deities together with the additional eighth and ninth "planets"-the lunar south and north nodes, Ketu and Rahu. In figure 6.8 we can see, on the far right, the monster head, Rahu, and the half-fish  its coiled or knotted tail.  
 > —  
 > A Navagraha domborművek nyolcadik és kilencedik századi szobrok, amelyek a hét bolygóistenséget ábrázolják a további nyolcadik és kilencedik "bolygóval" - a hold déli és északi csomópontjával, Ketu és Rahuval együtt. A 6.8. ábrán a jobb szélső jobb oldalon a szörnyfejű Rahu és a félhalas kígyó-sárkány Ketu látható, tekervényes vagy csomós farkával.  
 > ![assets/Rahu_image1.png](/img/user/R/assets/Rahu_image1.png)  
@@ -49,5 +47,5 @@ A Hamlet Malmában is szó esik a nyolcadik és kilencedik "bolygóról," azaz s
 
 > A csillaghitben a nap- és holdfogyatkozások égi helyei, azok a pontok tehát, ahol a Nap és a Hold együtt- vagy épp szembenáll egymással, az ún. "holdcsomópontok", akárcsak a planéták, szintén lehetnek "erőben" vagy "romlásban", s ezek a helyek épp a [[T/Tejút\|Tejút]] és az ekliptika keresztútján, az Ikrek és a Nyilas csillagképben, más szóval a [[V/Világfa\|világfa]] tetején és tövén találhatók.  
 
-Másutt, [[A/Artemisz\|Artemisz]]nál írja JM:  
+Másutt, [[A/Artemisz\|Artemisz]]nál írja Jankovics Marcell:  
 > A gázló a mondapárhuzamok szerint szintén a Tejút kell, hogy legyen, a szarvas Artemisz pedig az Auriga-Perseus-Cassiopeia együtteséből kirajzolódó óriás Szarvas csillagkép. Kísérőiről, a pleiászokról csak annyit: északi mondaváltozatokban ez a csillagcsoport a csodaszarvas leányborjait testesíti meg. Artemisz nemcsak vadászistennőként, hanem mint holdistennő is otthon van a Nyilasban. A csillagászat a látszólagos nap- és holdpályák metszéspontjait holdcsomópontoknak nevezi (értelemszerűen: ha a Nap és a Hold e csomópontok egyikében tartózkodik éppen, akkor van nap- vagy holdfogyatkozás). A holdcsomópontok ugyan végigvándorolnak az ekliptikán (görög `ekleipszisz` annyi mint "fogyatkozás"), de a csillaghit, mint a planéták esetében is, két holdcsomópont-helyzetnek különleges jelentőséget tulajdonított. Talán Apollón Ikrek-béli és Artemisz Nyilas-béli otthonára való tekintettel esett épp erre a két jegyre a választás. (Az ún. "felszálló" holdcsomópont, a hold-fogyatkozás helye az Ikrekben van "erőben" és a Nyilasban "romlásban", míg a "leszálló" holdcsomópont, a napfogyatkozás helye a Nyilasban van "erőben" és az Ikrekben "romlásban").  
