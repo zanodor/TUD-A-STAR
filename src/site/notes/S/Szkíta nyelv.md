@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szkíta nyelv/","title":"Szkíta nyelv","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-10T01:00","updated":"2024-02-02T03:48"}
+{"dg-publish":true,"permalink":"/S/Szkíta nyelv/","title":"Szkíta nyelv","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-10T01:00","updated":"2024-02-07T01:40"}
 ---
 
 
@@ -68,7 +68,7 @@ A szkíta örökségre törő zsidók és indogermánok közös közvetlen (nyel
 
 ## Tökéletes bizonyíték a szkíták magyar nyelvűekként való bizonyítására
 
-A szkíta ember eredetileg hun, ami magyar. Így eredendően a szkíta nyelv (mely valóban egy tág fogalom, [[H/Hun nyelv\|hun nyelv]] címnél írottak szerint is) magyar volt. Erre ad bizonyítékot [[M/Magyar képrejtvények\|magyar képrejtvények]] címnél PJI:  
+A szkíta ember eredetileg hun, ami magyar. Így eredendően a szkíta nyelv (mely valóban egy tág fogalom, [[H/Hun nyelv\|hun nyelv]] címnél írottak szerint is) magyar volt. Erre ad bizonyítékot [[M/Magyar képrejtvények\|magyar képrejtvények]] címnél Péterfai János:  
 > Dárius Kr.e. 513-ban támadta meg Thrákiát, és ebben az évben támadta meg a szkítákat is. A Dáriusnak küldött üzenet jellegzetesen magyar nyelvű, ami döntő bizonyíték a szkíták magyar nyelvűségét illetően. A szkíták királyai követet küldtek a perzsákhoz, Dáriushoz. A követ ajándékot adott Dáriusnak, egy madarat, egy egeret, egy békát, és öt nyilat. A követ azt mondta, a perzsák, ha elég okosak, megfejthetik az ajándék értelmét.  
 > A perzsák tanácsot tartottak a követ távozása után. Dárius úgy vélekedett, hogy a szkíták meghódoltak előtte, de Gobrüasz perzsa főúr más véleményen volt. Gobrüasz így értelmezte az ajándékot: "Ha nem repültök el a levegőben, perzsák, mint a madarak, ha nem bújtok a föld alá, mint az egerek, ha nem ugráltok be a tavak vizébe, mint a békák, akkor sose tértek haza, mert ezek a nyílvesszők fúrnak át benneteket."  
 > Sem Dárius, sem Gobrüasz nem értelmezte helyesen a rejtvényt[^2], amit az ajándékba rejtettek a szkíta királyok. A perzsák a valóságban megfejtették az üzenet valódi mondanivalóját. Ezt onnan tudhatjuk, hogy a bekövetkező események pontosan úgy zajlanak, mint amit a rejtvény mond.  
