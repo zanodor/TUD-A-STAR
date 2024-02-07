@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mithra és a bika/","title":"Mithra és a bika","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T02:41","updated":"2024-02-02T03:29"}
+{"dg-publish":true,"permalink":"/M/Mithra és a bika/","title":"Mithra és a bika","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T02:41","updated":"2024-02-07T01:26"}
 ---
 
 
@@ -175,7 +175,7 @@ Ugyan [[F/Firdauszi\|Firdauszi]] [[S/Shahnameh\|Shahnameh]] eposza rengeteg szer
 Még egy töredékes felirat a poetovioi Mithras-emlékek között. Értelme, már ami a néhány szavas szövegnek lehet, homályos. Így szól: ...\[ele\]vavit in modum Solis (C)auti et Cautopati in (h)onor(em)]. Azaz: ...Napisten módjára emelkedett fel. Cautes és Cautopates tiszteletére (szentelték ezt az emléket). Cautes és Cautopates a bikaölés reliefek két oldalán álló két fáklyás ifjú, - az Ikrek csillagkép Castor és Pollux csillagai \[Richard H. Allen könyvében ezek a nevek nem szerepelnek\] – az Élet és Halál egységének, az Örök Élet gondolatának megtestesítői. Az elevatio fogalma pedig – szótári szinten – egyértelmű: "felemelkedés, felemelés".  
 
 [^2]: Lábjegyzet:  
-Erre értheti JM:  
+Erre értheti Jankovics Marcell  
 Mithras létrájának van egy nyolcadik foka is, ez a boiygószférákon túli égi kapu az istené, amiben értelemszerűen benne foglaltatik, hogy Mithras nem Nap, nem a "hetek" egyike, csak időről időre, mint a kapuban álló Orion is, egyesül vele.  
 
 [^3]: Lábjegyzet:  
