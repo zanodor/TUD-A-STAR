@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated"],"created":"2023-10-30T08:39","updated":"2024-02-02T01:48"}
+{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated"],"created":"2023-10-30T08:39","updated":"2024-02-07T02:20"}
 ---
 
 
@@ -428,7 +428,8 @@ A japán `kyūdō` = íjászat és `kyūjutsu` = íjászat művészete jelentés
 
 ## Hun-germán nyilas témák
 
-[[L/Lot\|Lot]] és [[L/Lottery\|lottery]] címnél is szó volt sorshúzásról, nyílvesszőkkel.  
+[[L/Lot\|Lot]] címnél is szó volt sorshúzásról, nyílvesszőkkel.  
+`Lutri` is sorshúzással kapcsolatos.  
 
 ## Török nyilas témák
 
@@ -482,7 +483,7 @@ A 7. századi akkád varázsigék egy sora a "ŠÀ\.ZI\.GA" ("a szív felemelked
 [^2]: Lábjegyzet:  
 Despite its antisex attitude and pretensions, Christianity incorporated many sexual images, including the ancient and ubiquitous [[L/Lingam\|lingam]] symbol, evident in the church steeple, and the [[Y/Yoni\|yoni]] or womb, symbolized by the church nave. From the earliest times, in fact, temples and churches themselves served as wombs, into which the priest, with his phallus-shaped hat would enter, beseeching the Deity for fertility and fecundity. As Allegro says:  
 The temple was designed with a large measure of uniformity over the whole of the Near East now recognizable as a microcosm of the womb. It was divided into three parts: the Porch, representing the lower end of the vagina up to the hymen, or Veil; the Hall, or vagina itself; and the inner sanctum, or Holy of Holies, the uterus. The priest, dressed as a penis, anointed with various saps and resins as representing the divine semen, enters through the doors of the Porch, **the "labia" of the womb**, past the Veil or "hymen" and so into the Hall.  
-—  
+—  ŠÀ\.ZI\.GA
 Antiszexuális hozzáállása és igényessége ellenére a kereszténység számos szexuális képet épített be, beleértve az ősi és mindenütt jelenlévő [[L/Lingam\|lingam]] szimbólumot, amely a templomtoronyban látható, és a [[Y/Yoni\|yoni]] vagy méh, amelyet a templomhajó szimbolizál. A legkorábbi időktől fogva a templomok és a templomok maguk is méhként szolgáltak, ahová a pap fallosz alakú kalapjával belépett, és termékenységért és termékenységért könyörgött az Istenséghez. Ahogy Allegro mondja:  
 A templomot nagyfokú egységességgel tervezték az egész Közel-Keleten, amely ma már az anyaméh mikrokozmoszaként ismerhető fel. Három részre tagolódott: a Porch, amely a hüvely alsó végét jelképezte a szűzhártyáig, vagyis a Fátyolig; a Csarnok, vagyis maga a hüvely; és a belső szentély, vagyis a Szentek Szentje, a méh. A pap, pénisznek öltözve, különböző nedvekkel és gyantákkal felkenve, amelyek az isteni ondót jelképezik, belép a Porch ajtaján, **a méh "szeméremajkán" keresztül**, a Fátyolon vagy "szűzhártyán" át, és így a Csarnokba.  
 
