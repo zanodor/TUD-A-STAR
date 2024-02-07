@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz és a naprendszer/","title":"Szíriusz és a naprendszer","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-13T05:21","updated":"2024-02-02T02:44"}
+{"dg-publish":true,"permalink":"/S/Szíriusz és a naprendszer/","title":"Szíriusz és a naprendszer","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-13T05:21","updated":"2024-02-07T01:40"}
 ---
 
 
@@ -273,5 +273,5 @@ Ugye január 2-án (mások szerint negyedikén?) van legközelebb a Naphoz, így
 László szentté avatását III. Béla kezdeményezte 100 év múlva. III. Celesztin pápa az ő kérésére két bíborost küldött, hogy a király váradi sírjánál történt csodákat felülvizsgálják. Miután több csodás gyógyulás szemtanúi lehettek, egy égi jel végképp meggyőzte az olasz csodaszakértőket. 1192. június 27-én, **déltájban** a váradi székesegyház fölött fényes csillag gyúlt ki, s ott lebegett a magasban két órán át. László napját a szokástól eltérően azóta sem halála, "égi születésnapja" évfordulóján üljük, hanem június 27-én, a csillagjelenés napján.  
 
 [^7]: Lábjegyzet:  
-Erre értheti JM:  
+Erre értheti Jankovics Marcell:  
 Mithras létrájának van egy nyolcadik foka is, ez a boiygószférákon túli égi kapu az istené, amiben értelemszerűen benne foglaltatik, hogy Mithras nem Nap, nem a "hetek" egyike, csak időről időre, mint a kapuban álló Orion is, egyesül vele.  
