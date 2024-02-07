@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2024-02-02T04:09"}
+{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2024-02-07T01:41"}
 ---
 
 
@@ -220,7 +220,7 @@ Az kétségtelen viszont, hogy január 1-4 környékén a Föld perihelion pontj
 > Az evvel kapcsolatban lévő karácsonyelőtti és évvégi szokásokat, játékokat eltörölni szintén lehetetlen lévén, a keresztény egyház úgy segített a dolgon, hogy az öreget Szent Miklós myrai püspökkel azonosítva, napját Karácsony előttre tette ugyan, de nehogy a téli napfordulóvali összefüggése és az Öreg Napistenneli azonos volta észrevehető legyen, még néhány nappal korábbra, vagyis december 6.-ra helyezte, amely nap így a mai kereszténység "Mikulás napjá"-vá lett, amelyen a fehérhajú, fehérszakállú öreg ugyan még szerepel, aki téli napfordulati szerepeltetéséről a kereszténnyé lett népeket az egyház nem bírta leszoktatni, de az öreg Napistenneli azonos voltát feledtetnie mégis teljesen sikerült már. Mivel azonban a népek az új, keresztény, naptár szerinti évvégét sem tudták elképzelni egy fehérhajú és fehérszakállú öreg Óesztendő nélkül, ezért utóbb az egyház kénytelen volt ide is egy ilyen öreget tenni és ez a mai Szent [[S/Szilveszter\|Szilveszter]], akit a népszokások az év végén szintén szerepeltetnek.  { #y1o6w9}
 
 
-Másutt írja MA:  
+Másutt írja Magyar Adorján:  
 > Sebestyén Gyula "A regösök" című könyvében bemutatja a mongolok `cam` nevű táncában \[[[Come\|come]] címhez is betéve\] előforduló szarvasálarcos alakot, amellyel együtt még egy bikaálarcos is ábrázolva, amely pedig a mi egykori "Bözön Biká"-nkkal azonos. Megemlíti Sebestyén, hogy ilyenek a tibetiek újévi ünnepségein szintén szerepelnek. Azon körülmény, hogy a szarvasálarcos ember táncol is, azt sejtteti, hogy itt már nem őseredeti szertartással van dolgunk, mert tudván hogy ez valamikor magát a főistent jelképezte, a táncolást ennek méltóságán alulinak érezzük, bár ellenvethető, hogy a tánc ősidőkben époly szent valaminek tarthatott mint ma a vallásos éneklés. A Sebestyén által bemutatott szarvasjelmez ruháját már igen szép, művészi [[P/Palást\|palást]] képezi, amely állatbőrre már egyáltalán nem emlékeztet, de teljes, az ember arcát és fejét is befödő szarvasfeje is van, agancsokkal. Azt már tudjuk, hogy az egykori újév egyúttal Karácsony is volt, vagyis a Napisten évvégi halála és újévi újjászületése napja, illetve éjszakája, egyaránt.  
 
 FK könyvének 385. oldalán szereplő passzusa [[B/Boldogasszony\|Boldogasszony]] és [[B/Boldogasszony hava\|Boldogasszony hava]] címnél is szerepelt:  
