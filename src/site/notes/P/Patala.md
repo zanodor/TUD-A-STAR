@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Patala/","title":"Patala","tags":["Englishtexttranslated"],"created":"2023-10-13T01:18","updated":"2024-02-02T03:38"}
+{"dg-publish":true,"permalink":"/P/Patala/","title":"Patala","tags":["Englishtexttranslated"],"created":"2023-10-13T01:18","updated":"2024-02-08T07:14"}
 ---
 
 
@@ -47,6 +47,6 @@ A Pátála elnevezéssel azért is csínján kell bánni, mert William F. Warren
 1\. az égtájakat sokszor Észak-Délről Kelet-Nyugat irányúvá változtatták;  
 2\. az elnevezéseket nem szabad geográfiai névértékben venni, hisz elsősorban mitikus-csillagászati területeket jelöl (ha Patala a [[P/Pokol\|pokol]], akkor az az [[A/Alvilág\|alvilág]]) (és ha hihetünk Magyar Adorján elméletének vagy a [[H/Hyperborea\|Hyperborea]] c. alatt [[C/Charles Hapgood\|Charles Hapgood]] földkéreg-elcsúszás elméletének, az az észak már amúgy sem is ott van, ahol ma keresik).  
 
-Ami Patala Amerikára vonatkozó jelentése mellett szól, az az, hogy Amerikát rengeteg természeti katasztrófa sújtja (vesd össze a kietlen [[P/Patagonia\|Patagonia]] nevével; az is azon a kontinensen van). Summa summárum, a hunok sokfelé eljutottak, maguk adtak nevet a helyeknek, és csak bízni tudunk abban, hogy az átvevő és feljegyzést készítő népek hitelesen őrizték meg őket.  
+Ami Patala Amerikára vonatkozó jelentése mellett szól, az az, hogy Amerikát rengeteg természeti katasztrófa sújtja (vesd össze a kietlen **Patagonia** nevével; az is azon a kontinensen van). Summa summárum, a hunok sokfelé eljutottak, maguk adtak nevet a helyeknek, és csak bízni tudunk abban, hogy az átvevő és feljegyzést készítő népek hitelesen őrizték meg őket.  
 
 Feltűnni látszik pata az aveszta `spâda`, `spâtha` = hadsereg szóban (ugyan [[S/Spárta\|Spárta]] katonaállam neve r-hangbetoldással ezen szóból is kifejlődhetett, azt Péterfai János máshogy (Szapár-Ta) vezeti le). Felbontása lehet Ász-Pata. Spatha-paiti (Ász-Pata-Pátyolgató) pedig hadsereg védnök/parancsnok.  
