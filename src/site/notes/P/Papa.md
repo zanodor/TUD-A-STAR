@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/P/Papa/","title":"Papa","tags":["dg_uploaded"],"created":"2023-10-26T02:57","updated":"2023-10-26T03:04"}
+{"dg-publish":true,"permalink":"/P/Papa/","title":"Papa","created":"2023-10-26T02:57","updated":"2024-02-08T07:35"}
 ---
 
 
 # Papa
 
-Pa-Pa jelentése Fő-Fő, írja PJI.  
+Pa-Pa jelentése Fő-Fő, írja Péterfai János.  
 Latinul `papas` = oktató.  
 
 Götz László Keleten kél a Nap című könyvének 872-873. oldalán található szumér és etruszk szavakat hasonlító szószedetében hozza az etruszk `papa` = apa(?), nagyapa(?) szót, mely mellé a szumér `pap` = apa szót teszi.  
