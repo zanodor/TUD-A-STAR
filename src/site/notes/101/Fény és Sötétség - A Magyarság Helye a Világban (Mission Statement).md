@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2024-02-05T02:40"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/"}
 ---
 
 
@@ -94,8 +94,8 @@ Ellenben igyekeztem egyes könyvek, tanulmányok, cikkek MEGA-ra feltöltött p�
 
 A lexikális adatok (lásd őket `ilyen` vagy főképpen tulajdon- és istennevek esetében **Ilyen** szedéssel) helyességére különösen ügyeltem, de becsúszhat itt-ott elírás vagy pedig a forrásom téved (vagy annak forrása). Olyan is előfordul, hogy minden igyekezetem ellenére nem sikerült minden lexikális adatot külön kiemeléssel jelölni. Ha látok valamit, menet közben javítom és ennek jogát fenntartom.  
 
-Menet közben úgy döntöttem, hogy a fontosabbnak ítélt angol nyelvű részeket (az esetek mintegy 90-95%-a lehet) lefordítom. Ehhez a kitűnő DeepL fordítót használom. A kész fordításokban csak a látványos vagy ordító hibát (veszem észre és) javítom, de elképzelhető, hogy helyenként kissé magyartalan (vagy a lexikális normától eltérő) marad a szöveg. (Az említett fordító cég szoftvere így is messze felülmúlja a nagynevű világcégek magyar nyelvre fordító képességét – történik mindez a 21. században...)  
-Ez a lábjegyzetekre is kihatással lesz: az egyes lábjegyzetek mellett álló visszafelé nyilak közül az első az angol szövegre, a második a magyarra visz.  
+Menet közben fontosabbnak ítélt angol nyelvű részeket (az esetek mintegy 90-95%-a lehet, leszámítva egyes szavak eredetére vonatkozó részeket) lefordítom. Az erre a munkára alkalmatlan sima Google Translate helyett a kiváló DeepL fordítót és a Google AI Studio Gemini Pro mesterséges intelligencia szoftver fordítóját használom. A kész fordításokban csak a látványos vagy ordító hibát (veszem észre és) javítom, de elképzelhető, hogy helyenként kissé magyartalan (vagy a lexikális normától eltérő) marad a szöveg.   
+A fordítások a lábjegyzetekre is kihatással lesznek: az egyes lábjegyzetek mellett álló visszafelé nyilak közül az első az angol szövegre, a második a magyarra fordított sorokra visz.  
 
 Az egyes szócikkek nagybetűvel való felvételének oka, hogy az alapszavakat vagy ún. etimonokat (és teoretikus etimonokat) meg kívántam különböztetni a többitől. Az olyan szavak, mint [[B/BOG\|BOG]], [[S/SZEK\|SZEK]], és társai Napot, napminőséget (hímségi princípiumot) jelentenek és változataik sok más szó részét képezik. Mivel nem kimondott – legalábbis nem az indoeurópai értelemben vett – szógyökök, hanem nemcsak a szavak elején szereplő szóelemek (szótagnyelv-elemek), ezért célszerű volt megkülönböztetni őket.  
 
@@ -528,7 +528,7 @@ A magyarnak sok nyelvjárása van/volt. Ezt a nyelvészek nem veszik figyelembe.
 [^6]: Lábjegyzet:  
 Visual iconography was also important to Graves's conception. Graves created a methodology for reading images he called "iconotropy". To practice this methodology one is required to reduce "speech into its original images and rhythms" and then to combine these "on several simultaneous levels of thought". By applying this methodology Graves decoded a woodcut of The Judgement of Paris as depicting a singular Triple Goddess rather than the traditional Hera, Athena and Aphrodite of the narrative the image illustrates.  
 —  
-Graves felfogásában a vizuális ikonográfia is fontos volt. Graves megalkotta a képek olvasásának módszerét, amelyet "ikonotrópiának" nevezett. Ennek a módszernek a gyakorlásához le kell redukálni a "beszédet eredeti képeire és ritmusaira”, majd ezeket "több egyidejű gondolkodási szinten” kombinálni. Graves ezt a módszert alkalmazva dekódolta a Párizsi ítélet egy fametszetét, amely egy egyedi hármas istennőt ábrázol, nem pedig a hagyományos Hérát, Athénét és Aphroditét, amelyet a kép illusztrál.  
+Graves felfogásában a vizuális ikonográfia is fontos volt. Graves megalkotta a képek olvasásának módszerét, amelyet "ikonotrópiának" nevezett. Ennek a módszernek a gyakorlásához le kell redukálni a "beszédet eredeti képeire és ritmusaira", majd ezeket "több egyidejű gondolkodási szinten" kombinálni. Graves ezt a módszert alkalmazva dekódolta a Párizsi ítélet egy fametszetét, amely egy egyedi hármas istennőt ábrázol, nem pedig a hagyományos Hérát, Athénét és Aphroditét, amelyet a kép illusztrál.  
 
 [^7]: Lábjegyzet:  
 Mircea Eliade Myth and Reality című könyvének 182-183. oldalán szól Hunor és Magor kapcsán arról, hogy a magyar felső vezetésnek szüksége volt egy ősiséget bizonyító mondára és a Hunor-Magor rege kapóra jött. Közvetlenül a "kitalált nép" Románia után (Eliade román származású) jönni elő egy ilyen témával nem éppen szerencsés. Eliade sem érti a Hunor és Magor neveket, de legalább az ikeristenségek funkciója alapján gyanakodhatna, de nem teszi, vagy a nyilvánosság előtt nem vallja be.  
