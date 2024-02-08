@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Aga/","title":"Aga","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-25T05:48","updated":"2024-02-01T10:43"}
+{"dg-publish":true,"permalink":"/A/Aga/","title":"Aga","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-25T05:48","updated":"2024-02-08T07:32"}
 ---
 
 
@@ -11,17 +11,17 @@
 
 Tomory Zsuzsa jól látja, hogy [[A/Ág\|ág]] archaikus alakja lehet aga, mely felhangos párjai [[E/ÉK\|ék]] és [[E/Eke\|eke]] (lásd ezen témát még [[A/Ács\|ács]]).  
 
-Lásd MA írását alant, valamint [[K/Kapa\|kapa]], továbbá még [[A/Ágas\|ágas]]ról [[A/Axis\|axis]].  
+Lásd Magyar Adorján írását alant, valamint [[K/Kapa\|kapa]], továbbá még [[A/Ágas\|ágas]]ról [[A/Axis\|axis]].  
 
 # Aga 2)
 
 Katonai elöljáró muszlim országok hadaiban, elsősorban az ottomán hódítások idején. A perzsa `āghā` = úr (sir, mister) szintén ugyanez a szó.  
-Az [[A/Agg\|agg]] címnél Vámbéry Ármin által hozott szavak: tör.-tat. `ag`, `ak` "fehér, ősz, tiszteletreméltó"; `aga`, `aka` "idősb, elöljáró, úr".  
+Az [[A/Agg\|agg]] címnél Vámbéry Ármin által hozott szavak: tör.-tat. `ag`, `ak` "fehér, ősz, tiszteletreméltó"; `aga`, `aka` "idősb, elöljáró, úr".  (A malájjal rokon iban nyelvben `aka` = báty. Az arab nyelvben báty vagy nagybáty is ilyen alakú.)  
 
-A magyar végez (igazgat, intéz) szavunk a görögbe majd latinba v hang-elhagyással ment át. Erről volt szó [[H/Hegemony\|hegemony]] szónál is (de még [[A/Agent\|agent]] és [[D/Demagogue\|demagogue]] szavaknál is előjön).  
+A magyar `végez` (igazgat, intéz) szavunk a görögbe majd latinba v hang-elhagyással ment volna át. Erről volt szó [[H/Hegemony\|hegemony]] szónál is (de még [[A/Agent\|agent]] és [[D/Demagogue\|demagogue]] szavaknál is előjön).  
 A latinban az `ago` = végez, intéz, kormányoz; a hellénben is `agó` = vezet, igazgat, intéz, folytat. \[AJ\]  
 Levezethető lenne akár [[V/Vág\|vág]] szavunkból is, mely v-kihagyásosan a hellénben `ag`- (tör, zúz jelentéssel).  
-Gondolom van, aki [[A/Agg\|agg]] szavunkból vagy [[A/Ág\|ág]]/ágas/ák/ákos szavakból vezetné le. `Ak` törökben fehér jelentéssel áll, ahogy BL is szól róla előadásában[^1]. [[A/AK\|AK]] alapszót felső jelentéssel adja meg PJI.  
+Gondolom van, aki [[A/Agg\|agg]] szavunkból vagy [[A/Ág\|ág]]/ágas/ák/ákos szavakból vezetné le. `Ak` törökben fehér jelentéssel áll, ahogy BL is szól róla előadásában[^1]. [[A/AK\|AK]] alapszót felső jelentéssel adja meg Péterfai János.  
 
 #### Magyar Adorján írja:
 
