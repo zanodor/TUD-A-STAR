@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/MES/","title":"MES","tags":["Englishtexttranslated"],"created":"2023-10-21T04:46","updated":"2024-02-02T03:21"}
+{"dg-publish":true,"permalink":"/M/MES/","title":"MES","tags":["Englishtexttranslated"],"created":"2023-10-21T04:46","updated":"2024-02-08T07:10"}
 ---
 
 
@@ -48,7 +48,7 @@ Lám, a [[R/Rák csillagkép\|Rák csillagkép]] idézett A-MES nevében is a R�
 
 A mes-fáról volt szó [[M/MISZ\|MISZ]] címnél is. Itt csak annyit, hogy a kelta `meas`[^1], walesi `mes` = gyümölcs, pontosabban elsősorban a tölgy gyümölcse, a [[M/Mast\|mast]] címnél is említett makk! Márpedig a mes-fa a török nyelvű `meşe` szó jelentése alapján is tölgy[^2]!  
 Ahogy [[M/Mező\|mező]] címnél is szerepelt, az albán `mes` = közép egy az egyben azonos a mes-fa nevével (a [[K/Köldök\|köldök]]nek is van közép mellékjelentése és azon áll a világfa/világoszlop is).  
-A [[M/Medlar\|medlar]] görög-latin elődjeiben (latin `mespila` and görög `mespilē`, `mespilon`) is megvan mes.  
+  
 A szlovák `metla` = nyírfa szóban is szerepelt az M-SZ rokon M-T váz (többek közt breza is jelent nyírt, mely a [[B/Birch\|birch]] névvel azonosul is).  
 
 [[M/MISZ\|MISZ]] címnél a mézről is volt szó. A mes-fa lehet akár méz-fa is. Az [alábbi](http://bhaktipedia.org/magyar/index.php-n=rohiniprija.napkelet_rejtett_087.html) oldalon álló Atharva Véda VII.56. mantrájában is mézből született fáról esik szó:  
