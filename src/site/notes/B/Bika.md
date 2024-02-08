@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bika/","title":"Bika","tags":["Englishtexttranslated"],"created":"2023-11-09T02:07","updated":"2024-02-02T01:27"}
+{"dg-publish":true,"permalink":"/B/Bika/","title":"Bika","tags":["Englishtexttranslated"],"created":"2023-11-09T02:07","updated":"2024-02-08T07:08"}
 ---
 
 
@@ -34,7 +34,7 @@ BI megvan még billeg (Bi(l)-Leg) szavunkban, szintén kettős értelemmel, ha a
 BI kettő értelme megvan még a CzF által is homályos eredetűnek tartott bilincs szavunkban, ahol BI ismét a két láb és két kéz lánccal való összekötését jelenti.  
 
 A fentiek ellenére Bika lehet Bik-A. A [[B/Béka\|béka]] szóval való hasonlósága (tudjuk, sok szóban az é és az i hangok fel is cserélhetők) mutat rá, hogy a Bik-A szintén Napállat és ráadásul bökni, szúrni képes szarvával.  
-Az alábbi JM passzus vezetett ide:  
+Az alábbi Jankovics Marcell passzus vezetett ide:  
 > A tehénfit az ellenséggel szemben anyja szarvai, vagy kis táltos bika segíti (Vasfejű farkas-mesék). Az ellenség, a sötét erők állatalakjaiban is lehet (fekete) bika (l. Minotaurus; a néphit szerint a táltos és ellenfele világos és sötét szőrű bika képében harcolnak). A hőst segítő kis bika aranybikát szúr a szarvára az egyik mesében. A sárkányok apja bika képében dézsmálja a csodafa gyümölcsét (A feneketlen kút). Az alvilági bikát és békát némely mesemondó "összekeveri". Ennek nem a nevek hasonlósága az oka; az inkább következmény. Mindkét állat ugyanazt az elvet képviseli. Kalmük mesékben a földet egy béka-bika(!) hordja a hátán, melynek lecsillapítására, ha éhségében bömbölni és hánykolódni kezd, egész marhacsordákat vetnek táplálékul. A béka és a bika emellett egyaránt eső- és termékenységjelkép.  
 
 Ne feledjük el itt azt sem, hogy a [[G/Gundestrup üst\|Gundestrup üst]] fenéklemezén is egy Bika terül el.  
