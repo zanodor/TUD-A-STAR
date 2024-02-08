@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/O/Oak/","title":"Oak","tags":["Englishtexttranslated"],"created":"2023-10-11T04:44","updated":"2024-02-02T03:35"}
+{"dg-publish":true,"permalink":"/O/Oak/","title":"Oak","tags":["Englishtexttranslated"],"created":"2023-10-11T04:44","updated":"2024-02-08T11:47"}
 ---
 
 
 # Oak
+{ #4305e5}
+
 
 [[T/Tölgy\|Tölgy]]fa. [[T/Táltos\|Táltos]]ok, [[D/Druida\|druidá]]k fája. A magyar tölgy inkább boncolgatható és hasonlítható tőgyhöz, amiből a táltost tápláló tej származik.  
 Az angol oak elődei a magyar [[O/OK\|OK]], [[E/Ég\|ég]], [[E/Egy\|egy]], [[A/Ág\|ág]] szavaink bármelyikére utalhatnak. Az Ok Péterfai János adata szerint Csillag.   
@@ -87,14 +89,15 @@ Egy távolabbi hasonlítási kísérlet lehet [[O/Őz\|őz]] = ős szavunk, de M
 Lásd még a Tejút-tölggyel azonosuló Csudaszarvasünő agancsaival kapcsolatba hozható Tejút-ágas ([[V/Villa\|villa]]) szerű képződmény [[M/Magyar térrendezés\|magyar térrendezés]]ben való megjelenése kapcsán [[G/Gable\|gable]], valamint szintén Magyar Adorján adatait, rajzait [[A/Axis\|axis]] és [[T/Toll#Toll 2)\|toll]] címnél.  
 De ha már `axis`, nem lehet, hogy ez is ágas, ákos szavunk, ahogy a Tejút-folyó [[O/Oxus\|Oxus]] is innen vehette nevét? A fentebbi görög szavak is mind ide tartoznak, ehhez a képhez.  
 
-A lengyelek Alexandra-Dorothea információja szerint:  
+A lengyel Alexandra-Dorothea információja szerint:  
 > In Slavic/Polish mythology the deer is often associated with the tree of life (oak).  
 > Deer's antlers were considered to be the symbol of fertility.  
 > —  
 > A szláv/lengyel mitológiában a szarvast gyakran az élet fájával (tölgy) hozzák kapcsolatba.  
 > A szarvas agancsát a termékenység szimbólumának tartották.  
-- Nálunk is az ág > agancs szó. Meg ugye sok szkíta ábrázoláson a szarvas fején faágak vannak.
+{ #nmujaw}
 
+- Nálunk is az ág > agancs szó. Meg ugye sok szkíta ábrázoláson a szarvas fején faágak vannak.
 ![assets/Oak_image2.jpeg](/img/user/O/assets/Oak_image2.jpeg)  
 ![assets/Oak_image3.jpeg](/img/user/O/assets/Oak_image3.jpeg)  
 > In Poland there is legend about the golden deer but it is considered a fairy tale for children. And Ancient Slavs in Poland were worshipping the holy oak.  
@@ -107,4 +110,5 @@ A lengyelek Alexandra-Dorothea információja szerint:
 > Spirituális jelentése volt számukra...általában szerették a természetet.  
 > \[...\]  
 > Az ősi szlávok Lengyelországban például imádták a tölgyeket, a szent tölgyeket, a hatalmas tölgyeket. A fák kultusza itt mindig is nagyon erős volt. A modern korban a természet és élőhelyei, az erdők, erdőségek, fák védelmének és megőrzésének fogalmába burkolózik; tulajdonképpen csak a szláv nyelvek tesznek különbséget a különböző erdőtípusok között, a fafajok vagy fafajok típusától függően...  
-> A lengyel királyok már a múltban is törvényeket hoztak arról, hogy a lengyel erdők bizonyos részein nem szabad fontos állatokat vagy fákat megölni; ha valaki ezt megteszi, akár halállal is büntethető, és nem volt fontos, hogy ki volt az illető, mágnás, nemes vagy paraszt. Valójában Európa egyetlen fennmaradt őserdeje Lengyelországban található, a legnagyobb európai emlősállattal, az európai bölénnyel (`żubr`).  
+> A lengyel királyok már a múltban is törvényeket hoztak arról, hogy a lengyel erdők bizonyos részein nem szabad fontos állatokat vagy fákat megölni; ha valaki ezt megteszi, akár halállal is büntethető, és nem volt fontos, hogy ki volt az illető, mágnás, nemes vagy paraszt. Valójában Európa egyetlen fennmaradt őserdeje Lengyelországban található, a legnagyobb európai emlősállattal, az európai bölénnyel (`żubr`).   
+^2fbe87
