@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/B/Banyan/","title":"Banyan","tags":["dg_uploaded"],"created":"2023-11-09T07:23","updated":"2023-11-09T07:23"}
+{"dg-publish":true,"permalink":"/B/Banyan/","title":"Banyan","created":"2023-11-09T07:23","updated":"2024-02-08T07:08"}
 ---
 
 
 # Banyan
 
 Indiai fügefa, és a [[F/Füge\|fügé]]ről tudjuk, hogy fontos [[E/Életfa\|életfa]] illetve Tejútanya-jelkép.  
-[[F/Füge\|Füge]] címnél is szerepelt JM passzusa (és több is):  
+[[F/Füge\|Füge]] címnél is szerepelt Jankovics Marcell passzusa (és több is):  
 > Az ókori magaskultúrák anyaistennőinek egyik növényi alakja a tejet adó fügefélék valamelyike volt. Indiában az asvattha- és a banjanfát (Ficus religiosa, F. indica) ma is szentnek tartják.  
 
 [[F/Fény\|Fény]] címnél szereplő PAESZ táblázatban vannak háttérinfók eredetével kapcsolatosan, de mint [ezen](https://hu.m.wikipedia.org/wiki/Bany%C3%A1n) oldalon kiderül, ez a banyan elnevezése csak kereskedő jelentésű gudzsaráti nyelven (alatta szoktak üzletelni); ez ragadt meg az angolban is. Persze ez utólag hozzátapadt jelentés.  
