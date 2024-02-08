@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2024-02-02T03:25"}
+{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2024-02-08T07:10"}
 ---
 
 
@@ -37,7 +37,7 @@ Michel-Gerald Boutet Druidical Astrology című dolgozatában írja ((nyilván k
 > —  
 > A Makara jelet időnként krokodilként, de gyakrabban delfinként ábrázolták. A delfin, amely a görög mítoszokban és a kelta mítoszokban is jelen van, mint delfin vagy sellő. Az ősvizekből kiemelkedő szellemet szimbolizálja. Azt lehet állítani, hogy a mítosz Sumérból származik. Mindazonáltal a Lepenski Vir dunai homokkőszobrai, amelyek Kr. e. 6000-5000-re datálhatók, halembereket vagy sellőket ábrázolnak, amelyek párhuzamba állnak a sumér mítoszokkal.  
 
-[[H/Három nap\|Három nap]] és [[V/Vörös\|vörös]] címnél is szerepelt JM passzusa (a tengeri szörny fogalmára kaptam fel a fejem):  
+[[H/Három nap\|Három nap]] és [[V/Vörös\|vörös]] címnél is szerepelt Jankovics Marcell passzusa (a tengeri szörny fogalmára kaptam fel a fejem):  
 > [[H/Heraklész\|Héraklész]], amikor három nap után kivágja magát a tengeri szörny gyomrából, kopasz és vörös, mint egy újszülött.  
 
 Úgy tűnik, a Makara név a Bakban megszülető Nap (Makar, Magur) nevéről vítetett át az őt szülő szörny illetve tengeri lény nevére.  
@@ -66,6 +66,7 @@ Ha ez érdekes lehet. Hogy szerepelt [[K/Kazár\|kazár]] címnél?
 
 ...című az Ősi Gyökér 2007/4. sz. megjelent, több helyen idézett cikkében írja ([[M/Magyar\|magyar]] címnél nagyrészt ugyanez megvolt):  
 > Figyelemre méltó az or. siska (HADROVICS-GÁLDI 1951) címnél a mondás: на бедного Макара все шишки валятся: 'Szegény embert még az ág is húzza', ahol **az ember szóra az orosz szövegben Makar/Makara szerepel**. Az ág pedig 'a kiindulás, az eredet helye' értelmű \[Czeglédi szerint\].  
+- Ellenben [[M/Macarize\|macarize]] címnél éppen nem szerencsétlen, hanem ezzel ellentétes értelmű görög `μάκαρ` = áldott, szerencsés szót láttunk. Ami ismételten oda mutat, hogy itt körfolyamatról, a [[H/Hunor és Magor\|Hunor-Magor]] [[E/Életkör\|életkör]]ről van szó: egyszer domború, másszor homorú (szomorú).
 
 Ág itt nyilván az agancson keresztül a szarvasra ([[M/Magor\|Magor]] a [[S/Szarvas csillagkép\|Szarvas csillagkép]]ben születik, ami Bak ma) utal, illetve lásd még [[P/Perennial\|perennial]] és [[Z/Zodiac\|zodiac]] címnél írottakat.  
 

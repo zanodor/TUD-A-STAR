@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2024-02-02T03:46"}
+{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2024-02-08T07:35"}
 ---
 
 
@@ -87,7 +87,7 @@ Lásd még [[K/KAR\|KAR]] (és [[S/SZAR\|SZAR]]), [[S/Szarvas\|szarvas]], [[C/Cs
 
 ## Szaporító szervrendszer
 
-A szarvas, kos, bak agancsa, szarva egyértelműen Tejút jelkép, írja PJI. Ez így is van, de miképpen? Vagy hogyan másképpen? Azt tudjuk, hogy a régi képi-költői felfogásban a hasonló dolgok között analógiát fedeztek fel. Ugyan az alábbi témának nem igen van irodalma (vagy csak nem találom), az alábbi képi analógiákról beszélni kell.  
+A szarvas, kos, bak agancsa, szarva egyértelműen Tejút jelkép, írja Péterfai János. Ez így is van, de miképpen? Vagy hogyan másképpen? Azt tudjuk, hogy a régi képi-költői felfogásban a hasonló dolgok között analógiát fedeztek fel. Ugyan az alábbi témának nem igen van irodalma (vagy csak nem találom), az alábbi képi analógiákról beszélni kell.  
 Kezdjük azzal, hogy a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] közül (a lovat leszámítva) leginkább a szarvas, agancsos állatok (rén/iramszarvas és szarvasmarha, valamint kecske) figuráltak, annak is a tejet adni képes tehenei. Tejet adni képes állat az, amely szülni képes (Napgyermeket szülni). Ezeknek az állatoknak [[M/Méh\|méh]]e van, illetve nemi részei és szaporító szervrendszerük. [[M/Méh\|Méh]], [[H/Ház\|ház]] és [[P/Pina\|pina]] (valamint [[L/Labyrinth\|labyrinth]]) címnél volt már szó a témáról. (A [[N/Nap háza\|Nap háza]] a Tejútanya, annak is leginkább a méhe.)  
 ![assets/Szarv_image4.png](/img/user/S/assets/Szarv_image4.png)  
 Amiről nem volt szó, az konkrétan a szaporító szervrendszer. Figyeljük meg az alábbi képen a tehén szaporító szervrendszerét, melynek szintén van felül két szarva. Az embereknél (alsó kép) hasonló a helyzet. (A lovaknál[^2] szintén.)  

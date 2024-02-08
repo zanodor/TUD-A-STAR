@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/PO/","title":"PO","tags":["dg_uploaded"],"created":"2023-11-21T09:17","updated":"2023-11-21T09:17"}
+{"dg-publish":true,"permalink":"/P/PO/","title":"PO","created":"2023-11-21T09:17","updated":"2024-02-08T07:34"}
 ---
 
 
@@ -15,7 +15,7 @@ Ellenben megfordítása, [[O/Ob\|Ob]] és [[A/AB\|AB]] vízre, folyóra utal.
 
 > [[P/Polip\|Polip]] volt a neve azoknak az állatoknak, amelyeknek a lába a Pa, vagyis Po (Fej) részből nőtt ki, és úgy Lépkedtek. Po-Lip nagyjából Pa-Lép, a Fej-Lépő.  
 
-Folyó, nemcsak Olaszországban (Pó), lásd [[M/Mezopotámia\|Mezopotámia]] nevében is. A Pó is Fő, Padus volt a régi neve, vagyis Csillagos. Itália városainak java részét mi alapítottuk. – Írja PJI.  
+Folyó, nemcsak Olaszországban (Pó), lásd [[M/Mezopotámia\|Mezopotámia]] nevében is. A Pó is Fő, Padus volt a régi neve, vagyis Csillagos. Itália városainak java részét mi alapítottuk. – Írja Péterfai János.  
 
 Berzsenyi Dániel adata szerint is víz, folyó (po = fo) jelentést is hordoz.  
 

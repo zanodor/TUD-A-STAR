@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makardhwaja/","title":"Makardhwaja","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-29T08:36","updated":"2023-10-30T12:34"}
+{"dg-publish":true,"permalink":"/M/Makardhwaja/","title":"Makardhwaja","tags":["Englishtexttranslated"],"created":"2023-10-29T08:36","updated":"2024-02-08T07:11"}
 ---
 
 
 # Makardhwaja
 
-Az [alábbi](https://en.wikipedia.org/wiki/Makardhwaja) oldalon van a hindu karakterről szó. A Ramayanában szerepel és [[H/Hanuman\|Hanuman]] fia. Születésével kapcsolatban írja a Wiki:  
+Az [alábbi](https://en.wikipedia.org/wiki/Makardhwaja) oldalon van a hindu karakterről szó. A Ramayanában szerepel és **Hanuman** fia. Születésével kapcsolatban írja a Wiki:  
 > When Hanuman took a dip in the waters of the sea (after burning down the whole of Lanka with his inflamed tail), a drop of his perspiration fell into the mouth of a mighty Makara. Out of this, Makardhwaja was born.  
 > According to another, slightly different version, when Hanuman took a dip in the sea, to cool himself after burning Lanka; a drop of his sweat, due to the extreme heat generated in his body due to extreme labor by him, fell into the mouth of a giant fish-eat-reptile like creature, Makara, thus impregnating it.  
 > The fish was caught by people of Ahiravana, who ruled Patala, the nether-world. Markardhwaja was discovered when the stomach of the fish was cut open and thus he was named after it and was brought up by them.  

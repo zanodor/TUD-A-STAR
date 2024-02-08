@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arab nyelv/","title":"Arab nyelv","tags":["dg_uploaded"],"created":"2023-11-18T09:37","updated":"2023-11-19T03:08"}
+{"dg-publish":true,"permalink":"/A/Arab nyelv/","title":"Arab nyelv","created":"2023-11-18T09:37","updated":"2024-02-08T07:05"}
 ---
 
 
@@ -19,8 +19,11 @@ A [[K/Kíván\|kíván]] és közben [[J/Jón\|jón]] címnél is említett arab
 [[E/Éber\|Éber]] és [[A/Aware\|aware]] szavakkal egyezik az arab `khabir` = éber és `khabar` = meg)ismer, (meg)tud.  
 [[S/Szoba\|Szoba]] címnél rámutattam az arab `koba` = szoba szó hasonlóságára (itt is kentum-szatem változatokat látunk) (de ott az ind `sabha` is előjött még).  
 [[F/Fate\|Fate]] címnél említettük, hogy a szintén turáni eredetűnek tűnő arab `fatāh` = fiatal lány \[ami ugye tündér\] szó egyezik a latin [[F/Fata\|fata]] szóval.  
-Az arab eredetűnek mondott [[G/Giraffe\|zsiráf]] nevével azonos a szláv nyelvekben [[D/Daru\|daru]]madarat jelentő szavak: például bolgár `жера́в`, cseh `jeřáb`, lengyel `żuraw`. Nyilvánvaló az összefüggés, de a kérdés már csak az, hogy melyik volt előbb? Furcsamód a hivatalos etimológia tudomány nem veszi észre az azonosságot, hiszen arab nyelv nem rokona az árjának ugye. Ezért nem vette egy eredetűnek a germán [[W/Whore\|whore]] és arab `huri` szavakat sem. Arra pedig esélye sincs, hogy a germán halb/[[H/Half\|half]] szavak és az arab [[K/Kalb\|kalb]] = kutya között közös eredetet sejtsen.  
+Az arab eredetűnek mondott [[G/Giraffe\|zsiráf]] nevével azonos a szláv nyelvekben [[D/Daru\|daru]]madarat jelentő szavak: például bolgár `жера́в`, cseh `jeřáb`, lengyel `żuraw`. Nyilvánvaló az összefüggés, de a kérdés már csak az, hogy melyik volt előbb? Furcsamód a hivatalos etimológia tudomány nem veszi észre az azonosságot, hiszen arab nyelv nem rokona az árjának ugye. Ezért nem vette egy eredetűnek a germán [[W/Whore\|whore]] és arab `huri` szavakat sem. Arra pedig esélye sincs, hogy a germán `halb`/[[H/Half\|half]] szavak és az arab [[K/Kalb\|kalb]] = kutya között közös eredetet sejtsen.  
 A germán `burg` szónak megfelel az arab `burj`, mely jelenthet csillagképet, tornyot, erődöt is.  
+
+Egy másik híres azonosság a földet jelentő arab `ard` (héber `eretz`) az [[E/Earth\|earth]] szóval. Itt sem tágít a nyelvészet.  
+- [[H/Héber bolygók\|Héber bolygók]] címnél Shay Zucker írja, hogy a látszat csal, a szemita szavak nem lennének rokonai a germán szavaknak; az [alábbi](https://qr.ae/TWtC8i) Quora oldalon is taglalják, miért lehet hasonló az angol és arab név. 
 
 A [[S/Slay\|slay]] címnél említett óangol `slahan` = ölni szótöve és értelmére nézve azonos a meglepő módon szóelején hangtorlódásos arab `slah` = kar; fegyver szóval.  
 

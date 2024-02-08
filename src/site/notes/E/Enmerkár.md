@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Enmerkár/","title":"Enmerkár","created":"2023-11-09T04:00","updated":"2024-02-02T03:00"}
+{"dg-publish":true,"permalink":"/E/Enmerkár/","title":"Enmerkár","created":"2023-11-09T04:00","updated":"2024-02-08T07:33"}
 ---
 
 
@@ -8,7 +8,7 @@
 #### Péterfai János írja:
 
 > Ismert Enmerkár király neve, aki az En-Mer-Kár szavak alapján kapcsolatban állt a Vadász fogalommal. A [[K/KÁR\|Kár]] Vadászt jelent. Mivel a Kár szó Vadász jelentéssel nem fordul elő Labat szótárában, tovább kell keresni a biztos forrást. Ha teljesen bizonyossá válik a Kár Vadász értelme, akkor azonnal a Vadász csillagképre kell gondolnunk. A Vadász csillagképnek sok nevét felkutattam, és az is kiderült, hogy a magyarok ősapjuknak tartották az égi objektumot. Vagy azokat a személyeket, akik a Vadász csillagkép nevében valamilyen tettet hajtottak végre. Nimrúd a magyarok egyik ősapja, aki nagy vadász volt az Úr előtt. Ezt a mondatot úgy lehet értelmezni, hogy egykor, messze az ókor előtt, a Vadász csillagképet az emberiség az ősapjának tekintette, majd utána jött az Úr idejének eljövetele, az egyistenhit kiteljesedése.  
-- A KÁR etimont vadász értelműnek tartják, írja tehát PJI.
+- A KÁR etimont vadász értelműnek tartják, írja tehát Péterfai János.
 
 Közben megtaláltam forrását...  
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mania/","title":"Mania","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-20T07:07","updated":"2023-11-04T01:55"}
+{"dg-publish":true,"permalink":"/M/Mania/","title":"Mania","tags":["Englishtexttranslated"],"created":"2023-10-20T07:07","updated":"2024-02-08T07:11"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Mánia, a görög őrületet jelentő szóból, ahol `mainesthai` = megőrülni, őrültnek lenni, őrültként viselkedni. A `maniac` = mániákus eredeti görög megfelelője `manikos`; csak későbbi modern időkben változott `maniakos`-ra, Eric Partridge adata szerint.  
 
-EP mind = elme (görögül `menos` = ész; életerő) szónál (meg van kötve a keze) elemzi e görög szót. A mainesthai ige mellett felhoz egy `mainas` szót, mely: [[D/Dionüszosz\|Dionüszosz]] (lásd [[B/Bacchus\|Bacchus]]) orgiasztikus (lásd [[O/Orgy\|orgy]]) rítusában (lásd [[R/Rite\|rite]] és [[R/Ritual\|ritual]]) felügyelő, részt vevő nimfa, latinosan bacchánsnő (lásd bővebben [[M/Maenad\|Maenad]]). Ez utóbbi [[M/Meny\|meny]] szavunkra utalhat. A mánia maga pedig menny szavunkra.  
+EP mind = elme (görögül `menos` = ész; életerő) szónál (meg van kötve a keze) elemzi e görög szót. A mainesthai ige mellett felhoz egy `mainas` szót, mely: [[D/Dionüszosz\|Dionüszosz]] (lásd [[B/Bacchus\|Bacchus]]) orgiasztikus (lásd [[O/Orgy\|orgy]]) rítusában (lásd [[R/Rite\|rite]] és [[R/Ritual\|ritual]]) felügyelő, részt vevő nimfa, latinosan bacchánsnő. Ez utóbbi [[M/Meny\|meny]] szavunkra utalhat. A mánia maga pedig menny szavunkra.  
 
 Nos, vagy a menny ([[M/Men\|men]]) felé emelt kéz (mán, [[M/Mány\|mány]], [[M/Mancs\|mancs]]) az Istennek való áhitat kifejezésének képét tárja elénk.  
   
