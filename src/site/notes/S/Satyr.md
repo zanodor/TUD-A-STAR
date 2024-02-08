@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/S/Satyr/","title":"Satyr","tags":["dg_uploaded"],"created":"2023-11-13T05:21","updated":"2023-11-13T05:21"}
+{"dg-publish":true,"permalink":"/S/Satyr/","title":"Satyr","created":"2023-11-13T05:21","updated":"2024-02-08T07:17"}
 ---
 
 
 # Satyr
 
-Szatír. Jelentett erdei embert is ([[O/Orangutan\|orangutan]] is ezt jelenti). Az erdei emberekről nemcsak [[R/Robin Hood\|Robin Hood]]-szerű [[R/Rogue\|rogue]]-ok, hanem fontosabban a [[V/Vrâtya\|Vrâtyá]]k és a [[D/Druida\|druidá]]k ([[T/Táltos\|táltos]]ok) jutnak eszünkbe, akik egyrészt a (brahmanista) papság vagy az embereket sanyargató politikai hatalmak elől bújdokolva, vagy egyszerűen a természettel egyesülve éltek, hogy szertartásaikat ott tartsák, iskoláikat ott üzemeltessék.   
+Szatír. Jelentett erdei embert is (`orangutan` is ezt jelenti). Az erdei emberekről nemcsak [[R/Robin Hood\|Robin Hood]]-szerű [[R/Rogue\|rogue]]-ok, hanem fontosabban a [[V/Vrâtya\|Vrâtyá]]k és a [[D/Druida\|druidá]]k ([[T/Táltos\|táltos]]ok) jutnak eszünkbe, akik egyrészt a (brahmanista) papság vagy az embereket sanyargató politikai hatalmak elől bújdokolva, vagy egyszerűen a természettel egyesülve éltek, hogy szertartásaikat ott tartsák, iskoláikat ott üzemeltessék.   
 
 #### Mesterházy Zsolt írja:  
 
