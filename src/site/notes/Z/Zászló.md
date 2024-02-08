@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Z/Zászló/","title":"Zászló","created":"2023-10-17T09:23","updated":"2024-02-02T04:18"}
+{"dg-publish":true,"permalink":"/Z/Zászló/","title":"Zászló","tags":["containstransclusions"],"created":"2023-10-17T09:23","updated":"2024-02-08T07:17"}
 ---
 
 
@@ -49,4 +49,25 @@ A Szimbólumtár anyaga:
 - A magyar nyelv szavait magyarázók ilyenekre – más jelentést hordozó összetételekre – is fel kell legyenek készülve.  
 
 Bakos Attila A Duna Evangéliuma című könyvének 253. oldalán az ottománok lófarkas zászlójáról szól.  
-[[M/Mundzuk\|Mundzuk]] címnél lófarkas rúdról szól MA.  
+[[M/Mundzuk\|Mundzuk]] címnél lófarkas rúdról szól Magyar Adorján.  
+
+## Piros-fehér-zöld zászló
+
+Érdekes, hogy sok más Kumari Kandam környéki országhoz hasonlóan Madagaszkárnak is piros-fehér-zöld zászlója van.  
+[[S/Szaka\|Szaka]] a neve a jakutok köztársaságának (tulajdonképpen a nép és nyelvük másnéven is szaka). Érdekes a zászlajuk, melyben a piros-fehér-zöld hármas szintén szerepel.  
+
+
+#### Tomory Zsuzsa...
+
+...piros-fehér-zöld fények kapcsán írja:  
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/e/eszak/#91q9sr" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+> Külön tanulmány tárgya az ír nép emlékezetében fennmaradt "leprechaun", a törpe nép. Ők is tündéri lények, hol megjelennek, hol eltűnnek. Ruházatukban – éppen úgy, mint az előbbi rézhajú leány – a piros-fehér-zöld színeket képviselik: zöld a ruhájuk, piros sapkájukon fehér toldísz ékeskedik. Hangsúlyozottan ők a világ aranykincsének ismerői, s a jószándékú embernek adnak is belőle. Itt ismét az aranydús tündérkert késői emlékével találkozunk. Különben ezen leprechaunok egy igen öreg király birodalmának alattvalói. Az öreg király csak igen ritkán mozdul ki házából. Néha-néha ködből épített hídon elindul nagy zeneszó mellett, hogy meglátogassa az Északi Fény királynőjét. Az ír mesében e királynő nevét már nem ismerik, mi viszont felismerjük az **Északi Fény királynőjében Tündér Iloná**nkat, Földünk \[nemcsak a Földünk\] megszemélyesítőjét. Az északi fény piros-fehér-zöld logogása az ő pántlikája, s ennek emlékét népünk "bába-bukra" néven őrzi. Az agg királyban pedig az Ég királyát, a Mindenség ősz ősét ismerjük fel. E nyelvi kapcsolat viszont csak nyelvünkben van meg. Az ír legenda csodálatos színekben pompázó vidéke összeköttetésben van egy késői Csodaszarvas legendák csodálatos színekben pompázó szarvasával, ki ugyancsak az északi félteke csillagvilágának megjelenítője volt első elindulásunk idején. Nyelvünkbe hajszálpontosan beleépített hitvilágunk segítségével ezen összefüggéseket a teremtés hajnala óta máig is tisztán felismerhetjük.  
+> 
+> A kis tündéri lények nevének első szótagja a lebben, libben szavunkkal mutat rokonságot, valamint lapú szavunkkal, hiszen ezek a rege szerint lapulevelek alatt tanyáztak gyakran. A leprechaun szó a [[L/Libéd\|libéd]] (hattyú), a fekete tavon úszó libák meseindítékávaé ős palócaink emlékét őrzi e vidéken. Második szótagja a "kun" szavunkkal rokon, mely régen férfi jelentésű is volt éppen úgy, mint manó szavunk, amit ma ugyancsak mesebeli apró lényre alkalmazunk csupán; viszont a nőkre alkalmazott változatai máig fennmaradtak a "manyó" (öregasszony), "menyecske" (fiatal asszony), és meny szavainkban.  
+
+
+</div></div>
