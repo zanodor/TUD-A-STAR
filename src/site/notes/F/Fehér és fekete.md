@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-17T03:47","updated":"2024-02-02T03:01"}
+{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-17T03:47","updated":"2024-02-08T07:34"}
 ---
 
 
@@ -118,7 +118,7 @@ Ha már [[S/Szűr\|szűr]], éppen erről is szó van tőle [[F/Fehér és feket
 
 Bakos Attila A Duna evangéliuma című könyvének 265. oldalon kitér valamennyire a kusok kapcsán a fekete magyarokra is. Kérdés, hogy valódi fekete magyarok voltak, vagy magyarul beszélő civilizáltak, mint a Max Igan és [[F/Flink Attila\|Flink Attila]] féle ausztrál "magyarok" (ahol fehér bőrű bennszülöttek is éltek a feketékkel).  
 
-Talán a [[M/Mór\|mór]]oknak a fekete magyarokhoz is közük van, írja PJI.  
+Talán a [[M/Mór\|mór]]oknak a fekete magyarokhoz is közük van, írja Péterfai János.  
 
 ## Fehér és fekete pap ill. sámán
 
