@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ádám és Éva/","title":"Ádám és Éva","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-06T01:53","updated":"2023-11-28T09:24"}
+{"dg-publish":true,"permalink":"/A/Ádám és Éva/","title":"Ádám és Éva","tags":["Englishtexttranslated"],"created":"2023-11-06T01:53","updated":"2024-02-08T07:33"}
 ---
 
 
@@ -39,7 +39,7 @@ Ez egy fontos megállapítás! A mögöttes tartalmat a zsidók és a [[J/Judeo-
 
 Az [[I/Íj és a nyíl\|íj és a nyíl]] bevezetőjében látott kép alapján gondolhatnánk, hogy Ádám a nyílvessző és Éva az [[I/Íj\|íj]] ([[I/Ív\|ív]]).  
 Egyébiránt [[E/Éva\|Évá]]ról is lásd még legutóbb [[J/Jahve\|Jahve]] címnél írottakat.  
-Ádám a Nap, felesége, Éva pedig az ívek összessége egy Év alatt, írja PJI. Másutt írja, hogy Ádám csak férfi lehet:  
+Ádám a Nap, felesége, Éva pedig az ívek összessége egy Év alatt, írja Péterfai János. Másutt írja, hogy Ádám csak férfi lehet:  
 > [[A/Ádám\|Ádám]] neve kétségtelenül magyar név, az [[A/Ad\|Ad]] ige is és az Atya neve is. A név végén az M hang helyképző, amit a nyelvészek félreértenek, és azt hiszik, Ma istenanya jelzésére való. Ezért az Adamu a zsidóknál Anyaföld, de ez félreértés is lehet. Az A-Damu kétségtelenül női név, magyar nyelven, de az Adam kizárólag férfi név lehet. Az Atyám mai kifejezés csak megközelítőleg hasonló az Adam, Ádám nevünkhöz, ami tehát az Atya Helye jelentésű, teljes pontossággal. Ad-am. Az Adam továbbá az Udum változata is, tehát az Atya Napot is jelent, a Nap pedig alapvetően férfi minőség. Az Ádám név a szumeri magyar népnél is szerepel, Ad, Ada, Adda variációkban, mindig Atya jelentéssel.  
 
 Nos, [[E/Eire\|Eire]] és [[E/Éva\|Éva]] cím alapján Ádám inkább [[G/Geb\|Geb]]hez hasonlóan Föld lehet. Legalábbis ezt fel kell vetni nála.  
