@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bárka/","title":"Bárka","tags":["dg_uploaded"],"created":"2023-11-09T07:32","updated":"2023-11-09T07:32"}
+{"dg-publish":true,"permalink":"/B/Bárka/","title":"Bárka","created":"2023-11-09T07:32","updated":"2024-02-08T07:09"}
 ---
 
 
@@ -39,4 +39,4 @@ De aligha lehet a Nap a sarló felett, bármennyire is írja fentebb is JM, hogy
 > ![assets/Bárka_image5.png](/img/user/B/assets/B%C3%A1rka_image5.png)  
 > Mennyezetkazettánk ábrája vitathatatlanul az ószövetségi [[N/Noé\|Noé]] bárkáját idézi elénk. A fent megjelenő betűk – egyik lehetséges olvasatuk: NB – ugyanebbe az irányba mutatnak. A bárka azonban a magyar népi műveltség jelhasználatában ennél jóval tágabb jelentéskörű képlet. Akár meseszövegben, akár hímzett, faragott, írókázott minták között tűnik föl, mindenképpen az őszi napéjegyenlőséget követő Mérleg-hónap labilis egyensúlyi viszonyait, menedék-kereső mozgástendenciáit összegzi egyetlen képjellé. A túlélés záloga ez a "bárka" az élővilág számára az évkörnek ebben a szakaszában, hiszen ekkor fordul át a természet a fényben gazdag év-félből a sötétség és a hideg féléves birodalmába. A Mérleg havában Vénusz bolygó-uralmát tartja nyilván a népművészetünk valamennyi ágában kimutathatóan jelenlevő egyetemes csillagmítoszi hagyomány. A három galamb – egy világos, egy sötét, egy rejtőzködő – a Vénusz három lehetséges viselkedésmódjára utal. Van úgy, hogy hajnalcsillagként tűnik föl, van úgy, hogy esti csillagként, és van úgy, hogy nem látszik, mert vagy a Nap mögött vonul éppen vagy előtte, és akkor a "nagy világító" fénye elnyomja az övét. A két sötét madár a bárka két szélén az ugyanitt erőben levő szaturnuszi tulajdonságokat jeleníti. Ez a kemény visszafogó-gátló erőhatás kényszeríti menedékbe – a viszontagságoknak ellenálló, jól épített közegbe, bárkába-burokba – a máskülönben pusztulásra ítélt élőlényeket.  
 
-Egy ide is tehető JM passzus [[F/Frigyláda\|frigyláda]] címhez került.
+Egy ide is tehető Jankovics Marcell passzus [[F/Frigyláda\|frigyláda]] címhez került.
