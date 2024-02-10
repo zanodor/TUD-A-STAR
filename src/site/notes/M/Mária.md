@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2024-02-02T03:31"}
+{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2024-02-10T04:13"}
 ---
 
 
@@ -326,11 +326,11 @@ Ami még Mária szüzességi illetve vulvajelképét illeti, fentebb volt szó a
 
 > A zárt kert, zárt kapu – lásd Ezékiel 44,1-2 – általánosságban [[M/Mária\|Mária]] szüzességének volt a jelképe; a középkori zárt kolostorkertek is a szeplőtelen szerzetesi élet jelképeivé váltak.  
 
-A [[P/Phallic\|phallic]] címnél taglalt templom és pap témához jól kapcsolódik JM adata.  
+A [[P/Phallic\|phallic]] címnél taglalt templom és pap témához jól kapcsolódik Jankovics Marcell adata.  
 
 ## Mária köpenye
 
-Mária köpenyéről több helyen volt szó JM adatait idézve.  
+Mária köpenyéről több helyen volt szó Jankovics Marcell adatait idézve.  
 
 #### Tomory Zsuzsa Ősi magyar imádságaink...
 
