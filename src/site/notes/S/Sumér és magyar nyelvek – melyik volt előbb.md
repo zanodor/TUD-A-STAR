@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2024-02-02T03:44"}
+{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2024-02-10T04:20"}
 ---
 
 
@@ -89,7 +89,7 @@ A harmadik bizonyíték a [[M/Madár\|madár]] szavunk Dr. Gyárfás Ágnes ált
 Gyárfás Ágnes az Ősi Gyökér 2010/1-2. sz. közölt Magyar őskutatás a szimbolikák jegyében című cikkében tetszik amit, a lélek mélyén lappangó homályos képekről ír és azokról a jelképekről ([[S/Szarvas\|szarvas]], madár \[[[Turul\|[Turul]]\] és [[T/Tulipán\|tulipán]]), melyek a mélytudat képeit előcsalogató ún. közképek. Meg is említi a **magyar és madár szavak analógiájá**t. A madár nemzeti voltunkat meghatározó jelkép. Ami az etimológiai adatait illeti, lásd alant csatolva.  
 ![assets/Sumeresmagyarnyelvekmelyikvoltelobb_image1.png](/img/user/S/assets/Sumeresmagyarnyelvekmelyikvoltelobb_image1.png)  
 Nos, véleményem szerint ezek is csak azt mutatják, hogy a sumér az átvevő nyelv, nem a magyar eredetét képező. A Labat által említett, [[M/MISZ\|MISZ]] és más címnél hozott, azóta külön taglalt sumér [[M/Musen\|musen]] = madár, szárnyas; szárnyas rovar szót nem is veszi elő itt persze.  
-[[M/Magyar\|Magyar]] címnél pedig egyiptomi hieroglifák vizsgálata kapcsán is kimondtuk, hogy az egyiptomi és sumér utódnyelvek már önkényesen bántak a szótagokkal és önálló jelentéseket adtak nekik. (A kérdés persze az, hogy a GYÁ és Borbola János által bemutatott olvasatok eredetiek vagy saját kezűek.)  
+[[M/Magyar\|Magyar]] címnél pedig egyiptomi hieroglifák vizsgálata kapcsán is kimondtuk, hogy az egyiptomi és sumér utódnyelvek már önkényesen bántak a szótagokkal és önálló jelentéseket adtak nekik. (A kérdés persze az, hogy a Gyárfás Ágnes és Borbola János által bemutatott olvasatok eredetiek vagy saját kezűek.)  
 
 ### 4.
 
@@ -105,8 +105,8 @@ Lásd még [[E/Észak és dél#Északi népek délre költözése (és fordítva
 
 ### 6.
 
-A hatodikként említhető példa/bizonyíték is érdekes. A [[P/Pabilsag\|Pabilsag]] nevet hímséginek tekinti GYÁ és BA is (lásd [[O/Orion#Orion mint Nyilas/Vadász – Orion/Aryan és Pabilsag problematika\|Orion mint Nyilas/Vadász – Orion/Aryan és Pabilsag problematika]] cím/alcímnél). A sumér itt is a maga elképzelése alapján használja az ideogrammákat. Ugyebár arról van szó, hogy a Nyilas Nyílás (fő/mellék)értelmét már a sumerok nem ismerték-értették (ahogy ezek szerint [[A/Anu\|Anu]] nevét sem), úgy bánhattak önkényesen (el) más csillagképek neveivel is.  
-Már Gyárfás Ágnes adatait olvasva, [[P/Pabilsag\|Pabilsag]] címnél írottak alapján is felvetődött bennem, hogy Nyilas nem lehet Atya, ahogy GYÁ (és nyilván a sumér nyelvet ismerő forrásai) ilyen értelemmel ill. nemi előjellel megadták. A Tejútközpont a szülőhely, az anyaméh, ahonnan csak az anyai/istennői energiák jöhetnek, az én értelmezésem szerint.  
+A hatodikként említhető példa/bizonyíték is érdekes. A [[P/Pabilsag\|Pabilsag]] nevet hímséginek tekinti Gyárfás Ágnes és BA is (lásd [[O/Orion#Orion mint Nyilas/Vadász – Orion/Aryan és Pabilsag problematika\|Orion mint Nyilas/Vadász – Orion/Aryan és Pabilsag problematika]] cím/alcímnél). A sumér itt is a maga elképzelése alapján használja az ideogrammákat. Ugyebár arról van szó, hogy a Nyilas Nyílás (fő/mellék)értelmét már a sumerok nem ismerték-értették (ahogy ezek szerint [[A/Anu\|Anu]] nevét sem), úgy bánhattak önkényesen (el) más csillagképek neveivel is.  
+Már Gyárfás Ágnes adatait olvasva, [[P/Pabilsag\|Pabilsag]] címnél írottak alapján is felvetődött bennem, hogy Nyilas nem lehet Atya, ahogy Gyárfás Ágnes (és nyilván a sumér nyelvet ismerő forrásai) ilyen értelemmel ill. nemi előjellel megadták. A Tejútközpont a szülőhely, az anyaméh, ahonnan csak az anyai/istennői energiák jöhetnek, az én értelmezésem szerint.  
 
 ### 7.
 
