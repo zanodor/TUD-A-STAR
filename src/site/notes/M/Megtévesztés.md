@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2024-02-02T03:27"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2024-02-10T04:10"}
 ---
 
 
@@ -282,7 +282,7 @@ Hasonlóan működik a(z épp előbb is példaként említett) negáció, melyr�
 A "tudományban" alkalmazott eljárás: a mai állapotok alapján levont következtetéseket, az általam "igazságként" látott/ismertetett/bizonyított "valóságot" (álvalóságot, illúziót) a múltra vonatkoztatva is érvényesnek tekintem (mármint ők). Így operál a nyelvészet, de a [[S/Szemiták és árják\|szemiták és árják]] címnél szemiták/zsidók kapcsán tárgyalt genetikai kategorizálás is helytelen. Tulajdonképpen ez is a címkézéshez tartozó témakör, ha úgy vesszük. Kitalálok egy címkét vagy kategóriát és ahhoz tetszés (azaz politikai irányultság/célirány) szerint válogatva gyűjtöm, mehet-e ide vagy inkább oda. A [[F/Finnugor elmélet\|finnugor elmélet]] is így született, kirekesztés alapon.  
 De így operál – hatalmas anachronizmusos csúsztatással és démonizáló címkézéssel – az az izraeli forgatókönyvíró (gárda), aki gyermekeknek készült bábműsorban Jézust nácinak aposztrofálják.  
 
-[[R/Reneszánsz\|Reneszánsz]] címnél legutóbb arról volt szó, hogy elég a címkével ("újjászületés") azt a látszatot kelteni, hogy a régit visszahozzuk, holott éppen az időszakban találjuk ki, melyet visszavetítünk a múltba (hogy aztán reneszánsz címén újra visszahozhassuk) (ez egyelőre saját ötlet, nem Pap Gáboré, és a Fomenko könyveket sem olvastam).  
+[[R/Reneszánsz\|Reneszánsz]] címnél legutóbb arról volt szó, hogy elég a címkével ("újjászületés") azt a látszatot kelteni, hogy a régit visszahozzuk, holott éppen az időszakban találjuk ki, melyet visszavetítünk a múltba (hogy aztán reneszánsz címén újra visszahozhassuk).  
 
 ## Projekció
 
