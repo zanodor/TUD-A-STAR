@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Dialektikus ellentét/","title":"Dialektikus ellentét","created":"2023-10-06T12:03","updated":"2024-02-02T02:58"}
+{"dg-publish":true,"permalink":"/D/Dialektikus ellentét/","title":"Dialektikus ellentét","created":"2023-10-06T12:03","updated":"2024-02-10T03:45"}
 ---
 
 
@@ -37,12 +37,17 @@ Lehetett volna kezdeni a szeretet kontra félelem/gyűlölet témával kezdeni. 
 Ha már szeret, [[S/Sért és szeret\|sért és szeret]] is ilyen szavak: ami egyik oldalról szeret, az a másik oldalról sért. Ez mutatja meg a szeret szexuális értelmét is, ugyanis a hím feladata nemzeni és az akár halálos kimenetelű sérülés okozása is.  
 Figyeljük meg, hogy teljesen hasonló módon jelennek meg az ellentétes értelmek, mint [[S/Sár\|sár]] és [[S/Szár\|szár]] esetében. A test számára okozott sértés s-es, a szellemi irányultságú szeret viszont sz-előhangos.  
 
+#### Jankovics Marcell írja:
+
+> A régiek számára az ellentét (amilyen a tűz és a víz, az ég és a föld) nem merev szembenállást fejezett ki, hanem ellentétpárok egész sorával leírható dinamikus kapcsolatot, melyben az egyik oldal képviselője a másikba átalakulhat. Ahogy a jin-jang jelkép mutatja, vagy az a képzet, mely szerint a Nap éjszakára Holddá változik, vagy ahogy a tűz-víz isten, [[A/Apam Napat\|Apám Napát]] alakjában a két elem eggyéolvad.  
+- [[E/Elementál\|Elementál]] címnél bővebben is megvolt.
+
 #### L. Kecskés András A magyar zene évezredei 1. rész...
 
 ...című az Ősi Gyökér 2018/1-2. sz. megjelent cikkének [[S/Sine\|sine]], valamint [[S/Sárkány#Sárkányanya\|Sárkányanya]] cím/alcímnél írottak után írja:  
 > Az ős/aNYa/got, - azt, amiből még ma is minden kézzelfogható valami lesz, születik – a sumer-káldeai emberek teremtéstörténetükben/mítoszukban egy hullámzó testű, női minőséget jelző kígyóval /[[T/Tiamat\|Tiamat]]/ ábrázolták, a kígyózó mozgást érzékeltetve, mely egyben a tenger, a víz hullámzása, a föld ősi közegének sajátossága.  
+- Jól gondolkodik; még a [[J/Jin és jang\|jin-jang]] szimbólum két oldalát is kígyó S-vonala választja el.
 
-Jól gondolkodik; még a [[J/Jin és jang\|jin-jang]] szimbólum két oldalát is kígyó S-vonala választja el.  
 > Ezt a jelenséget tökéletesen szemlélteti a megütött hangvilla mozgása, mely egy odatartott, bekormozott üveglapon látható. A Biblia Teremtés könyvének kezdő mondatai közt ez olvasható: "...Isten lelke lebegett a vizek felett"; e lebegésből áll az anyaggá vált [[I/Ige\|IGe]], a [[S/SZÓ\|SZÓ]] és az [[E/Ének\|ÉNEK]].  
 
 Majd ami ide érdekes:  
@@ -53,7 +58,7 @@ Kecskés [[H/Hullám\|hullám]], majd [[F/Fény és anyag\|fény és anyag]] cí
 > Any – az anyag és anyaság ős-szava  
 > Milyen érdekes, hogy ezek a szavak amelyek szavaink végén is oly sokszor megjelennek és éppen ezen szócskák kapcsán jegyeztem meg, hogy ha nem értünk gy szót, érdemes szavak végére rápróbálni őket.  
 
-Bakos Attila A Duna Evangéliuma című könyvének 451. oldala alján a saját ellentétpárjait adja meg, a Nyilas kontra Ikrek alapfelállásból kiindulva, de nem számottevő a megfigyelése (híres magyar embereket, például Atillát Budával, Széchenyit Kossuth-tal állít szembe; a kuruc-labanc ellentétpár után említett népi-urbánus már egész jó példa).  
+Bakos Attila A Duna Evangéliuma című könyvének 451. oldala alján a saját ellentétpárjait adja meg, a Nyilas kontra Ikrek alapfelállásból kiindulva, de nem számottevő a megfigyelése (híres magyar embereket, például Atillát Budával, Széchenyit Kossuth-tal állítja szembe; a kuruc-labanc ellentétpár után említett népi-urbánus már egész jó példa).  
 
 Az [alábbi](https://youtu.be/cprybNjaxnQ) VNTV beszélgetésben Tóth Zoltán és Jakab István boncolgatja a fenttebb még nem említett másik ellentétpárt: **hős kontra áldozat**.  
 Ezek nem is annyira ellentétek, hiszen a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] címnél is taglalt Gesztesi féle sorok alapján is kiderül, hogy éppen a naphős kerül áldozati szerepkörbe.  
@@ -121,7 +126,7 @@ Az alábbiak [[E/Ellentétek harca\|ellentétek harca]] címnél is állhatnána
 
 Péterfai János azt írja, hogy a [[H/HAN#Han nép\|hanok]] a kínaivá lett hunok:  
 > A kínai Hanok meg ördögök a magyar Hunokkal, a Menny Fiaival szemben. A Hun és Han népnév régebben azonban egy nép két részét jelentette, vagyis magyarokat és kínaiakat.  
-- Valóban a `Han` = ördög jelentésű is. Azaz ezek a népek hasonló ellentétet alkotnak így, mint a [[D/Dévák és Aszúrák\|Dévák és Aszúrák]], [[I/Irán és Turán\|Irán és Turán]], [[A/Ászok és Vánok\|Ászok és Vánok]], vagy [[A/Ahura Mazda\|Ahura Mazda]] és [[A/Ahriman\|Ahriman]], [[O/Osiris és Set\|Osiris és Set]]. [[K/Káin és Ábel\|Káin és Ábel]] is említhető és [[R/Rama\|Rama]] (és Ravana) is. [[H/Hunor és Magor\|Hunor és Magor]] is ellentétpárok, de nem ellenségesek (eredetileg).
+- Valóban a `Han` = ördög jelentésű is. Azaz ezek a népek hasonló ellentétet alkotnak így, mint a [[D/Dévák és Aszúrák\|Dévák és Aszúrák]], [[I/Irán és Turán\|Irán és Turán]], [[A/Ászok és Vánok\|Ászok és Vánok]], vagy [[A/Ahura Mazda\|Ahura Mazda]] és [[A/Ahriman\|Ahriman]], [[O/Ozirisz és Széth\|Ozirisz és Széth]]. [[K/Káin és Ábel\|Káin és Ábel]] is említhető és [[R/Rama\|Rama]] (és Ravana) is. [[H/Hunor és Magor\|Hunor és Magor]] is ellentétpárok, de nem ellenségesek (eredetileg).
 
 Figyeljük meg, ezen istenség-párosok közül, az egyik mindig idősebb, mint a másik ([[R/Rama\|Rama]] másik ellenpárja Bharatha, kik közül talán utóbbi a fiatalabb). Az elsőbbséget a földi [[T/Trónöröklési rend\|trónöröklési rend]] alapján is figyelembe lehet venni. Valójában két variáció van.  
 Az egyik, hogy a korábbi világkorszak Napistenének tisztelői régebb óta vannak a Földön, így a tisztelet nekik jár ki (a turániak idősebbek is mint az irániak).  

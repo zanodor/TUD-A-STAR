@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arab nyelv/","title":"Arab nyelv","created":"2023-11-18T09:37","updated":"2024-02-08T07:05"}
+{"dg-publish":true,"permalink":"/A/Arab nyelv/","title":"Arab nyelv","created":"2023-11-18T09:37","updated":"2024-02-10T03:35"}
 ---
 
 
@@ -23,7 +23,7 @@ Az arab eredetűnek mondott [[G/Giraffe\|zsiráf]] nevével azonos a szláv nyel
 A germán `burg` szónak megfelel az arab `burj`, mely jelenthet csillagképet, tornyot, erődöt is.  
 
 Egy másik híres azonosság a földet jelentő arab `ard` (héber `eretz`) az [[E/Earth\|earth]] szóval. Itt sem tágít a nyelvészet.  
-- [[H/Héber bolygók\|Héber bolygók]] címnél Shay Zucker írja, hogy a látszat csal, a szemita szavak nem lennének rokonai a germán szavaknak; az [alábbi](https://qr.ae/TWtC8i) Quora oldalon is taglalják, miért lehet hasonló az angol és arab név. 
+- [[H/Héber bolygók\|Héber bolygók]] címnél Shay Zucker írja, hogy a látszat csal, a szemita szavak nem lennének rokonai a germán szavaknak; az [alábbi](https://qr.ae/TWtC8i) Quora oldalon is taglalják, miért lehet hasonló az angol és arab név.
 
 A [[S/Slay\|slay]] címnél említett óangol `slahan` = ölni szótöve és értelmére nézve azonos a meglepő módon szóelején hangtorlódásos arab `slah` = kar; fegyver szóval.  
 
@@ -49,8 +49,8 @@ Arról [[A/Alborz\|Alborz]] (és más) szócikknél is volt szó, hogy a szókin
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Ezzel azonos az okinawai japán `hiijaa` = kecske. Márpedig a Tejút két állatalakjáról van szó. [[I/Ilona\|Ilona]] címnél is írtuk, hogy az egyes állatalakok nevei más és más nyelvekben megjelenhetnek más és más jelentéssel. A Csudaszarvasünő – Tündér Ilona – Tejútanya – Tejút – Kígyó – [[K/Kígyóistennő\|kígyóistennő]] analógián haladva nem elképzelhetetlen, hogy Ilona (Illan?) neve kihat egyes nyelvek kígyó jelentésű szavának keletkezésére; lásd üzbég `ilon` = kígyó, tatár `elan`, továbbá jejesen török, baskír `yilan`. (A kirgizben `zsilan`, a tuvánban `csilan` (csillan?).)  
-Ide tehető még, hogy a finn `keiju` = tündér (keijukainen a kisebb méretű szárnyas) szó kígyó szavunkkal egyeztethetősége által is rámutat, hogy Tündér Ilonának milyen állatalakjai vannak. A másik szava (emberszerű) tündérre a (nőnemű) `haltijatar`, melynek `tijatar` része egyezik az ugor `tugater` = lány szóval (lásd [[D/Daughter\|daughter]]) és [[T/Tündér\|tündér]] szavunkra vezethető vissza.  
-A [[K/Kilo-\|kilo-]] címnél taglalt görög `khilioi` = ezer is lehet kijó eredetű, mivel sok ezer csillag alkotja a Tejutat.  
+Ezzel azonos az okinavai japán `hiijaa` = kecske. Márpedig a Tejút két állatalakjáról van szó. [[I/Ilona\|Ilona]] címnél is írtuk, hogy az egyes állatalakok nevei más és más nyelvekben megjelenhetnek más és más jelentéssel. A Csudaszarvasünő – Tündér Ilona – Tejútanya – Tejút – Kígyó – [[K/Kígyóistennő\|kígyóistennő]] analógián haladva nem elképzelhetetlen, hogy Ilona (Illan?) neve kihat egyes nyelvek kígyó jelentésű szavának keletkezésére; lásd üzbég `ilon` = kígyó, tatár `elan`, továbbá jejesen török, baskír `yilan`. (A kirgizben `zsilan`, a tuvánban `csilan` (csillan?).)  
+Ide tehető még, hogy a finn `keiju` = tündér (`keijukainen` a kisebb méretű szárnyas) szó kígyó szavunkkal egyeztethetősége által is rámutat, hogy Tündér Ilonának milyen állatalakjai vannak. A másik szava (emberszerű) tündérre a (nőnemű) `haltijatar`, melynek `tijatar` része egyezik az ugor `tugater` = lány szóval (lásd [[D/Daughter\|daughter]]) és [[T/Tündér\|tündér]] szavunkra vezethető vissza.  
+A [[K/Kilo-\|kilo-]] címnél taglalt görög `khilioi` = ezer is lehet \*kijó eredetű, mivel sok ezer csillag alkotja a Tejutat.  
 [[G/Göd\|Göd]] címnél pedig G-T vázú kígyót jelentő szavak jöttek elő, melyek [[G/Gőte\|gőte]] szavunkkal is mind azonosíthatók.  
-Az okinavai `kii` = fa és fidzsi-szigeteki `kau` = fa is lehet kígyó (Tejútanya állatlakja) = fa (Tejútanya faalakja) analógiára épülő.  
+Az okinavai `kii` = fa és fidzsi-szigeteki `kau` = fa is lehet kígyó (Tejútanya állatalakja) = fa (Tejútanya faalakja) analógiára épülő.  

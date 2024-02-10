@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Buda/","title":"Buda","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-12-03T10:25","updated":"2023-12-04T12:17"}
+{"dg-publish":true,"permalink":"/B/Buda/","title":"Buda","tags":["Englishtexttranslated"],"created":"2023-12-03T10:25","updated":"2024-02-10T03:41"}
 ---
 
 
@@ -7,8 +7,7 @@
 
 Ha valaki azt gondolná vagy hirdetné, hogy [[A/Atilla hun király\|Atilla]] testvére Buda Buddha után kapta volna a nevét, akkor tudnia kell, hogy 1) hamis elképzelés vagy 2) nincs erre bizonyíték. Leginkább arról van szó, hogy az a fontos, hogy amikor két hasonló nevet találunk, ne az egyiket a másikból akarjuk levezetni, hanem értelmezni (a szakrális hátterét) kell a neveket. Így amikor azt mondaná valaki, hogy Atilla testvére Buda [[B/Buddha\|Buddhá]]ról kapta a nevét, ez így nem igaz.  
 
-Érteni kell a Bu-Da (vagy Bud-A) nevet. Hasonlóan, amikor Paposi-Jobb Andor azt mondja, hogy a [[C/Cigány\|cigány]] a [[S/Szegény\|szegény]] módosulata, nem említi meg a [[S/Szikan\|szikan]] nevet. Vagy amikor GYÁ azt mondja, hogy [[S/Szíria\|Szíria]] a Szíriuszról kapja a nevét, ez így megint nem igaz.  
-Különösen külföldi kutatók futnak bele ilyen hibákba (például [[I/Irán\|Irán]] = [[A/Aryan\|Aryan]], a [[T/Turán\|Turán]] név Turk (Türk) név, vlach-[[O/Oláh\|oláh]] nevek nem megfelelő feltárása, stb.), de nekünk nem szabad.  
+
 Már [[L/Light\|light]] címnél is erre hívtuk fel a figyelmet. Egy valamire való filológus észre kell vegye, hogy ha egyezik is két szó, mélyebb kapcsolat fedezhető fel.  
 [[S/Sakaea\|Sakaea]] címnél is arról volt szó, hogy nem feltétlenül a szakák/szkíták ünnepe volt, ahogy GA véleményezte, hanem arról lehet szó, hogy a szaka és a Szakaea nevek azonos értelmi kiindulásúak. Ha a [[K/Karácsony\|Karácsony]] és [[K/Kerecsen\|kerecsen]] szavakat magyarnak érezzük és a magyarból akarjuk értelmezni de csak úgy, hogy egyik a másikból ered, ez így szintén nem elégséges.  
 Azon elképzelések, hogy a népek királyukról kapják a nevüket, a mi esetünkben a magyar egy [[M/Muager\|Maugerisz]] nevű királyról, megint nem helyes. A király a Napról ([[M/Magor\|Magor]], Magur ebben az esetben) és a nép is a Naptól (vagy anyjától, esetünkben [[M/Magyar\|Magyar]] ([[M/Magyar Ilona\|Ilona]]) istennőtől) kapja a nevét. Nem mindegy mit mivel kötünk össze. A közös eredet kell és a csillagmítoszi háttér feltárása szükséges.  

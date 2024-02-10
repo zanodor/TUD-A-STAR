@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Alvilág/","title":"Alvilág","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-22T03:43","updated":"2024-02-01T10:59"}
+{"dg-publish":true,"permalink":"/A/Alvilág/","title":"Alvilág","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-22T03:43","updated":"2024-02-10T03:35"}
 ---
 
 
@@ -18,7 +18,7 @@ Legutóbb [[G/Gemination\|gemination]] és [[Y/Yama\|Yama]] címnél is szerepel
 > **A mondottak szerint a mesék és mítoszok lapos, korong alakú földje nem az emberlakta Föld, hősei sem emberek, hanem antropomorfizált planéták**. Ez a föld az állatövi sík, az "aranytányér", melynek szélén a Napot megszemélyesítő mesehős, az "aranyhajú kertészbojtár", a lovát táncoltatja.  
 > E képzet jelentéstartalma is tágul az idők során. "Az Apokalipszis Mennyei Jeruzsáleme egy olyan ideális város, melynek alaprajza a [[M/Mandala\|mandala]] formáját követi: [[N/Négy\|négy]] sarokpontja a zodiákus körén található." A négy sarokpont mellé sorolódik keleten ötödik irányként az állatövi sík tengelye, azaz a világtojásé, "melynek négysarkú teste a világ négy sarkának a színeiben tündököl".  
 > A három világ megjelenítésének módja szerint az uráli (és mandzsu-tunguz) illetőleg az altaji dobok jól elkülöníthetők.
-- Mindenféle sámándobokkal kapcsolatos infóit lásd a könyvben, képekkel is.  
+- Mindenféle sámándobokkal kapcsolatos infóit lásd a könyvben, képekkel is.
 
 Ugyanezen könyvének alábbi passzusa [[T/Téridő\|téridő]] címnél is szerepelt:  
 > Az ég gömbjét a mese is 3 szeletre osztja a láthatóság, illetve az égitestek tartózkodási helye szerint. Felső világa az északi égbolt, ami a fejünk felett van, ahol planéta nem jár (a mesehős is csak lélekben képes rá). Ez a világ a soha le nem nyugvó csillagoké, a mesebeli gyémántrét, tündérország, az égig érő fa teteje. Középső világában a planéták és a felkelő meg lenyugvó csillagok közlekednek. A mesék "földje" ez, az a helyszín, ahol hősei élik életüket. Alsó világa pedig a soha fel nem kelő csillagoké, a déli égboltnak az a része, ahol planéta szintén nem jár, és ami rejtve marad a szemünk elől, hacsak nem utazunk a déli féltekére. A mesében ez a "setét ország", a rengeteg erdő (a dzsungel káosza szemben áll a tündérkert rendezettségével), a föld mélye, a "fekete tengeren" túli világ.  
@@ -40,7 +40,7 @@ Ugyanezen könyvének alábbi passzusa [[T/Téridő\|téridő]] címnél is szer
 
 Ezek szavak pedig egyezést mutatnak az etruszk lenyugvó Nap istenének, [[C/Cautha\|Cautha]]-nak nevével, melyet szintén hasonlítottunk a perzsa [[K/Khuda\|Khuda]] névhez. Kezd kirajzolódni a kép.  
 
-Lásd még JM adatsorát Anubiszról is [[H/Hádész\|Hádész]]. Lásd még legutóbb [[G/Gate\|gate]] címnél írottakat.
+Lásd még Jankovics Marcell adatsorát Anubiszról is [[H/Hádész\|Hádész]]. Lásd még legutóbb [[G/Gate\|gate]] címnél írottakat.
 
 #### Jankovics Marcell Jelkép-kalendárium...
 
