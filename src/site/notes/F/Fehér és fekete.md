@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-17T03:47","updated":"2024-02-08T07:34"}
+{"dg-publish":true,"permalink":"/F/Fehér és fekete/","title":"Fehér és fekete","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-17T03:47","updated":"2024-02-10T03:48"}
 ---
 
 
@@ -337,7 +337,7 @@ A szlávra visszatérve, [ezen](https://qr.ae/pGRCfU) Quora válaszban tértem k
 
 ## Fehér és fekete Napistenek ill. mitológiai alakok – világos és sötét félév ikeristenségei
 
-Jó lenne már őket összefoglalni valahol. [[H/Hunor és Magor\|Magor és Hunor]] a magyaroknál ([[I/Ikrek csillagkép\|Ikrek csillagkép]]ként[^8] is értelmezhetően, de nem Orionként), [[O/Osiris és Set\|Osiris és Set]] Egyiptomban (Orionként jelennek meg, de [[S/Széth\|Széth]] lehet Szíriusz is) alapkiindulónak vehető minden más mitológiai alakhoz viszonyítva (ősiségüket tekintve is, és utóbbi, a szintén magyar mitológiából kiinduló párost tekintve a mitológia részletekbeni kidolgozottságát illetően is vehető alapnak).  
+Jó lenne már őket összefoglalni valahol. [[H/Hunor és Magor\|Magor és Hunor]] a magyaroknál ([[I/Ikrek csillagkép\|Ikrek csillagkép]]ként[^8] is értelmezhetően, de nem Orionként), [[O/Ozirisz és Széth\|Ozirisz és Széth]] Egyiptomban (Orionként jelennek meg, de [[S/Széth\|Széth]] lehet Szíriusz is) alapkiindulónak vehető minden más mitológiai alakhoz viszonyítva (ősiségüket tekintve is, és utóbbi, a szintén magyar mitológiából kiinduló párost tekintve a mitológia részletekbeni kidolgozottságát illetően is vehető alapnak).  
 Az udmurt mitológiában az egyiptomi mintára megtaláljuk az Ember-Isten és Sátán Orion szétbontásával kapott ellentétét; lásd [[I/Inmar\|Inmar]].  
 A még mindig finnugor, finn mitológiában, a Kalevalában található egyik szarvasmondában a jó [[V/Väinämöinen\|Väinämöinen]] a gonosz [[J/Joukahainen\|Joukahainen]] áldozata lesz (az íjas téma elárulja, hogy Orionról vagy az [[I/Íj csillagkép\|Íj csillagkép]]ről, nyári napfordulós szerepcseréről van szó). Hasonló eset a [[N/Nimrud\|Nimrud]] címnél, külön alcímnél taglalt Jahve és Nimrud szembenállása ([[J/Jahve\|Jahve]] Széthnek felel meg és szintén íjas toposz maradt fenn, arab meséből). Az óéjszaki germán mitológiában az apjához, [[O/Odin\|Odin]]hoz hasonlóan vak, Hunornak megfelelő, de Kut/Kuta-névalakú [[H/Höd\|Höd]] a Bál-Nap [[B/Balder\|Balder]]t öli meg ("véletlenül"): itt is megtaláljuk az nyilas elemet és itt is a hatalomátvételről illetve hatalomátadásról van szó. A [[N/Nibelung-ének\|Nibelung-ének]]ben látott nevek is Magor és Hunor/Hunter leosztásúak.  
 A fentebb taglalt Belobog és Chernobog is ezen mitológiai toposz sarkított, egyszerű változata (nem sok maradt meg róluk a szlávok emlékezetében).  
