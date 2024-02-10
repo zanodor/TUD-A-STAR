@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Phallic/","title":"Phallic","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T05:11","updated":"2024-02-02T03:38"}
+{"dg-publish":true,"permalink":"/P/Phallic/","title":"Phallic","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T05:11","updated":"2024-02-10T04:17"}
 ---
 
 
@@ -9,9 +9,9 @@ Fallikus.
 
 #### Magyar Adorján írja:  
 
-> Görögül `phallos` (fallosz) = hímtag, de szóvégi sz hang csak azon szóvégzés, amelyet a görögök az idegenből átvett szavakhoz is hozzá szoktak volt tenni. Ámde hiszen ezen fallo szóval teljesen azonos a magyar `faló` szó is, márpedig úgy a [[T/Trója\|Trójá]]ról szóló regében, mint a magyar mesében is fa-lóról van szó. Ha pedig a magyar [[F/Fa\|fa]] szóhoz csak egy sz hangot teszünk hozzá, akkor is a hímtag \[[[Fasz\|fasz]]\] nevét kapjuk.  
+> Görögül `phallos` (fallosz) = hímtag, de szóvégi sz hang csak azon szóvégzés, amelyet a görögök az idegenből átvett szavakhoz is hozzá szoktak volt tenni. Ámde hiszen ezen fallo- szóval teljesen azonos a magyar `faló` szó is, márpedig úgy a [[T/Trója\|Trójá]]ról szóló regében, mint a magyar mesében is fa-lóról van szó. Ha pedig a magyar [[F/Fa\|fa]] szóhoz csak egy sz hangot teszünk hozzá, akkor is a hímtag \[[[Fasz\|fasz]]\] nevét kapjuk.  
 
-MA jól láthatja a Fa-Ló kapcsolatot, de nem ismeri a [[L/Ló\|LÓ]]/[[L/LU\|LU]] többjelentésű alapszót. Fa-Lu a [[L/Lingam\|lingam]]-nál is előjött erotikus jelképként értelmezhető fatörzs, mely olykor a phallosz helyett áll (a faodú viszont mindig az [[A/Anyaméh\|anyaméh]], nyílása pedig a [[V/Vulva\|vulva]] szimbóluma; lásd még [[F/Fa és férfi\|fa és férfi]] valamint [[F/Fa és nő\|fa és nő]]).  
+Magyar Adorján jól láthatja a Fa-Ló kapcsolatot, de nem ismeri a [[L/Ló\|LÓ]]/[[L/LU\|LU]] többjelentésű alapszót. Fa-Lu a [[L/Lingam\|lingam]]-nál is előjött erotikus jelképként értelmezhető fatörzs, mely olykor a phallosz helyett áll (a faodú viszont mindig az [[A/Anyaméh\|anyaméh]], nyílása pedig a [[V/Vulva\|vulva]] szimbóluma; lásd még [[F/Fa és férfi\|fa és férfi]] valamint [[F/Fa és nő\|fa és nő]]).  
 
 A hasonló magyar szavak közül a [[P/Pálca\|pálca]] és [[P/Pallos\|pallos]] szó mellett felhozható a Csőke Sándor adata szerint magyar pall = üt, szelet csap értelmű hímségi ige is, melyet CzF is adatol (és [[P/Pale\|pale]] szóban is megvan) (csak ugye mi legvégső esetben akarunk igékből levezetni).  
 [[P/Pile\|Pile]] és [[P/Pilis\|Pilis]] címnél nem a fa-ló összefüggés jött elő viszont.  
@@ -41,7 +41,7 @@ Ha már teremtőgyök, a pelaszg-palóc nyelven ez P-L, (B-L) mássalhangzóváz
 Ugyanakkor nem elképzelhetetlen, hogy a [[C/Cephalic\|cephalic]] szó görög elődje kő/sze előtag nélkül a phallosz.  
 
 Közben a megoldást megtaláltuk/megadtuk [[F/Flash\|flash]] címnél. Az ott írottak alapján a [[T/Trójai faló\|trójai faló]] és lófasz – fallosz megfeleltetések tévútnak bizonyulnak.  
-Ott arról volt szó, hogy sok más nyelv hasonló szavaihoz hasonlóan (legtöbbször a [[K/Kutya\|kutya]] – kutya hímtagja – Íjazó csillagkép – [[O/Orion övcsillagai\|Orion övcsillagai]] – Nimrud összefüggéseket láttuk) a nyílvessző és hímtag értelmek keveredését láttuk. Ami egyszer nyílvessző, másutt fallosz; lám a görög `phallos` = hímtag név tökéletesen megfelel az MA által sorolt szavaknak: a nyíl jelentésű görög `bélosz`, német `Pfeil`, francia `flèche` szavakról van szó. Amit még itt MA ír villámlás kapcsán, hogy az angol [[F/Flash\|flash]] szóalaknak és germán párjainak még villámlás és villám értelme is van (például magyar villan, [[V/Villám\|villám]], német `Blitz` és `blinken` = villám és villanni), és hogy ebből következtethető, hogy a nyíl őspalóc neve vil, vill avagy esetleg vall szóalak lehetett.  
+Ott arról volt szó, hogy sok más nyelv hasonló szavaihoz hasonlóan (legtöbbször a [[K/Kutya\|kutya]] – kutya hímtagja – Íjazó csillagkép – [[O/Orion övcsillagai\|Orion övcsillagai]] – Nimrud összefüggéseket láttuk) a nyílvessző és hímtag értelmek keveredését láttuk. Ami egyszer nyílvessző, másutt fallosz; lám a görög `phallos` = hímtag név tökéletesen megfelel az MA által sorolt szavaknak: a nyíl jelentésű görög `bélosz`, német `Pfeil`, francia `flèche` szavakról van szó. Amit még itt Magyar Adorján ír villámlás kapcsán, hogy az angol [[F/Flash\|flash]] szóalaknak és germán párjainak még villámlás és villám értelme is van (például magyar villan, [[V/Villám\|villám]], német `Blitz` és `blinken` = villám és villanni), és hogy ebből következtethető, hogy a nyíl őspalóc neve vil, vill avagy esetleg vall szóalak lehetett.  
 Ide kívánkozik még azon tény is, hogy a [[B/Balog\|Balog]] (valamint [[P/Palóc\|palóc]] és [[B/Balázs\|Balázs]]) név is ilyen alakúak és tulajdonképpen a [[P/Palóc\|palóc]] név teljesen azonos a phallosz névvel \[p = f\]. Ilyenképpen a lentebb cölöp kapcsán felvetett szómegfordításos eredeztetés helytelen.  
 
 Lásd még [[P/Pilis\|Pilis]], mindenképpen JM írását is [[P/Penis\|penis]] és [[T/Trójai faló\|trójai faló]]. [[O/Omphalos\|Omphalos]] szóban nyilván nem a phallosz elem található.  
