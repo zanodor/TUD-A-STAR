@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Trivial/","title":"Trivial","tags":["Englishtexttranslated"],"created":"2023-10-30T01:48","updated":"2024-02-02T04:05"}
+{"dg-publish":true,"permalink":"/T/Trivial/","title":"Trivial","tags":["Englishtexttranslated"],"created":"2023-10-30T01:48","updated":"2024-02-10T04:25"}
 ---
 
 
@@ -32,7 +32,7 @@ A nőiségi-princípium [[K/Kehely\|kehely]] (= [[H/Hüvely\|hüvely]]) alakot f
 Ezen görög betűjel viszont megegyezik a [[S/Székely-magyar rovásírás#TY\|székely-magyar rovásírás TY]] betűjével, melynél a fentiekhez hasonló kép is szerepelt. A villástengelyt formáló Y alak valóban egyezik a latin [[T/Trivium\|trivium]] = három út fogalmával.  
 De ilyen villát láttunk már szintén női szeméremrész kapcsán [[S/Sziget\|sziget]] címnél is.  
 
-Igen érdekes, amit Csodaszarvasában MA ír, ismét szeméremrészek kapcsán:  
+Igen érdekes, amit Csodaszarvasában Magyar Adorján ír, ismét szeméremrészek kapcsán:  
 > A hármas elágazású fáknál a középső ág, mivel az ott kevesebb napfényt kapott, többnyire elcsenevészedett, majd el is száradott, úgy hogy idővel csak kis csonkja maradott meg. Az ilyen fák törzséből azt megfordítva, készítették az ősök hímistenségeik bálványait, az ágcsonkot penisként fogva föl, míg a kétágú villás elágazásúakból nőistenségeik bálványai készültek. Az ilyen fák elágazásában pedig a női szeméremrészhez valóban meglepően hasonlító képződményt látunk.  
 
 Ősműveltségében bővebben ír erről:  
