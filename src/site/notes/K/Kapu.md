@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kapu/","title":"Kapu","created":"2023-10-30T08:56","updated":"2024-02-08T07:10"}
+{"dg-publish":true,"permalink":"/K/Kapu/","title":"Kapu","created":"2023-10-30T08:56","updated":"2024-02-10T04:04"}
 ---
 
 
@@ -50,7 +50,7 @@ A csillaghit nemcsak az évszakok és az év fordulóit tekinti kapuknak, hanem 
 
 ...adatsora A fa mitológiája 217. oldaláról (pecséthenger-képpel [[T/Téli napforduló\|téli napforduló]] címnél is megvolt):  
 > A keresztút nemcsak fordulópont, hanem átkelőhely is a Nap számára. Átkelőhely egyik évszakból a másikba, a Föld alól a levegőégbe: a felvilágba, s onnét ismét a látóhatár mögé: az alvilágba. (Átkelőhely a másik két keresztút is, a tavaszi és őszi napéjegyenlőség helye, ahol a nappálya és az égi egyenlítő metszi egymást. Csillagászati szempontból ui. az egyenlítő választja el az északi és a déli égboltot. Amikor a Nap ősszel az egyenlítő alá merül, akkor lép be tk. az alvilág kapuján, és amikor tavasszal az egyenlítő fölé emelkedik, akkor tér vissza a felvilágba.) A téli és nyári átjárók, "kapuk" közül, ahogy az ókorban nevezték (lásd a pecséthenger képét), a téli kapu a fontosabb, mivel ez volt az év kapuja, az év fordulójának a helye is. Kapu formája is inkább a téli átjárónak van, mivel a Tejút itt nemcsak kiszélesedik, hanem egy "[[F/Fekete lyuk\|fekete lyuk]]at" közrefogva két ágra, "kapufélfára" is hasad. Mindez a téli átjáró gazdagabb mitológiájában is kifejeződik.  
-> Abban a gondolatrendszerben, mely a Tejutat a nagy istennővel azonosítja, a téli kapu, a tejúthasadék az istennő ölének, szeméremnyílásának \[[[Vulva\|vulva]], [[P/Pina\|pina]], stb.\] felel meg, ahol a napisten és többi gyermeke a világra jön, [[S/Száj\|száj]]ának pedig a nyári kapu, ahol gyermekeit elnyeli és újra foganja. Ebbe a körbe tartoznak mindazok a mesék, melyekben az anya aranygyümölcs, aranyhal \[keltáknál[^2] féreg\] elfogyasztásától esik teherbe (vö. az aranyalmafát dézsmáló elvarázsolt tündérrel a Tündér Ilona, Csonkakezű leány típus meséiben), és aranyhajú \[lásd GYÁ által is elemzett [[A/Az aranyhajú királyfik mese\|Az aranyhajú királyfik mesé]]t is\] vagy más napjellel megjelölt gyermeket szül.  
+> Abban a gondolatrendszerben, mely a Tejutat a nagy istennővel azonosítja, a téli kapu, a tejúthasadék az istennő ölének, szeméremnyílásának \[[[Vulva\|vulva]], [[P/Pina\|pina]], stb.\] felel meg, ahol a napisten és többi gyermeke a világra jön, [[S/Száj\|száj]]ának pedig a nyári kapu, ahol gyermekeit elnyeli és újra foganja. Ebbe a körbe tartoznak mindazok a mesék, melyekben az anya aranygyümölcs, aranyhal \[keltáknál[^2] féreg\] elfogyasztásától esik teherbe (vö. az aranyalmafát dézsmáló elvarázsolt tündérrel a Tündér Ilona, Csonkakezű leány típus meséiben), és aranyhajú \[lásd Gyárfás Ágnes által is elemzett [[A/Az aranyhajú királyfik mese\|Az aranyhajú királyfik mesé]]t is\] vagy más napjellel megjelölt gyermeket szül.  
 
 #### Jankovics Marcell A Nap könyve...
 
