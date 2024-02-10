@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mithra/","title":"Mithra","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-07T05:29","updated":"2023-12-15T01:52"}
+{"dg-publish":true,"permalink":"/M/Mithra/","title":"Mithra","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-07T05:29","updated":"2024-02-10T04:12"}
 ---
 
 
 # Mithra
 
-Szergej Tokarev History of Religion című könyvében kifejti, hogy az ind istenség alakjával kapcsolatosan nincs biztos kialakult kép (viszont úgy tűnik, más istennek kapcsán ez ugyanaz elmondható):  
+#### Szergej Tokarev History of Religion...  
+
+...című könyvében kifejti hogy az ind istenség alakjával kapcsolatosan nincs biztos kialakult kép (viszont úgy tűnik más istennek kapcsán ez ugyanaz elmondható):  
 > Mithra was closely related to the group of sun gods. His image, however, is not too clear; in the Vedas he was usually pictured together with [[V/Varuna\|Varuna]]. Mithra, which means friend, was regarded as the defender of people.  
 > —  
 > Mithra szoros kapcsolatban állt a napistenek csoportjával. Az ő képe azonban nem túl egyértelmű; a Védákban általában [[V/Varuna\|Varuná]]val együtt ábrázolták. Mithrát, ami barátot jelent, az emberek védelmezőjének tekintették.  
@@ -15,8 +17,12 @@ Másutt, nagyobb meggyőződéssel írja:
 > —  
 > Az ókorban Mithra (hasonlóan azonos nevű indiai megfelelőjéhez) nyilvánvalóan a Nap egyik megszemélyesítője volt, ugyanakkor az erkölcsi fogalmakkal is kapcsolatban állt. Neve a hűséget jelölte. Az Avesta ősi szövegei nem említik Mithrát, de a jelek szerint a nép imádta őt. II. Artaxerxész király (i. e. 405-362) hivatalossá tette Mithra kultuszát. A Pártus (Kr. e. III. század - Kr. u. III. század) és a Római Birodalom korában a Mithra-kultusz nemcsak Iránban, hanem más országokban is elterjedt. A Pompeius-féle hadjáratok (i. e. 66-63) idejétől kezdve ez a kultusz messze nyugatra is eljutott, és különösen a római légiók körében volt népszerű. Mithrát nagy harcosként ábrázolták, aki egy mitikus bikát ölt meg. "Születésnapját" a téli napforduló idején, december 25-én ünnepelték; ez megerősíti Mithra napjellegét. Ugyanakkor Mithrát a Megváltónak tekintették.  
 
-Az egyik Krisztus (előd), Mithra kapcsán John G. Jackson Christianity before Christ című könyvének 69. oldalán neve mellé a [[M/Messiás\|Messiás]] címnél is elővett mediator megnevezést/fordítást teszi és bemutatja, hogy Jézushoz hasonlóan karácsonykor szűztől született és ugyanúgy 12 követője volt, ahogy Jézusnak 12 apostola.  
-Aztán kitér arra is, hogy az ind Mithra korábbi, mint a perzsa:  
+Az egyik Krisztus (előd), Mithra kapcsán...
+
+#### John G. Jackson Christianity before Christ...  
+
+...című könyvének 69. oldalán neve mellé a [[M/Messiás\|Messiás]] címnél is elővett mediator megnevezést/fordítást teszi és bemutatja hogy Jézushoz hasonlóan karácsonykor szűztől született és ugyanúgy 12 követője volt ahogy Jézusnak 12 apostola.  
+Aztán kitér arra is hogy az ind Mithra korábbi mint a perzsa:  
 > Kersey Graves in The World's Sixteen Crucified Saviors says that:  
 > This god was crucified in Persia in 600 B.C., citing Godfrey Higgins to the effect that he was slain upon the cross to make atonement for mankind, and to take away the sins of the world. This date of 600 B.C. cannot be correct, for Mithra was known among the pre-Aryan Indians at a much earlier date. He may have been a man who was elevated to godhood after his death during the dominance of the Dravidians, who preceded the Aryans of the Vedic age.  
 > Mithra was the Mediator between God and Man.  
@@ -48,7 +54,7 @@ Még azt is mondhatjuk ezennel, hogy úgy a germán [[H/Hang#Hang 2)\|hang]] ige
 A szavak arról árulkodnak, hogy a Nap égi pályáján azon pontra ér, amikor haldoklik, majd feltámad. Ezért is fontosak az Richard H. Allen által eufráteszinek adatolt, [[A/Anu\|Anu]] címnél említett Anu Nibat (a Sagittarius alfája lenne), az ind Anuradha és a tukanó Aña nevei, de tovább mehetünk az [[A/Annual\|annual]] és [[J/Janus\|Janus]] címnél előjövő szóformákkal is, melyek mind arra utalnak, hogy az év vége (halál) és az újév (feltámadás) jelzőhatárához érkezünk. [[O/Ötven\|Ötven]], [[H/Hekate\|Hekate]], [[T/Trivial\|trivial]] és más címnél szereplő adatok alapján lassan elegendő adat áll rendelkezésre egyszer és mindenkorra helyre tenni a dolgokat.  
 
 Joscelyn Godwin Arktos The Polar Myth című könyvének 162. oldalán lévő adata szerint a zoroasztianizmusban Mithra megjelenik poláris istenként, minthogy ([[A/Apolló\|Apollón]]hoz és [[A/Arthur\|Arthur]]hoz hasonlóan szoláris de hyperboreai-poláris istenként) az iráni Hara Albordzs [[V/Világhegy\|Világhegy]]en, illetve a felett lakik.  
-- Ehhez annyit, hogy JM adatai szerint a [[N/Nap – halott Nap\|Nap – halott Nap]] (de innen feltámadó is!) lakóhelyének képzeltetett az északi Sarkcsillag. Mithra viszont nem halottt Nap, hanem épp a feltámadó, fiatal Nap kell legyen.  <br/>
+- Ehhez annyit, hogy Jankovics Marcell adatai szerint a [[N/Nap – halott Nap\|Nap – halott Nap]] (de innen feltámadó is!) lakóhelyének képzeltetett az északi Sarkcsillag. Mithra viszont nem halottt Nap, hanem épp a feltámadó, fiatal Nap kell legyen.  <br/>
 Az tény, hogy (főleg a hanyatló tudású népek számára) kellett egy olyan isten is, aki a Föld tengelyforgásáért felelős, mely forgás valóban független a Nap körül végzett forgásunktól. Ha egyáltalán a lehanyatlott tudású népek tudták-e, hogy valójában nem a Nap kering a Föld körül, hanem fordítva. Rengeteg problémát okoz, hogy a hanyatlott tudású népek adatai alapján és az azt értelmező indo-európai kutatók alapján kell okosnak lennünk. Ezért kell mindig a nevek jelentése és a feltételezett eredeti funkciójuk alapján magunknak (magyar kutatóknak) mindent újraértelmezni, helyre tenni.  
 Amennyiben Mithrában tehát a szuperkozmikus, mindenféle világtengelyek hajtásáért felelős Sarkcsillag felett lakó Istent látják, mint a Teremtő (Ten) Isten (egyik megnyilvánulásá)t, ám legyen, de ő – dualisztikus világképben csak az egyik szereplő, így szükségszerűen együtt kell említeni másik társával, aki, ha igaz, Varuna.  
 
