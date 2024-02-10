@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csiga/","title":"Csiga","created":"2023-11-18T09:03","updated":"2024-01-14T03:02"}
+{"dg-publish":true,"permalink":"/C/Csiga/","title":"Csiga","created":"2023-11-18T09:03","updated":"2024-02-10T03:44"}
 ---
 
 
@@ -25,7 +25,7 @@ Magyar Adorján [[P/Polip\|polip]] címnél említi csiga szavunkat hangalaki le
 
 #### Varga Szilvia Ősi értékünk a szalonnai Napnak szentelt templom...  
 
-...című Ősi Gyökér 2004/3. számában megjelent szalonnai naptemplomról szóló cikkében a GYÁ által [[K/Kalács\|kalács]] és [[U/Újév\|újév]] címnél taglalt témát írja meg (nyilván őutána) (a hibásan leírt vezetékneveket én itt már javítva adom):  
+...című Ősi Gyökér 2004/3. számában megjelent szalonnai naptemplomról szóló cikkében a Gyárfás Ágnes által [[K/Kalács\|kalács]] és [[U/Újév\|újév]] címnél taglalt témát írja meg (nyilván őutána) (a hibásan leírt vezetékneveket én itt már javítva adom):  
 > A mai bejárati ajtóba beépítve gyönyörű kővéset látható, négy sorban elhelyezkedő csodaszép csigamotívummal. Ezek a csigavonalak a Nap útját ábrázolják az évkörben. Ez a kővéset a Nap útjának mintája, a Nap útjának térképe. A Nap útját két tudós vizsgálta és mérte le, Ross professzor Dél-Amerikában és Beély Sándor mérnök az 1930-as évek végén. Botok illetve kövek segítségével mérték le a Nap reggeli és esti vetületét, és ahol az árnyék találkozott azt a helyet megjelölték. Egy éven át rendszeresen végezték ezt a műveletet s a végeredmény a [[L/Lemniszkáta\|lemniszkátá]]nak a formája lett: egy hatalmas nagy fekvő nyolcas.  
 > A nyári időszakban a csigavonal sűrűbb formában rajzolódott ki, a téli időszakban kicsit lazább csigaformák jelentek meg. A Nap útja tehát tudományosan is bizonyítva, egy sokszoros spirál, azaz egy csigavonal. Ha ez a forma kicsi, inkább kezdeményszerű, akkor csírának nevezzük, mint tavasszal a föld alól kibújó kis növényeket. A kalocsai asszonyok hímzéseiken ezt karikónak hívják. A Nap útja tehát a nyári és téli napforduló idején csiga-vonalat ír le.  { #gscxfn}
 
