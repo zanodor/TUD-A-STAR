@@ -1,17 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/O/Oak/","title":"Oak","tags":["Englishtexttranslated"],"created":"2023-10-11T04:44","updated":"2024-02-08T11:47"}
+{"dg-publish":true,"permalink":"/O/Oak/","title":"Oak","tags":["Englishtexttranslated"],"created":"2023-10-11T04:44","updated":"2024-02-10T04:16"}
 ---
 
 
 # Oak
-{ #4305e5}
-
 
 [[T/Tölgy\|Tölgy]]fa. [[T/Táltos\|Táltos]]ok, [[D/Druida\|druidá]]k fája. A magyar tölgy inkább boncolgatható és hasonlítható tőgyhöz, amiből a táltost tápláló tej származik.  
 Az angol oak elődei a magyar [[O/OK\|OK]], [[E/Ég\|ég]], [[E/Egy\|egy]], [[A/Ág\|ág]] szavaink bármelyikére utalhatnak. Az Ok Péterfai János adata szerint Csillag.   
 
 A német `Eiche` és ófelnémet `eih` = tölgy [[Y/Ygg\|Ygg]] nevével és egyértelműen [[E/Ég\|ég]] szavunkkal azonosíthatók.  
-Az ([[E/Elk\|elk]] címnél is említett) ónorvég `eik` egyszerre tölgyfa és fa jelentésű, de megtudjuk (ahogy [[D/Druida\|druida]] címnél is szerepelt), hogy a görög nyelvben is `drúsz`/`drüsz` egyszerre fa és tölgyfa (és JM adata szerint fenyő is!); ezzel megkaptuk, hogy a tölgyfa a legfontosabb fa, a fák legszentebbike, királya.  
+Az ([[E/Elk\|elk]] címnél is említett) ónorvég `eik` egyszerre tölgyfa és fa jelentésű, de megtudjuk (ahogy [[D/Druida\|druida]] címnél is szerepelt), hogy a görög nyelvben is `drúsz`/`drüsz` egyszerre fa és tölgyfa (és Jankovics Marcell adata szerint fenyő is!); ezzel megkaptuk, hogy a tölgyfa a legfontosabb fa, a fák legszentebbike, királya.  
 
 [[M/Magyal\|Magyal]] címnél is lesz arról szó, melyik a legszentebb fa. Lásd még [[F/Fa – szent fa\|fa – szent fa]].
 
@@ -75,7 +73,7 @@ A Nagy Medvénél maradva, az ősi csillagkép-istent benne kereső...
 Lényegében mondjuk ki: az [[A/AK\|AK]], [[A/AG\|AG]], [[I/IG\|IG]], [[O/OG\|OG]], [[O/OK\|OK]] mind az ég nevei és másrészt égi világítók, szemek nevei. Az égen van a Tejút is, mely tölgyfa alakot is ölt. A tölgyfa ágai, ahogy a Szarvas agancs-ágai pedig kinyúlnak a 12/14 állatövi csillagkép irányába, ahogy [[P/Perennial\|perennial]] és [[Z/Zodiac\|zodiac]] címnél szerepelt.  
 A vélhetően [[A/Ágas\|ágas]] szavunkból erődjei szanszkrit `akasha` = ég kapcsán lásd előbbi címnél.  
 
-A tölgy párja a [[B/Bükk\|bükk]]fa, szintén Világfa-jelkép. Ugyan AJ adata szerint az ógörögben `fagosz` = bükk(fa), ezt a szót ma már nem használja a görög, helyette az `oξιά` (oksziá) = bükkfa és `ξύλο` (kszúlo) és `oξιάς` (oksziász) = bükk(fa faanyaga) szavakat használja. Ezen szavak igen hasonlóak a tölgy angol nevéhez (Oxford nem rokonít), de a Péterfai János által elemzett [[O/Oxus\|Oxus]] névhez is.  
+A tölgy párja a [[B/Bükk\|bükk]]fa, szintén Világfa-jelkép. Ugyan Aczél József adata szerint az ógörögben `fagosz` = bükk(fa), ezt a szót ma már nem használja a görög, helyette az `oξιά` (oksziá) = bükkfa és `ξύλο` (kszúlo) és `oξιάς` (oksziász) = bükk(fa faanyaga) szavakat használja. Ezen szavak igen hasonlóak a tölgy angol nevéhez (Oxford nem rokonít), de a Péterfai János által elemzett [[O/Oxus\|Oxus]] névhez is.  
 
 De ha már ennyire ragaszkodunk **a germán Ok alakú szóhoz, nem szabad kihagyni, hogy a japáni `ōku` = tölgy azonos a germánnal**.  
 A Falk Nóra által adatolt északi lapp `oaksi` = ág is tökéletesen megfelel mind a magyar, mind a taglalt angol szónak. Az északi lapp `áksán` = agancs(ozat), agancskorona jelentésű.  
