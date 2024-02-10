@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/C/Canvas/","title":"Canvas","tags":["dg_uploaded"],"created":"2023-10-30T08:56","updated":"2023-10-30T08:56"}
+{"dg-publish":true,"permalink":"/C/Canvas/","title":"Canvas","created":"2023-10-30T08:56","updated":"2024-02-10T03:42"}
 ---
 
 
 # Canvas
 
 Vászon, kanavász. Vászon szavunk összefügghet a fehér jelentésű [[V/VASZ\|VASZ]]-szal. Canvas így kan-vasz.  
-A hivatalos nyelvészet a kendert jelentő szóból vezeti le (melyről lásd MA írását is [[C/Canopy\|canopy]]; ott egy `kanop` szót is említ).  
+A hivatalos nyelvészet a kendert jelentő szóból vezeti le (melyről lásd Magyar Adorján írását is [[C/Canopy\|canopy]]; ott egy `kanop` szót is említ).  
 ORIGIN: OFr canevas, from L cannabis, from Gr kannabis hemp  
 
-Kanavász is teljesen magyarnak tűnő szó.  
+\*Kanavász is teljesen magyarnak tűnő szó.  
 Lásd még Buji Ferenc írását [[C/Cannabis\|cannabis]].  
 
 Az nyilvánvaló, hogy a [[C/Canopy\|canopy]] címnél is taglalt éji ég vásznáról és annak földi tükrözéséről van szó. Vegyük észre, még a [[S/Sátor\|sátor]] (ég-jelkép; a sátor vásznának varrata a Tejút) fogalmával kapcsolatos [[C/Camp\|camp]] szó is ilyen alakú.  
