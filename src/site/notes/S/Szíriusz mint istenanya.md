@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz mint istenanya/","title":"Szíriusz mint istenanya","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-30T08:53","updated":"2023-11-30T08:53"}
+{"dg-publish":true,"permalink":"/S/Szíriusz mint istenanya/","title":"Szíriusz mint istenanya","created":"2023-11-30T08:53","updated":"2024-02-10T04:24"}
 ---
 
 
@@ -61,4 +61,4 @@ A Szuhur formához még igen hasonló a Sziriusz egyiptomi Sihor neve (lásd [[S
 Egy korai termékenység isten, akit imádtak, különböző jelzőkkel látták el mindenhol, mint például "oroszlánfejű sas." Cf H. Frankfort: Early Dynastic Sculptured Mace-heads. A. Orientalia 1935, p. 105.  
 
 [^6]: Lábjegyzet:  
-Mint látjuk, a Szarvas, mint Bak csillagkép a Nyilas utáni jegy és nem véletlenül szúrtam be [[M/Magor\|Magor]] nevét MA írásába. [[M/Magor\|Magor]] címnél ugyanis kitérünk a [[S/Sumér zodiákus\|sumér zodiákus]] Kecskebakhaljára is: ilyenkor történik az újjászületés.  
+Mint látjuk, a Szarvas, mint Bak csillagkép a Nyilas utáni jegy és nem véletlenül szúrtam be [[M/Magor\|Magor]] nevét Magyar Adorján írásába. [[M/Magor\|Magor]] címnél ugyanis kitérünk a [[S/Sumér zodiákus\|sumér zodiákus]] Kecskebakhaljára is: ilyenkor történik az újjászületés.  
