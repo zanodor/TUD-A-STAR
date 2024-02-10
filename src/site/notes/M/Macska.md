@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Macska/","title":"Macska","created":"2023-11-17T11:07","updated":"2024-02-02T03:21"}
+{"dg-publish":true,"permalink":"/M/Macska/","title":"Macska","created":"2023-11-17T11:07","updated":"2024-02-10T04:07"}
 ---
 
 
@@ -10,7 +10,7 @@
 > A Mancs az állatok keze. Az oroszlán mancsa az oroszlán elülső végtagja. Ismert az Macska szó levezetése a Mancska szóból, mármint a Mancska "n" hangja kiesik, és marad a Macska. A magam részéről ezt a levezetést nem tudom elfogadni. Szerintem a [[M/Makacs\|Makacs]] szóból ered a Makcsa, mivel a Makacs Makcsa alakra módosul, mert a macska rendkívül makacs, azt csinál, amit akar. Ő a magányosan sétáló macska.  
 > Másik fontos állatcsoportunk a Macskák. Nevük a [[M/Makacs\|Makacs]] szóból származik, mivel makacsabb szolgánk, barátunk nincsen, mint a macska. Állandóan a saját feje után megy, ráadásul **ő tekint minket szolgának**, akik kötelesek vagyunk őt finom ételekkel ellátni, cirógatni, babusgatni. Ennek fejében kifejezi szeretetét irányunkban, továbbá leöli a sok káros és veszélyes rágcsálót a környezetünkben. Rendkívül kiváló vadász, de néha a hasznos madarakat is elkapja. Azt már sikerült elérni, hogy a tyúkokat, kacsákat, libákat nem tekinti zsákmánynak. Az embergyerekeket rendkívüli módon szereti. Sok mese hőse. A 7 vagy 12 éves macska boszorkánnyá vagy macskakirálynővé válhat. A macska második hű szolgánk.  
 
-Amennyiben Péterfai János szerint a macska a magányos és [[M/Makacs\|makacs]] ideák nyomán vizsgálandó, akkor gyorsan itt fel kell eleveníteni azt, amit MA írt a magányosságról, minthogy hímségi princípium.  
+Amennyiben Péterfai János szerint a macska a magányos és [[M/Makacs\|makacs]] ideák nyomán vizsgálandó, akkor gyorsan itt fel kell eleveníteni azt, amit Magyar Adorján írt a magányosságról, minthogy hímségi princípium.  
 A macska szavunkban így a Macs a Makk, [[M/MAG\|Mag]] változata, csillag, Nap, hímségi kell legyen: a nagymacskák mindenütt Napjelképek. De Nap Háza értelmű a [[K/Kutya\|Kutya]] is, sőt, a Kin/Kün/Kan nevek is Napnevek. A kutya ugyanúgy asztrális név, mint a macska. A [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]] szócikk alatt is szerepelt, hogy ez a két fontos háziállatunk, a kutya és a (nagy)macska tulajdonképpen [[H/Hunor és Magor\|Hunor és Magor]] kergetőzése kell legyen az égen. Persze a kutya inkább kergeti a macskát, mintsem fordítva.   
 
 A PJI-nek nem tetsző (HH3 videóiban visszatérő) mancs – macska levezetésre visszatérve; a kelta-ír `màg` = mancs mutat rá, hogy ez a szó [[O/Orrhang\|orrhang]] nélkül, torokhanggal is szerepelt. Elképzelhető eztán, hogy macska is szerepelt \*makka alakban. Mivel viszont -ka kicsinyítés is lehet, visszatérünk oda, hogy a macska sem más, mint Mag = Nap.  
