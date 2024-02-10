@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Dagon/","title":"Dagon","tags":["Englishtexttranslated"],"created":"2023-11-18T09:26","updated":"2024-02-10T03:44"}
+{"dg-publish":true,"permalink":"/D/Dagon/","title":"Dagon","tags":["Englishtexttranslated"],"created":"2023-11-18T09:26","updated":"2024-02-10T03:45"}
 ---
 
 
@@ -13,7 +13,7 @@
 > In a later scene, the Philistines captured the Ark of the Covenant and carried it to the house of Dagon "and set it by Dagon. And when they of Ashdod arose early on the morrow, behold Dagon was fallen upon his face to the earth before the ark of the Lord" (1 Sam. 5:3-4). When they tried again, the head of the statue came off and the palms of his hands were cut off, leaving only the stump of the fallen idol. The episode ends.  
 > —  
 > Dágon (Józs:41, 19:27; Bír 16:23-30; 1Sám 5:1-5) Dágont, a termékenység istenét Baál atyjának nevezték, bár más helyeken Baál atyját Elnek hívták. Természetisten volt, neve a föníciai "gabona" szóból származott. Az ugarit szövegek szerint az Eufrátesz-völgyben már a legkorábbi időktől kezdve imádták. Az akkád Szargon állítólag az i. e. huszonharmadik században hódolt neki.  
-> Egyesek azt feltételezik, hogy ő egy hímsellő volt, testének felső fele ember, alsó fele pedig hal. Nem világos, hogy az izraeliták hogyan képzelték el őt, vagy milyen szobrokat láthattak róla. A Szentírás első említése kétértelművé teszi a képét, a második pedig úgy tűnik, hogy cáfolja a halember ábrázolását. A héber Bibliában Dágont csak a filiszteusokkal kapcsolatban említik. Az első esetben a héberek e hagyományos ellenségei a fogságban lévő és megvakított Sámsont Dagon templomának oszlopaihoz láncolták. Utolsó hőstettében Sámson Gázában ledöntötte az oszlopokat Dágon imádóira (Bír 16:23-30).  
+> Egyesek azt feltételezik, hogy ő egy hímsellő volt, testének felső fele ember, alsó fele pedig hal. Nem világos, hogy az izraeliták hogyan képzelték el őt, vagy milyen szobrokat láthattak róla. A Szentírás első említése kétértelművé teszi a képét, a második pedig úgy tűnik, hogy cáfolja a halember ábrázolását. A héber Bibliában Dágont csak a filiszteusokkal kapcsolatban említik. Az első esetben a héberek e hagyományos ellenségei a fogságban lévő és megvakított Sámsont Dágon templomának oszlopaihoz láncolták. Utolsó hőstettében Sámson Gázában ledöntötte az oszlopokat Dágon imádóira (Bír 16:23-30).  
 > Egy későbbi jelenetben a filiszteusok elfogták a frigyládát, és Dágon házához vitték, "és Dágon mellé állították. És amikor másnap korán felkeltek az asdódiak, íme, Dágon arcra borult a földre az Úr ládája előtt" (1Sám 5:3-4). Amikor újra megpróbálták, a szobor feje leszakadt, a tenyerét pedig levágták, és csak a leesett bálvány csonkja maradt meg. Az epizód véget ért.  
 
 Majd hal címnél:  
