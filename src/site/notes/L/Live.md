@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Live/","title":"Live","tags":["dg_uploaded"],"created":"2023-11-13T03:35","updated":"2023-11-13T03:35"}
+{"dg-publish":true,"permalink":"/L/Live/","title":"Live","created":"2023-11-13T03:35","updated":"2024-02-10T04:06"}
 ---
 
 
@@ -45,4 +45,4 @@ Ott, [[L/LEB\|LEB]] címnél közben azt is kimutattuk, hogy a [[L/Lép\|lép]] 
 Igen ám, de kimondottan a finn `eleve` = élő és az angol [[A/Alive\|alive]] = élő egyezősége mutathat rá, hogy ezen utóbbi szóalalak kerülhetett át a nyelvbe, melyből visszaképzésből eredhetne a live ige és a [[L/Life\|life]] főnév, majd a [[L/Liver\|liver]] = máj. Márpedig ha [[P/Péterfai hibái\|Péterfai hibái]] címnél írottak szerint is vagy Szkytha vagy Szythész elemezendő illetve tartandó kiindulónak, akkor itt sem lenne értelme külön utakon elemezni a szavakat. Csakhogy mivel az ember nem biztos a dolgában, mindenhova nyúl.  
 Ahogy [[G/Graph\|graph]] címnél is írtuk, a helyes (általában évköri/életkörre visszavezethető alapértelmezésű) logikai sorrendre kell rátalálni.  
 
-MA írása [[L/Levitate\|levitate]] címnél is megnézendő; az olasz `lievito` = élesztő szónál még mindig könnyűségről beszél úgy, hogy az angol live szót nem említi (élet – élesztő analógia adja magát; persze mindkét szó azonos magyar eredetű).  
+Magyar Adorján írása [[L/Levitate\|levitate]] címnél is megnézendő; az olasz `lievito` = élesztő szónál még mindig könnyűségről beszél úgy, hogy az angol live szót nem említi (élet – élesztő analógia adja magát; persze mindkét szó azonos magyar eredetű).  
