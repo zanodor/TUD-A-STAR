@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mithra és a bika/","title":"Mithra és a bika","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T02:41","updated":"2024-02-07T01:26"}
+{"dg-publish":true,"permalink":"/M/Mithra és a bika/","title":"Mithra és a bika","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T02:41","updated":"2024-02-10T04:11"}
 ---
 
 
@@ -107,7 +107,7 @@ Egy helyen – nyilván David Ulansey alapján – JMJ is írja:
 Joscelyn Godwin Arktos című könyvében ugyanígy:  
 > The precessional movement, which in the geostatic cosmology of Antiquity was ascribed to the stars, required a supra-cosmic divinity to move it, and according to Ulansey it was the Persian God Mithra who was adapted to this role.  
 
-A történet szóba jött [[O/Osiris és Set\|Osiris és Set]] címnél, minthogy Ozirisz-Orion (Vezér) vezeti a csillagképeket (értsd: okozza a precessziót) és ugyanezt mondja Walter Cruttenden is, csak ő Mithrára értve.  
+A történet szóba jött [[O/Ozirisz és Széth\|Ozirisz és Széth]] címnél, minthogy Ozirisz-Orion (Vezér) vezeti a csillagképeket (értsd: okozza a precessziót) és ugyanezt mondja Walter Cruttenden is, csak ő Mithrára értve.  
 Azaz még viszont mindig nem egyértelmű, hogy jön Orion a képbe (tény, [[S/Szíriusz Iránban\|Szíriusz Iránban]], [[S/Szíriusz és a nyíl\|Szíriusz és a nyíl]], valamint [[O/Orion\|Orion]] címnél volt arról szó, hogy a régi csillagászatban gyakorlatilag Oriont és Szíriuszt egynek kezelték). Talán az [[O/Orion övcsillagai\|Orion övcsillagai]] címnél (frissen is) írottak erre választ adnak.  
 (Egyébiránt [[F/Firdauszi\|Firdauszi]] [[F/Feridun\|Feridun]]ja is Orion-alak lehet, azzal is, hogy uralkodásának éppen ötvenedik évében felosztja (égi) birodalmát két (történetben: három) fia közt.)  
 
@@ -175,7 +175,7 @@ Ugyan [[F/Firdauszi\|Firdauszi]] [[S/Shahnameh\|Shahnameh]] eposza rengeteg szer
 Még egy töredékes felirat a poetovioi Mithras-emlékek között. Értelme, már ami a néhány szavas szövegnek lehet, homályos. Így szól: ...\[ele\]vavit in modum Solis (C)auti et Cautopati in (h)onor(em)]. Azaz: ...Napisten módjára emelkedett fel. Cautes és Cautopates tiszteletére (szentelték ezt az emléket). Cautes és Cautopates a bikaölés reliefek két oldalán álló két fáklyás ifjú, - az Ikrek csillagkép Castor és Pollux csillagai \[Richard H. Allen könyvében ezek a nevek nem szerepelnek\] – az Élet és Halál egységének, az Örök Élet gondolatának megtestesítői. Az elevatio fogalma pedig – szótári szinten – egyértelmű: "felemelkedés, felemelés".  
 
 [^2]: Lábjegyzet:  
-Erre értheti Jankovics Marcell  
+Erre értheti Jankovics Marcell:  
 Mithras létrájának van egy nyolcadik foka is, ez a boiygószférákon túli égi kapu az istené, amiben értelemszerűen benne foglaltatik, hogy Mithras nem Nap, nem a "hetek" egyike, csak időről időre, mint a kapuban álló Orion is, egyesül vele.  
 
 [^3]: Lábjegyzet:  
