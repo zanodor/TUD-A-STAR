@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Y/Yggdrasil/","title":"Yggdrasil","tags":["Englishtexttranslated"],"created":"2024-01-02T06:47","updated":"2024-01-12T06:38"}
+{"dg-publish":true,"permalink":"/Y/Yggdrasil/","title":"Yggdrasil","tags":["Englishtexttranslated"],"created":"2024-01-02T06:47","updated":"2024-02-10T04:26"}
 ---
 
 
@@ -13,7 +13,7 @@ Wikipedia adatsora lehetett:
 > A kőrisfa Yggdrasil az egész világegyetem szerkezetét jelképezi, amely egyszerre határtalan kiterjedésű és szorosan összefüggő. A Gonosznak a Jó és az egész teremtés elleni harcát a Nidhogg kígyó (azaz "aki keserű ellenségeskedéssel vagy rosszindulattal csap le") jelképezi, és a teremtett dolgok folyamatos változását és mulandóságát az örökké tartó fa testesíti meg. Így szólnak a Grímnismál versei: "Yggdrasil kőrisét sújtja, senki sem tudja, milyen súlyosan; a [[S/Szarvas\|szarvas]] learatja koronáját, a törzs elrohad, Nidhogg rágja a gyökerét".  
 - Mint látható, az angol nyelvben [[A/Ash#Ash 2)\|ash]] jelenti a kőrist, melynek nyilván [[A/Ász\|Ász]]/[[O/Ős\|Ős]] azaz isten vonatkozása van.  
 
-Vasváry-Tóth Tibor szerint visszafelé kell olvasni: Drasil – Lizard. [[R/Ragnarök\|Ragnarök]], valamint [[R/Romulus és Remus\|Romulus és Remus]] esetében is ezt gondolta. VTT nem ismeri fel a Dra tölgy, fa jelentését (lásd [[T/Tree\|tree]] és [[D/Darag\|darag]]) és a [[S/SZIL\|SZIL]] etimont. [[Y/Ygg\|Ygg]] mindenkinél Ég illetve Egy.  
+Vasváry-Tóth Tibor szerint visszafelé kell olvasni: Drasil – Lizard. [[R/Ragnarök\|Ragnarök]], valamint [[R/Romulus és Remus\|Romulus és Remus]] esetében is ezt gondolta. Vasváry-Tóth Tibor nem ismeri fel a Dra tölgy, fa jelentését (lásd [[T/Tree\|tree]] és [[D/Darag\|darag]]) és a [[S/SZIL\|SZIL]] etimont. [[Y/Ygg\|Ygg]] mindenkinél Ég illetve Egy.  
 
 Jankovics Marcell A fa mitológiájában a hivatalos jelentést hozza: Ygg lova. Említi azt is, hogy ez a fa kőrisfa, "világkőris". A Drasil Dra eleme fára ([[T/Tree\|tree]]) látszik utalni, míg [[S/SZIL\|SZIL]] = fényes. A ló jelentésben nyilván a táltosparipa indítékának belemosódását kell felfedezni.  
 
