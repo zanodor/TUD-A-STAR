@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hegy és barlang/","title":"Hegy és barlang","tags":["dg_uploaded"],"created":"2023-11-09T04:49","updated":"2023-11-09T04:49"}
+{"dg-publish":true,"permalink":"/H/Hegy és barlang/","title":"Hegy és barlang","created":"2023-11-09T04:49","updated":"2024-02-10T04:02"}
 ---
 
 
@@ -10,7 +10,7 @@ Ott kezdjük, hogy mindkét hely szakrális jelentőségű volt eleinknél.
 A [[C/Church\|church]] szóval való hasonlósága miatt felhozott [[C/Cirque\|cirque]] szó jelentése miatt is érdekes, hiszen templom lehet hegy tetején és inverzében, barlangban is. Különösen a [[P/Phallic\|phallic]] és más címnél taglalt témák alapján.  
 
 Az olasz-angol [[G/Grotto\|grotto]] = barlang szót a nyelvészet a [[C/Crypt\|crypt]] görög elődjétől eredezteti, de mindkét szóban találni hegyre utaló szót: [[G/GÓR\|GÓR]] és [[K/KUR\|KUR]].  
-Ez utóbbi címnél kiderült, hogy a sumér nyelv `KUR` alatt furcsamód az alvilágot érti (JM adata).  
+Ez utóbbi címnél kiderült, hogy a sumér nyelv `KUR` alatt furcsamód az alvilágot érti (Jankovics Marcell adata).  
 
 Itt nyilván azt a képzetet kell látni, hogy az [[E/Életkör\|életkör]] állomásai közt van magas és mélypont is. A Kör = Nap mozgása is ilyen, de a téli napfordulós Nap születése (a [[T/Tejútanya\|Tejútanya]] méhéből/öléből; lásd még [[K/Köldök\|köldök]] szót is) kiemelt jelentőségű és minden abból indul ki.  
 
