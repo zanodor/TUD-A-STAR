@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/D/Dagon/","title":"Dagon","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-18T09:26","updated":"2023-11-18T09:26"}
+{"dg-publish":true,"permalink":"/D/Dagon/","title":"Dagon","tags":["Englishtexttranslated"],"created":"2023-11-18T09:26","updated":"2024-02-10T03:44"}
 ---
 
 
 # Dagon
 
-#### Nancy M. Tischler írja Biblia Enciklopédiájában:
+#### Nancy M. Tischler...
 
+...írja Biblia Enciklopédiájában:
 > Dagon (Josh:41, 19:27; Judg. 16:23-30; 1 Sam. 5:1-5) Dagon, a fertility god, was called the father of Baal, although in other places, Baal's father was named El. He was a nature god, with a name that derived from the Phoenician word for "grain." According to Ugaritic texts, he was worshipped from earliest times in the Euphrates Valley. Sargon of Accad was supposed to have paid homage to him in the twenty-third century B.C.  
 > Some have speculated that he was a merman, the upper half of his body a man, the lower half a fish. It is not clear how the Israelites pictured him or what statues of him they might have seen. The first reference in Scripture leaves his image ambiguous, and the second seems to belie the portrayal of a fish-man. In the Hebrew Bible, Dagon is mentioned only in connection with the Philistines. In the first case, these traditional enemies of the Hebrews chained Samson, captive and blinded, to the pillars of Dagon's temple. In his final heroic act, Samson pulled down the pillars on the worshippers of Dagon at Gaza (Judg. 16:23-30).  
 > In a later scene, the Philistines captured the Ark of the Covenant and carried it to the house of Dagon "and set it by Dagon. And when they of Ashdod arose early on the morrow, behold Dagon was fallen upon his face to the earth before the ark of the Lord" (1 Sam. 5:3-4). When they tried again, the head of the statue came off and the palms of his hands were cut off, leaving only the stump of the fallen idol. The episode ends.  
@@ -35,7 +36,7 @@ Első körben le kell szögezni, hogy szinte azonos vele az angol [[D/Dragon\|dr
 
 > A Dagan név rokon Dágon föníciai isten nevével. A Dag egyrészt Hegy, másrészt Kerek, lásd Dagad, Gaz-Dag és más neveinket. Dágon a Mennyei Nap neve lehetett eredetileg. A filiszteus Dágon, kelta Dagh-Da (lásd [[D/Dagda\|Dagda]]), magyar Zágon, Záhony, Dagonya és sémi Dagon mind a Dagan rokona.  
 
-Dagim Halakat, a [[H/Halak csillagkép\|Halak csillagkép]]et jelenti a héberben (`Dag` így a Hal; az -im tbsz.). Lásd még MA írását [[D/Dugong\|dugong]].  
+Dagim Halakat, a [[H/Halak csillagkép\|Halak csillagkép]]et jelenti a héberben (`Dag` így a Hal; az -im tbsz.). Lásd még Magyar Adorján írását [[D/Dugong\|dugong]].  
 A Dagon, Dogon nevek sárkány (sárkan = [[D/Dragon\|dragon]])/[[K/Kutya\|kutya]]/[[S/Szíriusz\|Szíriusz]] vonalon történő elemzését lásd [[D/Dogon\|dogon]].  
 
 #### Jeremy Black és Anthony Green könyvének adata...  
