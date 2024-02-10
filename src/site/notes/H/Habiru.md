@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["Englishtexttranslated"],"created":"2023-10-04T02:14","updated":"2024-02-10T03:59"}
+{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["Englishtexttranslated"],"created":"2023-10-04T02:14","updated":"2024-02-10T04:01"}
 ---
 
 
@@ -7,6 +7,7 @@
 
 Robert Graves adata szerint ilyen néven hívták az egyiptomiak a [[H/Héber\|héber]]eket. Az interneten egy doktoriban talált info szerint:  
 > A 'termékeny félhold' országaiban a `habiru` szó – jelentése '[[K/Kóbor\|kóbor]]ló', 'vándorló' tulajdonképpen 'poros' –, annak a sémita nomád pásztornépeknek a neve, amely állatot tenyészt, karavánokkal járja az utakat, fegyverese annak, aki megfizeti és gyakran a rablástól, útonállástól se riad vissza.  
+- Azt jegyezzük meg, hogy az egyiptomiban -u a többes szám jele, azaz lehetséges, hogy olyan módon utaltak népekre, ahogy a görögök (ott az -i a többes jele).
 
 [[H/Hargita Csaba Ferenc\|Hargita Csaba Ferenc]] nehezen kalauzolható honlapjának [ezen](http://www.imninalu.net/Habiru.htm) oldalán taglalja a habirukat. A mellékelt nemzetségtábláról az olvasható le, hogy **Ever**-től kezdve lehet habirukról beszélni.  
 ![assets/Habiru_image1.jpg](/img/user/H/assets/Habiru_image1.jpg)  
