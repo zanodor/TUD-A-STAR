@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ajtó/","title":"Ajtó","created":"2023-10-21T03:07","updated":"2024-02-01T10:43"}
+{"dg-publish":true,"permalink":"/A/Ajtó/","title":"Ajtó","created":"2023-10-21T03:07","updated":"2024-02-10T03:18"}
 ---
 
 
@@ -29,7 +29,7 @@ A **Szimbólumtár** adataival kezdjük:
 
 > A csillaghit nemcsak az évszakok és az év fordulóit tekinti [[K/Kapu\|kapu]]knak, hanem azt az időpontot is, amikor a Nap [[P/Precesszió\|precesszió]]jának következtében átlépünk az egyik "[[V/Világhónap\|világhónap]]ból" a másikba, például a Kos-korszakból a Halakéba.  
 
-Legutóbb JM adataival kiegészített [[T/Tölgy\|tölgy]] címnél írottak alapján kimondhatjuk, hogy egyre inkább úgy látszik, hogy a [[F/Forest\|forest]] szónál taglalt latin `fores` = ajtó (lásd még angol [[F/Ford#Ford 2)\|ford]]) a téli és nyári napfordulók for-dul szavának előtagjából ered, ahogy a tölgy jelentésű utódnyelvi szavak is összefüggeni látszanak az ajtó jelentésű utódnyelvi szavakkal.  
+Legutóbb Jankovics Marcell adataival kiegészített [[T/Tölgy\|tölgy]] címnél írottak alapján kimondhatjuk, hogy egyre inkább úgy látszik, hogy a [[F/Forest\|forest]] szónál taglalt latin `fores` = ajtó (lásd még angol [[F/Ford#Ford 2)\|ford]]) a téli és nyári napfordulók for-dul szavának előtagjából ered, ahogy a tölgy jelentésű utódnyelvi szavak is összefüggeni látszanak az ajtó jelentésű utódnyelvi szavakkal.  
 Az ajtó tehát nemcsak átjáró, de fordulópont jelentésű is. Erről legutóbb [[H/Hostile\|hostile]] és [[K/Köldök\|köldök]] címnél is volt szó.  
 
 A magyar szóval szinten azonos baszk atea azt feltételezi, hogy ajtóban inkább az [[A/AT\|AT]] = atya, ÁT = át a túlvilágra, a tűzbe ([[A/Atar\|Atar]]: At-Ar = Tűz-Ár) értelem van meg.  
