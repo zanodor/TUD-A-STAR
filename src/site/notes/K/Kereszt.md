@@ -140,7 +140,7 @@ A [[B/Bal és jobb\|bal és jobb]] címnél is szereplő Altyn Tepe-i leleten ba
 Molnár V. József Világ-Virág című könyvének 22-23. oldaláról való a mellékelt képi adatsor (az ő adatait ide-oda igyekszem besuvasztani; egyes adatai már más forrásokból [[V/Világmodell\|világmodell]] címnél szerepeltek). Sági Károly Árpád-kori varázslás régészeti emlékei című tanulmányában sok hasonló leletet mutat be amelyek hasonlóak (kereszt és más témából).  
 
 ![assets/Kereszt_image9.png](/img/user/K/assets/Kereszt_image9.png)  
-Molnár V. József Világ-Virág című könyvének 171. oldalán komi (zürjén) övmustrák képeit elemzi. Itt is megjelennek a keresztek és MVK kitér a második ábrán a Nap négy helyzetére is.  
+Molnár V. József Világ-Virág című könyvének 171. oldalán komi (zürjén) övmustrák képeit elemzi. Itt is megjelennek a keresztek és MVirág Kálmán kitér a második ábrán a Nap négy helyzetére is.  
 
 #### Magyar Adorján Csodaszarvasában írja:  
 
@@ -578,7 +578,7 @@ René Guénon The Symbolism of the Cross című könyve is érdeklődésre tarth
 #### Antal István Tündéres, derengő...
 
 ...című Ősi Gyökér 2005/4. sz. megjelent cikkében az égen megmutatkozó férfi-női párok bemutatásakor egy olyan három dimenzióban értelmezhető keresztet mutat be, melyről [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] és más címnél tettünk már említést:  
-> Úgy tűnik, mintha egyfajta keresztbe rendeződés a Tejúton is kimutatható lenne. Pontosabban látok egy keresztet, aminek három végén három különböző jellegű férfi-nő viszony érzékelhető, míg a kereszt negyedik, alsó végénél semmi. Itt lenn nagyon sötét van. A kereszt egyik vízszintes végén, a keletin \[nálam ez észak\], ahol a Bika és az Ikrek között a Tejút és a Napút találkozik, ott az Orion \[női párjában viszont nem Szíriuszt mutatja be, ahogy [[M/Magyar istencsalád\|magyar istencsalád]] címnél GYÁ teszi, hanem az asztrológiában is anyai megítélésű Rák csillagképet és az ahhoz köthető két kisebb csillagcsoportot, a Fiastyúkot és a Méhkast (Pleiadok és Hyadok)\].  
+> Úgy tűnik, mintha egyfajta keresztbe rendeződés a Tejúton is kimutatható lenne. Pontosabban látok egy keresztet, aminek három végén három különböző jellegű férfi-nő viszony érzékelhető, míg a kereszt negyedik, alsó végénél semmi. Itt lenn nagyon sötét van. A kereszt egyik vízszintes végén, a keletin \[nálam ez észak\], ahol a Bika és az Ikrek között a Tejút és a Napút találkozik, ott az Orion \[női párjában viszont nem Szíriuszt mutatja be, ahogy [[M/Magyar istencsalád\|magyar istencsalád]] címnél Gyárfás Ágnes teszi, hanem az asztrológiában is anyai megítélésű Rák csillagképet és az ahhoz köthető két kisebb csillagcsoportot, a Fiastyúkot és a Méhkast (Pleiadok és Hyadok)\].  
 > A kereszt átellenes vízszintes végén, ahol a Skorpió és a Nyilas között fut a Tejút s keresztezi a Naputat, a Kígyótartó csillagkép a tengelyjelölő.  
 
 Itt a Nyilasnak megfelelő [[S/Sánta koldus\|Sánta koldus]] és a [[S/Szépasszony\|Szépasszony]] párosát mutatja be.  

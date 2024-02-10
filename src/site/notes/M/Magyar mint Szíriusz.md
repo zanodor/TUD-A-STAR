@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar mint Szíriusz/","title":"Magyar mint Szíriusz","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-29T07:48","updated":"2024-02-08T07:34"}
+{"dg-publish":true,"permalink":"/M/Magyar mint Szíriusz/","title":"Magyar mint Szíriusz","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-29T07:48","updated":"2024-02-10T04:08"}
 ---
 
 
@@ -9,7 +9,7 @@ Egyre több adat – köztük a frissen [[M/Magyar mint Jupiter\|Magyar mint Jup
 Előbb felsorolom a mellette és hatodikként az ellene szóló érveket és más következtetéseket próbálok levonni (mely végén kiderül, hogy nem Magor mint Szíriuszról van szó, hanem **Magyar mint Szíriusz**ról, éppen ahogy [[S/Szíriusz mint istenanya\|Szíriusz mint Istenanya]] címnél írottak alapján várnánk is):  
 <br/>
 1\. Dr. Gyárfás Ágnes az Ősi Gyökér 2007/1. PDF 71. oldalán Eb a hite kölykei című cikkében közli Dr. [[K/Kovács Sándor\|Kovács Sándor]] (másutt tévesen Kovács Kálmán név alatt hivatkozik a cikkre) adatát, aki a Labat szótár segítségével \[önkényesen\] kimutatta, hogy a Nagy Kutya csillagkép \[akkor ezek szerint nem a Szíriuszé?\] neve MA-GAR, s el is nevezte a "Magyarok Csillagának" (Stella Hungarorum).  
-Akkor most a csillagé a név? Kovács cikkének neve Stella Hungarorum (Ősi Gyökér 1999), közben sikerült letölteni; anyagát lásd [[N/Ninurta\|Ninurta]] és [[U/UR\|UR]] címnél. GYÁ más cikkében[^1] Mahgar-nak[^2] írja. Megint másutt GYÁ Ur Magar-ként is utal rá. Könnyen lehet, hogy az [[U/UR\|UR]] az, ami viszi benne a kutya értelmet, annál is inkább mert kutyafejjel jelzik ezt a szót.  
+Akkor most a csillagé a név? Kovács cikkének neve Stella Hungarorum (Ősi Gyökér 1999), közben sikerült letölteni; anyagát lásd [[N/Ninurta\|Ninurta]] és [[U/UR\|UR]] címnél. Gyárfás Ágnes más cikkében[^1] Mahgar-nak[^2] írja. Megint másutt Gyárfás Ágnes Ur Magar-ként is utal rá. Könnyen lehet, hogy az [[U/UR\|UR]] az, ami viszi benne a kutya értelmet, annál is inkább mert kutyafejjel jelzik ezt a szót.  
 <br/>
 2\. A kelta-ír `madra` = kutya szó is ilyen Magyar alakú[^3].  
 <br/>
@@ -62,7 +62,7 @@ A [[H/Habur\|Habur]] (Hab-Úr, Ha-Bor) folyó mentén \[Fáy Elek A magyarok ős
 Az ír kutyát jelentő `madadh` és `madra` szavakat első körben [[M/Magyar\|magyar]]ral azonosítottam, mondván, a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] között a [[K/Kutya\|kutyá]]nak is meg kell lennie. Tehát a kelta szó nem annyira a Szíriuszra, hanem az egész Tejútra utalhatna.  
 
 Viszont van itt még egy másik dolog. Ez pedig a Hargita Csaba által említett óegyiptomi `makharu`, `makheru` = a túlvilági létben a megdicsőült, tökéletességet elért emberi lélek szóval azonosnak látszó görög `makariosz` = boldog, áldott és a MA által más, Napistennel/Mezőgazdasági istennel/isten-aspektussal kapcsolatba hozott `makarosz` = boldog szavak boldog értelme. Bognár Ferenc úgy írja, hogy a prehellén mediterránumban a "magyar" szóval összecsengő [[M/Makar\|Makar]] nevű istenben tisztelték a boldogság eszményképét.  
-GYÁ írt [[B/Boldogasszony\|Boldogasszony]] (Szíriusszal, vele való karácsonyi együttállásával kapcsolatos) [[B/Boldog\|boldog]] állapotáról. Ezek szerint a boldog jelentésű görög és egyiptomi szavak is Szíriusz MGR nevére utalnak? Vagy [[M/Magyar\|Magyar]] Tejútistennőre?  
+Gyárfás Ágnes írt [[B/Boldogasszony\|Boldogasszony]] (Szíriusszal, vele való karácsonyi együttállásával kapcsolatos) [[B/Boldog\|boldog]] állapotáról. Ezek szerint a boldog jelentésű görög és egyiptomi szavak is Szíriusz MGR nevére utalnak? Vagy [[M/Magyar\|Magyar]] Tejútistennőre?  
 
 Közben csak jelzem, hogy a melléknévként szintén boldogat jelentő szanszkrit `mudrā` ([lásd itt](https://wiktionary.org/wiki/%E0%A4%AE%E0%A5)), melynek főnévi értelmei 15-re rúgnak (talán nem véletlenül) is magyar alakú.  
 
@@ -122,7 +122,7 @@ A témát tovább lásd [[G/Genetika#Szíriuszi magyarok\|szíriuszi magyarok]] 
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-GYÁ A hun név eredete című, Ősi Gyökér 2006/1. sz. megjelent cikkében idézi Dr. Kovács Sándor korábbi állítását, amely a Nagy Kutya csillagképet a Magyarok csillagának nevezte (Mah-gar).  
+Gyárfás Ágnes A hun név eredete című, Ősi Gyökér 2006/1. sz. megjelent cikkében idézi Dr. Kovács Sándor korábbi állítását, amely a Nagy Kutya csillagképet a Magyarok csillagának nevezte (Mah-gar).  
 
 [^2]: Lábjegyzet:  
 Bakos Attila a Duna evangéliumának 60. oldalán azt is írja (nyilván Badiny és társai nyomán), hogy a sumérok következetesen Mah-Garnak, Meh-Garnak hívják magukat (ez ellentmond a KT által elmondott [[H/Hungár\|hungár]] címnél álló adatoknak). Nem lehet, hogy a sumér is erre a Szíriuszra utal? Aztán lehet-e a [[N/Nibiru\|Nibiru]] is Szíriusz?  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2024-02-02T03:39"}
+{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2024-02-10T04:18"}
 ---
 
 
@@ -8,8 +8,9 @@
 Több helyen volt arról szó, milyen fontos csillagzat volt minden nagy kultúrában. Ahogy Al Biruni írja, sok nemzet ezzel a csillagzattal kezdte[^1] (vagy a csillagkatalógusukat vagy magát) az évet.  
 Tilak Orionjának harmadik fejezetében szól arról, hogy a tavaszi napéjegyenlőségi pont a [[K/Krittika\|Krittiká]]ban állt (valamikor).  
 
-#### Jankovics Marcell A Nap könyvében írja:  
+#### Jankovics Marcell A Nap könyve...  
 
+...című könyvében írja:  
 > \[A [[S/Szíriusz\|Szíriusz]]nál és a Kalász [[S/Spica\|Spicá]]nál\] Nem kevésbé fontos és feltűnő csillagzat volt az ókorban a Bika és a Kos csillagképek határán fekvő Fiastyúk (Pleiades), melyen a nappálya is áthalad. **Kr. e. 2200 körül a tavaszi napéjegyenlőség idején hált a Nap "benne"**. Sok régi mítosz szól erről az eseményről, íme, ezek közül egy, mely Sziszüphosz történetét beszéli el. Sziszüphosz Aiolosz szélistenfia volt, aki az egyik pleiászt (a Pleiades egyik csillagát) feleségül vette. A görög mitológia szerint a pleiászok [[A/Atlasz\|Atlasz]] titán leányai voltak. Atlasz, aki az eget tartotta, a Pleiadesszal szomszédos felemelt karú óriás Orion csillagképet személyesíthette meg. Sziszüphosz viszont naphérosz volt. A ravaszságáról és marháiról híres félisten neve "Nagyon bölcs"-et jelent (a Nap mindent tud, tartották a régiek), egyesek ezzel szemben a hettita [[T/Tesub\|Tesup]] isten nevének görög változataként olvassák, "aki azonos Atabüriosszal, a rhodoszi napistennel. Atabüriosz szent állata a bika volt. (...) A görög mitológiában gyakran találkozunk a napisten jelével megjelölt csordák ellen intézeti rablótámadásokkal."  
 - Lásd azon történetet, miszerint Hermész Apollón 50 marháját lopta el, [[O/Ötven\|ötven]].  
 
@@ -38,7 +39,7 @@ Ez utóbbi témáról...
 
 Antal István Tündéres, derengő című Ősi Gyökér 2005/4. sz. megjelent cikkében nyugati forrásból idézi a [[P/Piroska és a farkas\|Piroska és a farkas]] mesének egy rövid változatát, ahol a farkas szájába adva előjön az alábbi kérdés: "És melyik úton mész, a gombostűk vagy a varrótűk útján?"  
 
-Aztán AI JM adata segítségével tisztázza, hogy közép-ázsiai felfogás szerint a ránk boruló égbolt hatalmas [[S/Sátor\|sátor]], melyen a csillagok a varrás döféspontjain beszűrődő fények.  
+Aztán AI Jankovics Marcell adata segítségével tisztázza, hogy közép-ázsiai felfogás szerint a ránk boruló égbolt hatalmas [[S/Sátor\|sátor]], melyen a csillagok a varrás döféspontjain beszűrődő fények.  
 
 #### Jankovics Marcell "Csillagok között fényességes csillag"...
 

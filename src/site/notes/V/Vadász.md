@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","created":"2023-10-13T05:41","updated":"2024-02-02T02:46"}
+{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","created":"2023-10-13T05:41","updated":"2024-02-10T04:25"}
 ---
 
 
@@ -58,7 +58,7 @@ Hogy Hunter-Orion az, aki a csillagképeket űzi, hajtja, erről [[O/Orion\|Orio
 De az idegen nyelvi adatokkal ne álljunk le. [[A/Agár\|Agár]] címnél szerepeltek az alábbiak:  
 Ezek alapján az [[A/Agent\|agent]], [[A/Act\|act]] és más címnél előjövő görög `ἄγειν` (`ágein`) = vinni; vezetni, hajtani és latin `agere` = hajtani igék és a CzF által megadott görög `agra` = vadászat szó eredete egy a [[J/JÁK\|JÁK]] címnél taglalt német `jäger` = vadász szóval is. A német szó tehát j-előtétesen nem (csak) Nimrudra, a Vadászra utal, hanem a kutyáira (valójában az Orion Szíriusszal tartozik össze; a Jäger és Ægir germán nevek Orionra utalnak inkább, mintsem vadászkutyára).  
 Az is elképzelhető ezután, hogy a tupi indiánoktól ismert [[J/Jaguar\|jaguar]] szóban is az [[A/Agár\|agár]] szó szerepel. Nem véletlen, hogy nagy tisztelet övezte a jaguárt Közép- és Dél-Amerikában.  
-Azaz, a görög és latin igékre visszautalva lehet agar magyar ige értelme hajtani, akár [[A/Akar\|akar]]ni. Ahol írtuk legutóbb: Szíriusz-Orion hajtja a csillagképeket és valóban az ott említett életkörről van szó, mely félévekre tagolható ([[F/Félév\|félév]] címnél lásd GYÁ Szíriuszos adatait).  
+Azaz, a görög és latin igékre visszautalva lehet agar magyar ige értelme hajtani, akár [[A/Akar\|akar]]ni. Ahol írtuk legutóbb: Szíriusz-Orion hajtja a csillagképeket és valóban az ott említett életkörről van szó, mely félévekre tagolható ([[F/Félév\|félév]] címnél lásd Gyárfás Ágnes Szíriuszos adatait).  
 Ezek alapján is kimondható, hogy a hajt és akar (óhajt, vágy, sóvárog, stb.) fogalmai összefüggenek, úgy ahogy az [[I/Íj\|íj]] és [[E/Éh\|éh]] fogalmak/szavak és a [[H/Hunger\|hunger]]/hanker a Hungár-Hunor-[[K/Khamor\|Khamor]]-ral. Az elmúlt időszakban főleg ezen szavak gyűjtésével és vizsgálatával foglalkoztam.  
 
 Joseph Fontenrose Orionjában mindenféle isten folyton vadászik. Úgy tűnik, a vadászat azt jelenti, hogy űzni a (Csuda)szarvast, azaz kőrözni az égen (nemzés-teremtés az életkörben). Márpedig a [[K/KÁR\|KÁR]] = vadász(?) szóban is K-R/kör váz szerepel.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz heliakus kelése/","title":"Szíriusz heliakus kelése","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T12:04","updated":"2024-02-02T03:57"}
+{"dg-publish":true,"permalink":"/S/Szíriusz heliakus kelése/","title":"Szíriusz heliakus kelése","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T12:04","updated":"2024-02-10T04:23"}
 ---
 
 
@@ -34,7 +34,7 @@ Az egyiptomiak kereken 365 napos évvel számoltak, ebből az utolsó 5 nap kül
 
 Lásd további matematikát erről [[S/Sothic\|Sothic]].  
 
-[[T/Temetkezés\|Temetkezés]] és [[S/Szíriusz távolléte\|Szíriusz távolléte]] címnél szerepelt JM adata arra nézve, hogy a Szíriusz eltűnése és újbóli megjelenése között 70 nap telik el.  
+[[T/Temetkezés\|Temetkezés]] és [[S/Szíriusz távolléte\|Szíriusz távolléte]] címnél szerepelt Jankovics Marcell adata arra nézve, hogy a Szíriusz eltűnése és újbóli megjelenése között 70 nap telik el.  
 ![assets/Sziriuszheliakuskelese_image3.png](/img/user/S/assets/Sziriuszheliakuskelese_image3.png)  
 
 A Dobos Csanád által szolgáltatott (nyilván planetárium szoftverből szedett) Szíriusz heliakus kelésével kapcsolatos adatok (lásd csatolt képet) azt mutatják, hogy a Szíriusz heliakális kelése csak bizonyos évezredekben nyújthatott lehetőséget az egyiptomi szoláris év alapjául tekinthetőségére, mindezek által tökéletesen belőve a késői egyiptomi kultúra idejét, ill. téridőben (zodiákuson) elfoglalt helyét.  

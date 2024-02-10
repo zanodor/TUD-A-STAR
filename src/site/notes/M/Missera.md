@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Missera/","title":"Missera","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-16T08:03","updated":"2024-02-02T03:28"}
+{"dg-publish":true,"permalink":"/M/Missera/","title":"Missera","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-16T08:03","updated":"2024-02-10T04:10"}
 ---
 
 
@@ -40,7 +40,7 @@ Itt egy évekkel korábban elkövetett fejtegetés következik:
 Tehát a fentebb szereplő kelta aimsir valójában itt más eredetű szó lehet és missera felbontását is inkább ([[M/Mithra\|Mithra]] nevének első értelmezéséhez hasonlóan) Misz-Ra felbontásban kell értelmezni: a missera félév jelentése valójában egy másodlagos hozzákapcsolt jelentés, mert itt [[H/Hund\|hund]] nem 100-at, hanem ([[H/Hound\|hound]]) vadászkutyát jelentően helyettesítendő. A [[P/Precesszió\|precesszió]]s [[N/Nagy Év\|Nagy Év]]ben ugyanis a Hunor-Szíriusz és Magor-Solaris által egymáshoz képest végzett mozgás, orbitálás adja a fény-árnyék viszonyok változását és ennek a viszonyrendszernek motorja [[S/Széth\|Széth]] (valamint [[M/Magyarellenesség\|magyarellenesség]]) címnél írottak alapján is Hunor-Szíriusz: ezért került Széth is furkájára.  
 [[S/Széth\|Széth]] (valamint [[S/Szíriusz és a medvék\|Szíriusz és a medvék]]) címnél kimondtuk, hogy **Széth furkája** nem más, mint az (eredetileg Nagy Évben értelmezett) Szíriusz (vonzóereje, bináris-csillagkénti szerepe) által behatárolt [[N/Négy\|négy]] sarokpont, mely a Földről nézvést lehet a [[V/Világ négy oszlopa\|Világ négy oszlopa]]. Ez lehet a [[K/Kereszt – fix kereszt\|kereszt – fix kereszt]] értelme is. A [[K/Kereszt – változó kereszt\|kereszt – változó kereszt]] pedig a Tejútközpontból származó, emberiségre kifejtett hatásokat hivatott mutatni: a Nap és vele a Föld ezen a kereszten haladva éli meg a fény-árnyék viszonyrendszerben a Szíriusz forgatása (innen Péterfai János forgás = [[F/Farkas\|farkas]] \[= kutya\] egyenlete) által okozott változásokat aszerint, hogy a Nagy Évben a [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]en vagy a [[S/Szűz-Halak tengely\|Szűz-Halak tengely]]en (afelé vagy attól elfelé) halad.  
 Az afelé és elfelé (mondhatjuk úgy is: ascending és descending, azaz felfelé és lefelé ág) értelme pedig az, hogy egyik ilyen tengely kétfelé osztja a Nagy Év körét: fényében növekedőre és csökkenőre. [[M/Mithra\|Mithra]] értelme alapján missera pedig a növekvő fénytartományt jelenti, de egyelőre tisztázatlan, miért csak kétfelé, miért nem négyfelé osztásról van szó (Mithra is inkább a reggeli Napként egy negyed körcikkelyt kellene megszemélyesítsen, bár [[V/Varuna\|Varuna]]-val ikert alkotva mégiscsak feles tagolású lehet[^2]).  
-Hasonló párhuzamokat fél-féléves megosztásra láttuk [[O/Osiris és Set\|Osiris és Set]] címnél/esetében (Jankovics Marcell írja):  
+Hasonló párhuzamokat fél-féléves megosztásra láttuk [[O/Ozirisz és Széth\|Ozirisz és Széth]] címnél/esetében (Jankovics Marcell írja):  
 > A görög naptári év megosztottsága tükröződik a mitikus istenkirályok félévenkénti hatalomcseréjében; Héráklész[^3] és [[A/Atlasz\|Atlasz]] helycseréjében az Állatöv és a Tejút találkozásánál (a Tejút a nappályát két "féléves" szakaszra osztja).  
 > Atlasz nem más, mint Orion, aki valóban a vállán tartja az eget; egészen pontosan az Állatöv körét. Graves szerint Atlasz és Héraklész helycseréje a féléveket megszemélyesítő szent királyok hatalomcseréjét jelképezi. S valóban, a Tejút a kis évkört pontosan két félévre vágja. Ezért kell megküzdenie Héraklésznek Néreusszal, aki nem más, mint az előző munkában szereplő tengeri kapu őre, Néleusz. Ők szintén az Oriont képviselik. (A birkózás Antaiosszal ugyanezért kerülhetett ebbe és az előző epizódba is. Ő is az Orion csillagképet személyesíti meg.)  
 >
@@ -48,7 +48,7 @@ Hasonló párhuzamokat fél-féléves megosztásra láttuk [[O/Osiris és Set\|O
 
 Ennek a fél-féléves megosztásnak párhuzamait máshol is megtalálni:  
 > Maguk a napistenek is sokszor félszeműek. [[L/Lugh\|Lugh]]ról, a nyugati Nap istenéről mesélték, hogy egyik szemét mindig lehunyta, hogy varázslónak higgyék, mint Ódint. A kelta mitológiában félszemű napistenek harca folyik. A szembenálló felek Balor és unokája, Lugh. Történetük Akrisziosz és Perszeusz mítoszának pontos mása. Balor és Lugh görög megfelelőikhez hasonlóan a két félév napkirályait testesítik meg.  
-- Lásd e részt bővebb lére eresztve [[O/Osiris és Set\|Osiris és Set]].  
+- Lásd e részt bővebb lére eresztve [[O/Ozirisz és Széth\|Ozirisz és Széth]].  
 
 Továbbá, a görögöknél:  
 > Macrobius (5. sz.) Saturnales című munkájában azt állítja (helyesen), hogy minden ókori istennek köze volt a Naphoz, de Apolónnak és Dionüszosznak különösképpen. "A vallás misztikus gyakorlata szerint – írja – a nappali szertartásokban a napot Apollónnak, az éjjeli szent cselekmények alkalmával pedig Dionüszosznak nevezik."  
@@ -94,7 +94,7 @@ Nos, valójában Magyar volt a Tejút(anya) neve, mely középen választja el a
 Egyelőre azzal zárom le itt a mondandót, hogy [[M/Missera\|missera]], [[A/Aranykor és annak vége\|Aranykor és annak vége]], [[G/Galactic centre\|Galactic centre]], [[G/Galactic anticentre\|Galactic anticentre]], [[D/Dzsed\|dzsed]], [[Z/Zep Tepi\|Zep Tepi]], [[C/Crucifixion\|crucifixion]], [[C/CSÁR\|CSÁR]], [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]], [[K/Kereszt – fix kereszt\|kereszt – fix kereszt]], [[K/Kereszt – változó kereszt\|kereszt – változó kereszt]], [[T/Tejút-kapuk\|Tejút-kapuk]], [[V/Világ négy oszlopa\|Világ négy oszlopa]], [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]], [[H/Hunor és Magor\|Hunor és Magor]], valamint [[Y/Yuga cycles\|Yuga cycles]] és továbbá [[S/Szíriusz mint istenanya\|Szíriusz mint istenanya]], valamint [[H/Hunahpu\|Hunahpu]], [[S/Sphinx\|Sphinx]] és [[H/HAT\|HAT]], [[H/Hét\|hét]] címnél szereplő adatok, diagramok, ábrák, skiccek alapján elegendő információm kell legyen arra, hogy felvázoljam a képet Magor-Szíriusz helyzetéről és a Tejútközponthoz képest való elhelyezkedésünkről.  
 
 Joscelyn Godwin Arktos The Polar Myth című könyvének 29. oldalán Jean-Sylvain Bailly gondolatait osztja meg. ([[B/Bailly, Jean-Sylvain\|Bailly, Jean-Sylvain]] személye azért érdekes, mert a 18. században még úgy tűnik, élt annak hagyománya, hogy a szkíták az első nép: ezt ő ki is mondja.)  
-Az ott írottak alapján missera fél év jelentésére vélhetően szintén hyperboreai eredetet mondana (emlékezzünk MA írására is: 1 nap volt 1 (fél)év). Meg is említi, hogy az ő idejében a kamcsatkaiak még mindig 6 hónapos évvel számoltak (kérdés, hány naposak voltak a hónapjaik).  
+Az ott írottak alapján missera fél év jelentésére vélhetően szintén hyperboreai eredetet mondana (emlékezzünk Magyar Adorján írására is: 1 nap volt 1 (fél)év). Meg is említi, hogy az ő idejében a kamcsatkaiak még mindig 6 hónapos évvel számoltak (kérdés, hány naposak voltak a hónapjaik).  
 
   
   
@@ -123,7 +123,7 @@ Marha a jószágon kívül, birtokot, tartományt jelentett, például Vuangario
 
 Persze hogy jelöl ki marha területet? Alsó-Egyiptomban létezett Tehenu tartomány név, mely hasonló elnevezés lehetett, mint a mai Dániáé.
 
-Itt emlékezhetünk arra, amit MA írt (lásd bővebben [[G/Good\|good]] és [[T/Tehén\|tehén]]):  
+Itt emlékezhetünk arra, amit Magyar Adorján írt (lásd bővebben [[G/Good\|good]] és [[T/Tehén\|tehén]]):  
 > Jó (gyó) szavunknak nyelvünkben régen folyó értelme is volt. Márpedig **őseink a folyókat tejelő, tápláló tehenekkel is szokták volt jelképezni**, úgyhogy ez ismét az égi nagy, fehér tejfolyóra: a [[T/Tejút\|Tejút]]ra, az Éganyára vezeti vissza gondolatainkat.  
 
 Mármost arról [[C/Canton\|canton]] és [[C/Continent\|continent]] címnél is volt szó, hogy a területeket leginkább vizek, szárazföldön folyók határolják el egymástól (ma is: sok esetben a folyó jelöli ki a megye- vagy országhatár vonalát).
@@ -135,7 +135,7 @@ Ugye a Kos havaként március azért is alkalmas erre a szerepre, mert a nyugati
 
 #### Jankovics Marcell Ahol a madár se jár...
 
-...című könyvének alábbi passzusa [[G/Gyűrű\|gyűrű]], valamint [[O/Osiris és Set\|Osiris és Set]] címnél is szerepelt:  
+...című könyvének alábbi passzusa [[G/Gyűrű\|gyűrű]], valamint [[O/Ozirisz és Széth\|Ozirisz és Széth]] címnél is szerepelt:  
 > A Nap éves útja a valóságban, de a mitopoétikus felfogás szerint is, két félkörre, félévre szakad. A napéjegyenlőségi pontok szerint egy téli és egy nyári fél évre, a napfordulók szerint az emelkedő és a hanyatló Nap fél esztendejére. E két fél év közül valójában csak az egyik a Napé, mégpedig az, amelyikben "nyeregben van"; az egyik felállásban ez a nyári fél év, a másikban az emelkedő fél esztendő. A másik fél év az a fél gyűrű, amelyik \[a mesékben\] mindig a vízbe vész; ez a nappályának a téli fele, mely az [[E/Égi egyenlítő\|égi Egyenlítő]] – a "vízvonal"! – alá merül, a "vizes" csillagképek közé. Jelképes értelemben persze a mesehős ezt a fél gyűrűt is felhozza a víz alól, a hal, a nagy béka szájából – ez a [[B/Béka\|béka]] ugyanaz a ktonikus varangy, amelyik a napostyát a nyelve alatt tartja –, hiszen a Nap, miután megteszi az Egyenlítő alatti sötét, téli félutat, visszatér aranyos, nyári félútjára.  
 > A fél gyűrű felhozatala a víz alól a [[P/Precesszió\|precesszió]]nak is alkalmas metaforája lehetne éppen; a földtengely billegése következtében ugyanis a téli félút, ami jelenleg "víz alatt" van, kereken 13000 év múlva szárazra kerül, és nyári félút lesz, míg a jelenlegi nyári félút a vízbe merül, téli félút lesz.  
 - Jankovics Marcell nem is gondolná, mennyire helyénvaló egyes mesék és mítoszok [[N/Nagy Év\|Nagy Év]]ben való vizsgálata, Szíriuszostul-mindenestül.  

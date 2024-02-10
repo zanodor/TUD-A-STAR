@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Ninhursag/","title":"Ninhursag","tags":["Englishtexttranslated"],"created":"2023-11-05T01:07","updated":"2024-02-02T03:33"}
+{"dg-publish":true,"permalink":"/N/Ninhursag/","title":"Ninhursag","tags":["Englishtexttranslated"],"created":"2023-11-05T01:07","updated":"2024-02-10T04:15"}
 ---
 
 
@@ -49,4 +49,4 @@ Az interneten talált képen viszont két szarvas is van. [[T/Turul#Turul és Cs
 ...című könyvének 281. oldalán is hozza a képet, az alábbi képaláírással (a két irányba induló szarvas fiúk kérdését most itt hagyjuk; a Magur-oroszlán és a Magyar-madár alak ötvözése az ő figyelmét nem kerülte el):  
 > Épületdísz Ur városának közelében feltárt Ninhurság (Nő-urság), a termékenység és a szülés istennőjének templomából. A dombormű a magyar rege a csodaszarvasról ősgeszta kozmikus téridő-minőségével. Magar (Madár és Makar azaz oroszlán) Nap-atya generáló középpontjából két irányba induló szarvas fiúk, Kr e. 2500-ből.  
 
-Esther Jacobson The Deer Goddess of Ancient Siberia című könyvének 218-219. oldalán közöl infót Ninhursagról, de nála [[E/Enlil\|Enlil]] társa lenne (nyilván időben korábban) Ninhursag. Talán afféle eset áll fenn, En-Ki és En-Lil közt, mint [[O/Osiris és Set\|Osiris és Set]] között. Sőt, igen valószínű.  
+Esther Jacobson The Deer Goddess of Ancient Siberia című könyvének 218-219. oldalán közöl infót Ninhursagról, de nála [[E/Enlil\|Enlil]] társa lenne (nyilván időben korábban) Ninhursag. Talán afféle eset áll fenn, En-Ki és En-Lil közt, mint [[O/Ozirisz és Széth\|Ozirisz és Széth]] között. Sőt, igen valószínű.  

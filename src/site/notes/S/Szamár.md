@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["Englishtexttranslated"],"created":"2023-10-15T10:43","updated":"2024-02-02T03:45"}
+{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["Englishtexttranslated"],"created":"2023-10-15T10:43","updated":"2024-02-10T04:21"}
 ---
 
 
@@ -189,7 +189,7 @@ Na most, valójában itt is csillagképet kell keresni. A [[N/Nap#Nap és Orion\
 > Egy i.e. 2. évezred második feléből származó sírképen viszont a Rákot két szamár jelképezi, melyek a világ végén álló "fényhegyeket" és a köztük felkelő Napot, az [[A/Ahet\|ahet]] hieroglifát tartják. (A fényhegyek, mint "Hercules oszlopai" is, csillagászati műszereket szimbolizálnak; a naptári fordulópontok helyének mérésére épp ilyen kettős oszlopokat állítottak hajdanán a Nap keléspontjainak irányába.)  
 > A "Szamár" elnevezés talán babiloni eredetű – ott a csillagképet Vemhes Szamárnak hívták –, de helyi alapja is van. A pusztító nyári forróság istenének, [[S/Széth\|Széth]]nek a sivatagi vadszamár volt az állata. A Rák csillagkép egyiptomi jelentőségét növelte, hogy az egyiptomi mezőgazdasági év kezdete a Nílusnak július második felében érkező áradásához igazodott, ami "ideális esetben" egybeesett a [[S/Szíriusz heliakus kelése\|Szíriusz heliakus kelésé]]vel (júl. 19.).  
 
-Az [alábbi](https://youtu.be/BKlduHsQOTc) előadásban 27:50-nél GYÁ is elmondja, hogy a Rák csillagkép régi neve Szam-Ár/Szám-Ár volt. A Rák a kis éves és Nagy Éves időciklusban is a tulajdonképpeni fénymaximumnak, a nyárnak (sumér – [[S/Szamár csillagkép\|szamár]] (Rák) – [[S/Summer\|summer]]) felel meg, illetve onnantól kezdve csökken a fény ereje (ez a Nap megdicsőülésének ideje, lévén, hogy ekkor ér pályája delelőjére).  
+Az [alábbi](https://youtu.be/BKlduHsQOTc) előadásban 27:50-nél Gyárfás Ágnes is elmondja, hogy a Rák csillagkép régi neve Szam-Ár/Szám-Ár volt. A Rák a kis éves és Nagy Éves időciklusban is a tulajdonképpeni fénymaximumnak, a nyárnak (sumér – [[S/Szamár csillagkép\|szamár]] (Rák) – [[S/Summer\|summer]]) felel meg, illetve onnantól kezdve csökken a fény ereje (ez a Nap megdicsőülésének ideje, lévén, hogy ekkor ér pályája delelőjére).  
 (Pap Gábor adata szerint az Ökör a keleti állatövben a Ráknak felel meg; precessziós Rákról beszél; lásd feltöltve az [alábbi](https://youtu.be/LfU5D7Sp090) videót.)  
 
 A közép-ázsiai sztyeppéken élő vadszamár [[K/Kulan\|kulan]] neve is érdekes, hisz előjött valahol a név Orionnal kapcsolatban (saját ötletként). Nem találom, de a kelta [[C/Culann\|Culann]] és a magyar [[K/Kilenc\|kilenc]] is ilyen nevek és mindketten az égi kovács/villámistenre, Orionra utalnak.  

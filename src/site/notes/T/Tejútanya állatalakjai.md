@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tejútanya állatalakjai/","title":"Tejútanya állatalakjai","tags":["Englishtexttranslated"],"created":"2023-11-13T02:19","updated":"2024-02-02T04:02"}
+{"dg-publish":true,"permalink":"/T/Tejútanya állatalakjai/","title":"Tejútanya állatalakjai","tags":["Englishtexttranslated"],"created":"2023-11-13T02:19","updated":"2024-02-10T04:24"}
 ---
 
 
@@ -66,7 +66,7 @@ A kép folyamatosan bővül. Szarvas ugyebár kapcsolatba hozatott a [[B/Bak csi
 
 Hogy a Tejútanyának állatalakjai lehetnek, erre bizonyíték lehet a sémi-föníciai/**arab Allat istennő** neve, melyet [[A/Állat\|állat]] és főleg [[A/Allah\|Allah]] címnél érintettünk. Fáy könyvének 239. oldalán Babelon tollából Tammuz kedveseként és alvilági istennőként jön elő Allat. Az alvilággal nincsen bajunk, hiszen akkor terhes a Tejútanya és akkor szüli meg Nap-gyermekét is. A [[K/Kutya\|kutya]] is alvilági állat és a Tejútanya állatalakjai közül az egyik.  
 Igen is, van annak létjogosultsága, hogy mind Allat és mind [[A/Allah\|Allah]] [[I/Ilona\|Ilona]] nevére és annak állatalakjának nevére utalva előjöjjön az avar-hun eredetű/kultúrájú araboknál. Allah sem igazán hímségi, míg Allat méginkább nem az. Christine Fielder Sexual Paradox című könyvének 251. oldaláról való adatait lásd [[A/Allah\|Allah]]. (Azt azért jegyezzük meg, hogy [[T/T\|T]] címnél cáfoljuk is, hogy Allat állat szavunkkal azonos lehet.)  
-(Nem kis meglepetést okoztak a legutóbb [[O/Osiris és Set\|Osiris és Set]] címnél írottak, ahol Allah [[S/Szíriusz\|Szíriussz]]al azonosíttatott. Ami lehet is, hiszen [[I/Ilona\|Ilona]] nevében is megvan Él, és Ilona koronája a Tejútanya Szíriusza, csak itt már hímségivé tett istennel van dolgunk.)  
+(Nem kis meglepetést okoztak a legutóbb [[O/Ozirisz és Széth\|Ozirisz és Széth]] címnél írottak, ahol Allah [[S/Szíriusz\|Szíriussz]]al azonosíttatott. Ami lehet is, hiszen [[I/Ilona\|Ilona]] nevében is megvan Él, és Ilona koronája a Tejútanya Szíriusza, csak itt már hímségivé tett istennel van dolgunk.)  
 
 #### Falvay Károly Nagyboldogasszony...
 
@@ -102,7 +102,7 @@ A Farkas tehát nem közönséges állat, hanem önmaga a Forgó Tejút jelképe
 
 [^4]: Lábjegyzet:  
 Tomory Zsuzsa Istenes magyar emlékeink II. rész című Ősi Gyökér 2005/2. sz. megjelent cikkében írja:  
-Jászaink jelképes állata pedig a Tejutat megszemélyesítő tokhal \[vagy viza\] Jizéter néven. Lásd MA írását [[I/Istár\|Istár]].  
+Jászaink jelképes állata pedig a Tejutat megszemélyesítő tokhal \[vagy viza\] Jizéter néven. Lásd Magyar Adorján írását [[I/Istár\|Istár]].  
 
 [^5]: Lábjegyzet:  
 A polinézek a Tejútban cápát láttak. Nem biztos, hogy kimondott állatalak, de a [[C/Cápa\|cápa]] [[S/Shark\|shark]] neve átvisz a sárkányhoz és a fejalakja a kutyához is.  

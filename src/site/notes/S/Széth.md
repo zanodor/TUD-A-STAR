@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["Englishtexttranslated"],"created":"2023-10-16T01:30","updated":"2024-02-02T03:56"}
+{"dg-publish":true,"permalink":"/S/Széth/","title":"Széth","tags":["Englishtexttranslated"],"created":"2023-10-16T01:30","updated":"2024-02-10T04:22"}
 ---
 
 
 # Széth
 
-Fontos egyiptomi mitológiai alak, ki egyfelől testvérének, Ozirisznek, és – a Hamlet Malma című könyv írói által sokat taglalt – unokaöccsének, [[H/Hórusz\|Hórusz]]nak ellenlábasa. Alakjáról bevezetésként lásd Jankovics Marcell írását és Robert Graves adatát [[S/Szamár\|szamár]], továbbá, szintén Jankovics féle írásokkal kiegészített [[O/Osiris és Set\|Osiris és Set]] címet. [[A/Apep\|Apep]] címnél is szóba került.  
+Fontos egyiptomi mitológiai alak, ki egyfelől testvérének, Ozirisznek, és – a Hamlet Malma című könyv írói által sokat taglalt – unokaöccsének, [[H/Hórusz\|Hórusz]]nak ellenlábasa. Alakjáról bevezetésként lásd Jankovics Marcell írását és Robert Graves adatát [[S/Szamár\|szamár]], továbbá, szintén Jankovics féle írásokkal kiegészített [[O/Ozirisz és Széth\|Ozirisz és Széth]] címet. [[A/Apep\|Apep]] címnél is szóba került.  
 Kevés olyan alak van, akit vagy 5-6 vagy még több csillagászati formával, égitesttel, csillagképpel is azonosítottak. Ez is mutatja, hogy rendkívül bonyolulttá vált az ősi tudás követése.  
-Az [alábbi](https://youtu.be/umyX-ZHVKgA) ÁKTV műsorban 1:29:25-nél KT azt mondja, hogy a zsidóknak volt Adonai-uk, Elohim-jük és Széth-jük, tehát különböző sátáni személyekből választották ki Jahvét. Nos, valójában ez egy leegyszerűsítése a dolgoknak; gondoljunk csak [[S/Szutek\|Szutek]]ra és [[E/El Shaddai\|El Shaddai]]-ra.  
+Az [alábbi](https://youtu.be/umyX-ZHVKgA) ÁKTV műsorban 1:29:25-nél Kubínyi Tamás azt mondja, hogy a zsidóknak volt Adonai-uk, Elohim-jük és Széth-jük, tehát különböző sátáni személyekből választották ki Jahvét. Nos, valójában ez egy leegyszerűsítése a dolgoknak; gondoljunk csak [[S/Szutek\|Szutek]]ra és [[E/El Shaddai\|El Shaddai]]-ra.  
 
 #### Falvay Károly Nagyboldogasszony...
 
@@ -135,7 +135,7 @@ A [[S/Szamár\|szamár]] mellett a [[V/Vadkan\|vadkan]] még az, mely vele kapcs
 
 > Egyiptomban a vadkan Szeth, Ozirisz gyilkosa és Hórusz ellenlábasa. Vadkan képében falja fel minden hónapban Hórusz egyik szemét, a Holdat[^7]. (Az egyiptomiak újholdkor áldoztak sertést: "szemet szemért..." alapon). [[N/Nut\|Nut]] istennőről pedig azt tartották, hogy esténként [[K/Koca\|koca]] képében falja föl saját gyermekeit, az égitesteket, és reggelente szüli újra őket (ez mutatja, hogy a képzetekben az állat jó tulajdonsága, jelen esetben szaporasága is helyet kapott).  
 
-Amit még Széth kutyasága kapcsán el lehet mondani, hogy Széth és a [[S/Szaturnusz\|Szaturnusz]] nevekben közös a setét (és sátán) szavak gyöke és JM adata szerint a [[K/Kutya\|kutya]] Szaturnusz állatjelképe.  
+Amit még Széth kutyasága kapcsán el lehet mondani, hogy Széth és a [[S/Szaturnusz\|Szaturnusz]] nevekben közös a setét (és sátán) szavak gyöke és Jankovics Marcell adata szerint a [[K/Kutya\|kutya]] Szaturnusz állatjelképe.  
 Ezen vonalon haladva, ezzel egyetértően a héber Szaturnusz [[K/Kijjún\|Kijjún]], melynek Chiun formája is ismert, így lehet a görög `küon` = kutya szóval egyeztethető. 
 
 A Szaturnusz viszont a [[S/Sarkcsillag\|Sarkcsillag]]gal állítható párba. (Az [[E/Észak\|észak]], a sötétség bolygószinten Szaturnuszhoz tartozik, míg csillagkép szinten a [[G/Göncöl\|Göncöl]]höz, ahová a [[N/Nap – halott Nap\|Nap – halott Nap]] kerül éjszaka.)  
@@ -186,7 +186,7 @@ Egy kérdés közben: a marhacomb/bikacomb és [[S/Széth sakála\|Széth sakál
 ...Plutarkhosszal egyetérteni látszó adata szerint:  
 > Szét eredetileg az Éjszaka, a csillagok istene[^10], ezért sokáig lehet nagy hadvezér, de még fáraó is viseli a nevét. Szét lekerül az Alvilágba, mert a későbbi emberek nem értik meg, hogy valójában az égbolthoz tartozik. Az egyiptomi észak az Éjszak, Szét országa, amit elvett tőle Hor, a Délszak, a Napisten ragyogásának helye. Hor a felkelő, reggeli, ifjú Napisten. A Nap délen nagyobb szögben éri sugaraival a felszínt, mint a sarkok irányában.  
 
-Egy új, [[T/Teszkatlipoka\|Teszkatlipoka]] és [[S/Szaturnusz\|Szaturnusz]] címnél is szereplő adat szerint Széth neve a Szaturnusz [[S/SZAT\|SZAT]] etimonjával is egyeztethető. Miután JM adata szerint a Szaturnusznak a Sarkcsillag a "csillaglelke," és mindkét égitest az idővel hozható kapcsolatba, ahogy Széth sem más, mint Göncöl, valamint szaturnikus (egykori) Nap (és Hold)Isten. Azaz a Szíriusz, Hold, Szaturnusz és Sarkcsillag is kötődik hozzá, párhuzamosan több szerepet tölt be más-más képzetkörök folytán, melyek akár – első látásra – egymástól idegennek is tűnnek.  
+Egy új, [[T/Teszkatlipoka\|Teszkatlipoka]] és [[S/Szaturnusz\|Szaturnusz]] címnél is szereplő adat szerint Széth neve a Szaturnusz [[S/SZAT\|SZAT]] etimonjával is egyeztethető. Miután Jankovics Marcell adata szerint a Szaturnusznak a Sarkcsillag a "csillaglelke," és mindkét égitest az idővel hozható kapcsolatba, ahogy Széth sem más, mint Göncöl, valamint szaturnikus (egykori) Nap (és Hold)Isten. Azaz a Szíriusz, Hold, Szaturnusz és Sarkcsillag is kötődik hozzá, párhuzamosan több szerepet tölt be más-más képzetkörök folytán, melyek akár – első látásra – egymástól idegennek is tűnnek.  
 
 #### Jankovics Marcell írja:
 
@@ -257,7 +257,7 @@ Sőt, Széth is (épp egy [[F/Furka\|furka]] nevű; lásd [[F/FU\|FU]]) kereszte
 [[S/Shut\|Shut]], [[S/Shadow\|shadow]], [[S/Shade\|shade]] és [[S/Sétanta\|Sétanta]] neveknél is felhoztuk, hogy a fényelzárásnak kozmikus ([[A/Apocalypse\|apocalypse]]-szerű) előzménye lehetett. Érdekes még fény rövidrezárásával kapcsolatban [[S/Sut\|sut]] és [[S/Suta\|suta]] szavaink, valamint [[S/Sutúl\|sutúl]] igénk.  
 És hogy a kutyákat továbbra is képben tartsuk, [[C/Cuchulainn\|Cúchulainn]] ír kutya-hős fiatalkori Sètanta nevénél is a setét szót láttuk neve előtagjába, ahol még az is szóba került, hogy a perzsa `sutūh` jelentései mind a félelemmel, szomorúsággal kapcsolatosak, és a kutya szóval szinte azonos suta/sutúl szavakról az is elképzelhető, hogy a [[C/Circumcision\|circumcision]] = körülmetélés szavai is lehetettek az ősnyelvben (mindenesetre asztrális fogalmának megfelelne, tekintve, hogy a dogonok a Szíriuszt a körülmetélés csillagának is hívták).  
 
-[[O/Osiris és Set\|Osiris és Set]] (valamint [[S/Szíriusz és a medvék\|Szíriusz és a medvék]]) címnél is szerepelt:  
+[[O/Ozirisz és Széth\|Ozirisz és Széth]] (valamint [[S/Szíriusz és a medvék\|Szíriusz és a medvék]]) címnél is szerepelt:  
 A Hamlet Malmában is szó volt időháborúkról és In Search of the Cradle of Civilization – India című könyvükben Feuerstein, Kak és Frawley is leírják, hogy a mítoszok a korszakváltozásokra (a tavaszpont egyik jegyből a másikba ért) utalnak:  
 > The ancients appear to have been aware of the precession of the vernal equinox, and they sought to do justice to it by translating Orion's mythology into the symbolic language of the era of Taurus and later the era of Aries.  
 > Thus, according to Egyptian mythology, Osiris was killed by his hostile brother **Seth (Ursa Major)**, and, in Indic mythology, Tvashtri Dyauspita and [[P/Prajapati\|Prajapati]] were killed by their youngest son, namely Indra or [[R/Rudra\|Rudra]] (Sirius). Prajapati's death at the hands of Rudra marks the passage of the vernal equinox from Orion (or zodiacal Gemini) to Taurus.  
@@ -368,7 +368,7 @@ Práczki István szómegfordítást lát a Szutek szóban: Két Ős. Nos, azt le
 Lásd még erről [[N/Nap – halott Nap\|Nap – halott Nap]], valamint [[B/Bier\|bier]].  
 
 [^12]: Lábjegyzet:  
-[[O/Osiris és Set\|Ozirisz és Széth]] címnél is elhangzott, hogy Széth nem volt mindig negatív. Ergo itt korszakváltozásokról van szó; minden körben halad.  
+[[O/Ozirisz és Széth\|Ozirisz és Széth]] címnél is elhangzott, hogy Széth nem volt mindig negatív. Ergo itt korszakváltozásokról van szó; minden körben halad.  
 
 [^13]: Lábjegyzet:  
 A Hamlet Malmában szerepel:  

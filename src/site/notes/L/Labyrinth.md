@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Labyrinth/","title":"Labyrinth","tags":["Englishtexttranslated"],"created":"2023-10-22T03:46","updated":"2024-02-02T03:19"}
+{"dg-publish":true,"permalink":"/L/Labyrinth/","title":"Labyrinth","tags":["Englishtexttranslated"],"created":"2023-10-22T03:46","updated":"2024-02-10T04:06"}
 ---
 
 
@@ -52,7 +52,7 @@ Egy fontos szót JM sehol sem említ: a latin-francia-angol [[L/Labour\|labour]]
 
 Dr. Gyárfás Ágnes az Ősi Gyökér 2005/1-2. sz. megjelent Kecskehal című cikkének bevezetőjében említ örvényt és labirintust, mely passzust lásd [[T/Téli napforduló\|téli napforduló]].  
 Majd a folyóirat 58. oldalán ismét szóba kerül, mint állítólagos képjele a Ma, Mah, Mada neveknek, melyeket persze a magyarokkal, népnevükkel hoz kapcsolatba, de inkább földet jelentenek. A labirintus-piktogram így ![assets/Labyrinth_image2.png](/img/user/L/assets/Labyrinth_image2.png) (Labat 342) néz ki. Hogy hogyan lehet [[M/Magyar\|Magyar]] istenanya méhének jele, itt most megmondani nem tudom (kontextusban kellene látni, de a sumér kontextus sem sokat segít, ismerve az önkényes jelentés-asszociációs gyakorlatokat). Az 59. oldalon még (érthetetlenül) Magur képjelének is mondja (két piktogrammból kellene álljon). Az tény, hogy mindezen dolgokról Kecskehalról szóló cikkében ír és [[M/Makara\|Makara]] címnél elő is jön Magur Bak(hal)ra értve.  
-GYÁ cikke záró sorában kimondja, hogy a barlang-labirintus az ősanya Boldogasszony méhének szimbóluma, mélytudatunk legrejtettebb pontja; mégsem sikerült a cikkben megfelelően kifejteni, mi is a Bak jelentősége és a Magyar és Magur nevek hogyan és miért jelennek meg keleten.  
+Gyárfás Ágnes cikke záró sorában kimondja, hogy a barlang-labirintus az ősanya Boldogasszony méhének szimbóluma, mélytudatunk legrejtettebb pontja; mégsem sikerült a cikkben megfelelően kifejteni, mi is a Bak jelentősége és a Magyar és Magur nevek hogyan és miért jelennek meg keleten.  
 
 Dr. Gyárfás Ágnes egy másik cikkében is szól csigavonalról. [[U/Újév\|Újév]] és [[K/Kalács\|kalács]] címnél ábrával szereplő írását lásd.  
 Egyiptomi párhuzamát a jelnek lásd [[M/Magor\|Magor]], ahol több Gyárfás féle adatot összegyűjtöttem.  

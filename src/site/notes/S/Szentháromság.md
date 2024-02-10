@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2024-02-02T02:41"}
+{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2024-02-10T04:22"}
 ---
 
 
@@ -298,7 +298,7 @@ Szentháromságnak mondja egy internetes cikk szerzője az Anya, Gyermek és a [
 A már a címében is mutatólagos L. Kecskés András Háromkirályok – Szentháromság című az Ősi Gyökér 2013/1-2. sz. megjelent cikkében a [[G/Gáspár\|Gáspár]], [[M/Menyhért\|Menyhért]], [[B/Boldizsár\|Boldizsár]], és az általuk ajándékként hozott [[A/Arany\|arany]], [[T/Tömjén\|tömjén]] és [[M/Mirha\|mirha]] kapcsán szól a témáról.  
 
 ![assets/Szentháromság_image10.jpeg](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image10.jpeg)  
-Bakk István Miért apostoli királyság Magyarország? című az Ősi Gyökér 2013/3. sz. megjelent cikkében van egy rész, amely a [[P/Pálos\|pálos]] rend alapításáról szól. Ami a legérdekesebb benne, hogy benne Özsébet, mint a nagykutya nemzetségből valót említi; ugyanott (lásd témát [[K/Kutya\|kutya]] címnél) GYÁ Szentháromságra utaló kijelentést is tesz: Mária országának mennyei királysága az égi térképen látható, és ennek a földi mása a szentháromság megjelölése: a (Holló, Bak és a Nagykutya) csillagképek által határolt terület. \[Lényegében a [[T/Tejútanya\|Tejútanya]] csillagteste.\]  
+Bakk István Miért apostoli királyság Magyarország? című az Ősi Gyökér 2013/3. sz. megjelent cikkében van egy rész, amely a [[P/Pálos\|pálos]] rend alapításáról szól. Ami a legérdekesebb benne, hogy benne Özsébet, mint a nagykutya nemzetségből valót említi; ugyanott (lásd témát [[K/Kutya\|kutya]] címnél) Gyárfás Ágnes Szentháromságra utaló kijelentést is tesz: Mária országának mennyei királysága az égi térképen látható, és ennek a földi mása a szentháromság megjelölése: a (Holló, Bak és a Nagykutya) csillagképek által határolt terület. \[Lényegében a [[T/Tejútanya\|Tejútanya]] csillagteste.\]  
 
 ## Judeo-keresztény szentháromság
 

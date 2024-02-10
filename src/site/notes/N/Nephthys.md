@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nephthys/","title":"Nephthys","tags":["Englishtexttranslated"],"created":"2023-10-25T02:58","updated":"2024-02-02T02:40"}
+{"dg-publish":true,"permalink":"/N/Nephthys/","title":"Nephthys","tags":["Englishtexttranslated"],"created":"2023-10-25T02:58","updated":"2024-02-10T04:14"}
 ---
 
 
@@ -26,7 +26,7 @@ Nephthys csak a görög neve Ne-Bet-Het-nek. Ne-Bet-Het mint a Hét Ház Úrnőj
 
 ...hogy a régi magyarok [[T/Tizennégy csillagkép\|Tizennégy csillagkép]]éből a nem látható, sötétségben lévő 7-ért, a sötétségért volt felelős?  
 
-Nephtüsz lenne Ízisz [[S/Sötét oldal\|sötét oldal]]a? (Ahogy Oziriszé Széth.) Nyilván a [[T/Tejút\|Tejút]] által felezett éggömbbön látható csillagképek is fontosak, de leginkább az a fontos, hogy lássuk, hogy nemcsak [[O/Osiris és Set\|Osiris és Set]] félévek urai, hanem húgaik-nejeik, Ízisz és Nephtüsz is.  
+Nephtüsz lenne Ízisz [[S/Sötét oldal\|sötét oldal]]a? (Ahogy Oziriszé Széth.) Nyilván a [[T/Tejút\|Tejút]] által felezett éggömbbön látható csillagképek is fontosak, de leginkább az a fontos, hogy lássuk, hogy nemcsak [[O/Ozirisz és Széth\|Ozirisz és Széth]] félévek urai, hanem húgaik-nejeik, Ízisz és Nephtüsz is.  
 
 Ne feledjük az [ezen](https://wikipedia.org/wiki/Numbers_in_Egyptian_mythology) oldalon található sorokat sem:  
 > Set tore the god Osiris' body into fourteen pieces: seven each for the two regions of Upper and Lower Egypt.  

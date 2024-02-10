@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sarkcsillag/","title":"Sarkcsillag","created":"2023-10-13T12:33","updated":"2024-02-02T03:43"}
+{"dg-publish":true,"permalink":"/S/Sarkcsillag/","title":"Sarkcsillag","created":"2023-10-13T12:33","updated":"2024-02-10T04:20"}
 ---
 
 
@@ -85,7 +85,7 @@ Amint [[S/Sárkány csillagkép\|Sárkány csillagkép]]nél szó volt róla, is
 
 ## Szaturnusz – Sarkcsillag szimbolika
 
-A fentiek folytatásaként kezelhető, [[T/Teszkatlipoka\|Teszkatlipoka]], valamint [[S/Széth\|Széth]] és [[S/Szaturnusz\|Szaturnusz]] címnél is szereplő adat szerint [[S/Széth\|Széth]] neve a Szaturnusz [[S/SZAT\|SZAT]] etimonjával is egyeztethető. Miután JM adata szerint a\[z öreg Nap\] Szaturnusznak a Sarkcsillag a "csillaglelke," és mindkét égitest az idővel hozható kapcsolatba, ahogy Széth sem más, mint [[G/Göncöl\|Göncöl]], valamint szaturnikus (egykori) Nap (és Hold)Isten. Azaz a Szíriusz, Hold, Szaturnusz és Sarkcsillag is kötődik hozzá, más-más képzetkörök folytán.  
+A fentiek folytatásaként kezelhető, [[T/Teszkatlipoka\|Teszkatlipoka]], valamint [[S/Széth\|Széth]] és [[S/Szaturnusz\|Szaturnusz]] címnél is szereplő adat szerint [[S/Széth\|Széth]] neve a Szaturnusz [[S/SZAT\|SZAT]] etimonjával is egyeztethető. Miután Jankovics Marcell adata szerint a\[z öreg Nap\] Szaturnusznak a Sarkcsillag a "csillaglelke," és mindkét égitest az idővel hozható kapcsolatba, ahogy Széth sem más, mint [[G/Göncöl\|Göncöl]], valamint szaturnikus (egykori) Nap (és Hold)Isten. Azaz a Szíriusz, Hold, Szaturnusz és Sarkcsillag is kötődik hozzá, más-más képzetkörök folytán.  
 
 Megint másutt (könyvének 187. oldalán, ahol az ún. pótnapokról is szól) ezt írja:  
 > [[T/Teszkatlipoka\|Teszkatlipoka]] ("Füstölgő Tükör") és maja megfelelője, az egylábú Hurakán (a megtestesült hurrikán) az éjszakai Napot jelképezi, **az első, "kísérleti" Napot (Szaturnusz-Kronoszt)** a naua törzsek mítoszaiban, aki éppen ezért tökéletlen, mint Ilmarinen pótnapja.  

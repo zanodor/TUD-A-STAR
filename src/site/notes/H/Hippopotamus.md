@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hippopotamus/","title":"Hippopotamus","tags":["dg_uploaded"],"created":"2023-11-21T09:16","updated":"2023-11-21T09:16"}
+{"dg-publish":true,"permalink":"/H/Hippopotamus/","title":"Hippopotamus","created":"2023-11-21T09:16","updated":"2024-02-10T04:02"}
 ---
 
 
 # Hippopotamus
 
-Víziló. A görög `hippopotamos` nyomán, mely felbontható `hippo` = ló, `potamos` = folyó tagokra. [[H/Hippokamp(usz)\|Hippokamp(usz)]] szónál írottak szerint a finn `hepo` = ló és görög `hipposz` = ló [[H/Hab\|hab]] szavunkkal vethető össze (MA írt bőséggel a csikóhalról). Az utótag a [[P/PO\|PO]] = víz, FO-lyó (mint [[P/Poszeidón\|Poszeidón]] tengeristen vagy [[P/Pozsony\|Pozsony]], [[M/Mezopotámia\|Mezopotámia]] nevében; lásd még [[P/Potom\|potom]]) elemet tartalmazza.  
-- Azóta [[P/PO\|PO]] teoretikus etimont helyretettük.  
+Víziló. A görög `hippopotamos` nyomán, mely felbontható `hippo` = ló, `potamos` = folyó tagokra. [[H/Hippokamp(usz)\|Hippokamp(usz)]] szónál írottak szerint a finn `hepo` = ló és görög `hipposz` = ló [[H/Hab\|hab]] szavunkkal vethető össze (Magyar Adorján írt bőséggel a csikóhalról). Az utótag a [[P/PO\|PO]] = víz, FO-lyó (mint [[P/Poszeidón\|Poszeidón]] tengeristen vagy [[P/Pozsony\|Pozsony]], [[M/Mezopotámia\|Mezopotámia]] nevében; lásd még [[P/Potom\|potom]]) elemet tartalmazza.  
+- Azóta [[P/PO\|PO]] teoretikus etimont helyretettük.
 
 #### Péterfai János...
 

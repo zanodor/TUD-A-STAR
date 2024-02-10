@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szivárvány/","title":"Szivárvány","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-31T11:12","updated":"2024-02-02T03:48"}
+{"dg-publish":true,"permalink":"/S/Szivárvány/","title":"Szivárvány","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-31T11:12","updated":"2024-02-10T04:22"}
 ---
 
 
@@ -21,7 +21,7 @@
 > Bibliai nyelven és némely, nevezetesen erdélyi tájbeszédben kegyelet, mint az isteni kegynek és Noéval kötött szövetségének jele. "Az én szivárványomat helyheztetem a felhőkben, és az szövetségnek jele leszen én közöttem és a föld között, és mikor béburítom felhőkkel az eget, megtetszik az én szivárványom a felhőkben." Mózes. I. K. IX fej. 13-14. v. A palóczoknál bába[[B/Bukra\|bukra]] (bokra), vagyis tündér szalagja.  
 - Robert Burnham Jr. Burnham's Celestial Handbook III. kötetének 630. oldalán álló adata szerint az ómexikói Tejút-megszemélyesítő elnevezés a "Szivárvány húga" volt.  
 
-Lásd még [[S/Sphere\|sphere]]; az ott szereplő JM adat is igen érdekes.  
+Lásd még [[S/Sphere\|sphere]]; az ott szereplő Jankovics Marcell adat is igen érdekes.  
 Ipolyi Arnold Magyar mythologia című könyvének 341. oldalán szól róla. Lásd még bábabukra nevet [[B/Bukor\|bukor]] címnél (ott sarki fényekről is lesz szó).  
 
 Úgy tűnik, hogy a szivárvány más nyelvekben meglévő szavait elnézve, hogy eleinte az égbolt görbületét jelentette.  

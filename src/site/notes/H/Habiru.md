@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["Englishtexttranslated"],"created":"2023-10-04T02:14","updated":"2024-02-02T02:30"}
+{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["Englishtexttranslated"],"created":"2023-10-04T02:14","updated":"2024-02-10T04:01"}
 ---
 
 
@@ -7,6 +7,7 @@
 
 Robert Graves adata szerint ilyen néven hívták az egyiptomiak a [[H/Héber\|héber]]eket. Az interneten egy doktoriban talált info szerint:  
 > A 'termékeny félhold' országaiban a `habiru` szó – jelentése '[[K/Kóbor\|kóbor]]ló', 'vándorló' tulajdonképpen 'poros' –, annak a sémita nomád pásztornépeknek a neve, amely állatot tenyészt, karavánokkal járja az utakat, fegyverese annak, aki megfizeti és gyakran a rablástól, útonállástól se riad vissza.  
+- Azt jegyezzük meg, hogy az egyiptomiban -u a többes szám jele, azaz lehetséges, hogy olyan módon utaltak népekre, ahogy a görögök (ott az -i a többes jele).
 
 [[H/Hargita Csaba Ferenc\|Hargita Csaba Ferenc]] nehezen kalauzolható honlapjának [ezen](http://www.imninalu.net/Habiru.htm) oldalán taglalja a habirukat. A mellékelt nemzetségtábláról az olvasható le, hogy **Ever**-től kezdve lehet habirukról beszélni.  
 ![assets/Habiru_image1.jpg](/img/user/H/assets/Habiru_image1.jpg)  
@@ -34,13 +35,13 @@ Másutt (korábban?) ezzel ellentétesen:
 
 Fáy Elek A magyarok őshona című könyvének 70. oldalán említi a [[H/Habur\|Habur]] folyó melléki sumér vagy szingarországi Magarisz város nevét.  
 
-Fáy Elek A magyarok őshona című könyvének 114. oldalán a [[H/Habur\|Habur]] folyó (ami az Euphratesz mellékfolyója; Khaburnak is írják; Kabur írásmódja GYÁ részéről helytelen) mellé párosítja a zemplén-megyei Habura község- és pataknevet.  
+Fáy Elek A magyarok őshona című könyvének 114. oldalán a [[H/Habur\|Habur]] folyó (ami az Euphratesz mellékfolyója; Khaburnak is írják; Kabur írásmódja Gyárfás Ágnes részéről helytelen) mellé párosítja a zemplén-megyei Habura község- és pataknevet.  
 
 Szintén Fáy Elek A magyarok őshona című könyvének 70. oldalán említi a Habur folyó melléki sumér illetve szingarországi Magarisz város nevét, ahogy fentebb is szerepelt.  
 Na most a Habur/Habiru nevek kapcsán előjön alant a Szíriusz arab neve, **Al-Habur**, de Dr. Gyárfás Ágnes az Ősi Gyökér 2007/1. PDF 71. oldalán Eb a hite kölykei című cikkében közli Dr. Kovács Sándor adatát, aki a Labat szótár segítségével kimutatta, hogy a Nagy Kutya csillagkép \[akkor ezek szerint nem a Szíriuszé?\] neve MA-GAR, s el is nevezte a "Magyarok Csillagának" (Stella Hungarorum). \[Akkor most a csillagé a név? Kovács cikkének neve Stella Hungarorum, Ősi Gyökér 1999. Másik cikkében Mahgar-nak írja.\]  
 Na most nem-e ezen Magarisz város az, amely az égre helyezve Magarként kiolvasott? Hiszen Magar, Magor, Magur a Solaris Nap neve és nem lehetne Szíriusz neve is. Hacsak nem arról van szó, hogy a [[M/Magor\|Magor]] és [[M/Makara\|Makara]] címnél felfejtett téma nyomán vitetett át a név Szíriuszra, mert a téli napfordulón vele együttállás van:  
 Valószínűleg, mivel több nyelvben a Bakban születő Nap neve révén a Bak neve lett és ilyenkor együttállás történik a Szíriusszal, az elnevezés még átment arra is. Vagy valamilyen kontextusbeli hiba van Kovácsnál is, mint Sitchinnél. Sajnos ha nincs meg a forrás, nehéz bármit mondani.  
-Másutt GYÁ Ur Magar-ként is utal rá. Könnyen lehet, hogy az [[U/UR\|UR]] az, ami viszi benne a kutya értelmet, annál is inkább mert kutyafejjel jelzik ezt a szót.  
+Másutt Gyárfás Ágnes Ur Magar-ként is utal rá. Könnyen lehet, hogy az [[U/UR\|UR]] az, ami viszi benne a kutya értelmet, annál is inkább mert kutyafejjel jelzik ezt a szót.  
 Az ír kutyát jelentő madadh és madra szavakat ugyan [[M/Magyar\|magyar]]ral azonosítottam, mondván, a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] között a kutyának is kell lennie.  
 Egyébként Hunor kellene Szíriusz legyen. Nem hiszem, hogy át kell értékelnem a dolgokat (viszont közben született egy [[M/Magyar mint Szíriusz\|Magyar mint Szíriusz]] cím is).  
 

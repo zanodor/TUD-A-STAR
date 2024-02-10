@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["Englishtexttranslated"],"created":"2023-10-03T11:13","updated":"2024-02-02T03:32"}
+{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["Englishtexttranslated"],"created":"2023-10-03T11:13","updated":"2024-02-10T04:13"}
 ---
 
 
@@ -64,7 +64,7 @@ Az élő Hórusz (Nap) a "halott" Ozirisz (Orion, deus otiosus) helyett tevéken
 
 Persze nemcsak Nietzsche tartotta a Holdat éjjeli Napnak; a képzet egyetemes. Az meg más kérdés, hogy Apollónt hyperboreai napistennek tartották. De nyilván nem funkciója szerint, hanem (szkíta) eredete szerint.  
 
-A görög mitológiánál maradva (az élő Nap) Héraklésszel szemben álltak olyan halott Napistennek beillő alakok, mint Augeiász vagy Eurüsztheusz. Ahogy Graves mondaná, az emelkedő és a hanyatló Nap istenei álltak szemben egymással; erről szóltunk [[O/Osiris és Set\|Osiris és Set]], valamint [[M/Missera\|missera]] címnél is.  
+A görög mitológiánál maradva (az élő Nap) Héraklésszel szemben álltak olyan halott Napistennek beillő alakok, mint Augeiász vagy Eurüsztheusz. Ahogy Graves mondaná, az emelkedő és a hanyatló Nap istenei álltak szemben egymással; erről szóltunk [[O/Ozirisz és Széth\|Ozirisz és Széth]], valamint [[M/Missera\|missera]] címnél is.  
 
 #### Robert Graves The White Goddess...  
 
@@ -76,7 +76,7 @@ A görög mitológiánál maradva (az élő Nap) Héraklésszel szemben álltak 
 Az etruszk [[C/Cautha\|Cautha]], akit JM a lenyugvó Nap etruszk – hüllőbőrű – istenének nevez meg, nevének etimológiája igen érdekes.  
 
 [[T/Tegnap\|Tegnap]] szavunkban is a halott/dög(lött) Nap kifejezés látszik megbújni.  
-A különböző mitológiákból ismert névpárokat lassan egy [[F/Fény és anyag\|fény és anyag]] vagy [[F/Fény és sötétség\|fény és sötétség]] címnél szereplő újabb táblázatba lehetne szedni aszerint, hogy a négy (illetve egyszerűsítve: kettő – nappali és éjjeli Nap) napminőség az egyes kultúrákban milyen-milyen nevű. [[O/Osiris és Set\|Osiris és Set]], [[M/Missera\|missera]], valamint [[H/Hunor és Magor\|Hunor és Magor]] címnél szereplő [[I/Iker\|iker]]-minőségekből lehet kiindulni.  
+A különböző mitológiákból ismert névpárokat lassan egy [[F/Fény és anyag\|fény és anyag]] vagy [[F/Fény és sötétség\|fény és sötétség]] címnél szereplő újabb táblázatba lehetne szedni aszerint, hogy a négy (illetve egyszerűsítve: kettő – nappali és éjjeli Nap) napminőség az egyes kultúrákban milyen-milyen nevű. [[O/Ozirisz és Széth\|Ozirisz és Széth]], [[M/Missera\|missera]], valamint [[H/Hunor és Magor\|Hunor és Magor]] címnél szereplő [[I/Iker\|iker]]-minőségekből lehet kiindulni.  
 Legutóbb [[M/Mithra\|Mithra]] címnél is arról volt szó, hogy Mithra Ozirisznek felel meg.  
 
 Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (első kötetének) 267. oldalán szól a témáról, de olyan jól nem fejti ki, mint JM tette nyilván újabb, pontosított forrásai alapján. Ami RB könyvéből ide tehető, hogy a sumér-akkád Mar-Gidda a Göncölszekér elnevezése ugyan, de a [[M/MAR\|MAR]] kimondottan a hálálra látszik utalni inkább. ([[A/Aganna\|Aganna]] címnél lásd még akkád Göncölszekér elnevezést.)  
@@ -94,7 +94,7 @@ Falvay Károly Nagyboldogasszony című könyvének 164-165. oldalán szól égt
 Másutt viszont (azt hiszem, szintén JM-é), Falvay Károly adatával is kapcsolatot mutatóan:  
 > Az örök körforgás mítoszaiban és meséiben a halál nemzés, fogantatás értelmű, a halotti állapot magzati lét. Ezért lett a kelő, megszületendő Nap mindenkori helye észak, mert abszolút kelet nem létezik.  
 
-Amit JM nem mond ki, hogy a halott Nap északi téridőbeli helye rámutat a Napisten atyjának a Teremtő Isten (aki Égistenként az antikvitásban androgün vagy nőiségi Istennő) csillagkép-lakhelyére: Szíriusz-Orion övezetére és a szintén északi Nagy Medvére és a mindenkori Sarkcsillagra gondolunk. Lásd a témáról [[A/Anu\|Anu]], [[T/Typhon\|Typhon]], [[S/Szíriusz és a medvék\|Szíriusz és a medvék]], [[A/Arthur\|Arthur]], és más címnél írottakat. Ezért találjuk az istennel azonosított [[S/Szarvas\|szarvas]]t az égen Orionban és a Medvék irányában is.  
+Amit Jankovics nem mond ki, hogy a halott Nap északi téridőbeli helye rámutat a Napisten atyjának a Teremtő Isten (aki Égistenként az antikvitásban androgün vagy nőiségi Istennő) csillagkép-lakhelyére: Szíriusz-Orion övezetére és a szintén északi Nagy Medvére és a mindenkori Sarkcsillagra gondolunk. Lásd a témáról [[A/Anu\|Anu]], [[T/Typhon\|Typhon]], [[S/Szíriusz és a medvék\|Szíriusz és a medvék]], [[A/Arthur\|Arthur]], és más címnél írottakat. Ezért találjuk az istennel azonosított [[S/Szarvas\|szarvas]]t az égen Orionban és a Medvék irányában is.  
 Amikor [[A/Arthur\|Arthur]] címnél az [[A/Áld\|áld]]oz fogalma és szava szóba került, akkor is a halott Napisten = Égisten (téridőbeli helye) kapcsolata ötlött fel és JM több helyen szereplő passzusa, melyben a halott áldozat szerepét kell kiemelten keresni:  
 > A szólás, hogy "letörte a szarvát", az ősi bikaáldozatra utal (Héraklész Akhelóiosz fölötti győzelme e szólás mítoszi forrása), s ugyancsak halál-jelentése lehetett eredetileg az e szólással látszólag éppen ellentétes értelmű felszarvazásnak". A túlvilágra költöző uralkodót, hőst, áldozatot ékesítették föl a csak "istent" megillető szarvakkal. Így illett a már túlnan lévők sorába. (Zolnay 1983: 272 skk.) Újabb kori értelmét a kifejezés annak köszönheti, hogy az elhunyt asszonyait utóda örökölte meg – nem egyszer épp az a személy, aki életét is kioltotta. Az alvilág fejedelmét, az ördögöt (krampuszt) és a boszorkányt szarvas lénynek képzelték, ezért voltak "szarvas" \[szarv-as\] állatok a kísérőik (bakkecske, fülesbagoly). A sorba illik maga a szarvas is (gör. `keraosz` "szarvas").  
 
@@ -132,9 +132,9 @@ JM másutt is írja, hogy a naphéroszokat a Skorpióban éri utol a végzetük 
 Másutt is:  
 > A "hasadék" legfényesebb csillagának, a Skorpió csillagzat vörös Antaresének Szépasszon volt a magyar neve, mégpedig annak a [[S/Szépasszony\|Szépasszony]] nevű, felemás hiedelmi alaknak a nyomán, akiről azt tartották eleink, hogy bűbájával a férfiakat "erdős hasadékába" csalja, s azok e kalandba bele is pusztulnak. (Afrikában ma is tartja magát a hiedelem, hogy a skorpió a női nemiszerv "állata". A rovar mérges fullánkja ott a csiklót jelképezi, amit a feketék a férfiakra veszélyesnek hisznek. Ezért "metélik körül" Afrikában milliószámra ma is a nőket, azaz metszik ki a csiklójukat. Vö. azzal, hogy a sumer Ninhurszag "Világhegy-Úrnő" ágyékát skorpió-ijászok őrzik, a Gilgames-eposzban az alvilág bejáratát skorpióemberek vigyázzák. E skorpiók nyilvánvalóan a tejúthasadék állatövi csillagképére, a Skorpióra utalnak. Ez az a "ház" az asztrológiai szimbolikában, amelyben évről évre [[N/Nap – halott Nap#A Nap halála\|meghal a Nap]].  
 
-[[A/Akhilleusz\|Akhilleusz]] címnél RG és JM adatai sorakoznak a Nap halálával kapcsolatosan (kígyó, skorpió mérge és mérges nyíl a halált okozó ágens).  
+[[A/Akhilleusz\|Akhilleusz]] címnél RG és Jankovics Marcell adatai sorakoznak a Nap halálával kapcsolatosan (kígyó, skorpió mérge és mérges nyíl a halált okozó ágens).  
 [[V/Vadkan\|Vadkan]] és [[V/Vaddisznók áldozatai\|vaddisznók áldozatai]] címnél szintén szó volt naphéroszok haláláról.  
-Ugyanakkor a Nap halálát a nyári napfordulós ünnepen szokták tartani, hiszen onnantól "kezd meghalni." [[P/Pünkösd\|Pünkösd]] és [[P/Pünkösdi királyság\|pünkösdi királyság]] címnél is írtuk, hogy ezek eredetileg napfordulós ünnepségek örökségei lehettek (a Tejút-kapuk Ikrekben és Nyilasban lévő nyitottsága arra a korra utalnak, amikor a nyári és téli napforduló ezen időpontokkal is estek egybe: a kelta és görög tradíció JM adatai szerint is ezt bizonyítja).  
+Ugyanakkor a Nap halálát a nyári napfordulós ünnepen szokták tartani, hiszen onnantól "kezd meghalni." [[P/Pünkösd\|Pünkösd]] és [[P/Pünkösdi királyság\|pünkösdi királyság]] címnél is írtuk, hogy ezek eredetileg napfordulós ünnepségek örökségei lehettek (a Tejút-kapuk Ikrekben és Nyilasban lévő nyitottsága arra a korra utalnak, amikor a nyári és téli napforduló ezen időpontokkal is estek egybe: a kelta és görög tradíció Jankovics Marcell adatai szerint is ezt bizonyítja).  
 Ilyenkor a nyári napfordulón ahogy Sír James Frazer, Robert Graves és JM könyveiből is tudjuk, eljátszották a Nap halálát, de egyes kulturákban meg is ölték a tisztségéről leköszönő Napkirályt (vagy annak egy napra kinevezett helyettesét).  
 Mindez pedig a szent ligetben a tölgyfánál történt (a tölgy a nyári napforduló fája; lásd még [[A/Aranyág\|aranyág]], [[D/Darag\|darag]] és [[M/Missel\|missel]]). Lásd még ide kapcsolódóan az alant írottakat is.  
 
