@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gresham-törvény/","title":"Gresham-törvény","created":"2023-10-21T10:50","updated":"2024-02-02T03:06"}
+{"dg-publish":true,"permalink":"/G/Gresham-törvény/","title":"Gresham-törvény","created":"2023-10-21T10:50","updated":"2024-02-10T03:59"}
 ---
 
 
