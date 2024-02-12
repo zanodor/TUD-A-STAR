@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/O/Ökörhajcsár csillagkép/","title":"Ökörhajcsár csillagkép","created":"2023-10-13T12:48","updated":"2024-02-10T04:17"}
+{"dg-publish":true,"permalink":"/O/Ökörhajcsár csillagkép/","title":"Ökörhajcsár csillagkép","created":"2023-10-13T12:48","updated":"2024-02-12T18:14"}
 ---
 
 
 # Ökörhajcsár csillagkép
 
-Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (első kötetének) 286. oldalán szereplő adata és az előtte felvázolt csillagkép-alak megbizonyosít minket abban, hogy az [[O/Orion\|Orion]] csillagkép duplikációjával lehet dolgunk. Arról már másutt volt szó, illetve JM írt róla, hogy egyes (költözéssel járó vagy precesszió miatt) nem látható csillagképeket átvetítettek más égi területekre. Azaz a gyakorlat ismert. Hogy a [[T/Typhon\|Typhon]] címnél említett Bál-Göncöl lehet ezen csillagkép elődje, nos, Farkasinszky adata alapján könnyen lehet. (Viszont a Kutya duplikációja is meglenni látszik ezen égi területen, ami viszont furcsa.)  
+Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (első kötetének) 286. oldalán szereplő adata és az előtte felvázolt csillagkép-alak megbizonyosít minket abban, hogy az [[O/Orion\|Orion]] csillagkép duplikációjával lehet dolgunk. Arról már másutt volt szó, illetve Jankovics Marcell írt róla, hogy egyes (költözéssel járó vagy precesszió miatt) nem látható csillagképeket átvetítettek más égi területekre. Azaz a gyakorlat ismert. Hogy a [[T/Typhon\|Typhon]] címnél említett Bál-Göncöl lehet ezen csillagkép elődje, nos, Farkasinszky adata alapján könnyen lehet. (Viszont a Kutya duplikációja is meglenni látszik ezen égi területen, ami viszont furcsa.)  
 
 [[S/Sibzianna\|Sibzianna]] (és változatai) névről a (Boötes-Ökörhajcsár alfájának) [[A/Arcturus\|Arcturus]] címnél volt szó. Ott is említettük az Orion-duplikálás kérdését. Márpedig tudjuk\[?\], hogy mindkettő lehet Bál nevű csillagkép (Nimród egyes források szerint [[B/Bál\|Bál]] néven is futott).  
 
