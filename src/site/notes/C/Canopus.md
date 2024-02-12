@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Canopus/","title":"Canopus","tags":["Englishtexttranslated"],"created":"2023-10-30T07:29","updated":"2024-02-10T03:41"}
+{"dg-publish":true,"permalink":"/C/Canopus/","title":"Canopus","tags":["Englishtexttranslated"],"created":"2023-10-30T07:29","updated":"2024-02-12T18:10"}
 ---
 
 
@@ -61,7 +61,7 @@ Robert E. Briggs idézete akár a magyar párostánc lényegét fogalmazná meg.
 Nem tudott, mert a Szíriusznak is követni kellett Canopust a láthatatlanságba. Így amikor Canopus-Ozirisz helyét időszakosan az Orion (Hórusz) csillagkép veszi át, akkor a Szíriusz-Íziszét a Szűz csillagkép fő csillaga, a [[S/Spica\|Spica]]. \[Mivel viszont a precesszió Szíriuszra nem vonatkozik, a mellékelt ábra Dobos Csanádtól hasztalan.\]  
 
 Canopus mint a Kan Szeme érdekes elnevezés, mert – ahogy Robert Temple Szíriuszról szóló könyve szól róla – a [[D/Dogon\|dogon]]okkal rokon Mali-beli Bozo törzs a Szíriusz B-t ([[S/Sothis\|Sothis]]?) tartják szem-csillagnak, míg az egyiptomiak As-Art, azaz Oziriszt illették szemmel. [[O/OG\|OG]] etimon szem és óriás jelentése itt kapcsolódik össze.  
-Vélhetően persze elsődlegesen arról van szó, hogy éj fekete fátylán beszűrődő fényt tartották az ősmagyarok jelképesen(!) szemeknek: itt kapcsolódik a [[C/Canopy\|canopy]] szónál MA által adatolt [[K/Kanop\|kanop]] szó is, fátyol jelentéssel.  
+Vélhetően persze elsődlegesen arról van szó, hogy éj fekete fátylán beszűrődő fényt tartották az ősmagyarok jelképesen(!) szemeknek: itt kapcsolódik a [[C/Canopy\|canopy]] szónál Magyar Adorján által adatolt [[K/Kanop\|kanop]] szó is, fátyol jelentéssel.  
 Canopust tartották a déli földteke tájolópontjának ([[F/Fúrócsillag\|Fúrócsillag]]ként, déli Sarkcsillagként ma nincs elég középen viszont): lásd még [[C/Canopy\|canopy]], [[N/Navigate\|navigate]] és [[N/Négyszögletes Föld\|négyszögletes Föld]].  
 
 A Canopust a Hamlet Malma című könyv is említi:  
@@ -118,7 +118,7 @@ Egy újdonsült ("fringe" kutatóként[^4] nyilván rengeteg zagyvalékkal elő�
 > —  
 > A Második Világ Bárkája azonosítható az Argóval, már csak azért is, mert az Argo egy hajó volt, és 50 csillag volt rajta, a Második Világ szent száma. Mindkét korszak a Szíriuszhoz kapcsolódik, amely szintén mindkét korszak mérője volt. A Szíriuszt egy nyíllal azonosították (talán az idő nyilának szimbólumának eredete?), és állítólag árvizeket okozott. A babiloni újévben a Szíriusz a mul.KAK.SI.DI, 'aki a tenger mélységét mériʼ néven volt ismert. A [[M/MUL\|mul]] a csillagot jelentő előtag, a KAK.SI.DI jelentése 'nyílʼ, és ez a nyíl a mélység – a mélység mérője. Ez közvetlenül kapcsolódik a mélység sós vizének mítoszához, amely az özönvizet okozta. A fa kivágása okozta az örvény létrejöttét. Ezt a kozmikus tengelynek vagy a Világ köldökének nevezték. A köldök az emberi testben lévő "lyuk", amely összekötötte annak belsejét az anyával, a táplálóval, a gyermek és a szülő közötti "kozmikus tengelyt".  
 > A legendák szerint **ha nyilat lőttek a nyílásba, az tüzet okozott**. Így amikor a Szíriusz a mélységet mérte, és beledobta a nyilát, azt mondták, hogy tüzet okozott a mélységben.  
-- A nyíl, mint [[V/Villám\|villám]]köteg viszont a teremtést ([[K/Kutyanemzés\|kutyanemzés]]t: lásd JM írását alant) is szimbolizálja, azaz itt a tűz alatt lényegében olyan sugárzást lehet érteni, melyről [[H/Henry Kroll\|Henry Kroll]] is szólt könyvében.  
+- A nyíl, mint [[V/Villám\|villám]]köteg viszont a teremtést ([[K/Kutyanemzés\|kutyanemzés]]t: lásd Jankovics Marcell írását alant) is szimbolizálja, azaz itt a tűz alatt lényegében olyan sugárzást lehet érteni, melyről [[H/Henry Kroll\|Henry Kroll]] is szólt könyvében.  
 
 Lényegében a fentiek alapján azt a képzetet kell látni, hogy a Canopus csillagot tartották a [[H/Hamlet malma\|Hamlet malma]], azaz a Világmalom-tengely alsó, déli forgópontjának, csapszegének ([[F/Fúrócsillag\|Fúrócsillag]] címnél is volt erről szó).  
 Minden további fejtegetést (olyat is, amit ide kellett volna inkább tenni) lásd [[C/Canopy\|canopy]].  
