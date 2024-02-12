@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hegy és barlang/","title":"Hegy és barlang","created":"2023-11-09T04:49","updated":"2024-02-10T04:02"}
+{"dg-publish":true,"permalink":"/H/Hegy és barlang/","title":"Hegy és barlang","created":"2023-11-09T04:49","updated":"2024-02-12T18:12"}
 ---
 
 
@@ -15,7 +15,7 @@ Ez utóbbi címnél kiderült, hogy a sumér nyelv `KUR` alatt furcsamód az alv
 Itt nyilván azt a képzetet kell látni, hogy az [[E/Életkör\|életkör]] állomásai közt van magas és mélypont is. A Kör = Nap mozgása is ilyen, de a téli napfordulós Nap születése (a [[T/Tejútanya\|Tejútanya]] méhéből/öléből; lásd még [[K/Köldök\|köldök]] szót is) kiemelt jelentőségű és minden abból indul ki.  
 
 A [[K/KAR\|KAR]] és [[K/KUR\|KUR]] címnél szereplő diagramon (magyarázattal lásd utóbbit) épp ezen cikk írása után szerepeltetve lett KUR is, két egymásnak inverzeként értelmezhető gúlát, Világhegyet háromszöggel ábrázolva. Arról [[M/Meru\|Meru]] címnél is volt szó, hogy az ősi felfogás szerint nemcsak az északi, hanem a déli pólusra is elképzelték ezeket a hegyeket.  
-Sőt, a [[C/Crystal\|crystal]] címnél szereplő JM írás is azt támasztja alá, hogy az indiánok is így gondolkodtak.  
+Sőt, a [[C/Crystal\|crystal]] címnél szereplő Jankovics Marcell írás is azt támasztja alá, hogy az indiánok is így gondolkodtak.  
 
 Ugyan látszólag messze kerültünk a barlangtól, mégis van mód visszakanyarodni, ugyanis ezek a felfelé és lefelé álló háromszögek, ahogy [[E/Elementál\|elementál]] és [[S/Symbol\|symbol]] címnél is volt róla szó, a férfi és női princípium ősi (később alkimista) jelei.  
 A Szimbólumtár [[B/Barlang\|barlang]] címnél is álló adata szerint:  
