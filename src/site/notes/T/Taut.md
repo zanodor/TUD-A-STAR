@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Taut/","title":"Taut","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2023-10-20T02:21","updated":"2024-02-02T04:01"}
+{"dg-publish":true,"permalink":"/T/Taut/","title":"Taut","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2023-10-20T02:21","updated":"2024-02-12T18:23"}
 ---
 
 
@@ -29,14 +29,14 @@ Az [alábbi](https://www.aut.edu/phoenician.html) oldalon hasonló adat:
 > According to the Egyptians language is attributed to Taautos who was the father of [[T/Tautology\|tautology]] or imitation. He invented the first written characters two thousand years BC or earlier. Taautos came from Byblos, Phoenicia, that shows a continuous cultural tradition going back as far as 8,000 B.C. Taautos played his flute to the chief deity of Byblos who was a moon-goddess Ba'alat Nikkal.  
 > Note: Taautos was called Thoth by the Greeks and the Egyptians called him Djehuti. The mythology of Taautos appears in that of Thoth and Dionysus, or Njörth the snake priest who was, at times, the consort to the moon-goddess. The snake priest was also represented by the symbol of a pillar, a wand or a caduceus. This symbol would itself become a god Hermes or Mercury. The Greeks equated Thoth with the widely-traveled Hermes. According to Egyptian tradition Osiris traveled the world with Thoth. Under the protective umbrella of Hindu culture, snake charmers playing their nasal punji echo the same tradition.  
 —  
-> Az egyiptomiak szerint a nyelvet Taautosznak tulajdonítják, aki a [[T/Tautology\|tautológia]] vagy utánzás atyja volt. Ő találta fel az első írásjeleket i.e. kétezer évvel ezelőtt vagy még korábban. Taautosz a föníciai Bübloszból származott, amely folyamatos kulturális hagyományt mutat, amely egészen Kr. e. 8000-ig nyúlik vissza. Taautosz fuvolázott Büblosz fő istenségének, aki Ba'alat Nikkal holdistennő volt.
+> Az egyiptomiak szerint a nyelvet Taautosznak tulajdonítják, aki a [[T/Tautology\|tautológia]] vagy utánzás atyja volt. Ő találta fel az első írásjeleket i.e. kétezer évvel ezelőtt vagy még korábban. Taautosz a föníciai Bübloszból származott, amely folyamatos kulturális hagyományt mutat, amely egészen Kr. e. 8000-ig nyúlik vissza. Taautosz fuvolázott Büblosz fő istenségének, aki Ba'alat Nikkal holdistennő volt.  
 > Megjegyzés: Taautoszt a görögök Thotnak, az egyiptomiak pedig Djehutinak hívták. Taautosz mitológiája megjelenik Thot és Dionüszosz, illetve Njörth kígyópapjának mitológiájában, aki időnként a holdistennő hitvese volt. A kígyópapot egy oszlop, egy pálca vagy egy caduceus szimbólummal is ábrázolták. Ez a szimbólum maga is Hermész vagy Merkúr isten lett. A görögök Thotot a messze földön járó Hermésszel tették egyenlővé. Az egyiptomi hagyomány szerint Ozirisz Thóttal együtt járta be a világot. A hindu kultúra védőernyője alatt a kígyóbűvölők, akik orrhangú punjijukat játsszák, ugyanezt a hagyományt visszhangozzák.  
 
 James Barr Philo of Byblos and his Phoenician history című írásában a 25. oldalon és Linda Jones Hall Roman Berytus című könyvének 133. oldalán található adatok szerint **Taautosz** apja neve **Misor**, azaz [[M/MISZ\|Misz]]-Úr, mely megint csak lehet a [[T/Tejút\|Tejút]], de akár lehet Egyiptom (pre-sémi) föníciai neve is.  
 
 # Taut 2)
 
-Szoros, feszes, mint a [[T/Tight\|tight]]. Elég valószínű, hogy nem a gyeplőre vagy a nadrágszíjra, hanem az íjra használt szó volt. Lám, Fáy Elek A magyarok őshona című könyvének 259. oldala alján említett vogul `taut` = tegezt és tüzet is jelent.  
+Szoros, feszes, mint a `tight`. Elég valószínű, hogy nem a gyeplőre vagy a nadrágszíjra, hanem az íjra használt szó volt. Lám, Fáy Elek A magyarok őshona című könyvének 259. oldala alján említett vogul `taut` = tegezt és tüzet is jelent.  
 És még:  
 > In Gen. 49:23-24 Jacob continues his speech to Joseph saying, 'Archers bitterly assailed him \[Joseph\]; they shot at him and harried him. Yet his bow stayed taut, and his arms were made firm by the hands of the Mighty One of Jacob' (NJPS translation).  
 > —  
