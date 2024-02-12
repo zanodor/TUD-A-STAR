@@ -363,7 +363,7 @@ Antal István Tündéres, derengő című Ősi Gyökér 2005/4. sz. megjelent ci
 
 Az [alábbi](https://youtu.be/Msa4rFmGoU0) ÁKTV műsorban (Czékus Jób féle Pannon Rádiós anyagból összeállítva) 39:20-nál Pap Gáborra hivatkozva azt mondják, hogy a **kereszt a földi ember és az égiek kapcsolatá**t jelenti.  
 
-És hogy mennyire igaz, amit KT ezzel kapcsolatban mond, alátámasztható az alábbiakkal:  
+És hogy mennyire igaz, amit Kubínyi Tamás ezzel kapcsolatban mond, alátámasztható az alábbiakkal:  
 Az aki [[A/Áll\|áll]] (gerincoszlopa függőleges, mint a fatörzsé) az [[E/ÉL\|él]], és aki fekszik, az vagy [[A/AL\|al]]szik, vagy [[H/HAL\|hal]]ott (gerincoszlopa vízszintes). Itt említhető meg, hogy az emlősök között egyedül az ember képes teljesen felegyenesedni, míg a [[K/Kutya\|kutya]] az, amelynek gerincoszlopa[^14] vízszintes, párhuzamos a Föld felszínével (képes két lábra állni, ahogy a ló is, és ez fontos lehet). A [[M/Majom\|majom]] ([[A/Ape\|ape]]) az ember és kutya között van. (Jegyezzük itt is meg, hogy sok állat a kutyából látszik kiindulni, vagy ahhoz hasonlíttatott).  
 
 [[A/Áll#Áll téridőbeli értelmezése\|Áll téridőbeli értelmezése]] cím/alcímnél írtuk:  
@@ -444,7 +444,7 @@ Másutt még szól (erre vonatkozó infókat lásd [[E/Egy\|egy]] illetve [[S/Sz
 
 Molnár V. József Világ-Virág című könyvének 19. oldalán írja, hogy általában egyenlő szárú kereszt osztja a jurtatető kerek füstnyílását, a szerkezeti elemek felső rögzítőjét, amely egyben az égre nyíló ablak (melyről lásd még [[O/ÓG\|ÓG]]).  
 
-Bakos Attila A Duna Evangéliuma című könyvének 228. oldalán az [[A/Ankh\|ankh]]-kereszt (képet tőle lásd ott) vizsgálatánál a T-keresztről azt írja, hogy ideiglenes idő-tér (nálam: [[T/Téridő\|téridő]]) princípium. Egy kicsit hasonlít ahhoz, amit KT a kereszt-szárak metszőpontjáról mondott irracionális pontként jellemezve azt.  
+Bakos Attila A Duna Evangéliuma című könyvének 228. oldalán az [[A/Ankh\|ankh]]-kereszt (képet tőle lásd ott) vizsgálatánál a T-keresztről azt írja, hogy ideiglenes idő-tér (nálam: [[T/Téridő\|téridő]]) princípium. Egy kicsit hasonlít ahhoz, amit Kubínyi Tamás a kereszt-szárak metszőpontjáról mondott irracionális pontként jellemezve azt.  
 
 #### Acharia S Suns of God...
 
@@ -641,7 +641,7 @@ Ezek az összefüggések magyarázzák az antik földszimbólum széleskörű az
 Az [alábbi](https://youtu.be/n5DW35ch1kg) ÁKA előadásban (a spirituális kérdéseket kicsit nehezen magyarázó, kicsit nehezen követhető) Bars Máriától valahol elhangzott, hogy a fény központosulásában, koncentrációjában jelenik meg az anyag. Valahogy így mondta (nem találom most). Végeredményben ezért is lehet, hogy a körbe zárt kereszt lehet a fény és egyúttal az anyagi világ Földje is.  
 
 [^9]: Lábjegyzet:  
-JM írhatta volna úgy is, hogy a Világ [[K/Köldök\|köldök]]e volt.  
+Jankovics Marcell írhatta volna úgy is, hogy a Világ [[K/Köldök\|köldök]]e volt.  
 
 [^10]: Lábjegyzet:  
 Ezért is lehet, hogy a [[S/Székely-magyar rovásírás#F\|székely-magyar rovásírás F]] betűjét föld értelemben adják meg. Valójában nem az egész jel jelenti a Földet, mármint itt már az égitest Földet, hanem csak a kereszt-szárak találkozópontja, az origója.  

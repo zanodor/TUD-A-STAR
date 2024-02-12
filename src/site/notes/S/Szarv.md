@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2024-02-08T07:35"}
+{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2024-02-12T18:34"}
 ---
 
 
@@ -72,7 +72,7 @@ A sumér/szumér adatokkal szintén foglalkozó...
 
 Serow Wikipedia illetve Wiktionary oldalán kiderül, hogy egy rút formájú ázsiai vadkecske féle neve, melyet a tibeti nyelvcsaládba tartozó lepcsa nyelvű `să-ro` = hosszúszőrű tibeti kecske szóból származtatnak, holott szarv-as állat lévén, és lévén, hogy például az aveszta nyelvén is aveszta `srva` = szarvas (vagy szarv?), nem lett volna nehéz más irányban is gondolkodni.  
 
-További hasonló szavakat lásd még [[S/Szarvas\|szarvas]] ill. JM írásában [[C/Csudaszarvas\|Csudaszarvas]].  
+További hasonló szavakat lásd még [[S/Szarvas\|szarvas]] ill. Jankovics Marcell írásában [[C/Csudaszarvas\|Csudaszarvas]].  
 
 [[T/Temetkezés\|Temetkezés]]eknél a halottra szarvasfejet, kosfejet, kecskefejet helyeztek, de nem csak itt, hanem más helyeken is. A [[S/Szarvas\|szarvas]], kos, bak [[A/Agancs\|agancs]]a, szarva egyértelműen [[T/Tejút\|Tejút]] jelkép. Azt segíti elő, hogy a halott lelke a csillagokba távozzon, majd onnan újra megszülethessen a földön. A csavart szarvak az [[A/Aranymetszés\|aranymetszés]] matematikáját tartalmazzák, amit őseink ismertek.  
 Ahogy a görög `kérasz` Wiktionary oldalán[^1] írják, szarvakból íjat is készítettek, ami egy fontos dolog és furcsállom, hogy eddig nem került szóba.  
@@ -176,7 +176,7 @@ Ami érdekes lehet tőle:
 
 Viszont azt tudni kell, hogy [[P/Pán\|Pán]] nem a Kossal, hanem a Bakkal hozatott kapcsolatba. Az tény, hogy szarvak itt és ott is vannak.  
 Aztán a cikkíró megkér minket, nézzük meg a Kos jelét, hogy mire emlékeztet minket. Valóban az általa is említett Istennőre, annak méhére (és még ahogy írja, a menstruális ciklusra) utal.  
-A Kos/szarv jel tehát együttesen jelezheti, hogy Napfiú ezen a MA által is [[N/Nász\|nász]]ünnepélynek tartott március 21.-i tavaszi napéjegyenlőségi napon fogan meg (hogy 9 hónap múlva a Napfiú megszülethessen): az Molnár V. József könyvében kettős-spirál néven is nevezett Kos/szarv jel ezen felfelé álló [[F/Fleur de lis\|fleur de lis]] szerű állapotában nőiségi (szaporító szervrendszer) jelképként ([[K/KUS\|KUS]] = tűz, ahogy [[V/Vulva\|vulva]] a Tejútközpontban is a [[T/Tűz\|tűz]]es lába köze az istennőnek) mutatkozik, viszont fejjel lefelé nézve egy hímtagot formázna a két monnyal. Azaz visszatérünk a fentebbi "a hím és női ivarszervek egymás inverzei" kérdéshez. Az [[E/Egy\|egy]] címnél taglalt egyháromság témához így tehetőek az alábbiak:  
+A Kos/szarv jel tehát együttesen jelezheti, hogy Napfiú ezen a Magyar Adorján által is [[N/Nász\|nász]]ünnepélynek tartott március 21.-i tavaszi napéjegyenlőségi napon fogan meg (hogy 9 hónap múlva a Napfiú megszülethessen): az Molnár V. József könyvében kettős-spirál néven is nevezett Kos/szarv jel ezen felfelé álló [[F/Fleur de lis\|fleur de lis]] szerű állapotában nőiségi (szaporító szervrendszer) jelképként ([[K/KUS\|KUS]] = tűz, ahogy [[V/Vulva\|vulva]] a Tejútközpontban is a [[T/Tűz\|tűz]]es lába köze az istennőnek) mutatkozik, viszont fejjel lefelé nézve egy hímtagot formázna a két monnyal. Azaz visszatérünk a fentebbi "a hím és női ivarszervek egymás inverzei" kérdéshez. Az [[E/Egy\|egy]] címnél taglalt egyháromság témához így tehetőek az alábbiak:  
 Ahhoz, hogy a nemzés létrejöhessen, a(z egymás inverzének is felfogható) férfi és női nemi szervek háromságának megfelelően kell működnie. A férfinél nem elég a pénisz (annak is erekt állapota), ha nem működik a hormontermelés (herék). A nőnél a petefészek hasonló fontosságú. A két szervrendszer egyháromsága együtt hozza létre az életet. (Arról pedig több helyen volt szó, hogy a magyar-hun azaz [[H/Hunor és Magor\|Hunor és Magor]] rendszerben a hunok a nemzésért, magyarok a szülésért felelősek.)  
 
 #### Pető Imre Nimród és fiai...

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bolt/","title":"Bolt","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-10T10:45","updated":"2024-02-02T01:29"}
+{"dg-publish":true,"permalink":"/B/Bolt/","title":"Bolt","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-10-10T10:45","updated":"2024-02-12T18:09"}
 ---
 
 
@@ -37,6 +37,6 @@ Vault és bolt kapcsán lásd írást [[A/Aszklépiosz\|Aszklépiosz]]. Hitetetl
 írása ([[F/Flash\|flash]] címnél is szerepelt):  
 > A palócok egyik nemzeti fegyvere lehetett a nyíl is, habár ennek palóc szócsoportbeli neve mai nyelvünkben nincsen is meg, viszont megvan más nyelvekben, így a görögben `bélosz`, a németben `Pfeil`, a franciában `flèche` (fles) = nyíl; amely szavak avaros kiejtése az olasz `freccia` (freccsa) = nyíl, de ezek alapján a nyíl őspalóc neve is kikövetkeztethető. Ugyanis népünk a villámot ma is nevezi Isten nyilának is, vagyis tehát a villám nyílként is volt fölfogva.  
 
-Közben [[V/Velocity\|velocity]] címnél is említettem a görög `bélosz` = nyílvessző szót, de azóta több más címnél is.  
+  
 
 Lásd még [[B/Bolt#Bolt 1)\|bolt]], [[B/BOT\|BOT]], [[B/Bow\|bow]], [[B/Boat\|boat]] és [[B/Build\|build]]. Lásd még továbbá [[F/Flash\|flash]], de [[F/Flex\|flex]] címnél is utaltunk rá.  

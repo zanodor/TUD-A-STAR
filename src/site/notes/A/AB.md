@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/AB/","title":"AB","tags":["Englishtexttranslated"],"created":"2023-10-20T05:11","updated":"2024-02-01T10:39"}
+{"dg-publish":true,"permalink":"/A/AB/","title":"AB","tags":["Englishtexttranslated"],"created":"2023-10-20T05:11","updated":"2024-02-12T18:07"}
 ---
 
 
@@ -23,7 +23,7 @@ Lajos Kazár: Japanese-Uralic language comparison című  írásából közöl R
 
 Az AB = víz értelme tetten érhető lehet még például a ser szavunkból képzett bor jelentésű perzsa és török `sarab` szóban is. Lásd még [[S/Sarāb\|sarāb]].  
 
-Vízszintre utaló [[A/Apad\|apad]] szavunkat (a víz mindig a legalsó helyet keresi) ugyan A-Pad formában elemzi PJI, de [[A/AP\|AP]] = **AB**, ezt ne feledjük.  
+Vízszintre utaló [[A/Apad\|apad]] szavunkat (a víz mindig a legalsó helyet keresi) ugyan A-Pad formában elemzi Péterfai János, de [[A/AP\|AP]] = **AB**, ezt ne feledjük.  
 
 Az AB ház jelentéséről [[H/Hab\|hab]] címnél is volt szó. Ott is szerepelt Rasmus Bjørn Foreign elements in the Proto-Indo-European vocabulary című írásának 67-68. oldaláról való adata; hasonló hehes (nem víz hanem) folyó jelentésű szavakat hoz fel[^2]; a víz és a folyó értelmek nem összeegyeztethetetlenek, sőt fentebb Péterfai János ilyen szinonim jelentéseket is megad.  
 

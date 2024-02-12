@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated"],"created":"2023-10-13T01:11","updated":"2024-02-01T10:38"}
+{"dg-publish":true,"permalink":"/A/A/","title":"A","tags":["Englishtexttranslated"],"created":"2023-10-13T01:11","updated":"2024-02-12T18:06"}
 ---
 
 
@@ -70,7 +70,7 @@ Az előhang nélküli és előhangos állatnevek kapcsán legutóbb [[U/UR#UR sz
 
 ...című 2005/1. sz. megjelent tanulmányában ugyan nem teljesen úgy gondolkodik, ahogy én, de a végeredményt tekintve jól írja:  
 > [[U/UR\|ÚR]] és [[E/ÉL\|ÉL]] is AN változatai; az n → r → l mássalhangzóváltások figyelembe vételével azonosíthatók: AN → ÚR → ÉL. (Gyakorlatilag az n → r → l hangokat szájunk azonos helyén, nyelvünk azonos állása mellett képezzük, szavainkban gyakran felcseréljük őket. Mindhárom zöngés foghang. Az egyiptológia egymásba folyó hangalakoknak tartja.)  
-- A magánhangzók az egyedüli hangok, melyek önállóan értelmesek \[ahogy MA és a fentebb említett Tomory Zsuzsa adatai több helyen erről szóltak\] és az isteni szellem megszólaltatói. Csak magyar nyelven értelmezhetők Robert Graves The White Goddess c. könyvének 285-286. oldalán és az őt forrásaként megnevező JM írásai [[J/Jehova\|Jehova]] címnél is, ahol a [[D/Dó, Ré, Mi, Fá, Szó, Lá, Ti hangsor\|Dó, Ré, Mi, Fá, Szó, Lá, Ti hangsor]]ról is volt szó, mint kiinduló ideáról.
+- A magánhangzók az egyedüli hangok, melyek önállóan értelmesek \[ahogy MA és a fentebb említett Tomory Zsuzsa adatai több helyen erről szóltak\] és az isteni szellem megszólaltatói. Csak magyar nyelven értelmezhetők Robert Graves The White Goddess c. könyvének 285-286. oldalán és az őt forrásaként megnevező Jankovics Marcell írásai [[J/Jehova\|Jehova]] címnél is, ahol a [[D/Dó, Ré, Mi, Fá, Szó, Lá, Ti hangsor\|Dó, Ré, Mi, Fá, Szó, Lá, Ti hangsor]]ról is volt szó, mint kiinduló ideáról.
 
 Ami tehát azt a szabályt illeti, hogy a magyar nyelvében a mássalhangzók "viszik" a szó jelentését, igaz, viszont a mássalhangzó magában nem lehet szó. Ki sem tudod ejteni őket magánhangzó nélkül (Pap Gábor az [[S/SZ\|SZ]] hangzót félmagánhangzónak titulálja). Ezért hívjuk őket mássalhangzónak. A mássalhangzók csak a vázat adják meg, a testet. A lelket/szellemet a magánhangzók hordozzák a szavakban, mely szavak a magyar nyelvben egy betűből is állhatnak, de sosem mássalhangzóként.  
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hykszosz/","title":"Hykszosz","tags":["Englishtexttranslated"],"created":"2023-10-31T08:16","updated":"2024-02-05T02:44"}
+{"dg-publish":true,"permalink":"/H/Hykszosz/","title":"Hykszosz","tags":["Englishtexttranslated"],"created":"2023-10-31T08:16","updated":"2024-02-12T18:13"}
 ---
 
 
@@ -10,7 +10,7 @@ Az egyiptomi szkíták ill. avar-hunok[^1] neve. [[B/Barkó\|Barkó]] címnél..
 #### Magyar Adorján írja:
 
 > Ámde nem csupán az újabb történelemből ismert [[A/Avar\|avar]], másként várkun, nevet viselt nemzet származott azon őstörzsből amelyet ma barkónak nevezünk, hanem például az egy ideig Egyiptom fölött uralkodott hixoszok is, ami kevesek előtt ismeretes, helyesebben szólva: kevesen tudják miszerint a hixoszok is egy avar törzs voltak.  
-- Lentebb lesz még hasonló MA passzus.
+- Lentebb lesz még hasonló Magyar Adorján passzus.
 
 #### Pálfi Károly A magyar nemzet őstörténete és a zsidóság...
 

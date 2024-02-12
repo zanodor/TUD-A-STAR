@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tánc/","title":"Tánc","tags":["containstransclusions"],"created":"2023-11-12T05:06","updated":"2024-02-02T04:06"}
+{"dg-publish":true,"permalink":"/T/Tánc/","title":"Tánc","tags":["containstransclusions"],"created":"2023-11-12T05:06","updated":"2024-02-12T18:23"}
 ---
 
 
@@ -45,7 +45,7 @@ Tánc, tántorog, teng-leng ([[T/Tango\|tango]]), [[T/Tengely\|tengely]], mind [
 >
 > A néptánc és a népi gyermekjátékok közötti szoros kapocs tanújele, hogy ez utóbbiak is az éves körforgást játsszák el, a táncéhoz hasonló változatossággal és ugyanúgy idényjelleggel. Valamikor minden játék kozmikus jelentést hordozott.  
 - Lásd [[S/Sakk\|sakk]], és olyan [[L/Labdajáték\|labdajáték]]okat, mint például [[F/Football\|football]].  
-Lásd még JM írását [[I/Ismétlés\|ismétlés]] és [[R/Ritual\|ritual]].  
+Lásd még Jankovics Marcell írását [[I/Ismétlés\|ismétlés]] és [[R/Ritual\|ritual]].  
 
 #### John Major Jenkins Galactic Alignment...
 

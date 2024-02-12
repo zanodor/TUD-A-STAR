@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Anthropophagy/","title":"Anthropophagy","tags":["Englishtexttranslated"],"created":"2023-11-14T02:35","updated":"2024-02-01T11:06"}
+{"dg-publish":true,"permalink":"/A/Anthropophagy/","title":"Anthropophagy","tags":["Englishtexttranslated","unpublishit"],"created":"2023-11-14T02:35","updated":"2024-02-12T18:07"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Emberevés, mint a [[C/Cannibal\|kannibalizmus]]. Előtagját lásd [[A/Anthropo-\|anthropo-]], utótagját illetően pedig lásd fágy szóval azonosított [[P/Phago-\|phago-]] címnél.  
 
-A Börüszthenész nevű szkítákon túl északra androphagoszok, emberevők élnek, akik semmiképpen sem szkíták, írja PJI, Herodotosz alapján.  
+A Börüszthenész nevű szkítákon túl északra androphagoszok, emberevők élnek, akik semmiképpen sem szkíták, írja Péterfai János, Herodotosz alapján.  
 
 A [[K/Kutyafejű\|kutyafejű]]ekről igen nagy lejárató kampány készült.  
 

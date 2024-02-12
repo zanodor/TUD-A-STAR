@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Letöltések/","title":"Letöltések","created":"2023-12-28T07:46","updated":"2024-01-24T03:39"}
+{"dg-publish":true,"permalink":"/101/Letöltések/","title":"Letöltések","created":"2023-12-28T07:46","updated":"2024-02-12T18:06"}
 ---
 
 
@@ -14,6 +14,8 @@ Használja a keresőt (search) bármely webhelyen a keresett állomány megtalá
 ## Kiemelt szerzők, kiadványok és előadók
 
 - [Péterfai János István összes](https://mega.nz/file/kqFXUK4C#3T6V6m8JN1ga0izseQ2D29XvWnVN-W6-nO-yHaBIGXk)
+{ #7wpbh1}
+
 - [Magyar Adorján összes](https://mega.nz/folder/diVDUSJR#5v1KKyRHxbioilnrUpyngg)
 - [Jankovics Marcell összes](https://mega.nz/folder/grNGUYrB#eTCxcKXMSfN5Unrf-jrtrA)
 - [Badiny Jós Ferenc összes](https://mega.nz/folder/pzFwiSiZ#hA7DP6DY0Rb-v8TRVIwnIQ)

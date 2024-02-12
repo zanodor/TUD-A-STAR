@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["Englishtexttranslated"],"created":"2023-10-15T10:43","updated":"2024-02-10T04:21"}
+{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["Englishtexttranslated"],"created":"2023-10-15T10:43","updated":"2024-02-12T18:22"}
 ---
 
 
@@ -71,7 +71,7 @@ A bibliai Bálám (Bileám) szamara elnevezése hátterében [[B/Bál\|Bál]] is
 ...című a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXXIII./10. sz. megjelent cikkében közli:  
 > Hóruszt az ábrázolások gyakran mutatják a kártékony állatok legyőzőjeként, skorpió is megmarta, Thot mentette meg. A \[Nap által\] legyőzött állatok gyakran [[S/Széth\|Széth]] megjelenések, *ostobának tartott állatok, mint a krokodil, víziló és antilop.*  
 
-- - -
+---
 
 A **Szimbólumtár** adatsora:  
 > A lófélék családjába tartozó, kisebb termetű, hosszú fülű, málházásra, igavonásra használt háziállat. A termékenység, a béke, az alázat és a szegénység jelképe. \[Mind stimmel is a szkíta népekre.\]  

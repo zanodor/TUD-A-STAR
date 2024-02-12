@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mithra és a bika/","title":"Mithra és a bika","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T02:41","updated":"2024-02-10T04:11"}
+{"dg-publish":true,"permalink":"/M/Mithra és a bika/","title":"Mithra és a bika","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-13T02:41","updated":"2024-02-12T18:13"}
 ---
 
 
@@ -77,7 +77,7 @@ John Major Jenkins Galactic Alignment című könyvének 8. fejezetében szól a
 Lásd a képet csatolva, magyarázatát viszont a könyvben.  
 
 JMJ ugye mindenütt napfordulós tengelyeket keres és itt meg is találta az előző világkorszakban Tejúttal együttálló [[B/Bak-Rák tengely\|Bak-Rák tengely]] személyében.  
-Ha már napfordulós tengelyek, emlékezzünk JM írására [[N/Nap\|Nap]] címnél: a mítoszalkotói felfogás az egyidejű megfigyelés során egymással szemben álló csillagképeket összekapcsolta aszerint, hogy melyik látszik: ez esetben Mithra-Orion az Orionnal szemben álló Skorpió-Nyilas képviselője is, ezért nem véletlen, hogy a Skorpió-Bika kerettörténet lett meghatározva.  
+Ha már napfordulós tengelyek, emlékezzünk Jankovics Marcell írására [[N/Nap\|Nap]] címnél: a mítoszalkotói felfogás az egyidejű megfigyelés során egymással szemben álló csillagképeket összekapcsolta aszerint, hogy melyik látszik: ez esetben Mithra-Orion az Orionnal szemben álló Skorpió-Nyilas képviselője is, ezért nem véletlen, hogy a Skorpió-Bika kerettörténet lett meghatározva.  
 Tisztázzuk még egyszer:  
 A lényeg a kompozícióban a Bika leölése, de mivel csak az Orion lehet szomszédos vele, ezt kellett ábrázolni, holott amikor egy csillagképet az éji égen látunk, akkor épp a vele átellenben levő csillagképben tartózkodik a Nap, azaz a Nyilasban-Skorpióban, amit szabad szemmel ugye napközben nem látunk, maximum ha reggel heliákus megfigyelést végzünk.  
 Viszont mivel itt a precessziós [[N/Nagy Év\|Nagy Év]]ben kell gondolkodnunk, a Bika leölése korszakváltozást jelent.  
@@ -164,7 +164,7 @@ Olyannyira nincsenek tisztában Mithra kilétével, hogy egyenesen vallásalapí
 > E lenyomatok, a kultusz egységes megjelenési formái, a Mithras-kultusz minden megnyilatkozása azt sugallja, hogy azok nem egy hosszan tartó spontán "fejlődés" eredményei – hiszen nincsenek "átmeneti" képtípusok –, hanem egyszeri vallásalapítói gondolat és az ahhoz szorosan hozzátartozó cselekvő akarat megnyilatkozásai. Ugyanúgy, mint [[B/Buddha\|Buddha]], [[Z/Zarathustra\|Zarathustra]], [[J/Jézus\|Jézus]] vagy [[M/Mohammed\|Mohammed]] esetében.  
 > Mondottuk (Stig Wikander könyvnyi érve alapján): a 'Mithras' személynév. Feliratos előfordulásait ismerjük, ez volt az etiópok mitikus törvényhozójának a neve, Apuleius Aranyszamár (Metamorphoses) című regényének Isis-papját is így hívják. **Nem volna lehetetlen, ha a ma Mithras-kultusz, mithraizmus néven ismert vallás egy valamikor a Kr. u. 1. században élt emberről kapta volna a nevét ugyanúgy, mint a buddhizmus, zoroasztrianizmus, khrisztianizmus vagy mohammedanizmus**. Ebben az esetben egy nagy műveltségű ember – "Mithras, a Próféta" – megdicsőülésének, égi útjának, a Napisten szekerére való felszállásának, a Világrend új korszaka megalkotásának, végül pedig a legyőzhetetlen Napistennel történő szövetség megkötésének, a vele való egyesülésnek a dokumentumait látjuk a képeken... De csak képeken, mert a hozzájuk tartozó, azok hátterét alkotó szövegek kivétel nélkül elvesztek. (Talán egyszer majd előkerülnek, mint a Holt-tengeri tekercsek...) A nagyon csekély mennyiségű antik szövegrészlet, amelyeket Franz Cumont gyűjtött össze a 19. század végén, mindenesetre nem mond ellent ennek az – első pillantásra talán fantazmagóriának tűnő – elképzelésnek.  
 
-Lásd még JM írásait [[M/Mithra\|Mithra]] és [[O/Orion\|Orion]], valamint [[C/Cautes és Cautopates\|Cautes és Cautopates]].  
+Lásd még Jankovics Marcell írásait [[M/Mithra\|Mithra]] és [[O/Orion\|Orion]], valamint [[C/Cautes és Cautopates\|Cautes és Cautopates]].  
 
 Ugyan [[F/Firdauszi\|Firdauszi]] [[S/Shahnameh\|Shahnameh]] eposza rengeteg szereplős és nincs megfelelően feltárva csillagászati vonatkozásait tekintve, van egy olyan érzésem, hogy [[F/Feridun\|Feridun]] király (aki nem lehet más mint [[N/Nimrud\|Nimrud]] illetve [[O/Orion\|Orion]] az égen), amikor uralkodásának igencsak beszédes, mágikus [[O/Ötven\|ötven]]edik évében felosztja birodalmát, az égi teret két (illetve az eposzban Salm-mal együtt három) fia közt, nem tesz mást, mint amit Mithra tett a Bikával: Ír és Túr ikrek nevei ugyanis a precessziós Kos és Bika világhónapokra ([[A/Aries és Taurus\|Aries és Taurus]]) kell utaljanak.  
 (A [[T/Téridő\|téridő]]t – ahogy [[B/Berossus\|Berossus]] címnél szó volt róla – a babiloniak is felosztották, Isteneik között. Lásd még erről [[B/Beowulf\|Beowulf]] és [[M/Missera\|missera]].)  

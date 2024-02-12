@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bika/","title":"Bika","tags":["Englishtexttranslated"],"created":"2023-11-09T02:07","updated":"2024-02-08T07:08"}
+{"dg-publish":true,"permalink":"/B/Bika/","title":"Bika","tags":["Englishtexttranslated"],"created":"2023-11-09T02:07","updated":"2024-02-12T18:08"}
 ---
 
 
@@ -116,7 +116,7 @@ A másik furcsaságot képviselő [[N/Napistennő\|Napistennő]] címnél egy m�
 Némi magyarázatul szolgálna még az, hogy a Vénusz a Bika csillagképben uralkodó. Viszont nem magyarázza meg a bika[[S/Szarv\|szarv]]akat, melyek inkább [[H/Hold\|Hold]]ra utalnak. (Lásd Molnár V. József ilyen témában érintett adatait ott.)  
 De ha már itt tartunk, a [[Z/Zodiákus-ember\|zodiákus-ember]] felépítését tekintve a Kos a fej, a Bika a nyak, és a népi bölcsesség szerint a férfi a fej, a nő a nyak.  
 
-Amikor a kihalófélben lévő nyugat-germán vilamovian nyelvben megtalált `bow` \[bof\] = nő; nej ([lásd itt](https://en.wiktionary.org/wiki/bow#Vilamovian)) szót megláttam, előbb a [[B/Bow\|bow]] = íj, ív, majd később a [[B/Bovine\|bovine]] szónál említett görög `bos`, `bous` = ökör szón keresztül a [[S/Szarv\|szarv]]as Hold ökör (lásd Molnár V. József adatát szarvas Holdról [[H/Hold\|Hold]]) minősége ötlött fel (ezen keresztül alakult ki a nő értelem). (Mindkét megoldás megfelel, tekintve, hogy az ív/íj a Holdat, holdsarlót formázza az égen.)  
+Amikor a kihalófélben lévő nyugat-germán wilamowicei nyelvben megtalált `bow` \[bof\] = nő; nej ([lásd itt](https://en.wiktionary.org/wiki/bow#Vilamovian)) szót megláttam, előbb a [[B/Bow\|bow]] = íj, ív, majd később a [[B/Bovine\|bovine]] szónál említett görög `bos`, `bous` = ökör szón keresztül a [[S/Szarv\|szarv]]as Hold ökör (lásd Molnár V. József adatát szarvas Holdról [[H/Hold\|Hold]]) minősége ötlött fel (ezen keresztül alakult ki a nő értelem). (Mindkét megoldás megfelel, tekintve, hogy az ív/íj a Holdat, holdsarlót formázza az égen.)  
 Ekkor értettem meg végérvényesen a bikaistennő fogalmát. Azt viszont le kell szögezni, hogy ez a felfogás csak akkortól válik bejáratottá, amikor a szarvasmarha felváltja a szarvas tiszteletét (későbbi).  
 
 Azt is tudni kell a felfogások kialakulásában, hogy mi volt előbb: egyrészt magyar nyelv és Tejútistennő tisztelet, csak utána sumér nyelv és az abból boncolgatható tételek, melyről [[G/Göd\|Göd]] címnél volt szó:  
@@ -127,7 +127,7 @@ A Bikaistennő-képzet kialakulására magyarázatként szolgálhat...
 #### Jankovics Marcell Jelkép-kalendárium...
 
 ...című könyvében álló adata:  
-> A Bika vállán "kotló" Fiastyúkot ([[P/Pleiadok\|Pleiadok]]) eleink [[K/Kaptár\|kaptár]]-huggyának, vagyis Méhkaptár csillagzatnak is hívták. A Kaptár szomszédságában, a Bika mögött és a Kos felett kering egy parányi csillagcsoport, amelyet Andreas Cellarius 1661. évi égatlasza Méheknek (Apes) nevez, eltérően a kortárs Heveliustól, aki viszont Légynek hívta (latinul Muscának). Az Apes elnevezés is szerepel régi csillagtérképeken egyes számban (Apis), amely ugyanúgy hangzik és latinul ugyanúgy is van írva, mint az egyiptomi Ápisz bika neve. Hát nem elgondolkoztató? Akár Méh, akár Légy, mindkét csillagzatnév mitológiailag jól megalapozott. Antik görög mitográfusok szerint a **Bika csillagképnek egy tehén, a tehénné változtatott [[I/Io\|Ió]]** istennő **volt a névadója**, akit egy bögöly kergetett szó szerint a halálba, és aki az egyiptomiak első királyát, a bika-Ápiszt, görögül Epaphoszt szülte. Cellarius és Hevelius névadását Vergilius Georgicája és e görög mítosz egyaránt ihlethette.  
+> A Bika vállán "kotló" Fiastyúkot ([[P/Pleiadok\|Pleiadok]]) eleink [[K/Kaptár\|kaptár]]-huggyának, vagyis Méhkaptár csillagzatnak is hívták. A Kaptár szomszédságában, a Bika mögött és a Kos felett kering egy parányi csillagcsoport, amelyet Andreas Cellarius 1661. évi égatlasza Méheknek (Apes) nevez, eltérően a kortárs Heveliustól, aki viszont Légynek hívta (latinul Muscának). Az Apes elnevezés is szerepel régi csillagtérképeken egyes számban (Apis), amely ugyanúgy hangzik és latinul ugyanúgy is van írva, mint az egyiptomi Ápisz bika neve. Hát nem elgondolkoztató? Akár Méh, akár Légy, mindkét csillagzatnév mitológiailag jól megalapozott. Antik görög mitográfusok szerint a **Bika csillagképnek egy tehén, a tehénné változtatott [[I/Io\|Ió]] istennő volt a névadója**, akit egy bögöly kergetett szó szerint a halálba, és aki az egyiptomiak első királyát, a bika-Ápiszt, görögül Epaphoszt szülte. Cellarius és Hevelius névadását Vergilius Georgicája és e görög mítosz egyaránt ihlethette.  
 
 #### Bognár Ferenc A magyarok istene...
 

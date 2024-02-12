@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gula/","title":"Gula","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions","Englishtexttranslated"],"created":"2023-11-04T11:49","updated":"2024-02-10T03:59"}
+{"dg-publish":true,"permalink":"/G/Gula/","title":"Gula","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions","Englishtexttranslated"],"created":"2023-11-04T11:49","updated":"2024-02-12T18:12"}
 ---
 
 
@@ -46,13 +46,13 @@ Tulajdonképpen Gula tehát úgy kötődik a kutyához, mint [[A/Aszklépiosz\|A
 Mivel itt a kutyaság centrális eleme Gula karakterének (meg egyáltalán a földi mitológiának, csak nem vesszük észre), annak ellenére, hogy sumerben Tóth Alfréd szerint a hun-magyarhoz hasonlóan [[K/Kuda\|kuda]] = kutya, Gula annál is inkább jelenthetne kutyát, mert a [[S/Sumér zodiákus\|sumér zodiákus]]beli [[G/Gula#Gula 2)\|Gula]] = Vízöntő jeggyel szemben lévő Oroszlán neve is Ur.Gu.La (lásd [[U/Urgula\|Urgula]]): márpedig elég a [[S/Sphinx\|Sphinx]] (és [[F/Fo-kutya\|Fo-kutya]], valamint [[J/Jaguar\|jaguar]]) címnél írottakkal tisztában lenni ahhoz, hogy tudjuk, hogy a kutya és (nagy)macska nemcsak Napjelképek, hanem egymással ezáltal felcserélhetők is jelkép szintjén.  
 (Furcsamód a fenti szerzők nem tesznek említést a névazonosságról, illetve nem feleltet(het)ik meg a Vízöntő nevével, [[G/Gula#Gula 2)\|Gula]]-vel.)  
 
-Ezzel még nincs vége, ugyanis az általam ezidáig ismeretlen, [[S/Sköll\|Sköll]] címnél is taglalt a(z ó)görögben `κύων`-on (és egy szintén ismeretlen ógörög `τραβίτης`-en) kívül szintén (korcs)kutyát jelentő (ógörög) `σκύλαξ`, `σκυλλος` és (újgörög) `σκύλος` \[[[Szkúlosz\|szkúlosz]]\] szóalakok, melyeket [[G/Gyullad\|gyullad]] szónál is vizsgáltunk, mutatnak rá igazán, hogy Gula (1,2) ténylegesen kutyával (is) kapcsolatos jelentésű kell legyen (sőt, ahogy közben kiderül, `szkúla` = szuka is lehet).  
+Ezzel még nincs vége, ugyanis az általam ezidáig ismeretlen, [[S/Sköll\|Sköll]] címnél is taglalt a(z ó)görögben `κύων`-on (és egy szintén ismeretlen ógörög `τραβίτης`-en) kívül szintén (korcs)kutyát jelentő (ógörög) `σκύλαξ`, `σκυλλος` és (újgörög) `σκύλος` \[[[Szkílosz\|szkílosz]]\] szóalakok, melyeket [[G/Gyullad\|gyullad]] szónál is vizsgáltunk, mutatnak rá igazán, hogy Gula (1,2) ténylegesen kutyával (is) kapcsolatos jelentésű kell legyen (sőt, ahogy közben kiderül, `szkíla` = szuka is lehet).  
 
 Korábban itt [[G/Gyula\|Gyula]] méltóságnév is szóba került rokonításként, sőt, elképzelhetőnek véltük Gu-La, a Nyak Helye, vagy inkább Gu-Lya, Nyak a Vízben, felbontásban (mely utóbbi nem más mint [[G/Gólya\|gólya]], s ezek alapján Gula lehetett afféle szülész-védőnő istennő is, persze a kutya a halál és feltámadás jelképe, hiszen Napjelkép/Napállat is), de valószínűbb az alábbi értelmezése:  
 [[G/GU\|GU]] itt (ahogy akár [[G/Gólya\|gólya]] esetében is) vélhetően [[K/KU\|KU]], mely, mint láttuk, már önmagában hordozza magában a(z asztrális) kutya értelmet azzal, hogy égitestet, égővöröset és fehéret, fényt, stb. jelent. (Amennyiben itt GU mégsem KU, akkor a más úton kell asszociálni a kutyára, például Fő(ség) értelemben.)  
 A [[L/LA\|LA]] itt lehet hely értelmű, de [[L/LÁ\|LÁ]] = fény értelmét sem lehet kizárni. Akárhogy is, Gu-La, akár Kutya Helye (Ahol a Kutya Van), Kutya Fénye, vagy Főség Helye/Fénye értelemben, a kutyára kell utaljon, mégpedig a csillagképek alapján a Szíriusz valamely helyzetére.  
 
-Legutóbb a [[S/Sköll\|Sköll]] névvel azonos [[S/Skull\|skull]] címnél írtuk, hogy a kutya koponyájáról is lehet szó, vagy pedig a Kutyacsillag, Szíriusz helyzetéről. [[S/Szkúla\|Szkúla]] = szuka görögül.  
+Legutóbb a [[S/Sköll\|Sköll]] névvel azonos [[S/Skull\|skull]] címnél írtuk, hogy a kutya koponyájáról is lehet szó, vagy pedig a Kutyacsillag, Szíriusz helyzetéről. [[S/Szkílosz\|Szkíla]] = szuka görögül.  
 Michel-Gerald Boutet a Gundestrup cauldron-ról szóló 2017-es dolgozatának [[K/Kelta zodiákus\|kelta zodiákus]] címnél álló adata szerint a Vízöntőnek náluk Farkas felelt meg. A Farkas és a Kutya rokonok.  
 
 Ne feledjük, ahogy [[G/Galactic anticentre\|Galactic anticentre]] és [[S/Szíriusz mint istenanya\|Szíriusz mint istenanya]] címnél szóltunk erről, a Tejútistennő feje a [[S/Szíriusz\|Szíriusz]].  
@@ -117,7 +117,7 @@ Legutóbb [[H/HAT\|HAT]] és [[H/Hét\|hét]] címnél írtuk, hogy ezek a magya
 Gula (eredete) azonos is lehet [[K/Kulacs\|kulacs]] szavunkkal.  
 Azokat a K-L/G-L/GY-L vázú szavakat, melyek különösen a Nagy Évben Napot megszülő Tejútanyára (Nutra) vonatkoznak, lásd [[C/Cataclysm\|cataclysm]].  
 
-A kutyával kapcsolatba hozott [[G/Gula\|Gula]] = szkúla (szuka) értelmezési vonalra visszatérve fontos lehet megjegyezni, hogy az első(?) [[K/Kelta zodiákus\|kelta zodiákus]]ban (és ahogy ott láttuk, az ónémetben) is a Vizöntőnek Farkas felelt meg. Márpedig a farkas és a kutya rokonok. Talán viszont mégiscsak arra történik utalás, hogy a kutya/Kuta/[[K/Kut\|kut]] életkörben elindulunk a felső KUT irányába. A [[K/Kut\|kut]] címnél álló diagram párjait lásd [[K/KUR\|KUR]] és [[S/Szakrális geometria\|szakrális geometria]].  
+A kutyával kapcsolatba hozott [[G/Gula\|Gula]] = szkíla (szuka) értelmezési vonalra visszatérve fontos lehet megjegyezni, hogy az első(?) [[K/Kelta zodiákus\|kelta zodiákus]]ban (és ahogy ott láttuk, az ónémetben) is a Vizöntőnek Farkas felelt meg. Márpedig a farkas és a kutya rokonok. Talán viszont mégiscsak arra történik utalás, hogy a kutya/Kuta/[[K/Kut\|kut]] életkörben elindulunk a felső KUT irányába. A [[K/Kut\|kut]] címnél álló diagram párjait lásd [[K/KUR\|KUR]] és [[S/Szakrális geometria\|szakrális geometria]].  
 
 Lehet egyszerűen is megközelíteni, a [[G/Gula\|Gula]] és [[C/Cola\|cola]] címnél írottak alapján. Ott folyás, folyó és enyv értelmekről volt szó.  
 Minden folyó prototípusa pedig a Tejút.  

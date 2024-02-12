@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2024-02-07T01:41"}
+{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2024-02-12T18:37"}
 ---
 
 
@@ -158,7 +158,7 @@ A kelta idho nagyon könnyen [[I/Idő\|idő]] szavunk lehet, de ez nem minden. A
 > A kizöldült ág általában az új életciklus, az új esztendő szimbóluma, és azért hajtatták épp karácsonyra, mert ez a nap volt sokáig az új év első napja[^7]. Az évvel együtt megújult életet jelképező zöld ág éppen ezért főleg a mindenkori szokások szerinti újév ünnepi dísze volt.  
 - Alternatív évkezdésről lásd még [[Z/Zodiákus első jegye\|zodiákus első jegye]].  
 
-[[T/Tavaszi évkezdés\|Tavaszi évkezdés]] címnél szerepelt MA passzusa (ő a sarki-hyperboreai eredetét vizsgálja):  
+[[T/Tavaszi évkezdés\|Tavaszi évkezdés]] címnél szerepelt Magyar Adorján passzusa (ő a sarki-hyperboreai eredetét vizsgálja):  
 > Tudjuk azt is, hogy némely népnél, mint például a rómaiaknál \[és mai Perzsáknál mai napig\] is, sokáig szokásban maradott a tavaszi évkezdés. Bizonyos is, hogy ez volt a régibb, vagyis újévnek azon pillanat számított amelyben a Nap a láthatáron újra megjelent, vagyis a mai tavaszi napéjegyenlőségnek megfelelő időpont. Hiszen azt hogy a Nap mikor volt az Alvilág legmélyebb pontján, azon ősidőkben amikor a Sark még Magyarország területén volt, az általános sötétségben, nem lehetett egykönnyen megállapítani vagy kiszámítani, a tavaszi évkezdés tehát ezen ősrégi időkből maradott volt fönn. Ma viszont a [[T/Téli napforduló\|téli napforduló]] az amely a Nap járása szerint könnyebben észlelhető.  
 
 Szintén szerepelt [[T/Tavaszi évkezdés\|tavaszi évkezdés]]nél:  

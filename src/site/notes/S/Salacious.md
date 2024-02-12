@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Salacious/","title":"Salacious","created":"2023-10-16T02:22","updated":"2023-12-25T11:13"}
+{"dg-publish":true,"permalink":"/S/Salacious/","title":"Salacious","created":"2023-10-16T02:22","updated":"2024-02-12T18:16"}
 ---
 
 
@@ -9,5 +9,5 @@ Buja, érzéki; kacér, illetlen. A latin `salax` = buja, kacér szó eredete a 
 
 Nehéz elhinni, hogy a szállongásnak köze van az obszcenitáshoz. A szárnyaló képzelet pozitív kicsengésű, hímségi. Inkább van köze a nőiséghez ([[B/Buja\|buja]] ugye nőiségi is), anyaghoz, azaz a [[S/Salak\|salak]]hoz és CzF szótár szerint is `salakos` átv. értelemben a maga nemében alávaló, hitvány.  
 Mivel a salak az üledék, valaminek az alja, régen (és ezt a latin szó is bizonyítja) a salakos szót használták aljas emberi viselkedés leírására.  
-(Láthatjuk, mivel nincs elég összevetendő szava az angolnak és latinnak, vagy nincs elég eszük a nyelvész kollégáknak, így téves etimológia születik. Az angol [[S/Slag#Slag 2)\|slag]] = salak szóval ha nem is, [[S/Slut\|slut]] szóval még ettől összevethető lett volna.)  
+
 Megegyezik vele a kelta `salach` = piszkos.  
