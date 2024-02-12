@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2024-02-10T04:02"}
+{"dg-publish":true,"permalink":"/H/Hold/","title":"Hold","tags":["titleandheadingonedontmatch","multipleentries","stitched","Englishtexttranslated"],"created":"2023-10-14T05:35","updated":"2024-02-12T18:12"}
 ---
 
 
@@ -293,7 +293,7 @@ Ez a téma tulajdonképpen a fentebb Falvay által megkezdett téma folytatása.
 —  
 [Ezen](http://www.federatio.org/tkte/EurasianArtofSculptures.pdf) Bérczi Szaniszlótól (is) származó kiadvány 11. oldalról csatolom a vélhetően sámándobról másolt szibériai életfát, ahol a [[B/Bal és jobb\|bal és jobb]] címnél is taglalt Nap (bal oldalon) és Hold (jobb oldalon) leosztás mellett érdekes, hogy a [[H/Hét\|hét]]ágú Holdnak szarvai vannak (a Nap pedig (nem négy- hanem) [[N/Nyolc\|nyolc]]ágú, érdekességképpen) (a Napot ábrázoló formát [[S/Szarv\|szarv]] címnél más, egyetemes jelekkel együtt hoztam).  
 —  
-Amikor a kihalófélben lévő nyugat-germán vilamovian nyelvben megtalált `bow` \[bof\] = nő; nej szót megláttam (lásd [itt](https://en.wiktionary.org/wiki/bow#Vilamovian) ), előbb a [[B/Bow\|bow]] = íj, ív, majd később a [[B/Bovine\|bovine]] szónál említett görög `bos`, `bous` = ökör szón keresztül a [[S/Szarv\|szarv]]as Hold ökör (illetve [[B/Bika\|bika]] címnél taglalt bikaistennő) minősége ötlött fel (ezen keresztül alakult ki abban a nyelvben a nő értelem).  
+Amikor a kihalófélben lévő nyugat-germán wilamowicei nyelvben megtalált `bow` \[bof\] = nő; nej szót megláttam (lásd [itt](https://en.wiktionary.org/wiki/bow#Vilamovian) ), előbb a [[B/Bow\|bow]] = íj, ív, majd később a [[B/Bovine\|bovine]] szónál említett görög `bos`, `bous` = ökör szón keresztül a [[S/Szarv\|szarv]]as Hold ökör (illetve [[B/Bika\|bika]] címnél taglalt bikaistennő) minősége ötlött fel (ezen keresztül alakult ki abban a nyelvben a nő értelem).  
 Mindkét megoldás megfelel, tekintve, hogy az ív/íj a Holdat, holdsarlót formázza az égen.  
 
 [^3]: Lábjegyzet:  
