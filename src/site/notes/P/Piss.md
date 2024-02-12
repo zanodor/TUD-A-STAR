@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Piss/","title":"Piss","tags":["dg_uploaded"],"created":"2023-10-21T10:32","updated":"2023-10-25T02:07"}
+{"dg-publish":true,"permalink":"/P/Piss/","title":"Piss","created":"2023-10-21T10:32","updated":"2024-02-12T18:15"}
 ---
 
 
@@ -14,4 +14,4 @@ Pisa. Víz.
 Angol köznyelvi párja, `whiz` még inkább [[V/Víz\|víz]] szavunkkal azonos.  
 
 Hasonló elven lásd [[H/Humour\|humour]], [[R/Rain\|rain]], [[P/Plunge\|plunge]] és [[H/Húgy\|húgy]]/[[H/Hugya\|hugya]] > [[H/Hydro\|hydro]].  
-Lásd még [[V/Vesicle\|vesicle]] és [[P/Poison\|poison]].  
+  
