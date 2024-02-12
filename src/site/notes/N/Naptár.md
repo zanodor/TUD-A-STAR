@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Naptár/","title":"Naptár","tags":["dg_uploaded"],"created":"2023-11-13T03:30","updated":"2023-11-21T12:26"}
+{"dg-publish":true,"permalink":"/N/Naptár/","title":"Naptár","created":"2023-11-13T03:30","updated":"2024-02-12T18:14"}
 ---
 
 
