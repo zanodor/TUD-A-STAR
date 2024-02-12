@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Surge/","title":"Surge","tags":["dg_uploaded"],"created":"2023-11-18T05:54","updated":"2023-11-18T05:54"}
+{"dg-publish":true,"permalink":"/S/Surge/","title":"Surge","created":"2023-11-18T05:54","updated":"2024-02-12T18:21"}
 ---
 
 
@@ -14,4 +14,4 @@ Nagy hullám, roham; dagad, árad, nekilódul. [[S/Sürög\|Sürög]] szavunk az
 
 Persze azt itt el kell mondani, hogy a hivatalos eredete a szónak a latin `surgere`, emelkedni jelentésű szó, amely `surrectiō` = emelkedés képzéséből származik a keresztény egyház által használt feltámadás is.  
 Ezen szavak a magyar sürgetésre, sürgésre, forgásra, örvénylésre, kozmikus világunk kialakulására vezetnek vissza, amelyből okszerűen következik az angol eredet, forrás jelentésű [[S/Source\|source]] keletkezése.  
-Lásd még [[S/Surf\|surf]].  
+  
