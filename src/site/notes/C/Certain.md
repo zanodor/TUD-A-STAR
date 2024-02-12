@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/C/Certain/","title":"Certain","created":"2023-11-19T03:01","updated":"2024-02-10T03:42"}
+{"dg-publish":true,"permalink":"/C/Certain/","title":"Certain","created":"2023-11-19T03:01","updated":"2024-02-12T18:11"}
 ---
 
 
 # Certain
 
-Bizonyos, biztos. Az ófrancia/francia azonos `certain` és a latin `certus` = leszűrt, innen eldöntött, rögzített nyomán, melyet EP ahhoz a `cernere` = [[S/Szűr\|szűr]]ni, innen leszűrni (megkülönböztetni, megvizsgálni) szóhoz köt, amely valóban szűr igékből is eredhet. A szűrés eljárását borászati, még inkább orvosi és alkímiai/kémiai kontextusba helyezhetjük, őseink képességeit ismerve.  
+Bizonyos, biztos. Az ófrancia/francia azonos `certain` és a latin `certus` = leszűrt, innen eldöntött, rögzített nyomán, melyet Eric Partridge ahhoz a `cernere` = [[S/Szűr\|szűr]]ni, innen leszűrni (megkülönböztetni, megvizsgálni) szóhoz köt, amely valóban szűr igékből is eredhet. A szűrés eljárását borászati, még inkább orvosi és alkímiai/kémiai kontextusba helyezhetjük, őseink képességeit ismerve.  
 A biztosság, bizonyosság és az átvitt értelemben értett leszűrt lényeg ideájának összekapcsolódása nyomán keletkezett `certus` ill. `certain` szűrt szavunkból.  
 Amennyiben nem az átvitt értelmet keressük, a szűrés eredménye maga lehet a [[S/Szer\|szer]] is. Szer, szert tesz, szerez (bizonyosságot is lehet) szavaink is ide illenek. Ahogy száraz szavunk is, hiszen a szűrés folyadékmentesítő eljárás. [[S/Száraz\|Száraz]] szavunkat sok helyen, például alkímiai kontextusok közül [[E/Elixir\|elixir]] szónál is említettük.  
 
