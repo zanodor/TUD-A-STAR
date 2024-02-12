@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2024-02-10T04:22"}
+{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2024-02-12T18:34"}
 ---
 
 
@@ -81,7 +81,7 @@ A másutt előjövő Falvay Károly által adatolt passzusból kiderül, hogy a 
 ![assets/Szentháromság_image3.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image3.png)  
 [[D/Démétér\|Démétér]] Zeusszal történő nászában inkább a Nagy [[R/Rhea\|Rhea]] Anyának (anyjuknak) a hasonmása volt, aki saját fiával nemzette Perszephonét (más néven a szűz Korét \[= lányt\]), és leányában önmagát szülte újjá. \[Hogy\] erről a misztériumról nyíltan igen keveset meséltek \[érthető is\].  
 
-- JM írása ugyanerről ([[H/Három istennő\|három istennő]] címnél is szerepelt:  
+- Jankovics Marcell írása ugyanerről ([[H/Három istennő\|három istennő]] címnél is szerepelt:  
 > Rhea, Démétér és a Koré időbeli triásza a mezőgazdasági évszakok egymásutánját szimbolizálja. Az "öreg" Rhea a meddő téli földet, az érett Démétér a termőre fordult nyári-őszi földet, az ifjú Koré a magot befogadni kész tavaszi földet.  
 
 Falvay Károly könyve 216-217. oldalán a bolgár Marazov I.: Thrákia és a thrákok című könyvéből idézve írja:  
@@ -132,10 +132,7 @@ Takács György Babba Mária – adalékok a magyarság őszintének istenanya-a
 ...című Ősi Gyökér 2005/3. sz. megjelent cikkében írja az erdélyi [[U/Unitárius\|unitárius]]okról:  
 > Ez a népi irányzatú vallás ragaszkodott az ősi szittya szentháromsághoz, a szent család hármasságához. Azonkívül nem fogadta el, hogy az Atya és Jézus egy! Hirdették, Jézus nem egylényegű az Atyaistennel, csak hasonló hozzá! Mert csak egy az Isten!  
 
-Az [alábbi](https://www.quora.com/Im-very-curious-about-Jews-whom-do-Jews-worship-And-do-they-still-read-Torah) Quora kérdésre válaszoló Stanley Luntz válaszára kommentelő, már másutt is citált olasz Saverio Sciaccha szerint az Atya, Fiú, Szentlélek hármasság eredete sumér lenne:  
-> The original concept of God was Sumerian, Indo-Aryan An. The Canaanites adopted & adapted said religion & named their God Semitic El. Christianity took over the Sumerian concept of the Trinity of Father, Son & Holy Ghost.  
-> —  
-> Az eredeti istenfogalom sumér, indo-árja An. A kánaániak átvették és adaptálták az említett vallást, és Istenüket szemita El-nek nevezték el. A kereszténység átvette az Atya, a Fiú és a Szentlélek Szentháromságának sumér fogalmát.  
+
 
 [[E/Enlil#Enlil és Enki dualizmusa – sumir teológia Badiny Jós Ferenc olvasatában\|Enlil és Enki dualizmusa – sumir teológia Badiny Jós Ferenc olvasatában]] cím/alcímnél a Szentháromság eredetét sumirnak írja le szintén:  
 > A Lélekbeni Isten \[Enlil\] Ereje teremteni akart. Átválozik, átlényegül. Létrehozza az ANYAGOT melybe szintén Isteni Erőt helyez és bármikor felvehető "anyagi formájában" az Isten Fiát már ÉN-KI-nek \[[[Enki\|[Enki]]\] írja ősi hagyományunk. Megszületett tehát ősvallásunk szemléletében az Isten Fiának dualizmusa, aki a Lélek és az anyag Ura – az Aya-Isten erejével uralkodva. Ennek szimbóluma az egyenlő szárú háromszög, mely a mi ősi Hitünk Szentháromság-Tanának jelképe.  
@@ -149,7 +146,11 @@ F. A. Raffa Quantamplation című könyvében amit ír a témáról:
 > —  
 > A világ népességének több mint egyharmada hisz a keresztény Szentháromságban, a judaizmusban és az iszlámban pedig az egy Istenben. A Szentháromság eszméje nem volt új vagy egyedülálló, amikor a keresztény tanokat a Kr. u. 325-ben tartott nikeai zsinaton kialakították. Ahogyan sok más ősi vallásnak is volt Szentháromsága. Az ősi és pogány hármasságok az Atya- Anya és Fiú Szentháromság vagy a Három Isten Szentháromság tükörképei voltak. Az egyiptomiak mindkettőt tisztelték Amonnal, Ré-vel és Ptah-val (Három egy Istenben), majd Ozirisz, Ízisz és Hórusz mint Atya, Anya és Fiú. A kettő eszméje akár a babiloni Nimród, Istár és Tammuz (Atya, Anya és Fiú) és a sumér Anu, Enki és Enlil (Atya és két fiú isten) adaptációja is lehetett, a titokzatosság az, hogy mindannyian Isten részét képezik és egyenlőek. A római katolikus Szentháromság "Atya, Fiú és Szentlélek" egyedülálló abban, hogy a Szentháromság mind a 3 egy és egyenlő. Ez egy egyedülálló misztikus fogalom, de kétségtelenül az ókori Sumériából, Babilonból, Indiából, Egyiptomból és a pogány Rómából származik. Kizárta az Anya nőies lényegét is, amely szintén a Szentháromság koncepciót erősítette. Az iszlám felvette ezt a Korán szent szövegében, amikor azt mondja: "És emlékezzetek, amikor Allah azt fogja mondani (a Feltámadás Napján): "Ó 'Iesa (Jézus), Máriám (Mária) fia! Mondtad-e az embereknek: Imádjatok engem és anyámat, mint két istent Allah mellett?" Ő azt fogja mondani: "Dicsőség neked! Nem volt jogom olyat mondani, amit nem volt jogom (mondani).". Az iszlám elítéli a Szentháromságot, azonban tiszteli az Anyát, és a kereszténység nem hivatalos triászára reflektál: Isten (Szentatya), Mária (Anya), Jézus (Fiú).  
 
-A teljesebb passzussal [[J/Jézus#Jézus születése\|Jézus születése]] cím/alcímnél jelentkező Gesztesi Albert csillagász A világ négy sarka című cikkében írja (úgy tűnik, nem saját kútfőből):  
+A teljesebb passzussal [[J/Jézus#Jézus születése\|Jézus születése]] cím/alcímnél jelentkező...  
+
+#### Gesztesi Albert csillagász A világ négy sarka...  
+
+...című cikkében írja (úgy tűnik nem saját kútfőből):  
 > Adrian G. Gilbert ókori egyiptomi párhuzamot vél felfedezni. Máté egy keresztény gnosztikus volt. Valószínű, hogy antiokhiai vagy alexandriai lakos volt és ismerte az egyiptomi vallás és pogány kultusz elemeit.  
 > Evangéliumának célja, hogy az új hit, a kereszténység számára áttérőket, követőket nyerjen, ezért arra törekedett, hogy evangéliumát ennek megfelelően alakítsa ki. Megértette az ősi misztériumok és a kereszténység közötti kapcsolatokat és ezeket hangsúlyozni kívánta a beavatottak számára. "akiknek van fülük a hallásra". Így Máténál az új keresztényi rendben Ozirisz, Ízisz és Hórusz eredeti egyiptomi hármasságát József, Mária és Jézus váltja föl.  
 > Ezt tudva elemezhetjük Krisztus születését ábrázoló jelenetet és beleláthatunk annak mélyebb jelentésébe, amit a "beavatott" keresztény ikonográfusok is érthettek.  
@@ -164,7 +165,7 @@ A magyarok csodálatos képi gondolkodásában ennek a hiányosságnak okát ön
 
 A test, szellem, lélek szentháromságról és arról, honnan jön, jó kis összefoglalást, Paracelsus tollából lásd [[S/Szellem\|szellem]]. Lentebb, külön alcímnél is lesz szó ezen hármasságról.  
 Lásd még [[N/Négy\|négy]], [[H/Három isten\|három isten]] és [[H/Három istennő\|három istennő]].  
-(Egyéb infókat a hármas szám misztikájáról lásd [[T/Triskele\|triskele]].)  
+  
 
 #### Oláh Imre A magyar lélekhit keleti elemei...
 
