@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2024-02-10T04:20"}
+{"dg-publish":true,"permalink":"/S/Sumér és magyar nyelvek – melyik volt előbb/","title":"Sumér és magyar nyelvek – melyik volt előbb","tags":["nyelvészet"],"created":"2023-10-14T06:47","updated":"2024-02-12T18:21"}
 ---
 
 
@@ -7,8 +7,10 @@
 
 Szögezzük le: a sumér a magyarnál fiatalabb nyelv, bár az is igaz, hogy a mai magyar szókincs több korból, rétegből áll össze. Tehát a [[S/Ság\|ság]] fő jelentése kapcsolható lehet vagy mondjuk úgy, megfejthető lehet a sumér alapszóból illetve annak segítségével. Viszont a sumér szó eredete akkor mi? Az óegyiptomi [[S/Sah\|Sah]]? És az óegyiptomi nem ugyanúgy ősi magyar nyelv (származéka)?  
 
-Götz László Keleten kél a Nap című könyvében folyamatosan arra keres bizonyítékokat, hogy a magyar nyelvvel együtt más nyelvek is sumér eredetűek.  
-Götz leginkább ugye azt kívánja bizonyítani, hogy a magyar nem finnugor nyelv, és nem török és ilyen-olyan (szláv, germán, stb.) eredetű a magyar szókincs, mert már a sumér nyelvvel is egyezések fedezhetők fel. Ahogy írja:  
+#### Götz László Keleten kél a Nap...  
+
+...című könyvében folyamatosan arra keres bizonyítékokat hogy a magyar nyelvvel együtt más nyelvek is sumér eredetűek.  
+Götz leginkább ugye azt kívánja bizonyítani hogy a magyar nem finnugor nyelv és nem török és ilyen-olyan (szláv, germán, stb.) eredetű a magyar szókincs mert már a sumér nyelvvel is egyezések fedezhetők fel. Ahogy írja:   
 > Régészetileg és embertanilag bizonyítható, hogy az európai nyelvekben található tömeges szumér megfeleléseknek konkrét őstörténeti okai vannak.  
 
 [[S/Sumér és akkád nyelvek\|Sumér és akkád nyelvek]] címnél már esett szó arról, hogy a [[F/Finnugor nyelvek\|finnugor nyelvek]] időben megelőzik a sumér nyelvet.  
