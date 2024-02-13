@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2024-02-12T18:34"}
+{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2024-02-13T02:31"}
 ---
 
 
@@ -341,7 +341,7 @@ A "magyar"\[?\] isa-nak viszont nemcsak a [[S/Szél\|szél]], hanem a [[G/Guta\|
 Hogy írtam bizonytalanul tehát immár hónapokkal vagy akár egy-két évvel ezelőtt? Isteni szellemmel vagy emberi lélekkel kapcsolatos az a fogalom. Valójában egy és ugyanaz a kettő! Az isteni, anyagtalan tüzet, az isteni szikrát, a testünk árnyékmásának tekinthető, ma ezoterikus körökben asztráltestnek, de akár csillagpornak is nevezhető, a kereszténységben nyilván eredetileg a szentléleknek nevezett lelket, a testünkben az életet fenntartó erőt/lelket kell érteni alatta. Több különböző fogalommal ír körül mindenki mindent.  
 Annak vizsgálata is fontos, hogy a lélek székhelyét hová (solar plexusba, koponyába/fejbe) helyezték, viszont az asztráltest egy teljes testnyi, sőt, az auralátók beszámolói szerint a test körvonalain is túlnyűló méretét tekintve. A szellemnek nevezett lélek viszont valóban lehet a fejben, ahogy a népművészeti ábrázolásaink is erről tanúskodnak.  
 
-De más idegen nyelv segítségét is hívhatjuk: a latin `spirare` = lélegzeni szóra visszavezetett [[S/Spirit\|spirit]]us ezek szerint az a szellem, ami a lélegzet/lehelet-léleknek felelne meg (MA is írja):  
+De más idegen nyelv segítségét is hívhatjuk: a latin `spirare` = lélegzeni szóra visszavezetett [[S/Spirit\|spirit]]us ezek szerint az a szellem, ami a lélegzet/lehelet-léleknek felelne meg (Magyar Adorján is írja):  
 > Az illat a virág leheleteként fogatott föl, de ugyanígy azonosíttatott egymással a lélek és lehelet is, amit tanúsít e két szó azonos alakja, valamint "kilehelte a lelkét" = meghalt, mondásunk, de amelynek meg pontos megfelelője a latin-olasz `spirare` (szpiráre) = meghalni, holott a spiritus szó egyaránt jelent leheletet, szellőt, szellemet. Aminthogy a magyarban is szellem, szellet, szellő, szél szavaink azonos alakúak. Viszont a latin-olasz `respirare` = lélegzeni, amely szavunk meg lélek szavunkkal azonos.  
 
 #### Rostás László Mit lehet tudni a hunok és magyarok kapcsolatáról?...

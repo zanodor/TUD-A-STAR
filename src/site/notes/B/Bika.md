@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bika/","title":"Bika","tags":["Englishtexttranslated"],"created":"2023-11-09T02:07","updated":"2024-02-12T18:08"}
+{"dg-publish":true,"permalink":"/B/Bika/","title":"Bika","tags":["Englishtexttranslated"],"created":"2023-11-09T02:07","updated":"2024-02-13T02:28"}
 ---
 
 
@@ -79,7 +79,7 @@ Falvay könyvének 301. oldalán a [[C/Csudaszarvas\|Csudaszarvas]]ról írva é
 [[E/Enki\|Enki]] és neje, [[D/Damgalnuna\|Damgalnuna]] kapcsán több helyen volt arról szó, hogy a napvallások idején kialakult szarvasbika (ami ugye a [[D/Dream\|dream]] és [[S/Szarvas\|szarvas]] címnél taglalt Enki nem volt, csak szarvakat viselt) képzete mögött mindig szarvasünő húzódik meg. Falvay végre tiszta vizet öntve a pohárba írja a 303. oldalon:  
 > Magyar vonatkozásban a dozmati regősének csodafiúszarvasa ismert. Tehát mindkét hagyományos emlék szarvasbikáról beszél anyai kapcsolatban. A magyar regősénekben az anyát az éjszaka fogalmazza meg, amiben a csodafiúszarvas megjelenik. Mind a két szarvasbika fogalom mögött szarvasünő húzódik meg.  
 
-Ahogy említettem, [[S/Szarvas\|szarvas]] címnél külön részben taglaljuk, hogy a hanyatlott tudású népeknél bika jelenik meg ünő helyett. De MA is írja ([[C/Csudaszarvas\|Csudaszarvas]] címnél), hogy:  
+Ahogy említettem, [[S/Szarvas\|szarvas]] címnél külön részben taglaljuk, hogy a hanyatlott tudású népeknél bika jelenik meg ünő helyett. De Magyar Adorján is írja ([[C/Csudaszarvas\|Csudaszarvas]] címnél), hogy:  
 > Török és palóc őstörzseinknél szarvas helyett meg bika szerepelt (és "Júlia szép leány" régi énekünket is ismerjük, akkor azonnal tisztában leszünk azon görög monda eredetével is, amelyben Zeusz Égisten (a görögök főistene) bika képében viszi át a tengeren az Európa nevű nőt).  
 
 A [[T/Tejútanya\|Tejútanya]] szarvas/agancsos és tejet is adni képes állatalakjainak hímségiként való megjelenése már a Tejútanya-tisztelet hanyatlásával alakult ki.  
