@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/School/","title":"School","created":"2023-11-07T05:11","updated":"2024-02-12T18:17"}
+{"dg-publish":true,"permalink":"/S/School/","title":"School","created":"2023-11-07T05:11","updated":"2024-02-13T17:27"}
 ---
 
 
@@ -50,10 +50,13 @@ Lásd még [[D/Daru\|daru]], ahol inkább az életfa-létra fokairól lesz szó.
 
 ## Iskola szó más nyelvekben
 
+A finn `koulu` = iskola szót természetesen a germán (svéd) nyelvből eredeztetik. Alapjában véve az s-elővetés a Magyar Adorján által árja nyelveknek hívott nyelvek tulajdonsága, de túl sok szól az ellen, hogy sz-előhang nélküli megfejtése legyen a szónak.  
+Mindenesetre jegyezzük meg a [[H/Hall#Hall 2)\|hall]] címnél hozott udmurt/votják `kuala` = templomszerű pogány szent ház (amely előtt az istenek tiszteletére szánt állatokat áldozták föl) szót, és akár [[H/Hall#Hall 1)\|hall]] igénket is, hiszen az egyetemen ma is hallgatók hallhatnak.  
+Varga Zsigmond Az ősmagyar mitológia című könyvének 128-130. oldalán kultuszházról és templomnak megfelelő házról van szó, így a finnségi/ugor eredetet nem lehet teljesen kizárni.  
+- Szent házról lásd még [[K/Kota#Szent ház\|kota]] címnél.
+
 A török `okul` szóról már esett szó fentebb.  
 Érdekes a perzsa közeg. [[D/DUBA\|DUBA]] címnél is volt szó a perzsa `dabestān` = tanárok háza (iskola) szóról, melyet Arthur N. Wollaston 1882-es szótárának school címnél ugyan nem említ, nála első helyen `maktab` = iskola áll, míg második helyen egy arab eredetű `madrasah`, `madrese` szó áll, míg a vulgárisnak adatolt `kuttáv` és `kuttau` nyilván a `kitáb` = könyv szóval rokoníthatók és nem közvetlenül kutyával, holott kutyáról fentebb is volt szó.  
 Ami itt számunkra leginkább érdekes, az az arab `madrasa`, `madraísah`, mely a WordSense [alábbi](https://www.wordsense.eu/%D9%85%8%A9/#Arabic) oldala szerint iskola, teológiai iskola, akadémia, és más eltérő jelentésekkel (rítus és meggyőződés) áll.  
 Thúry József Török történetírók I. kötetének Kemálpasazáde – Mohács-nâme című fejezetében álló szövegben találjuk a `müderrisz` és a `medresze` szavakat (felsőbb iskola, collegium, akadémia) tanítója, előadó tanára.  
 A héber `midrás` = tanulmányozás is innen kerül ki.  
-
-Amikor meghallottam a szót, akkor rögtön a [[M/Masorete\|Masorete]] héber írnokok nevére asszociáciálva ötleteltem és természetesen itt is [[M/Magyar\|magyar]] eredetet keresek. A szó hivatalos, m-előhang elhagyásos ismételten igéből való levezetését nem fogadom el. Az igét utólag alkották ki.  
