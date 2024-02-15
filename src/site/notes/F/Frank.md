@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/F/Frank/","title":"Frank","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-11-29T01:40","updated":"2024-02-02T03:03"}
+{"dg-publish":true,"permalink":"/F/Frank/","title":"Frank","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-11-29T01:40","updated":"2024-02-15T02:01"}
 ---
 
 
 # Frank 1)
 
-A hivatalos nézet szerint a frank germán név (a [[G/Gall\|gall]] név pedig latin, mert kakast jelent). Nagyon nem ismerik sem a franciák, sem a németek, sem az angolok eredetüket. De így ez jó nekik, mert a végén nagyon elszégyellnék magukat.  
+A hivatalos nézet szerint a frank germán név (a [[G/Gall\|gall]] név pedig latin, mert kakast jelent). Nagyon nem ismerik sem a franciák, sem a németek, sem az angolok eredetüket.   
 
 #### Péterfai János írja:
 
@@ -27,8 +27,8 @@ Lásd még [[F/Francia\|francia]].
 
 # Frank 2)
 
-Őszinte. A [[F/Frank\|frank]] nép neve valójában tűzembereket ill. tündéreket jelent. A frankok elődei pedig trójai magyarok. Az ősmagyar tündérfik őszinteségéről van itt igazán szó. Hasonló a Hunor – [[H/Honour\|honour]] párosa.  
+Őszinte. A [[F/Frank\|frank]] nép neve valójában tűzembereket ill. tündéreket jelent. A frankok elődei pedig trójai magyarok. Az ősmagyar tündérfik őszinteségéről van itt igazán szó. Hasonló a Hunor – [[H/Honour\|Honour]] párosa.  
 
 Őszinte, mint egy barát: a fentebb taglalt Firenk is Napnév. [[F/Friend\|Friend]] is ilyen.  
 
-Azonos alakú vele a [[P/Prank\|prank]].  
+  

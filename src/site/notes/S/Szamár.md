@@ -1,7 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["Englishtexttranslated"],"created":"2023-10-15T10:43","updated":"2024-02-12T18:22"}
+title: Szamár
+foreignTitle: false
+aliases:
+  - szamár
+status: dg_uploaded
+tags:
+  - Englishtexttranslated
+share: true
+dg-publish: true
+dg-created: 2023-10-15T10:43
+dg-updated: 2024-02-15T02:06
+dg_upload_status: VNC done
+date created: 2023-06-29
+date modified: 2024-02-15T02:06
+ghrepoURL:
+  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/S/Szam%C3%A1r.md
+  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/S/Szam%C3%A1r.md
+  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/S/Szam%C3%A1r.md
+  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/S/Szam%C3%A1r.md
+  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/S/Szam%C3%A1r.md
 ---
-
 
 # Szamár
 
