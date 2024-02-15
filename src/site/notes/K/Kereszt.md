@@ -1,25 +1,7 @@
 ---
-title: Kereszt
-foreignTitle: false
-aliases:
-  - kereszt
-status: dg_uploaded
-tags:
-  - Englishtexttranslated
-share: true
-dg-publish: true
-dg-created: 2023-10-13T12:02:00
-dg-updated: 2024-02-15T02:02
-dg_upload_status: VNC done
-date created: 2022-12-14
-date modified: 2024-02-15T02:02
-ghrepoURL:
-  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/K/Kereszt.md
-  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/K/Kereszt.md
-  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/K/Kereszt.md
-  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/K/Kereszt.md
-  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/K/Kereszt.md
+{"dg-publish":true,"permalink":"/K/Kereszt/"}
 ---
+
 
 # Kereszt
 
@@ -141,8 +123,8 @@ Aztán kitér a **nem egyenlő szárú kereszt**re (melyről egyébként KT azt 
 #### Supka Géza Kalandozás a kalendáriumban...
 
 ...című könyvében a kereszt jelkép csillagászati összefüggésétől mentes, de egészen hasznos módon közölt levezetésébe bocsátkozik (több helyre betéve):  
-> A minden ősnépnél feltűnő egyenlő szárú kereszt (+), amelynek persze mi köze sincs a keresztény egyház feszületjéhez vagy tau-keresztjéhez. A kereszt egyszerűen a legnagyobb földi erőnek, a Napnak lerövidített jelképe. Fejlődése a következő: az ősember a tüzet úgy gerjesztette, hogy két száraz fadarabot egymáson keresztbe fektetett s egymáshoz dörgölte. Ez a két, egymásra fektetett fahasáb jelentette tehát a mindenkor szimbólumszomjas ember számára már az őskorban a "tüz"-et, a meleget, a jót, az életet. Ha aztán az ősember kiment a szabadba, s meglátta a Napot, akkor arról is azt képzelte, hogy az egy nagy tűz. Ám ha hajnalban nézte meg a Napot, amint az közvetlenül a látóhatár fölé emelkedett, amikor még szabad szemmel is bele lehet nézni, a Nap úgy festett, mintha a saját tengelye körül őrült gyorsasággal forogna (erről a szemléletről magunk is meggyőződhetünk, Jókai is szépen leírta). Vagyis az ősember fantáziája szerint ott fenn az égbolton egy óriási tűzkereszt forog. Ha már most a forgás vizuális jelét akarta ábrázolni, akkor úgy képzelte, hogy egy kereszt forog a középső tengelye körül. S tessék már most bárkinek megpróbálni: ha egy egyenlő szárú keresztet gyorsan forgatok a tengelypontja körül, akkor a kereszt szárai úgy festenek a végükön, mintha rövid vonalat írnának le. Így született meg a forgó Napnak egyetemes és minden világrészben azonos őskori szimbóluma: a [[S/Swastika\|szvasztika]], vagy mai divatos nevén a horogkereszt. Ez a jel nem külön árja jelvény – ezt csupán egy berlini porosz archeológus, Kossina állította vagy harminc évvel ezelőtt a "Mannus" című folyóiratában –, hanem sajátságosképpen a legősibb előfordulása éppen egy sémita istennőnek, egy mezopotámiai ón-Astarténak a testén jelentkezik. Az egyenlő szárú kereszt tehát kimondottan pogány Nap-szimbólum, s már csak ezért sem kerülhetett bele a kereszténység jelvénytárába.  
-^cv2y0o
+> A minden ősnépnél feltűnő egyenlő szárú kereszt (+), amelynek persze mi köze sincs a keresztény egyház feszületjéhez vagy tau-keresztjéhez. A kereszt egyszerűen a legnagyobb földi erőnek, a Napnak lerövidített jelképe. Fejlődése a következő: az ősember a tüzet úgy gerjesztette, hogy két száraz fadarabot egymáson keresztbe fektetett s egymáshoz dörgölte. Ez a két, egymásra fektetett fahasáb jelentette tehát a mindenkor szimbólumszomjas ember számára már az őskorban a "tüz"-et, a meleget, a jót, az életet. Ha aztán az ősember kiment a szabadba, s meglátta a Napot, akkor arról is azt képzelte, hogy az egy nagy tűz. Ám ha hajnalban nézte meg a Napot, amint az közvetlenül a látóhatár fölé emelkedett, amikor még szabad szemmel is bele lehet nézni, a Nap úgy festett, mintha a saját tengelye körül őrült gyorsasággal forogna (erről a szemléletről magunk is meggyőződhetünk, Jókai is szépen leírta). Vagyis az ősember fantáziája szerint ott fenn az égbolton egy óriási tűzkereszt forog. Ha már most a forgás vizuális jelét akarta ábrázolni, akkor úgy képzelte, hogy egy kereszt forog a középső tengelye körül. S tessék már most bárkinek megpróbálni: ha egy egyenlő szárú keresztet gyorsan forgatok a tengelypontja körül, akkor a kereszt szárai úgy festenek a végükön, mintha rövid vonalat írnának le. Így született meg a forgó Napnak egyetemes és minden világrészben azonos őskori szimbóluma: a [[S/Swastika\|szvasztika]], vagy mai divatos nevén a horogkereszt. Ez a jel nem külön árja jelvény – ezt csupán egy berlini porosz archeológus, Kossina állította vagy harminc évvel ezelőtt a "Mannus" című folyóiratában –, hanem sajátságosképpen a legősibb előfordulása éppen egy sémita istennőnek, egy mezopotámiai ón-Astarténak a testén jelentkezik. Az egyenlő szárú kereszt tehát kimondottan pogány Nap-szimbólum, s már csak ezért sem kerülhetett bele a kereszténység jelvénytárába.  { #cv2y0o}
+
 - Ezen írására legutóbb a [[P/Prométheusz\|Prométheusz]]t is felhozó [[G/Great\|great]] és [[C/Create\|create]] címnél szereplő passzusban is hivatkoztam.  
 
 Bakos Attila A Duna Evangéliuma című könyvének 169. oldalán írja, hogy a [[F/Fa\|fa]] és a [[K/Kígyó\|kígyó]], valamint a kereszt imádatának eredetét Indiában a [[N/Naga\|nagá]]k terjesztették el.  
@@ -165,7 +147,7 @@ Molnár V. József Világ-Virág című könyvének 171. oldalán komi (zürjén
 > Az avaroknál, akik tűztisztelők voltak, Barapa vagy Barisa Nap- és Tűzistennek és a tűznek jelképei ezen jelek voltak. Az egyenlőszárú kereszt a [[T/Tűz\|tűz]] jele volt, a körbe foglalt ilyen kereszt pedig a Napé, vagyis ez a Napban székelő tüzet is jelentette. Az avaroknál ezen kereszt azon két egymáshoz dörzsölt fadarab ábrázolása volt, amelynek segítségével az ősök a legrégibb időkben tüzet gyújtottak.  
 - Itt [[A/Agni\|Agni]] nevét és a latin `ignis` szót lehetne említeni.  
 
-> A kereszt a tűz jelképe is lévén, ezt az avarok a napkorongba is ábrázolni szokták volt, úgy ahogy azt föntebb mutattuk be, mivel minden földi tűz a Napból származott erő megnyilvánulása, vagyis tehát minden földi tűz is tulajdonképen a Napból származott. E keresztes napkorongot pedig az avarok az Égistent jelképező szent állat, a Csodaszarvas, valamint a náluk ezt többnyire helyettesítő őskori óriáskos (amely némileg a mai majdnem ökörnagyságú belső-ázsiai argali-koshoz is hasonlított, de egyenes és kötélmódjára csavart szarvai voltak) szarvai közé is odaábrázolták. Ezen keresztes napkorongot alakították tehát a \[JM által is ismertetett\] Hubertusz-mondában keresztény keresztté[^2].  
+> A kereszt a tűz jelképe is lévén, ezt az avarok a napkorongba is ábrázolni szokták volt, úgy ahogy azt föntebb mutattuk be, mivel minden földi tűz a Napból származott erő megnyilvánulása, vagyis tehát minden földi tűz is tulajdonképen a Napból származott. E keresztes napkorongot pedig az avarok az Égistent jelképező szent állat, a Csodaszarvas, valamint a náluk ezt többnyire helyettesítő őskori óriáskos (amely némileg a mai majdnem ökörnagyságú belső-ázsiai argali-koshoz is hasonlított, de egyenes és kötélmódjára csavart szarvai voltak) szarvai közé is odaábrázolták. Ezen keresztes napkorongot alakították tehát a \[Jankovics Marcell által is ismertetett\] Hubertusz-mondában keresztény keresztté[^2].  
 > Az őskereszténység a keresztet vallásos jelképként még nem ismerte, aminthogy ez az őskeresztény katakombákban és régibb keresztény templomokban még teljesen hiányzik. Tény, hogy ez csak az avarok kora után válott általános keresztény jelképpé, vagyis ezt a keresztények tulajdonképen csak az avarokat utánozva kezdték így használni[^3]. Tény az is, hogy a "kereszténység" ezen magyar neve is csak különleges magyar csinálmány, mert más nyelvekben nem a kereszt nevéből, hanem Jézus görög eredetű [[K/Krisztus\|Krisztus]] nevéből származott, amelynek értelme "fölkent", és tehát "krisztian"-nak hangzik és "krisztuskövető" az értelme.  
   
 
