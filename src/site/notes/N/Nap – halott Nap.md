@@ -5,7 +5,7 @@
 
 # Nap – halott Nap
 
-Jankovics Marcell A Nap könyve című könyvének ([[H/Háromszögletű Nap\|háromszögletű Nap]] címnél is szereplő) adata szerint az ókori Egyiptomban négy Napot azaz Napminőséget[^1] különböztettek meg: a kelő/reggeli (neve a galacsinhajtó bogár, a [[H/Hórusz\|Hórusz]] és [[S/Scarabeus\|scarabeus]] címnél is említett Kheper), delelő (Ré-Harahti) és az öregember lenyugvó ([[A/Atum\|Atum]]) Nap alkotta a nappali triászt, mely kiegészült az éjszakai (halott) na pisten (Ozirisz) személyével. Magyar analógiája is létezik mindennek.  
+Jankovics Marcell A Nap könyve című könyvének ([[H/Háromszögletű Nap\|háromszögletű Nap]] címnél is szereplő) adata szerint az ókori Egyiptomban négy Napot azaz Napminőséget[^1] különböztettek meg: a kelő/reggeli (neve a galacsinhajtó bogár, a [[H/Hórusz\|Hórusz]] és [[S/Scarabeus\|scarabeus]] címnél is említett Kheper), delelő (Ré-Harahti) és az öregember lenyugvó ([[A/Atum\|Atum]]) Nap alkotta a nappali triászt, mely kiegészült az éjszakai (halott) napisten (Ozirisz) személyével. Magyar analógiája is létezik mindennek.  
 ![assets/Naphalott_image1.png](/img/user/N/assets/Naphalott_image1.png)  
 Beszámol ugyanis Bosnyák Sándor arról, hogy a szegedi házhomlokzatok, tetők mintázatában "a szegedi parasztok a napfelkeltét, a delelést, a napnyugtát, alul a zárt rekeszekben az éjszakát látják."  
 
