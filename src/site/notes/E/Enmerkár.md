@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Enmerkár/","title":"Enmerkár","created":"2023-11-09T04:00","updated":"2024-02-08T07:33"}
+{"dg-publish":true,"permalink":"/E/Enmerkár/","title":"Enmerkár","created":"2023-11-09T04:00","updated":"2024-02-15T17:01"}
 ---
 
 
@@ -20,7 +20,7 @@ Közben megtaláltam forrását...
 A Bíró József A szabir-magyarok a sumirok tanítómesterei című könyvében (Emmerkar névalakban) és Péterfai Jánosnál is előjövő Enmerkár király kapcsán [[G/Grandpierre Atilla\|Grandpierre Atilla]] [ezen](https://youtu.be/oVSHcgp2mfY) műsorban 21:00-nál azt mondja, hogy a mássalhangzók (N-M-R és K-R) figyelembevételével [[N/Nimrud\|Nimród]] királynak kell olvasni Enmerkár nevét.  
 Igen ám, de nyelvészeti szempontból Enmer = [[E/Ember\|Ember]], a [[K/KÁR\|Kár]] névről pedig volt külön szó. Kár tulajdonképpen a [[H/Hungár\|hungár]] és más névformák utórésze lehet, melyet alanyi jogon kívánnak értelmezni.  
 Enmer < Emmer < Ember fejlődési változásokon keresztül értendő meg a név.  
-Az Ember Vadász istenként valóban lehet Nimród, miről/kiről GA elmondja, hogy több bizonyíték szerint valóban létező ember volt.  
+Az Ember Vadász istenként valóban lehet Nimród, miről/kiről Grandpierre Atilla elmondja, hogy több bizonyíték szerint valóban létező ember volt.  
 A név érdekessége, hogy az udmurt főisten [[I/Inmar\|Inmar]] neve is egészen hasonló.  
 
 ## Enmerkár és Aratta ura eposz
