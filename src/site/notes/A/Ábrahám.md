@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ábrahám/","title":"Ábrahám","created":"2023-10-21T04:40","updated":"2024-01-25T12:45"}
+{"dg-publish":true,"permalink":"/A/Ábrahám/","title":"Ábrahám","created":"2023-10-21T04:40","updated":"2024-02-15T17:01"}
 ---
 
 
@@ -72,5 +72,5 @@ Ugye a mohamedánoknál nincs [[J/Jahve\|Jahve]], így úgy tűnik, Ábrahámmal
 
 ## Ábrahám turáni alakjának egy újabb bizonyítéka
 
-Gyárfás Ágnes Tellói pecsét című az Ősi Gyökér 2013/1-2. sz. megjelent cikkében a pelaszg alapítású, tölgyfalombok suttogásából jósolásról híres, JM által is említett Dodona taglalása után írja, hogy amikor Ábrahám kijött \[a sumér\] Ur városából, és Izráelbe költözött, a jós [[T/Tölgy\|tölgy]]ekhez közel ütötte fel a sátorát és istentiszteletet is e tölgyfák alatt tartott.  
+Gyárfás Ágnes Tellói pecsét című az Ősi Gyökér 2013/1-2. sz. megjelent cikkében a pelaszg alapítású, tölgyfalombok suttogásából jósolásról híres, Jankovics Marcell által is említett Dodona taglalása után írja, hogy amikor Ábrahám kijött \[a sumér\] Ur városából, és Izráelbe költözött, a jós [[T/Tölgy\|tölgy]]ekhez közel ütötte fel a sátorát és istentiszteletet is e tölgyfák alatt tartott.  
 
