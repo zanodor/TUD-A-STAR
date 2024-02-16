@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kutya és macska/","title":"Kutya és macska","tags":["containstransclusions"],"created":"2023-11-17T09:39","updated":"2024-02-02T03:16"}
+{"dg-publish":true,"permalink":"/K/Kutya és macska/","title":"Kutya és macska","tags":["containstransclusions"],"created":"2023-11-17T09:39","updated":"2024-02-16T14:30"}
 ---
 
 
@@ -29,7 +29,7 @@ Azért hasonlítanak a szavak, mert mindkét szó, a kutya és \*kat is kún/hun
 De mindkettő állat régi háziállatunk is, és lám, kutya a [[K/Kútya\|kútyá]]val, [[K/KAT\|KAT]] (kac) a [[H/Ház\|ház]]zal hozható összefüggésbe. Arról is lehetne szólni, hogy régen az u és a hangok gyakran változtak egymással (erre jó bizonyíték az angol u hang, melyet tájjellegűen u-nak, a standard angol szabályoknak megfelelően a és ö hang között ejtenek).  
 Catuli, mint [[O/Öleb\|öleb]], kutyakölyök előjött [[R/Robigalia\|Robigalia]] címnél is.  
 
-Igen érdekes, sőt, megdöbbentő EP adata, miszerint a tupi indiánok `jaguára` (lásd [[J/Jaguar\|jaguar]]) szava nagymacskát, de gyakran(!) [[K/Kutya\|kutyá]]t is jelöl. [[F/Fo-kutya\|Fo-kutya]] és [[S/Sárkány\|sárkány]], valamint [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]] címnél már láttuk példákat a kutya és macska/oroszlán fogalmak keveredésére.  
+Igen érdekes, sőt, megdöbbentő Eric Partridge adata, miszerint a tupi indiánok `jaguára` (lásd [[J/Jaguar\|jaguar]]) szava nagymacskát, de gyakran(!) [[K/Kutya\|kutyá]]t is jelöl. [[F/Fo-kutya\|Fo-kutya]] és [[S/Sárkány\|sárkány]], valamint [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]] címnél már láttuk példákat a kutya és macska/oroszlán fogalmak keveredésére.  
 
 Mivel fentebb a Napjelkép (nagy)macskákról volt szó, elhomályosította a lényeget. Valójában a macska kún-hun K-T vázú nevéről van szó (szinte mindenütt azonos alakú – hisz a hunok mindenütt éltek – de még a baszk nyelvben is). Nem annyira Napról (a Napnak K-N vázú nevei vannak), hanem annak a [[G/Göd\|Göd]]del (egy újabb rokon vázú név) azonosítható anyjáról, a [[T/Tejútanya\|Tejútanyá]]ról van szó, melynek Robert Graves The White Goddess című könyvének 221. oldalán szerelő adata szerint is képzeltek el macska-alakot ([[B/Basztet\|Basztet]] = Beast = Tejút). De hogy mennyire így lehet, elárulja (a latin `feles` és `cattus` szavaktól távoli) katalán macskát jelentő szavak többfélesége: `gat` (masc.), `gata` (fem.); `mix` (masc.), `mixa` (fem.); `moix` (masc.), `moixa` (fem.). Ezek közül is elsődlegesen a MIS/MISZ alakú szavak érdekesek, hiszen [[M/MES\|MES]]/[[M/MISZ\|MISZ]] a Göd magyar párja.  
 
