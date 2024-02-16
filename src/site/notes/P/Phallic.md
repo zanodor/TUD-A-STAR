@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Phallic/","title":"Phallic","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T05:11","updated":"2024-02-12T18:15"}
+{"dg-publish":true,"permalink":"/P/Phallic/","title":"Phallic","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T05:11","updated":"2024-02-16T14:31"}
 ---
 
 
@@ -11,15 +11,15 @@ Fallikus.
 
 > Görögül `phallos` (fallosz) = hímtag, de szóvégi sz hang csak azon szóvégzés, amelyet a görögök az idegenből átvett szavakhoz is hozzá szoktak volt tenni. Ámde hiszen ezen fallo- szóval teljesen azonos a magyar `faló` szó is, márpedig úgy a [[T/Trója\|Trójá]]ról szóló regében, mint a magyar mesében is fa-lóról van szó. Ha pedig a magyar [[F/Fa\|fa]] szóhoz csak egy sz hangot teszünk hozzá, akkor is a hímtag \[[[Fasz\|fasz]]\] nevét kapjuk.  
 
-Magyar Adorján jól láthatja a Fa-Ló kapcsolatot, de nem ismeri a [[L/Ló\|LÓ]]/[[L/LU\|LU]] többjelentésű alapszót. Fa-Lu a [[L/Lingam\|lingam]]-nál is előjött erotikus jelképként értelmezhető fatörzs, mely olykor a phallosz helyett áll (a faodú viszont mindig az [[A/Anyaméh\|anyaméh]], nyílása pedig a [[V/Vulva\|vulva]] szimbóluma; lásd még [[F/Fa és férfi\|fa és férfi]] valamint [[F/Fa és nő\|fa és nő]]).  
+Magyar Adorján jól láthatja a Fa-Ló kapcsolatot, de nem ismeri a [[L/Ló\|LÓ]]/[[L/LU\|LU]] többjelentésű alapszót. Fa-Lu a [[L/Lingam\|lingam]]-nál is előjött erotikus jelképként értelmezhető fatörzs, mely olykor a phallosz helyett áll (a faodú viszont mindig az [[A/Anyaméh\|anyaméh]], nyílása pedig a [[V/Vulva\|vulva]] szimbóluma; lásd férfi témában is [[F/Fa és nő\|fa és nő]]).  
 
-A hasonló magyar szavak közül a [[P/Pálca\|pálca]] és [[P/Pallos\|pallos]] szó mellett felhozható a Csőke Sándor adata szerint magyar pall = üt, szelet csap értelmű hímségi ige is, melyet CzF is adatol (és [[P/Pale\|pale]] szóban is megvan) (csak ugye mi legvégső esetben akarunk igékből levezetni).  
+A hasonló magyar szavak közül a [[P/Pálca\|pálca]] és [[P/Pallos\|pallos]] szó mellett felhozható a Csőke Sándor adata szerint magyar `pall` = üt, szelet csap értelmű hímségi ige is, melyet CzF is adatol (és [[P/Pale\|pale]] szóban is megvan) (csak ugye mi legvégső esetben akarunk igékből levezetni).  
 [[P/Pile\|Pile]] és [[P/Pilis\|Pilis]] címnél nem a fa-ló összefüggés jött elő viszont.  
 
 #### Vasváry-Tóth Tibor is érinti:
 
-> [[F/Fasz\|Fasz]] szavunkkal teljesen egyezik a szanszkrit faszasz ([[P/Pasas\|pasas]]) és a görög feszosz (peos), phallosz. Ezek ugyanazt jelentik, mint a magyar fasz szó (tudni való, hogy a szanszkritban és a görögben nincsen "[[F/F\|f]]"). A phallosz eredetileg a magyar ló-fasz szóból alakulhatott át. (Phallus, phallos. Ló-s. Fasz-ló. Majd fa-lós és phallos és hasonló lehetett a szó útja.)  
-- Ha nincs f betűjük, miért írta őket ki úgy? A latin [[F/Fascinum\|fascinum]] szóról nem tesz említést.  
+> [[F/Fasz\|Fasz]] szavunkkal teljesen egyezik a szanszkrit `faszasz` ([[P/Pasas\|pasas]]) és a görög `feszosz` (peos), phallosz. Ezek ugyanazt jelentik, mint a magyar fasz szó (tudni való, hogy a szanszkritban és a görögben nincsen "[[F/F\|f]]"). A phallosz eredetileg a magyar ló-fasz szóból alakulhatott át. (Phallus, phallos. Ló-s. Fasz-ló. Majd fa-lós és phallos és hasonló lehetett a szó útja.)  
+- Ha nincs f betűjük, miért írta őket ki úgy? A latin [[F/Fascinum\|fascinum]] szóról nem tesz említést.
 
 A ló és hímtagja kapcsolatáról még annyit, hogy cseh nyelvben informálisan `lofas` = fasz jelentésű. [[A/Asb\|Asb]] címnél, ami ugye átvitt értelemben lovat jelentene, megadtuk az óind `asva` szóval egyező alakú arab `aswa`[^1] = fallosz szót. Itt is kimutathatónak tűnik a kapcsolat. Ász-Fő lehet az Isten Fő/Feje (kisebbik feje) is akár.  
 
@@ -31,9 +31,9 @@ A ló és hímtagja kapcsolatáról még annyit, hogy cseh nyelvben informálisa
 
 #### Vasváry-Tóth Tibor írja:
 
-> A **pallos** balta és bárd, de mindenekelőtt kétélű kard, széles pengéjű, egyenes, hüvelybe dugható, döfő, ütő, csapó, vágó eszköz, fegyver. Ebben a vonatkozásban megfelelést mutat a phallosz (nemi szerv) kifejezéssel, melyet szintén hosszú és hüvelybe dugható tagnak tartunk (például "belé mártotta a phalloszát vagy a pallosát valakibe" értsd: megdöfte).  
+> A `pallos` balta és bárd, de mindenekelőtt kétélű kard, széles pengéjű, egyenes, hüvelybe dugható, döfő, ütő, csapó, vágó eszköz, fegyver. Ebben a vonatkozásban megfelelést mutat a phallosz (nemi szerv) kifejezéssel, melyet szintén hosszú és hüvelybe dugható tagnak tartunk (például "belé mártotta a phalloszát vagy a pallosát valakibe" értsd: megdöfte).  
 
-Ezen pallos azért is lehet jó nyomvonal, mert a karó és kard szót is használjuk ilyen értelemben; sőt, albán, cigány és perzsa nyelvben is a K-R "teremtőgyök" szerepel a hímtag jelentésű szavakban (kar, kár(ó) ill. [[K/Kir\|kir]]).  
+Ezen pallos azért is lehet jó nyomvonal, mert a karó és kard szót is használjuk ilyen értelemben; sőt, albán, cigány és perzsa nyelvben is a K-R "teremtőgyök" szerepel a hímtag jelentésű szavakban ([[K/KAR\|kar]], `kár(ó)` ill. [[K/Kir\|kir]]).  
 Ha már teremtőgyök, a pelaszg-palóc nyelven ez P-L, (B-L) mássalhangzóvázzal valósul meg, így lehet [[B/Bál\|Bál]] > Fál (Fal) vonalon is vizsgálni. Hasonlóképp indultunk ki [[B/BIL\|BIL]]/[[P/PIL\|PIL]] etimonoknál illetve [[P/Pale\|pale]] = karó szónál. Itt a megoldás. Mesterházy Zsolt is írja:  
 > Írország közepén, a "tarai dombon áll Fál köve, az a "fállikus" kő, amely felsikoltott, ha az az ember érintette meg, akit királynak szánt a sors", vagyis ez egy "FÁLikus" megalit, ahol a szakrális királyt megválasztották.  
 
@@ -48,7 +48,7 @@ Lásd még [[P/Pilis\|Pilis]], mindenképpen Jankovics Marcell írását is [[P/
 [[M/Mace\|Mace]] és [[M/Macaroni\|macaroni]] címnél volt még szó hímtagról.  
 [[K/Kuei\|Kuei]] és [[L/Lingam\|lingam]] fallikus szimbólumok a kínaiknál és hinduknál.  
 
-[[L/Lulab\|Lulab]] címnél volt arról szó, hogy akár lóláb (lófasz) is lehetne. [[L/Lófasz\|Lófasz]] csehül simán fasz. Robert Graves The White Goddess című könyvének 290. oldalán szól a spanyol `carajo` = szamár hímtag szóról. A szótár sima hímtag jelentést adatol. [[K/Kúr\|Kúr]] szavunkkal lehet kapcsolni.  
+[[L/Lulab\|Lulab]] címnél volt arról szó, hogy akár lóláb (lófasz) is lehetne. [[L/Lófasz\|Lófasz]] cseh nyelven (`lofas`) simán fasz. Robert Graves The White Goddess című könyvének 290. oldalán szól a spanyol `carajo` = szamár hímtag szóról. A szótár sima hímtag jelentést adatol. [[K/Kúr\|Kúr]] szavunkkal lehet kapcsolni.  
 [[H/Hatszázhatvanhat\|Hatszázhatvanhat]] címnél is szerepelt, hogy [[N/Nimrud\|Nimrud]] tulajdonképpen phallosz, mely az [[I/Íj és a nyíl\|íj és a nyíl]] asztrális-szexuális mitológia (lásd még új Ozirisz-fallosszal kapcsolatosan is [[I/Íj csillagkép\|Íj csillagkép]] illetve alant [[P/Phallic#Ízisz és Ozirisz phallosza\|Ízisz és Ozirisz phallosza]] alcímnél) fontos része (bármennyire is gondolja Obrusánszky Borbála valós személynek).  
 
 [[S/Szent prostitúció\|Szent prostitúció]] és [[K/Kurva\|kurva]] címhez is tehető lenne, hogy egyes istennőket állatokon és (mű)hímtagon ülve ábrázoltak (a fentiek alapján nem is meglepő).  

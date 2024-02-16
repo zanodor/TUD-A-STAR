@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/E/ÉL/","title":"ÉL","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-21T10:58","updated":"2023-11-21T10:58"}
+{"dg-publish":true,"permalink":"/E/ÉL/","title":"ÉL","tags":["Englishtexttranslated"],"created":"2023-11-21T10:58","updated":"2024-02-16T14:29"}
 ---
 
 
 # ÉL
 
-Lásd [[E/EL\|EL]] és [[I/IL\|IL]]. Él igei jelentését ott említjük, itt még a főnévi jelentését illetően annyit, hogy ugyanúgy hímségi jelentésű, mely [[A/Acél\|acél]] szóban is szerepelhet. Lásd még róla [[E/Éles\|éles]].  
+Lásd [[E/EL\|EL]] és [[I/IL\|IL]]. Él igei jelentését ott említjük; utóbbi címnél kitérünk az él = mozog összefüggésre is.  
 
 #### A Czuczor-Fogarasi szótár...
 
@@ -36,3 +36,13 @@ De ahogy könyvének 217. oldala alján tulajdonképpen kimondatlanul is kimondj
 Öl a Tejútközpontban meghaló és a Tejútanya ölében feltámadó Napra vonatkozik.  
 
 L>R változással azonos szavunkkal az [ezen](https://youtu.be/XX3h2fY2JRs) Bahador Alast videóban hallott dravida tamil és kannada nyelvű `iru` és japán `iru` = lenni, létezni.  
+
+## Él főnév
+
+Az él sz-előtéttel lehet [[S/Szél\|szél]]\(e valaminek).  
+
+Itt még a főnévi jelentését illetően annyit, hogy ugyanúgy hímségi jelentésű, mely [[A/Acél\|acél]] szóban is szerepelhet.  
+
+Az éles melléknév kapcsán írható:  
+Éles – ÉL; Tompa (Dumb, domb, [[T/TUB\|TUB]], Os-Toba, Dubh).  
+Azaz a fényes hímség úgy aránylik az élességhez (éles ész és látás is lehet, ne feledjük), ahogy a tompasághoz a fényhiány.  

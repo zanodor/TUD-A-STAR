@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tarka/","title":"Tarka","tags":["dg_uploaded"],"created":"2023-11-14T03:20","updated":"2023-11-14T03:20"}
+{"dg-publish":true,"permalink":"/T/Tarka/","title":"Tarka","created":"2023-11-14T03:20","updated":"2024-02-16T14:32"}
 ---
 
 
@@ -9,7 +9,7 @@ Tar-Ka Csillagocskás vagy Háza a Csillag(os Ég)nek értelmű. Az angol [[D/Da
 [[D/Deer\|Deer]] címnél szóba jött a kecsua és aymara[^1] `taruca`, `taruka` = őz szó, mely felvetette, hogy egyes nyelvek őzet jelentő szavai a tarka fogalmából indulnak ki (azaz asztrális elnevezés ez is a csillagos égre értve; lásd még erről [[C/Csudaszarvas\|Csudaszarvas]] és [[S/Sika\|sika]]).  
 - Szinte biztos, hogy a távoli kontinens szavai tarka szavunkat rejtik; megdöbbentő!  
 
-Varga Zsigmond Az ősmagyar mitológia c. könyvének adata szerint a csagataj török `targu` = tarka, sokszínű, és a sumér `tar`, `dar` = tarka jelentéssel megadott.
+Varga Zsigmond Az ősmagyar mitológia c. könyvének adata szerint a csagatáj török `targu` = tarka, sokszínű, és a sumér `tar`, `dar` = tarka jelentéssel megadott.
 
 Lényegében azt kell látni, hogy az egész csillagos ég (tarka) megszemélyesítése is lehet [[C/Csuda\|csuda]] – [[C/Csudaszarvas\|Csudaszarvas]], lehet a Tejúté (mert az a mi galaxisunk), míg a Csudaszarvas homlokán levő [[C/Csillag\|csillag]] nem más, mint [[S/Szíriusz\|Szíriusz]] (és vélhetően nem a [[V/Vénusz\|Vénusz]]).  
 
