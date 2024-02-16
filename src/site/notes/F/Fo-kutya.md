@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fo-kutya/","title":"Fo-kutya","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-05T04:33","updated":"2023-11-17T09:47"}
+{"dg-publish":true,"permalink":"/F/Fo-kutya/","title":"Fo-kutya","tags":["Englishtexttranslated"],"created":"2023-11-05T04:33","updated":"2024-02-16T14:30"}
 ---
 
 
@@ -21,7 +21,8 @@ Pap Gábor egy előadásában szól a **giccs**ről  és a gombolyaggal játszó
 #### Jankovics Marcell Ahol a madár se jár...
 
 ...című könyvében is ír róla:  
-> A giccsfestők gombolyaggal játszó cicájának modellje a Nappal gurigázó égi macska: az Oroszlán csillagkép volt. Az Oroszlán jegy jele is letekeredő gombolyagot, vagy, ha úgy tetszik, oroszlánfarok hajtotta Napot ábrázol (????). A gombolyag-metafora mögött egy egész világkép-magyarázó szimbólumrendszer forog, melyben a világegyetem pergő orsó, a látszólag köröttünk keringő égitestek pályái pedig a rátekeredő aranyfonalak. Az éves körforgásban ez a képzet a lennel, a kenderrel és a gyapjúval kapcsolatos teendők ritualizálásában öltött formát. A megfont fonalat meg is személyesítették, és a "bölcsőjében" (a csónak alakú vetélőben) nyugvó "fonálgyermeket" a középkorban még a gyermek Jézussal is "összetévesztették". Természetesen a fonál mint az egyedi lét jelképe is ennek a képzetkörnek a része. A Moirák (Párkák), akik éltünk fonalát sodorják, pödrik és elvágják, a Pancimanci-mesékben is fölbukkannak, mint fonóasszonyok (l. a közép-amerikai indiánok szőtt egét és gubancos poklát).  
+> A giccsfestők gombolyaggal játszó cicájának modellje a Nappal gurigázó égi macska: az Oroszlán csillagkép volt. Az Oroszlán jegy jele is letekeredő gombolyagot, vagy, ha úgy tetszik, oroszlánfarok hajtotta Napot ábrázol (????). A gombolyag-metafora mögött egy egész világkép-magyarázó szimbólumrendszer forog, melyben a világegyetem pergő orsó, a látszólag köröttünk keringő égitestek pályái pedig a rátekeredő aranyfonalak. Az éves körforgásban ez a képzet a lennel, a kenderrel és a gyapjúval kapcsolatos teendők ritualizálásában öltött formát. A megfont fonalat meg is személyesítették, és a "bölcsőjében" (a csónak alakú vetélőben) nyugvó "fonálgyermeket" a középkorban még a gyermek Jézussal is "összetévesztették". Természetesen a fonál mint az egyedi lét jelképe is ennek a képzetkörnek a része. A Moirák (Párkák), akik éltünk fonalát sodorják, pödrik és elvágják, a Pancimanci-mesékben is fölbukkannak, mint fonóasszonyok (l. a közép-amerikai indiánok szőtt egét és gubancos poklát).  { #pw6muy}
+
 
 ![assets/Fo-kutya_image3.jpeg](/img/user/F/assets/Fo-kutya_image3.jpeg)  
 ![assets/Fo-kutya_image4.jpeg](/img/user/F/assets/Fo-kutya_image4.jpeg)  
@@ -34,13 +35,13 @@ Másodsorban a kutya a keleti állatövben a Kos jegy neve, tehát a kutyáról 
 Ide tehető még a gombolyag és a fonál szimbolikája; Jankovics Marcell A Nap könyvében írja:  
 > A csillag- és planétaistenek kapcsolata a Nappal, napjárással egészen magától értetődő, A Nap mozgása a csillagok "állásához" mérhető, ezért a csillagos háttér nélkül el sem képzelhető. Ilyen például Thészeusz, aki vérbeli naphérosz, kezében az aranyfonál-gombolyaggal – a fonal a nappálya, a gombolyag a Nap jelképe.  
 
-Ami a [[F/FO\|FO]] nevet illeti, itt nyilván az Acharia S "Suns of God" című könyvében és a fentebbi lábjegyzetben is előjövő Foxi, Fuxi (Nap/Istenség)nevek előtagjára (lásd még azóta bekerült [[F/Fu-Hi\|Fu-Hi]]) és [[F/FU\|FU]], Fő szavunkra kell gondolni. Az utolsóként mellékelt szöveges részben is FO = BU alapon Buddhára gondolnak.  
+Ami a Fo nevet illeti, itt nyilván az Acharia S "Suns of God" című könyvében és a fentebbi lábjegyzetben is előjövő Foxi, Fuxi (Nap/Istenség)nevek előtagjára (lásd még azóta bekerült [[F/Fu-Hi\|Fu-Hi]]) és [[F/FU\|FU]], Fő szavunkra kell gondolni. Az utolsóként mellékelt szöveges részben is FO = BU alapon Buddhára gondolnak.  
 `Fu` viszont a kínaiban tüzet jelent.  
 
 Közben [[S/Sphinx\|Sphinx]]-ről megállapítattott, hogy a Fo-kutyához hasonlóan egyszerre kutya és nagymacska, azaz a Hunor/Magor Napok mintha keverednének benne.
 
 A kutya és nagymacska keveredése elöjött [[J/Jaguar\|jaguar]] nevével kapcsolatosan is:  
-Igen érdekes, sőt, megdöbbentő EP adata, miszerint a tupi indiánok `jaguára` szava nagymacskát, de gyakran(!) [[K/Kutya\|kutyá]]t is jelöl. [[S/Sárkány\|Sárkány]], valamint [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]] címnél már láttuk példákat a kutya és macska/oroszlán fogalmak keveredésére, de Jeremy Black és Anthony Green, a Gods, Demons and Symbols in Ancient Mesopotamia c. könyv íróinak adata szerint az ókori Mezopotámiában is a nagymacskákat a kutyák családjába sorolták:  
+Igen érdekes, sőt, megdöbbentő Eric Partridge adata, miszerint a tupi indiánok `jaguára` szava nagymacskát, de gyakran(!) [[K/Kutya\|kutyá]]t is jelöl. [[S/Sárkány\|Sárkány]], valamint [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]] címnél már láttuk példákat a kutya és macska/oroszlán fogalmak keveredésére, de Jeremy Black és Anthony Green, a Gods, Demons and Symbols in Ancient Mesopotamia c. könyv íróinak adata szerint az ókori Mezopotámiában is a nagymacskákat a kutyák családjába sorolták:  
 > The dog family to the Mesopotamians meant not only wolves, hyenas, jackals and dogs, but also lions.  
 > —  
 > A mezopotámiaiak számára a kutyák családja nemcsak a farkasokat, hiénákat, sakálokat és kutyákat jelentette, hanem az oroszlánokat is.  
