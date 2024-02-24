@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz és a naprendszer/","title":"Szíriusz és a naprendszer","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-13T05:21","updated":"2024-02-07T01:40"}
+{"dg-publish":true,"permalink":"/S/Szíriusz és a naprendszer/","title":"Szíriusz és a naprendszer","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-13T05:21","updated":"2024-02-24T15:12"}
 ---
 
 
@@ -26,7 +26,7 @@ Hasonlóról szól Jankovics Marcell Jelkép-kalendárium című könyvében:
 - Vesd össze ezt azzal, hogy az egy nappal korábban ünnepelt Szent [[A/Anna\|Anna]] halálát július 26-ára tették és Annát Szíriusszal azonosítottuk, [[S/Szíriusz mint istenanya\|Szíriusz mint istenanya]] címnél is.
 
 > Az égbolt legfényesebb csillagát a késő antikvitás a "Nagy Pánnal" is azonosította, és mint **nyolcadik, "tiszteletbeli" bolygót és a bolygók vezetőjét fölvette a planétaistenek sorába**. Egykorú források szerint a "Nagy Pán halott!" kijelentés Tiberius császár idejében nem a pogányság végére vonatkozott, mint azt sokan hiszik, hanem arra, hogy a [[P/Precesszió\|precesszió]] miatt a Szíriusz többé nem akkor kelt fel, amikor kellett volna, vagyis július végén, hogy a Nílus áradását jelezze.  
-- Paksi Zoltánnál Pán a [[B/Bak csillagkép\|Bak csillagkép]] megszemélyesítője. Ez ugyan ellentmond JM fentebbi sorainak, de egyet is ért vele, hiszen a Szíriusz másik együttállása a Bak havában esedékes.
+- Paksi Zoltánnál Pán a [[B/Bak csillagkép\|Bak csillagkép]] megszemélyesítője. Ez ugyan ellentmond Jankovics Marcell fentebbi sorainak, de egyet is ért vele, hiszen a Szíriusz másik együttállása a Bak havában esedékes.
 
 ![assets/Szirnap_image1.png](/img/user/S/assets/Szirnap_image1.png)  
 
@@ -142,7 +142,7 @@ Aztán amikor TMSZ az internetes New Age-s [[A/Alcyone\|Alcyone]] csillaggal kap
 ...akkor ötlött fel, hogy 1) a precessziós ciklus a Naprendszer mozgására utal és 26000 évről beszélnek megint, 2) az [[A/Alcyone\|Alcyone]] névben megvan a Kyon = Kutya, mely Szíriuszra utalhat (a Pleiadok generális iránya épp arrafelé is lenne). Nem lehetséges, hogy kettészedtek itt valamilyen információt?  
 
 [[P/Precesszió\|Precesszió]] címnél szerepelt, hogy – a nyilván William Brown által is figyelt – Uwe Holmann nem kevesebbet állít, minthogy a sziderikus és tropikus/szoláris év közt nincs differencia! Szíriusz azért nem változtatja helyét, mert egyenesen az okozza a precessziót!  
-A sziderikus és tropikus napév hivatalosan terjesztett diskrepanciájáról[^3] szóló elméletet cáfolja az idősebbik Homann fia, Uwe, ki megosztotta mindezt a Binary Research Institute-tal:  
+A sziderikus és tropikus napév hivatalosan terjesztett diszkrepanciájáról[^3] szóló elméletet cáfolja az idősebbik Homann fia, Uwe, ki megosztotta mindezt a Binary Research Institute-tal:  
 > The scientific arguments presented here[^4] have conclusively proven that the time intervals of the tropical year and the sidereal year are indeed equivalent. It is has been mathematically verified that the mean time interval of 31,556,925.97474 s is Earth's true 360° orbit period, implying that the equinoctial points do NOT retrograde around the sun. Hence, we can no longer subscribe to the erroneous conclusion that the 'precession of Earth' is a scientific fact.
 > However, the gradual displacement of the equinoctial points relative to inertial space does require a scientific explanation. The observations and the research done by Karl-Heinz Homann suggest that **our entire solar system is orbiting the Sirius system**.  
 > 
@@ -195,7 +195,7 @@ Jankovics Marcell passzusa [[S/Szíriusz és a medvék\|Szíriusz és a medvék]
 > Lászlót az ének csillagként köszönti ("Csillagok közt fényességes csillag"), hogy felmagasztalásának közvetlen **oka egy Nappal együtt delelő csillag, mely csillag az időpont (1192. június 27.) ismeretében** csak az Orionnak vagy valamely szomszédos csillagképnek a fényes csillaga, **leginkább a Szíriusz lehetett**, amit a pápai küldöttek éppen láthattak is volna[^6], ha akkor napfogyatkozás sötétíti el az eget. Ez azonban nem szükségszerű. Elég az, s ez egészen bizonyos, hogy jártasak voltak a csillagászatban, tudták tehát, hogy a mondott időben mely csillagok között tartózkodik a Nap, továbbá azt is, hogy a szentté avatásnak naptári-csillagászati feltételei vannak – így kívánta a korszellem (meg a nálunk még eleven pogány gondolkodásmód). Csakis tudatos program lehetett, hogy "Mithrast" csináltak belőle. (Leghíresebb legendájának elemzéséből ugyanerre a következtetésre jutunk. [[S/Szent László és a leányszöktető kun\|Szent László és a leányszöktető kun]] legendájának falképciklusban megörökített képsora a világosság és a sötétség küzdelmét jeleníti meg.)  
 
 [[M/Mithra és a bika\|Mithra és a bika]] címnél szerepelt legutóbb:  
-[[M/Mithra\|Mithra]] címnél már szerepelt (a folyamatosan [[S/Szíriusz\|Szíriusz]]t is elővevő) WC sora, miszerint Mithranak köze kell lennie a [[P/Precesszió\|precesszió]]hoz, vagy azt kiváltó okhoz (egy helyen JMJ is írja:  
+[[M/Mithra\|Mithra]] címnél már szerepelt (a folyamatosan [[S/Szíriusz\|Szíriusz]]t is elővevő) WC sora, miszerint Mithranak köze kell lennie a [[P/Precesszió\|precesszió]]hoz, vagy azt kiváltó okhoz (egy helyen John M. Jenkins is írja:  
 > Mithras is celebrated as the high deity or demiurge who turns the wheel of precession.  
 > —  
 > Mithrászt főistenség vagy démiurgoszként ünneplik, aki a precesszió kerekét forgatja.  
@@ -220,7 +220,7 @@ Ezzel a hyperkozmikus Nappal kapcsolatban írja:
 > —  
 > Ahogy Ulansey rámutat, a Plejádok pontosan ott helyezkednek el, ahol a tőr megöli a bikát (lásd a 8.3. ábrát). Mit tudunk ebből levonni? Először is, azonosítja a Plejádokat, mint a mitrai taurokton egyik jelentős pólusát, amely a tauriai kapuhoz kapcsolódik, amely a lelket a megnyilvánulásba (genezisbe) vezeti. Már leírtuk, hogy a Plejádok a Galaktikus Anticentrum általános jelölője. Most a tauroktóniában a kutya a Szíriuszt jelképezi, és vadul nekivág a Plejádokat lokalizáló sebnek. Jelzésértékű, hogy a Szíriusz ugyanazon a meridiánon van, mint a Galaktikus Anticentrum – vagyis a déli meridiánon ugyanabban az időben halad át, mint a Galaktikus Anticentrum, bár alacsonyabb magasságban van.  
 
-JMJ könyvének 115.oldalán írja ([[T/Tánc\|tánc]] és [[K/Kundalini\|Kundalini]] címnél is szerepelt):  
+John M. Jenkins könyvének 115.oldalán írja ([[T/Tánc\|tánc]] és [[K/Kundalini\|Kundalini]] címnél is szerepelt):  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/m/mithra-es-a-bika/#o50g9i" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
