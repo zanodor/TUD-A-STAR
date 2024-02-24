@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Suhurmasku/","title":"Suhurmasku","tags":["Englishtexttranslated"],"created":"2023-11-04T10:20","updated":"2024-01-24T03:44"}
+{"dg-publish":true,"permalink":"/S/Suhurmasku/","title":"Suhurmasku","tags":["Englishtexttranslated"],"created":"2023-11-04T10:20","updated":"2024-02-02T02:42"}
 ---
 
 
@@ -9,15 +9,15 @@ SuHur-Mas-Ku a [[S/Sumér zodiákus\|sumér zodiákus]] Capricornusnak, azaz a B
 
 Visszafelé haladva [[K/KU\|KU]] tehát nemcsak égitestet és kutyát, de teremtményt, lényt ([[K/Kü\|kü]] = ivadékot, porontyot) is jelölhet; a piktogram alapján vízilényt.  
 
-Megjegyzés: a [[S/Székely-magyar rovásírás#H\|székely-magyar rovásírás H]] betűjénél is Varga Géza a The origins of Hunnish runic writing c. könyvének 27.oldaláról való adata alapján bemutatott info szerint a sumér `HA` = hal szintén, mely HA = `GA`, PJI-nél, ahol a delfin is előjön (igaz, [[B/Beluga\|Beluga]] miatt):  
+Megjegyzés: a [[S/Székely-magyar rovásírás#H\|székely-magyar rovásírás H]] betűjénél is Varga Géza a The origins of Hunnish runic writing c. könyvének 27.oldaláról való adata alapján bemutatott info szerint a sumér `HA` = hal szintén, mely HA = `GA`, Péterfai Jánosnál, ahol a delfin is előjön (igaz, [[B/Beluga\|Beluga]] miatt):  
 > A magyar Ga tehát valójában olyan lény, amelyet kiemelünk, természetesen a vízből, és Hal. Ráadásul a Belu-Ga nem is hal, hanem fehér delfin és emlős.  
 
-[[O/Oyster\|Osztriga]] címnél is szerepelt PJI azon adata, miszerint `GA` = hal jelentésű is lehet (érdekes, hogy ott is az anyaméh jön elő, ahogy a delfin kapcsán, [[D/Dolphin\|dolphin]] címnél írottaknál is).  
+[[O/Oyster\|Osztriga]] címnél is szerepelt Péterfai János azon adata, miszerint `GA` = hal jelentésű is lehet (érdekes, hogy ott is az anyaméh jön elő, ahogy a delfin kapcsán, [[D/Dolphin\|dolphin]] címnél írottaknál is).  
 ![assets/Suhurmasku_image1.png](/img/user/S/assets/Suhurmasku_image1.png)  
 [[M/MAS\|MAS]] előjött a sumér-babiloni Nagy Ikreknek fordított [[M/Mastabbagalgal\|Mastabbagalgal]] névnél is: jelentése tehát mása valaminek, vagy másodikja. A piktogramja igen érdekes forma kereszt. A vitatható adatokat szolgáltató [[D/Dudás Rudolf\|Dudás Rudolf]] szerint a kecske szó értelme a Kőrös-kultúra idejében `MÁS`-nak hangzott; (L.76), "kecskebak" pedig `MÁS-NITA` volt.  
-Ami az M-SZ vázú kecske(gida) és őz/szarvas jelentésű szavakat illeti, csokorba összeszedve lásd [[M/MISZ\|MISZ]] címnél. MA Csodaszarvasában tehát jól gondolja, hogy halfarkú szarvasról van inkább szó, mint kecskéről, csak hát a szarvas arrafelé délen nem volt meg, így ki kellett váltsa a kecske.  
+Ami az M-SZ vázú kecske(gida) és őz/szarvas jelentésű szavakat illeti, csokorba összeszedve lásd [[M/MISZ\|MISZ]] címnél. Magyar Adorján Csodaszarvasában tehát jól gondolja, hogy halfarkú szarvasról van inkább szó, mint kecskéről, csak hát a szarvas arrafelé délen nem volt meg, így ki kellett váltsa a kecske.  
 
-Suhur-t egy jelként adatolja GW \[talán nem is véletlenül, de GYÁ-nál is volt olyan eset, hogy 4-5 betűs "gyököt" közölt\], holott két alapszóból, [[S/SU\|SU]]-ból és [[H/HUR\|HUR]]-ból ([[K/KUR\|KUR]]?) áll. Suhur, ha valóban egy piktogram jelképezi, számomra a [[F/Fehér\|fehér]] szót idézi a beékelt h-val: összehúzva például szőr (ezzel a jelentéssel is adatolják sumér szótárak) vagy sűr(ű) lehetne, ~~de valószínűbb a Suh-Ur felbontása~~. HUR jelentése hegy, mint KUR-nak.  
+Suhur-t egy jelként adatolja Gavin White \[talán nem is véletlenül, de Gyárfás Ágnesnél is volt olyan eset, hogy 4-5 betűs "gyököt" közölt\], holott két alapszóból, [[S/SU\|SU]]-ból és [[H/HUR\|HUR]]-ból ([[K/KUR\|KUR]]?) áll. Suhur, ha valóban egy piktogram jelképezi, számomra a [[F/Fehér\|fehér]] szót idézi a beékelt h-val: összehúzva például szőr (ezzel a jelentéssel is adatolják sumér szótárak) vagy sűr(ű) lehetne, ~~de valószínűbb a Suh-Ur felbontása~~. HUR jelentése hegy, mint KUR-nak.  
 `Suhur` valóban előjön Dudás Rudolf egyik könyvében mint haj(zat); másképpen [[S/Szőr\|szőr]]. Suhur-Ku6 pedig egy halfajta, forrásai szerint. Nos, a piktogramot elnézve még a [[K/Korona\|koroná]]t is el tudnám képzelni, mely Szíriusszal (Tündér Ilona vára) kapcsolatba hozható lenne ugye.  
 Ugyanakkor a három szirom/szarv a [[K/KUS\|KUS]] címnél álló hasonlatos ábrázolások alapján is Orionra, [[O/Orion övcsillagai\|Orion övcsillagai]]ra utaló lehetne.  
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2024-02-10T04:19"}
+{"dg-publish":true,"permalink":"/P/Precesszió/"}
 ---
 
 
@@ -54,7 +54,7 @@ A másik fontos/érdekes dolog a sumér Vízöntő [[G/Gula#Gula 2)\|Gula]] neve
 
 ...című könyvében írottak alapján kétezer éve ez a helyzet:  
 > Mitopoétikusabban hangzik bár, mégis a mondottakat támasztja alá, ahogy az ausztrál bennszülöttek "álomidő-történetei" magyarázzák egyik legfontosabb szertartási kellékük, a kereszt alakú waninga értelmét. Azt mesélik, hogy két keresztbe tett szára a közösülö ősszülőket testesíti meg, akik viszont a Tejutat jelképezik. **A Tejút egybeesik az égtájkereszt napfordulói szárával, mivel a Nap 2 ezer év óta a napfordulók idején keresztezi a Tejutat**.  
-> Az égtájkereszt napfordulói szára alatt a Nyilas-Ikrek tengelyt kell érteni, bár lehet, JM Bak-Rák tengelynek mondaná.  
+> Az égtájkereszt napfordulói szára alatt a Nyilas-Ikrek tengelyt kell érteni, bár lehet, Jankovics Marcell Bak-Rák tengelynek mondaná.  
 
 Ugye arról több helyen volt szó, hogy a Vízöntő Krishna halála idején a téli napforduló csillagképe volt.  
 
@@ -131,7 +131,7 @@ Mielőtt rátérnénk további részletesebb ismertetésére, tudni kell, hogy a
 > Bár a görög és mezopotámiai mítoszok összehasonlító tanulmányozása meghaladja e könyv kereteit, egy jelentős téma, amely ebből az anyagból kirajzolódik, mégis említést érdemel – mindkét mítoszban a rák vagy teknős vagy újonnan jön létre, vagy újonnan kerül a csillagok közé – más szóval a mítoszok részletezik a Rák mint csillagkép tényleges teremtését. Amint máshol már kifejtettem, **más csillagképek létrejötte nagymértékben a precesszió hosszú távú hatásainak köszönhető**. E jelenség hatására a csillagok lassan egyre később kelnek fel a naptárban, ami új csillagképek időszakos létrehozását teszi szükségessé. Amint remélem, az utolsó szakaszban be tudom mutatni, a Rák valójában a sokkal régebbi Kígyó alakjától örökölte alapvető szimbolikus vonásait.  
 - [[A/Allul\|Allul]] címnél is szerepelt; előzményeket lásd ott.  
 
-[[O/Orion\|Orion]] címnél is szerepelt JM sora:  
+[[O/Orion\|Orion]] címnél is szerepelt Jankovics Marcell sora:  
 > A [[P/Precesszió\|precesszió]] miatt a csillagképek kelési rendje a földi évszakok rendjéhez képest folytonos késésben van. Ez a fölismerés már a történelem hajnalán arra késztette az embert, hogy a **csillagképekhez kötött mítoszait bizonyos idő elteltével újrafogalmazza**, a csillagképeknek új értelmet adjon.  
 - Ez persze csak az egyik része, a dolognak, hisz a csillagképek még torzulnak is, ahogy a Vaskorba érve a rezgésszám is csökken és a tudás is hanyatlik: egyre inkább a valóságtól eltérő, leegyszerűsített mitológiák kerültek megalkotásra.
 
@@ -231,7 +231,7 @@ Sőt, a tudomány is elismerte, hogy a mozgások okát nem ismeri:
 > —  
 > 2006-ban az IAU kijelentette, hogy a precessziós nutációs modell "nincs összhangban a dinamikai elmélettel" (IAU P03).  
 
-A sziderikus és tropikus napév hivatalosan terjesztett \[általam [[G/Gergely-naptár\|Gergely-naptár]] címnél és másutt is szóba hozott\] diskrepanciájáról[^6] szóló elméletet cáfolja a fiatalabb Homann, Uwe, ki megosztotta mindezt a Binary Research Institute-tal (melynek honlapját időközönként ellenőrizni kell, hátha új adatok kerülnek fel).  
+A sziderikus és tropikus napév hivatalosan terjesztett \[általam [[G/Gergely-naptár\|Gergely-naptár]] címnél és másutt is szóba hozott\] diszkrepanciájáról[^6] szóló elméletet cáfolja a fiatalabb Homann, Uwe, ki megosztotta mindezt a Binary Research Institute-tal (melynek honlapját időközönként ellenőrizni kell, hátha új adatok kerülnek fel).  
 ![assets/Precesszió_image8.png](/img/user/P/assets/Precesszi%C3%B3_image8.png)  
 
 > [!DEFINITIONS]
@@ -356,7 +356,7 @@ Az egyiptomiaknak is ismerniük kellett. A precessziót a csak tökéletes rends
 > A görög neoplatonista Proclus, aki a Kr. u. ötödik században Alexandriában tanult, arról számolt be, hogy nem a görögök, hanem az egyiptomiak fedezték fel a precessziót: "Azok, akik úgy vélik ... hogy a csillagok az állatöv pólusai körül mozognak \[precesszió\], mint Ptolemaiosz és Hipparkhosz előtte, \[hadd tudják meg\] ... hogy az egyiptomiak már Platónt is tanították az állócsillagok mozgásáról."  { #95u2us}
 
 
-JMJ könyveinek adatai alapján tudjuk, hogy a maják is ismerték.  
+John M. Jenkins könyveinek adatai alapján tudjuk, hogy a maják is ismerték.  
 Mint kiderül, mások, úgynevezett természeti népek is ismerték.  
 
 [[M/Maja naptár\|Maja naptár]] és [[I/Idő#Kétféle idő\|kétféle idő]] cím/alcímnél kezdtünk el beszélni Valum Votan – Az élő prófécia című angolból magyarra ...
@@ -473,7 +473,7 @@ A [[N/Nyárpont\|nyárpont]] jelenleg az Ikrekben van (a precessziós [[T/Télpo
 > ![assets/Precesszió_image17.png](/img/user/P/assets/Precesszi%C3%B3_image17.png)  
 > Mivel a Tejút két ponton keresztezi az Állatövet és a látóhatárt, a lélekjárásra még egyszer kínálkozik kedvező alkalom, mégpedig karácsonnyal átellenben, a [[N/Nyári napforduló\|nyári napforduló]]t köszöntő Szent Iván-napkor. Megjegyzendő, hogy amiképp a precesszió okán a decemberi ünnepek, de főleg karácsony lettek a november elsejei szokások továbbéltetői, azonmód veszi át Szent Iván-nap [[P/Pünkösd\|Pünkösd]] közvetítésével a régi május elsejék örökét. (Május 1. úgy állt szemben november elsejével a kelta naptárban, mint Szent Iván karácsonnyal a miénkben.) A május 1-jei (pünkösdi) hidasjátékban például a híd a Tejutat jelképezte. A játék értelmében a hídra (Tejútra) lépés csak úgy lehetséges, ha a hidasmester (a Hold) megnyitja az "aranykaput." Ő azonban csak akkor engedi a hídra lépni a kérelmezőket, ha azok az eltört hídlábat (az ég és Föld között megszakadt kapcsolatot) sárarannyal (a Nap fémével: fényével) helyreállítják, azaz létrejön a kívánatos Föld-Hold-Nap-Tejút együttállás.  
 
-Logikusnak tűnik, amit JM (nyilván RG anyaga alapján) ír, viszont amit ő a precesszióra fog, az a valóságban nem történt meg (másutt jól írta, hogy a [[S/Samhain\|Samhain]] ünnep félúton van a az őszi napéjegyenlőség és téli napforduló között). Ugyanis a kelták novemberi 1.-i évkezdéséhez kötött(?) lélekjárás nem lehet a mostani karácsonyi időpont csúszása. Amiről JM beszél, az csak 22-24000 éve lehetett volna.  
+Logikusnak tűnik, amit Jankovics Marcell (nyilván RG anyaga alapján) ír, viszont amit ő a precesszióra fog, az a valóságban nem történt meg (másutt jól írta, hogy a [[S/Samhain\|Samhain]] ünnep félúton van a az őszi napéjegyenlőség és téli napforduló között). Ugyanis a kelták novemberi 1.-i évkezdéséhez kötött(?) lélekjárás nem lehet a mostani karácsonyi időpont csúszása. Amiről Jankovics Marcell beszél, az csak 22-24000 éve lehetett volna.  
 A november 1.-i évkezdés nem lehet téli napfordulós kezdés (elcsúszása), hanem őszi napéjegyenlőségi évkezdet ez.  
 
 #### Michel-Gerald Boutet...

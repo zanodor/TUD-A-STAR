@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Csillagászat – tropikus kontra sziderikus/","title":"Csillagászat – tropikus kontra sziderikus","tags":["Englishtexttranslated"],"created":"2023-11-09T12:57","updated":"2024-01-29T01:27"}
+{"dg-publish":true,"permalink":"/C/Csillagászat – tropikus kontra sziderikus/","title":"Csillagászat – tropikus kontra sziderikus","tags":["Englishtexttranslated"],"created":"2023-11-09T12:57","updated":"2024-02-24T15:11"}
 ---
 
 
@@ -42,7 +42,7 @@ A sziderikus nap egy tetszőleges csillag \[ami, mint alant is kiderül, tetsző
 Azaz a sziderikus nap 23 óra 56 perc: ennyi ideig tart, míg az egyes csillagképek, például a Nagy Göncöl az óramutató járásával ellentétes irányban körbeforog a [[P/Polaris\|Polaris]] sarkcsillag körül (a Föld forog természetesen, ehhez képest látjuk az elmozdulást).  
 Ez a négy perces eltérés az, ami azt okozza, hogy az egyes csillagképek és csillagok ne legyenek ugyanazon helyen az év egyes napjain[^1]\: minden csillag minden egyes nap négy perccel hamarabb kel. Ez havonta két órás csúszást jelent, míg egy évben ez már éppen 24 óra, azaz egy nap: ezért egy év elteltével minden ugyanúgy folytatódik, ahogy rendesen.  
 
-[[P/Precesszió\|Precesszió]] és [[S/Szíriusz és a naprendszer\|Szíriusz és a naprendszer]] címnél viszont arról volt szó, hogy ez csak a hivatalos nézet a sziderikus és tropikus napév (látszólagos) diskrepanciájáról[^2], minthogy Uwe és Karl-Heinz Homann szerint a sziderikus és tropikus napév valójában ugyanannyi időbe telik:  
+[[P/Precesszió\|Precesszió]] és [[S/Szíriusz és a naprendszer\|Szíriusz és a naprendszer]] címnél viszont arról volt szó, hogy ez csak a hivatalos nézet a sziderikus és tropikus napév (látszólagos) diszkrepanciájáról[^2], minthogy Uwe és Karl-Heinz Homann szerint a sziderikus és tropikus napév valójában ugyanannyi időbe telik:  
 > The scientific arguments presented here[^3] have conclusively proven that the time intervals of the tropical year and the sidereal year are indeed equivalent. It is has been mathematically verified that the mean time interval of 31,556,925.97474s is Earth's true 360° orbit period, implying that the equinoctial points do NOT retrograde around the sun. Hence, we can no longer subscribe to the erroneous conclusion that the 'precession of Earth' is a scientific fact.  
 > However, the gradual displacement of the equinoctial points relative to inertial space does require a scientific explanation. The observations and the research done by Karl-Heinz Homann suggest that **our entire solar system is orbiting the Sirius system**.  
 > —  
