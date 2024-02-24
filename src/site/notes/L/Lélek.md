@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2024-02-15T17:02"}
+{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2024-02-24T15:21"}
 ---
 
 
@@ -36,7 +36,7 @@ A kérdés, amit [[S/Szellem\|szellem]] címnél feltettünk, itt is feltehető:
 - Rőczei György és mások itt szereplő adatai alapján látjuk, hogy ez a Tomory Zsuzsa által is említett isteni lehelet lesz [[I/Isa\|isa]]/[[I/Íz\|íz]] néven használva.  
 
 > A lélek szorosan tartozik a személyhez, mint életének és személyiségének testtől független hordozója, az ember belső valósága, az emlékezés, értelem és képzelet hordozója. Miután az élet szorosan kötődik a lélekhez, minden rítus, mágia és hitrendszer alapja a lélekre vonatkoztatott elképzelések rendszere is. A vallás- és hitvilág, mely a valóság és a szellemi világ összekapcsolását hozza létre, szinte minden megnyilvánulásában az azt létrehozó népesség, törzs vagy nemzet lélekfogalmát tükrözi.  
-> Különböző korok különböző népei más és más lélekfogalommal rendelkeztek. A zsidók például egyistenhitüknek megfelelően egyetlen lelket képzeltek el, mint isteni szikrát az élő emberben, de a görögök és rómaiak sok istenben való hite is csupán egyetlen lelket tételezett fel. A keresztény lélekfogalom is eme "haladó európai" hagyomány folytatója. Ez a lélekfogalom vált általánossá Európában, így a mi nyelvünk is csak(?) ezt ismeri a magyar néprajzi irodalomban. Ez a lélekfogalom az Én-lélek (élet-lélek, lehelet-lélek, Breath-soul), és néprajzi irodalmunk kellőképpen körüljárta, mi történik vele születésünkkor, életünkben és halálunk után. (Például: "Egy lelkem van, azt is odaadnám érted.") A finnugor nyelvészek is bőségesen alátámasztják az ÉN-lélek ősiségét (vogul: lel, lili; osztyák: lil; zürjén: lol, lov; votják: lul; finn: löyly; észt: leil; lapp: lievl) , de érthetetlen módon ennél többet a magyar lélekfogalomról ők sem állítanak. Pedig tehetnék! A finn-ugornak nevezett ősi népesség feltételezett rokonsága bőven megengedné, hogy a legközelebbi rokonainknak hirdetett vogulok és osztjákok nyelvét is jól ismerő kutatók az ő lélekfogalmukhoz hasonlót keressenek nyelvünkben.  
+> Különböző korok különböző népei más és más lélekfogalommal rendelkeztek. A zsidók például egyistenhitüknek megfelelően egyetlen lelket képzeltek el, mint isteni szikrát az élő emberben, de a görögök és rómaiak sok istenben való hite is csupán egyetlen lelket tételezett fel. A keresztény lélekfogalom is eme "haladó európai" hagyomány folytatója. Ez a lélekfogalom vált általánossá Európában, így a mi nyelvünk is csak(?) ezt ismeri a magyar néprajzi irodalomban. Ez a lélekfogalom az Én-lélek (élet-lélek, lehelet-lélek, Breath-soul), és néprajzi irodalmunk kellőképpen körüljárta, mi történik vele születésünkkor, életünkben és halálunk után. (Például: "Egy lelkem van, azt is odaadnám érted.") A finnugor nyelvészek is bőségesen alátámasztják az ÉN-lélek ősiségét (vogul: lel, lili; osztják: lil; zürjén: lol, lov; votják: lul; finn: löyly; észt: leil; lapp: lievl) , de érthetetlen módon ennél többet a magyar lélekfogalomról ők sem állítanak. Pedig tehetnék! A finn-ugornak nevezett ősi népesség feltételezett rokonsága bőven megengedné, hogy a legközelebbi rokonainknak hirdetett vogulok és osztjákok nyelvét is jól ismerő kutatók az ő lélekfogalmukhoz hasonlót keressenek nyelvünkben.  
 > Ők valóban tudják, hogy a legtöbb finn-ugor nyelvben ismert **egy másik lélekfogalom is, a vogulok által is-nek, jis-nek, az osztjákok által ilt-nek, is-nek, ishornak, a finnek által itse-nek, az észtek által ise-nek nevezett lélek, ami ÁRNYÉK-lélek (képmás-lélek**, shadow-soul)...  
 - Jó ez a képmás-lélek kifejezés az [[E/Ember\|ember]] címnél is említett [[A/Asztráltest\|asztráltest]] alternatív neveként.  
 
@@ -412,7 +412,7 @@ A több helyen, [[D/DOG\|DOG]], valamint [[K/Kutya és szív\|kutya és szív]] 
 
 #### Rónai Lászlóné A lélek erejének szerepe a gyógyításban...
 
-...című az Ősi Gyökér 2015/3-4. sz. megjelent cikkében viszont revidiálja magát; mondanám, hogy lányos zavarában, de aztán kivágja magát az asztráltest meghatározással:  
+...című az Ősi Gyökér 2015/3-4. sz. megjelent cikkében viszont revideálja magát; mondanám, hogy lányos zavarában, de aztán kivágja magát az asztráltest meghatározással:  
 > Hol van a lelkünk? Mutogatunk a szívünkre és a homlokunkra is a talamusznál. Mindkét helyen ott van. Fizikai testünk körül a 4-es aura rétegünk, az asztrál- vagy a Lélek-testünk van. A szív és a homlok csakránkhoz kapcsolódik. Egy átlagos embernél fizikai testétől minden irányban kb. 60 cm-re sugárzik szét, spirituális embernél viszont lehet 1,5 m-es a sugárzása. A formája a fizikai emberé, van keze, lába, feje. Színe optimális működésnél lehet fehér, rózsaszín, zöld, vil. kék, de mindig pasztell szín. Mérete: max. 4 mikron, mely csak beavatott, magas etikai és tudatszintű embernek van. A lélek híd az alsó síkok és a szellemvilág között.  
 
 Internetes adat:
@@ -582,8 +582,8 @@ Kállay Ferenc A pogány magyarok vallása című könyvének [134. oldalán](zo
 Pogány eldődeink épen ugy, mint a scythák hitték a jövendő életet, kitetszik ez azon közös véleményekből, mely szerint hitték, hogy a hány ellenséget leölnek a hadban, azok nekik a jövő életben szolgálni fognak. Leel vezér mondta Conrádnak "tu praeibis ante me, mihique in alio seculo eris serviturus," s Thuróczi itt megjegyzi : "est namque fides scythicorum ut quoscunque viventes occiderint in alio seculo ipsis servire teneantur" (p. II. c. 25.). A tény, ha nem áll is, hogy kürtjével agyonüté Conrádot, de a dogma kétség alá nem vehető, mert ez a közéletben volt meggyökerezve, honnan merité azt krónikás is.  
 
 [^4]: Lábjegyzet:  
-Schmidt Éva: Osztyák medveünnep. Forgatókönyv és kommentárok. (Polnovát, 1993. március 5-7.) Kézirat, Belojarszkij, 1993.  
-Schmidt Éva: Reinkarnáció és védőszellem. Beszélgetés Anna Grigorjevna Jumina osztyák asszonnyal. Kézirat, Belojarszkij, 1993.  
+Schmidt Éva: Osztják medveünnep. Forgatókönyv és kommentárok. (Polnovát, 1993. március 5-7.) Kézirat, Belojarszkij, 1993.  
+Schmidt Éva: Reinkarnáció és védőszellem. Beszélgetés Anna Grigorjevna Jumina osztják asszonnyal. Kézirat, Belojarszkij, 1993.  
 
 [^5]: Lábjegyzet:  
 Ugye már maga az eszencia, a belső lényeg, a latin `esse` szón keresztül is ezen isa, íz szavunk másaként jelentkezik. Tibold Makk Szabina A gyűjtőpont vagy éberpont című az Ősi Gyökér 2021/1. sz. megjelent cikkében is így írja körül:  
