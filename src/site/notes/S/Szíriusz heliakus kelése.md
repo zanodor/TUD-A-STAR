@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz heliakus kelése/","title":"Szíriusz heliakus kelése","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T12:04","updated":"2024-02-10T04:23"}
+{"dg-publish":true,"permalink":"/S/Szíriusz heliakus kelése/","title":"Szíriusz heliakus kelése","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T12:04","updated":"2024-02-24T15:12"}
 ---
 
 
@@ -83,7 +83,7 @@ J. Ellard Gore Astrological curiosities című könyvének adata szerint i.e. 40
 - Ez azért érdekes, mert 6000 éve a [[T/Tavaszpont\|tavaszpont]] éppen a [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]en volt, azaz a Nagy Évben keresztrefeszített Nap egy világévszaknyit fordult azóta.  
 
 [[P/Precesszió\|Precesszió]] és [[S/Szíriusz és a naprendszer\|Szíriusz és a naprendszer]] címnél szereplő W. Cruttenden-féle adatok viszont szintén azt fedik fel, hogy a Szíriusz nem változtatja helyét, mert egyenesen az okozza a precessziót!  
-Itt két dolgot lehet felhozni. Egyrészt, hogy szélességében valóban nem változtathatja, de mi van hosszúságában (deklinációjában)? Másrészt, máshol Dobos Csanád azt vélte észrevételezni, mintha a planetárium szoftverek is be lennének programozva a Gregorian-naptár csalására (Julian-naptár szerint jó adat jött neki ki): a program tehát vagy a NASA hivatalos adatait használja, vagy pusztán azért vándorol a heliákus felkelés, mert ezt – a hivatalos nézet szerint – a sziderikus és tropikus napév diskrepanciája hozza létre. (Uwe Holmannék szerint nincs is négyperces eltérés!)  
+Itt két dolgot lehet felhozni. Egyrészt, hogy szélességében valóban nem változtathatja, de mi van hosszúságában (deklinációjában)? Másrészt, máshol Dobos Csanád azt vélte észrevételezni, mintha a planetárium szoftverek is be lennének programozva a Gregorian-naptár csalására (Julian-naptár szerint jó adat jött neki ki): a program tehát vagy a NASA hivatalos adatait használja, vagy pusztán azért vándorol a heliákus felkelés, mert ezt – a hivatalos nézet szerint – a sziderikus és tropikus napév diszkrepanciája hozza létre. (Uwe Holmannék szerint nincs is négyperces eltérés!)  
 ![assets/Sziriuszheliakuskelese_image5.png](/img/user/S/assets/Sziriuszheliakuskelese_image5.png)  
 
 William Brown blogger is írja:  
