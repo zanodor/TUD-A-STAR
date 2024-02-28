@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Méh/","title":"Méh","tags":["Englishtexttranslated"],"created":"2023-11-11T10:46:00","updated":"2024-02-02T02:40"}
+{"dg-publish":true,"permalink":"/M/Méh/","title":"Méh","tags":["Englishtexttranslated"],"created":"2023-11-11T10:46:00","updated":"2024-02-28T21:33"}
 ---
 
 
@@ -134,10 +134,10 @@ Több helyen volt erről szó[^3]. Nyilván Péterfai János is említi, de Borb
 > A Nap anyját egyik alakjában "Nagy Méh" néven tisztelték a Közel-Keleten. Alsó-Egyiptom szimbóluma volt – [[N/Neith\|Neith]] istennő delta vidéki templomát Szaiszban a "Méh házá"-nak nevezték. Az országrész első királyainak a jelzői között szerepelt: "Ő, aki a méhhez tartozik."  
 - Méh-fáraókról másutt is volt szó.
 
-JM ezen passzusa másutt, [[H/Hunor és Magor#Égi területek földre tükrözése\|égi területek földre tükrözése]] cím/alcímnél is szerepelt. Ezen adatát is annak bizonyítékául fogtuk fel – a méh-anyaméh-Nyilas csillagkép analógia mentén – hogy a sötét félév (ahol a [[S/Skorpió csillagkép\|Skorpió csillagkép]] és a Tejútanya [[A/Anyaméh\|anyaméh]]e is van) Alsó-Egyiptomhoz tartozik, így a Péterfai János által megadott Hun alternatív név Alsó-Egyiptomra szintén megfelel elnevezésként.  
+Jankovics Marcell ezen passzusa másutt, [[H/Hunor és Magor#Égi területek földre tükrözése\|égi területek földre tükrözése]] cím/alcímnél is szerepelt. Ezen adatát is annak bizonyítékául fogtuk fel – a méh-anyaméh-Nyilas csillagkép analógia mentén – hogy a sötét félév (ahol a [[S/Skorpió csillagkép\|Skorpió csillagkép]] és a Tejútanya [[A/Anyaméh\|anyaméh]]e is van) Alsó-Egyiptomhoz tartozik, így a Péterfai János által megadott Hun alternatív név Alsó-Egyiptomra szintén megfelel elnevezésként.  
 
 Nagy Károly A sakkjáték eredetének története című az Ősi Gyökér 2013/3. sz. megjelent cikkében mikor a [[N/Narmer-paletta\|Narmer-palettá]]n ábrázolt összecsavarodott hosszú nyakú szörnyekkel jelképezett Felső- és Alsó-Egyiptom egyesítésének említése után azt írja, hogy az egyiptomi nyelvben a SZEMA "egyesíteni" hieroglifa az ország egységére utal, akkor a [[S/Semi-\|semi-]] szó és a fél-egész téma ötlött fel rögtön, és aztán amikor azzal folytatja, hogy az óegyiptomi írásban **Felső-Egyiptomot a SÁS, míg *Alsó*-Egyiptomot a MÉH jelképezi**, akkor a sás indo-európai hatot (lásd [[S/Six\|six]]) jelentő szavainak lehetséges kapcsolatára gondoltam (a téridő 12-es rendszerének fele 6).  
-![assets/Méh_image4.jpeg](/img/user/M/assets/M%C3%A9h_image4.jpeg)  
+![assets/Méh_image4.jpeg|invert_dark](/img/user/M/assets/M%C3%A9h_image4.jpeg)  
 Írja még itt, hogy az egyiptomi nyelvben a szobrok mágikus funkciójával kapcsolatos megelevenítő szót SZANH-nak nevezik.  
 Borbola Jánostól nád jön elő sás helyett, de A Nílus-völgyi hitvilág című Ősi Gyökér 2005/4. sz. megjelent cikkében amikor említést tesz a nád népéről, pont fordítva, Alsó-Egyiptomot ír:  
 > Hunn Íjász a Nílus-delta nádban gazdag vidékének volt korlátlan ura. Számos település, és még több vízi út tarkította ezt a termékeny területet, a szakirodalom elnevezésében Alsó-Egyiptomot. Megítélésünk szerint a nád népe alatt az itt élő hunokat értették.  
