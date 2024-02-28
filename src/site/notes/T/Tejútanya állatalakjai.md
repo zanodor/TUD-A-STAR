@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tejútanya állatalakjai/","title":"Tejútanya állatalakjai","tags":["Englishtexttranslated"],"created":"2023-11-13T02:19","updated":"2024-02-12T18:36"}
+{"dg-publish":true,"permalink":"/T/Tejútanya állatalakjai/","title":"Tejútanya állatalakjai","tags":["Englishtexttranslated"],"created":"2023-11-13T02:19","updated":"2024-02-29T00:44"}
 ---
 
 
@@ -28,7 +28,7 @@ A kérdés itt még, hogy [[T/Tigris\|Tigris]] megléte miatt tigris is lehet (b
 Különösen az állat nagysága is fontos, hiszen ami nagyobb méretű, vagy fizikailag erősebb az embernél, az jön még leginkább számításba. Ahol nincs oroszlán, ott a [[M/Medve\|medve]] volt alkalmas, illetve a kihalt állatok közül a mama szóval igen szépen kapcsolatot mutatni látszó [[M/Mammoth\|mammut]]. Hasonlóan nagy (isteni méretű) az [[E/Elephant\|elephant]] is (Ganesha istennőre gondolok Indiában).  
 
 A [[D/Dinosaur\|dinosaur]] a sárkány és kígyó és persze a madár kategóriája mellé passzol és bár rég kihalt, nincs kizárva, hogy ember látta élőben.  
-De ezzel még nincs vége. Igen valószínű, hogy a Tejútanyának az élőlények primitívebb formáit is elképzelték jelképként. Azzal nem igazán értek egyet, amit JM Jelkép-kalendárium című könyvében ír, miszerint az archaikus gondolkodásban a puhatestűek, halak, hüllők, kétéltűek álltak a "rangsor" legalsó fokán, mert a régiek felfogásában minden egy: minden élőlény ugyanazt az életenergiát képviseli (növény, rovar, kétéltű, emlős, mind).  
+De ezzel még nincs vége. Igen valószínű, hogy a Tejútanyának az élőlények primitívebb formáit is elképzelték jelképként. Azzal nem igazán értek egyet, amit Jankovics Marcell Jelkép-kalendárium című könyvében ír, miszerint az archaikus gondolkodásban a puhatestűek, halak, hüllők, kétéltűek álltak a "rangsor" legalsó fokán, mert a régiek felfogásában minden egy: minden élőlény ugyanazt az életenergiát képviseli (növény, rovar, kétéltű, emlős, mind).  
 Így válik érthetővé, hogy miért nem tűnnek negatívnak a [[F/Féreg\|féreg]], [[G/Giliszta\|giliszta]], [[H/Hernyó\|hernyó]], [[M/Métely\|métely]], [[M/Mite\|mite]], [[N/Nyű\|nyű]] stb. nevek. A [[M/Medusa\|Medusa]] szintén idevehető. Ahogy Varga Zsigmond is írja:  
 > A szumirok sem tettek kezdetben semmi különbséget madarak, hernyók, férgek, csúszómászók, pillangók, sőt még a halak közt sem.  
 
@@ -65,7 +65,7 @@ A kép folyamatosan bővül. Szarvas ugyebár kapcsolatba hozatott a [[B/Bak csi
 > A hindu mítoszokban a férj és feleség (pati és patni) háza az életelv alakváltoztatásai révén kel életre, amely állatok és haszonállatok egész sorát ontja magából: "A nő tehénné változott, a férfi bikává változott, egyesült vele, és ebből született az összes jószág. A nő kanca lett; a férfi mén lett. Nőstény szamár lett belőle; hím szamár lett belőle és egyesült vele, és ebből született az összes egész patás állat. A nőstényből kecske lett; a fiúból kecskebak lett; a nőstényből anyajuh lett; a fiúból kos lett és egyesült vele, és ebből születtek a kecskék és a juhok. Így teremtett meg minden párt, egészen a hangyákig."  
 
 Hogy a Tejútanyának állatalakjai lehetnek, erre bizonyíték lehet a sémi-föníciai/**arab Allat istennő** neve, melyet [[A/Állat\|állat]] és főleg [[A/Allah\|Allah]] címnél érintettünk. Fáy könyvének 239. oldalán Babelon tollából Tammuz kedveseként és alvilági istennőként jön elő Allat. Az alvilággal nincsen bajunk, hiszen akkor terhes a Tejútanya és akkor szüli meg Nap-gyermekét is. A [[K/Kutya\|kutya]] is alvilági állat és a Tejútanya állatalakjai közül az egyik.  
-Igen is, van annak létjogosultsága, hogy mind Allat és mind [[A/Allah\|Allah]] [[I/Ilona\|Ilona]] nevére és annak állatalakjának nevére utalva előjöjjön az avar-hun eredetű/kultúrájú araboknál. Allah sem igazán hímségi, míg Allat méginkább nem az. Christine Fielder Sexual Paradox című könyvének 251. oldaláról való adatait lásd [[A/Allah\|Allah]]. (Azt azért jegyezzük meg, hogy [[T/T\|T]] címnél cáfoljuk is, hogy Allat állat szavunkkal azonos lehet.)  
+Igen is, van annak létjogosultsága, hogy mind Allat és mind [[A/Allah\|Allah]] [[I/Ilona\|Ilona]] nevére és annak állatalakjának nevére utalva előjöjjön az avar-hun eredetű/kultúrájú araboknál. Allah sem igazán hímségi, míg Allat még inkább nem az. Christine Fielder Sexual Paradox című könyvének 251. oldaláról való adatait lásd [[A/Allah\|Allah]]. (Azt azért jegyezzük meg, hogy [[T/T\|T]] címnél cáfoljuk is, hogy Allat állat szavunkkal azonos lehet.)  
 (Nem kis meglepetést okoztak a legutóbb [[O/Ozirisz és Széth\|Ozirisz és Széth]] címnél írottak, ahol Allah [[S/Szíriusz\|Szíriussz]]al azonosíttatott. Ami lehet is, hiszen [[I/Ilona\|Ilona]] nevében is megvan Él, és Ilona koronája a Tejútanya Szíriusza, csak itt már hímségivé tett istennel van dolgunk.)  
 
 #### Falvay Károly Nagyboldogasszony...
