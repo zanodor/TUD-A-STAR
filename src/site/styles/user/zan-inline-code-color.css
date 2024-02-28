@@ -1,0 +1,11 @@
+/* Dark mode */
+.theme-dark .markdown-preview-view code,
+.theme-dark .cm-s-obsidian span.cm-inline-code {
+    color: orange;
+}
+
+/* Light mode */
+.theme-light .markdown-preview-view code,
+.theme-light .cm-s-obsidian span.cm-inline-code {
+    color: black;
+}
