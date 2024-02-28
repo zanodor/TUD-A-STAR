@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-04T04:55","updated":"2024-02-02T01:23"}
+{"dg-publish":true,"permalink":"/B/Barbár/","title":"Barbár","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-04T04:55","updated":"2024-02-28T17:29"}
 ---
 
 
@@ -32,7 +32,7 @@ Péterfai János megspórolt volna nekem némi időt és néhány Quora oldalon 
 > A sumér "farkas" szó az urbarra, ami szó szerint azt jelenti: "a szabadban (bar) élő kutya (ur)".  
 
 [Ezen](http://www.assyrianlanguages.org/akkadian/dosearch.php?searchkey=barbaru&language=rawakkadian) oldalon álló adatokat nézzük:  
-![assets/Barbár_image3.png](/img/user/B/assets/Barb%C3%A1r_image3.png)  
+![assets/Barbár_image3.png|invert_dark](/img/user/B/assets/Barb%C3%A1r_image3.png)  
 Azt írják még, hogy a sémita nyelvekben a proto-sémi megállapított \*barbar = farkas, sakál jelentésű lehetett (nem ismerik a BAR jelentéseit persze) és hogy arab `babr` = tigris jelentésű szó hasonló. (A tigris és a fentebb említett oroszlán szintén egyes nyelvekben szintén azonos szóval jelzett; lásd [[T/Tiger\|tiger]].)  
 
 Az hogy a tigris is Napállat, ahogy a többi, kivált a kutya, mely kutyát jelentő idegen szavakban mindig a fény és a tűz jelentésű etimonok jönnek elő, ezért lehet, hogy a...  
@@ -53,17 +53,17 @@ Az hogy a tigris is Napállat, ahogy a többi, kivált a kutya, mely kutyát jel
 </div></div>
   
 
-Hogy az eltelt 120 évben pontosították volna az akkád barbaru jelentését, vagy pedig csak úgy gondolták, "hasonlósága" miatt megfelel a sumér urbarra szónak, nem tudni, mindenesetre a [[M/Mulapin\|Mulapin]] csillagkatalógusban mit keresne második helyen az [ezen](https://en.wikipedia.org/w/index.php?title=Talk:Babylonian_star_catalogues&oldid=308328520) oldalon a [Háromszög alfájának](https://en.wikipedia.org/wiki/Alpha_Trianguli) megfeleltett farkas, aminek [[F/Farkas\|farkas]] címnél írottak szerint a Kutya csillagképpel szemközt kellene lennie, mint ma is. Ugyanakkor a Mulapin-ban nem az akkád `barbaru` név szerepel, hanem a sumér `urbarra`,...  
+Hogy az eltelt 120 évben pontosították volna az akkád barbaru jelentését, vagy pedig csak úgy gondolták, "hasonlósága" miatt megfelel a sumér urbarra szónak, nem tudni, mindenesetre a [[M/Mulapin\|Mulapin]] csillagkatalógusban mit keresne második helyen az [ezen](https://en.wikipedia.org/w/index.php?title=Talk:Babylonian_star_catalogues&oldid=308328520) oldalon a [Háromszög alfájának](https://en.wikipedia.org/wiki/Alpha_Trianguli) megfeleltetett farkas, aminek [[F/Farkas\|farkas]] címnél írottak szerint a Kutya csillagképpel szemközt kellene lennie, mint ma is. Ugyanakkor a Mulapin-ban nem az akkád `barbaru` név szerepel, hanem a sumér `urbarra`,...  
 - mulUR.BAR.RA gišNINDA₂ ša₂ mulAPIN = the Wolf, seed-funnel of the Plough (a Farkas, a Szántó magtölcsérje)  
 
-...így mégis hinni kell, hogy nem a szemita korban tértek el, hanem a sumér már így gondolta (már annyiben a mai csillagképnek megfeleltetés helyes persze).  
+...így mégis hinni kell, hogy nem a szemita korban tértek el, hanem a sumér már így gondolta (már amennyiben a mai csillagképnek megfeleltetés helyes persze).  
 Ettől én még hajlanék arra, hogy a barbaru eredeti(bb) jelentése párduc, hiszen a [[P/Perzsa\|perzsá]]ban (ld. taglalva ott) is `pársz` és a kalmükben is `barsz`, azaz hasonló alakú a párduc jelentésű szó.  
 Az már egy másik kérdés illetve vizsgálati vonal, hogy [[A/Atilla hun király\|Atillá]]hoz (és a barbár hunokhoz) melyik állat kapcsolható inkább: a [[P/Párduc\|párduc]] (mely eleve a [[P/Pártus\|pártus]] nevet is kiadná), a farkas vagy a kutya, de aztán ott van még az oroszlán és a sárkány (a Turul későbbi). Itt nyilván az sem mindegy, hogy fehér vagy fekete hunokról van szó.  
 
 [Ezen](https://qr.ae/pNVLFu) Quora válaszban a török Timur Altay Sari is hozza a sumér Ur.Bar.Ra nevet és az akkád nevet is. A kommentelő görög Dimitris a Robert Beekes féle etimológiai szótár adatát adja meg, mely szerint nem sumér vagy babiloni eredetű lenne a szó:  
 > An onomatopoeic reduplicated formation, which originally referred to the language of the foreigner. One may compare Skt. (post-Vedic) `barbara` 'stammer', a designation of non-Aryan peoples. In spite of Sumer. `barbar` ‘foreigner’ not of Babylonian or Sumerian origin. From `ßápßapos` was borrowed Lat. `barbarus`. Comparable formations in other IE languages are mentioned in Pok. 91f. and Mayrhofer EW Aia 2: 217 s.v. balbalā-.  
 > —  
-> Onomatopoetikus reduplikált képződmény, amely eredetileg az idegen nyelvére utalt. Összehasonlíthatjuk a szkt. (poszt-védikus) `barbara` 'dadogás', a nem árja népek megnevezésére. A sumér. `barbar` 'idegen' \[megléte\] ellenére nem babiloni vagy sumér eredetű. A `ßápßapos`-ból kölcsönözték a lat. `barbarus`-t. Hasonló képződmények más IE nyelvekben a Pok. 91f. és Mayrhofer EW Aia 2: 217 s.v. balbalā-.  
+> Onomatopoetikus reduplikált képződmény, amely eredetileg az idegen nyelvére utalt. Összehasonlíthatjuk a szanszkrit (poszt-védikus) `barbara` 'dadogás', a nem árja népek megnevezésére. A sumér. `barbar` 'idegen' \[megléte\] ellenére nem babiloni vagy sumér eredetű. A `ßápßapos`-ból kölcsönözték a lat. `barbarus`-t. Hasonló képződmények más IE nyelvekben a Pok. 91f. és Mayrhofer EW Aia 2: 217 s.v. balbalā-.  
 
 A barbaru jelentését illetően még annyit, hogy Nimród, a hatalmas vadász, a leopárdok ura volt, illetve [[N/Nimrud\|Nimrud]] címnél akkád szavak párduc és leopárd jelentéssel visszaadottak (ami pedig ott leopárd, az az amerikai földrészen [[J/Jaguar\|jaguar]]). Azaz ezek a nagymacskák mind a Napra és egyúttal apjára, Nimrud-Orionra is vonatkoznak. Na most Orion és Szíriusz összetartoznak. Így talán nem meglepő, hogy a [[B/Barbara\|Barbara]], [[K/Kutia\|kutia]], [[N/Negyven\|negyven]], [[S/Szít\|szít]] és [[T/Tél\|tél]] címnél is említett vagy szereplő alábbi passzusban egy teljesen hasonló beduin-arab kifejezés jön elő (bár korábban nem volt számomra egyértelmű, hogy a barbár vagy berber szóval rokon lehet ez a Szíriuszra használt beduin kifejezés, most már leesett, hogy a fenti akkád szó párja és mindig is erre, égi állatra vonatkozott a név és avar-hun eredetével kapcsolatban sem lehet kifogásunk):  
 > The Bedouins of the Sinai and the Negev, however, called Sirius **Al-Burbarah**, probably deriving the name from the barking noise of a dog (Bailey 1974). They used its appearance on the easterly horizon at nightfall, in mid-January, as a season marker for the start of their **40**-day winter season ash-shita that lasts till late-February.  
@@ -91,7 +91,7 @@ A neten is megtaláltam:
 
 > Még [[H/Homer\|Homérosz]] költeményein is átcsillan az epigoni magatartás, a "kultúrfölény" érzetének hiánya az ősökkel és a "primitív" népekkel szemben. "A bűntelen etiópok, akiknek áldozata a legkedvesebb az istenek előtt", - mondja Homérosz Afrika színesbőrűiről. Az ellenkező magatartás a zsidóknál jelenik meg először a "választott nép" és a "[[G/Gój\|goj]]im" ideológiájában, majd a rómaiak "**barbarus**" fogalmában, melynek ők adták az alacsonyabb rendű, a durva, a műveletlen jelentést, míg a görögök eredetileg egyszerűen idegen nyelvű, érthetetlen beszédű embert értettek rajta (bar-bar = dadogó). Nem csoda, hogy aztán a neandervölgyi ős unokájából a kulturális képességgel együtt kihalt a szerénység is.  
 
-![assets/Barbár_image1.png](/img/user/B/assets/Barb%C3%A1r_image1.png)  
+![assets/Barbár_image1.png|invert_dark](/img/user/B/assets/Barb%C3%A1r_image1.png)  
 
 [[P/Pogány\|Pogány]] címnél Pap Gábor szól arról, hogy a másságról nyilatkozó szerint a [[M/Más\|más]] a más nyelvet beszélő és más erkölcsöket képviselő [[I/Idegen\|idegen]]/külföldi. A degradálóról viszont az bizonyosodik be, hogy valójában alacsonyabb műveltségű. Ugyanazt ezt teszi a talmudista zsidó (és a YouTube videókon rögzített izraeli járókelő is), amikor [[J/Jézus\|Jézus]]t senkinek és semminek (a kereszténységet pedig kiirtandónak) tekinti: meg van róla győződve, hogy az ő által képviselt értékrend magasabb, holott könnyen kimutatható, hogy épp fordítva van. Erről [[G/Gentile\|gentile]] címnél és [[M/Magyar népművészet\|magyar népművészet]] bevezetőjében is volt szó.  
 
