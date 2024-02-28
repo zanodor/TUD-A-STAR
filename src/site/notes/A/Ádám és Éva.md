@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ádám és Éva/","title":"Ádám és Éva","tags":["Englishtexttranslated"],"created":"2023-11-06T01:53","updated":"2024-02-08T07:33"}
+{"dg-publish":true,"permalink":"/A/Ádám és Éva/","title":"Ádám és Éva","tags":["Englishtexttranslated"],"created":"2023-11-06T01:53","updated":"2024-02-28T17:27"}
 ---
 
 
@@ -10,7 +10,7 @@
 ...című könyvében írja, hogy a zsidók ezt is a parszizmusból vették:  
 > A zendavestából egyszerűen átvették az egész teremtés történetét egy kevés módosítással. Masiát és Masiánát, Ádám és Éva szóval helyettesítették, a teremtés ottani hat korszakát ők hat napra változtatták; a fáradtságos munkával való kenyérkeresést pedig, melyet Zarathustra az ember legfőbb erényének és kötelességének állít, ők – erkölcstanukkal egybehangzóan – büntetésnek minősítették. Egyébként azonban a Mózes könyvében leírt kígyó, szabadító és az ember teremtésének kettős változata, sőt még az egyes kifejezések is, mint például "az ő nemük szerint" egyeznek a zendavesztával.  
 
-![assets/Adameseva_image1.png](/img/user/A/assets/Adameseva_image1.png)  
+![assets/Adameseva_image1.png|invert_dark](/img/user/A/assets/Adameseva_image1.png)  
 
 #### Várkonyi Nándor...
 
@@ -76,4 +76,4 @@ Kit Kandra Kabos adata szerint már [[H/Horvát István\|Horvát István]] is ma
 Ábrám-[[A/Ábrahám\|Ábrahám]] nevében egy ugyanolyan -Ám végződés is van, mint Ádám nevében, amely hasonló lehet, mint az Uram (és [[N/Numi Tórem\|Numi Tórem]]) nevekben.  
 
 [^4]: Lábjegyzet:  
-JM kapva-kap az alkalmon, hogy Ádám állítólagos vörös jelentését a Naphoz, fényéhez párosítsa. Lásd még [[V/Vörös és föld\|vörös és föld]].  
+Jankovics Marcell kapva-kap az alkalmon, hogy Ádám állítólagos vörös jelentését a Naphoz, fényéhez párosítsa. Lásd még [[V/Vörös és föld\|vörös és föld]].  
