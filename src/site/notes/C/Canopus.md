@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Canopus/","title":"Canopus","tags":["Englishtexttranslated"],"created":"2023-10-30T07:29","updated":"2024-02-12T18:10"}
+{"dg-publish":true,"permalink":"/C/Canopus/","title":"Canopus","tags":["Englishtexttranslated"],"created":"2023-10-30T07:29","updated":"2024-02-28T17:32"}
 ---
 
 
@@ -16,7 +16,7 @@ A Canopus (α Carinae, Alpha Carinae) egy első fényrendű csillag a Carina (Ha
 
 Canopus jelentése a görög nyelv irányából is figyelemre méltó: a "[[K/Kutya\|kutya]] szeme." A név szinte utal a közeli Nagy Kutya csillagkép [[S/Szíriusz\|Szíriusz]] csillagára, veti fel Dobos Csanád is. ~~(Valóban, neve a Kan, [[O/Optics\|optics]]-nál elemzett Op és -Us tagokra bontható.)~~  
 ![assets/Canopus_image1.jpeg](/img/user/C/assets/Canopus_image1.jpeg)  
-![assets/Canopus_image2.png](/img/user/C/assets/Canopus_image2.png)  
+![assets/Canopus_image2.png|invert_dark](/img/user/C/assets/Canopus_image2.png)  
 ![assets/Canopus_image3.png](/img/user/C/assets/Canopus_image3.png)  
 
 A mellékelt kép adatai alapján MM kén-bűzzel hozza kapcsolatba (katasztrófáról lásd [[T/Trója\|Trója]] és [[S/Szantorini\|Szantorini]]).
@@ -57,7 +57,7 @@ Négy kutyáról már másutt is esett szó...
 Ipolyi Arnold Magyar mythologia című könyvének 322. oldalán váratlanul előjön egy eddig még nem taglalt Ka-Nap felbontási lehetőség is. Ka-Nap lehet Háza a Napnak és Királyi Nap értelmű így.  
 
 Robert E. Briggs idézete akár a magyar párostánc lényegét fogalmazná meg. A férfi (jelen esetben Ozirisz) irányít és a ragyogó nő (Ízisz) körbetáncolja a férfit. Ennek megfelelően az Ízisz-Szíriusz helyett akkor kerül előtérbe az Ízisz-Spica (SZŰZ csillagkép fő csillaga), amikor a **Föld precessziós mozgása eredményeként több ezer évig a Szíriusz sem tudott a horizont fölé lépni**.  
-![assets/Canopus_image4.png](/img/user/C/assets/Canopus_image4.png)  
+![assets/Canopus_image4.png|invert_dark](/img/user/C/assets/Canopus_image4.png)  
 Nem tudott, mert a Szíriusznak is követni kellett Canopust a láthatatlanságba. Így amikor Canopus-Ozirisz helyét időszakosan az Orion (Hórusz) csillagkép veszi át, akkor a Szíriusz-Íziszét a Szűz csillagkép fő csillaga, a [[S/Spica\|Spica]]. \[Mivel viszont a precesszió Szíriuszra nem vonatkozik, a mellékelt ábra Dobos Csanádtól hasztalan.\]  
 
 Canopus mint a Kan Szeme érdekes elnevezés, mert – ahogy Robert Temple Szíriuszról szóló könyve szól róla – a [[D/Dogon\|dogon]]okkal rokon Mali-beli Bozo törzs a Szíriusz B-t ([[S/Sothis\|Sothis]]?) tartják szem-csillagnak, míg az egyiptomiak As-Art, azaz Oziriszt illették szemmel. [[O/OG\|OG]] etimon szem és óriás jelentése itt kapcsolódik össze.  
