@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/O/Oak/","title":"Oak","tags":["Englishtexttranslated"],"created":"2023-10-11T04:44","updated":"2024-02-10T04:16"}
+{"dg-publish":true,"permalink":"/O/Oak/","title":"Oak","tags":["Englishtexttranslated"],"created":"2023-10-11T04:44","updated":"2024-02-28T21:36"}
 ---
 
 
@@ -49,7 +49,7 @@ Ezen szavak lesznek tehát azok, melyek az indo-európai nyelvekben megjelennek.
 Az elmondottak alapján nagyon valószínű, az oak etimológiáját is figyelembe véve, hogy az angol tölgy [[A/Ágas\|ágas]] (ágos, ákos) szavunkról kapta nevét. Ennek megerősítéseként a türk karakalpak nyelvben is `ag'ash` = fa, illetve a török (tatár, türkmén) `ağaç` is ezt jelenti (nem [[A/Akác\|akác]] szavunk keresendő benne).  
 Azt pedig láttuk, hogy a fa és a tölgy fogalmai egymással megfeleltek (egyes nyelveken a fa és tölgy ugyanazon szóalak).  
 
-Ugyanakkor szóba hozható még az MA által említett [[O/ÓG\|ÓG]], mely a földbe vájt (és David Gordon White Dog-Man könyvének 176-177. oldalain található kínai adatai alapján bármely, nemcsak földbe vájt kialakítású) lak, ház füstkieresztő nyílásán kívül jelentenie kellett a [[S/Sarkcsillag\|Sarkcsillag]]ot is, minthogy minden lak közepén életfa volt leszúrva (sátor merevítője is ez), és ez mutatott a Sarkcsillagra (lásd erről diagramot [[I/Íj és a nyíl\|íj és a nyíl]]).  
+Ugyanakkor szóba hozható még az Magyar Adorján által említett [[O/ÓG\|ÓG]], mely a földbe vájt (és David Gordon White Dog-Man könyvének 176-177. oldalain található kínai adatai alapján bármely, nemcsak földbe vájt kialakítású) lak, ház füstkieresztő nyílásán kívül jelentenie kellett a [[S/Sarkcsillag\|Sarkcsillag]]ot is, minthogy minden lak közepén életfa volt leszúrva (sátor merevítője is ez), és ez mutatott a Sarkcsillagra (lásd erről diagramot [[I/Íj és a nyíl\|íj és a nyíl]]).  
 
 Nem Sarkcsillagot, de Medvét említ Richard H. Allen Star Names című könyvében, kinek forrása, Lockyer szerint, **Āk** = Szem nevű a [[U/Ursa Maior\|Nagy Medve csillagkép]] alfája, [[D/Dubhe\|Dubhe]]. Nem írja, milyen nyelven, de ÓK/ÓG szem jelentésével egyező. Péterfai János adata szerint az udmurt és komi `oh` = medve. Ez stimmel is. Nem vehette észre a csillagászati értelmet.
 
@@ -96,7 +96,7 @@ A lengyel Alexandra-Dorothea információja szerint:
 { #nmujaw}
 
 - Nálunk is az ág > agancs szó. Meg ugye sok szkíta ábrázoláson a szarvas fején faágak vannak.
-![assets/Oak_image2.jpeg](/img/user/O/assets/Oak_image2.jpeg)  
+![assets/Oak_image2.jpeg|invert_light](/img/user/O/assets/Oak_image2.jpeg)  
 ![assets/Oak_image3.jpeg](/img/user/O/assets/Oak_image3.jpeg)  
 > In Poland there is legend about the golden deer but it is considered a fairy tale for children. And Ancient Slavs in Poland were worshipping the holy oak.  
 > It had spiritual meaning for them...they loved nature generally.  
