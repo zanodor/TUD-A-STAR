@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Suhurmasku/","title":"Suhurmasku","tags":["Englishtexttranslated"],"created":"2023-11-04T10:20","updated":"2024-02-28T21:41"}
+{"dg-publish":true,"permalink":"/S/Suhurmasku/","title":"Suhurmasku","tags":["Englishtexttranslated"],"created":"2023-11-04T10:20","updated":"2024-02-28T21:42"}
 ---
 
 
@@ -18,7 +18,7 @@ Megjegyzés: a [[S/Székely-magyar rovásírás#H\|székely-magyar rovásírás 
 Ami az M-SZ vázú kecske(gida) és őz/szarvas jelentésű szavakat illeti, csokorba összeszedve lásd [[M/MISZ\|MISZ]] címnél. Magyar Adorján Csodaszarvasában tehát jól gondolja, hogy halfarkú szarvasról van inkább szó, mint kecskéről, csak hát a szarvas arrafelé délen nem volt meg, így ki kellett váltsa a kecske.  
 
 Suhur-t egy jelként adatolja Gavin White \[talán nem is véletlenül, de Gyárfás Ágnesnél is volt olyan eset, hogy 4-5 betűs "gyököt" közölt\], holott két alapszóból, [[S/SU\|SU]]-ból és [[H/HUR\|HUR]]-ból ([[K/KUR\|KUR]]?) áll. Suhur, ha valóban egy piktogram jelképezi, számomra a [[F/Fehér\|fehér]] szót idézi a beékelt h-val: összehúzva például szőr (ezzel a jelentéssel is adatolják sumér szótárak) vagy sűr(ű) lehetne, ~~de valószínűbb a Suh-Ur felbontása~~. HUR jelentése hegy, mint KUR-nak.  
-`Suhur` valóban előjön Dudás Rudolf egyik könyvében mint haj(zat); másképpen [[S/Szőr\|szőr]]. Suhur-Ku6 pedig egy halfajta, forrásai szerint. Nos, a piktogramot elnézve még a [[K/Korona\|koroná]]t is el tudnám képzelni, mely Szíriusszal (Tündér Ilona vára) kapcsolatba hozható lenne ugye.  
+`Suhur` valóban előjön Dudás Rudolf egyik könyvében mint haj(zat); másképpen [[S/Szőr\|szőr]]. Suhur-Ku₆ pedig egy halfajta, forrásai szerint. Nos, a piktogramot elnézve még a [[K/Korona\|koroná]]t is el tudnám képzelni, mely Szíriusszal (Tündér Ilona vára) kapcsolatba hozható lenne ugye.  
 Ugyanakkor a három szirom/szarv a [[K/KUS\|KUS]] címnél álló hasonlatos ábrázolások alapján is Orionra, [[O/Orion övcsillagai\|Orion övcsillagai]]ra utaló lehetne.  
 
 A Gyárfás Ágnes az Ősi Gyökér 2010/1-2. sz. közölt Magyar őskutatás a szimbolikák jegyében című cikkében bemutatott, [[T/Tulipán\|tulipán]] címnél közölt táblán ábrázolt tulipán is hasonló három csúcsú kialakítású és ott is elmondtam, hogy a [[K/Korona\|korona]] címnél már volt szó váras koronák kapcsán három csúcsról.  
