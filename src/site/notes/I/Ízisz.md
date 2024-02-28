@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Ízisz/","title":"Ízisz","tags":["Englishtexttranslated"],"created":"2023-11-15T04:40","updated":"2024-02-10T04:04"}
+{"dg-publish":true,"permalink":"/I/Ízisz/","title":"Ízisz","tags":["Englishtexttranslated"],"created":"2023-11-15T04:40","updated":"2024-02-28T21:13"}
 ---
 
 
@@ -32,7 +32,7 @@ Lásd még témát lejjebb.
 > A [[G/Galactic centre\|tejúthasadék]] egy sötét lyuk az égen, amit a Tejút két ága ölel körül: a régiek ezt tekintették a nagy istennő [[V/Vulva\|vulvá]]jának. Az égi szikomorfa ([[N/Nut\|Nut]]) hasítéka, amiből Ré napisten a világra jön, a tejúthasadék. Ide repül a [[H/Hattyú csillagkép\|Hattyú csillagkép]] – a mítoszban Zeusz –, hogy a Tejútistennőt megtermékenyítse, ide hatol be a Kígyó csillagkép farka, amikor Eurünoméval, a mindenség úrnőjével a világot "hozza össze" (a hattyúnyak, kígyófarok ősi phallikus jelképek). A Skorpiót az asztrológia a nemi szervek és a végbélnyílás állatjelképének tartja, sok afrikai nép pedig az állatban egyenesen a női nemi szerv megtestesítőjét látja; mérges fullánkját – az égen a Skorpió veres Antares csillagát – a clitorisszal azonosítja.  
 > [[N/Nut\|Nut]] és [[G/Geb\|Geb]] két gyermeke, Ozirisz (az [[O/Orion\|Orion]] csillagkép) és Ízisz (a [[S/Szíriusz\|Szíriusz]] csillag) a Tejúton látható egymás mellett, s kettősük jelezte az egyiptomi év elejét és végét (114. kép).  
 > Az egyiptomiak kereken 365 napos évvel számoltak, ebből az utolsó 5 nap külön figyelemben részesült, mivel [[N/Nut\|Nut]] és [[G/Geb\|Geb]] másik két gyermeke, valamint Hórusz, Ozirisz és Ízisz fia is ekkor született. A Szíriusz csillag évenkénti eltűnését (terhességét Hórusszal, azaz együttállását a Nappal) követő újbóli megjelenése (heliakus felkelése) elvben az új év kezdetét és a Nílus áradását jelentette. (Csak azért elvben, mert az egyiptomi év egy negyed nappal rövidebb lévén a valóságosnál, az újév napja 4 évenként 1 teljes nappal eltolódott a Szíriusz felkeléséhez és az áradás kezdetéhez képest.)  
-> ![assets/Ízisz_image1.png](/img/user/I/assets/%C3%8Dzisz_image1.png)  
+> ![assets/Ízisz_image1.png|invert_dark](/img/user/I/assets/%C3%8Dzisz_image1.png)  
 - Íziszről és Ozirisz phalloszáról lásd lejjebb.
 
 A Wikipédia anyaga elé helyezett Edward P. Butler anyagát kell majd idevenni (és persze majd Gerald Massey Ancient Egypt és más című könyvének és Wallis Budge munkájának adatai is jöhetnek). #todo
@@ -94,7 +94,7 @@ Ami tehát egyszer megjelenik [[C/Centre\|centre]]-ként Szíriuszban, másutt a
 > A szarvakat régente szentséges szimbólumnak tekintették. Az egyiptomi hieroglif írásban a szarvnak több elvont jelentéstartalma volt. Az egyik, úgy mond, az amely "a fej fölött van", (a Nap, az ég, a csillagok... stb.) Ebből adódik egy másik értelem: az önnön felsőbb tudatunkhoz vezető "útnak a kitárása/megnyitása". De ugyanakkor emelkedettséget, magasztosságot, tekintélyt és dicsőséget is jelentett. Míg Mezopotámiában, a szarv közé helyezett tűz láng, csillag jel együttes, az egykori Paradicsomot jelképezte.  
 
 ![assets/Ízisz_image5.jpeg](/img/user/I/assets/%C3%8Dzisz_image5.jpeg)  
-![assets/Ízisz_image6.jpeg](/img/user/I/assets/%C3%8Dzisz_image6.jpeg)  
+![assets/Ízisz_image6.jpeg|invert_dark](/img/user/I/assets/%C3%8Dzisz_image6.jpeg)  
 #### Greg Rigby The God Secret...  
 
 ...című könyvének 93. oldalán az Íziszt és Ízisz-Hathort ábrázoló képeken is helyesen a szarvak által körülhatárolásban [[K/Kehely\|kehely]]t vesz észre (előbb azt gondoltam, hogy bennük a Nap kétszer is szerepel; a szarvak közt és a [[H/Hórusz\|Hórusz]]ként a karjában tartva, de a fentiek alapján mégsem; [[C/Csudaszarvas\|Csudaszarvas]] címnél homlokról is volt szó, azaz ezen képzetek Egyiptomban már egyszerűsítettek illetve rénszarvasuk sem volt; alternatív esetekről (gyakori homlokon való megjelenésről és egyebekről) lásd [[C/Csudaszarvas#Napot agancsai között hordó Csudaszarvas – mi van a Csudaszarvas homlokán\|Napot agancsai között hordó Csudaszarvas – mi van a Csudaszarvas homlokán]] cím/alcímet egy összefoglaló anyaggal). A kehely a [[M/Mozsár\|mozsár]]hoz hasonlóan méhjelkép, azaz a méh és szarvak összefüggését itt is megtaláljuk, ahogy [[S/Szarv\|szarv]] címhez betéve is írtuk.  
@@ -106,14 +106,14 @@ Rigby hasonló megfogalmazással él, ahogy én szoktam Nap az Orionban-nal:
 Az igazsághoz hozzátartozik, hogy – ahogy [[O/Ozirisz és Széth\|Ozirisz és Széth]] címnél láttuk – Ozirisz nevének hieroglif jelei közül az első szintén trónus, melyhez az usz \[ws\] hangérték járult, ez pedig szinte teljesen megegyezik az Asz/Esz/Íz hangértékkel.  
 
 Az alábbi passzus [[E/Észak és dél#Északi népek délre költözése (és fordítva)\|északi népek délre költözése (és fordítva)]] cím/alcímnél is szerepelt:  
-Rigby ugyebár (forrásai alapján, azaz nem saját kútfőből) a három híres istenség, Ozirisz, Széth és Ízisz égi helyét a cirkumpoláris csillagképeknél keresi. Mivel Egyiptomban a halotti kultusznak komoly hagyományai voltak és mivel náluk ezen Medve és más csillagképek a látóhatár közelében voltak láthatóak és mivel a napi időciklusban a Nap a Földbe tér meghalni és onnan is támad fel (lásd még hasonló témát precessziós Nagy Éves vonalon JMJ adatai mentén [[G/Galactic centre\|Galactic centre]]), valamint mivel az északi csillagképek kapcsán szó volt arról, hogy a [[N/Nap – halott Nap\|Nap – halott Nap]] helyét jelölik, valamint mivel a halál, ahogy JM több helyen leírta, a Napra nézve magzati lét, és mivel a magzat anyaméhben fejlődik, és mivel az [[E/Ég\|ég]] címnél egyiptomi kontextusban méhről és Medvéről is esett szó, ugyanazon (szóalakiságú) `ah` illetve `ak` szavak kapcsán, Ízisz méhén/anyaistennő szerepén keresztüli kapcsolata az északi Rigby által taglalt csillagképhez indokoltnak mondható, de ez nem eredeti képzet: az északról levándorolt népek új csillagmitológiai képzeteket vettek fel. Ezzel szemben az egyiptológusok/amatőr kutatók azt gondolják, hogy Egyiptomban minden eredeti, a nyelv és a csillagászati alapú képzetek és ábrázolások is. Nem. Már eleve az döntő jelentőségű, hogy az északi szarvas délen egyszer szarvasmarha (illetve kecske) lesz, másrészt medve (arab `dubb`) hogy kerül képbe náluk? Csak úgy magyarázható mindez, ha belátjuk, északi népek költöztek délre.  
+Rigby ugyebár (forrásai alapján, azaz nem saját kútfőből) a három híres istenség, Ozirisz, Széth és Ízisz égi helyét a cirkumpoláris csillagképeknél keresi. Mivel Egyiptomban a halotti kultusznak komoly hagyományai voltak és mivel náluk ezen Medve és más csillagképek a látóhatár közelében voltak láthatóak és mivel a napi időciklusban a Nap a Földbe tér meghalni és onnan is támad fel (lásd még hasonló témát precessziós Nagy Éves vonalon John M. Jenkins adatai mentén [[G/Galactic centre\|Galactic centre]]), valamint mivel az északi csillagképek kapcsán szó volt arról, hogy a [[N/Nap – halott Nap\|Nap – halott Nap]] helyét jelölik, valamint mivel a halál, ahogy Jankovics Marcell több helyen leírta, a Napra nézve magzati lét, és mivel a magzat anyaméhben fejlődik, és mivel az [[E/Ég\|ég]] címnél egyiptomi kontextusban méhről és Medvéről is esett szó, ugyanazon (szóalakiságú) `ah` illetve `ak` szavak kapcsán, Ízisz méhén/anyaistennő szerepén keresztüli kapcsolata az északi Rigby által taglalt csillagképhez indokoltnak mondható, de ez nem eredeti képzet: az északról levándorolt népek új csillagmitológiai képzeteket vettek fel. Ezzel szemben az egyiptológusok/amatőr kutatók azt gondolják, hogy Egyiptomban minden eredeti, a nyelv és a csillagászati alapú képzetek és ábrázolások is. Nem. Már eleve az döntő jelentőségű, hogy az északi szarvas délen egyszer szarvasmarha (illetve kecske) lesz, másrészt medve (arab `dubb`) hogy kerül képbe náluk? Csak úgy magyarázható mindez, ha belátjuk, északi népek költöztek délre.  
 
 Ami még a [[S/SZÉK\|SZÉK]] és [[S/Seat\|seat]] szavakat illeti, mindkettő csillag jelentésű eredetre vihető vissza. Lásd [[S/Sacchar-\|sacchar-]] és [[S/Sidereal\|sidereal]].  
 
 ## Ízisz Íj csillagképre utaló ábrázolásai
 
 A Szíriusz az [[I/Íj csillagkép\|Íj csillagkép]] alkotója. Istár kapcsán is szóba jött a Ban ([[M/Mul.Pan\|Mul.Ban]]) csillagkép.  
-![assets/Ízisz_image7.jpeg](/img/user/I/assets/%C3%8Dzisz_image7.jpeg)  
+![assets/Ízisz_image7.jpeg|invert_dark](/img/user/I/assets/%C3%8Dzisz_image7.jpeg)  
 Ezek után nem meglepő, hogy Greg Rigby The God Secret című könyvének 91. oldalán nyílvesszős ábrázolásokat találunk hieroglif jelében (melyeket GR és forrása helytelenül hajnalra utaló napsugár-motívumnak tart) (ezen jeleket sehol sem találtam a neten; azért kerestem, mert nem írja ki, hogy Goddess alatt Íziszt vagy esetleges a korábbi passzusban szintén szóba hozott [[N/Nephthys\|Nephthys]]t érti alatta).  
   
 
@@ -145,7 +145,7 @@ Amikor Isis ezt megtudta, újra kutatni kezdett férje után, vitorlázva a nád
 Isis a megtalált Oziris testének egy darabját a szertartás követelményeinek megfelelően eltemette. Elkészítette a phallosz másolatát is és nagy szertartással beszentelve, a helyére tette. Mindennek a törvényes szertartásos folyamatát Anubisz a balzsamozó pap szerepkörében el tudta végezni, mert összeállította azokat, mint egy múmiát, átváltoztató mágiával szorosan bepólyázva, vászon szalagokba. Ekkor Oziris kezdett feléledni az Örökkévalóság, az Örök Időtlenség szereplőjének.  
 
 Egy másik hasonló jellegű kép Bakos Attila A Duna Evangéliuma című könyvének 266. oldalán jött elő (én itt már egy jobb minőségű képet közlök).  
-![assets/Ízisz_image9.jpeg](/img/user/I/assets/%C3%8Dzisz_image9.jpeg)  
+![assets/Ízisz_image9.jpeg|invert_light](/img/user/I/assets/%C3%8Dzisz_image9.jpeg)  
 A képaláírás szerint a haldokló...  
 - Ugye a nyári napfordulós téridőbeli pont a haldoklás kezdetének helye és a hatalomátadás helye, egyúttal a nemzés ([[K/Kutyanemzés\|kutyanemzés]]) helye.  
 
