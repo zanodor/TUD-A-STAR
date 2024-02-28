@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nyúl/","title":"Nyúl","tags":["Englishtexttranslated"],"created":"2023-10-13T01:41","updated":"2024-02-02T03:34"}
+{"dg-publish":true,"permalink":"/N/Nyúl/","title":"Nyúl","tags":["Englishtexttranslated"],"created":"2023-10-13T01:41","updated":"2024-02-28T21:35"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Pintye Mihály Nyelvünkről című az Ősi Gyökér 2008/2. sz. megjelent cikkében azt írja, a nyúl onnan kapta a nevét, hogy feltűnő nyúlványai (fülei) vannak. Igen ám, ahogy [[Z/Zodiac\|zodiac]], [[D/Dolphin\|dolphin]] és más címnél ([[K/Kutya\|kutya]] például) láttuk, az állatok nevei csillagászati eredetűek (lehetnek).  
 
-![assets/Nyúl_image1.png](/img/user/N/assets/Ny%C3%BAl_image1.png)  
+![assets/Nyúl_image1.png|invert_dark](/img/user/N/assets/Ny%C3%BAl_image1.png)  
 
 #### Richard H. Allen Star Names...  
 
