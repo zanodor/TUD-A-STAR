@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tejútanya-testtájékok/","title":"Tejútanya-testtájékok","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-01T02:57","updated":"2024-02-02T04:14"}
+{"dg-publish":true,"permalink":"/T/Tejútanya-testtájékok/","title":"Tejútanya-testtájékok","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-01T02:57","updated":"2024-02-29T00:45"}
 ---
 
 
@@ -47,14 +47,14 @@ Jankovics folytatja:
 > Mindezek alapján már korábban az volt a véleményem, hogy a Siriusban a betlehemi csillag mithraikus előképét ismerhetjük föl, vagyis azt a Csillagot, amelyet a (Napban) megtestesülő csillagisten (szűz) anyjával azonosíthatunk. Másképp fogalmazva a Sirius az az égitest, amelyben az isten (csillaglelke) fogantatásától a születéséig tartózkodik. (A Nap és a Sirius összekapcsolására nézve: Egyiptomban a kettő egyesülése a Nílus közelgő áradását jelezte, ezért ehhez az eseményhez igazították az évkezdetet.) A szentírási elbeszéléshez egyszerűsítve a képet: a Sirius lehet a betlehemi istállóban tartózkodó Mária égi képmása, akihez a napkeleti bölcsek, azaz az Orion övének csillagai "igyekeznek", s lehet a hozzá vezető betlehemi csillag, melyet útban Betlehembe a mondott három csillagkirály követ. A betlehemi csillag, mint írtam fentebb, éppoly sokértelmű jelkép, mint a többi, amely körül az egymásnak mégoly ellentmondásosnak tűnő magyarázatok is elférnek (Jankovics 1997: 31-33).  
 - Ugyan John Major Jenkins Galactic Alignment című könyvében nem szól (annyit) a Tejútistennőről és a fejéről sem, van olyan megjegyzése, ami bizonyítja, hogy a Tejútanya koronája, azaz feje a [[G/Galactic anticentre\|Galactic anticentre]] irányában van: ő persze nem Szíriuszt ír, hanem Pleiadokat, de a GA irányában van az Ikrek csillagkép is (hiszen a [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]] a napfordulós tengely), de az Auriga/Szekeres csillagkép is, amelyet a hivatalos csillagászat a galaktikus antiközpontnak mond. <br/>
 Szumma szummárum, a (fekvő?) Tejútanya-test egyik (helyes?) értelmezése szerint a feje az Orion/Szíriusz irányában van. <br/>
-JMJ írja másutt:  
+John M. Jenkins írja másutt:  
 > The doctrine of the celestial gateways involves the shifting solstice axis in relation to a background axis fixed to two important points along the zodiac. We might already suspect that the Pleiades and the Galactic Center serve as the crown and root of this sidereal framework.  
 > The Galactic Anticenter is the topmost point in this new framework, because it is the direction out of our galaxy, into transgalactic domains. The Pleiades, like the Great Bear, are a short distance from the highest point of the system, but nevertheless they serve as a mythic and symbolic indicator.  
 > —  
 > Az égi kapuk tana magában foglalja a napforduló tengelyének eltolódását az állatöv két fontos pontjához rögzített háttértengelyhez képest. Már sejthetjük, hogy a Plejádok és a Tejútközpont e sziderikus keret koronájaként és gyökereként szolgálnak.  
 > A Galaktikus Anticentrum a legfelső pont ebben az új keretben, mert ez az irány a galaxisunkból kifelé, a transzgalaktikus tartományokba vezet. A Plejádok, akárcsak a Nagy Medve, rövid távolságra vannak a rendszer legmagasabb pontjától, mégis mitikus és szimbolikus jelzőként szolgálnak.  
 - Az értelmezésből kiderül, hogy a Nyilasban van az északi kapu, az Ikrekben a déli. Ergo jelenleg – a Vaskorban – a Tejútfa fejjel lefelé áll (a fa gyökere van északon) és csak 13000 év múlva egyenesedik ki az Aranykorba érve.  
-JMJ a GC nem a Tejútfa koronájával, hanem a gyökerével való megfeleltetését érzi tehát helyesnek (lásd könyvének 266. oldalát), és JMJ-hez hasonlóan ismeri a feje tetején álló fa képzetét.  
+John M. Jenkins a GC nem a Tejútfa koronájával, hanem a gyökerével való megfeleltetését érzi tehát helyesnek (lásd könyvének 266. oldalát), és JMJ-hez hasonlóan ismeri a feje tetején álló fa képzetét.  
 Legutóbb [[Z/Zep Tepi\|Zep Tepi]] címnél Dobos Csanád magyarázatát a [[D/Dzsed\|dzsed]]-oszloppal kapcsolatosan azzal egészítettem/javítottam ki, hogy az oszlop kettős-bumszlis teteje az Ikrekre utalhat. Ergo a 13000 évvel állított Nyilas-Ikrek tengely fája már jó irányban áll, Nyilassal alul.  
 - Érdekes még:  
 > Virgo, Sirius (the Galactic Anticenter indicator), and the Galactic Center are geometrically related in the sky, and Isis has found a home in each location.  
@@ -68,7 +68,7 @@ De más test-tájék is beazonosítható. E Jankovics Marcell Jelkép-kalendári
 > A csillagszülő Nutról, **a Tejutat megszemélyesítő faanyáról azt tartották, hogy a Fiastyúk (Pleiadok) csillagzat a köldöke**. Az anya testén a köldök jelzi a méh, a fogamzás helyét. Nut köldöke a Fiastyúk a Tejúttal szomszédos, és éppen a nappályán, a Kos és a Bika cikkelyek határán van. Kb. 4000 evvel ezelőtt itt volt a tavaszpont, a napisten fogamzásának a helye.
 
 Viszont másutt a köldök a [[S/Sarkcsillag\|Sarkcsillag]]:  
-JM Ahol a madár se jár című könyvében a Tejútistennő köldökét és ezzel méhét a Sarkcsillaggal azonosítja[^1] ([[G/Göncöl\|Göncöl]] címnél is szerepelt):  
+Jankovics Marcell Ahol a madár se jár című könyvében a Tejútistennő köldökét és ezzel méhét a Sarkcsillaggal azonosítja[^1] ([[G/Göncöl\|Göncöl]] címnél is szerepelt):  
 > A Sarkcsillagot hordozó szarvas képzete szervesen illeszkedik a Nappal, kereszttel, világfával "viselős" állatistennő képzetéhez. **A Sarkcsillag nemcsak a világfába vert arany Szögcsillag, de a tejútistennő köldöke is**, s egyiptomi példa nyomán nagyon valószínű, hogy a régiek úgy hitték, a télen halott (a magas északon hosszabb időre a horizont alatt rekedt) Nap északon, az istennő méhében (a köldöke mögött) várja keleti újjászületését.  
 
 Kozma Judit Magyar és német népi csillagnevek című tanulmányában hozza a (Sarkcsillagot is bíró Kis) Göncöl népi Tündérasszony csillaga és Nagyboldogasszony csillaga neveit. Mivel az első asszony a Tejútanya, és a Göncöl is a Tejúton van, nyilvánvaló, hogy efféle nevet lehetett adni neki.  
@@ -90,15 +90,15 @@ A zavart mélyíti, hogy másutt száj és vagina/végbélnyílás egynek kezelt
 > A mágikus szimbolizmus szempontjából a Nílus az anyaistennőt képviselte, akinek éves áradása szó szerint megteremtette Egyiptom földjét azáltal, hogy a partjainál felhalmozódott gazdag iszapot lerakta. A "fizikai földrajz" legősibb formája a női alakon alapult; a lenti nő volt a föld; a magasban lévő nő (azaz az égi [[N/Nut\|Nut]]) az ég; és akár a lenti nő, a Nagy Medve csillagkép – a Hét Csillag Istennője – felé mutató lábakkal, akár maga a Nagy Medve, Belső-Afrika volt a világ méhe, Egyiptom volt a vulva vagy az északi kijárat, maga a Nílus pedig a "lenti" nő vulvája.  
 - Az "Égi Nő" Nu neve a [[T/T#T nőnemet jelölő végződés\|nőnemet jelölő 't' végződés]]sel már egyiptomi, de nem nehéz meglátni a magyar [[N/Nő\|nő]] (vö. kínai `nü` = nő) szavunkat.  
 
-![Tejútanya-testtájékok_image1.png](/img/user/T/assets/Tej%C3%BAtanya-testt%C3%A1j%C3%A9kok_image1.png)  
+![Tejútanya-testtájékok_image1.png|invert_dark](/img/user/T/assets/Tej%C3%BAtanya-testt%C3%A1j%C3%A9kok_image1.png)  
 Az [alábbi](https://youtu.be/BKlduHsQOTc) előadásban (lásd 21:50-nél) Dr. Gyárfás Ágnes a mellékelt ábra várát a címének megfelelően Tündérszép Ilona várának mondja és nyilván [[G/Gula\|Gula]] vagy [[B/Bau\|Bau]] istennővel azonosítaná, de így nem mondja ki.  
 Az Academia.edu oldalon Srini Kalyanaraman is Gulával azonosítja:  
 > Depicted above the socle on one of the seals is a seated dog, the symbol of the goddess Gula, and flanking the other are symbols of Ea.  
 > —  
 > Az egyik pecsét talapzata felett egy ülő kutya, Gula istennő szimbóluma látható, a másik pecsétet pedig Ea szimbólumai szegélyezik.  
 
-Az kétségtelen, hogy a nyárban délelő Nap idején van a másik együttállás Szírusszal (lásd még [[S/Szíriusz heliakus kelése\|Szíriusz heliakális kelése]]); erre vonatkozóan írja JM is Jelkép-kalendáriumában:  
-> Ami az Anna ünnep dátumát ([[J/Július 26\|július 26]].), a fentebb említett Szent Anna feltételezett halála napját illeti, itt megint csak [[S/Szíriusz\|Szíriusz]]ra való utalást történt. Ahogy JM másutt, Pantaleonról (ünnepnapja július 27.) szóló fejezetében írja (a két ünnepnap közt egyetlen nap az eltérés!), napja abba az időszakba esik, amikor a [[S/Szíriusz\|Szíriusz]] távol van, "halott": fénye belevész a Nap fényébe.  
+Az kétségtelen, hogy a nyárban délelő Nap idején van a másik együttállás Szírusszal (lásd még [[S/Szíriusz heliakus kelése\|Szíriusz heliakális kelése]]); erre vonatkozóan írja Jankovics Marcell is Jelkép-kalendáriumában:  
+> Ami az Anna ünnep dátumát ([[J/Július 26\|július 26]].), a fentebb említett Szent Anna feltételezett halála napját illeti, itt megint csak [[S/Szíriusz\|Szíriusz]]ra való utalást történt. Ahogy Jankovics Marcell másutt, Pantaleonról (ünnepnapja július 27.) szóló fejezetében írja (a két ünnepnap közt egyetlen nap az eltérés!), napja abba az időszakba esik, amikor a [[S/Szíriusz\|Szíriusz]] távol van, "halott": fénye belevész a Nap fényébe.  
 
 Másutt pedig, szintén erre az időszakra vonatkozóan (teljes történetet lásd [[S/Szent László és a leányszöktető kun\|Szent László legenda]]):  
 > Figyelemre méltó az is, hogy Lászlót az ének csillagként köszönti ("Csillagok közt fényességes csillag"), hogy felmagasztalásának közvetlen **oka egy Nappal együtt delelő csillag, mely csillag az időpont (1192. június 27.) ismeretében** csak az Orionnak vagy valamely szomszédos csillagképnek a fényes csillaga, **leginkább a Szíriusz lehetett**, amit a pápai küldöttek éppen láthattak is volna[^3], ha akkor napfogyatkozás sötétíti el az eget.  
