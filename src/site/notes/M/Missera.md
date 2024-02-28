@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Missera/","title":"Missera","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-16T08:03","updated":"2024-02-10T04:10"}
+{"dg-publish":true,"permalink":"/M/Missera/","title":"Missera","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-16T08:03","updated":"2024-02-28T21:26"}
 ---
 
 
@@ -56,7 +56,7 @@ Továbbá, a görögöknél:
 - A kérdés is felvetődik: [[H/Hunor és Magor\|Hunor és Magor]] is ilyen félesztendőkön utalkodó Napok? Lásd erről [[F/Fehér és fekete#Fehér és fekete Napistenek ill. mitológiai alakok – világos és sötét félév ikeristenségei\|fehér és fekete]] címnél.  
 
 Az ekliptika csatolt szinusz-görbéje is két (kis éves) félévre osztható. Igaz, a tagolás itt napéjegyenlőségi pontoktól napéjegyenlőségi pontokig tart, nem napfordulóktól napfordulókig.  
-![assets/Missera_image1.png](/img/user/M/assets/Missera_image1.png)  
+![assets/Missera_image1.png|invert_light](/img/user/M/assets/Missera_image1.png)  
 
 Ami a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] (élet)útjának négyes felosztását, annak kettőre való egyszerűsítését illeti, egyrészt a csatolt szinusz-görbe mutat rá, miért kellett felezni, másrészt pedig az, hogy mi okoz fontosabb változást a Nap-Föld fényviszonyok napi, éves és [[N/Nagy Év\|Nagy Év]]es ciklusában.  
 
@@ -64,7 +64,7 @@ Ami a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] (élet)útjának n�
 
 ...alábbi passzusa is végül is erről szól ([[J/Jézus\|Jézus]] címnél is szerepelt):  
 > A naphéroszok életrajzában az olyan sorsforduló, mint a születés (napszak szerint napkelte, éves szinten [[T/Téli napforduló\|téli napforduló]] vagy [[T/Tavaszpont\|tavaszpont]]) sokkal jelentőségteljesebb, mint az azt követő átmeneti életszakasz, a gyermek- és serdülőkor. Nem csoda, hiszen a kelő Nap lényegesen szembetűnőbb változást hoz az éjszakához képest, mint a délelőtti Nap a kelő Naphoz képest, a naptári fordulatok pedig szintén igazi fordulatot jelentenek. (Jézus evangéliumi élettörténetében, ami igazán csodálatos, az fogantatása és születése illetőleg feltámadása; ifjúságáról viszont nem jegyeztek fel semmi említésre méltót.)  
-- JM nem mutat rá a lényegre. Ahogy [[P/Pokol\|pokol]] címnél legutóbb szóltunk róla, eredetileg, csillagászati megfontoltásból, csak a (ráádásul nyilván először hyperboreai) Kis Évet figyelembe véve valóban az évet felező pont a tavaszpont volt: tavaszponttól őszponting jár a Nap az [[A/Alvilág\|alvilág]]ban, az [[E/Égi egyenlítő\|égi egyenlítő]] alatt. Később viszont, a [[F/Föld tengelyferdülése\|Föld tengelyferdülése]] után, a hyperboreai viszonyok megszűnésével és a migrációval, a precesszió felismerésével a Nagy Évben fontosabb téli és nyári napfordulós pontok alapján történő évfelezés vált fontosabbá (lásd erről Tilak féle ind anyagot [[B/Bal és jobb\|bal és jobb]]). Ez is rámutat, hogy a [[M/Mese\|mesé]]k \[igen, éppen meséknek hívjuk őket\] leglényegesebbjei a precesszióval foglalkoznak.  
+- Jankovics Marcell nem mutat rá a lényegre. Ahogy [[P/Pokol\|pokol]] címnél legutóbb szóltunk róla, eredetileg, csillagászati megfontoltásból, csak a (ráádásul nyilván először hyperboreai) Kis Évet figyelembe véve valóban az évet felező pont a tavaszpont volt: tavaszponttól őszponting jár a Nap az [[A/Alvilág\|alvilág]]ban, az [[E/Égi egyenlítő\|égi egyenlítő]] alatt. Később viszont, a [[F/Föld tengelyferdülése\|Föld tengelyferdülése]] után, a hyperboreai viszonyok megszűnésével és a migrációval, a precesszió felismerésével a Nagy Évben fontosabb téli és nyári napfordulós pontok alapján történő évfelezés vált fontosabbá (lásd erről Tilak féle ind anyagot [[B/Bal és jobb\|bal és jobb]]). Ez is rámutat, hogy a [[M/Mese\|mesé]]k \[igen, éppen meséknek hívjuk őket\] leglényegesebbjei a precesszióval foglalkoznak.  
 
 [[J/Jézus\|Jézus]] és [[F/Feltámadás\|feltámadás]] címnél pedig arról (is) volt szó, hogy egyes kultúrákban, aszerint, hogy mikor kezdik a naptári évet, elcsúszás van a nevezetes negyedelő pontok jelentősége alapján:  
 A Biblia szerint Jézus keresztrefeszítése nem napfordulón történt, hanem a tavaszi napéjegyenlőségkor.  
@@ -128,7 +128,7 @@ Itt emlékezhetünk arra, amit Magyar Adorján írt (lásd bővebben [[G/Good\|g
 
 Mármost arról [[C/Canton\|canton]] és [[C/Continent\|continent]] címnél is volt szó, hogy a területeket leginkább vizek, szárazföldön folyók határolják el egymástól (ma is: sok esetben a folyó jelöli ki a megye- vagy országhatár vonalát).
 
-Határolni viszont nemcsak földi területeket lehet, hanem elsősorban ([[S/Szakasz\|szakasz]]olni; lásd erről is [[N/Nome\|nome]], valamint lásd még [[S/Szakrális geometria\|szakrális geometria]]) égi területeket, a [[T/Téridő\|téridő]]t kellett. Úgy tűnik, Tilak Orionjában foglaltak alapján is, hogy az ég egyik szakaszolási, felezési módja a Skorpió-Nyilas közötti, JMJ adata szerint a Nyilas 6. fokára belőhető Tejútközpont (lásd [[G/Galactic centre\|Galactic centre]]) mellett az Orion-Szíriusz csillagzatokat, csillagokat magában foglaló [[N/Nyíl\|nyíl]]/[[T/Tír\|Tír]]/[[T/Tistrya\|Tishtrya]]/[[M/Mrigashira\|Mrigashira]] csillagkép kellett legyen (márpedig ezek: a Tejút két ezen fontos helye egymással szemben álló helyeket jelölnek[^5]).  
+Határolni viszont nemcsak földi területeket lehet, hanem elsősorban ([[S/Szakasz\|szakasz]]olni; lásd erről is [[N/Nome\|nome]], valamint lásd még [[S/Szakrális geometria\|szakrális geometria]]) égi területeket, a [[T/Téridő\|téridő]]t kellett. Úgy tűnik, Tilak Orionjában foglaltak alapján is, hogy az ég egyik szakaszolási, felezési módja a Skorpió-Nyilas közötti, John M. Jenkins adata szerint a Nyilas 6. fokára belőhető Tejútközpont (lásd [[G/Galactic centre\|Galactic centre]]) mellett az Orion-Szíriusz csillagzatokat, csillagokat magában foglaló [[N/Nyíl\|nyíl]]/[[T/Tír\|Tír]]/[[T/Tistrya\|Tishtrya]]/[[M/Mrigashira\|Mrigashira]] csillagkép kellett legyen (márpedig ezek: a Tejút két ezen fontos helye egymással szemben álló helyeket jelölnek[^5]).  
 Kimondottan a(z ezek szerint mégsem oly régi!) Mrigashira név is utalhat arra, hogy egyrészt a Tejúton járunk, másrészt területeket is felosztunk.  
 (Az idő szakaszolása, határolása is kötődhet, ha nem is a marhához, de [[M/Mars\|Mars]]hoz, a Mars havához, a későbbi márciushoz. (Mrigashirsa holdházban, a Skorpióban a Mars uralkodik is.)  
 Ugye a Kos havaként március azért is alkalmas erre a szerepre, mert a nyugati asztrológia szerint a Kos 0. fokához mérték a [[T/Tavaszpont\|tavaszpont]] elmozdulását is.)  
@@ -166,7 +166,7 @@ Ugye a Kos havaként március azért is alkalmas erre a szerepre, mert a nyugati
 </div></div>
   
 - Az alsó/sehol/túl világ nem azonos az alvilággal; [[A/Annwfn\|Annwfn]] a kelták másvilága, se mennyország, se pokol, hanem egy e világgal párhuzamos világ.  
-![assets/Missera_image2.png](/img/user/M/assets/Missera_image2.png) 
+![assets/Missera_image2.png|invert_dark](/img/user/M/assets/Missera_image2.png) 
 - Minden továbbit lásd Druidical Astrology című írásában.  
 
 ## Lábjegyzetek
@@ -178,7 +178,7 @@ Száznyolc túl hosszú és bonyolult. Az egyszerűség kedvéért rövidül le:
 Az ókori Egyiptomban is négy Napot azaz Napminőséget különböztettek meg: a kelő (neve Heper), delelő és a lenyugvó Nap (Atum?) alkotta a nappali triászt, mely kiegészült az éjszakai (halott) napisten (Ozirisz) személyével.  
 
 [^3]: Lábjegyzet:  
-Másutt JM A Nap könyvének 204. oldalán Héraklész és Apollón párosáról szól, mint hanyatló és emelkedő Nap féléves urairól. A 222. oldalon bővül a kör: a Héraklésszel szemben álló halott Napistennek beillő alakok közül Augeiász és Eurüsztheusz neve is említésre kerül.  
+Másutt Jankovics Marcell A Nap könyvének 204. oldalán Héraklész és Apollón párosáról szól, mint hanyatló és emelkedő Nap féléves urairól. A 222. oldalon bővül a kör: a Héraklésszel szemben álló halott Napistennek beillő alakok közül Augeiász és Eurüsztheusz neve is említésre kerül.  
 
 [^4]: Lábjegyzet:  
 Persze az [[E/Égi egyenlítő\|égi egyenlítő]] (ahol az Orion övcsillgai ma vannak) is felezi az eget:  
@@ -187,5 +187,5 @@ Másutt:
 A Nap éves útja a valóságban, de a mitopoétikus felfogás szerint is, két félkörre, félévre szakad. A napéjegyenlőségi pontok szerint egy téli és egy nyári fél évre, a napfordulók szerint az emelkedő és a hanyatló Nap fél esztendejére.  
 
 [^5]: Lábjegyzet:  
-Az egyik legfontosabb dolog a Tejúttal kapcsolatosan, hogy **két félgömbre osztja az eget**. A [[H/Hostile\|hostile]] címnél taglalt [[O/Oszt\|oszt]] is érdekes szó, annál is inkább mert alaki párja az [[U/Üst\|üst]], melyről JM azt írja, hogy animista felfogás szerint a föld közepe (köldöke) üst alakú [[G/Gödör\|gödör]], az ég "megfordított" alakja: a nyílást el lehet zárni, hogy az ártó "szellemek" ne jöhessenek ki belőle.  
+Az egyik legfontosabb dolog a Tejúttal kapcsolatosan, hogy **két félgömbre osztja az eget**. A [[H/Hostile\|hostile]] címnél taglalt [[O/Oszt\|oszt]] is érdekes szó, annál is inkább mert alaki párja az [[U/Üst\|üst]], melyről Jankovics Marcell azt írja, hogy animista felfogás szerint a föld közepe (köldöke) üst alakú [[G/Gödör\|gödör]], az ég "megfordított" alakja: a nyílást el lehet zárni, hogy az ártó "szellemek" ne jöhessenek ki belőle.  
 Ezen üst viszont tartalmazza azt az üs, us szócskát, melynek Varga Géza szerinti képjele a női szeméremnyílás, mely nyilvánvalóan a Tejútközpont hasadéka.  
