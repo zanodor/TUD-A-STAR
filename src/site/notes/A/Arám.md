@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arám/","title":"Arám","created":"2023-10-20T06:58","updated":"2023-11-08T03:31"}
+{"dg-publish":true,"permalink":"/A/Arám/","title":"Arám","created":"2023-10-20T06:58","updated":"2024-02-28T17:25"}
 ---
 
 
@@ -19,7 +19,7 @@ Ugyanakkor [[A/Arimaszpa\|arimaszpa]] címnél éppen szóltunk arról, hogy a n
 > A sanskrit `ârâma` (= gaudium) persa `ram`, `aram`, magyar [[O/Öröm\|öröm]] szók \[egyek\], s az öröm vagy Aram föld nevéből fejlettek ki (l. öröm) ([Lásd 197. old.](zotero://open-pdf/library/items/DFI47XPY?page=197&annotation=2I2HGFZV))
 
 Ezen arám név hangátvetve a mellékelt képen taglalt ([[L/Luhunga\|Luhunga]] címnél szövegesen is szereplő) Amar lehet (nos, ha átvetjük, lehet).  
-![assets/Arám_image1.png](/img/user/A/assets/Ar%C3%A1m_image1.png)  
+![assets/Arám_image1.png|invert_dark](/img/user/A/assets/Ar%C3%A1m_image1.png)  
 Ez viszont akár lehet valamiféleképp a [[R/Ram\|ram]] = kos nevére utaló (az arab `ārām` = gazellák is erre utalhat, bár ennek egyes száma `iram`!) és ezen a ponton magam is engedek a csábításnak, hogy a ram megfordításában a magyarok (Kos, [[K/KUS\|KUS]] = Életfa/Tejút népe; vesd össze latin `ramus` = ág: lásd [[R/Ramify\|ramify]]) Mar nevét lássam meg.  
 [[H/Haram\|Haram]] is hasonló név hehesen.  
 Arám nevű, Arméniával kapcsolatba hozott őskirályról és az arámi népről Fáy Elek A magyarok őshona című könyvének 12-13. oldalán ír. (Lásd még [[O/Örmény\|Armen]].)  
