@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2024-02-01T11:12"}
+{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2024-02-28T17:26"}
 ---
 
 
@@ -14,8 +14,8 @@ Perzsa nyelven `asb` = ló. `Aspa` ló Aveszta nyelvben, `asp` a pahlaviban, az 
 Előjönni látszik egy bizonyos perzsa **Visasp** tűzmágus nevében, kit Ipolyi Arnold Magyar mythologia című könyvének 251. oldala alján említ, az [[A/Arimaszpa\|arimaszposz]] névben, valamint az Oláh Imre Ősi jelképiség c. az Ősi Gyökér 2011/4. sz. megjelent cikkében Denkarttól idézett, Feridunra vonatkoztatott **Aspigan** névben.  
 
 Lehet viszont csillagászati név is, annál is inkább, mert a talán hun-magyar eredetű holdház/[[N/Nakshatra\|nakshatra]], Ashvini nevében is megvan. Ashvinit az Ashvinok feleségének tartják, minthogy az -i végződés (inkább -ni = né, mint a Tilak által adatolt Indrani névben) nőiséget jelent. Az Ashvin Ős-Fény, Ász-Fény lehet, és lófejű ikrekre utal (ennek ellenére mégsem az [[I/Ikrek csillagkép\|Ikrek csillagkép]]hez tartozó holdház, ahogy a mellékelt képen is látni, és nyilván nem a precesszió miatt).  
-![assets/Asb_image1.png](/img/user/A/assets/Asb_image1.png)  
-![assets/Asb_image2.jpeg](/img/user/A/assets/Asb_image2.jpeg)  
+![assets/Asb_image1.png|invert_dark](/img/user/A/assets/Asb_image1.png)  
+![assets/Asb_image2.jpeg|invert_dark](/img/user/A/assets/Asb_image2.jpeg)  
  
 [[A/Agni\|Agni]]ról szólva, [[J/Janus\|Janus]] címnél írottak szerint kiderül, hogy a (zoroasztriánus Iránhoz hasonlóan; lásd [[T/Tavaszi évkezdés\|tavaszi évkezdés]]) Kossal szokták kezdeni az évet.  
 [Ezen](https://en.m.wikipedia.org/wiki/List_of_Nakshatras) oldal adatai alapján pedig az derül ki, hogy Indiában a [[B/Bárány\|bárány]] szavunkkal azonos Bharani viszont már nem a kezdő nakshatra, mert a szintén kettős, Ikrekből Kosba valamiféleképpen átkerült Ashvini lett az első, míg Bharani a második helyre szorult. Hogy hogyan került a lófejű ikerpár a tavaszi évkezdő helyre, nos, talán az lehet, hogy elfeledték Agni bárányságát/kétfejűségét, vagy valószínűbben a valaha évkezdő Ikrek (Tilak Orionjából is ismerjük a nyári évkezdést) emlékének adózva átmentették. ([[T/Tavaszi évkezdés\|Tavaszi évkezdés]] címhez is betéve.)  
