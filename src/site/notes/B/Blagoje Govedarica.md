@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Blagoje Govedarica/","title":"Blagoje Govedarica","tags":["dg_uploaded"],"created":"2023-10-23T05:42","updated":"2023-10-25T01:03"}
+{"dg-publish":true,"permalink":"/B/Blagoje Govedarica/","title":"Blagoje Govedarica","created":"2023-10-23T05:42","updated":"2024-02-28T17:29"}
 ---
 
 
@@ -8,7 +8,7 @@
 [[G/Grandpierre Atilla\|Grandpierre Atilla]] írásaiban több helyen előjön Blagoje Govedarica, a hamburgi egyetem régész professzornőjének neve. Monográfiájának címe: Zeptertrager – Herrscher der Steppen, Govedarica, 2004, 436 oldalon, 56 ábrával és 8 fényképpel. A cím magyarul: Jogarhordozók – a puszták urai. A jogar szó jelentése: királyi kormánypálca. Vagyis ismét királyi népről van szó. A Govedarica által bemutatott régészeti feltárások arra utalnak, hogy ezen királyi felségjelvényű nép kultúrája Erdélyből indult i. e. 5100 körül.  
 Másutt, A szkíták székely eredete című írásában bővebben adja GA:
 > Fő következtetése: i.e. 5 100-tól kezdve a Kárpát-medencéből, pontosabban az Erdély-Felső-Tisza körzetből (I) jelentős népesség települt ki az Al-Dunához (II), a Meótiszhoz (III), a Volgakönyökhöz (IV) és a Kaukázusba (V) (1. kép).  
-![assets/Blagojegovedarica_image1.png|undefined](/img/user/B/assets/Blagojegovedarica_image1.png)  
+![assets/Blagojegovedarica_image1.png|invert_dark](/img/user/B/assets/Blagojegovedarica_image1.png)  
 
 Itt még érdemes megjegyezni Igor Manzura orosz régész nevét is (más írásaiban az ő eredményeire is hivatkozik).  
 
