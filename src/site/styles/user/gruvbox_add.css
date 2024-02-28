@@ -13,16 +13,16 @@ body {
   /* Norse rune font for hilarity Comes from dafont.com */
   --custom-font: "Norse";
   /* font-family: 'Norse'; */
+}
 
-  /* Dark mode */
-  .theme-dark .markdown-preview-view code,
-  .theme-dark .cm-s-obsidian span.cm-inline-code {
-    color: orange !important;
-  }
+/* Dark mode */
+.theme-dark .markdown-preview-view code,
+.theme-dark .cm-s-obsidian span.cm-inline-code {
+  color: orange !important;
+}
 
-  /* Light mode */
-  .theme-light .markdown-preview-view code,
-  .theme-light .cm-s-obsidian span.cm-inline-code {
-    color: black !important;
-  }
+/* Light mode */
+.theme-light .markdown-preview-view code,
+.theme-light .cm-s-obsidian span.cm-inline-code {
+  color: black !important;
 }
