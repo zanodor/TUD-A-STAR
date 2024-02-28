@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Egyszarvú csillagkép/","title":"Egyszarvú csillagkép","created":"2023-11-04T10:46","updated":"2024-02-10T03:46"}
+{"dg-publish":true,"permalink":"/E/Egyszarvú csillagkép/","title":"Egyszarvú csillagkép","created":"2023-11-04T10:46","updated":"2024-02-28T17:40"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 [[G/Gula\|Gula]] címnél volt már szó Dr. Gyárfás Ágnes őstörténész előadásából a Monoceros csillagképről, melynek (annak ellenére, hogy késői csillagképnek mondják) a helye az, amely elsődlegesen érdekes.  
 A mellékelt, [[K/Karácsony\|Karácsony]] és (függőleges állása miatt érdekes) [[T/Tejút\|Tejút]] címnél is szereplő kép Grandpierre Atilla [alábbi](http://www.grandpierre.hu/site/2013/11/karacsony-es-vonzas-torvenye-oshagyomanyunk-teljesebb-megvilagitasban/) weboldaláról való, és nyilván a Monoceros téli, karácsonyi állását (is) mutatja.  
-![assets/Egyszarvúcsillagkep_image1.png](/img/user/E/assets/Egyszarv%C3%BAcsillagkep_image1.png)  
+![assets/Egyszarvúcsillagkep_image1.png|invert_light](/img/user/E/assets/Egyszarv%C3%BAcsillagkep_image1.png)  
 
 A 17. századi elnevezés és rajz azért igen félrevezető, mert a szarvat rosszul rajzolják. Gyárfás Ágnes [[G/Gula\|Gula]] címnél álló rajzán is a [[C/Cassiopeia\|Cassiopeiá]]hoz hasonló módon rajzolja meg a szarvat.  
 Gyárfás Ágnes szerint ezt a Monocerost a régiek úgy nevezték, hogy Gula (ami azért furcsa, mert Gula csk. már előjött egyszer Vízöntőként (lásd [[G/Gula#Gula 2)\|Gula]]); itt még megadja a sumér `Gu-La` = tehén (a neten ökör, de az inkább [[G/GUD\|GUD]] sumérul) jelentését és felhozza a [[G/Gulya\|gulya]] és gulyás szavainkat. Ezt a Monocerost egy [[H/Híd\|híd]]nak mondja a két part között (a híd átjáró, és a [[N/Nibiru\|Nibiru]] és [[H/Héber\|héber]] címnél is szó volt átkelésről, nem beszélve [[S/Szíriusz mozgása\|Szíriusz mozgása]] címnél írottakról).  
