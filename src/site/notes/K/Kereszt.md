@@ -74,7 +74,7 @@ Lásd [[L/LU\|LU]] illetve Tomory Zsuzsa írását [[S/Székely-magyar rovásír
 
 És hogy tényleg mennyire egyszerű (de a [[V/Világmodell\|világmodell]] címnél tovább taglalása mégis komplex) képről van itt szó, azt Szűcs László Égre írott történelmében is írja:  
 > A grafikonon összegzek néhány fontos megállapítást, melyek nélkülözhetetlenek lesznek a későbbiek során. (4. ábra)  
-> ![assets/Kereszt_image2.png](/img/user/K/assets/Kereszt_image2.png)  
+> ![assets/Kereszt_image2.png|invert_dark](/img/user/K/assets/Kereszt_image2.png)  
 > Nevetségesen egyszerű ábra, de mégis mindennek az alfája, mert a világon az egyik legnagyobb hatalommal bíró szimbólumot rejti magában, mely a legnagyobb mértékben befolyásolta az emberiség történelmét, s ez pedig a kereszt. Ez a jelkép egyik világvallásunk hitrendszerének alapköve, alap emblémája, s mindamellett a magyar Szent Korona felülnézeti metszete is egyben.  
 - Folytatását lásd [[K/Kártya\|kártya]].  
 
@@ -102,7 +102,7 @@ Borbola János írja, hogy az idők kezdetétől a méter bevezetéséig mindenh
 > Megállapíthatjuk, hogy a másodperc, a méter és a láb hosszméret egysége – azaz a tér idő egysége – a Föld méreteinek és keringési idejének adataival szorosan összefügg.  
 - Amit nem ír, hogy a Föld volt a téridő jelének közepébe helyezve.  
 
-![assets/Kereszt_image4.jpeg](/img/user/K/assets/Kereszt_image4.jpeg)  
+![assets/Kereszt_image4.jpeg|invert_dark](/img/user/K/assets/Kereszt_image4.jpeg)  
 A minap a kezembe került majd egy évtizede általam – talán amolyan ihletett állapotban – rajzolt diagram. A bal oldali is sokatmondó az isteni közép által vezéreltséggel. A jobb oldali is, mert a Halak korszakra folyó Pap Gábor által is taglalt Vízöntő jellegzetességet mutatja: a mai reaktív sátáni kéz által vezetett ember ilyen. (A kép bővebb szöveggel [[V/Vízöntő korszak#Vízöntő tulajdonságok a Halak korszakban\|Vízöntő tulajdonságok a Halak korszakban]] cím/alcímhez került.)  
 
 Az alábbiakban sok mindenről lesz szó, de a [[K/Kereszténység\|kereszténység]] és [[K/Karácsony\|Karácsony]] címnél legutóbb írottak alapján kell mindent értelmezni.  
@@ -176,16 +176,16 @@ Itt hadd jegyezzem meg, hogy a [[N/Négy#Négy és az ötödik irány\|négy és
 ![assets/Kereszt_image15.png](/img/user/K/assets/Kereszt_image15.png)  
 Jankovics Marcell A Nap könyve című könyvében ír az égtájkeresztről (kialakulásáról szóló meggyőződését-nézetét nem fogadom el: ahogy a nyelv, úgy a jelképek is aranykori, csillagvalláskori, jól megszerkesztett illetve Istentől tökéletességükben készhez kapott(nak tűnő) termékek):  
 ![assets/Kereszt_image16.png](/img/user/K/assets/Kereszt_image16.png)  
-![assets/Kereszt_image17.png](/img/user/K/assets/Kereszt_image17.png)  
+![assets/Kereszt_image17.png|invert_dark](/img/user/K/assets/Kereszt_image17.png)  
 > Ilyen átmitologizált mértani alapjel az (égtáj)kereszt, aminek keletkezése szerintem nem a látóhatár elméleti megfontolásból elhatározott "fölnégyeléséhez" fűződik, inkább egy (mérési) pont X-szel való megjelöléséből és/vagy egy égitest "befogása" céljából keresztbe tett két pálca alakjából vezethető le. (A maja [[K/KIN\|kin]] "Nap", "nap", "idő" szó képírásjele két keresztbe tett fadarab: lásd 21. rajzot [[S/Székely-magyar rovásírás#B\|székely-magyar rovásírás B]] – Bak jelénél, valamint az alábbi John M. Jenkins könyvéből csatolt képen.) 
 > Ezen X-jel szárainak meghosszabbításával vágjuk a Föld tortáját négy szeletre, s ez a kereszt attól fogva égtájkereszt (így is, később 45°-kal elforgatva), hogy az ember fölfedezte, - a két keresztbe tett pálca segítségével! – hogy a Nap az év két "átellenes" napján, a tavaszi és az őszi napéjegyenlőségkor éppen keleten kél, és a kelésponttal pontosan szemben nyugszik, s hogy e két pontot összekötő egyenesre húzott merőleges a mindenkori nappálya legmagasabb és (a látóhatár peremétől takart) legmélyebb pontjára mutat. (Bizonyosra veszem, hogy a csillagból képzett és az ős keresztények által a kereszt jele helyett használt Krisztus-monogramot (lásd [[L/Labarum\|labarum]]), melyet a görög X és P betűkből róttak össze, a Krisztust napistenként tisztelők a maja kinhez hasonló, Napot befogó kereszt jelének is tekintették.)  
 - Erről a jelről Mély a múltnak kútja c. könyvének 38-39. oldalán is szól. Lásd a csatolt képet [[O/Orion övcsillagai\|Orion övcsillagai]] címnél.  
 
 Jankovics Marcell Mély a múltnak kútja c. könyvének 206. oldalán pedig arról szól, hogy a kolumbiai [[D/Deszana\|deszaná]]k és mások is a keresztet a tavaszi napéjegyenlőség geometriai jeleként használták.   
 
-![assets/Kereszt_image18.png](/img/user/K/assets/Kereszt_image18.png)  
-![assets/Kereszt_image19.png](/img/user/K/assets/Kereszt_image19.png)  
-![assets/Kereszt_image20.png](/img/user/K/assets/Kereszt_image20.png)  
+![assets/Kereszt_image18.png|invert_dark](/img/user/K/assets/Kereszt_image18.png)  
+![assets/Kereszt_image19.png|invert_dark](/img/user/K/assets/Kereszt_image19.png)  
+![assets/Kereszt_image20.png|invert_dark](/img/user/K/assets/Kereszt_image20.png)  
 > Egyébként a Szenvedés keresztje is égtáj-jel a maga nemében. A középkori Kálvária-képek a Megváltó jobb oldalára – a jobb latornak megfelelő helyre előírás szerint a Napot, a világosság jelképét festették, mintegy jelezvén: hogy az örök világosság fényeskedjék néki, bal oldalára, a bal(ga) latornak megfelelő helyre pedig a sötétséget megtestesítő Holdat, adott összefüggésben azt jelzendő, hogy a szerencséden túlvilági osztályrésze a külső sötétségre vettetés lesz. Az ábrázolás terének ilyetén felosztása a világosság és sötétség között – amúgy általános a hagyományos gondolkodásban és művészetben – egyben azt is jelenti más egyéb mellett, hogy a jobb oldal a világosságot hozó napkeltéé, a bal oldal a sötétséget hozó napnyugtáé. Krisztus, lévén maga a Világosság és az Igazság Napja, e felfogás szerint szükségképpen dél felől tekint reánk, (északon) didergő bűnösökre. (Vö. az égtájkijelölő gyermekverssel: "Előttem van észak, hátam mögött dél, balra a Nap nyugszik, jobbra pedig kél.")  
 > Az égtájkereszt lett egyrészt a világ, a lakott hely szimbóluma, minta a település alaprajzához, "falut" jelentő írásjel (Egyiptomban és Közép-Amerikában; lásd erről alant), jeladás Istentől (óhéber `tav`[^4] = "jel"), az élet, a (kereszt)út jele (az aztékoknál), a halálé és feltámadásé (a keresztények számára\], még naptár is (mint a misték indián Fejérváry-kódex égtájkeresztje, aminek peremén a Szent Számítás 260 napjának megfelelően 260 napocska fut körbe: lásd képet [[F/Fa\|fa]]), továbbá számos szép és nemes, csúf és nemtelen célra fölhasznált jelkép alapja; másrészt egy nagy civilizáció teremtő találmány, a [[K/Kerék\|kerék]] valószínű ihletóje. (A "kerék" és a "kereszt" szavak – nem csak a magyarban – a "kör"-re mennek vissza, de legalábbis egy tőről erednek. L. lat. `circus` = "kör", `crux` = "kereszt", `currus` = "szekér".) A "kerék" mint naptár és mint napjelkép korábbi, mint a küllős kocsikerék (26. rajz).  
 > Mitopoétikusabban hangzik bár, mégis a mondottakat támasztja alá, ahogy az ausztrál bennszülöttek "álomidő-történetei" magyarázzák egyik legfontosabb szertartási kellékük, a kereszt alakú waninga értelmét. Azt mesélik, hogy két keresztbe tett szára a közösülö ősszülőket testesíti meg, akik viszont a [[T/Tejút\|Tejút]]at jelképezik. (**A Tejút egybeesik az égtájkereszt napfordulói szárával, mivel a Nap 2 ezer év óta a napfordulók idején keresztezi a Tejutat**.) A waninga távoli, hozzánk közelebb eső analógiái a kőből faragott, 5000 éves ciprusi keresztek: szárait egymáson "pietá-szerűen" keresztbe fektetett nő- és férfialak alkotja.  
@@ -211,7 +211,7 @@ John M. Jenkins más, keresztes témáját [[G/Galactic centre\|Galactic centre]
 Folytassuk a csatolt résszel Várkonyi Nándor Az elveszett Paradicsom című könyvéből. Kiegészítés:  
 [[T/Thor\|Thor]] kalapácsában Várkonyi Nándor a Tau jelet láttatja:  
 > Ha más földrészekre tekintünk, a germánoknál mint Thor pörölyét látjuk viszont, Amerikában a majáknál mint [[E/Életfa\|életfá]]t, az aztékoknál a tudás fájára emlékeztető ábrázolását: egy T alakú fa alatt férfi és nő áll, s eszik gyümölcseiből; a hasonlóság a Bibliával túlságosan nagy, lehet véletlen, de a fa keresztalakja aligha, s a képnek bizonyosan valaminő misztikus-mitikus értelme van. S hogy befejezzük a sort: Kenneth R.H. Mackenzie a szabadkőművességről írott "cyclopaediájában" közli, hogy a svasztika ([[S/Swastika\|swastika]]) "kalapács formájában máig él a Kőműves Testvériség" jelképei között.  
-![assets/Kereszt_image22.png](/img/user/K/assets/Kereszt_image22.png)  
+![assets/Kereszt_image22.png|invert_dark](/img/user/K/assets/Kereszt_image22.png)  
 
 #### Várkonyi Nándor Sziriat oszlopai...
 
@@ -224,7 +224,7 @@ Folytassuk a csatolt résszel Várkonyi Nándor Az elveszett Paradicsom című k
 > Találtak görög `gemmá`kat, melyek Bakkhoszt keresztre feszített ifjú alakjában ábrázolják (Orpheus Bakkhikosz). A beavatottság jele Egyiptom, Káldea, Fönícia földjén, a magasabbrendűségé Mexikóban és Peruban. A kultikus kereszt lelőhelyei Amerika, Óegyiptom, Babilon, Etruria, Görögország, Róma, India (kivált Dekkán), Kína, Kamcsatka, Ausztrália, Óceánia. Keresztet talált Schliemann a mükénéi terrakottákon, mások mexikói templomok díszei közt, nicaraguai műtárgyakon. Mint ferde kereszt az indusok zászlain, mint egyenes kereszt az asszírok hadijelvényein szerepel. Mindenképp oly réginek látszik, hogy eredete homályba vész; emiatt tartalma számtalanszor változik. Jelentése szerint legősibb a **köröskereszt: a Mindenség, a Kozmosz alaprajza**.    
 
 Nem meglepő eztán, hogy a sumér [[L/LU\|LU]] piktogramja is épp így néz ki.  
-![assets/Kereszt_image23.png](/img/user/K/assets/Kereszt_image23.png)  
+![assets/Kereszt_image23.png|invert_dark](/img/user/K/assets/Kereszt_image23.png)  
 Ez bizony a [[V/Világmodell\|világmodell]] felülnézeti képe, a világmindenség képlete, benne a fény-árnyék viszonyok váltakozásaival. (Lásd 537-es jellel.)  
 
 De ezen LU piktogram megegyezik a [[S/Székely-magyar rovásírás#F\|székely-magyar rovásírás f]][^6] betűjével is (illetve az is feltűnő, hogy a [[M/Mandala\|mandala]]-szimbólum ezen köröskeresztnek csak a továbbgondolása).  
@@ -236,12 +236,12 @@ Varga Géza előtt mások is Földdel azonosították a körbe rajzolt kereszt j
 
 ...című könyvének 134. oldalán is írja:  
 > Az egyenlőszárú kereszt tér-idő jelként is szolgált az égtájak, ill. nap- és évszakok jelölésére. A Nap látszólagos pályáját követve térben az égtájak, időben a nap- és évszakok térnek vissza kört alkotva önmagukba.  
-> ![assets/Kereszt_image24.jpeg](/img/user/K/assets/Kereszt_image24.jpeg)  
+> ![assets/Kereszt_image24.jpeg|invert_dark](/img/user/K/assets/Kereszt_image24.jpeg)  
 > Időjelként az örök körforgást, térjelként az állandóságot \[[[Dzsed\|dzsed]]-oszlopt is így értelmezik\] jelképezte a kereszt: az ókori Egyiptomban a "település" hieroglifája körbe írt kereszt volt (a települések közepe rendszerint a rajtuk áthaladó, tájolt főútvonalak kereszteződésébe esik[^9]), az asztrológia ezt a Föld jeléül választotta.  
 
 A [[G/Geocentrikus világkép\|geocentrikus világkép]] (ahonnan a képi anyag is való, de nem a napút/napéjegyenlőségi pontok alapján, hanem a Sarkcsillagra vetített a kereszt függőleges szára) és [[N/Négyszögletes Föld\|négyszögletes Föld]] felfogás miatt választhatták e jelet, hiszen minden fény-árnyék viszony a Földről nézve, ott megélve értelmezhető. Ez is egy újabb utólagos, félreértelmezett képzelettársítás. Persze nem mindegy az sem, hogy + vagy X szerepel a körbe írva.  
 
-![assets/Kereszt_image25.png](/img/user/K/assets/Kereszt_image25.png)  
+![assets/Kereszt_image25.png|invert_dark](/img/user/K/assets/Kereszt_image25.png)  
 Ilyen téridő keresztábrát ismerünk már a Kolumbusz előtti Amerikából is (lásd a közép-amerikai misték (mixtec) képeskönyvből származó ábrát elemzésével együtt [[F/Fa\|fa]] címnél).  
 
 Jankovics Marcell A Nap könyve című könyvében a Napvárosokról szólva mutatja be a Varga Géza által is említett egyiptomi település, falu hieroglifát, ami viszont nem körbe írt kereszt, hanem X alakot formáz:  
@@ -253,7 +253,7 @@ A [[Q/Quarter\|quarter]] címnél írottak is ide illenek. Lásd másik csatolt 
 De ha már a kereszteknél tartunk, vajon miért kereszt formájú a [[M/MAS\|MAS]] piktogramja? Mert a másai vagyunk a (nap)isteni lényegnek?  
 
 Jankovics Marcell A fa mitológiája című könyvének 185-186. oldaláról származnak az alábbiak (ez a passzus [[T/Tejút\|Tejút]] és [[E/Életfa\|életfa]] címnél is szerepelt, utóbbinál képekkel kiegészítve is):  
-![assets/Kereszt_image28.png](/img/user/K/assets/Kereszt_image28.png)  
+![assets/Kereszt_image28.png|invert_dark](/img/user/K/assets/Kereszt_image28.png)  
 > A Tejutat gyakran két, felül összeboruló fának képzelik el. Ilyen esetben a Tejút a világtengellyel együtt 3 fát, vagy egy 3 törzsű (de nem három ágú) fát alkothat (az ágak mást jelentenek). Így ábrázolja egy 18. századi dán konstrukció a skandinávok világfáját. Az [[Y/Yggdrasil\|Yggdrászil]] az alvilágban, az ég déli pólusán gyökerezik, majd 3 szárra, törzsre bomlik. A középső egyenes törzs a Világhegyet átfúrva, az északi ég pólusa körül bont koronát, a két szélső törzs a korong alakú Föld pereménél bukkan a "felső világra," majd az éggömb íve mentén a középső törzs felé hajol. Hasonló felfogású világfaábrázolással a népművészetben is találkozhatunk. Ezek az ábrázolások a Tejút és a világtengely viszonyát modellezik a Föld központú világkép szerint. Persze a 2, 3 vagy több törzsű fa is értelmezhető másképp. Felfogható folyamatábrának is: ha a szárak egy tőből erednek, vagy tövük egy középpont felé mutat, a tejútforgást jelképezhetik; égtájjelként a Napnak a Tejúthoz viszonyított főbb állomásait. Ilyen 3, a tövével együtt igazából 4 szárú világfa a **kereszt**.  
 - Jankovics Marcell itt írhatta volna, ha már viszonyításról volt szó, hogy mindent – a [[G/Geocentrikus világkép\|geocentrikus világkép]] értelmében – a Földről vizsgálunk. A Földről nézve ez úgy látszik, hogy a [[K/Keresztrefeszített Nap\|keresztrefeszített Nap]] (a négy fordulópont adja a keresztet, **a kereszt középpontjában a Föld[^10] és a rajta élő ember van**) a táltosok-mágusok által megalkotott zodiákus (állatöv = állatkör = életkör) egyes stációin végighaladva úgy ír le egy teljes kört, hogy a [[K/Kezdet és vég\|kezdet és vég]] (megfordítva a halál és a [[F/Feltámadás\|feltámadás]], a Napra vonatkoztatva) téridőbeli helye a [[T/Téli napforduló\|téli napforduló]]ra, [[K/Karácsony\|Karácsony]]ra essék (ez időpontban nemcsak a Tejútközpont \[[[Galactic centre\|[Galactic centre]]\] lényeges, hanem a [[S/Szíriusz\|Szíriusz]] is).
 
@@ -556,7 +556,7 @@ Molnár V. Józsefugyane műsorban kifejti, hogy a régi kereszt-szemes hímzés
 Ha már MVJ, Világ-Virág című könyvének 19. oldalán a világmindenség ritmusához való alkalmazkodást hozza szóba a csillagvizsgáló és a távcső célzókeresztje kapcsán.  
 
 Pap Gábor a honfoglalás-kori mellkeresztekről mindig elmondja, hogy a hivatalos magyar történelemtudománynál "nem jellemző" válasszal illették a kérdést, míg Kubínyi Tamás úgy tudja, hogy az Akadémia állásfoglalása szerint az Álmos-kori mellkeresztek viselete annyi lenne, mint az akkori "divat" szeszélye...  
-![assets/Kereszt_image36.jpeg](/img/user/K/assets/Kereszt_image36.jpeg)  
+![assets/Kereszt_image36.jpeg|invert_dark](/img/user/K/assets/Kereszt_image36.jpeg)  
 
 Berényi László Géza Holisztikus világszemlélet 7000 éve a Kárpát-medencében (a KöR-iS-TeN fraktál) című Ősi Gyökér 2007/1. sz. megjelent cikkében hoz képeket Árpád-házi uralkodóink érméiről, melyek hátoldalán ott van a kereszt. Egyébként Árpád-házi királyaink aranypénzeit Zsombori Sándor: Ősi jelképek Árpád-házi királyaink pénzein című könyvéből idézte.  
 
