@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nommo/","title":"Nommo","tags":["containstransclusions"],"created":"2024-02-15T00:23","updated":"2024-02-16T14:31"}
+{"dg-publish":true,"permalink":"/N/Nommo/","title":"Nommo","tags":["containstransclusions"],"created":"2024-02-15T00:23","updated":"2024-02-28T21:34"}
 ---
 
 
@@ -24,7 +24,7 @@
 </div></div>
 
 
-![assets/Nommo_image2.png](/img/user/N/assets/Nommo_image2.png)  
+![assets/Nommo_image2.png|invert_dark](/img/user/N/assets/Nommo_image2.png)  
 
 Ezt az alakot Jankovics Marcell is felhozza:  
 > Nommo, az afrikai dogonok [[P/Prométheusz\|Prométheusz]]a, aki ellop egy darab Napot, hogy tűzzel szolgáljon a dogon kovácsoknak, kétnemű lény, kígyószerű végtagokkal.  
