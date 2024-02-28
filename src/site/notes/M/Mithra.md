@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mithra/","title":"Mithra","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-07T05:29","updated":"2024-02-10T04:12"}
+{"dg-publish":true,"permalink":"/M/Mithra/","title":"Mithra","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-07T05:29","updated":"2024-02-28T21:32"}
 ---
 
 
@@ -36,7 +36,7 @@ A hindu holdház [[A/Anuradha\|Anuradha]] istensége Mitra, mely rámutathat, ho
 Érdekessége még a holdháznak, hogy amellett, hogy istensége Mitra, szimbóluma pedig a [[L/Lótusz\|lótusz]] (lásd lótusz-szülésről is ott), mely fontos jelkép: nyilvánvalóan a (Zarathustra/Buddha/Jézus-)Napot szülő Tejútanyáról van szó. További egyezés lehet, hogy a görög [[M/Metro\|metro]] = anyaméh[^1] jelentést hordoz (egy másik (a három anyaméhet jelentő) görög szó (közül) a (`delphus`-on kívül) a görög `hustera` [[I/Istár\|Istár]] neve nyomán ered).  
 Viszont a Tejútközpontot [[M/Mula\|Mulá]]ban találjuk, tropikus értelmezés szerint. Kifejtve lásd [[G/Galactic centre\|Galactic centre]].  
 Nehéz volt/lenne elengedni a tényt, hogy Anu neve a Tejútközponthoz kapcsolható legyen, annál is inkább, mert majdnem Anu, Aña előjön az Amazonas északnyugati régiójában, a brazíliai tukano indiánoknál is: Aña nevezetű a Skorpió-Nyilas felőli égtáj az alábbi adatok szerint.  
-![assets/Mithra_image1.png](/img/user/M/assets/Mithra_image1.png)  
+![assets/Mithra_image1.png|invert_dark](/img/user/M/assets/Mithra_image1.png)  
 
 (Az "angolként" megadott Jararaca jelentés alatt egy tupi nyelven megfejtett nagy vipera féle kígyót kell érteni. A [[K/Kígyó\|kígyó]] a [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]] is, de épp az önmagából megújulás jelképe is.)  
 Mivel a tukanóknál is december előtti téridő-régióról van szó, ezért "meg van bocsájtva" az indeknek. Mindjárt ki is derül, miért.  
@@ -49,7 +49,7 @@ A Mithra névhez visszatérve igen hasonló, sőt azonos alakú és kiejtésű v
 Ez a villa tehát a [[G/Galactic centre\|Galactic centre]] és [[S/Sziget\|sziget]] címnél képen is ábrázolt égi területen keresendő.  
 Az észt `hang` és finn `hanko` = vasvilla szavak azért érdekesek, mert egyező alakúnak mondhatók velük a [[H/Honey\|honey]] címnél álló méz jelentésű szavak, továbbá a germán [[H/Hang#Hang 2)\|hang]] = felakaszt szó is (de arról is lehet beszélni, hogy az [[A/Angel\|angel]] = angyal eredete is lehet hang szavunk és persze arról is, hogy a [[T/Toll#Toll 2)\|toll]], [[G/Göd\|Göd]] és más címnél rajzolt [[A/Ágas\|ágas]] és akaszt szavunk is összefüggenek, illetve hogy a hangvilla lehetett-e ősi magyar eszköz).  
 Na mármost [[T/Travail\|travail]] címnél legutóbb szintén szerepelt a háromágúnak mondott `tripalium`-ot ábrázoló kínzóeszköz, mely nyilvánvalóan egyezik a [[T/Tejút\|Tejút]] [[I/Iszter\|Ister]]/[[E/Eszter\|Eszter]]/Ösztör nevéből alkotott [[O/Ösztörű\|ösztörű]] szavunkból származónak vélt görög `sztaurósz` = áldozati karó, kereszt és a [[F/Furka\|furka]] ("Széth furkája") rendeltetésével is (ismét ne feledjük, hogy a görög `hustera` = méh jelentésű). [[C/Crucifixion\|Crucifixion]] és [[O/Önfeláldozás\|önfeláldozás]] címnél írottak alapján tudjuk, hogy a kínzóeszközök eredetileg Naphősök számára fából készült tákolmányok voltak és melyek előképe az égen keresendő és ezennel meg is találtuk.  
-![assets/Mithra_image2.jpeg](/img/user/M/assets/Mithra_image2.jpeg)  
+![assets/Mithra_image2.jpeg|invert_dark](/img/user/M/assets/Mithra_image2.jpeg)  
 Még azt is mondhatjuk ezennel, hogy úgy a germán [[H/Hang#Hang 2)\|hang]] ige, mint az említett ilyen alakú finnségi szavak az [[A/Ankh\|ankh]] = kereszt szóval is azonosíthatók lehetnének. Az is nyilvánvalóvá válik, hogy [[J/Jézus\|Jézus]] keresztje és halálának mikéntje, az [[O/Ördög\|ördög]] vasvillája és a kereszt Y és T alakjai (lásd még róluk [[S/Székely-magyar rovásírás\|székely-magyar rovásírás]]) is mind asztrális eredetűek.  
 A szavak arról árulkodnak, hogy a Nap égi pályáján azon pontra ér, amikor haldoklik, majd feltámad. Ezért is fontosak az Richard H. Allen által eufráteszinek adatolt, [[A/Anu\|Anu]] címnél említett Anu Nibat (a Sagittarius alfája lenne), az ind Anuradha és a tukanó Aña nevei, de tovább mehetünk az [[A/Annual\|annual]] és [[J/Janus\|Janus]] címnél előjövő szóformákkal is, melyek mind arra utalnak, hogy az év vége (halál) és az újév (feltámadás) jelzőhatárához érkezünk. [[O/Ötven\|Ötven]], [[H/Hekate\|Hekate]], [[T/Trivial\|trivial]] és más címnél szereplő adatok alapján lassan elegendő adat áll rendelkezésre egyszer és mindenkorra helyre tenni a dolgokat.  
 
@@ -58,13 +58,13 @@ Joscelyn Godwin Arktos The Polar Myth című könyvének 162. oldalán lévő ad
 Az tény, hogy (főleg a hanyatló tudású népek számára) kellett egy olyan isten is, aki a Föld tengelyforgásáért felelős, mely forgás valóban független a Nap körül végzett forgásunktól. Ha egyáltalán a lehanyatlott tudású népek tudták-e, hogy valójában nem a Nap kering a Föld körül, hanem fordítva. Rengeteg problémát okoz, hogy a hanyatlott tudású népek adatai alapján és az azt értelmező indo-európai kutatók alapján kell okosnak lennünk. Ezért kell mindig a nevek jelentése és a feltételezett eredeti funkciójuk alapján magunknak (magyar kutatóknak) mindent újraértelmezni, helyre tenni.  
 Amennyiben Mithrában tehát a szuperkozmikus, mindenféle világtengelyek hajtásáért felelős Sarkcsillag felett lakó Istent látják, mint a Teremtő (Ten) Isten (egyik megnyilvánulásá)t, ám legyen, de ő – dualisztikus világképben csak az egyik szereplő, így szükségszerűen együtt kell említeni másik társával, aki, ha igaz, Varuna.  
 
-Polaritását úgy (is) képzelik el, hogy a halál után a lélek a bolygók hét szféráján túljutva a nyolcadikban a Sarkcsillaghoz, Mithrához(?) ér. Erről JM is írt: lásd [[S/Sphere\|sphere]].  
+Polaritását úgy (is) képzelik el, hogy a halál után a lélek a bolygók hét szféráján túljutva a nyolcadikban a Sarkcsillaghoz, Mithrához(?) ér. Erről Jankovics Marcell is írt: lásd [[S/Sphere\|sphere]].  
 Mithra tehát egyre inkább (nem [[S/Széth\|Széth]]hez hanem) [[O/Ozirisz\|Ozirisz]]hez hasonítható alak, és arra utal, hogy a megszületésével a precessziós 26000 év világosabbik felét hozza el. [[M/Mithra és a bika\|Mithra és a bika]] történetében viszont egyszerű korszakváltást hoz, de akkor nem tudhatták, hogy minden csak rosszabb lesz.  
 Ozirisszel való hasonlítása azért is ülni látszik, mert, mint alant látjuk, mindketten kapcsolatba hozattak [[O/Orion\|Orion]]nal is. Ugyan a [[N/Nap – halott Nap\|Nap – halott Nap]] címnél is szerepelt, hogy Ozirisz a halott Napot személyesíti meg, valójában a feltámadó Napot is érteni kell alatta. Épp ezt jelenti Mithra neve is: Fiatal (Csecsemő) Nap (aki ráadásul Jézushoz hasonlóan születik, még időben előtte).  
 - Ugyanakkor itt ellentmondás van. [[H/Hunor és Magor#Hunor és Magor azaz inkább hunok és magyarok életköri szerepeinek ellentmondásai\|Hunor és Magor azaz inkább hunok és magyarok életköri szerepeinek ellentmondásai]] cím/alcímnél is írtuk:  
 A Fiatal Nap jelentésű, Jézushoz hasonlóan barlangban, a téli napfordulón születő Mithra (akár mint Mithrász) csillag(kép)teste hogy lehet Orion? (És akkor ne feledjük a [[N/Nap#Nap és Orion\|Nap és Orion]] cím/alcímnél írottakat sem.)  
 
-Ahogy JM is írja:  
+Ahogy Jankovics Marcell is írja:  
 > Az örök körforgás mítoszaiban és meséiben a halál nemzés, fogantatás értelmű, a halotti állapot magzati lét. A naphérosz életének ez a szakasza az "évmesében" a Nyilas havába illik.  
 
 Az alábbi passzus [[K/Kelet és észak\|kelet és észak]] címnél is szerepelt:  
@@ -90,7 +90,7 @@ Tóth István ókortörténész írja Mithras, a misztériumok istene című dol
 - Lásd Tóth István szövégének folytatását [[M/Mithra és a bika\|Mithra és a bika]], ahol kiderül, hogy olyannyira nincsenek tisztában Mithra kilétével (ilyen néven szerepeltek még[^4]), hogy egyenesen vallásalapító prófétának hiszi(k)!  
 
 Neve a babiloni [[M/Marduk\|Marduk]]éhoz hasonlóan (Mit/MISZ-Ra felbontás illetve Péterfai János alapadatai alapján) Fiatal Nap. (Az Avesztában napszakra értve így logikusan a reggelt[^5] személyesíti meg, míg a délutánért – állítólag – [[A/Apam Napat\|Apam Napat]] "felelős," de mivel Apam Napat inkább [[O/Orion\|Orion]] és Mithra párja [[V/Varuna\|Varuna]], ezért itt nagy a kuszaság.)  
-- A reggeli Nap szerepköre mellett szól JM sora:  
+- A reggeli Nap szerepköre mellett szól Jankovics Marcell sora:  
 > Avesztai jelzője "saját fénnyel telt", "ragyogó", "sohasem alvó". Úgy tartották, együtt jár a Nappal, pontosabban szólva, már a Nap előtt fenn van az égen (a védikus szövegekben ő kelti a Napot), és csak a Nap után tér nyugovóra.  
 
 Új, [[M/MISZ\|MISZ]]-nél taglalt információk szerint szabályos SZ>T változással MIT is fehér, fényes, stb. jelentéseket takar, mely szépen összevágni látszik a reggeli, dél felé, azaz ereje teljébe tartó Nap minőségének deskripciójával.  
@@ -136,7 +136,7 @@ Az angol nyelvű wiki oldalon szintén a rejtélyes Ikrek kapcsolata van kihangs
 > —  
 > A Rigvéda 5.3.1-ben ez áll: "A Rigveda 10.8.5: "Te leszel a nagy `ṛta` \[= az avesztai `aša`\] szeme és védelmezője - te leszel Varuṇa, mivel ṛta nevében lépsz be, te leszel [[A/Apam Napat\|Apām Napāt]]"." Továbbá, a Savitṛval kapcsolatban a Kauṣītaki-Brāhmaṇa 18.9. azt mondja: "Amikor a \[sun\] elsüllyed a vízben, Varuṇa lesz belőle". Varuṇát ezenfelül úgy szólítják meg, mint "a vizek gyermeke" (`apām śiśur`, Vājasaneyisaṃhitā 10.7, lásd H. Lüders, Varuṇa, Göttingen, 1951-59, I, 50-51. o.), és rendszeresen a vízzel hozzák kapcsolatba, és a tenger istenének tekintik (ibid., 9. o.). \[Forrás: Apam Napat, Encyclopedia Iranica\]  
 
-![assets/Mithra_image5.png](/img/user/M/assets/Mithra_image5.png)  
+![assets/Mithra_image5.png|invert_dark](/img/user/M/assets/Mithra_image5.png)  
 A fentieket megoldani látszanak a [[T/Tetra\|tetra]] címnél írottak, amihez annyit kell hozzátenni, hogy Misz-Ra felbontásban nemcsak a [[M/MISZ\|MISZ]] etimont, az angolszáz [[M/Missera\|missera]] = fél év nevet, de a [[M/Miss#Miss 2)\|miss 2)]] igét, [[M/Misery\|misery]] szó értelmét is megfejti. A háttérben valóban Napminőségek állnak és semmi több. Mithra naggyá nőtte ki magát Perzsiában és Rómában is, de Misz-Ra nem jelent mást mint ereje teljében lévő Napot a napi, 24 órás viszonylatban, ugyanezt a Kis Évben és, bár a precessziós Nagy Évre vonatkozóan nincs adatunk, feltételezhetjük [[M/MISZ\|MISZ]] etimon és [[M/Missera\|missera]] jelentései alapján, hogy jelentheti az "erős ág" 12960 évét. Hogy Varuna illetve Apam Napat miféle módon alkalmasak ellenpárként, egyelőre nem is érdekes.  
 Mivel Mithra így a halált túlélő, feltámadó Nap megszemélyesítője, ugyanolyan kultikus ember-szerep is kijárt neki, mint [[G/Győző\|Győző]]-Jézusnak, Krishnának és bármely más táltosnak, aki magát szimbolikusan feldaraboltatta. A [[M/Mithra és a bika\|Mithra és a bika]] története így akár lehet asztrális és telluris-táltosi is. Persze leginkább itt mindegyik esetében megszemélyesített Napminőségekről van szó. Magyar párjait lásd Vertráb József Kadocsa tolmácsolásában [[T/Turul\|Turul]] és [[U/Ullu\|Ullu]].  
 [[N/Nibiru\|Nibiru]] címnél sárga táblázatban szerepel Várkonyi Nándor adata, miszerint Nibiru is Napminőség-név: a delelő, tűző Nap neve.  
@@ -206,7 +206,7 @@ Rajki András arab etimológia szótárában nem szerepel a szó.
 Egészen hasonló hozzá a [[S/School\|school]] címnél említett héber `midrás` = tanulmányozás.  
 
 [^3]: Lábjegyzet:  
-Ennek megfelelően odébb JM is írja:  
+Ennek megfelelően odébb Jankovics Marcell is írja:  
 Ő volt a szerződések égi szemtanúja, aki az országok közötti békeszerződések betartására, a társadalmi rendre felügyelt.  
 
 [^4]: Lábjegyzet:  
@@ -216,7 +216,7 @@ A Mithras személynév feliratos előfordulásait ismerjük, ez volt az etiópok
 Jankovics Marcell A Nap könyve című könyvében említi a sri lankai Szamant, a reggeli Nap istenét, akit a Szamanolakanda-hegyen imádják (e helyet Ádám Ormának is nevezik).  
 
 [^6]: Lábjegyzet:  
-Mithra ugyan elsősorban Napminőség de Orionnal is azonosul. Jelkép-kalendárium című könyvében JM teljes természetességgel felelteti meg a latin Mithras-t a görög Orionnal. Lásd még [[M/Mithra és a bika\|Mithra és a bika]], ahol arról is lesz szó, hogy JMJ könyvében a precesszió feltalálásához kötik a Mithraizmus kialakulását: de ez téves. WC sem érthette igazán, hogy eszik vagy isszák – ahogy ő írja – "Mythrát." Lásd még adatot hyperkozmikus Napról és Szíriusszal kapcsolatos infókat ott.  
+Mithra ugyan elsősorban Napminőség de Orionnal is azonosul. Jelkép-kalendárium című könyvében Jankovics Marcell teljes természetességgel felelteti meg a latin Mithras-t a görög Orionnal. Lásd még [[M/Mithra és a bika\|Mithra és a bika]], ahol arról is lesz szó, hogy John M. Jenkins könyvében a precesszió feltalálásához kötik a Mithraizmus kialakulását: de ez téves. WC sem érthette igazán, hogy eszik vagy isszák – ahogy ő írja – "Mythrát." Lásd még adatot hyperkozmikus Napról és Szíriusszal kapcsolatos infókat ott.  
 
 [^7]: Lábjegyzet:  
 In Middle Iranian languages (Middle Persian, Parthian etc.), `miθra` became `mihr`, from which New Persian مهر `mehr` and Armenian `mihr`/`mehr` ultimately derive.  
