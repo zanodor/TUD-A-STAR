@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2024-02-15T17:02"}
+{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2024-02-28T21:32"}
 ---
 
 
@@ -20,7 +20,7 @@ A hivatalos bibilia fáma (a formai-irodalmi és közérthetőséget lebutított
 > Figure 114 is taken from a mediæval woodcut, lent to me by my friend, Mr. John Newton, to whom I am indebted for the sight of, and the privilege to copy, many other figures. In it the virgin Mary is seen as the Queen of Heaven, nursing her infant, and identified with the crescent moon, the emblem of virginity. Being before the sun, she almost eclipses its light. Than this, nothing could more completely identify the Christian mother and child with Isis and Horus, Ishtar, Venus, Juno, and a host of other pagan goddesses, who have been called Queen of Heaven,' 'Queen of the Universe,' 'Mother of God,' 'Spouse of God,' the Celestial Virgin,' the 'Heavenly Peace Maker,' etc.  
 > —  
 > A 114. ábra egy középkori fametszetről származik, amelyet barátom, John Newton úr adott kölcsön, akinek köszönhetem, hogy sok más ábrát is láthattam és lemásolhattam. Ezen a képen Szűz Mária az ég királynőjeként látható, amint csecsemőjét szoptatja, és a félholddal, a szüzesség jelképével azonosítható. A Nap előtt állva szinte háttérbe szorítja annak fényét. Ennél semmi sem azonosíthatja jobban a keresztény anyát és gyermekét Ízisz és Hórusz, Isztár, Vénusz, Juno és egy sor más pogány istennővel, akiket az "Ég királynőjének", "a világegyetem királynőjének", "Isten anyjának", "Isten hitvesének", az "égi szűznek", a "mennyei béketeremtőnek" stb. neveztek.  
-> ![assets/Mária_image1.png](/img/user/M/assets/M%C3%A1ria_image1.png)
+> ![assets/Mária_image1.png|invert_dark](/img/user/M/assets/M%C3%A1ria_image1.png)
 
 #### Jankovics Marcell Jelkép-kalendárium...
 
@@ -121,7 +121,7 @@ RG másutt ([[A/ANA\|ANA]] címnél – több – is szerepelt):
 > —  
 > Mr. E. M. Parr írja nekem, hogy a Ma-ri jelentése 'a termékeny anya' a rim, 'gyermeket szül' szóból. Mari volt a neve annak az istennőnek, akinek a nevében az i. e. 1000-es egyiptomiak Ciprust 'Ay-mari'-nak nevezték, és aki az Eufrátesz-parti Mariban (Hammurabi által i. e. 1800-ban kifosztott város) és a minószi Krétán lévő Amariban uralkodott. Ma-ri-enna tehát 'az Ég termékeny anyja', más néven Miriam, Mariandyne, a trójai 'ugró Myrrhine' és Mariamne: egy hármas erejű szó[^4].  
 
-JM Jelkép-kalendárium című könyvében Szent Margit nevének etimológiája kapcsán írja:  
+Jankovics Marcell Jelkép-kalendárium című könyvében Szent Margit nevének etimológiája kapcsán írja:  
 > A görög eredetű Margaréta nevet a babiloni `Mar galliti` szóösszetételére is visszavezetik, ami azt jelenti: a "tenger leánya", "világosság gyermeke". A szent görög névváltozata, Marina "márványost, csillámlót, fénylőt" jelent, ám lehet latin eredetű név is (Antiochia a római birodalom hellenisztikus alapítású, Róma után legnagyobb városa volt), így viszont a "tengeri, tengerből származó" melléknév nőnemű alakja. A nevek mind a tengerből született "gyöngyös" Vénuszra vagy Holdra utalnak.  
 
 #### Zajti Ferenc Zsidó volt-e Jézus...
@@ -318,7 +318,7 @@ Lásd alant.
 ...című könyvének adatsora [[K/Kehely\|kehely]] címnél is szerepelt:  
 > Jézus földi életének két végpontját két kehely jelzi. Az első kehely galambbal Mária teherbeesésének jelképe; az edény a Szűz teste, a belé merítkező galamb a Szentlélek. A második kehely (a Grál) a Megváltó kereszthalálát jelképezi. Ez áll a kereszt tövén, ezt tartják az angyalok a megfeszített sebei alá, ebbe folyatja a Bárány a vérét. A két kehely eggyé válik a mise kelyhében, amely Krisztus testét, a szentelt ostyát és vérét, a szentelt bort tartalmazza katolikus felfogás szerint. A mise rituálisan megismétli az utolsó vacsorán történteket, amikor Jézus a kenyeret és a bort mint saját testét és vérét osztotta el tanítványai között, mondván: "ezt cselekedjetek az én emlékezetemre" (Lk 22,19). A két szimbolikus kehely, a fogantatás- és haláljelkép végső fokon egy. A meghaló és feltámadó napisten "élete" örök visszatérés. Eltávozása visszatérés az anyai testbe, a földanyába, hogy ott újra fogantassék. Halála tetszhalotti, voltaképpen magzati lét, újjászületésének szükséges feltétele. Mária mint Jézus testének tartóedénye jelenik meg a litánia szövegében is: "Tiszteletes Edény", "Mária, Aranyház". Ez utóbbi megszólítás az oltár szekrénykéjére, a tabernaculumra utal, mely az úrmutatót, s abban a szent ostyát őrzi. Az isten, illetve hérosz testét befogadó és kibocsátó edény képzete igen-igen régi, s kiterjesztődik az archaikus újjászületés célzatú áldozatokra, beavatási szertartásokra is.  
 
-Itt nemcsak a [[K/Kehely\|kehely]] = [[H/Hüvely\|hüvely]] összefüggést kell szem előtt tartani, hanem különösen JM Jézus Napistenként való vizsgálata nyomán azt is, hogy ezzel a homokóraszerű formával, igaz, elforgatva találkoztunk [[L/Lemniszkáta\|lemniszkáta]] címnél is.  
+Itt nemcsak a [[K/Kehely\|kehely]] = [[H/Hüvely\|hüvely]] összefüggést kell szem előtt tartani, hanem különösen Jankovics Marcell Jézus Napistenként való vizsgálata nyomán azt is, hogy ezzel a homokóraszerű formával, igaz, elforgatva találkoztunk [[L/Lemniszkáta\|lemniszkáta]] címnél is.  
 
 Ami még Mária szüzességi illetve vulvajelképét illeti, fentebb volt szó a mahar = kagylóról és másutt mandala és [[V/Vesica piscis\|Vesica Piscis]] témában is hasonlóról volt szó.  
 
@@ -400,4 +400,4 @@ Ha bármi más lett volna neve – Tercsi, Fercsi, Klára –, akkor lehetett vo
 
 [^8]: Lábjegyzet:  
 Buddhista párhuzamában Mára nevű démon is tulajdonképpen Buddha (szexuális) megkísértésében halálára tör:  
-A buddhista ördög/démon Mára nevében is ezt a szóalakot láthatni meg. Ez nyilván Mária boszorkány alakja: [[H/Három istennő\|három istennő]] és [[B/Boszorkány\|boszorkány]] (és [[S/Szépasszony\|Szépasszony]]) címnél láttuk, hogy három alakja van a Tejútanyának illetve JM [[S/Szexualitás a mesékben\|szexualitás a mesékben]] címnél álló passzusában szól a naphős anyja (boszorkány-aspektusa) elleni harcáról; az [alábbi](https://hu.wikipedia.org/wiki/Mára_(démon)) oldalon is olvasható, hogy a naphős szerepében tetszelgő [[B/Buddha\|Buddha]] ellen tudott állni a kísértésnek.  
+A buddhista ördög/démon Mára nevében is ezt a szóalakot láthatni meg. Ez nyilván Mária boszorkány alakja: [[H/Három istennő\|három istennő]] és [[B/Boszorkány\|boszorkány]] (és [[S/Szépasszony\|Szépasszony]]) címnél láttuk, hogy három alakja van a Tejútanyának illetve Jankovics Marcell [[S/Szexualitás a mesékben\|szexualitás a mesékben]] címnél álló passzusában szól a naphős anyja (boszorkány-aspektusa) elleni harcáról; az [alábbi](https://hu.wikipedia.org/wiki/Mára_(démon)) oldalon is olvasható, hogy a naphős szerepében tetszelgő [[B/Buddha\|Buddha]] ellen tudott állni a kísértésnek.  
