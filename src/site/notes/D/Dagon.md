@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Dagon/","title":"Dagon","tags":["Englishtexttranslated"],"created":"2023-11-18T09:26","updated":"2024-02-10T03:45"}
+{"dg-publish":true,"permalink":"/D/Dagon/","title":"Dagon","tags":["Englishtexttranslated"],"created":"2023-11-18T09:26","updated":"2024-02-28T17:34"}
 ---
 
 
@@ -60,7 +60,7 @@ Nyilván a héber `Dag` = Hal elnevezés a Dög, [[D/DÖK\|dök]] = Halál érte
 ...című az Ősi Gyökér 2007/2-3. sz. megjelent cikkében írja:  
 > A bibliai források megemlítik Dágon főistent a filiszteusok isteneként, aki "az országok és hegyek felett szélben és viharban" Dagan istennek a megfelelője, aki Babilóniában és Asszíriában a Kr. előtti 3. évezredben szerepel, a Kr. előtti 1500 táján pedig Palesztina területén is megtalálható. A filiszteusok valószínűleg az itt lakó ún. kánaáni – amorita népektől veszik át Dagont. Neve talán a héber Dagan gabonanövekedés szóra vezethető vissza \[dagad magyar szó\]. Hal istenségre is visszavezetik a héber [[D/DAG\|dag]] = hal szó nyomán. Legfontosabb és legnagyobb szentélye Gázában található meg. Ugaritban kapcsolatba hozzák a termékenység istennel, (Balu istenség atyjának tartották) mert nevének jelentése után ítélve kezdetben talán a földművelés és a halászat pártfogoltja volt, amit az is alátámaszt, hogy egy föníciai pecséthengeren megtalálták [[K/Kalász\|kalász]] emblémával ábrázolva. Eusebius szerint, Dagon Uranosz az Ég és Gaiának a földnek gyermeke. Bét Seán városában Dagon kultusza Atarta kultuszával állott kapcsolatban. Gázai Marna és az Askaloni hal istenek valamint Derkéto Oannes női megfelelője Atargis, a szírek, a filiszteusok hal istennője neve ismert számunkra.  
 
-![assets/Dagon_image3.jpeg](/img/user/D/assets/Dagon_image3.jpeg)  
+![assets/Dagon_image3.jpeg|invert_dark](/img/user/D/assets/Dagon_image3.jpeg)  
 Ami a mellékelt képet illetően érdekes, hogy ugyanolyan testtartása van az istenségnek, mint a [[B/Bál#Bál mint Nimród\|Bál mint Nimród]] cím/alcímnél taglalt alakoknak. Nos, ellenőrzés után beigazolódott a gyanúm, hogy ez nem is Dagon, hanem Bál maga a képen.  
 
 Valójában Dag-On a szokásos Nap az Égen jelentésű és [[T/Takony\|takony]] is ilyen alakú. De egészen ilyen alakú [[D/Dagonya\|dagonya]] szavunk is.  
