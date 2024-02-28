@@ -1,0 +1,19 @@
+
+:root
+{
+    --dark0_x:          31,31,31; /* #282828 */
+    --light0_x:         171,168,154; /* #aba89a */
+}
+
+html,
+body {
+  font-family: var(
+    --font-monospace
+  ); /** Remove this to return body font back to normal */
+
+  /** Norse rune font for hilarity Comes from dafont.com */
+  --custom-font: "Norse";
+  /* --custom-font: var(--font-monospace); */
+  /* font-family: 'Norse';
+    font-size: 20px !important; */
+}
