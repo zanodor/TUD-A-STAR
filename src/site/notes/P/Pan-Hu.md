@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pan-Hu/","title":"Pan-Hu","tags":["Englishtexttranslated"],"created":"2023-11-06T12:47","updated":"2024-02-23T15:42"}
+{"dg-publish":true,"permalink":"/P/Pan-Hu/","title":"Pan-Hu","tags":["Englishtexttranslated"],"created":"2023-11-06T12:47","updated":"2024-02-28T21:38"}
 ---
 
 
@@ -10,8 +10,8 @@ A kínai mitológiában egy [[K/Kutya\|kutya]] neve, mely Kan Pao "Sou shen chi"
 #### Victor H. Mair Canine Conundrums...
 
 ...című esszéjében szól róla. Annyit elöljáróban tisztázni kell, hogy a kínai `hu` és `pan` nevek jelentései torzultak. [[P/PAN#Pan 2)\|Pan]] angolban is serpenyő, de a Nap alakja miatt. `Pan` vagy `p'an` a kínaiban is ilyen másodlagos, telluris értelmű: tányért jelent. [[H/HU\|Hu]] pedig csillag, de mivel a csillag és a víz fogalmak másutt is keveredtek, Hu itt is telluris megjelenésű. De a kínai ráadásul nem is víznek, hanem víztartónak, tökhéjpalacknak hívja. Pan Hu tehát valójában a Mindenség Forrása jelentéssel kellene fordíttasson.  
-![assets/Pan-Hu_image1.png](/img/user/P/assets/Pan-Hu_image1.png)  
-![assets/Pan-Hu_image2.png](/img/user/P/assets/Pan-Hu_image2.png)  
+![assets/Pan-Hu_image1.png|invert_dark](/img/user/P/assets/Pan-Hu_image1.png)  
+![assets/Pan-Hu_image2.png|invert_dark](/img/user/P/assets/Pan-Hu_image2.png)  
 Másodsorban VHM írja, hogy amennyiben Kao-hsin [[H/Huang-ti\|Huang-ti]] császár ükunokája, akkor i.e. 2500 körül kellett élnie és nem i.sz. 2-3. században, mikor is a Han népek a déli népekkel hadakoztak:  
 > Kao-hsin, also known as Kao-hsin shih ("of the clan name Kao-hsin"), is Ti-klu ("Emperor Klu"), the mythical great-grandson of Huang-ti ("Yellow Emperor"), allegedly surnamed Kung-sun ("Ducal Grandson"), the supposed founder of Chinese civilization and of the first Chinese state. If it is possible to assign any sort of historicity to the Yellow Emperor, he would have to be placed around the middle of the third millennium BCE and in the northwest of China. Thus, it is highly unlikely that Kao-hsin (if he himself ever existed) could have had anything whatsoever to do with the southern peoples whom the Han people were making contact with during the late second and early third centuries CE and who were the inspiration for the cynanthropomorphic stories about p'an-hu and his descendants. Thus, almost from the beginning of the p'an-hu myth, our suspicions concerning its authenticity as a self-expression of the southern nan-Han peoples are aroused.  
 >
