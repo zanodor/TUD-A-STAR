@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/P/Phallic/","title":"Phallic","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T05:11","updated":"2024-02-16T14:31"}
+{"dg-publish":true,"permalink":"/P/Phallic/","title":"Phallic","tags":["containstransclusions","Englishtexttranslated","titleandheadingonedontmatch"],"created":"2023-11-09T05:11","updated":"2024-02-28T21:39"}
 ---
 
 
-# Phallic
+# Phallic, phallosz
 
 Fallikus.  
 
@@ -184,7 +184,7 @@ Ezen téma lehetséges téridőbeli jelentősége miatt bekerült [[S/Szűz csil
 
 > Isis a megtalált Oziris testének egy darabját a szertartás követelményeinek megfelelően eltemette. Elkészítette a phallosz másolatát is és nagy szertartással beszentelve, a helyére tette. Mindennek a törvényes szertartásos folyamatát Anubisz a balzsamozó pap szerepkörében el tudta végezni, mert összeállította azokat, mint egy múmiát, átváltoztató mágiával szorosan bepólyázva, vászon szalagokba. Ekkor Oziris kezdett feléledni az Örökkévalóság, az Örök Időtlenség szereplőjének.  
 
-![assets/Phallic_image4.jpeg](/img/user/P/assets/Phallic_image4.jpeg)  
+![assets/Phallic_image4.jpeg|invert_light](/img/user/P/assets/Phallic_image4.jpeg)  
 Egy másik hasonló jellegű kép Bakos Attila A Duna Evangéliuma című könyvének 266. oldalán jött elő (én itt már egy jobb minőségű képet közlök). A képaláírás szerint a haldokló Ozirisz, akit bátyja Széth ölt meg, átadja isteni magvát feleségének Ízisznek – egyiptomi őstantrikus ábrázolás a Kr.e. IV. századból.  
 BA más hasonló jellegű képeit lásd tantrikus-fallikus vonalon [[G/Geb\|Geb]].  
 
