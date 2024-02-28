@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2024-02-28T21:44"}
+{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2024-02-28T21:45"}
 ---
 
 
@@ -166,7 +166,7 @@ A Napot agancsai között hordozó Csudaszarvas jelképe így tulajdonképpen az
 > In short, the idea that Michelangelo would incorporate symbols of fertility, rebirth, or fecundity in his work is not at all problematic, and De Campos and colleagues' identification of spheres, circles, cords, and shells as those symbols could work. But the linking of the bucranium symbol that dates back to the Neolithic with a view of female anatomy that was not commonly known until well after Michelangelo's death is quite a stretch. As King concludes, "Sometimes a cigar is just a cigar."  
 
 [Ezen](https://naturalshaman.blogspot.com/2012/10/womb-symbolism-rams-head.html) sületlenségeket is író blogger cikkében is hasonlítja a méhet a kosfejjel, de a kos sátáni összefüggéseivel először félrevisz, bár utána rámutat, hogy semmi sátáni nincs benne.  
-![assets/Szarv_image12.png](/img/user/S/assets/Szarv_image12.png)  
+![assets/Szarv_image12.png|invert_dark](/img/user/S/assets/Szarv_image12.png)  
 Ami érdekes lehet tőle:  
 > In Pagan symbolism, Pan is the god of the wild, shepherds and flocks, nature, of mountain wilds, hunting, music, libido and fertility. His season is spring and he is associated with the Mother Goddess.  
 > —  
