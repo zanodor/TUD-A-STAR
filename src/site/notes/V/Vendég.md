@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vendég/","title":"Vendég","created":"2023-11-09T11:55","updated":"2023-12-25T06:16"}
+{"dg-publish":true,"permalink":"/V/Vendég/","title":"Vendég","created":"2023-11-09T11:55","updated":"2024-02-29T00:48"}
 ---
 
 
@@ -12,7 +12,7 @@
 A kínai `bīn` = vendég. Mint a vendég szavunk előrésze: [[F/Fény\|fény]]. (A kínaiak Pennsylvania Penn- előrészét is Bīn-nek hangzósítva adják.)  
   
 
-Meglepő módon [[V/Venue\|venue]] címnél még az is elhangzik Jankovicstól, hogy vendég szavunk ősmagyar eredetű is lehet. Ha JM tudná, milyen szép és tökéletesen a szóban forgó téma címéhez illő a jelentése...  
+Meglepő módon [[V/Venue\|venue]] címnél még az is elhangzik Jankovicstól, hogy vendég szavunk ősmagyar eredetű is lehet. Ha Jankovics Marcell tudná, milyen szép és tökéletesen a szóban forgó téma címéhez illő a jelentése...  
 Lásd még a [[H/Hostile\|hostile]] címnél írottakat. Lásd még idegen, jövevény és vándor témában [[H/Hágár\|Hágár]], [[P/Peregrine\|peregrine]], [[F/Foreign\|foreign]] és [[M/Migrate\|migrate]].  
 
 ## Alternatív levezetése
@@ -36,7 +36,7 @@ Hiba lenne viszont a kínai szóról megfeledkezni; annál is inkább, mert a ma
 
 A legkézenfekvőbb azt mondani, hogy a velencei venét (vesd össze a [[V/Vend\|vend]] és [[P/Pannon\|pannon]] nevekkel) mind régi magyar, vagy ha úgy tetszik őseurópai nevek, azaz a végső megoldás [[F/Fény\|fény]] szavunk, csak nem mindegy, mennyi logikai lépcső marad ki.  
 
-És ha már logika: nemcsak a magyar szempontból nézve vendég az idegen, mert más nyelvben jövevényt jelent, továbbá azt feltételezni, hogy a jövevény mindig velencei, értelmetlen, de azt is hogy, a latin `venire` = jönni ige (lásd [[V/Venue\|venue]]) Velence Venetia nevéhez lenne köthető. Ahogy MA részéről elhangzott, ennek a névnek már korábban hajós [[V/Vándor\|vándor]], kereskedő ([[V/Vendor\|vendor]]) értelme volt.  
+És ha már logika: nemcsak a magyar szempontból nézve vendég az idegen, mert más nyelvben jövevényt jelent, továbbá azt feltételezni, hogy a jövevény mindig velencei, értelmetlen, de azt is hogy, a latin `venire` = jönni ige (lásd [[V/Venue\|venue]]) Velence Venetia nevéhez lenne köthető. Ahogy Magyar Adorján részéről elhangzott, ennek a névnek már korábban hajós [[V/Vándor\|vándor]], kereskedő ([[V/Vendor\|vendor]]) értelme volt.  
 
 ## Lábjegyzetek
 

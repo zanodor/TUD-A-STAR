@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:03","updated":"2024-02-02T04:13"}
+{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:03","updated":"2024-02-29T00:42"}
 ---
 
 
@@ -10,8 +10,8 @@ Kezdjük Szíriusz helyzetével, mely azért fontos számunkra, hogy a Tejútren
 > —  
 > A Nap és a Szíriusz a Tejútrendszer galaxisának ugyanabban a "karközi" régiójában található. A Nap és közvetlen szomszédsága, beleértve a Szíriuszt is, a Helyi Kar (Orion-Cygnus) belső széle közelében található.  
 
-![assets/Sziriuszmozgasa_image1.jpeg](/img/user/S/assets/Sziriuszmozgasa_image1.jpeg)  
-![assets/Sziriuszmozgasa_image2.png](/img/user/S/assets/Sziriuszmozgasa_image2.png)  
+![assets/Sziriuszmozgasa_image1.jpeg|invert_light](/img/user/S/assets/Sziriuszmozgasa_image1.jpeg)  
+![assets/Sziriuszmozgasa_image2.png|invert_light](/img/user/S/assets/Sziriuszmozgasa_image2.png)  
 
 Lásd a másik ábrát is, mely a Galaxis Tejútközponttal szemközti oldalát mutatja (persze hivatalosan az Aurigában van az anti-központ: lásd [[G/Galactic anticentre\|Galactic anticentre]]). Az ábra alapján Szíriusz Napunk és az Orion között helyezkedik el.  
 John Major Jenkins még azt is írja, hogy Szíriusz ugyanazon a meridiánon van, mint a Galaktikus Antiközpont:  
@@ -26,7 +26,7 @@ Lásd még egyáltalán más infókért [[S/Szíriusz és a naprendszer\|Szíriu
 
 [[K/Kovács és a kutya\|Kovács és a kutya]] címnél tettük fel legutóbb a kérdést, hogy jó lenne tudni, Szíriusz miképpen lép ki az [[O/Orion övcsillagai\|Orion övcsillagai]] által összekötött és abból tovább húzott egyeneshez mérten. Mert hát a mítosz csillagászati, csak érteni kell. Lásd folytatást [[S/Szíriusz mozgása#Szíriusz ketyegő, oszcilláló mozgása\|Szíriusz ketyegő, oszcilláló mozgása]] alcímet lejjebb.  
 
-![assets/Sziriuszmozgasa_image3.png](/img/user/S/assets/Sziriuszmozgasa_image3.png)  
+![assets/Sziriuszmozgasa_image3.png|invert_dark](/img/user/S/assets/Sziriuszmozgasa_image3.png)  
 
 [[N/Naprendszerünk mozgása\|Naprendszerünk mozgása]] címnél is szerepelt:  
 A 19. század végén írott RHA-féle Star Signs könyvben is szerepel, hogy Naprendszerünk a [[H/Herkules csillagkép\|Herkules csillagkép]] ([[M/Maasym\|Maasym]] csillaga) felé tart (*Apex of the Sun's Way*-nek hívják[^1], azaz a Napút Legmagasabb Pontjának), de ami érdekesebb, hogy az ellenpontot, a *Sun's Quit*-et, mely ez Apex-szel szemközti helyen van az űrben, a [[S/Szíriusz\|Szíriusz]] és a [[C/Canopus\|Canopus]] közé helyezik.  
@@ -35,7 +35,7 @@ A fentebb jobbra mellékelt kép tanúsága szerint viszont, ha a Szíriusszal b
 Az Apex of the Sun's Way és a Sun's Quit tehát egyrészt nem valós sebességek által meghatározott fogalmak, másrészt viszont mégiscsak alkotnak egy olyanfajta tengelyt, mint amilyen a [[G/Galactic centre\|Galactic centre]] és a [[G/Galactic anticentre\|Galactic anticentre]] között húzható.  
 
 A. J. Holberg könyvében volt, [[H/Henry Kroll\|Henry Kroll]] (lásd lényeget ott) könyvében lesz még szó a Szíriusz részéről végzett illetve az ahhoz mérhető relatív mozgásokról, de ide is tehető egy-két skicc.  
-![assets/Sziriuszmozgasa_image4.png](/img/user/S/assets/Sziriuszmozgasa_image4.png)  
+![assets/Sziriuszmozgasa_image4.png|invert_dark](/img/user/S/assets/Sziriuszmozgasa_image4.png)  
 
 ## A Szíriusz helyzete a múltban és a jövőben
 
@@ -49,7 +49,7 @@ Az alábbi adatok J. B. Holberg könyvéből valók:
 
 [[H/Henry Kroll\|Henry Kroll]] amatőr kutató, aki egy Cosmological Ice Ages című könyvet is írt (tulajdonképpen Szíriuszról), azt állítja, hogy a Napunk az Orionban született (ezt ismert, tényként felfogható adat), majd az idők során Sirius B befogta és a Szíriusz A körül keringünk bináris rendszerben. Számítása és feltételezése szerint a 1.5 SM (solar mass) Sirius B, a 2 SM Sirius A és a 3 SM [[P/Procyon\|Procyon]] együttes tömegvonzó ereje elegendő minket oda felhúzni. A 8 fényévnyire lévő Sirius A és 10 fényévnyire lévő Procyon csillagokhoz közeledésünket sebességileg is kifejti és ez alapján számolhatta ki a 105000 éves orbitciklust. (A kivonatot egyelőre lásd csatolva. Egyébként a 25920 évet ha szintén egy negyed ciklusnak vesszük, akkor néggyel szorozva 103680 évet ad ki, mely számításának megfelelne.)  
 
-![assets/Sziriuszmozgasa_image6.png](/img/user/S/assets/Sziriuszmozgasa_image6.png)  
+![assets/Sziriuszmozgasa_image6.png|invert_dark](/img/user/S/assets/Sziriuszmozgasa_image6.png)  
 ![assets/Sziriuszmozgasa_image7.png](/img/user/S/assets/Sziriuszmozgasa_image7.png)  
 [[I/Irán és Turán\|Irán és Turán]] címnél szereplő adatok szerint Péterfai János nagyszerűen körüljárja miről lehet szó: Irán és Turán megszemélyesített, majd végül földi területekre értett égi fogalmak; ED szerint is valóban megfeleltethetők [[N/Nimrud\|Nimrud]] ([[F/Firdauszi\|Firdauszi]]nál [[F/Feridun\|Feridun]]) [[H/Hunor és Magor\|Hunor és Magor]] fiainak. Irán és Turán valójában égitestek (lásd [[N/Napunk bináris rendszerben\|Napunk bináris rendszerben]]) által bejárt égi tartományok, melyek időközönként átfedésbe kerülnek. Ha valóban hinni lehet az apa-ikerfiúk relációban, akkor a két Nap valóban az Orion övéből, vagyis Nimrud ([[O/Orion\|Orion]]) fallosza tájékából nemződött ill. röppent-robbant ki. Itt vág össsze a magyar monda a fent említett Henry Knoll történettel és a National Geographic által 2012-ben kiadott kutatási eredménnyel is, miszerint a – és itt a NG téves gondolkozása érhető tetten – Napunk valamely testvér (ő sister-ként asszociál rá) csillagát már azóta elveszítve az Orion-köd mintegy 100 fényév-szélességű M67 nevű klaszterjából született: ennek valószinűségét nemcsak az növeli, hogy az itteni csillagok paraméterei egyezőek Napunkéval, de az is, hogy viszonylag közel, 2900 fényévnyire vagyunk tőle. Az elképzelést támadták is, mondván, ennyire messzire és gyorsan onnan kiszakadva a Napunk darabokra kellett volna szakadjon. Jelenleg a Napunk 67000 mérföld per óra (meg sem lepődünk, hogy ez éppen 108000 km/h) sebességgel távolodik M67-től, de a modellezés szerint ennél jóval nagyobb sebességgel kellett volna kicsapódnia, amit nem lett volna szabad túlélnie Napunknak. Akárhogy is, az atlantiszi-egyiptomi vagy kárpátiai magyarok ismerték a Naprendszerünk kialakulását, és nem véletlen, hogy a születési hely három csillagát formázták meg piramisokként a Földön (és akár korábban a Marson is).  
 
@@ -81,7 +81,7 @@ Gore könyvében az eredeti szöveg így áll:
 William Tyler Olcott Star Lore of All Ages című könyvében egyszerűen Al-Abur \[másutt Al-Habur\] jön elő (azonos jelentéssel[^3]). [[E/EB\|EB]] és [[I/Ivory\|ivory]] címnél hasonló szavak jöttek elő, így nem biztos, hogy éppen ezt jelenti.
 
 De hasonló alakú a homéroszi görög, Szíriuszra értett, őszi (csillag) jelentéssel megadott Oporinos is (lásd csatolt képen). [[O/Over\|Over]] és [[A/Ábra\|ábra]] címnél is előjöttek hasonló árja szavak, de lásd inkább legutóbb a [[H/Habiru\|Habiru]] alján írottakat.  
-![assets/Sziriuszmozgasa_image8.png](/img/user/S/assets/Sziriuszmozgasa_image8.png)  
+![assets/Sziriuszmozgasa_image8.png|invert_dark](/img/user/S/assets/Sziriuszmozgasa_image8.png)  
 Közben [[H/Héber\|héber]] cím alján még inkább helyre kerültek a dolgok.  
 
 Folytatás:  
@@ -100,16 +100,16 @@ Jankovics Marcell A fa mitológiája c. könyvének 133. oldalán ír a keresztf
 
 [[B/Bal és jobb\|Bal és jobb]] címnél szerepelt legutóbb (a [[M/Missera\|missera]] címnél szereplő adatsor friss átirata – lásd kimondottan az utolsó pár sort Procyon-Szíriusz kettőse kapcsán):  
 A [[K/Kutyafejű\|Cynocephalus]] és más címnél szereplő képen a [[T/Typhon\|Typhon]]i-kutyafejű alak a tejköpülő jobbfelén áll, míg a [[S/Széth\|Széth]] címnél szerepő képen Széth áll a jobb oldalon.  
-Az, hogy az ábrázolásokon mi kerül a bal és jobb oldalra, nem arbitráris. Már Pap Gábor is több előadásában szóvá teszi, hogy a magyar népművészetben is minden okkal kerül úgy és arra a helyre, ahova. Mindennek jelentősége van. JM könyveiben és a fenti passzusban is szól arról, hogy a Nap-Hold ikerpár hogyan szerepel az ábrázololásokon, és hogy a jobb oldal a világosságot hozó napkeltéé, a bal oldal a sötétséget hozó napnyugtáé.  
+Az, hogy az ábrázolásokon mi kerül a bal és jobb oldalra, nem arbitráris. Már Pap Gábor is több előadásában szóvá teszi, hogy a magyar népművészetben is minden okkal kerül úgy és arra a helyre, ahova. Mindennek jelentősége van. Jankovics Marcell könyveiben és a fenti passzusban is szól arról, hogy a Nap-Hold ikerpár hogyan szerepel az ábrázololásokon, és hogy a jobb oldal a világosságot hozó napkeltéé, a bal oldal a sötétséget hozó napnyugtáé.  
 A John Major Jenkins Galactic Alignment című könyvének 226. oldalán elemzett antiguai La Concepcion-on viszont bal oldalon áll a Nap és a jobbon a Hold, éppúgy ahogy Széth is egyrészről Hold-alak, de legalábbis a Nap öreg (szaturnikus) oldalával és sötétségével hozható kapcsolatba.  
-Persze nem mindegy, hogy honnan nézzük. Mert ha nem szemből nézzük, akkor a Nap a Szűzanya (melyet JMJ a Tejútközponttal azonosít) jobbján van (az egyébiránt asztrális eredetű futballban is a jobb oldal(ra leadott lövés) a kapus szemszögéből nézendő).  
+Persze nem mindegy, hogy honnan nézzük. Mert ha nem szemből nézzük, akkor a Nap a Szűzanya (melyet John M. Jenkins a Tejútközponttal azonosít) jobbján van (az egyébiránt asztrális eredetű futballban is a jobb oldal(ra leadott lövés) a kapus szemszögéből nézendő).  
 Ami persze az égi vontakozásokat illeti, a [[G/Geocentrikus világkép\|geocentrikus világkép]]ből kiindulva, minden irány a Földről nézve értelmezendő, hiszen ezen élünk és minden ránk vonatkozó hatás itt ér minket.  
 Igen ám, de nemcsak a napi, hanem a Kis Éves és [[N/Nagy Év\|Nagy Év]]es ciklusban is létezik bal és jobb oldal tagolás, ahogy [[B/Balance\|balance]] címnél is szó esett róla.  
 Ez az érdekesebbik része, annak megértésében, hogy a Nagy Év hanyatló és emelkedő félesztendei között is létezik egy bal és jobb oldali tagolás, ahol a tagoló tengely a Tejúttal azonosítható [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]].  
 [[M/Missera\|Missera]] címnél arról volt szó, hogy a teljes precessziós időkör kódneve a [[K/Kilences számrendszer\|kilences számrendszer]]ű 108, egyszerűsítve ("műveleti okokból") 100, melynek etimonja [[S/SZAT\|SZAT]], mely (tér)idő jelentésű.  
 A száznak értelmezett egész két félre osztható, ikresített [[O/Ötven\|ötven]] tagokra, mely ötven egyrészt a 13000 év kódszáma, másrészt a felező tengely, a Tejút [[O/Ötevény\|Ötevény]][^4] nevével is egyező. (Ha nagyon bele akarunk menni, ezek szerint az ötven lehetett az első szám, mely ezt a V-N vázú végződést kapta, és ennek mintájára mondjuk, hogy negyven, hatvan, stb.)  
 A SZAT-tal kapcsolatba hozott [[C/Csata\|csata]] címnél pedig [[H/HAT\|HAT]] számunkról is volt szó: ott arra a következetésre jutottunk, hogy a hat azon állapot, amikor Nagy Év Nyilas-Ikrek tengelye alsópontjáról megindulunk a hét, a felső pont felé. Mondhatni 6 és 7 Nagy Év időkörére vonatkozó számok-stációk között annyi idő telik el, mint a 100 fele, 50 alatt, azaz 13000 év.  
-JMJ adatai alapján is tudjuk, hogy a Nagy Évben a Nap 13000 évente halad át a Tejúton, annak is egy fontos pontján, a Tejútközponton (minden JMJ-től származó infót lásd [[G/Galactic centre\|Galactic centre]]). Ez is igazolja az 50 és a 13000 "azonosságát."  
+John M. Jenkins adatai alapján is tudjuk, hogy a Nagy Évben a Nap 13000 évente halad át a Tejúton, annak is egy fontos pontján, a Tejútközponton (minden JMJ-től származó infót lásd [[G/Galactic centre\|Galactic centre]]). Ez is igazolja az 50 és a 13000 "azonosságát."  
 Ez a 13000 évenkénti egyszer a Tejút egyik, egyszer másik oldalán létünk lehet magyarázat arra is, hogy miért van a [[P/Procyon\|Procyon]] és a Szíriusz egyszer az egyik, mássszor a másik "Tejútparton."  
 De az sem mellékes, hogy 13000/50 = 260, és ez a [[M/Maja naptár\|maja naptár]] napokban mért hossza, illetve megközelítőleg az ember-embrió méhen belüli fejlődési ideje is.  
 Talán éppen ez a számítás az, ami elvetni látszik a Joscelyn Godwin Arktos The Polar Myth című könyvében taglalt Drayson 32000 éves és Milankovitch 41000 éves ciklusait. Persze korántsem tudjuk, hogy például 6-8 ezer évvel ezelőtt, vagy éppen 32-34 ezer évvel ezelőtt milyen szög alatt állt a Föld tengelye az ekliptikához képest, és hogy éppen a Szíriusszal való tánc pontosan hogyan befolyásolja a Naprendszerünk mozgását és a Föld tengelyének ferdeségét, melyről azt állítják, hogy változik.  
@@ -148,14 +148,14 @@ Nem lennék meglepve, ha az alábbi ...
 > A Szíriusz nem volt mindig az a fényes kék csillag, amelyet manapság a déli égbolton látunk, mert a Naphoz és a körülötte keringő Földhöz képest a Szíriusz mozog. Körülbelül ötmillió évvel ezelőtt a Lynx csillagképben volt, több mint 70°-kal távolabb a mostani helyzetétől, és sokkal halványabban jelent meg.
 >
 > A Szíriuszról Dr. Rob van Gent készített egy aktuális paramétereket tartalmazó diagramot (3.6. ábra).  
-> ![assets/Sziriuszmozgasa_image10.png](/img/user/S/assets/Sziriuszmozgasa_image10.png)  
+> ![assets/Sziriuszmozgasa_image10.png|invert_dark](/img/user/S/assets/Sziriuszmozgasa_image10.png)  
 > A Szíriusz látszólagos helyváltoztatása az égen, a Naprendszerből nézve, több mozgás kombinációja. Először is, az α CMa saját mozgást végez a galaxisban; ugyanígy a Nap és az egész Naprendszer is. Ez okozza, hogy mind a tárgy helyzete, amelyet nézünk, mind a hely, ahonnan nézzük, idővel változik. Mi csak a Szíriusz relatív helyváltoztatását ismerjük a "fix" csillagokhoz képest, amelyek a valóságban sokkal távolabb vannak, mint a Szíriusz, ezért látszólagos mozgásuk kicsi vagy elhanyagolható. A két mozgás kombinációja a "sajátmozgás", és a Szíriusz relatív helyzetének változását jelenti. Egységei a legtöbb csillag esetében századonként ívmásodperc, a legközelebbi, gyorsan mozgó csillagok esetében pedig évenként ívmásodperc (a Szíriusz sajátmozgása az egyik legnagyobb az égbolton: a Hipparcos műhold által mért 1".34 yr¯¹, a Barnard-csillag esetében 10".3 yr¯¹). A 3.5. ábrán látható ábra a Szíriusz ∼100 éves sajátmozgását ábrázolja, és Flammarion (1884) munkájából származik, aki megemlíti, hogy a Szíriusz általános környezetében lévő többi fényes csillag alig változtatja a helyzetét ilyen csillagászatilag rövid időintervallumban.  
 > A Szíriusz a jobbra emelkedés (nyugat) és a deklináció (dél) alacsonyabb értékei felé mozog, ahogy Flammarion ábrája is mutatja (lásd a 3.5. ábrát).  
 > A teljes sajátmozgás a Szíriusz távolságában ∼15 km s¯¹ keresztirányú térbeli sebességet jelent. Ez az a sebesség, amellyel a Szíriusz a Naptól nézve a látóvonalra merőlegesen mozog.  
 
-![assets/Sziriuszmozgasa_image11.png](/img/user/S/assets/Sziriuszmozgasa_image11.png)  
+![assets/Sziriuszmozgasa_image11.png|invert_dark](/img/user/S/assets/Sziriuszmozgasa_image11.png)  
 Lényegében Brosch könyve is ugyanazt mondja, mint Holbergé (és ugyanúgy belekeveri a korábbi fejlettségi fokán álló embert):  
-![assets/Sziriuszmozgasa_image12.png](/img/user/S/assets/Sziriuszmozgasa_image12.png)  
+![assets/Sziriuszmozgasa_image12.png|invert_dark](/img/user/S/assets/Sziriuszmozgasa_image12.png)  
 > The motion within the nearby Galaxy causes Sirius to "close in" to the Sun; five million years ago α CMa was a faint star, barely visible at ∼ 6th mag. During this period, in which the first man-apes became Homo Sapiens, Sirius came much closer to the Sun and became a -1.5 mag object, i.e., a thousand times brighter. Sirius became the brightest star in our skies only ∼90,000 years ago, when it overtook Canopus in brilliance. It will maintain this title for about 210,000 years while continuing to brighten slightly from its -1.44 mag for the next ∼60,000 years as it draws nearer the Sun. At its closest it will be only a bit further than eight light-years away in the constellation Columba (the Pigeon, south of Lepus the Hare) and it will shine as a -1.7 mag star.  
 > —  
 > A közeli galaxison belüli mozgás miatt a Szíriusz "közeledik" a Naphoz; ötmillió évvel ezelőtt az α CMa egy halvány csillag volt, alig látható ∼ 6. maggal. Ebben az időszakban, amikor az első emberszabásúakból Homo Sapiens lett, a Szíriusz sokkal közelebb került a Naphoz, és -1,5 magos objektummá, azaz ezerszer fényesebbé vált. A Szíriusz csak ∼90 000 évvel ezelőtt vált égboltunk legfényesebb csillagává, amikor fényességben megelőzte a Canopust. Ezt a címet körülbelül 210 000 évig fogja megtartani, miközben a következő ∼60 000 évben -1,44 magról továbbra is kissé fényesebb lesz, ahogy közeledik a Naphoz. A legközelebbi időpontban már csak valamivel több mint nyolc fényévre lesz a Columba (a Galamb, a Lepus nyúl csillagképtől délre) csillagképben, és -1,7 magos csillagként fog ragyogni.  
@@ -179,7 +179,7 @@ Lásd még [[K/Kutya – két kutya\|kutya – két kutya]].
 
 Ahogy mondják, a Föld napközeli ([[P/Perihelion\|perihelion]]) pontja január másodika táján van, akkor, amikor a Nap, a Szíriusz és Föld egy vonalban helyezkednek el (akkor halad át a Föld). [[J/Johan Oldenkamp\|Johan Oldenkamp]] egyik videójában szintén szól az újévről és meggyőződése, hogy ennek, idejének Szíriuszhoz van köze (az ő [[T/Time\|time]] címnél lévő ábráján január harmadikára van írva a perihelion pont).  
 [[J/Johan Oldenkamp\|Johan Oldenkamp]] írja:  
-![assets/Sziriuszmozgasa_image13.png](/img/user/S/assets/Sziriuszmozgasa_image13.png)  
+![assets/Sziriuszmozgasa_image13.png|invert_dark](/img/user/S/assets/Sziriuszmozgasa_image13.png)  
 > After being dead for three days, on December 25th, the Messiah \[the Sun\] rises up from the dead and starts to move higher in the sky every following day (up until the summer solstice). By drawing a straight line from the three stars (also known as the Three Kings) in the Belt of Orion through the star Sirius (which the Kings followed), the crossing of that line with the horizon marked exactly the location of the rising Helios (or (re-)birth of Christ) on December 25th. The biblical version is just a personalized version of this celestial dynamics.  
 > —  
 > Miután három napig halott volt, december 25-én a Messiás \[a Nap\] feltámad a halálból, és minden következő napon (egészen a nyári napfordulóig) magasabbra emelkedik az égen. Ha az Orion-öv három csillagától (más néven a Három Királyoktól) a Szíriusz csillagán keresztül (amelyet a Királyok követtek) egyenes vonalat húztunk, akkor ennek a vonalnak a horizonton való keresztezése pontosan megjelölte a Héliosz felemelkedésének (vagy Krisztus (újra)születésének) helyét december 25-én. A bibliai változat ennek az égi dinamikának csak egy megszemélyesített változata.  
@@ -204,8 +204,8 @@ Nem tartom elképzelhetetlennek, hogy ilyesfajta meridián-áthaladás lehet [[N
 
 
 
-![assets/Galcen_image19.png](/img/user/G/assets/Galcen_image19.png)   
-Leenőriztem JMJ adatát az előbbi képen csatolt infora nézve. Szíriusz nagyon nem moccan ebből a "nadir(?)" pontból az égi egyenlítő alatt. Csak balra, jobbra mozog az évezredek során. Precesszió ugye bele van táplálva.  
+![assets/Galcen_image19.png|invert_dark](/img/user/G/assets/Galcen_image19.png)   
+Leenőriztem John M. Jenkins adatát az előbbi képen csatolt infora nézve. Szíriusz nagyon nem moccan ebből a "nadir(?)" pontból az égi egyenlítő alatt. Csak balra, jobbra mozog az évezredek során. Precesszió ugye bele van táplálva.  
 
 
 </div></div>
@@ -215,10 +215,10 @@ Leenőriztem JMJ adatát az előbbi képen csatolt infora nézve. Szíriusz nagy
 
 [[K/Kovács és a kutya\|Kovács és a kutya]] címnél tettük fel legutóbb a kérdést, hogy jó lenne tudni, Szíriusz miképpen lép ki az [[O/Orion övcsillagai\|Orion övcsillagai]] által összekötött és abból tovább húzott egyeneshez mérten (ha egyáltalán, hiszen úgy mondják, a [[P/Precesszió\|precesszió]] nem hat a Szíriuszra). Mert hát a mítosz csillagászati, csak érteni kell. A [[D/Dzsed\|dzsed]] címnél is említett, [alábbi](https://youtu.be/6FUOz2WibiM) Szent Koronáról szóló, Németh Gergely féle ÁKA előadásban 18:27-nél esik szó arról, hogy a Szíriusz a [[P/Precesszió\|precesszió]] függvényében (ezek szerint nem oldalirányú, hanem) oszcillálló, "ketyegő" mozgást végez (már ha ez az igazságot takarja); másutt pedig arról, hogy a precesszió mellett a Föld folyamatos tengelyferdülését is számításba kell venni.  
 [[T/Tengely\|Tengely]] címnél tettem arról említést, hogy ez a jelenség kifejeződhet a magyar és magyarutód nyelvekben.  
-![assets/Sziriuszmozgasa_image14.jpeg](/img/user/S/assets/Sziriuszmozgasa_image14.jpeg)  
+![assets/Sziriuszmozgasa_image14.jpeg|invert_light](/img/user/S/assets/Sziriuszmozgasa_image14.jpeg)  
 Az eredeti [alábbi](https://www.youtube.com/watch?v=V67qv9QbkPg) Jézuspasszport – Az Időkód II. című videóban 4:00-tól van szó a témáról. A képen a Kheopsz (Kufu) piramis és a Szíriusz.  
 A másik csillag baloldalt nyilván a [[S/Sarkcsillag\|Sarkcsillag]], míg maga a piramis felfogható a [[V/Világhegy\|Világhegy]]en kívül a világtengelynek, illetve a libikóka központi felfüggesztési pontjának. [[K/Kantár\|Kantár]] címnél is írtuk:  
-![assets/Sziriuszmozgasa_image15.png](/img/user/S/assets/Sziriuszmozgasa_image15.png)  
+![assets/Sziriuszmozgasa_image15.png|invert_dark](/img/user/S/assets/Sziriuszmozgasa_image15.png)  
 [[H/Hunter\|Hunter]]-Orionról volt szó [[N/Nap#Nap és Orion\|Nap és Orion]] cím/alcímnél, [[H/Hunor csillagkép\|Hunor csillagkép]] és [[I/Íj csillagkép\|Íj csillagkép]] címnél is. Az ég illetve a téridő egyik sarokpontja a nyári napforduló. Úgy tűnik, hogy [[S/Szíriusz és a medvék\|Szíriusz és a medvék]] címnél írottak alapján is, hogy Hunter és a Sarkcsillag kapcsolatban állnak egymással. Ezt a két csillagot, a Sarkcsillagot és a Szíriuszt (minthogy Hunter-ben az [[O/Orion övcsillagai\|Orion övcsillagai]] és a Szíriusz összetartoznak) figyelték a Kheopsz/Kufu piramisból is.  
 Hogy ez mennyiben befolyásolja a [[D/Dzsed\|dzsed]] címnél boncolgatott dolgokat, az majd még kiderül. Mindenesetre ha lesz előrehaladás a témában, akkor az eredményeket oda is be kell tenni. [[O/Orion\|Orion]] oszcillálásáról egyébként volt szó [[G/Galactic centre\|Galactic centre]] címnél. Ott 40000 év jött elő. A másik mellékelt kép [[O/Orion övcsillagai\|Orion övcsillagai]] címnél is szerepelt.  
 

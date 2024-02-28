@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz és a nyíl/","title":"Szíriusz és a nyíl","tags":["Englishtexttranslated"],"created":"2023-10-30T07:54","updated":"2024-02-02T03:58"}
+{"dg-publish":true,"permalink":"/S/Szíriusz és a nyíl/","title":"Szíriusz és a nyíl","tags":["Englishtexttranslated"],"created":"2023-10-30T07:54","updated":"2024-02-29T00:43"}
 ---
 
 
@@ -15,7 +15,7 @@ Persze a görög ábrázolásokon is Nimrud íját a Bika Csk. irányába feszí
 [[N/Nimrud#Nimrud vadász íja – merre áll és mint öl/nemz\|Nimrud vadász íja – merre áll és mint öl/nemz]] cím/alcímnél közben egy újszerű gondolatot vetettem fel: Nimrud íja/nyila a Tejútközpontban lévő vulva irányába is szegeztethet, hiszem szemből nem lehetett megrajzolni.  
 Ez az elképzelés mondjuk ellentmond [[S/Száj\|száj]] és más címnél írottaknak, az igaz.  
 
-![assets/Szirnyil_image1.png](/img/user/S/assets/Szirnyil_image1.png)  
+![assets/Szirnyil_image1.png|invert_dark](/img/user/S/assets/Szirnyil_image1.png)  
 
 #### Noah Brosch Sirius Matters...
 
@@ -34,7 +34,7 @@ Ez az elképzelés mondjuk ellentmond [[S/Száj\|száj]] és más címnél írot
 > A későbbi perzsák a Szíriuszra [[T/Tír\|Tír]]-ként utaltak, ami szintén "a nyílvesszőt" jelentette.  
 
 A csatolt kép Gavin White Babylonian Star Lore című könyvéből való és [[U/Urgula\|Urgula]] címnél is szerepelt. Iráni és indiai csillagtérkép hiányában (utóbbit lásd [[M/Mrigashira\|Mrigashira]]) megteszi.  
-![assets/Szirnyil_image2.png](/img/user/S/assets/Szirnyil_image2.png)  
+![assets/Szirnyil_image2.png|invert_dark](/img/user/S/assets/Szirnyil_image2.png)  
 
 Babilonban Szíriusz neve MUL.KAK.SI.DI: a Hamlet Malma írói szerint, "aki megméri a tengerek mélyét[^1]". A "[[M/MUL\|Mul]]" egy csillagokat jelölő előképző, KAK.SI.DI jelentése "nyílvessző", s épp ez a nyílvessző áll a legtöbb meghökkentő íjásztörténet hátterében. Az íj, melyből kiröpítik, az [[A/Argo\|Argo]] és [[C/Canis Maior\|Canis Maior]] csillagaiból alkotott csillagkép, s jól ismert Mezopotámia, Egyiptom és Kína övezeteiben. És mivel Istár nevén Vénusz és Szíriusz osztozik, lehet tudni, ki "keveri föl az Apszút Ea előtt".  
 
@@ -43,7 +43,7 @@ Babilonban Szíriusz neve MUL.KAK.SI.DI: a Hamlet Malma írói szerint, "aki meg
 > Dittrich (1928) found evidence in Babylonian writings for a red Sirius. He quoted the writing on a stele dated from king A´sur-nasir-apal (885-860 BCE) that these were the days of KAK.SI.DI, which shone as red as copper. KAK.SI.DI was apparently the name Babylonians gave to Sirius; it formed the tip of the arrow in the depiction of one of their constellations as Figure 2.13 show (Brecher 1979).  
 > —  
 > Dittrich (1928) a babiloni írásokban bizonyítékot talált a vörös Szíriuszra. Egy A´sur-nasir-apal király (i. e. 885-860) korabeli sztélén található írást idézett, amely szerint ezek a napok a KAK.SI.DI napjai voltak, amely vörösként ragyogott, mint a réz. A KAK.SI.DI nyilvánvalóan a babiloniak neve volt a Szíriuszra; ez alkotta a nyíl hegyét az egyik csillagképük ábrázolásán, amint azt a 2.13. ábra mutatja (Brecher 1979).  
-> ![assets/Szirnyil_image3.jpeg](/img/user/S/assets/Szirnyil_image3.jpeg)  
+> ![assets/Szirnyil_image3.jpeg|invert_dark](/img/user/S/assets/Szirnyil_image3.jpeg)  
 
 A [[T/Tír\|tír]] valóban nyíl ma is a perzsában (CzF a tör (vagy tőr?) szóhoz rokonítja).  
 A Szíriusz korábbi iráni Zend elnevezését, szintén íjász-kapcsolódással, Jankovics Marcelltől és Tilaktól származó passzussal kiegészítve lásd [[S/Szíriusz Iránban\|Szíriusz Iránban]].  
@@ -84,7 +84,7 @@ Egy újdonsült ("fringe" kutatóként[^3] nyilván rengeteg zagyvalékkal elő�
 > —  
 > A Második Világ Bárkája azonosítható az Argóval, már csak azért is, mert az Argo egy hajó volt, és 50 csillag volt rajta, a Második Világ szent száma. Mindkét korszak a Szíriuszhoz kapcsolódik, amely szintén mindkét korszak mérője volt[^4]. A Szíriuszt egy nyíllal azonosították (talán az idő nyilának szimbólumának eredete?), és állítólag árvizeket okozott. A babiloni újévben a Szíriusz a mul.KAK.SI.DI, 'aki a tenger mélységét mériʼ néven volt ismert. A [[M/MUL\|mul]] a csillagot jelentő előtag, a KAK.SI.DI jelentése 'nyílʼ, és ez a nyíl a mélység – a mélység mérője. Ez közvetlenül kapcsolódik a mélység sós vizének mítoszához, amely az özönvizet okozta. A fa kivágása okozta az örvény létrejöttét. Ezt a kozmikus tengelynek vagy a Világ köldökének nevezték. A köldök az emberi testben lévő "lyuk", amely összekötötte annak belsejét az anyával, a táplálóval, a gyermek és a szülő közötti "kozmikus tengelyt".  
 > A legendák szerint **ha nyilat lőttek a nyílásba, az tüzet okozott**. Így amikor a Szíriusz a mélységet mérte, és beledobta a nyilát, azt mondták, hogy tüzet okozott a mélységben.
-- A nyíl, mint [[V/Villám\|villám]]köteg viszont a teremtést ([[K/Kutyanemzés\|kutyanemzés]]t: lásd JM írását alant) is szimbolizálja, azaz itt a tűz alatt lényegében olyan sugárzást lehet érteni, melyről [[H/Henry Kroll\|Henry Kroll]] is szólt könyvében.  
+- A nyíl, mint [[V/Villám\|villám]]köteg viszont a teremtést ([[K/Kutyanemzés\|kutyanemzés]]t: lásd Jankovics Marcell írását alant) is szimbolizálja, azaz itt a tűz alatt lényegében olyan sugárzást lehet érteni, melyről [[H/Henry Kroll\|Henry Kroll]] is szólt könyvében.  
 
 > But – and this is the key aspect that got parked outside of the debate – Sirius was not the only star that made this 'arrowʼ , that was part of the 'plumb lineʼ measuring the Abyss. Its colleague in those tasks was [[C/Canopus\|Canopus]], which we have already identified with the plumb line, if only in its concept of 'heavy.' One of the reasons why Sirius and Canopus are deemed to measure the Abyss is because Canopus is situated virtually directly South from Sirius. Visually, a line connecting Sirius and Canopus would thus be considered a 'plumb line,' with Canopus the weight at the bottom of it. As Canopus was the star of the 'opening' we must realise this 'measuring of the Deepʼ was not solely the work of Sirius – for the measuring would obviously take the measurement from Canopus, the 'ceilingʼ to which the waters of the Deep could rise before the cistern overflowed and deluged the fresh waters. To conclude with a final series of quotes from The Canopus Revelation: "So in astronomical mythology, Sirius and Canopus seemed to play with the hole Canopus was blocking. If Canopus, in the form of a tree, was felled, it opened the Abyss and its salt water: a Deluge. If at the same time Sirius dropped into the hole of Canopus, measuring the depth of the Abyss, the result was fire.  
 > —  
@@ -134,7 +134,7 @@ A Martin Klingbeil Yahweh Fighting from Heaven című könyvében elemzett íjas
 ## Lábjegyzetek
 
 [^1]: Lábjegyzet:  
-Vízfakasztás témájában írja JM e kapcsán másutt:  
+Vízfakasztás témájában írja Jankovics Marcell e kapcsán másutt:  
 A szárazság véget ér, megindulnak az égi vagy a földi vizek. Már említettem, hogy Plinius szerint a Szíriusz kavarja föl a tengereket, emeli meg a vizek szintjét; jelképes értelemben akkor, amikor az égi íjász nyílvesszeje a vizek közepébe (a Szíriuszba) áll.  
 —  
 Santillana más írásában bővebben kifejti ([[I/Íj és a nyíl\|íj és a nyíl]] és más címnél is szerepelt, angolul is; én itt már csak magyarul adom):  

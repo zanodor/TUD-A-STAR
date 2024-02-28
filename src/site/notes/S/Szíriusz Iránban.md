@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz Iránban/","title":"Szíriusz Iránban","tags":["Englishtexttranslated"],"created":"2023-10-29T06:02","updated":"2024-02-02T03:57"}
+{"dg-publish":true,"permalink":"/S/Szíriusz Iránban/","title":"Szíriusz Iránban","tags":["Englishtexttranslated"],"created":"2023-10-29T06:02","updated":"2024-02-29T00:41"}
 ---
 
 
@@ -7,14 +7,14 @@
 
 Bevezetést, kiegészítést illetve a fő vonulatot lásd [[S/Szíriusz és a nyíl\|Szíriusz és a nyíl]].  
 Csatolva egy kb. 125 éves angol-perzsa szótár adata, mely kutya és Szíriusz címnél úgy szerepeltette a csillagnevet, mintha csak kedvenc pisztáciájáról írna szerzője.  
-![assets/SziriuszIranban_image1.png](/img/user/S/assets/SziriuszIranban_image1.png)  
+![assets/SziriuszIranban_image1.png|invert_dark](/img/user/S/assets/SziriuszIranban_image1.png)  
 
-A Szíriusz korábbi, Zend Avesztában talált elnevezése [[T/Tistrya\|Tishtrya]]. A kutatók viszont a "Szentháromságban" nem a csillag, hanem a három jelentésre asszociálnak, így egyesek a dogonok által említett Szíriusz A-B-C hármasra, mások – ahogy JM forrásai is, köztük Tilakkal \[lásd írását [[T/Tistrya\|Tishtrya]]\] – az Orion övcsillagaira, minthogy az ezek által meghúzható egyenes meghosszabbításában van a fényes kutyacsillag:  
+A Szíriusz korábbi, Zend Avesztában talált elnevezése [[T/Tistrya\|Tishtrya]]. A kutatók viszont a "Szentháromságban" nem a csillag, hanem a három jelentésre asszociálnak, így egyesek a dogonok által említett Szíriusz A-B-C hármasra, mások – ahogy Jankovics Marcell forrásai is, köztük Tilakkal \[lásd írását [[T/Tistrya\|Tishtrya]]\] – az Orion övcsillagaira, minthogy az ezek által meghúzható egyenes meghosszabbításában van a fényes kutyacsillag:  
 > Another ancient Near East religion, Zoroastrianism, stated in its sacred the Zend-Avesta book that the Supreme God established as Master and Overseer of all the stars the star Sirius, called Tishtriya.  
 > —  
 > Egy másik ókori közel-keleti vallás, a [[Z/Zoroasztrianizmus\|zoroasztrianizmus]], szent könyvében, a Zend-Avesztában azt állította, hogy a Legfelsőbb Isten az összes csillag Mestereként és Felügyelőjeként a Szíriusz csillagot, a Tishtriya nevű csillagot hozta létre.  
 
-![assets/SziriuszIranban_image2.png](/img/user/S/assets/SziriuszIranban_image2.png)  
+![assets/SziriuszIranban_image2.png|invert_dark](/img/user/S/assets/SziriuszIranban_image2.png)  
 > An association of Sirius with water occurs in the Zend-Avesta, which calls Tishtriya (Sirius) the responsible for rain and the enemy of the daemon of dryness. According to the Zend-Avesta, the Supreme God once made Tishtriya cause a massive flood as punishment for men's wickedness and corruption.  
 >
 > The Iranian mythology personified Sirius as Tishtrya, the divine archer (the corresponding character in the Vedic myths was Tishya). The name "Tishtrya" goes back to the Sanskrit term "three stars" and to an older Indo-European one of the same meaning. Some scholars prefer to see here a designation of the Belt of Orion.  
@@ -27,7 +27,7 @@ Richard H. Allen Star Names című művében említi, hogy bizonyos Edkins nevű
 Véleményem szerint minden igen fényes csillagnak is neve lehetett, hiszen jelentése erről tanúskodik. Jelző ez, nem tulajdonnév.  
 [[S/Satavaesa\|Satavaesa]] címnél szerepel William F. Warren véleménye is.  
 
-[[S/Szent László és a leányszöktető kun\|Szent László és a leányszöktető kun]] címnél (több is) szerepelt JM adatai (közül):  
+[[S/Szent László és a leányszöktető kun\|Szent László és a leányszöktető kun]] címnél (több is) szerepelt Jankovics Marcell adatai (közül):  
 > A szóban forgó csillagmítoszt az egyiptomiak szinte szó szerint így mesélték. Oriont Ozirisz, a [[N/Nap – halott Nap\|halott Nap]] istene személyesíti meg, a rátámadó Bikát gyilkos fivére, [[S/Széth\|Széth]], míg a Nagy Kutya és a Hajótat együttese Ozirisz Szeth-hez pártolt feleségében, Íziszben testesül meg, akit a keresztény mitológia kutatói Szűz Mária előképének tekintenek. (Ez lehet az oka annak, hogy Íziszt még a művelt köztudat is csak a jó oldaláról ismeri.) Az istennőt ebben az összefüggésben fölajzott íjjal ábrázolják, olykor tehénfejjel (több okból, de azért is, mert itt és most a Bika-Szethtel alkot párt).  
 ![assets/SziriuszIranban_image3.png](/img/user/S/assets/SziriuszIranban_image3.png)  
 > A mítosz egy későbbi epizódja is említést érdemel. Miután Ízisz megszüli posztumusz gyermekét, Hóruszt, az értesül anyja árulásáról és bosszút áll, Ízisz fejét veszi. Ebben a történetben a fényes Íziszt már a "fejetlen" Szűz csillagkép testesíti meg az égen (az a csillagzat, mely mint a "vizek adományozója" is illik a "Tenger Csillagához" – az alatta látható Keverőedény csillagképből ömlik ki az égre az óriás Vízikígyó csillagkép –, és amely később szintén a Szent Szűz égi jele lett). Hórusz leszámol Szeth-tel is, megöli és darabokra tépi úgy, ahogy nagybátyja korábban apjával bánt el. Maradékát, a Szeth-bika északra "hajított" combját az egyiptomiak a Göncöllel azonosították "Marhacomb" néven. (A Bika csillagképnek hiányzik a hátsó fertálya!)  

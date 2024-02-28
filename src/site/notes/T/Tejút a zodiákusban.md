@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tejút a zodiákusban/","title":"Tejút a zodiákusban","tags":["Englishtexttranslated"],"created":"2023-10-30T04:26","updated":"2024-02-02T04:02"}
+{"dg-publish":true,"permalink":"/T/Tejút a zodiákusban/","title":"Tejút a zodiákusban","tags":["Englishtexttranslated"],"created":"2023-10-30T04:26","updated":"2024-02-29T00:44"}
 ---
 
 
@@ -10,7 +10,7 @@ Lásd bevezetésül [[T/Tejút\|Tejút]]. Bíró Lajos Táltosok könyvében ír
 A zodiákus zárt köréből a Tejútra két helyen nyílik [[K/Kapu\|kapu]]: ahol a Tejút a Nappályát metszi: a Bika-Ikrek és a Skorpió-Nyilas határvidékén. Az óhajtott együttállás, amikor az égi Út megnyílik a Föld lakója számára, a Nap, a Hold, a Vénusz és a Tejút találkozását jelenti, az Ikrek és Nyilas havabeli [[U/Újhold\|újhold]] idejét, amikor még a Vénusz is e jegyekben tartózkodik, ott, ahol a Nap és Hold. (Ilyenkor a Tejút Napos-Holdas égigérő fává lesz).  
 
 ![assets/Tejutazodiakusban_image2.png](/img/user/T/assets/Tejutazodiakusban_image2.png)  
-JMJ könyvének magyar fordítása:  
+John M. Jenkins könyvének magyar fordítása:  
 > ...ember a téli napfordulónak a galaktikus ekvátorral való egybeeséséről 2012. december 21-i időponttal, a maja naptár végső dátumával? Mivel harminchat évig tart a Napnak, hogy keresztülhaladjon a galaktikus ekvátoron, 1998 a középpontja annak az időszaknak, mely 1980-tól 2016-ig tart. Ahelyett hogy "2012"-ről beszélnénk, "2012-es Ablak-ról kellene beszélnünk, abban az értelemben, hogy a maja naptár pontos végső dátuma, 2012. december 21., ebbe az 1998. évi középpontú, harminchat éves periódusba esik.  
 > Bár kezdetben csalódottnak érezhetjük magunkat, hogy az időpont, melyet korábban olyan pontosnak hittünk az ősi maják azonosításában, valójában egy harminchat éves időtáv, fontoljuk csak meg a hatalmas időtartamot az egybeesések között: a napfordulónak vagy a napéjegyenlőségnek a galaktikus ekvátorral való egybeesése csak a precessziós kör minden egynegyedénél történik meg. vagyis 6.480 évenként. A napforduló következő egy vonalba esése 12.960 éven belül fog csak megtörténni. Az hogy a maja naptár, mely valószínűsíthetően messzebbre nyúlik vissza az időben, mint a mi keresztény naptárunk, ilyen pontossággal rögzíteni tudta ezt a ritka, egyedi, asztronómiai eseményt ilyen pontossággal, igen meglepő. Létezhetnek még más naptárak is hasonló előrelátással?  
 
@@ -49,7 +49,7 @@ De [[S/SZAT\|SZAT]] címnél bővebben esik szó, ha nem is Tejút-kapukról, de
 
 Az Égigérő fa típusú mesékben a fa a Tejutat szimbolizálja, mely a [[B/Bika-Skorpió tengely\|Bika-Skorpió tengely]]en nyugszik illetve látszik meghúzódni.  
 
-![assets/Tejutazodiakusban_image6.png](/img/user/T/assets/Tejutazodiakusban_image6.png)  
+![assets/Tejutazodiakusban_image6.png|invert_dark](/img/user/T/assets/Tejutazodiakusban_image6.png)  
 Két oldalon állásról volt szó [[V/Vízöntő paradoxon\|Vízöntő paradoxon]], [[S/Swastika\|swastika]] (a mellékelt kép is innen való) és [[K/Küszöb\|küszöb]] címnél, de lásd még [[P/Psychopomp\|psychopomp]] címnél azon adatot is, amely makedón katonák kutyafelszabdalására utal (illetve alant is megvan[^1]). [[S/Sarama\|Sarama]] címnél magáról az átjutásról, nehézségeiről volt szó, da ha már Sarama = Szíriusz, lásd [[S/Szíriusz mozgása\|Szíriusz mozgása]] címnél írottakat is.  
 
 Legutóbb [[S/Szent Kristóf\|Szent Kristóf]] címnél is szerepelt:  
@@ -60,7 +60,7 @@ Legutóbb [[S/Szent Kristóf\|Szent Kristóf]] címnél is szerepelt:
 > —  
 > A fent említett másik három szent közül kettőnek a halála július 25-re esik, Szent Kristóf napjára, valamint a [[S/Szíriusz heliakus kelése\|Szíriusz heliákus kelésé]]nek napjára. Az első közülük Jakab, az a Jakab, akinek zarándokútja Compostellóba (latinul campus-stellae, "a csillagok mezeje"), a középkorban a legnépszerűbb volt. Gaignebet szerint megint csak egy pogány helyszín keresztényesítését jelenti a Compostellóban lévő Szent Jakab-templom, amely Galícia nyugati partján, az ókori világ egyik nyugati végpontján áll. A Compostellóba vezető "csillagösvény" a naplemente, és így a holtak földje felé vezető ösvény volt. Mint ilyen, az út a **a mennyei Tejút földi homológja volt, amelynek kapuját – amelyen keresztül a nyugat felé haladó nap áthaladt – a csillagkutyák, a Canis major és a Canis minor, valamint a Szíriusz és a Procyon** kutyacsillagok őrizték.  
 
-Ezen [[J/Július 25\|július 25]]. dátum előjött [[F/Furinalia\|Furinalia]] és [[K/Kutyaáldozás\|kutyaáldozás]] címnél is, de [[S/Szent Jakab\|Szent Jakab]] (az apostol) ünnepe is erre a napra esik. JM ott szereplő adata szerint **a nyári Nap Jakab napja \[július 25.\] körül hagyta el a Tejutat**.  
+Ezen [[J/Július 25\|július 25]]. dátum előjött [[F/Furinalia\|Furinalia]] és [[K/Kutyaáldozás\|kutyaáldozás]] címnél is, de [[S/Szent Jakab\|Szent Jakab]] (az apostol) ünnepe is erre a napra esik. Jankovics Marcell ott szereplő adata szerint **a nyári Nap Jakab napja \[július 25.\] körül hagyta el a Tejutat**.  
 
 Hogy ezen kutya-őrzőkben kell látni a mitológiai [[C/Cerberus\|Cerberus]] és [[O/Orthros\|Orthros]] alakokat is, kétségtelen. Szerepükről [[P/Psychopomp\|psychopomp]] címnél volt szó bőséggel, valamint [[K/Kutyaáldozás\|kutyaáldozás]] címnél szerepeltek az alábbiak:  
 Az ember azt várná, hogy netán Szíriusz-Nap-Föld együttállásokhoz lehetne kötni ezen áldozó-ünnepek napjait, különösen az alábbiak alapján:  
@@ -87,7 +87,7 @@ Hasonló a makedón szokáshoz:
 > A kutyaáldozatoknak katartikus dimenziója volt a csata vagy katonai expedíció előtti tisztulási rituálékban (Nilsson 1906: 405-406). Sok esetben az ilyen szertartásokhoz tartozott, hogy a katonák egy levágott kutya két fele között vonultak fel. Plutarkhosz említ ilyen példákat a boiótiai és thébai hadseregben (lásd Megas 1923: 509). Hérodotosz ókori görög történetíró szerint Xerxész perzsa király a Görögország elleni hadjárata során egy feláldozott ember két része között vonultatta fel csapatait, ami arra emlékeztet, hogy a kutya az emberi áldozatokat helyettesítette (Nilsson 1906: 405-406). Tágabb indoeurópai kontextusban F. Blaive említi a hettiták hasonló felvonulását egy ember, egy kutya vagy más állat darabjai között. Sőt, Indiában az Ashva-medha (lóáldozat) szertartás során kutyát áldoztak fel, hogy megvédjék és növeljék az értékes lovak számát (Blaive 1995: 287).  
 
 Szó van arról is, hogy a Szíriusz korábban a Tejút másik oldalán volt:  
-![assets/Tejutazodiakusban_image7.png](/img/user/T/assets/Tejutazodiakusban_image7.png)  
+![assets/Tejutazodiakusban_image7.png|invert_dark](/img/user/T/assets/Tejutazodiakusban_image7.png)  
 > At this point, and considering the perceived motion of Sirius among the stars, it is interesting to mention a proposition by Gore[^2] (1903) based on one of the Arabic names of Sirius: al-schira al-abur ("Sirius which has passed across"). Gore linked this name with Al Sufi's mention of a mythological explanation that Sirius crossed the Milky Way in the direction of Canopus. This obviously happened during the Stone Age and, if correctly representing the human memory of an astronomical event, is truly amazing.  
 > 60,000 years ago Sirius was located on the eastern border of the Milky Way, whereas it is now located on its western border. This is the result of its proper motion, a combination of its orbit around the center of the Milky Way galaxy and of the similar motion of the Sun and Earth.  
 > —  

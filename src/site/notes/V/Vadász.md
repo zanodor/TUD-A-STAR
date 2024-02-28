@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","created":"2023-10-13T05:41","updated":"2024-02-10T04:25"}
+{"dg-publish":true,"permalink":"/V/Vadász/","title":"Vadász","created":"2023-10-13T05:41","updated":"2024-02-29T00:47"}
 ---
 
 
@@ -23,7 +23,7 @@ CzF szótár vadol szónál írja:
 ## Nagy vadász
 
 Nimród nagy vadász volt az Úr előtt, írja a Biblia. Bognár Ferenc A magyarok istene című cikkében bemutatja, hogy különböző nyelveken hogyan nézett ki ez az összefüggés, hogy Nagy Vadász majd egy másik bibiliai helyet is bemutat:  
-![assets/Vadász_image1.jpeg](/img/user/V/assets/Vad%C3%A1sz_image1.jpeg)  
+![assets/Vadász_image1.jpeg|invert_dark](/img/user/V/assets/Vad%C3%A1sz_image1.jpeg)  
 Gen 10.9 (Nimród) nagy vadász (volt az Úr előtt):  
 Na most, a (kétes) latin eredetre visszavitt francia `chasseur`, spanyol `cazador` és olasz `cacciatore` = vadász szavak (idetartozik az angol [[C/Chase\|chase]] = űz ige is) olyan hazar/kazár alakú törzsre visszavihetőek[^1], mint a [[H/Hazard\|hazard]] címnél előjövő perzsa `házár` = garázdálkodás és a CzF ugyancsak házsárt címszavánál taglalt, franczia szótárakban ismeretlen viaskodási jelentések is előjönnek.  
 

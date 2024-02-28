@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/T/Th/","title":"Th","tags":["dg_uploaded"],"created":"2023-10-21T04:27","updated":"2023-10-28T08:06"}
+{"dg-publish":true,"permalink":"/T/Th/","title":"Th","created":"2023-10-21T04:27","updated":"2024-02-29T00:45"}
 ---
 
 
 # Th
 
 Angol, arab és spanyol nyelvben Sz és T között álló hang, mely angolban zöngés (például that) és zöngétlen (például mouth) formát is felvehet. Mondhatjuk az északi germán eth (ð) és thorn (þ) változataiként is.  
-![assets/Th_image1.png](/img/user/T/assets/Th_image1.png)  
+![assets/Th_image1.png|invert_dark](/img/user/T/assets/Th_image1.png)  
  
 Például [[M/Mithra\|Mithra]] nevében is ez a hang lehetett meg, hiszen a kiinduló [[M/MISZ\|MISZ]] változik Mith-re.  
 - Azt jegyezzük meg, hogy Mithra nevét immáron Mhir < [[M/Mger\|Mger]] < [[M/Magor\|Magor]] nevéből ill. fejlődési sorozattal is levezettük.  
@@ -21,8 +21,8 @@ Az angol -th szuffixum, mely sokszor zöngés d-nek illik be, másutt sz-hez kö
 Grandpierre Atilla is szól arról, hogy édesapja Thargitaosz nevének elemzésekor kimutatta, hogy mivel a görögben a szóeleji h hangtalan, ha meg akarja tartani, akkor más hangot vet eléje. Így kapta meg a Hargita nevet.  
 Erről a jelenségről [[C/Chthonic\|chthonic]] címnél is volt szó.  
 
-Könnyen lehet, hogy a MA által is adatolt görög `talassza` = tenger is \*thalassza, azaz halászattal kapcsolatos, bár az alábbiak alapján nem valószínű:  
-Az MA által adatolt német (azaz őstörök) `tal` = völgy szó egyezik az angol [[D/Dale\|dale]] = völgy szóval is, továbbá a mai török `dalga` = hullám szóval is azonos, amely török szó egyik származéka a szerb `talasz` = hullám, a másik pedig a görög `talassza`, `talatta` = tenger szó.  
+Könnyen lehet, hogy a Magyar Adorján által is adatolt görög `talassza` = tenger is \*thalassza, azaz halászattal kapcsolatos, bár az alábbiak alapján nem valószínű:  
+Az Magyar Adorján által adatolt német (azaz őstörök) `tal` = völgy szó egyezik az angol [[D/Dale\|dale]] = völgy szóval is, továbbá a mai török `dalga` = hullám szóval is azonos, amely török szó egyik származéka a szerb `talasz` = hullám, a másik pedig a görög `talassza`, `talatta` = tenger szó.  
 
 ## Török adatok
 

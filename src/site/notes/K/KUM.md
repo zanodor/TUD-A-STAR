@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/KUM/","title":"KUM","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-09T04:40","updated":"2024-02-10T04:04"}
+{"dg-publish":true,"permalink":"/K/KUM/","title":"KUM","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-11-09T04:40","updated":"2024-02-29T00:39"}
 ---
 
 
@@ -19,7 +19,7 @@ Előjön Kum (Hum) Richard H. Allen Star Names című könyvében, a [[V/Vízön
 > A Gangesznél, akárcsak Kínában, a Vízöntő kezdte az állatövi jegyek körét; és Al Biruni szerint Indiában egykor Khumba vagy Kumbaba volt a neve, ami az ilyen nevű elámi istenségre, vagy Hesychios Viharistenére, Κόμβη-ra emlékeztet. Ez volt a tamil elnevezése is; La Lande Coumbumnak írja.  
 
 [[K/Kumbaba\|Kumbaba]]/[[H/Humbaba\|Humbaba]] nevét lásd még tehát. Lásd nedvességről [[H/HUM\|HUM]] (ilyenképp a török homoksivatag neve épp ellentétes értelmű: ami fent fény, az alant víz vagy föld). Valójában a HUM kevésbé, inkább Khamor-Orion vízfakasztó/esőisten figurál.  
-[[C/Comet\|Comet]] szónál szerepelt, hogy MA alábbi írása alapján azt kell kimondani, hogy a kőrös szócsoportbeli [[H/Hullám\|hullám]] szavunk kún-hun \*kam, \*kom, \*kum megfelelőjével van végső soron dolgunk:  
+[[C/Comet\|Comet]] szónál szerepelt, hogy Magyar Adorján alábbi írása alapján azt kell kimondani, hogy a kőrös szócsoportbeli [[H/Hullám\|hullám]] szavunk kún-hun \*kam, \*kom, \*kum megfelelőjével van végső soron dolgunk:  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/c/comet/#5c0q8h" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 

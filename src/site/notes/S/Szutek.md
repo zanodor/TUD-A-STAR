@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szutek/","title":"Szutek","tags":["Englishtexttranslated"],"created":"2023-10-31T08:25","updated":"2024-02-02T03:49"}
+{"dg-publish":true,"permalink":"/S/Szutek/","title":"Szutek","tags":["Englishtexttranslated"],"created":"2023-10-31T08:25","updated":"2024-02-29T00:40"}
 ---
 
 
@@ -24,7 +24,7 @@ Ahogy [[J/Jász#Jászok zsidó vallása – jazidi vallás\|jászok zsidó vall�
 ...című az Ősi Gyökér 2008/3-4. sz. megjelent cikkének alábbi sorai talán segítenek megmagyarázni miről lehet szó:  
 > A múlt században a szintén iráni médektől származó kurdoknak, még két kasztjáról lehetett tudni: asszíret (jassziret) és jezide akik állattenyésztők, valamint a guránok akik meg földművelők voltak, és mintha megint csak a jász és agarenus népnevek állnának elénk, sőt az ősi felfogás beszédessége által, foglalkozási ágakról szólnak. Vallási szektájuk: a természet-imádó kizilbas, és az **ármány-imádó jezidak**, írja a Révay Lexikon. Tudunk **az anyavallást megtartó turáni hunokra szintén rámondva volt a sátán-imádó címké**ről, ebben is egyeznek a jezidákkal[^1].  
 
-Szutek lehetséges, hogy Napisten (Nap az Orionban?) (ezzel [[S/Széth\|Széth]]-nek valóban meg is felelne), és ha a [[S/Sötét oldal\|sötét félév]]re utal, akkor méginkább. ([[Z/Zsidó\|Zsidó]] címnél is kitértünk erre.)  
+Szutek lehetséges, hogy Napisten (Nap az Orionban?) (ezzel [[S/Széth\|Széth]]-nek valóban meg is felelne), és ha a [[S/Sötét oldal\|sötét félév]]re utal, akkor még inkább. ([[Z/Zsidó\|Zsidó]] címnél is kitértünk erre.)  
 
 Korábban is írtam már itt arról, hogy Práczki István gondolata, hogy [[G/Gárdonyi Géza\|Gárdonyi Géza]] Láthatatlan emberének főszereplője "Zéta, a Szittya" volt, aki a hunok istene volt. Szutek és Széth valóban ismert istenek voltak. Lehetséges, hogy Szutek valójában [[S/Szutyok\|szutyok]] értelmű? A [[S/Süt\|süt]] ellenpárja? Akárhogy is nézzük, a [[S/Sötét oldal\|sötét félév]]re utaló név.
 
@@ -43,7 +43,7 @@ Másutt Napistennek mondja ismét:
 > Szet, az egyiptomi napisten vaddisznónak álcázva megöli a borostyán Oziriszt, Ízisz istennő szeretőjét.  
 - Ahogy látjuk, egyszer Set, máskor Seth-nek van írva a név, de értjük.  
 
-Fentebb is az állt, hogy a keta-egyiptomi napisten Széthtel azonos lehetett (valójában a süt-set/söt ellenpárt inkább láttatja). JM is írja (hykszosz = keta):  
+Fentebb is az állt, hogy a keta-egyiptomi napisten Széthtel azonos lehetett (valójában a süt-set/söt ellenpárt inkább láttatja). Jankovics Marcell is írja (hykszosz = keta):  
 > Széth a forró júniusban vette át fivérétől a hatalmat, az ő uralmának kezdetét jelezte a hónap csillagképében, a Rákban lévő két Szamár csillag. Idővel a két isten megítélésének dialektikus egyensúlya felborult, Ozirisz és fia, Hórusz javára, Széth mint testvérgyilkos egyre ördögibb alakot öltött. Ennek történelmi oka is van. Amikor a [[H/Hykszosz\|hykszosz]]ok meghódították Egyiptomot (i.e. XVIII.sz.), Kisázsiából és Palesztinából egy szamáristen kultuszát hozták magukkal, akit Egyiptomban Szethtel azonosítottak. Ettől kezdve Szeth az ország ellenségeinek istene lett. (E palesztinai szamárkultusznak tulajdonítható, hogy jóval később a rómaiak a zsidókat és keresztényeket azzal csúfolták, hogy istenüknek szamárfeje van. Vö. a bibliai Sét nevével.)  
 - Azt már én teszem itt hozzá, hogy a [[S/Szamár\|szamár]] gyakran a szabadságszerető magyarok (és akár hunok) jelképállata, de leginkább a nyári napforduló csillagképe (Szamár = Rák).
 
@@ -76,7 +76,7 @@ A fentebb idézett Antoine Banier apát könyvének 116. oldalán a föníciai �
 > Mózesnél, mint látjuk, Káin fajának az általam most megnevezett személyek közül az utolsóval van vége, mert ők maguk vagy leszármazottaik elpusztultak az özönvízben, és nem egy közülük megmenekült. Ha azt kérdezed, hogyan folytatódik ezután Sanchoniathon által, az Absztraktja harmadik részében, amelyet most fogok átírni; a válasz könnyű, hogy Noé leszármazottait vette fel, hogy ezt a második dekádot alkossák: ez nyilvánvalóvá fog válni a későbbiekben elvégzendő elmélkedésekből.  
 > 3°: Azok közül, mondja Sanchoniathon, vagyis Amynus és Magustól született Misor és Sydic, a Szabad és az Igaz, akik rájöttek a só használatára. Az előbbi volt Thaautus atyja, aki először találta fel a betűket; ez az egyiptomiak Thoot-ja vagy Thoor-ja, az alexandriaiak Thogit-ja vagy Thoyth-ja, a görögök Hermészé: Sydic fiai voltak a Dioscuri vagy Cabiri, akiket később Corybantesnek vagy Samothracesnek neveztek.  
 
-![assets/Szutek_image1.png](/img/user/S/assets/Szutek_image1.png)  
+![assets/Szutek_image1.png|invert_dark](/img/user/S/assets/Szutek_image1.png)  
 
 Jacob Bryant Analysis Of Ancient Mythology című könyvének (első kötetének) elején, Mizraim résznél értelmezi a neveket:  
 > Sanchoniathon alludes to this person under the name of Misor; and joins him with Sydic: both which he makes the sons of the Shepherds Amunus and Magus. Amunus, I make no doubt, is Amun, or Ham, the real father of Misor, from whom the Mizräim are supposed to be descended. By Magus, probably, is meant Chus, the father of those worshippers of fire, the Magi: the father, also, of the genuine Scythæ, who were styled Magog. The Canaanites, likewise, were his offspring: and, among these, none were more distinguished than those of Said, or Sidon; which, I imagine, is alluded to under the name of Sydic. It must be confessed, that the author derives it from Sydic, justice: and, to say the truth, he has, out of antient terms, mixed so many feigned personages with those that are real, that it is not possible to arrive at the truth.  
