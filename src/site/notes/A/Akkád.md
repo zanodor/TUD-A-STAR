@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Akkád/","title":"Akkád","created":"2023-10-20T06:53","updated":"2023-12-23T08:35"}
+{"dg-publish":true,"permalink":"/A/Akkád/","title":"Akkád","created":"2023-10-20T06:53","updated":"2024-02-28T17:24"}
 ---
 
 
@@ -7,9 +7,9 @@
 
 Fáy Elek A magyarok őshona című könyvének 6. oldala tetején az áll, hogy a sumér és asszír-babiloni írásos emlékek Akkád néven emlegetik a sumérok országának északra fekvő hegyes részét, mely irányban az [[O/Örmény\|arméniai]] őshazát (aminek megfelelő őshaza Varga Zsigmondnál a sumérban is többértelmű [[K/KUR\|KUR]] volt) is kell keresni.  
 
-Nálam Ak-Kád, vagy A-Kád, Háza az Égnek/Istennek értelmű lenne, de (talán/nyilván Fáy adatát is követve, aki szóba hozza **Agade** város nevét)...
+Nálam Ak-Kád, vagy A-Kád, Háza az Égnek/Istennek értelmű lenne. Talán/nyilván Fáy adatát is követve (aki szóba hozza **Agade** város nevét)...
 
-#### Péterfai János ezt írja:  
+#### Péterfai János írja:  
 
 > A [[G/GAD\|Gad]] értelme Város, azt a szót láthatjuk viszont, amelyik A-Gad-E, vagyis Akkád eredeti nevében szerepel.  
 
@@ -25,7 +25,7 @@ Nálam Ak-Kád, vagy A-Kád, Háza az Égnek/Istennek értelmű lenne, de (talá
 De egyébként sem ez a megoldás.  
 
 Az Agade-t mutató kis térkép [[G/Gutium\|Gutium]] címnél is szerepelt.  
-![assets/Akkád_image1.png](/img/user/A/assets/Akk%C3%A1d_image1.png)  
+![assets/Akkád_image1.png|invert_dark](/img/user/A/assets/Akk%C3%A1d_image1.png)  
 
 #### Péterfai János írja:
 
