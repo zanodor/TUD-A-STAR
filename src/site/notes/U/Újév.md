@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2024-02-12T18:37"}
+{"dg-publish":true,"permalink":"/U/Újév/","title":"Újév","tags":["Englishtexttranslated"],"created":"2023-11-13T05:49","updated":"2024-02-29T00:47"}
 ---
 
 
@@ -10,7 +10,7 @@
 [[S/Szíriusz mint istenanya\|Szíriusz mint istenanya]], valamint [[A/Anna\|Anna]] (és [[A/Annual\|annual]]) címnél legutóbb arról volt szó, hogy a Szíriuszhoz kötött új (Kis) Év kezdetének emléke a római hagyományokban is megjelenni látszik, hisz a Szíriusszal azonosított \[Boldog\] Anna[^1] Istenanya neve már évet (latin `annus` = év), kört (latin `anus` = kör, gyűrű) és anyókát (szintén `anus`; inkább elkülönülten anyus, anyós szavainkból) is jelent.  
 (Az most minket ne zavarjon, hogy Rómában Anna Perenna a tavasztól tavaszig tartó évet jelképezi – melyet egyebek mellett Marssal való mitológiai kapcsolata és március 15-i ünnepe jelzi – ugyanis a [[T/Tavaszi évkezdés\|tavaszi évkezdés]] vagy későbbi vagy kontinentális európai szokás volt.)  
 
-Ami az Anna ünnep dátumát ([[J/Július 26\|július 26]].), a fentebb említett Szent Anna feltételezett halála napját illeti, itt megint csak Szíriuszra való utalást történik. Ahogy JM másutt, Pantaleonról (ünnepnapja július 27.) szóló fejezetében írja (a két ünnepnap közt egyetlen nap az eltérés!), napja abba az időszakba esik, amikor a [[S/Szíriusz\|Szíriusz]] távol van, "halott": fénye belevész a Nap fényébe.  
+Ami az Anna ünnep dátumát ([[J/Július 26\|július 26]].), a fentebb említett Szent Anna feltételezett halála napját illeti, itt megint csak Szíriuszra való utalást történik. Ahogy Jankovics Marcell másutt, Pantaleonról (ünnepnapja július 27.) szóló fejezetében írja (a két ünnepnap közt egyetlen nap az eltérés!), napja abba az időszakba esik, amikor a [[S/Szíriusz\|Szíriusz]] távol van, "halott": fénye belevész a Nap fényébe.  
 
 Még Rómára visszatérve...,
 
@@ -20,8 +20,8 @@ Még Rómára visszatérve...,
 > A régi Rómában márciussal kezdődött az esztendő, csak Kr. e. 153-ban esett meg első ízben, hogy az állam legfőbb tisztviselői nem március elsején, hanem január elsején léptek hivatalba, ettől fogva nagyrészt januárral kezdték az évet. A nap azonban még igen-igen sok ideig bizonytalan volt, hiszen az első  
 > holdváltozástól függött, amely napon a pontifex maximus kikiáltotta (caleo) a hónap első napját (Calendae). Sőt még a kereszténység is több mint másfél ezer éven keresztül bizonytalankodott az Újév dolgában: hol december 25-én, hol január 6-án, hol meg általában az ádventtel kezdte az évet. Mindössze 1691-ben történt, hogy XII. Ince pápa végérvényesen január 1-jére helyezte az év kezdetét.  
 
-![assets/Újév_image1.png](/img/user/U/assets/%C3%9Aj%C3%A9v_image1.png)  
-![assets/Újév_image2.png](/img/user/U/assets/%C3%9Aj%C3%A9v_image2.png)  
+![assets/Újév_image1.png|invert_dark](/img/user/U/assets/%C3%9Aj%C3%A9v_image1.png)  
+![assets/Újév_image2.png|invert_dark](/img/user/U/assets/%C3%9Aj%C3%A9v_image2.png)  
 
 #### Gyárfás Ágnes az Ősi Gyökér 2012/1. sz. megjelent Szíriusz Boldogasszonyként való ábrázolása...
 
@@ -57,7 +57,7 @@ Itt lenne jó tudni azt is, hogy az északi sarkon hol van ilyenkor Szíriusz.
 - Ami érdekes a témával kapcsolatban, és amiért [[K/Kalács\|kalács]] címhez is bekerültek a fentiek az az, hogy ott is szó volt **a végtelen jeléről és karácsony/újév**ről.  
 
 Ahogy mondják, a Föld napközeli ([[P/Perihelion\|perihelion]]) pontja január másodika táján van, akkor, amikor a Nap, a Szíriusz és Föld egy vonalban helyezkednek el (akkor halad át a Föld).  
-![assets/Újév_image3.png](/img/user/U/assets/%C3%9Aj%C3%A9v_image3.png)  
+![assets/Újév_image3.png|invert_dark](/img/user/U/assets/%C3%9Aj%C3%A9v_image3.png)  
 [[J/Johan Oldenkamp\|Johan Oldenkamp]] egyik videójában szintén szól az újévről és meggyőződése, hogy ennek, idejének Szíriuszhoz van köze (az ő [[T/Time\|time]] címnél lévő ábráján január harmadikára van írva a perihelion pont).  
 Johan Oldenkamp írja:  
 > After being dead for three days, on December 25th, the Messiah \[the Sun\] rises up from the dead and starts to move higher in the sky every following day (up until the summer solstice). By drawing a straight line from the three stars (also known as the Three Kings) in the Belt of Orion through the star Sirius (which the Kings followed), the crossing of that line with the horizon marked exactly the location of the rising Helios (or (re-) birth of Christ) on December 25th. The biblical version is just a personalized version of this celestial dynamics.  
@@ -112,7 +112,7 @@ Kapcsolódás lehet az ind [[S/Sarama\|Sarama]] = Szíriusz és a a perzsa-angol
 Hasonló problémával találkoztunk [[K/Kutya\|kutya]] bevezetőjében is, mikor azt nehezményeztük, hogy a keleti zodiákusban a Kutya miért a Kosnak, miért nem a Baknak felel meg, illetve felveti mindez azt a kérdést is, hogy Iránban a (zoroasztriánus időktől) mai napig miért a márc. 20/21.-ére eső [[N/Nowruz\|Nowruz]] az újév napja, mikor nyugaton újév január elsejére esik, azaz [[T/Tél\|tél]] időre esik.  
 
 [[M/Mithra és a bika\|Mithra és a bika]] címnél szerepelt legutóbb:  
-[[M/Mithra\|Mithra]] címnél már szerepelt (a folyamatosan [[S/Szíriusz\|Szíriusz]]t is elővevő) WC sora, miszerint Mithrának köze kell lennie a [[P/Precesszió\|precesszió]]hoz, vagy azt kiváltó okhoz; egy helyen JMJ is írja:  
+[[M/Mithra\|Mithra]] címnél már szerepelt (a folyamatosan [[S/Szíriusz\|Szíriusz]]t is elővevő) WC sora, miszerint Mithrának köze kell lennie a [[P/Precesszió\|precesszió]]hoz, vagy azt kiváltó okhoz; egy helyen John M. Jenkins is írja:  
 > Mithras is celebrated as the high deity or demiurge who turns the wheel of precession.  
 > —  
 > Mithrászt főistenség vagy démiurgoszként ünneplik, aki a precesszió kerekét forgatja.  
@@ -123,7 +123,7 @@ Hasonló problémával találkoztunk [[K/Kutya\|kutya]] bevezetőjében is, miko
 > Secret teachings within Mithraism might have been about the end of the previous Golden Age, long ago, and the impending dawn of a new one. The grades of Mithraic initiation led the seeker through the seven planetary spheres to the abode of Pater (Saturn), associated with Capricorn. Beyond the seventh level, a secret teaching reveals an eighth "house" where the Hypercosmic Sun was located, accessed through a celestial doorway that appeared when the Sun was in Capricorn.  
 > —  
 > A mithraizmuson belüli titkos tanítások a régmúlt aranykor végéről és egy új korszak közelgő hajnaláról szólhattak. A mithrai beavatás fokozatai a hét bolygószférán keresztül vezették a keresőt a Bakhoz kapcsolódó Pater (Szaturnusz) lakhelyére. A hetedik szinten túl egy titkos tanítás felfed egy nyolcadik "házat", ahol a hiperkozmikus Nap tartózkodott, és ahová egy égi kapun keresztül lehetett bejutni, amely akkor jelent meg, amikor a Nap a Bakban állt.  
-> ![assets/Újév_image4.png](/img/user/U/assets/%C3%9Aj%C3%A9v_image4.png) 
+> ![assets/Újév_image4.png|invert_light](/img/user/U/assets/%C3%9Aj%C3%A9v_image4.png) 
 
 Ezen hiperkozmikus Nappal kapcsolatban írja:  
 > David Ulansey, "Mithras and the Hypercosmic Sun," in Hinnells, Studies in Mithraism; also posted on Ulansey's Web site: www.well.com/user/davidu/
@@ -143,7 +143,7 @@ Amit persze itt le kell szögezni, hogy Tejúthasadékkal ([[G/Galactic centre\|
 
 > A Márton-napi évkezdésnek az ókor végétől fokozatosan megszűnt a naptári, csillagászati alapja. Márton védencei, a gallok, hagyományaik értelmében rnég "jogosan" kezdték november elején az évet, az ég (az év) [[P/Palást\|palást]]jának kettéosztóján, a Tejúton ekkor még valóban novemberben kelt át a Nap. Manapság azonban ugyanez decemberben következik be, így a köpenyhasító szent legendája mára érvényét vesztette.  
 
-Legutóbb [[J/Janus\|Janus]] címnél találkoztunk a hathónapos tagolással a rómaiaknál. Január 1-én történik ott is az elválasztás, hiszen, ahogy JM is írja, az antik Rómában január 1. volt az újév napja[^6]\:  
+Legutóbb [[J/Janus\|Janus]] címnél találkoztunk a hathónapos tagolással a rómaiaknál. Január 1-én történik ott is az elválasztás, hiszen, ahogy Jankovics Marcell is írja, az antik Rómában január 1. volt az újév napja[^6]\:  
 > Ma, római mintára január 1-jén kezdjük az évet, de – figyelembe véve azt is, hogy Európában az évkezdést illetően a legújabb korig a legnagyobb összevisszaság uralkodott – a legelterjedtebb a téli napforduló szerinti évkezdés volt. Fontosságához méltón – a régiek az év fordulóját igazi fordulópontnak tekintették – megünneplése több napig tartott. Ennek naptári okai is voltak. Pótnapok, szökőnapok beiktatásával ilyenkor igazították ki az évet, s az ilyen pótnapok minden műveltségben különleges elbánás alá estek. A régi keresztény naptárban az évkezdés ünnepi időszaka a "karácsonyi tizenketted" volt. Újév napja december 25-ére, Jézus születésnapjára esett, de a munkaév csak a 12 napos ünnepségsorozat végeztével, vízkereszt utáni napon, január 7-én, "regelő hétfőn" vette kezdetét.  
 
 Egyébként két ellentétes irányba néző fejű a [[J/Janus\|Janus]] címnél is taglalt sumér-akkád [[P/Pabilsag\|Pabilsag]] (Nyilas) ábrázolása. A bal oldali fej nehezen lehet más, mint kutya.  
@@ -190,7 +190,7 @@ Kátay-Barba Rafael Péter Kynologia című írásában szerepelt még ugye:
 > Az együttállás a Tejút szélessége miatt ma is érvényben van: karácsonykor a Nap ma még mindig csak a Tejút közepén jár.  
 > Mivel a Tejút két ponton keresztezi az Állatövet és a látóhatárt, a lélekjárásra még egyszer kínálkozik kedvező alkalom, mégpedig karácsonnyal átellenben, a [[N/Nyári napforduló\|nyári napforduló]]t köszöntő Szent Iván-napkor. Megjegyzendő, hogy amiképp a precesszió okán a decemberi ünnepek, de főleg karácsony lettek a november elsejei szokások továbbéltetői, azonmód veszi át Szent Iván-nap [[P/Pünkösd\|Pünkösd]] közvetítésével a régi május elsejék örökét. (Május 1. úgy állt szemben november elsejével a kelta naptárban, mint Szent Iván karácsonnyal a miénkben.) A május 1-jei (pünkösdi) hidasjátékban például a híd a Tejutat jelképezte. A játék értelmében a hídra (Tejútra) lépés csak úgy lehetséges, ha a hidasmester (a Hold) megnyitja az "aranykaput." Ő azonban csak akkor engedi a hídra lépni a kérelmezőket, ha azok az eltört hídlábat (az ég és Föld között megszakadt kapcsolatot) sárarannyal (a Nap fémével: fényével) helyreállítják, azaz létrejön a kívánatos Föld-Hold-Nap-Tejút együttállás.  
 - Ide kapcsolódik Dobos Csanád interneten megosztott Miért december 25 karácsony napja c. cikkének felvetése, hogy karácsony nem a szoláris évhez, hanem a [[S/Szíriusz heliakus kelése\|Szíriusz heliakus kelésé]]hez kapcsolandó – ezen okfejtése szerint egyiptomi – eredete: 11515 körül (+/-100 év) a planetárium program szerint a Szíriusz eléri az legszélső naptári dátumát, és mindezt DECEMBER 25-ÉN.  
-![assets/Újév_image6.png](/img/user/U/assets/%C3%9Aj%C3%A9v_image6.png)  
+![assets/Újév_image6.png|invert_dark](/img/user/U/assets/%C3%9Aj%C3%A9v_image6.png)  
 Meglepő módon ezt követően immár többet nem tapasztalható a Nappal együttes hajnali "színre lépése" több, mint öt ezer évig!  
 Ezzel a levezetésével "csak" annyi a baj, hogy [[S/Szíriusz heliakus kelése\|Szíriusz heliakus kelése]] címnél felfedtük, hogy a Szíriusznak nem lenne szabad vándorolnia, ergo a planetárium szoftverek is olyan NASA-féle adatokat használnak, mely a téves [[P/Precesszió\|precesszió]]-jelenségre építenek (szándékosan, vagy sem, most mindegy: lásd erről még [[T/Tavaszpont\|tavaszpont]] és [[Z/Zodiac\|zodiac]]).  
 Az kétségtelen viszont, hogy január 1-4 környékén a Föld perihelion pontjához jut.  
