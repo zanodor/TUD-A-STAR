@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mikulás/","title":"Mikulás","tags":["containstransclusions"],"created":"2023-11-03T12:28","updated":"2024-02-02T03:27"}
+{"dg-publish":true,"permalink":"/M/Mikulás/","title":"Mikulás","tags":["containstransclusions"],"created":"2023-11-03T12:28","updated":"2024-02-28T21:24"}
 ---
 
 
@@ -22,8 +22,9 @@
 </div></div>
   
 
-#### Magyar Adorján Ősműveltségében írja:  
+#### Magyar Adorján Ősműveltség...  
 
+...című könyvében írja:  
 > Tudták tehát ezek szerint őseink még azt is, hogy például a török törzsek Tor, Tol avagy Toldi nevű istensége is azonos a magyar törzsek Magor avagy Magyar nevű Napistenével. Ez utóbbi névvel azonosul a [[M/Miklós\|Miklós]], azaz Mik-kolos, eredetileg = kis-botos, ami értelme: gyermek-botos is volt.  
 > Szinte magától értetődik mindezek után, hogy a Mik-kolos névvel ellentétben kellett létezzen Mak-kolos, azaz tehát nagybotos = ember-botos, férfi-botos név is[^1].  
 
@@ -56,7 +57,8 @@ Gondolom a szóalakra szlávot mondanak és valóban van is egy Mikulaskova nev�
 
 </div></div>
   
-![assets/Mikulás_image1.png](/img/user/M/assets/Mikul%C3%A1s_image1.png)
+![assets/Mikulás_image1.png|invert_dark](/img/user/M/assets/Mikul%C3%A1s_image1.png)
+
 #### Jankovics Marcell Jelkép-kalendárium...
 
 ...című könyvének Szent Miklósról szóló fejezetében írja:  

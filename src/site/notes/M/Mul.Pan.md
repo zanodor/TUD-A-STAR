@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mul.Pan/","title":"Mul.Pan","tags":["Englishtexttranslated"],"created":"2023-10-29T06:48","updated":"2024-01-16T12:58"}
+{"dg-publish":true,"permalink":"/M/Mul.Pan/","title":"Mul.Pan","tags":["Englishtexttranslated"],"created":"2023-10-29T06:48","updated":"2024-02-28T21:32"}
 ---
 
 
@@ -60,11 +60,11 @@ A [[N/Ninurta\|Ninurta]] és [[U/UR\|UR]] címnél anyaggal jelentkező ...
 Ami [[P/Pán\|Pán]] címnél a fenti adatok alapján szerepelt:  
 A Nap megfordításaként értelmezett Pán arra mutathat, [[S/Szómegfordítás\|szómegfordítás]] és [[H/Hunor és Magor#Hunor mint ellen-Nap\|Hunor mint ellen-Nap]] cím/alcímnél írottak alapján, hogy a Nap a nyári napfordulóig Nap (ahogy Magor addig Magor), aztán Pánba/Szíriusz-Orionba (a sumér Mul.Ban ill. Mul.Pan = Íj/Hunor/Hunter csillagkép \[Szíriusz felőli oldala, így is mutatva **Pán "Szíriuszságát"**) érve Pán lesz Napból, ahogy Magorból Hunor (azaz tulajdonképpen [[H/Huny\|Huny]]or).  
 
-![assets/Mul.Pan_image1.png](/img/user/M/assets/Mul.Pan_image1.png)  
+![assets/Mul.Pan_image1.png|invert_dark](/img/user/M/assets/Mul.Pan_image1.png)  
 Az alábbi csatolt kép [[I/Íj csillagkép\|Íj csillagkép]] címről való. Ott is a Nyilasról volt szó. Mi a közel-keleti neve az Íj/Nyíl csillagképnek? Nos, van néhány, amit ismerünk:  
 A [[S/Szíriusz és a nyíl\|Szíriusz és a nyíl]] címnél taglalt babiloni **MUL.KAK-SI-DI** a Nyílvessző Csillagkép és a szintén babiloni MUL.BAN = Ív/[[I/Íj csillagkép\|Íj csillagkép]] Szíriusz-nyílheggyel (melyről [[B/Banana\|banana]] címnél is volt szó), míg a harmadik a szintén asszír-babiloni, William Tyler Olcott Star Lore of All Ages című könyvében előjövő **Sukudu**, mely előjön Szíriuszra utalva az [[I/Íj csillagkép\|Íj csillagkép]] részeként Fáy Elek A magyarok őshona c. könyvének 285. oldalának adata szerint. Ugyanis a [[S/Szkíta\|szkíta]] népnév eredete kapcsán felhozza az ezzel nyilván azonos asszír `sukutu` = nyíl szót. (Ezen infók [[S/Szkíta\|szkíta]] címnél is szerepeltek.)  
 A Mul.Ban sumér-akkád elnevezés és nem az asszír időkből való (ezt bizonyítja, hogy a [[M/MUL\|MUL]] előtét szerepel [[K/Kakkab\|kakkab]] helyett).  
 
 Huszárik László Enkidu a Kentaur – a csillagképek nevének eredete című a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXVIII./2. sz. megjelent cikke végén a táblázatban is Ban-t az Íjjal/Istárral és a mai Nagy Kutya csillagképpel azonosítja.  
-![assets/Mul.Pan_image2.png](/img/user/M/assets/Mul.Pan_image2.png)  
+![assets/Mul.Pan_image2.png|invert_dark](/img/user/M/assets/Mul.Pan_image2.png)  
 - A 6. szám a kapcsolódó Gilgames-eposz fejezetet jelenti.  

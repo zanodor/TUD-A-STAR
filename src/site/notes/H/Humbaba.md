@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Humbaba/","title":"Humbaba","tags":["Englishtexttranslated"],"created":"2023-10-23T03:13","updated":"2024-02-02T03:09"}
+{"dg-publish":true,"permalink":"/H/Humbaba/","title":"Humbaba","tags":["Englishtexttranslated"],"created":"2023-10-23T03:13","updated":"2024-02-28T21:11"}
 ---
 
 
@@ -22,7 +22,7 @@ Azt mondja, hogy a kurgán-temetkezés ék kőszobrait kő-babáknak hívják az
 Szól még utána a Kish-beli Ku-Bau-ról és a vele asszociált hettita Ku-Babáról/Kumbabáról is. Utóbbiban nyilván (K = H) Humbabát és így tehát Bau-t kell látni.  
 A Ku-Baba > Kubebe > [[C/Cybele\|Cybele]] fejlődési sorozatot – még ha Péterfai János így is írja – persze nem lehet feltétlenül elfogadni. A kebel szó megléte miatt (ráadásul k-előhang nélkül is megvan öböl).  
 
-![assets/Humbaba_image2.png](/img/user/H/assets/Humbaba_image2.png)  
+![assets/Humbaba_image2.png|invert_dark](/img/user/H/assets/Humbaba_image2.png)  
 Robert Temple Sirius Mystery könyve 110. oldalán szól arról, hogy a Humbaba-fej mintha belekből lenne kialkotva. [[M/Mithra\|Mithra]] címnél legutóbb írottak kapcsán vetődött fel bennem, hogy ez a belek = méh = mostani világkorszakbeli Skorpió csillagkép körüli terület lehet a [[G/Gilgames és Enkidu\|Gilgames és Enkidu]] mítoszában[^1] de ellenőrizni kell.  
 
 Az [alábbi](https://qr.ae/pNr3PT) Quora oldalon is leírtam válaszomban, hogy a Gilgames eposzban olvasható cédrus [[E/Erdő\|erdő]] az Istennő [[V/Vulva\|vulvá]]ját jelképezi (az eredő helye, hogy a fa a nimfa/tündér, aki [[B/Baba\|baba]] is lehet, és hogy a szavak átvezetnek más nyelvekbe, de leginkább azt kell látni, hogy az első mesék, mítoszok magyar nyelvűek voltak). Humbabára is kitértem, arra, hogy a [[W/Womb\|womb]] eredete mi lehet.  

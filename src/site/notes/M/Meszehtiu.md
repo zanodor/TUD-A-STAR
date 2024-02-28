@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Meszehtiu/","title":"Meszehtiu","tags":["dg_uploaded","containstransclusions"],"created":"2023-11-09T05:37","updated":"2023-11-09T05:37"}
+{"dg-publish":true,"permalink":"/M/Meszehtiu/","title":"Meszehtiu","tags":["containstransclusions"],"created":"2023-11-09T05:37","updated":"2024-02-28T21:23"}
 ---
 
 
@@ -32,12 +32,12 @@ Meszehtiu a Marhaláb/Mellsőláb jelentéssel megadott egyiptomi csillagkép, m
 > Sok ismert rege \[lásd például [[M/Mithra és a bika\|Mithra és a bika]] de a [[G/Gilgames\|Gilgames]] eposzban is megvan\] a héroszoknak a bikával vívott küzdelméről szól. Ezek egy része a [[T/Tavaszpont\|tavaszpont]] birtoklásáért folyik a régi tulajdonos, a Bika, és az utód, a Kos képviselője között. Az elbeszélő ezekben a történetekben az új korszak pártján áll, ezért a Bika a letűnt világ, immár alvilág képviselője.  
 
 Ellenben az alant említett, a központ körül keringő cirkumpoláris csillagokat, amelyek nem süllyedtek a látóhatár alá, "pusztulást nem ismerőkként" jellemezték. \[Huszárik László\]  
-![assets/Meszehtiu_image1.png](/img/user/M/assets/Meszehtiu_image1.png)  
+![assets/Meszehtiu_image1.png|invert_dark](/img/user/M/assets/Meszehtiu_image1.png)  
 
 #### Jankovics Marcell írja:
 
 > Egyiptomban ez a harc a Széth bika és Hórusz napisten között folyik. Persze Hórusz győz – a Széth-kultusz az óbirodalom végén lehanyatlik Egyiptomban –, a napisten megölt ellenfelét földarabolja, combját a [[S/Sarkcsillag\|Sarkcsillag]]hoz kötözi. A "Marhacomb" csillagkép a mi [[G/Göncöl\|Göncöl]]szekerünk, amelyet egy római korból való csillagtérképen ugyanolyan kos őriz, amilyen az állatövi jegyek sorában is található, A krétai Minotaurusz-mítosz egyik lehetséges jelentése szintén ez.  
-- Folytatást JM könyvének 119. oldalán.  
+- Folytatást Jankovics Marcell könyvének 119. oldalán.  
 
 Egy kérdés közben: a marhacomb/bikacomb és [[S/Széth sakála\|Széth sakála]] egy és ugyannak az alternatív nevei? Nos, a [[D/Dendera\|dendera]]i zodiákuson külön vannak (Huszárik írja):  
 > Ezek az északi pólus körül látható csillagképek: a Marhacomb és Ökörcombnak is nevezett Mellsőláb, mellette a Sakál, Vízilószörny \[[[Taweret\|[Taweret]]\] és Pávián jegyek.  
@@ -48,9 +48,9 @@ J. Norman Lockyer The Dawn of Astronomy című könyvének 154. oldaláról is k
 
 ...című a Zürichi Magyar Történelmi Egyesület Acta Historica Hungarica Turiciensia XXXIII./10. sz. megjelent cikkének elején a cirkumpoláris egyiptomi csillagzatokkal/jegyekkel és hozzájuk kötődő nézetekkel foglalkozik:  
 > Az Ökörcomb-Mellsőláb azonban nem így maradt meg, az arabok nem Mellsőlábként, hanem [[U/Ursa Maior\|Nagy Medve csillagkép]]ként ismerték. (Számunkra [[G/Göncöl\|Göncöl]]szekér.) Az ókori egyiptomiak más alaknak látták ezeket a csillagokat, sem előttük sem utánuk nem jelezték így, megjelenése mögött más értelmet kell keresnünk. A szimbolikus lábszár mitológiájuk szerint [[S/Széth\|Széth]], a Hórusz által legyőzött isten lába, mely az égboltra került. A Marhaláb felől közelítve Széth bikával, ökörrel azonos. Hórusz lesz, aki történetében megsebezi Széth heréit, így az elveszíti férfiasságát. Valóban Széthet a kezdeti időkben vörös ökörrel azonosították, melyet feláldoztak Széth elpusztítását idézve. A mezopotámiai [[G/Gilgames\|Gilgames]] történetben *Enkidu kitépte a bika heréit, levágta az Égi Bika mellső lábát, majd az ég felé dobta.* Az egyiptomi mítosz szerint Hórusz dobja az égre s itt *haitiu* démonok őrzik, tehát már az égbolton ábrázolva látjuk. A Mellsőláb fontos és szimbolikus jelentését mutatja, hogy az elhunyt fáraó "életre keltésekor" a száj megnyitás szertartás során, ökröt áldoztak, levágott lábat nyújtottak a halott fáraó felé. A rítus, Ozirisz feltámasztásának megismétlése volt a fáraóra vonatkoztatva. Az újjászületés szertartás részévé vált a marhaláb alakú eszköz, melyet mint [[A/Adze\|adze]] említenek a piramisszövegek, s így említik a Mesehtiu csillagképét is. Az adze fémét Széthtől, annak csontjaiként eredeztették, s a meteorikus származású vasnak, nyilván nem véletlen a Marhaláb csillagképre emlékeztető formája (3. ábra). Az adze-Mesehtiu rokon jelentéssel bíró képek, s az újjászületést összekötötték Széth halálával, elpusztításával.  
-> ![assets/Meszehtiu_image2.jpeg](/img/user/M/assets/Meszehtiu_image2.jpeg)  
+> ![assets/Meszehtiu_image2.jpeg|invert_dark](/img/user/M/assets/Meszehtiu_image2.jpeg)  
 > 3) ábra. Az adze eszköz és a Mellsőláb (Nagy Göncöl) csillagkép kapcsolata (Forrás: Ann Macy Roth, Fingers, Stars, and the 'Opening of the Mouth': The Nature and Function of the `nṯrwj` Blades.)  
-> ![assets/Meszehtiu_image3.jpeg](/img/user/M/assets/Meszehtiu_image3.jpeg)  
+> ![assets/Meszehtiu_image3.jpeg|invert_dark](/img/user/M/assets/Meszehtiu_image3.jpeg)  
 > A Mellsőláb (Mesehtiu) és Sakál jegyek, feltehetően Széth és [[W/Wepwawet\|Upuaut]] háború istennel kapcsolatban jelennek meg s a jelenet valószínűleg Széth büntetésével függ össze. Upuaut isten Ozirisz gyermekeként is ismert, így esetében jogos a bosszúja. Ő Ozirisz első harcosa. A sakál állat megjelenítés és Upuaut szorosan kapcsolódik Anubis istenhez is, aki szintén segített Ízisznek Ozirisz feltámasztásában. A Sakál helyét és szerepét más ábrázoláson – például Senenmut sír mennyezetén, szalag zodiákuson \[lásd teljes képet [[E/Egyiptomi szalag zodiákus\|egyiptomi szalag zodiákus]]\] – Sólyomfejű alak veszi át, lándzsájával döfve Mesehtiut. Ott nyilván Hórusz jelenik meg sólyomfejűként. Ízisz társaságában gyakran cölöphöz \[Acharia S [[F/Furka\|furká]]ja?\] kötve látjuk a különös Széth állat torzót, ami egy lábszár bika fejjel (4. ábra) \[én itt a Szalag Zodiákus egy részletét adom csak\]. Cölöp szerepben csillagok jelennek meg a Vizilószörny mancsánál.  
 
 Cölöp jegyhez kötözött Széth istenről szól Huszárik László, és mivel ő csillagkép helyett szinte mindig jegy-et ír, ez egy csillagkép (lásd képet [[T/Taweret\|Taweret]]).  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/MES/","title":"MES","tags":["Englishtexttranslated"],"created":"2023-10-21T04:46","updated":"2024-02-10T04:07"}
+{"dg-publish":true,"permalink":"/M/MES/","title":"MES","tags":["Englishtexttranslated"],"created":"2023-10-21T04:46","updated":"2024-02-28T21:17"}
 ---
 
 
@@ -29,16 +29,16 @@ Ezek alapján MES jelentése [[M/MISZ\|MISZ]]-hez is hasonló(an ifjú, fiú jel
 - Ilyen értelemben [[M/Mass\|mass]] vagy [[M/Mash\|mash]] szóval látszik azonosulni értelmében. [[M/Méz\|Méz]] szavunk is lehet tej/víz értelmű, mint [[M/MISZ\|MISZ]]-nél láttuk.  
 A víz lehet a Tejútanya magzatvize (ég tengere). De legegyszerűbb a [[M/Mix\|mix]] címnél írottak alapján gondolkodni. Ott is előjött a víz.  
 Csatolva lásd MES piktogramját.  
-![assets/MES_image1.png](/img/user/M/assets/MES_image1.png)  
+![assets/MES_image1.png|invert_dark](/img/user/M/assets/MES_image1.png)  
 
 Szintén Gavin White könyvéből derül ki, hogy a Halak csillagkép [[S/Sumér zodiákus\|sumér zodiákus]]beli [[K/Kunmes\|Kunmes]] (Farkak) nevében is megtalálható ez a MES. Ott is azt írja, hogy tbsz-jelölő. Halakból valóban kettő van, hisz kettős jegy. De próbáljuk meg másképp is értelmezni.  
 Legutóbb [[M/MISZ\|MISZ]], [[G/Gilgames\|Gilgames]] és [[T/Tölgy\|tölgy]] címnél szerepelt, hogy [[G/Gilgames\|Gilgames]] afféle [[F/Fehérlófia\|Fehérlófiá]]nak beillő hős:  
-Arról is szóltunk, hogy a [[T/Táltos\|táltos]] a tölgyfa mellett tanított, azaz dalolt, regélt, mesélt, sőt, rejtőzött (fára mászott > fáradt). A török `meşe` talán ennek megfelelően jelent tölgyet, és MES = ifjú, hős, valamint [[M/MISZ\|MISZ]] = ifjú, "Fehérlófia" jelentéseivel méginkább összeillik, de Gilgames nevében is szerepel ezen fa neve (mely fa jelentés utólag alkottathatott), az alábbiak alapján:  
+Arról is szóltunk, hogy a [[T/Táltos\|táltos]] a tölgyfa mellett tanított, azaz dalolt, regélt, mesélt, sőt, rejtőzött (fára mászott > fáradt). A török `meşe` talán ennek megfelelően jelent tölgyet, és `MES` = ifjú, hős, valamint [[M/MISZ\|MISZ]] = ifjú, "Fehérlófia" jelentéseivel még inkább összeillik, de Gilgames nevében is szerepel ezen fa neve (mely fa jelentés utólag alkottathatott), az alábbiak alapján:  
 A Hamlet Malmában, egy lábjegyzetben is előjön [[K/Kutha\|Kutha]] városa, szintén Nergálhoz kötve:  
 > MES.LAM volt a neve Nergál kuthai szentélyének, jelentése pedig "a buján növő MES-fa" Gössmann szerint (Das Era-Epos, p. 67).  
 
 Csatolva lásd az akkád szótárban talált szavakat.  
-![assets/MES_image2.png](/img/user/M/assets/MES_image2.png)  
+![assets/MES_image2.png|invert_dark](/img/user/M/assets/MES_image2.png)  
 
 Ezen MES egyezőnek látszik a török `meşe` = [[T/Tölgy\|tölgy]] szóval és felveti, hogy Gilgames is afféle Fehérlófia alak, aki asztrális-erkölcsi utat jár be.  
 [[M/Messiás\|Messiás]] címnél szebben kifejtve mindez.  

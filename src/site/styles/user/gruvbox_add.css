@@ -7,13 +7,22 @@
 
 html,
 body {
-  font-family: var(
-    --font-monospace
-  ); /** Remove this to return body font back to normal */
+  /* Set font family to monospace */
+  font-family: var(--font-monospace);
 
-  /** Norse rune font for hilarity Comes from dafont.com */
+  /* Norse rune font for hilarity Comes from dafont.com */
   --custom-font: "Norse";
-  /* --custom-font: var(--font-monospace); */
-  /* font-family: 'Norse';
-    font-size: 20px !important; */
+  /* font-family: 'Norse'; */
+
+  /* Dark mode */
+  .theme-dark .markdown-preview-view code,
+  .theme-dark .cm-s-obsidian span.cm-inline-code {
+    color: orange !important;
+  }
+
+  /* Light mode */
+  .theme-light .markdown-preview-view code,
+  .theme-light .cm-s-obsidian span.cm-inline-code {
+    color: black !important;
+  }
 }

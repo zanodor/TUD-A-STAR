@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Naptár/","title":"Naptár","created":"2023-11-13T03:30","updated":"2024-02-12T18:14"}
+{"dg-publish":true,"permalink":"/N/Naptár/","title":"Naptár","created":"2023-11-13T03:30","updated":"2024-02-28T21:34"}
 ---
 
 
@@ -11,7 +11,7 @@
 > Naptárunk hármas alapja a Föld tengelyforgása (nap), a Hold Föld körüli keringése (hónap) és a Föld Nap körüli keringése (év). A régiek – láttuk – más kozmikus ciklusokat is beépítettek naptáraikba; a napévvel, holdváltozással valóságosan vagy számszerűleg összehangolható időegységeket (Nap-Hold-Vénusz ciklus, Jupiter-év \[12 év; lásd róla [[K/Kínai asztronómia\|kínai asztronómia]]\], Szaturnusz-év \[30 év\]). Más, ma már nehezen értelmezhető időegységekkel is számoltak, amilyen a bibliai jóbelév \[lásd [[J/Jubilee\|jubilee]]\], a Bibliában szintén gyakran emlegetett [[N/Negyven\|negyven]] nap illetve negyven év, a 260 napos maja "év", vagy a 60 esztendős kínai naptári ciklus és – hogy ismerős talajra lépjünk – a mi hétszámításunk, aminek nem sok köze van sem a nap-, sem a holdjáráshoz.  
 - Lásd folytatást [[H/Hét\|hét]].  
 A csatolt kép könyvének 59. oldaláról való és sok érdekességet tartalmaz.  
-![assets/Naptár_image1.png](/img/user/N/assets/Napt%C3%A1r_image1.png)  
+![assets/Naptár_image1.png|invert_dark](/img/user/N/assets/Napt%C3%A1r_image1.png)  
 
 #### Magyar Adorján írja:
 

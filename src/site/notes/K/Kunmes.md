@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/K/Kunmes/","title":"Kunmes","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-04T10:42","updated":"2024-02-02T02:35"}
+{"dg-publish":true,"permalink":"/K/Kunmes/","title":"Kunmes","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-04T10:42","updated":"2024-02-28T21:15"}
 ---
 
 
 # Kunmes
 
 A [[S/Sumér zodiákus\|sumér zodiákus]] Halak jegynek megfelelő neve Kun-Mes. A nyelvészek Farkak jelentéssel adatolják ezt a csillagképet, minthogy Kun (ahogy [[K/Kûn\|kûn]], [[K/KONY\|KONY]] és [[K/Konyec\|konyec]] szavaknál is láttuk) farkat, a ló farkát (vagy ékalakú pofáját) jelenti, Mes pedig a többesszámot(?). [[M/MES\|MES]] Péterfai Jánosnál Ifjú, Hős jelentésű, de [[M/MISZ\|MISZ]]-hez, mézhez is köthető lehet. [[M/MES\|MES]] címnél legutóbb alternatív levezetése is született Kunmes-nek: MES a mes-fa, a messzi fa, a Világfa, a Tejút neve és ennek alsó vaskori ideje a Halak (mikor is a [[T/Tavaszpont\|tavaszpont]][^1] a Halakba ér).  
-![assets/Kunmes_image1.png](/img/user/K/assets/Kunmes_image1.png)  
+![assets/Kunmes_image1.png|invert_dark](/img/user/K/assets/Kunmes_image1.png)  
 
 #### Gavin White Babylonian Star Lore...
 
@@ -48,7 +48,7 @@ A [[S/Sumér zodiákus\|sumér zodiákus]] Halak jegynek megfelelő neve Kun-Mes
 > There is every reason to believe that the idea of the cord would only have been applied to these stars in the latter half of the 1st millennium when they came to mark the position of the spring equinox. Before this time the two component parts of the cord would have been envisioned as the two great rivers of Mesopotamia, the Tigris and Euphrates. The origin of the 'knot' that unites the two cords represents the Shat-al-Arab where the two great rivers join together before flowing into the Gulf of Bahrain.  
 > This image of the two rivers is the ultimate origin of the symbolism of Pisces – as rivers are typically represented in Babylonian art as a pair of wavy lines with tiny fishes added along their courses to further emphasise their watery nature (see fig 2). The whole image is copied from nature as the 12th month of the year, which is marked by the rising of the Tails, is the season that river carp swim upstream to their breeding grounds in rivers swollen by melt waters from the mountains.  
 > As the basic economy of Mesopotamia was founded on irrigation agriculture, the floodwaters of the Tigris and Euphrates were essential to the ongoing prosperity of the land. The Tails can thus be seen to form an integral part of the farming symbolism centred on the nearby constellation of the Field. When the Tails are favourably aspected they are thought to predict good floods: 'If the Wild Sheep approaches the Tigris-star: there will be rain and flood'; and an abundant flood naturally brings a plenteous harvest in its train: 'If Jupiter stands in the Tails: the Tigris and Euphrates will be filled with silt; there will be prosperity and abundance in the land'.  
-> ![assets/Kunmes_image3.png](/img/user/K/assets/Kunmes_image3.png)  
+> ![assets/Kunmes_image3.png|invert_dark](/img/user/K/assets/Kunmes_image3.png)  
 > The constellation of the Tails first appears among the 'stars on the path of the Moon', a series of 16 ecliptic constellations listed in Mul-Apin that are the Babylonian forerunner of the 12 zodiac constellations. The asterism itself gives the impression of being a newly formed figure specifically designed to represent the 12th month of the year. As its full name reveals – 'the Tails of Anunitum and the Swallow' – the Tails is really a composite constellation, made up from the parts of other pre-existing star figures. The name only becomes understandable in light of the illustration (fig 147 above) that superimposes the modern image of Pisces upon the corresponding Babylonian constellations. It shows that the Piscean fish are considerably smaller than their Babylonian counterparts – and that only the tails of the respective constellations actually correspond to each other.  
 > 
 > —  

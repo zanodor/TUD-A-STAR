@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Psychopomp/","title":"Psychopomp","tags":["Englishtexttranslated"],"created":"2023-10-27T08:46","updated":"2024-02-12T18:15"}
+{"dg-publish":true,"permalink":"/P/Psychopomp/","title":"Psychopomp","tags":["Englishtexttranslated"],"created":"2023-10-27T08:46","updated":"2024-02-28T21:40"}
 ---
 
 
@@ -26,7 +26,7 @@ De valójában a [[S/Sánta Kata\|Sánta Kata]] név [[K/Kata\|Kata]] (halál) t
 > —  
 > Számos kultúrában tehát a kutya pásztori, cinegetikus és védelmező szerepe az élők világán túl a holtak világára is kiterjed. Így a **pszükhopomposz**okat, a pokol kapujának őrzőit, a pokolkutyákat és magukat a halottak lelkét is gyakran kutyaként ábrázolják. Valójában nem annyira arról van szó, hogy a kutya szerepe túlmutat az élők világán a holtak világába, hanem inkább arról, hogy a kutya helye az egyik és a másik világ között van. Ahogyan a Szíriusz helye a [[C/Canicular\|kutyanapok]] alatt a keleti horizonton van közvetlenül napkelte előtt (innen a "[[S/Szíriusz heliakus kelése\|helikális kelés]]" kifejezés), úgy a kutya helye szinte mindenben, amit az emberrel való kapcsolatában tesz, [[L/Liminal\|liminális]]. A kutya az indoeurópai hagyományokban számos égi vagy időbeli küszöböt őriz, többek között a hajnalt és az alkonyatot, az új- és teliholdat, valamint **a nyári és a téli napfordulót**. Ez az éjszakai égbolton különböző kutyás csillagképekben mutatkozik meg, amelyeken a Nap áthalad az ekliptikán, és mivel az égi boltozat útjai – a Tejút, a nap-ekliptika, a Hold pályája stb. – azonosíthatók a halottak útjaival, az égi kutyák gyakran állomásoznak veszélyes égi kereszteződéseknél és hidaknál.  
 
-![assets/Psychopomp_image1.png](/img/user/P/assets/Psychopomp_image1.png)  
+![assets/Psychopomp_image1.png|invert_dark](/img/user/P/assets/Psychopomp_image1.png)  
 Azt Péterfai János adata alapján is tudjuk, hogy a halálba átsegítő Vezér, Ozirisz, Kilenc, akinek, mint az éji ég leírása alapján tudjuk, két segítője, kutyája van.  
 Itt egyrészt azt a képet kell látni, hogy a [[S/Szíriusz\|Szíriusz]] és [[P/Procyon\|Procyon]] a Tejút (Hadak Útja) két oldalán áll, őrként, lélekvezetőként, hiszen a Tejúton születnek a lelkek, másrészt, hogy a Föld-Nap-Szíriusz együttállások a [[T/Téli napforduló\|téli napforduló]] és a [[N/Nyári napforduló\|nyári napforduló]] környékén történnek. Alant szerepel egy makedón katonai szokás kutya felnégyeléséről és arról, hogyan teszik az út bal és jobb oldalára a részeket, melyek között áthaladnak.  
 

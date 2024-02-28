@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Precesszió/"}
+{"dg-publish":true,"permalink":"/P/Precesszió/","title":"Precesszió","tags":["containstransclusions","Englishtexttranslated","containscallouts"],"created":"2023-11-11T04:49:00","updated":"2024-02-28T21:40"}
 ---
 
 
@@ -77,11 +77,11 @@ David Pingree szerint kimondottan iráni hagyománynak tűnik a **Jupiter-Szatur
 
 Valóban, ezen [[B/Bolygóegyüttállások\|bolygóegyüttállások]]kal lehet a Tejút elfordulását, azaz a világkorszakok változását mérni: 2160/60 = 36 vagy 2160/20 = **108**. Erről [[H/History\|history]] címnél is volt szó.  
 Persze egy világkorszak, amennyiben az 2160 évig tart, nem egyenlő egy minden csillagjegyen végighaladó Jupiter-Szaturnusz conjuction-sorozat majd 2400 évével (2383 a pontosabb, ha igaz). Mindez azt jelentené, hogy a precessziós Nagy Év 1/12-ét teoretikusan (hiszen egy ember nem tudja végigvárni a 2160 évet) nem egy teljes 2383 éves ciklussal feleltettek meg, hanem vélhetően csak egy 11 jegyen végighaladóval: 2383-200=2183 év.  
-![assets/Precesszió_image1.jpeg](/img/user/P/assets/Precesszi%C3%B3_image1.jpeg)  
+![assets/Precesszió_image1.jpeg|invert_light](/img/user/P/assets/Precesszi%C3%B3_image1.jpeg)  
 Persze itt már csak annyit kellene (biztosan) tudni, hogy az adott J-SZ együttállás valamelyik csillagjegyben való tartókodása után (például i.e. 7-ben Halakban háromszoros J-SZ együttállást számoltak ki, hogy a [[B/Betlehemi csillag\|Betlehemi csillag]]gal való megfeleltetéseként utólagosan bizonyítsák (ha nem előzetesen megjövendöljék) Jézus emberszerű voltának megjelenését) 2183 vagy mennyi év múlva lesz-e ilyen együttállás a Vízöntőben is? **Azaz a [[T/Tavaszpont\|tavaszpont]] precessziós elmozdulási irányát követik-e a J-SZ együttállások sorozatainak egyes állomásai?** Mert akkor lenne ugye igazán értelme (ha rá is mutatna). Nos, két együttállást sikerült ezidőtájban találni. 2159. dec. 21-én és 2179. május 21-én.  
 Közben [[V/Vízöntő korszak#Vízőntő korszak kezdete Jupiter-Szaturnusz együttállással a Vízöntőben?\|Vízőntő korszak kezdete Jupiter-Szaturnusz együttállással a Vízöntőben?]] cím/alcímnél további idevonatkozó adatokat adtunk meg.  
 
-![assets/Precesszió_image2.jpeg](/img/user/P/assets/Precesszi%C3%B3_image2.jpeg)  
+![assets/Precesszió_image2.jpeg|invert_light](/img/user/P/assets/Precesszi%C3%B3_image2.jpeg)  
 Folytatásként lásd (képekkel ellátott) [[T/Tavaszpont\|tavaszpont]], ahol arról is volt szó, hogy nem kizárt, hogy a precesszióban – általunk ebben a világhónapban – értelmezett zodiákus szabályos(!) körkörösségének eszméje nem létezik. Feltételezésem szerint napvilágot látott egy elmélet, hozzá néhány, mondjuk néhány évtizedre kiterjedő mérés (alant Homannék is max. 20 évre vonatkozó mérési adatot tudnak felmutatni) és ebből (az adott jelenből) kiindulva extrapoláltak visszamenőleg úgy, hogy azt feltétezték, hogy akkor ezer és ezer évekkel korábban is ugyanazok a viszonyok állhattak fenn. Ergo egy teljesen elnyújtott ellipszis-pályát körszerűsítettek (volna) úgy, hogy valójában a naprendszer mozgását figyelembe sem vették, csak a Föld mozgását. (Mindig a tudomány "jelenlegi" állásából vetítenek vissza a múltra és határozzák meg a valóságot, nem egy abszolút igazságból indulnak ki. Ez minden tudomány-területre igaz, a nyelvészetre is: azt hiszik például, hogy az újlatin nyelvek szavai egy mindenki által beszélt vulgáris latinból jöttek létre: nem számolnak azzal, hogy az egyszerű parasztok, mint Magyarországon is ragaszkodtak az anyanyelvükhöz. Épp a magyar példa, vagy akár a franciaországi breton példa mutatja, hogy nem úgy történnek a dolgok, ahogy gondolják.)  
 Márpedig ahogy a Föld sebessége sem állandó a Nap körül (ma is átlag naphosszakkal számolunk), úgy a Naprendszer sem folyamatos sebességgel halad. A mai tudósok nem is számolnak naprendszerrel a Földet érintő változásokat tekintve, ilyeténképpen nem különböznek azoktól, akik a [[G/Geocentrikus világkép\|geocentrikus világkép]] keretein belül úgy gondolkodtak, hogy a Nap a Föld körül keringhet.  
 
@@ -105,7 +105,7 @@ Magyar Adorján Csodaszarvasának (a PDF) 64. oldalán tovább taglalja a preces
 > A csillagászatban ennek a jelenségnek csak annyi fontosságot tulajdonítanak, mint a többi kozmikus jelenségnek: tudomásul veszik és pont. A keleti asztrológia azt mondja, hogy ilyen kétezer esztendő körülbelül egy világhónap. Tizenkét világhónap, körülbelül 26 ezer év, egy világév. Mert a keleti asztrológia tágabb, fölényesebb, szélesebb távlatú szemlélete összefüggést talált a csillagjárás és az emberiség sorsa között. Az egyes világhónapok nagy történeti korszakok, görög szóval: aiónok. A hónapok annyira zártak, hogy az egyikből a másikba való átmenet kritikus. A világévek felén, hat világhónaponként pedig nagy katasztrófák keletkeznek. Ilyen volt a legutóbb, időszámításunk előtt tizenháromezer évvel, Atlantisz elsüllyedése.  
 > Ma a Halak csillagképéből lépünk ki. A hónap befejeződött, és az aión lezárult. Válságos időbe jutottunk, s ezt csaknem mindenki saját bőrén is érzi. Most lépünk át a következő képbe, a Vízöntőbe.  
 
-![assets/Precesszió_image3.png](/img/user/P/assets/Precesszi%C3%B3_image3.png)  
+![assets/Precesszió_image3.png|invert_dark](/img/user/P/assets/Precesszi%C3%B3_image3.png)  
 A precesszió jelenségéről [[N/Nutation\|nutation]] címnél is volt szó.  
 
 #### Szűcs László Égre írott történelem...
@@ -113,10 +113,10 @@ A precesszió jelenségéről [[N/Nutation\|nutation]] címnél is volt szó.
 ...című könyvének alábbi anyaga azért jó, mert a nehezebben érthető kúpformát[^5] jól magyarázza:  
 > A Föld forgástengelye egyfajta kúpformát ír le a Nap körüli keringésének síkjához viszonyítva; azaz, ha kijelölünk egy pontot a Nap körüli keringési pályáján és megnézzük a forgástengelyének helyzetét minden évben, ugyan-ebben a pontban, akkor azt tapasztaljuk, hogy egy kúppalást mentén arrébb mozdul és a teljes kúppalást 25920 év alatt, azaz 72 évenként 1º-kal mozdul el. (Ellentétes irányú a Föld tengely körüli forgásirányához viszonyítva.) a Földnek ezt a mozgását nevezzük precessziós mozgásnak. a precessziós mozgás nem befolyásolja sem a Nap látszólagos helyzetét az éggömbön, sem a Föld térbeli(?) elhelyezkedését keringési pályáján. Hatással van azonban az Egyenlítő helyzetére(!), hiszen az Egyenlítő a Földnek a saját forgástengelyére merőleges főköre: ezért ha a Föld forgástengelyének a helyzete változik, változik az Egyenlítőé is. Mindez azt eredményezi, hogy az ekliptika és az égi Egyenlítő egymással alkotott metszéspontjai ([[T/Tavaszpont\|tavaszpont]] és [[O/Őszpont\|őszpont]]) a csillagos éghez képest folytonos mozgásban vannak. a Föld tengelyének precessziós mozgásából adódóan ugyancsak 72 év alatt 1º-kal mozdulnak el.  
 - A búgó-csiga-szerű forgáskörről az alábbi ábrákat közli.  
-![assets/Precesszió_image4.png](/img/user/P/assets/Precesszi%C3%B3_image4.png)  
+![assets/Precesszió_image4.png|invert_dark](/img/user/P/assets/Precesszi%C3%B3_image4.png)  
 
 [Ezen](https://idokod.hu/htms/precessio.php?sender=main) oldalon, illetve [ezen](https://idokod.hu/htms/movs/precessio.mp4) videón mozgóképen mutatják be a mozgást (itt csak egy állóképet adok).  
-![assets/Precesszió_image5.png](/img/user/P/assets/Precesszi%C3%B3_image5.png)  
+![assets/Precesszió_image5.png|invert_light](/img/user/P/assets/Precesszi%C3%B3_image5.png)  
 
 Alan Alford Gods of the New Millenium című könyvének egy valamirevaló adata, hogy a 3600-at nem tízes, hanem [[H/Hatvanas számrendszer\|hatvanas számrendszer]] szerint kellene olvasni. Ezek alapján 3600 > 2160 év lenne, éppen egy világkorszaknyi időtartam. A világkorszakokat a precesszió idézi elő. A precesszió és a Föld-tengely kilengése és így a [[N/Nutation\|nutáció]] mind összefüggenek. Ezért lehet [[S/Saros\|Saros]] ennek és annak a csillagászati fogalomnak is a neve. Ezeket a dolgokat valahol egy tudományos embernek összegezni kellene.  
 
@@ -126,7 +126,7 @@ Mielőtt rátérnénk további részletesebb ismertetésére, tudni kell, hogy a
 
 ...című könyv írójának meglátása szerint éppen a precesszió a felelős azért, hogy mindig újabb és újabb csillagképeket kellett felvenni:  
 > Although it is well beyond the scope of this book to make a comparative study of Greek and Mesopotamian myths, one significant theme emerging from this material does deserve to be mentioned – in both sets of myths the crab or turtle is either newly created or newly placed into the stars – in other words the myths detail the actual creation of Cancer as a constellation. As I have argued elsewhere, **the creation of many constellations is due in large measure to the long-term effects of precession**. This phenomenon slowly causes the stars to rise later and later in the calendar, thus necessitating the periodic creation of new constellations.  
-> ![assets/Precesszió_image6.png](/img/user/P/assets/Precesszi%C3%B3_image6.png)  
+> ![assets/Precesszió_image6.png|invert_dark](/img/user/P/assets/Precesszi%C3%B3_image6.png)  
 > —  
 > Bár a görög és mezopotámiai mítoszok összehasonlító tanulmányozása meghaladja e könyv kereteit, egy jelentős téma, amely ebből az anyagból kirajzolódik, mégis említést érdemel – mindkét mítoszban a rák vagy teknős vagy újonnan jön létre, vagy újonnan kerül a csillagok közé – más szóval a mítoszok részletezik a Rák mint csillagkép tényleges teremtését. Amint máshol már kifejtettem, **más csillagképek létrejötte nagymértékben a precesszió hosszú távú hatásainak köszönhető**. E jelenség hatására a csillagok lassan egyre később kelnek fel a naptárban, ami új csillagképek időszakos létrehozását teszi szükségessé. Amint remélem, az utolsó szakaszban be tudom mutatni, a Rák valójában a sokkal régebbi Kígyó alakjától örökölte alapvető szimbolikus vonásait.  
 - [[A/Allul\|Allul]] címnél is szerepelt; előzményeket lásd ott.  
@@ -232,7 +232,7 @@ Sőt, a tudomány is elismerte, hogy a mozgások okát nem ismeri:
 > 2006-ban az IAU kijelentette, hogy a precessziós nutációs modell "nincs összhangban a dinamikai elmélettel" (IAU P03).  
 
 A sziderikus és tropikus napév hivatalosan terjesztett \[általam [[G/Gergely-naptár\|Gergely-naptár]] címnél és másutt is szóba hozott\] diszkrepanciájáról[^6] szóló elméletet cáfolja a fiatalabb Homann, Uwe, ki megosztotta mindezt a Binary Research Institute-tal (melynek honlapját időközönként ellenőrizni kell, hátha új adatok kerülnek fel).  
-![assets/Precesszió_image8.png](/img/user/P/assets/Precesszi%C3%B3_image8.png)  
+![assets/Precesszió_image8.png|invert_dark](/img/user/P/assets/Precesszi%C3%B3_image8.png)  
 
 > [!DEFINITIONS]
 > 
@@ -275,8 +275,8 @@ A másik kérdés UH adatai kapcsán, hogy nem azért nem talált eltérést, me
 > A dynamic Solar System model simplifies earth orientation and coordinate systems issues: the earth goes around the sun 360 degrees in a tropical year with a relatively stable axis (except for [[N/Nutation\|nutation]] and purely local effects). Most of its major motion (50.290966" per year in J2000) is because **the solar system moved by this amount NOT because the earth wobbled by this amount**.  
 > —  
 > A dinamikus Naprendszer-modell leegyszerűsíti a földi tájolás és a koordinátarendszerek kérdéseit: a Föld egy tropikus évben 360 fokban kerüli meg a Napot, viszonylag stabil tengellyel (kivéve a [[N/Nutation\|nutáció]]t és a tisztán helyi hatásokat). Nagyobb mozgásának nagy része (50,290966" évente J2000-ben) azért van, mert **a Naprendszer ennyit mozdult el, NEM azért, mert a Föld ennyit billegett**. 
-> ![assets/Precesszió_image9.png](/img/user/P/assets/Precesszi%C3%B3_image9.png)  
-> ![assets/Precesszió_image11.png](/img/user/P/assets/Precesszi%C3%B3_image11.png)  
+> ![assets/Precesszió_image9.png|invert_dark](/img/user/P/assets/Precesszi%C3%B3_image9.png)  
+> ![assets/Precesszió_image11.png|invert_dark](/img/user/P/assets/Precesszi%C3%B3_image11.png)  
 > The observable of the stars moving across the sky by about 30 degrees per 2000 years (a.k.a. precession) is most likely a geometric effect like parallax (due to the motion of the Solar System), having very little to do with local dynamics. With this knowledge, the precession nutation model can be simplified and problems can be solved.  
 > —  
 > A csillagok 2000 évenként mintegy 30 fokos mozgása az égbolton (más néven precesszió) valószínűleg egy geometriai hatás, mint a parallaxis (a Naprendszer mozgása miatt), és nagyon kevés köze van a helyi dinamikához. Ennek ismeretében a precessziós nutációs modell egyszerűsíthető és a problémák megoldhatók.  
@@ -289,7 +289,7 @@ A másik kérdés UH adatai kapcsán, hogy nem azért nem talált eltérést, me
 > At 54˝p/y, again with minor local effects and no eccentricity, this type of change in orientation would equate to 24,000 years (1,296,000/54 = 24,000).  
 > 
 > In 1894, about the same time that the great astronomer Simon Newcomb gave us a precession formula with a constant of .000222 p/y (designed to predict changes in the precession rate), an Indian astronomer, Sri Yukteswar, explained that the moving equinox (precession) was a result of a moving solar system and he gave us a binary orbit periodicity of 24,000 years, with apoapsis at 500 A.D.  
-> ![assets/Precesszió_image10.png](/img/user/P/assets/Precesszi%C3%B3_image10.png)  
+> ![assets/Precesszió_image10.png|invert_dark](/img/user/P/assets/Precesszi%C3%B3_image10.png)  
 > Thus, one scientist gave us a strictly local dynamics model and the other a strictly non-local dynamic SS model. Which model was more accurate over the next 100 years?  
 > —  
 > Egy megfigyelő egy kettős rendszerben lévő bolygón a közös tömegközéppont körüli keringési periódusnak megfelelő sebességű orientációváltozást észlelne. (USNO)
@@ -298,7 +298,7 @@ A másik kérdés UH adatai kapcsán, hogy nem azért nem talált eltérést, me
 > 1894-ben, nagyjából ugyanabban az időben, amikor a nagy csillagász Simon Newcomb megadta a precessziós képletet, amelynek állandója .000222 p/y (amelynek célja a precessziós sebesség változásainak előrejelzése volt), egy indiai csillagász, Sri Yukteswar elmagyarázta, hogy a mozgó napéjegyenlőség (precesszió) egy mozgó naprendszer eredménye, és egy 24 000 éves kettős pálya periódusát adta meg nekünk, apopszissal Kr. u. 500-ban. Így az egyik tudós egy szigorúan lokális dinamikai modellt adott nekünk, a másik pedig egy szigorúan nem lokális dinamikai SS modellt. Melyik modell volt pontosabb a következő 100 évre?  
 
 Sri Yukteswar – a Holy Science című könyv szerzője – megbízhatatlansága viszont abban rejlik, hogy túlságosan az indiai yuga-rendszerre utalja magát, továbbá eldöntött ténynek veszi, hogy – más, pesszimista yuga-kutatóval szemben – a jelenkori emberiség i.sz. 499-től kezdve elindult volna a felfelé ágon:  
-![assets/Precesszió_image12.png](/img/user/P/assets/Precesszi%C3%B3_image12.png)  
+![assets/Precesszió_image12.png|invert_dark](/img/user/P/assets/Precesszi%C3%B3_image12.png)  
 Mindezt úgy, hogy nincs tisztában azzal sem, hogy az időszalag manipulált lehet.  
 
 ## Szíriusz és Szótisz-ciklus
@@ -343,7 +343,7 @@ Egy helyen megint írja, de mennyire csak találomra, azaz mi a tényleges csill
 ## Precesszió iránya
 
 Gesztesi Albert csillagász A világ négy sarka című cikkében mindenkiével ellentétes módon veszi fel az állatövi csillagképeket és sorrendiséget. (Kelet-nyugat irányok alapján?)  
-![assets/Precesszió_image13.jpeg](/img/user/P/assets/Precesszi%C3%B3_image13.jpeg)  
+![assets/Precesszió_image13.jpeg|invert_dark](/img/user/P/assets/Precesszi%C3%B3_image13.jpeg)  
 
 ## Ki ismerte az ókorban a precessziót és a Nagy Év 26000 éves hosszát?
 
@@ -443,11 +443,11 @@ Ugye itt annak eldöntése, hogy mi számít pontosnak és pontatlannak, azért 
 John Major Jenkins Galactic Alignment című könyvének 22. oldalán ír a mezo-amerikai papok által figyelt Pleiadokról. Ott arról volt szó, hogy a (kutatók által ismert) precesszió miatt a csillagzat zenitre való érése 72 évente csúszik egy napot (majdnem pontosan egy napot, hiszen egy fok ≈ egy nap).  
 Ez az jelenti, hogy az idő múlásával a csillagok és csillagképek vagy süllyednek a horizont vagy az [[E/Égi egyenlítő\|égi egyenlítő]] irányába, azaz kelet felé, azaz "késve" kelnek fel például heliákusan, vagy elemelkednek tőle.  
 Hogy süllyednek vagy emelkednek, úgy tűnik, az dönti el, hogy a Naprendszerünkhöz képest hol helyezkednek el (mi vagyunk kvázi a libikóka felfüggesztési pontja, közepe).  
-![assets/Precesszió_image15.png](/img/user/P/assets/Precesszi%C3%B3_image15.png)  
+![assets/Precesszió_image15.png|invert_dark](/img/user/P/assets/Precesszi%C3%B3_image15.png)  
 
 [[G/Galactic centre\|Galactic centre]] és [[H/Hunahpu\|Hunahpu]] címnél is szerepelt az alábbi ábra (ott magyarázó szöveggel): azt látjuk, hogy a precesszió miatt a Tejút (érdekes része, a Tejútistennő méhe) lejjebb és lejjebb süllyed a horizont felé. A feltüntetett időpontok is mutatják: a Tejútközpont irányába nézve az idő múlásával a precesszió süllyedést idéz elő.  
 Nem úgy a galaktikus anticentrum (lásd magyarázó képekkel is [[G/Galactic anticentre\|Galactic anticentre]]) irányában, mely irányban van az Auriga, Orion és a Pleiadok, sőt, a [[S/Szíriusz\|Szíriusz]] is, így a fenti példához hasonlóan az [[O/Orion övcsillagai\|Orion övcsillagai]] címnél (ott magyarázattal) is szereplő ábrán pontosan ellentétes, emelkedő mozgást modellezve ábrázolják az Orion csillagképet.  
-![assets/Precesszió_image16.png](/img/user/P/assets/Precesszi%C3%B3_image16.png)  
+![assets/Precesszió_image16.png|invert_dark](/img/user/P/assets/Precesszi%C3%B3_image16.png)  
 26000 évente – elvileg[^9] – egy teljes kört tesznek meg – de mely csillagképek? Hisz mi a helyzet a másik két világoszlopot felvonultató iránnyal, a Vízöntővel és Oroszlánnal? Nyilván azokban az irányokban is érvényesül a precesszió?  
 
 A [[N/Nyárpont\|nyárpont]] jelenleg az Ikrekben van (a precessziós [[T/Télpont\|télpont]] a Nyilasban (Paksi Zoltánnál a "hivatalosan nem jegyzett" Kígyótartóban), a [[T/Tavaszpont\|tavaszpont]] ugye a Halakban és az őszpont a Szűzben).  
@@ -514,7 +514,7 @@ Szívesen feltettem volna Balajinak a kérdést, hogy ha december 21-én felüln
 Helyes-e akkor a számításunk [[K/Krishna\|Krishna]] precessziós-Napminőség-istenség halála kapcsán? (Krishna halálának időpontja adná ugye a [[K/Kali Yuga\|Kali Yuga]]/Vaskor kezdetét). Az alábbiak alapján ekkor halt meg:  
 (David Pingree a Surya Siddhanta adatai vagy más ind források nyomán pedig azt mondja, hogy a [[B/Bolygóegyüttállások\|bolygóegyüttállások]] jelezte korszakváltások a Kos Csillagkép nulla fokánál számítódtak, ahogy ez megtörtént i.e. 3101. február 17-18 éjjelén is.)  
 Az időben visszafelé haladva a tavaszpont Halakban létét ugye megelőzi a Kosban és Bikában léte. A [[T/Télpont\|télpont]] Nyilasban létét megelőzi a Bakban és Vízöntőben léte. Krishna i.e. 3102. február 17-18. halála tehát téli napfordulós dátum. A mellékelt képen is látjuk, hogy a télpont (Bak jellel jelöli) a Vízöntőben van.  
-![assets/Precesszió_image19.png](/img/user/P/assets/Precesszi%C3%B3_image19.png)  
+![assets/Precesszió_image19.png|invert_light](/img/user/P/assets/Precesszi%C3%B3_image19.png)  
 
 ## Precesszió miatti tavaszpont-eltolódások és a jegyek jelképes tartalmának megváltozása, stb.
 

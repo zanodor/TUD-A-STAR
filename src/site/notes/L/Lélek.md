@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2024-02-24T15:21"}
+{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2024-02-28T21:17"}
 ---
 
 
@@ -392,12 +392,12 @@ Ha a szabadlélek = árnyéklélek és az árnyéklélek = vándorlélek, akkor 
 Igazságot tenni talán megint csak az idegen nyelvek segítéségével tehetünk (ha figyelembe vehetők). A latin `spirare` = lélegzeni szóra visszavezetett [[S/Spirit\|spirit]]us ezek szerint az a szellem, ami a lélegzet/lehelet-léleknek felelne meg.  
 Azért mondom, hogy megint, mert a germén `seele`/[[S/Soul\|soul]] = lélek szavak kapcsán egyszer már rámutattunk, hogy ezek meg éppen szél/szellet/szellem szavainkra mutatnak rá.  
 
-![assets/Lélek_image3.png](/img/user/L/assets/L%C3%A9lek_image3.png)  
+![assets/Lélek_image3.png|invert_dark](/img/user/L/assets/L%C3%A9lek_image3.png)  
 [[H/Harmadik szem\|Harmadik szem]] címnél szintén más, már a lélek és szellem fogalmainak összetévesztésére utaló információkat látunk:  
 A szimpatikus idegrendszert a görögök a \[melyik?\] lélek székhelyének tették meg, Schleich a kozmikus kapcsolatok felfogó szervének, Jung a faji emlékezés tárházának; vele azonosíthatók a hindu jóga csakrái, vagyis az életerő áramának központjai.  
 A görögök viszont, egyiptomi és babiloni mestereik nyomán azt tanították, hogy a lélek lakóhelye a rekeszizom alatt levő idegköteg, a nap-fonadék (plexus solaris).  
 Azaz mindenki beszél mindenről, lélek gyűjtőnév alatt, másrészt nem tudták már régen és ma sem, mi micsoda.  
-![assets/Lélek_image4.png](/img/user/L/assets/L%C3%A9lek_image4.png)  
+![assets/Lélek_image4.png|invert_dark](/img/user/L/assets/L%C3%A9lek_image4.png)  
 Itt egy újabb:  
 A védikus bölcselet a lelket \[melyiket?\] az agyalapi mirigybe helyezte, olvassuk tovább Várkonyi Nándortól. Azaz, annak a [[Z/Zsinat\|zsinat]] címnél taglalt folyamatnak megvoltak az előzményei. A magas tudásúnak gondolt kultúrák nem voltak tisztában mi micsoda, vagy pedig tudták, csak nem a megfelelő neveken és indoklással.  
 Végül a lélek Szentháromságból való kivételéhez hozzájárult az, hogy a Halak-korszakban a materialista felfogás érvényesül: ahogy Pap Gábor is fogalmaz, amit nem tudok definiálni (határok közé venni), az (mármint a lélek) nem is létezik.  
@@ -447,7 +447,7 @@ Amennyiben a babona fentebbi említése e tárgyban magyarázatra szorul, íme. 
 ...című tanulmányában amit az árnyéklélekről ír, szintén jól hangzik ösztön – isten témában (kérdés, mennyire tudálékoskodó):  
 > A [[V/Világügyelő\|világügyelő]] Férfi azonban a nappal ellentétben éjszaka jár Tovling-luván az égen – akárcsak Dia. Ha vizsgálat tárgyává tesszük az [[O/Őr\|őr]] funkciót – mert a Világügyelő Férfi a világ őre – az árnyéklélek fogalmához juthatunk. Hiszen **az árnyéklélek végső soron egy, a tudattalanunk éjszakájában lévő másik személyiség lehetősége, amely módosult tudatállapotban felszínre kerülhet és működni tud. Ez a második, mély én nemcsak minden tudásunk tartománya (ebből a régióból kerül felszínre, ami tudatosul), hanem vigyázó őrünk is**. Megfigyelték már, hogy valaki ránk szól vezetés közben, amikor közeledik az út széle, ha elkalandozik a fegyelmünk? Dia tehát fénykorában, az igazi mitikus időkben, mielőtt még kicsinyes *trickster* lett volna belőle, **a közösség közös árnyéklelké**t jelenítette meg, ennek megszemélyesített, és kivetített figurája volt, akárcsak Ekva-Piris, akit felfoghatunk úgy, mint a manysi nép **kollektív tudattalanjában vigyázó és figyelő őr**t.  
 
-![assets/Lélek_image5.png](/img/user/L/assets/L%C3%A9lek_image5.png)  
+![assets/Lélek_image5.png|invert_dark](/img/user/L/assets/L%C3%A9lek_image5.png)  
 Az [alábbi](https://youtu.be/aeRDLskUSZM) Turul és Szarvas II. rész című ÁKA előadásban KT 17:41-nél szól arról, mi a különbség a tudatos és [[T/Tudatalatti\|tudatalatti]] énünk között. Egy felfújt lufi az agyunk, mely lufi anyaga a tudatos énünk és ami benne van, az a tudatalatti énünk hordozója, mely képes őseink tudatalattiját (ez a Jung féle kollektív tudatalatti) is örökölni. Tehát ahogy az [alábbi](https://youtu.be/TsAxk6Dy2II) Turul és Szarvas III. rész című ÁKA előadásban 23:30-nál megint elmondja, hogy a tudatalatti arányaiban sokkal nagyobb mértékű, sokkal nagyobb erő, hatalom, tudás rejlik benne. Erre nem tér ki, de nem véletlen, hogy inkább a nőhöz tartozik, tehát amikor azt mondom, hogy női [[O/Ösztön\|ösztön]], ezzel megint csak azt bizonyítom, hogy a magyar felfogás szerint [[I/Isten\|Isten]] = inkább nő ([[B/Boldogasszony\|Boldogasszony]] Péterfai János adata szerint is a táltosoknál a legnagyobb és a [[C/Csudaszarvas\|Csudaszarvas]] is ünő, márpedig a [[S/Szarvas\|szarvas]] a régi felfogásban isten).  
 
 Mindig, mindenütt azt hangoztatom és erről [[D/Dogma\|dogma]] és [[C/Címke\|címkézés]] címnél is volt szó, hogy a mai fogalmak tisztázása a magyar nyelv alapján mennyire fontos. Ennél is fontosabb a jelképek és a magyar szavak vizsgálata, ugyanis az analógiás/képi gondolkodásra építő őseink a mélyen a tudatalattinkba átmentett tudását kell felszínre hozni ahhoz, hogy a magyarság és a világ megmeneküljön. Ez a kulcs. Ezt lefordítva lehetne betenni a Quora főcikkem aljára is.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Négyzet/","title":"Négyzet","created":"2023-10-26T05:19","updated":"2024-02-02T03:34"}
+{"dg-publish":true,"permalink":"/N/Négyzet/","title":"Négyzet","created":"2023-10-26T05:19","updated":"2024-02-28T21:35"}
 ---
 
 
@@ -10,7 +10,7 @@ Molnár V. József Világ-Virág című könyvének 13. oldalán azzal kezdi, ho
 A Molnár V. József által [[K/Kereszt\|kereszt]] bevezetőjében taglaltak szerint (miszerint a kereszt jelkép kiindulója a négyzet és nem a kör) és a [[S/Szakrális geometria\|szakrális geometria]] címnél taglaltak szerint a felülnézeti [[V/Világmodell\|világmodell]]ben a négyzetbe rajzolt X adja ki a 3D-ben a gúlát, piramist, mely felfelé állóként az isteni szféra (lefelé állóként az alvilágé). A gúla azaz a [[V/Világhegy\|Világhegy]] középpontjából képzeletben felfelé húzott egyenes a [[V/Világtengely\|Világtengely]], mely [[T/TAT\|TAT]], azaz [[T/TÁT\|TÁT]]-ja a [[S/Sarkcsillag\|Sarkcsillag]] (a tengely pedig TAT-[[D/Dzsed\|dzsed]]). Ha felmennénk a Sarkcsillagra és onnan néznénk le, akkor a négyzetet és az X-keresztet látnánk kicsiben. Ez a kereszt-középpont egyszer [[A/AN, ÁN\|AN, ÁN]] ([[A/Anu\|Anu]]) istennel (és lakóhelyével) azonosított (hely), másszor a Föld, mely a [[G/Geocentrikus világkép\|geocentrikus világkép]] szerint is középen volt elképzelve, nem butaságból.  
 
 Sípos Erzsébet az Ősi Gyökér 2006/2. sz. megjelent aranymetszésről szóló cikkében elhangzik, hogy a kör égi, a négyzet földi jelkép.  
-Ugyanezt leírta JM [[N/Négyszögletes Föld\|négyszögletes Föld]] címnél:  
+Ugyanezt leírta Jankovics Marcell [[N/Négyszögletes Föld\|négyszögletes Föld]] címnél:  
 > Az eget egyetemes ősi felfogás szerint a kör jelével szimbolizálták, a földet négyzettel. Az égi körnek a földi négyszög felel meg – az isteni szándék emberi megvalósítása a kör négyszögesítése.  
 
 Falvay Károly Nagyboldogasszony című könyvének 149. oldalától bőségesen szól a négyzetről és négyszögletességről, jelképiségéről.  
@@ -30,11 +30,11 @@ Négyzetrácsról lásd [[R/Rács\|rács]] és például [[S/Szita\|szita]].
 
 A négyzet  
 Fogság, börtön, korlátozás, megmerevedés. Klauzúra, az időben korlátozott tér jele. Az élettel ellentétes, de az élet számára mégis szükséges állapot jele. Térbezárt idő, karma, a négy elem fogsága.  
-![assets/Négyzet_image2.png](/img/user/N/assets/N%C3%A9gyzet_image2.png)  
+![assets/Négyzet_image2.png|invert_dark](/img/user/N/assets/N%C3%A9gyzet_image2.png)  
 
 A négy térfél – statikus
 
-![assets/Négyzet_image3.png](/img/user/N/assets/N%C3%A9gyzet_image3.png)  
+![assets/Négyzet_image3.png|invert_dark](/img/user/N/assets/N%C3%A9gyzet_image3.png)  
 Valaminek a térbeli elhelyezkedéséből következtethetünk energiahelyzetére. Osszuk fel a kihatárolt teret négy részre. Ennek jelzésére legkifejezőbb a négyzetbe rajzolt kereszt.  
 Nézzük végig oldalanként a jelentésüket. Mit szimbolizálnak a térfelek?  
 Alsó rész:

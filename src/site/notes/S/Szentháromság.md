@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2024-02-13T02:31"}
+{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2024-02-28T21:46"}
 ---
 
 
@@ -33,7 +33,7 @@ A Kagylókürt 2010. 54. számából letöltésre elérhető Szendrei László: 
 A Szentlélek-Isten kapcsán írja ([[T/Turul#Turul mint Szentlélek\|Turul mint Szentlélek]] cím/alcímnél is szerepelt):  
 > Isten harmadik fő aspektusa a magyarság számára a Szentlélek Isten. E nehezen elképzelhető isteni megnyilvánulást őseinknek a [[T/Turul\|Turul]] szimbolizálta. E mitikus, tulajdonképpen sosem látott madárról (aminek "világi" aspektusa a kerecsensólyom) fontos megjegyezni, hogy nem totemállat, hanem a hatalom, az isteni küldetés jelképe már az ókori kultúrákban. A kereszténység terjedésével az isteni akarat, a Szentlélek jelölője is, ami egyszerre biztosít szellemi és anyagi megtermékenyülést.  
 
-Bíró Lajos A magyar régmúlt titkai című könyvének (a PDF) 24. oldalán idézi Munkácsi Bernáton keresztül Fritz Hommelt, aki könyvében a [[H/Hettita\|hettitá]]król (akik szkíta hattik, [[K/Keta\|ketá]]k, hunok) szólva kiemeli, hogy mythologiájuk úgy, mint a többi előázsiai népé, három főistenséget ismer, ú.m. az Égistent, a nagy Istenanyát s az ifjú Napistent. A PDF 25. oldalán írja, hogy Baál vagyis Bél isten párja (a lábjegyzetben is említett héber-föníciai) [[A/Anat\|Anat]][^1], azaz [[E/Eneth\|Eneth]] volt.  
+Bíró Lajos A magyar régmúlt titkai című könyvének (a PDF) 24. oldalán idézi Munkácsi Bernáton keresztül Fritz Hommelt, aki könyvében a [[H/Hettita\|hettitá]]król (akik szkíta hattik, [[K/Keta\|ketá]]k, hunok) szólva kiemeli, hogy mitológiájuk úgy, mint a többi előázsiai népé, három főistenséget ismer, ú.m. az Égistent, a nagy Istenanyát s az ifjú Napistent. A PDF 25. oldalán írja, hogy Baál vagyis Bél isten párja (a lábjegyzetben is említett héber-föníciai) [[A/Anat\|Anat]][^1], azaz [[E/Eneth\|Eneth]] volt.  
 
 Hogy a Napfiú milyen néven futott ott, talán Molok/[[M/Meleg\|Meleg]] néven.  
 
@@ -186,7 +186,7 @@ A [[C/Csudaszarvas\|Csodaszarvas]] ezért többféle értelmezésű; BA-nál Nap
 
 Pintye Mihály A kölcsönadott magyar mitológia című Ősi Gyökér 2004/3. sz. megjelent cikkében azt írja, hogy a magyar kettős lélekhit szerint mindenkinek van lehelet lelke, ami a halállal megszűnik. Van vándorlelke, ami örök. Az atya vándorlelke által születik újjá saját fiában. Az atya, a fiú és a lélek ezért egylényegű (szentháromság).  
 
-[[E/Egylényegűség\|Egylényegűség]]ről írja JM másutt:  
+[[E/Egylényegűség\|Egylényegűség]]ről írja Jankovics Marcell másutt:  
 > Az atya és a fiú egylényegűsége a fáraók "istenségében" is kifejeződik. A fáraó, amíg élt, Hóruszt testesítette meg; amikor elhunyt, Ozirisszá vált. Ez a felfogás – mint Hellaszban – kiterjedt az istenek összes generációjára.  
 
 Bakos Attila A Duna Evangéliuma című könyvének 477. oldalán az "eredeti" Szentháromságról mint a szanszkrit Szat-csit-ánanda-ról szól, mely három szó jelentése öröklét, teljes tudás és boldogság (teljes beteljesülés); ezek a felszabadulás vágybeteljesítő adományai, ez létezésünk célja, az eredeti Szentháromság.  
@@ -275,8 +275,8 @@ Bálint Sándor szerint e napsugaras háromszög szentháromság-jelkép volt, s
 > Láthatóan a szentháromság fogalom a világegyetem szerkezeti jellemzője, kicsiben és nagyban egyformán jellemző modellje. A zsidókeresztény felfogásban a Föld és az Ég elválasztásra került, a látható (anyagi) világ és a nem látható (transzcendens) szféra elkülönült. A kettő között a kapcsolat már nem magától értetődő, hanem csak alkalmas közvetítők, (például papok) segítségével tartható fenn. A mesterségesen létrehozott Atya, Fiú, Szentlélek modellnek a Természetben nincs analógiája.  
 - Folytatást lásd képpel [[K/Köristen\|Köristen]].  
 
-![assets/Szentháromság_image8.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image8.png)  
-![assets/Szentháromság_image9.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image9.png)  
+![assets/Szentháromság_image8.png|invert_dark](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image8.png)  
+![assets/Szentháromság_image9.png|invert_dark](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image9.png)  
 
 #### Berényi László Géza Hogyan lett a Köristen tudatból zsidókeresztény hit?...
 
@@ -298,7 +298,7 @@ Szentháromságnak mondja egy internetes cikk szerzője az Anya, Gyermek és a [
 
 A már a címében is mutatólagos L. Kecskés András Háromkirályok – Szentháromság című az Ősi Gyökér 2013/1-2. sz. megjelent cikkében a [[G/Gáspár\|Gáspár]], [[M/Menyhért\|Menyhért]], [[B/Boldizsár\|Boldizsár]], és az általuk ajándékként hozott [[A/Arany\|arany]], [[T/Tömjén\|tömjén]] és [[M/Mirha\|mirha]] kapcsán szól a témáról.  
 
-![assets/Szentháromság_image10.jpeg](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image10.jpeg)  
+![assets/Szentháromság_image10.jpeg|invert_dark](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image10.jpeg)  
 Bakk István Miért apostoli királyság Magyarország? című az Ősi Gyökér 2013/3. sz. megjelent cikkében van egy rész, amely a [[P/Pálos\|pálos]] rend alapításáról szól. Ami a legérdekesebb benne, hogy benne Özsébet, mint a nagykutya nemzetségből valót említi; ugyanott (lásd témát [[K/Kutya\|kutya]] címnél) Gyárfás Ágnes Szentháromságra utaló kijelentést is tesz: Mária országának mennyei királysága az égi térképen látható, és ennek a földi mása a szentháromság megjelölése: a (Holló, Bak és a Nagykutya) csillagképek által határolt terület. \[Lényegében a [[T/Tejútanya\|Tejútanya]] csillagteste.\]  
 
 ## Judeo-keresztény szentháromság

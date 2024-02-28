@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mastabbagalgal/","title":"Mastabbagalgal","tags":["Englishtexttranslated"],"created":"2023-11-12T01:10","updated":"2024-01-29T12:04"}
+{"dg-publish":true,"permalink":"/M/Mastabbagalgal/","title":"Mastabbagalgal","tags":["Englishtexttranslated"],"created":"2023-11-12T01:10","updated":"2024-02-28T21:21"}
 ---
 
 
 # Mastabbagalgal
 
-Helyesen Mas-Tab-Ba-Gal-Gal a sumér-babiloni zodiákus Ikrek jegyének neve, melyet [[M/MAS\|MAS]]-nál és [[M/Más\|más]]nál is említettünk, minthogy MAS = [[M/Más\|más]].  
+Helyesen Mas-Tab-Ba-Gal-Gal a sumér-babiloni zodiákus Ikrek jegyének neve, melyet [[M/MAS\|MAS]]-nál és [[M/Más\|más]] címnél is említettünk, minthogy MAS = [[M/Más\|más]].  
 
 #### Gavin White Babylonian Star Lore...
 
 ...című könyvének adatai:  
-![assets/Mastabbagalgal_image1.png](/img/user/M/assets/Mastabbagalgal_image1.png)  
+![assets/Mastabbagalgal_image1.png|invert_dark](/img/user/M/assets/Mastabbagalgal_image1.png)  
 
 > The name of the Great Twins is written ‘Mul Maš-tab-ba-gal-gal'  
 > The Great Twins are known as `tū'amū rabûtu` in Akkadian. The Sumerian word `Maš`, meaning 'twin or companion' has also entered Akkadian as `māšū`.  
@@ -58,7 +58,7 @@ A Mastabbagalgal tehát Nagy Ikrek, és ahogy a lentebb szereplő adatok is muta
 
 > THE SUMMER SOLSTICE PERIOD  
 > 
-> ![assets/Mastabbagalgal_image4.png](/img/user/M/assets/Mastabbagalgal_image4.png) 
+> ![assets/Mastabbagalgal_image4.png|invert_dark](/img/user/M/assets/Mastabbagalgal_image4.png) 
 > 
 > The next distinct group of symbols is made up from the constellations that rise during the summer. These stars mark the hot dry season, which, unlike the milder climes of Europe, is regarded as the time of death in Mesopotamia. At this time the lands are ravished by drought and plague, and even nature herself becomes barren – the life-giving rains have ceased and river levels decline, the harvest is finished and all vegetation dies back under the scorching summer sun.  
 > As the sun approached the peak of his powers, [[T/Tammuz\|Dumuzi]] had foreboding dreams of his own death. His premonitions came true at the summer solstice and his funeral rites were performed amidst wailings and lamentations in month 4, immediately after the solstice. As Dumuzi walked the path of the dead, he took the sorrows of the worlds with him to the land of the shades.  
@@ -93,7 +93,7 @@ A Mastabbagalgal tehát Nagy Ikrek, és ahogy a lentebb szereplő adatok is muta
 
 > THE GREAT TWINS  
 > 
-> ![assets/Mastabbagalgal_image5.png](/img/user/M/assets/Mastabbagalgal_image5.png)  
+> ![assets/Mastabbagalgal_image5.png|invert_dark](/img/user/M/assets/Mastabbagalgal_image5.png)  
 > In Babylonia, the zodiac constellation of Gemini was known as the Great Twins, and like their Greek counterparts, the Dioscuri, the Babylonian Twins were depicted as a pair of warriors armed to the hilt. A Neo-Assyrian text describes their constellation figures as 'two bearded males'. The front twin carries a weapon called a hinšu (possibly a type of mace) in his right hand, while the rear twin 'carries a sickle-axe in his left hand'.  
 > The war-like nature of the Great Twins is vividly portrayed throughout the corpus of celestial omens: 'If Venus stands between the Great Twins: the land will become altogether hostile'. 'If the Strange Star (Mars) approaches the Twins: the prince will die and hostilities will arise'.  
 > The Twins were envisioned, weapons at the ready, guarding one of the entrances to the underworld. **In Babylonian tradition, there are actually two entrances to the underworld, each of which is associated with one of the solstices**. The wintertime entrance is primarily used by discarnate souls journeying to the afterlife, but the summer entrance, located in the region of the Crab, is used by the spirits of the ancestors when they return to earth to visit their family homes for the great ancestral festival celebrated in month 5. The summertime entrance is also the route that the souls of newborn babies use to enter into the world of men. The Twins probably guard this entrance to prevent the ingress of evil demons, which are sometimes said to use this otherworldly portal to bring plague and disease to mankind.  

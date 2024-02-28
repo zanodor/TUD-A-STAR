@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2024-02-10T04:18"}
+{"dg-publish":true,"permalink":"/P/Pleiadok/","title":"Pleiadok","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-09T04:07:00","updated":"2024-02-28T21:40"}
 ---
 
 
@@ -62,7 +62,7 @@ Orion vadász Pleiadokra szegezett nyiláról írja Varsa Mátyás A legrégibb 
 > \[...\]  
 > Nemcsak az északi regékből következik, hogy a Fiastyúk az istenek családi, egyben szerelmi fészke volt. Említettem már, hogy Órión görög hérósz is szerelmével üldözte a leányokat \[úgy mint [[P/Prajapati\|Prajapati]] Rohinit – írhatta volna\] (azaz, mint vadászisten, hálójával akarta kézre keríteni a galambrajt). Egy másik görög mítosz szerint Zeusz (Jupiter) foga is megfájdult egyikükre, akit Artemisz (Diana, azaz a Hold), hogy a főisten zaklatásától megmenekítse, szarvassá változtatott. Hiába, mert Zeusz utolérte és teherbe ejtette. E csillagleánykörből házasodott Sziszüphosz is, aki eredetileg napisten volt.  
 > A híres történet, mely szerint Héphaisztosz ([[V/Vulcanus\|Vulcanus]]) egy hálóban kapta rajta feleségét, [[A/Aphrodité\|Aphrodité]]t (Venust) Árésszal (Marssal), szintén itt esett, lévén a régiek hite szerint a Vénusz bolygó a Bika, a Mars a szomszédos Kos csillagkép ura, míg a Háló ez esetben nem más, mint a két szomszédvárat összekötő Fiastyúk egy harmadik névváltozata ([[H/Háló\|háló]], illetve Szita csillagzat típusú nevei ismertek mind a rokonaiknál, mind a magyarban).  
-> ![assets/Pleiadok_image2.jpeg](/img/user/P/assets/Pleiadok_image2.jpeg)  
+> ![assets/Pleiadok_image2.jpeg|invert_light](/img/user/P/assets/Pleiadok_image2.jpeg)  
 > A felsorolt példákból kiderült, hogy a legtöbb planétaisten megjárta a csillaghölgyek ágyasházát. Jó oka van ennek. Először is mind a planétáknak, mind a Fiastyúk csillagainak [[H/Hét\|hét]] a száma (s hét a Nagy [[G/Göncöl\|Göncöl]]é is!), ami magában véve is magyarázza, miért válhattak a csillagocskák az akkor ismert planéták képviselőivé és fordítva. Még fontosabb azonban, hogy a **Fiastyúk pontosan az ekliptika vonalában fekszik, így rajta a Nap minden évben áthalad, de a többi planéta is megfordul a "házában"** időről időre. Ráadásul egy időben világkorszak-jelző \[inkább évszak-jelző\] határcsillagzat volt. Eltűnése, vagyis az az időpont, amelytől kezdve a Nappal együtt kelt föl, jelezte a tavasz beköszöntét. Ez az időszak épp az ókori civilizációk virágzására esett. A tavasz azonban nemcsak a mezőgazdasági munkák és a hajózás kezdetét jelezte, hanem a természet termékeny periódusának kezdetét is, mely az állatok – többek közt az őzek \[mint amilyen [[R/Rohini\|Rohini]] is\] – nászának is ideje. Igaz, a szarvasok ez alól kivételek, hisz' a szarvasbőgés közismerten őszre esik, viszont ez idő tájt hozzák világra kicsinyeiket! A mitikus gondolkodásmód analógiákra épül, nem csoda hát, hogy a mítoszteremtő ember állatbőrbe bújt isteneinek üzekedését ez időben a Fiastyúk csillagainak eltűnéséhez kapcsolta.  
 > A csillagraj az eddig alig említett szarvasvadásszal, pontosabban annak íjával is sok helyütt együtt szerepel.  
 - Itt nyilván a keleti Nyíl/Íj csillagképre gondol, melyet lásd [[S/Szíriusz Iránban\|Szíriusz Iránban]], valamint [[S/Szíriusz és a nyíl\|Szíriusz és a nyíl]].  
@@ -79,19 +79,19 @@ Ami a Pleiadok és a Tejútközpont kapcsolatát illeti, ...
 > A Plejádok nagyjából szemben állnak a Galaktikus Középponttal; a Skorpió-Plejádok polaritást a maja és az inka kozmográfia is elismeri. A Plejádok tehát a Galaktikus Anticentrum hozzávetőleges mutatói. Elképzelhetünk egy tengelyt, amely a Galaktikus Középpontból felfelé nyúlik, áthalad a Földön, és a Plejádok mellett kifelé, a galaxisunkon túli hatalmas üres térbe nyúlik. Ezen a tengelyen történik a két precessziós együttállás, mindkettő a huszonegyedik században. Metafizikai értelemben a mezoamerikai kozmológusoknak fel kellett ismerniük, hogy ez a galaktikán belüli és a galaktikán kívüli erők valamiféle legfelsőbb összefolyása, amely a távoli jövőben Chichen Itzán fog összefolyni.  
 
 Gyakorlatilag még/csak(?) arról lehet itt szó, hogy az éji égen látható (évszakjelzőnek mondott) Pleiadok tulajdonképpen az előörse, beharangozója lehetett a Nap újjászületésének. Ha a zeniten együttálló Pleiadok és Nap (lásd képet [[Q/Quetzalcoatl\|Quetzalcoatl]]) az egyes maja városokban május 20-án történt, akkor az éjféli zenitje épp 6 hónappal később, november 20-án következett be, mely éppen egy hónapra van a téli napfordulótól és a Nap halálát majd születését megünneplendő időszaktól.  
-Amennyiben mégsem erről lenne szó, hanem arról, hogy a mezo-amerikaiak a mai tudomány által is számon tartott galaktikus antiközpontot (lásd [[G/Galactic anticentre\|Galactic anticentre]]) látták benne, akkor JMJ jól akarja felvázolni. Hogy ez az antiközpont irány még univerzum-központ vagy spirituális központ vagy emberiség-keletkezés-központ értelemmel is állt, erről alant még lesz szó.  
+Amennyiben mégsem erről lenne szó, hanem arról, hogy a mezo-amerikaiak a mai tudomány által is számon tartott galaktikus antiközpontot (lásd [[G/Galactic anticentre\|Galactic anticentre]]) látták benne, akkor John M. Jenkins jól akarja felvázolni. Hogy ez az antiközpont irány még univerzum-központ vagy spirituális központ vagy emberiség-keletkezés-központ értelemmel is állt, erről alant még lesz szó.  
 
 Az mindenesetre itt még érdekes, hogy Jankovics Marcell egyes könyveiben a **Pleiadok a Tejútanya köldöké**vel azonosíttatott ([[S/Szíriusz mint istenanya\|Szíriusz mint istenanya]] címnél is szerepelt):  
 > A csillagszülő [[N/Nut\|Nut]]ról, a Tejutat megszemélyesítő faanyáról azt tartották, hogy a Fiastyúk (Pleiadok) csillagzat a köldöke. Az anya testén a köldök jelzi a méh, a fogamzás helyét. Nut köldöke a Fiastyúk a Tejúttal szomszédos, és éppen a nappályán, a Kos és a Bika cikkelyek határán van. Kb. 4000 evvel ezelőtt itt volt a tavaszpont, a napisten fogamzásának a helye.  
 - Viszont másutt a köldök a [[S/Sarkcsillag\|Sarkcsillag]]:  
-JM Ahol a madár se jár című könyvében a Tejútistennő köldökét és ezzel méhét a Sarkcsillaggal azonosítja ([[G/Göncöl\|Göncöl]] címnél is szerepelt):  
+Jankovics Marcell Ahol a madár se jár című könyvében a Tejútistennő köldökét és ezzel méhét a Sarkcsillaggal azonosítja ([[G/Göncöl\|Göncöl]] címnél is szerepelt):  
 > A Sarkcsillagot hordozó szarvas képzete szervesen illeszkedik a Nappal, kereszttel, világfával "viselős" állatistennő képzetéhez. A Sarkcsillag nemcsak a világfába vert arany Szögcsillag, de a tejútistennő köldöke is, s egyiptomi példa nyomán nagyon valószínű, hogy a régiek úgy hitték, a télen halott (a magas északon hosszabb időre a horizont alatt rekedt) Nap északon, az istennő méhében (a köldöke mögött) várja keleti újjászületését.  
 
 John Major Jenkins Galactic Alignment c. könyvének 33.oldalán (más kapcsán) írja, hogy a kölcsönös megfeleltethetőség alapja lehetett, hogy a Göncöl és a Pleiadok is hét-hét csillagból állnak:  
 > We shall see in the Old World's cosmological shift from a polar to a solar orientation, the seven stars of the Big Dipper were mapped (or conceptually relocated) to the seven stars of the Pleiades. The underlying meaning here is that the Pleiades, like the Big Dipper, are the head point of a world-centering axis, with the astronomical reference for the Pleiades, though approximate, being to the Galactic Anticenter. Obviously, the other end of this axis is rooted in the Galactic Center.  
 > —  
 > Látni fogjuk, hogy az Óvilág kozmológiai eltolódása során a sarki tájolásról a szolárisra való áttérés során a Nagy Medve hét csillagát a Plejádok hét csillagához képezték le (vagy helyezték át fogalmilag). Ennek az a mögöttes jelentése, hogy a Plejádok, akárcsak a Nagy Medve, egy világközpontú tengely főpontja, a Plejádok csillagászati vonatkozása pedig, bár közelítőleg, a Galaktikus Anticentrumra vonatkozik. Nyilvánvaló, hogy e tengely másik vége a Galaktikus Középpontban gyökerezik.
-- A témáról René Guenon és JMJ tolmácsolásában lásd bővebben [[H/Hyperborea-Atlantisz átállás\|Hyperborea-Atlantisz átállás]].
+- A témáról René Guenon és John M. Jenkins tolmácsolásában lásd bővebben [[H/Hyperborea-Atlantisz átállás\|Hyperborea-Atlantisz átállás]].
 
 Könyvének 39. oldalán írja [[C/Chichen Itza\|Chichen Itza]] északi templomáról szólva, hogy a Sarkcsillag(ban összpontosuló sarki központ: köldök, mint Visnu köldöke, amely viszont a védikus asztrológiában a Tejútközpontot jelenti) a déli meridánon áthaladó Tejútközponttal állítható szembe:  
 > Here, because of the North Temple's orientation as viewed from the ballcourt, it seems to represent the North Celestial Pole, around which all the stars are observed to revolve. Recall that the polar center counterposes the Galactic Center as it passes through the southern meridian.  
@@ -155,7 +155,7 @@ William F. Warren könyvének adata szerint a görög [[M/Meropisz\|Meropisz]] a
 Legutóbb [[T/TÜN\|TÜN]] etimonnál is szóba került a neve.  
 
 Dacára annak, hogy a Fiastyúk másik neve, Hetevény kimondja, hogy [[H/Hét\|hét]] csillagról van szó, mások kilencről is szólnak:  
-![assets/Pleiadok_image3.png](/img/user/P/assets/Pleiadok_image3.png)  
+![assets/Pleiadok_image3.png|invert_light](/img/user/P/assets/Pleiadok_image3.png)  
 A Fiastyúk (Pleiádok) a Bika (Taurus) csillagkép része. Késő ősszel és télen lehet könnyen megtalálni a tűhegynyi csillagok alkotta "fészket". A Bika és benne a Fiastyúk csillagkép az égi szarvasok közé tartozik. A Fiastyúkot másképpen Fagyhozó csillagnak is mondják, mert amikor már kora este látható az égen, akkor közel a tél. Tehát évszakcsillag is volt.  
 A Fiastyúk kapcsán visszautalhatunk még a kilenc agancsos táltosra is, hiszen kilenc legfényesebb (szabad szemmel is jól látható) csillagának népi elnevezése a "Kilenc Tátos."  
 
@@ -165,7 +165,7 @@ A Fiastyúk kapcsán visszautalhatunk még a kilenc agancsos táltosra is, hisze
 > A görögöknél Maia a pleiászok egyik csillaga volt, Zeusz szeretője, és a főistennel együtt töltött éjszakák eredményeként Hermész (latin Mercurius) anyja. Ez a planétaistenfi az asztrológia májusi Ikrek jegyében van "otthon". (Általánosságban elmondható, hogy a 7 pleiászt, a Pleiades 7 csillagát a görögök – de mások is – kapcsolatba hozták a [[H/Hét bolygó\|hét bolygó]]val. Ennek nemcsak az volt az oka, hogy a csillagzat szabad szemmel látható csillagainak a száma megegyezett a szabad szemmel látható planétákéval, hanem a helye is: a Nap, a Hold és a bolygók rendszeresen áthaladnak rajta.)  
 - Lásd még említve [[H/Háló csillagzat\|Háló csillagzat]].  
 
-A JMJ és Rene Guenon által több helyen is említett Nagy Medve – Pleiadok kapcsolatát látjuk a Varga Zsigmond Az ősmagyar mitológia című könyvében szereplő burját mondában, miszerint:  
+A John M. Jenkins és Rene Guenon által több helyen is említett Nagy Medve – Pleiadok kapcsolatát látjuk a Varga Zsigmond Az ősmagyar mitológia című könyvében szereplő burját mondában, miszerint:  
 > A Nagy Medve csillagai ellopták u.i. a Plejádoktól az Alcort, a legkisebb csillagot, így lett az eredetileg hét csillagot számláló plejádok száma hat \[csillagot számláló\] csillagkép. A Plejádok üldözik őket, de sohasem tudják beérni.  
 
 #### Michel-Gerald Boutet Druidical Astrology...
@@ -189,7 +189,7 @@ A JMJ és Rene Guenon által több helyen is említett Nagy Medve – Pleiadok k
   
 
 [[N/Negyven\|Negyven]] címnél is szerepelt:  
-Negyven napig, vagy másképp szólva hat hétig tűnik/tűnnek el Pleiadok a Nap fényében (JMJ írja):  
+Negyven napig, vagy másképp szólva hat hétig tűnik/tűnnek el Pleiadok a Nap fényében (John M. Jenkins írja):  
 > The Pleiades emerge in the predawn skies (heliacally) after six weeks of being lost in the rays of the Sun. This six-week period is generally referred to as the "Sun-Pleiades" conjunction.  
 > —  
 > A Plejádok felbukkannak a hajnali égbolton (heliákusan), miután hat hétig eltűntek a Nap sugarai között. Ezt a hathetes időszakot általában "Nap-Pleiádok" konjunkciónak nevezik.  

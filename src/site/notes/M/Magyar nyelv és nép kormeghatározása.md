@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar nyelv és nép kormeghatározása/","title":"Magyar nyelv és nép kormeghatározása","created":"2023-10-14T06:06","updated":"2024-02-02T03:23"}
+{"dg-publish":true,"permalink":"/M/Magyar nyelv és nép kormeghatározása/","title":"Magyar nyelv és nép kormeghatározása","created":"2023-10-14T06:06","updated":"2024-02-28T21:18"}
 ---
 
 
@@ -19,7 +19,7 @@ A 70000 évről Péterfai János is cikkez:
 
 [[G/Grandpierre Atilla\|Grandpierre Atilla]] szól arról is A királyi mágusok című dolgozatában, hogy mivel az uráli népcsoport éppen a magyar, ukrán, lengyel és horvát nép őse (Szabó, 2004, 60), amelynek nyelvét ma már csak a magyarság őrzi, ezért régészetileg alátámasztott álláspont, hogy a magyar királyság több mint húszezer éves múltra tekinthet vissza. Nem lehet véletlen, hogy a Hihetetlen Magazin különszámainak címe is ez volt.  
 Hogy világosabban lássuk a mágusok, királyok és a magyarság tér- és időhatárait, táblázatot készítettünk (2. táblázat).  
-![assets/Magyarnyelvesnepkormeghatározása_image2.png](/img/user/M/assets/Magyarnyelvesnepkormeghat%C3%A1roz%C3%A1sa_image2.png)  
+![assets/Magyarnyelvesnepkormeghatározása_image2.png|invert_dark](/img/user/M/assets/Magyarnyelvesnepkormeghat%C3%A1roz%C3%A1sa_image2.png)  
 *(2) Táblázat. A mágusok, a (Nap)királyság és a magyarság tér- és időhatárai a ma uralkodó nézet és az itt nyert új eredmények tükrében genetikai bizonyítékok alapján, ld. GKE-GA (2006, 18, 178-180).*  
 
 ## Lábjegyzetek

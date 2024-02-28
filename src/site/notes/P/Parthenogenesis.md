@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Parthenogenesis/","title":"Parthenogenesis","tags":["Englishtexttranslated"],"created":"2023-11-11T12:17","updated":"2024-02-02T03:37"}
+{"dg-publish":true,"permalink":"/P/Parthenogenesis/","title":"Parthenogenesis","tags":["Englishtexttranslated"],"created":"2023-11-11T12:17","updated":"2024-02-28T21:39"}
 ---
 
 
@@ -25,7 +25,7 @@ Az alábbi NatGeo cikkben szó esik a kígyók és más fajok azon képességer�
 [[K/Kígyó\|Kígyó]] címnél is szerepelt:  
 A kígyóknak hím gyíkokhoz hasonlóan két péniszük van. Ezek két részből állnak, így valójában két fél-péniszük van, melyekhez külön here tartozik. Andrew Durso internetes blogjában azt írja, hogy ha párzáskor a lány kígyó még nem ovulál, azaz nincs kész a fogantatásra, - akár öt évre – el képes tárolni a spermát úgy, hogy tulajdonképpen azt mondhatjuk, hogy parthenogenezist, szűznemzést hajt magán végre. Ezen megjegyzése azért érdekes, mert az ősmagyarok által kitalált mitológiákban bizony ilyen hihetetlen mély tudás lapulhat.  
 
-![assets/Parthenogenesis_image1.png](/img/user/P/assets/Parthenogenesis_image1.png)  
+![assets/Parthenogenesis_image1.png|invert_dark](/img/user/P/assets/Parthenogenesis_image1.png)  
 Az [alábbi](https://www.cell.com/current-biology/pdf/S0960-9822(15)00782-4.pdf) tanulmányban:  
 [[A/Alma\|Alma]], [[M/Maid\|maid]] és [[M/Magyar\|magyar]] címnél is szerepelt:  
 A fenti tanulmány más adata szerint a héber `almah` = szűz. Ugyan első megérzésem az volt, hogy ez [[A/Alma\|alma]] szavunkkal azonos ([[A/Alma Mater\|Alma Mater]] is létezik ugye), könnyen lehet, hogy az Al itt névelő és a szóvégi [[H/H\|h]] nem hagyható el. Azaz mah = mag, mint a [[M/Magda\|Magda]] és [[M/Maiden\|maiden]] nevekben illetve elődjében. A lényeg, ahogy az [alábbi](https://carm.org/isaiah-7-14-virgin) oldal is taglalja, hogy félrefordítás történt (a héber [almah](https://en.m.wikipedia.org/wiki/Almah) = maiden, nem virgin; több címnél volt arról szó, hogy a szűz aspektusa a Tejútanyának (násza előtt) lány, tündér[^1]):  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/I/Íj és a nyíl/"}
+{"dg-publish":true,"permalink":"/I/Íj és a nyíl/","title":"Íj és a nyíl","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T08:39","updated":"2024-02-28T21:13"}
 ---
 
 
@@ -41,7 +41,7 @@ Kezdjük a szexuális tartalommal. Már [[K/Kutyanemzés\|kutyanemzés]] címné
 Az akkád `ūru` = vagina, vulva szó nyilván a (betöltendő) űrre és egyúttal az égre utal. A kutya [[U/UR\|UR]] neve kankutya név, a kan helyén másutt [[S/Szuka\|szuka]] (mint [[S/Sarama\|Sarama]]) van.  
 A szexuális szimbolika úgy képzelhető el, hogy a mellékelt képen Nut az íj és Geb hímvesszeje a nyíl.  
 
-![assets/Ijesnyil_image2.png](/img/user/I/assets/Ijesnyil_image2.png)  
+![assets/Ijesnyil_image2.png|invert_dark](/img/user/I/assets/Ijesnyil_image2.png)  
 Igen furcsa, hogy a nő a szuka és a kan nemi szerveivel példálózik. Ennek egyetlen oka lehet. Hogy ismerték a [[S/Szíriusz\|Szíriusz]]\(ban álló Nap (erejéből származó)) nemző szerepét, vagy legalábbis hagyományából valamennyi fennmaradt.  
 
 #### Stephanie Lynn Budin Women in Antiquity...  
@@ -59,7 +59,7 @@ Igen furcsa, hogy a nő a szuka és a kan nemi szerveivel példálózik. Ennek e
 
 A Gal-La igen hasonló a [[G/Gula\|Gula]] névhez, így ott is szerepelt. Amiket Budin itt még ír, emlékeztetnek arra az Acharia S féle szövegre[^2], ami több helyen is szerepelt.  
 
-![assets/Ijesnyil_image3.png](/img/user/I/assets/Ijesnyil_image3.png)  
+![assets/Ijesnyil_image3.png|invert_dark](/img/user/I/assets/Ijesnyil_image3.png)  
 Ez a szeméremháromszög ("pubic triangle") megtalálható Labat 554-es ékjelében is, amely (G)eme olvasatú (lásd [[G/Geme\|geme]] és [[E/Eme\|eme]]). Jól látható a képecskén miről van szó. Valójában alkímiai értelemben sincs meglepetés, hiszen a csúcsával lefelé álló háromszög nőiség (a víz és föld elementálok jele).  
 Lásd még [[P/Pina#Női nemi rész – szentség/templom allegória\|női nemi rész – szentség/templom allegória]] cím/alcímet.  
 
@@ -116,7 +116,7 @@ Péterfai Jánosnál ugyanez (lásd zárójeles megjegyzéseim illetve kiemelés
 - Valóban úgy tűnik, hogy az íj és nyíl közül az előbbi a csillagos ég összessége illetve az általunk látható félgömb, míg a nyíl a [[T/Tejút\|Tejút]].
 
 Herkules íja lehet az [[I/Íj csillagkép\|Íj csillagkép]], annál is inkább, mert ha végén arany csésze függött, az csillag kell legyen, bár a Szíriusz inkább ezüstös, míg a Nap aranyszínű.  
-Alant illetve legalul szerepel JM azon adata hogy mennyi és mennyi különböző íjas, nyilas csillagkép található az égen. Ennek analógiájára van jócskán [[S/Szarvas csillagkép\|Szarvas csillagkép]]ekből is. Lásd még Santillana értelmezését az ívről.  
+Alant illetve legalul szerepel Jankovics Marcell azon adata hogy mennyi és mennyi különböző íjas, nyilas csillagkép található az égen. Ennek analógiájára van jócskán [[S/Szarvas csillagkép\|Szarvas csillagkép]]ekből is. Lásd még Santillana értelmezését az ívről.  
 
 Szintén fontos lehet itt megemlíteni, hogy a [[S/Székely-magyar rovásírás#Ny\|székely-magyar rovásírás ny]] és (főleg) [[S/Székely-magyar rovásírás#N\|n]] betűje valamiféleképpen az ív feszített állapotára utalhat, akár a Péterfai János által is vélelmezett kontextusban, annak függvényében, hogy a Tejút hogyan mutatkozik meg az égen (számunkra a precessziós elmozdulása, forgása fontos, ahogy nyilván elsődlegesen a [[D/Dzsed\|dzsed]]-állítás is leginkább precessziós értelemben lehetett fontos). Azóta az az értelmezés is megszületett, hogy az ívek a lemniszkáta homorú és domború évfeleire utalhatnak.  
 
@@ -136,16 +136,16 @@ Arról a [[D/Daughter\|daughter]], [[D/Dame\|dame]], [[D/Danu\|Danu]] és [[T/Ta
 [[M/Mestergerenda\|Mestergerenda]] és [[I/Ideg\|ideg]] címnél írottak szerint érthető meg (a régi magyarok ugyanis tudvalevőleg az íjat kifeszítő [[H/HÚR\|húr]]t nevezték volt idegnek, aminthogy ezt mai irodalmi nyelvünk is nevezi még így), miről is van szó.  
 MA nagy szolgálatot tett rajzával is. Ugyanis Id-Eg annyit tesz, mint Isten Ege, és mivel íjról is szó van és a fentiek alapján tudjuk, hogy az íj = ív = év = ég és a nyíl = Níl(us) = Tejút, valamint hogy a húr nemcsak bél jelentésű de a [[T/Teknős\|teknős]] és [[L/Lapos Föld\|lapos Föld]] címnél is említett [[H/Horizon\|horizon]] szónak kiadója is, hogy itt [[S/Szakrális geometria\|szakrális geometria]] újabb és egyben legalapvetőbb példájával állunk szemben.  
 (Mellékelve lásd még a látható ég félgömbjét, a hupolagot, melyet Péterfai János [[C/Csuda\|csudá]]nak hív.)  
-![assets/Ijesnyil_image5.png](/img/user/I/assets/Ijesnyil_image5.png)  
+![assets/Ijesnyil_image5.png|invert_dark](/img/user/I/assets/Ijesnyil_image5.png)  
 
 Szintén ide tehető a tűzfúró-szerszám [[T/Terebra\|terebra]] címnél is szereplő képe, mely nagyon hasonló az íj és a nyíl együtteséhez.  
-![assets/Ijesnyil_image6.png](/img/user/I/assets/Ijesnyil_image6.png)  
+![assets/Ijesnyil_image6.png|invert_dark](/img/user/I/assets/Ijesnyil_image6.png)  
 A képekhez tartozó MA-féle magyarázatot lásd a lábjegyzetben[^7].  
 A saját diagramon pedig összefoglalva lásd, miként képzelhették el az eget.  
-![assets/Ijesnyil_image7.png](/img/user/I/assets/Ijesnyil_image7.png)  
+![assets/Ijesnyil_image7.png|invert_dark](/img/user/I/assets/Ijesnyil_image7.png)  
 
 Borbola János A keresztút című az Ősi Gyökér 2015/3-4. sz. megjelent cikkében mutatja be Hannig R.: Großes Handwörterbuch Ägyptisch-Deutsch című könyvéből adatát és a fentieknek megfelelő adatokat is szolgáltat. Amit ír, érdekes: az RMP43-as példájának 18. jele is a félgömb bemutatására a hímvesszőt, mint a gömb sugarát állítja példaképpen. (Az RMP a Rhind Matematikai Papirusz rövidítése.)  
-![assets/Ijesnyil_image9.jpeg](/img/user/I/assets/Ijesnyil_image9.jpeg)  
+![assets/Ijesnyil_image9.jpeg|invert_dark](/img/user/I/assets/Ijesnyil_image9.jpeg)  
 ![assets/Ijesnyil_image8.jpeg](/img/user/I/assets/Ijesnyil_image8.jpeg)  
 Az elliptoid/tojás alakú gömb az éggömb, középen a nyíl = Nílus = Tejút. Ezt ő persze nem írja.  
 
@@ -361,7 +361,7 @@ Legutóbb [[T/Try\|try]] címnél volt arról szó, hogy a próbálkozás a jó 
 ## Sumér és akkád témák
 
 Fentebb volt szó szexualitásról. Itt még most csak egy a Gyárfás Ágnes Tellói pecsét című az Ősi Gyökér 2013/1-2. sz. megjelent cikkében Labat 103-asként általa megadott jelről szóljunk.  
-![assets/Ijesnyil_image15.jpeg](/img/user/I/assets/Ijesnyil_image15.jpeg)  
+![assets/Ijesnyil_image15.jpeg|invert_dark](/img/user/I/assets/Ijesnyil_image15.jpeg)  
 Gyárfás Ágnes Oriont keresi a jelben, de a képjel mellé írott Mus kígyót jelent, ami valóban Tejútként = Nílus = Nyíl is.  
 
 ## Egyiptomi témák
@@ -370,7 +370,7 @@ A Wordsense.eu oldalon hozott (úgy rémlik, már másutt is taglalt) egyiptomi 
 
 ## Perzsa íjas témák
 
-[[B/Brow\|Brow]] címnél volt szó az `abrū-kamān` = íjat formázó szemöldökű, `abrū-hilāl` = holdsarlót formázó szemöldökű szavakról. A szemöldökben könnyű ívet/íjat látni, méginkább a holdsarlót. Azóta a vele azonos alakú próba szó kapcsán, valamint [[A/Ábrahám\|Ábrahám]] íjászsága kapcsán is ilyen összefüggésben szóltunk.  
+[[B/Brow\|Brow]] címnél volt szó az `abrū-kamān` = íjat formázó szemöldökű, `abrū-hilāl` = holdsarlót formázó szemöldökű szavakról. A szemöldökben könnyű ívet/íjat látni, még inkább a holdsarlót. Azóta a vele azonos alakú próba szó kapcsán, valamint [[A/Ábrahám\|Ábrahám]] íjászsága kapcsán is ilyen összefüggésben szóltunk.  
 Lásd még [[T/Tír\|Tír]].  
 
 ## Arab nyilas-íjas témák

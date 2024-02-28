@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Macska/","title":"Macska","created":"2023-11-17T11:07","updated":"2024-02-10T04:07"}
+{"dg-publish":true,"permalink":"/M/Macska/","title":"Macska","created":"2023-11-17T11:07","updated":"2024-02-28T21:18"}
 ---
 
 
@@ -39,7 +39,7 @@ Mivel másutt is folyamatosan a Napjelkép (nagy)macskákról volt szó, elhomá
 Közben [[K/Kisasszony\|Kisasszony]] címnél járva sikerült megoldani a rejtélyt, miről is lehet szó. [[K/K\|K]] és [[M/M\|M]], valamint [[N/Nyelvtani nemek\|nyelvtani nemek]] címnél volt arról szó, hogy a magyar nyelvben a kemény hang a hímségi és a lágy a nőiségi. Egyre több helyen látjuk, hogy a hun nyelv hajlamos volt úgy képezni szavakat, hogy az erdedeti (?) puha ajakhangot a szó elején lecserélte torokhangra. Párnak fogható így fel [[K/Kis\|kis]] és [[M/Miss\|miss]][^1], valamint a macska (macs-ka, [[M/MAT\|MAT]]-ka) és [[C/Cat\|cat]] ([[K/KAT\|KAT]]).  
 De a tej értelemben is használható(?) [[M/MISZ\|MISZ]], méz, med > ked, [[K/Köd\|köd]] alakban tej a hun nyelvben. Aztán ott van a magyar alakú [[M/MES\|MES]] ([[M/Metsz\|metsz]]) és a hun alakú kés és [[K/KAT\|KAT]] (vagy [[K/Kata\|kata]]; elvág, megöl; halál értelmében párja a magyar [[M/MAT\|MAT]]/[[M/MATA\|MATA]]).  
 Azaz a macska nem makacs eredetű (épp fordítva lehet), hanem egyezik a [[M/Mátka\|mátka]] szavunk eredetével, mely más (szláv és ainu!) nyelvekben, kicsinyítés nélkül is az anya neve (és az anyáknak/nőknek ugye pinájuk van és gyereket/Napgyermeket szülnek). Macska tehát Mat-Ka, mely végül is Péterfai János etimonjai alapján annyit tesz, mint a Nőiség Náza (mely Nő, a Tejútanya Életet is ad és a Halálról ([[M/MATA\|MATA]]) is rendelkezik. A [[H/Ház\|ház]] mindig a Tejútanyára, annak hasára/méhére/(és kapuja) vulvájára utal. Egyenként a hun alakú KAT is lehet ház értelmű (alakját tekintve egyezik a [[H/HAT\|HAT]] = ház szóval is).  
-A macska (ahogy a [[R/Róka\|róka]] és [[B/Béka\|béka]] is) viszont a női nemi szerv állatjelképe is. A [[C/Cat\|cat]] így egyező alakú [[C/Coot\|coot]]-tal is (de méginkább a francia `chatte` = macska; pina egyezik a macska ezen nevével). A [[F/Fasz\|fasz]] és [[P/Pina\|pina]], [[K/Kutya és macska\|kutya és macska]] tehát egymást kergetve asztro-szexuális jelképiséget mutatnak (lásd erről [[S/Szexualitás égen-földön\|szexualitás égen-földön]]): a kutya fasza akar a mátka/macska pinájába/macskájába jutni, nemzés céljából.  
+A macska (ahogy a [[R/Róka\|róka]] és [[B/Béka\|béka]] is) viszont a női nemi szerv állatjelképe is. A [[C/Cat\|cat]] így egyező alakú [[C/Coot\|coot]]-tal is (de még inkább a francia `chatte` = macska; pina egyezik a macska ezen nevével). A [[F/Fasz\|fasz]] és [[P/Pina\|pina]], [[K/Kutya és macska\|kutya és macska]] tehát egymást kergetve asztro-szexuális jelképiséget mutatnak (lásd erről [[S/Szexualitás égen-földön\|szexualitás égen-földön]]): a kutya fasza akar a mátka/macska pinájába/macskájába jutni, nemzés céljából.  
 
 Itt jut eszembe Pap Gábor adata, miszerint a Szűz egyik, negatív megjelenése a boszorkányra utaló (a vén banya a "már szűz") is lehet, továbbá, hogy keleten a Szűznek a Macska és a Nyúl felel meg.  
 

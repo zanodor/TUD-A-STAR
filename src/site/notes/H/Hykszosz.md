@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Hykszosz/","title":"Hykszosz","tags":["Englishtexttranslated"],"created":"2023-10-31T08:16","updated":"2024-02-12T18:13"}
+{"dg-publish":true,"permalink":"/H/Hykszosz/","title":"Hykszosz","tags":["Englishtexttranslated","renameitmaybe"],"created":"2023-10-31T08:16","updated":"2024-02-28T21:13"}
 ---
 
 
@@ -40,7 +40,7 @@ Golenya Ágnes a Jakab Istvánnal folytatott ([[J/Jehova-program\|Jehova-program
 Péterfai János lentebbi passzusában is szerepel az azonosítás.  
 
 Kubínyi Tamás Turul és szarvas [című](https://youtu.be/VlJJdkm4AWE) YouTube-os előadás-sorozatának első részében 1:14:37-től kezdve tárgyalja a [[Z/Zsidó\|zsidó]]k valódi kilétét, a hykszoszokat (akik ragozó nyelvet beszéltek[^2]) és [[J/Jeruzsálem\|Jeruzsálem]]et. 1:20:30-nál képi szöveges adat is árulkodik arról, hogy Egyiptomból való kivonulásuk után Jeruzsálemben telepedtek le.  
-![assets/Hykszosz_image1.png|500](/img/user/H/assets/Hykszosz_image1.png)  
+![assets/Hykszosz_image1.png|invert_light|500](/img/user/H/assets/Hykszosz_image1.png)  
 J. Fitzgerald Lee Josephus Flavius, Plutarkhosz és Eusebius adatai alapján írta ezt le. 1:23:36-nál azt mondja, hogy a [[J/Júda\|Júda]] törzsnek a lakóhelye, a mai Judea, ősi néven, még Kr. 600-ban is Kosként volt számon tartva. A Szentírás jebuzeusoknak, hittitáknak, húroknak (hurrik) nevezi őket. Itt még arról szól KT, hogy régen is elismerték, hogy ragozó nyelv a hykszoszok nyelve.  
 Ezen a ponton álljunk meg, ugyanis míg nálam Juda [[K/Kutya\|kutya]] olvasatú volt, addig a kos vagy a kecske is G-T, G-D vázú az árja nyelvb en, de a sémiben is G-D vázú szavakat találni (lásd [[G/GAD\|gad]], [[G/Goat\|goat]] és [[K/Kid\|kid]] címnél). Azt se feledjük, hogy a Kos a keleti állatövben Kutya, továbbá ne feledjük, hogy Zajti Ferenc Zsidó volt-e Jézus című könyvének [[K/KUS\|KUS]] és [[S/Szkíta\|szkíta]] címnél álló adatai[^3] alapján is azt azt a következtetést vontuk le, hogy a kutyának vagy Kut-nak volt Kucs, Kusz, Kus névalakja is, de legalábbis a két név és fogalom együvé látszik tartozni, [[G/Göd\|Göd]] címnél írottak alapján is. A [[K/KUS\|KUS]] az életfa és a Tejútfa, Tejút neve is lehet, ahogy a [[M/MISZ\|MISZ]], mely rendszerben a Kutya-Szíriusz fontos szerepet játszik (és akkor még nem szóltunk a női szemérem és az íj ilyen alakú nevéről).  
 KT még a hykszosz név etimológiája kapcsán is előjön Kos-os formával, de az egy furcsa ferdítés lehet.  
