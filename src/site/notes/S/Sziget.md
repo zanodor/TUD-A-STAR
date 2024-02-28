@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["Englishtexttranslated"],"created":"2023-10-04T01:59","updated":"2024-02-02T03:47"}
+{"dg-publish":true,"permalink":"/S/Sziget/","title":"Sziget","tags":["Englishtexttranslated"],"created":"2023-10-04T01:59","updated":"2024-02-28T21:47"}
 ---
 
 
@@ -11,7 +11,7 @@ Sziget a Nap Tája értelmet adja, de mivel minden Napnévnek van extra hímség
 
 > Sziget szavunkban a Szig a Nap neve, a Szik párja. A Szig-Et második része Föld, Hely értelmű, megfelelően a Ta jelentésének. A Sziget kiemelkedő a vízből, továbbá a többi földtől elválaszott, vagyis Szigetelt terület. A Szigetel ezért elválasztó. De a Szig, mint Nap, azt is jelenti, hogy az Égi Szigetek szintén napok, vagyis a csillagok a Nap testvérei. Nehéz nem gondolni arra, hogy az Égi Szigetek a magyarok, és az emberiség őshazája is lehet! Továbbá a Sziget lehet ország is, Mezopotámia, Alsó-Egyiptom, Kárpát-medence, és más területek.  
 - De lehet (elsődlegesen) égi terület is, mint a mellékelt, másutt is szereplő képen.  
-![assets/Sziget_image1.png](/img/user/S/assets/Sziget_image1.png)  
+![assets/Sziget_image1.png|invert_dark](/img/user/S/assets/Sziget_image1.png)  
 
 #### Jankovics Marcell is írja:  
 
@@ -43,7 +43,7 @@ Sziget a Nap Tája értelmet adja, de mivel minden Napnévnek van extra hímség
 Magyar Adorján fentebbi sorai arról, hogy eleink a szarvasokat követve hogyan jutottak át a Nász Szigetére úszva vagy tömlők segítségével is[^2], visszaköszön. Aztán másutt írja:  
 > Úgy az ősidőkben lovaglásra használt szarvast mint a később erre szintén használt óriás-kost, illetve az egyszarvút is, nevezhették `jáziri` = járó[^3] néven, amely név azután a latin nyelv kialakulásakor ebbe is átment. Kérdés eszerint csak az marad, hogy a latin `asinus` szó -us végzése csak latin toldás-e, avagy a mi az névelőnk, amely egykor a szó végén ragként állott és amelynek régen uz és ú alakja is volt, ami szerint jázinuz, jázinú annyi volt mint járó, a járó. Igaz ugyan hogy ezek szerint inkább csak a kiherélt óriáskosra és egyszarvúra vagyis egy teljesen megszelídített és lovaglásra használt állatra következtettünk, de lehetséges hogy jázinusz avagy jázinú volt valamikor neve a még szabadon élő óriáskosnak és egyszarvúnak is, illetve hogy a jászok már ezt is igy nevezték.  
 
-![assets/Sziget_image2.png](/img/user/S/assets/Sziget_image2.png)  
+![assets/Sziget_image2.png|invert_dark](/img/user/S/assets/Sziget_image2.png)  
 Csodaszarvasának (a PDF) 291-292. oldalán a nász szigetét is a Vízöntő csillagképhez közelinek tartja (nos, valóban nincs messze Nyilastól):  
 > Őseink két Tündérországról azaz két Paradicsomról regéltek. Egyik volt a Földi Tündérország, amely szerintük a Duna által képezett [[C/Csallóköz\|Csallóköz]] volt (ezt ábrázolja leegyszerűsítve, azaz sematikusan az ide mellékelt rajz, a [[N/Négy\|négy]] Duna ággal és az általuk képezett három szigettel azaz a két külsővel és középen a főszigettel), az Aranyidő (Aranykor) boldog idejében, a másik, vagyis a Mennyország vagy Égi Tündérország pedig az Égben, a Égi Duna azaz a Tejút által képezett sziget volt, a Vízöntő csillagzata közelében.  
 > \[...\]  
@@ -66,7 +66,7 @@ Másutt jelentőségteljesebben:
 
 Ami [[R/Remese\|remese]] címnél is szerepelt (saját kútfőből):  
 A végbéltraktus helyét a Skorpióba teszik a mitográfusok, tehát a kis éves időkörben a születés/feltámadás előtti stációnál járunk. A has/gyomor, végbél és végbélnyílás nyilvánvalóan a méh, szülőcsatorna-hüvely és vulva fogalmakkal egyeztethető és vélhetően azért volt szükség erre az analógiára, mert a Napgyermek apja nem (szabad, hogy) ismert(té váljon), nem fontos vagy mert a [[S/Száj\|száj]] címnél is taglalt primordiális önnemzés fogalmát akarták ide venni[^6].  
-A [[S/Skorpió csillagkép\|Skorpió csillagkép]] címnél is szereplő adatsorban JM érdekes megfeleltésekkel hozakodik elő:  
+A [[S/Skorpió csillagkép\|Skorpió csillagkép]] címnél is szereplő adatsorban Jankovics Marcell érdekes megfeleltésekkel hozakodik elő:  
 > Az asztrológiában a Skorpió a "zodiákus ember" testén az ivarszervek és a végbéltraktus helyére esik, így lett ezek védnöke, a nemi bajokért felelős csillagkép, majd jegy. Ez a képzet is magában hordja az újjászületés[^7] ígéretét. De ez a kép nemcsak a zodiákus emberre vonatkozik; a két isteni kör, Nut (a Tejút) és Géb (az Állatöv) itt nemző aktusban keresztezi egymást, s **a Tejút az égnek ezen a részén két ágra szakad**; **a Skorpió fölött és alatt az ágak két hasadékot, "nyílást" fognak közre eleink fölfogása szerint: a tejútistennő vulváját és végbélnyílását**. Adott összefüggésben az utóbbi a halál színtere (a pokol tornáca), az előbbi az újjászületésé.  
 
 A két hasadékot másutt is említi (talán a Hegy Úrnője címből vagy más, megalapozott adatból kiindulva – [[N/Ninhursag\|Ninhursag]]ot olyan Tejútistennőnek tartja, mint amilyen [[N/Nut\|Nut]] volt Egyiptomban):  
@@ -113,7 +113,7 @@ A képet újabb gondolatokkal [[L/LÁB\|láb]], [[H/Harmony\|harmony]] és [[O/O
 ...című könyvének 240. oldalán írja hídlábakról:  
 > Milyen misztikus és mégis természeti tulajdonságot rejt a "Miből lesz a híd lába?" kérdés? Ma már a néprajzosok közül is csak kevesek előtt ismert a válasz értelme: "Bürökből és bodzából, Cigányaszszony kontyából." A bodzafa ága hártyás belsejéből készítették régen a falusi gyerekek a bodzafapuskát. A bodzafaág belsejének hártyás részét kitolva készült el maga a puskacső. Ebből származik a hídláb "eltörése" (**a test hídtörzse két oszloplábon áll**), és a benne esett hiba rendbe hozásának az ötlete bürökből, bodzából, sóska káposztából (káposzta torzsából). A két láb, a két szimbolikus oszlopköze ismert más kultúrákból is. Az első jeruzsálemi templom bejárata előtt is már vasoszlopokként ott álltak, (semmiféle terhet nem tartottak) de ismertek kőből rakottan a kínai temetők bejárata előtt is. (A közöttük kijövő és bemenő ember képzete azonos az újjászületés és meghalás képzetével.)  
 
-![assets/Sziget_image5.png](/img/user/S/assets/Sziget_image5.png)  
+![assets/Sziget_image5.png|invert_dark](/img/user/S/assets/Sziget_image5.png)  
 
 Még könyvének 47. oldalán is szó esik a [[L/LÁB\|láb]] = oszlopokról. A két oszlop mint a nagy anyaistennő tér-idő szimbóluma számos más helyen is megfigyelhető. Többek között az első jeruzsálemi templom, amelyet Salamon építtetett (Kr. e. 950 körül). A jobb oldali oszlopot Jachinnak, a bal oldalit Bo'as-nak nevezték, de már senki sem tudja miért.  
 Bizonyos Ehrlich is jól gondolja:  
@@ -122,7 +122,7 @@ Bizonyos Ehrlich is jól gondolja:
 A két oszlop mint mérőrúd megjelenik az [[I/Idő\|idő]] címnél szereplő Heh ábrázoláson is.  
 Szólni kell még itt a [[K/Kapu\|kapu]] fogalmáról és a [[G/Gate\|gate]] szóról is, mely igen fontos, hogy [[G/Göd\|Göd]]-vázú. Kapuról szó esett [[S/Szexualitás jelképekben, használati tárgyakban, gyermekjátékokban, stb\|szexualitás jelképekben, használati tárgyakban, gyermekjátékokban]] címnél is.  
 
-![assets/Sziget_image6.png](/img/user/S/assets/Sziget_image6.png)  
+![assets/Sziget_image6.png|invert_dark](/img/user/S/assets/Sziget_image6.png)  
 
 A nőiségi-princípium [[K/Kehely\|kehely]] (= [[H/Hüvely\|hüvely]]) alakot formázó U és V betűk mellett az Y is ilyen. Az Y elágazásról [[T/Trivial\|trivial]] és [[H/Hekate\|Hekate]] címnél is volt szó. A mellékelt kis kép [[Y/Yoni\|yoni]]-val emlékeztetett erre az összefüggésre.  
 
@@ -130,7 +130,7 @@ A nőiségi-princípium [[K/Kehely\|kehely]] (= [[H/Hüvely\|hüvely]]) alakot f
 
 ...ismét szeméremrészek kapcsán igen érdekeset ír ([[F/Fa#Három ágú fa\|fa]] címnél is szerepelt):  
 > A hármas elágazású fáknál a középső ág, mivel az ott kevesebb napfényt kapott, többnyire elcsenevészedett, majd el is száradott, úgy hogy idővel csak kis csonkja maradott meg. Az ilyen fák törzséből azt megfordítva, készítették az ősök hímistenségeik bálványait, az ágcsonkot penisként fogva föl, míg a kétágú villás elágazásúakból nőistenségeik bálványai készültek. Az ilyen fák elágazásában pedig a női szeméremrészhez valóban meglepően hasonlító képződményt látunk.  
-![assets/Sziget_image7.jpeg](/img/user/S/assets/Sziget_image7.jpeg)  
+![assets/Sziget_image7.jpeg|invert_dark](/img/user/S/assets/Sziget_image7.jpeg)  
 
 Ősműveltségében bővebben ír erről:  
 > Magát az egész hársfát ősvallási fölfogásunk szerint nőnemű fának tekinthetjük, azért mert fája lágy és mert sohasem ilyen háromágú elágazású mint például az igen kemény fájú kőris, hanem mindig kettős, azaz egyszerű villás elágazású; azt pedig már láttuk hogy a páratlan számok hímneműekként voltak fölfoghatók, a párosak pedig nőneműekként. Ezenkívül a hársfa minden villája elágazásában, a fa növekedése által a kéreg egy a nő ágyékrészéhez csodálatosan hasonlító ránc képződik. Képződik ugyan ehhez némileg hasonló ránc más kettős ágazású fáknál is, például a jegenyénél, de a nő említett részéhez sohasem annyira hasonlóan mint a hársfánál. Az egyetlen dolog ami a hársfánál nem egyező, az hogy virágai ötszirmúak. A hársfáról azonban bővebben palóc őstörzsünk fakultuszával kapcsolatban kellend írnom. (Lássad 11. számú rajzon a c-t.)
@@ -146,7 +146,7 @@ Komoróczy Géza Gilgames – Agyagtáblák üzenete című könyvében [[T/Tilm
 [[O/Ogygia\|Ogygia]] is úgy tűnik, ha nem általán a Tejútra, akkor annak eme sziget részére utal.  
 [[A/Akhilleusz\|Akhilleusz]] címnél volt szó azon RG által említett szigetekről ('Silver Island' or 'White Island', or 'Revolving Island'), melyek erre a szigetre utalnak.  
 
-Ha már görög, a [[S/Szümplegádok\|szümplegádok]] (asszociációs jelentése) hegyek, mégpedig olyanok, melyekről [[V/Világhegy\|Világhegy]] és [[M/Meru\|Meru]] címnél is volt szó. És hol található az égen? Ahogy Bakos Attila A Duna Evangéliuma című könyvének 105. oldalán is írja, Skorpió-emberek vigyázzák a bejáratát (a szümplegádok kapuk, ahogy JMJ is írja). Azaz itt a Tejútközpontról van szó, mely lehet lyuk is, barlang is, de hegy (valójában kapu) is. Ezen témáról volt már szó [[M/Meru\|Meru]]-nál négy folyó kapcsán is. (John Major Jenkins Galactic Alignment c. könyvének 169. oldalán a [[M/Meru\|Meru]] csúcsát a Nyilas-béli Tejútközpontba teszi.)  
+Ha már görög, a [[S/Szümplegádok\|szümplegádok]] (asszociációs jelentése) hegyek, mégpedig olyanok, melyekről [[V/Világhegy\|Világhegy]] és [[M/Meru\|Meru]] címnél is volt szó. És hol található az égen? Ahogy Bakos Attila A Duna Evangéliuma című könyvének 105. oldalán is írja, Skorpió-emberek vigyázzák a bejáratát (a szümplegádok kapuk, ahogy John M. Jenkins is írja). Azaz itt a Tejútközpontról van szó, mely lehet lyuk is, barlang is, de hegy (valójában kapu) is. Ezen témáról volt már szó [[M/Meru\|Meru]]-nál négy folyó kapcsán is. (John Major Jenkins Galactic Alignment c. könyvének 169. oldalán a [[M/Meru\|Meru]] csúcsát a Nyilas-béli Tejútközpontba teszi.)  
 Pedig én bugyi emlékeztem, hogy itt sziget címnél is tárgyaltuk korábban ezt a témát (lehet, hogy [[S/Szikla\|sziklá]]val kevertem).  
 
 #### Antal István Tündéres, derengő...
@@ -195,7 +195,7 @@ A jász szócsoportnak is kellett legyen valamilyen a járást, vándorlást, bo
 Magyar Adorján szerint a két külső karajalakú sziget a régiek és a kereszténység Limbus- és Purgatórium-mondái és hitregéi alapját is képezte volt.  
 
 [^5]: Lábjegyzet:  
-Nysa valóban szintén paradicsom-kori szigetként volt számon tartva, de ugyanúgy az északi [[V/Világhegy\|Világhegy]]en, mint ahogy MA Csallóközről és a szigetről (és a négy bibliai folyóról) szóló (ide be nem tett) írása is inkább az [[A/Ardvisura Anahita\|Ardvisura Anahita]] címnél említett négy égtáj-jelző folyóra és a Világhegyre asszociál, holott a sziget valójában nem úgy keresendő a nem-Földön, ahogy gondolják. Itt két különböző hagyomány keveredéséről lehet szó leginkább, bár lehet, hogy a kettő egynek is fogatott fel.  
+Nysa valóban szintén paradicsom-kori szigetként volt számon tartva, de ugyanúgy az északi [[V/Világhegy\|Világhegy]]en, mint ahogy Magyar Adorján Csallóközről és a szigetről (és a négy bibliai folyóról) szóló (ide be nem tett) írása is inkább az [[A/Ardvisura Anahita\|Ardvisura Anahita]] címnél említett négy égtáj-jelző folyóra és a Világhegyre asszociál, holott a sziget valójában nem úgy keresendő a nem-Földön, ahogy gondolják. Itt két különböző hagyomány keveredéséről lehet szó leginkább, bár lehet, hogy a kettő egynek is fogatott fel.  
 [[C/Centre\|Centre]] címnél is szerepelt egy saját passzus, mely rámutat:  
 Ha a csillagászati-mitológiai lehetőségeinket figyelembe vesszük, központként tehát szóba jöhet a [[S/Sarkcsillag\|Sarkcsillag]] (mely [[S/Sark\|sark]] tagja akár a sárkányból is képződhetne, hisz a [[S/Sárkány csillagkép\|Sárkány csillagkép]] egyes csillagai voltak már sarkcsillagok) illetve a maga a tejútközpont (lásd [[G/Galactic centre\|Galactic centre]]) is, a maga hasadékával, mely összefüggő Tejút-fényhegyként, (elforgatva) úgy tűnik, a Sarkcsillagig ér: a föld északi pólusára képzelt [[V/Világhegy\|Világhegy]] pedig ezzel azonos lehet. Ezen utóbbi címhez is betéve.  
 
