@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2024-02-12T18:34"}
+{"dg-publish":true,"permalink":"/S/Szarv/","title":"Szarv","tags":["Englishtexttranslated"],"created":"2023-10-13T02:49","updated":"2024-02-28T21:44"}
 ---
 
 
@@ -29,8 +29,8 @@ Ha elfogadjuk Pap Gábor szarvas agancs és a Tejútrendszer közti megfeleltet�
 #### Molnár V. József...
 
 ...(azóta más adatokkal is kiegészített) témáját arról, hogy a Holdnak szarvai vannak, lásd [[H/Hold\|Hold]].  
-![assets/Szarv_image2.png](/img/user/S/assets/Szarv_image2.png)  
-![assets/Szarv_image3.png](/img/user/S/assets/Szarv_image3.png)  
+![assets/Szarv_image2.png|invert_dark](/img/user/S/assets/Szarv_image2.png)  
+![assets/Szarv_image3.png|invert_dark](/img/user/S/assets/Szarv_image3.png)  
 Az ott szereplő sámándobról készült ábrának mégis csak a bal oldali, (más címeknél is bemutatott) Nap-ábráját mutatnám itt be kicsiben. Azért is, mert a [[C/Csudaszarvas\|Csudaszarvas]] címnél is taglalt Szarvasfiúnak is lehet szarva, de nemcsak szarvasnak, hanem az alant még taglalt Kosnak. És ha már kos, Wiki oldalról és egy japán filmből bemutatom az egyetemes OK-jelet, és a sátánisták szarv-jelét is sorban, csakhogy lássuk, a szimbolika hogyan íveli át az évezredeket (a japán filmben még a lemenő (felkelő is lehetne) Nap is szépen mutatkozik).  
 
 #### Péterfai János írja:  
@@ -89,13 +89,13 @@ Lásd még [[K/KAR\|KAR]] (és [[S/SZAR\|SZAR]]), [[S/Szarvas\|szarvas]], [[C/Cs
 
 A szarvas, kos, bak agancsa, szarva egyértelműen Tejút jelkép, írja Péterfai János. Ez így is van, de miképpen? Vagy hogyan másképpen? Azt tudjuk, hogy a régi képi-költői felfogásban a hasonló dolgok között analógiát fedeztek fel. Ugyan az alábbi témának nem igen van irodalma (vagy csak nem találom), az alábbi képi analógiákról beszélni kell.  
 Kezdjük azzal, hogy a [[T/Tejútanya állatalakjai\|Tejútanya állatalakjai]] közül (a lovat leszámítva) leginkább a szarvas, agancsos állatok (rén/iramszarvas és szarvasmarha, valamint kecske) figuráltak, annak is a tejet adni képes tehenei. Tejet adni képes állat az, amely szülni képes (Napgyermeket szülni). Ezeknek az állatoknak [[M/Méh\|méh]]e van, illetve nemi részei és szaporító szervrendszerük. [[M/Méh\|Méh]], [[H/Ház\|ház]] és [[P/Pina\|pina]] (valamint [[L/Labyrinth\|labyrinth]]) címnél volt már szó a témáról. (A [[N/Nap háza\|Nap háza]] a Tejútanya, annak is leginkább a méhe.)  
-![assets/Szarv_image4.png](/img/user/S/assets/Szarv_image4.png)  
+![assets/Szarv_image4.png|invert_dark](/img/user/S/assets/Szarv_image4.png)  
 Amiről nem volt szó, az konkrétan a szaporító szervrendszer. Figyeljük meg az alábbi képen a tehén szaporító szervrendszerét, melynek szintén van felül két szarva. Az embereknél (alsó kép) hasonló a helyzet. (A lovaknál[^2] szintén.)  
 [[K/Kürt\|Kürt]] címnél volt szó a szarvval azonos jelentésről.  
 > Méhkürt: A méhből kétoldalt kiinduló, 12 cm hosszú, hullámos lefutású, üreges nyúlványok, más néven petevezetékek, melyek a szabad hasüregbe nyílnak a petefészkek közelében. Amikor egy érett petesejt kiszabadul valamelyik petefészekből, e két vezeték valamelyikébe kerül, hogy eljusson a méhüregbe.  
 
 Ha ezen képeken látott formát összehasonlítjuk a [[L/Lily\|liliom]] (lásd a heraldikában a [[F/Fleur de lis\|fleur de lis]] címert) és (a kiindulónak tekintendő) [[T/Tulipán\|tulipán]] formákkal, kirajzolódik előttünk egy tágabb kép (melyet kibontva Gyárfás Ágnes adataival lásd még lentebb).  
-![assets/Szarv_image5.jpeg](/img/user/S/assets/Szarv_image5.jpeg)  
+![assets/Szarv_image5.jpeg|invert_dark](/img/user/S/assets/Szarv_image5.jpeg)  
 Ami pedig fantasztikus (és ezt hónapokkal később ismerem fel), hogy a latinban is éppen **cervix** névvel rögzítették (csak ott nyakat jelent és a szarvak alatt helyezkedik el).  
 Az ötletet egyébként a torontói egyetem hallgatójának...  
 
@@ -155,10 +155,10 @@ A Napot agancsai között hordozó Csudaszarvas jelképe így tulajdonképpen az
 >
 > Even if we consider that the meaning of a symbol such as bucrania could change over the millennia, the question remains whether a 16th century artist like Michelangelo would have made a parallel between that form and female reproductive organs. And here's where medical history comes in, because what we today think of as the common representation of the uterus and fallopian tubes – a sort of coronal section or anterior view of them – is really quite recent.  
 > The first mass-produced and well-diagrammed modern anatomy was that of Andreas Vesalias, whose De humani corporis fabrica became the gold-standard textbook for centuries. Vesalius published this work in 1543 – a decade after De Campos and colleagues list Michelangelo as finishing the Medici Chapel. More to the point, though, Vesalius did not depict the uterus the way we do today.  
-![assets/Szarv_image10.png](/img/user/S/assets/Szarv_image10.png)  
+![assets/Szarv_image10.png|invert_dark](/img/user/S/assets/Szarv_image10.png)  
 > I asked noted professor of classical studies and expert in ancient medical history, Helen King, to clarify the timeline of female anatomical knowledge. King says that Vesalius "shows the womb very differently from our textbook image, focusing on the womb and vagina as one organ with the vagina as the 'neck of the womb.'" Notably, Vesalius never shows the ovaries or the fallopian tubes because, King notes, "Falloppio doesn't name the tubes until 1561." Vesalius's drawing of the vaginal canal is specifically rendered to evoke the image of a penis.  
 > *In this illustration from De fabrica humani corporis by Andreas Vesalius, the vaginal canal resembles an inverted penis*. (Taken from the following site: https://sites.fas.harvard.edu/~chsi/bok/02.html)  
-> ![assets/Szarv_image11.jpeg](/img/user/S/assets/Szarv_image11.jpeg)  
+> ![assets/Szarv_image11.jpeg|invert_dark](/img/user/S/assets/Szarv_image11.jpeg)  
 > Could Michelangelo have used an older anatomy text to inform his knowledge of the female anatomy? This is also unlikely. King mentions a 1522 text called Isagogae breves by Jacopo Berengario da Carpi, who depicts **the female anatomy as, essentially, a reverse version of the male anatomy**[^3] – 'female testicles' and 'spermatic vessels' are sort of like ovaries and fallopian tubes, but King concludes that "the overall effect is very different from the modern textbooks and doesn't look like the bucranium image at all!"  
 > *Berengario's depiction of a uterus in his Isagogae breues, perlucidae ac uberrimae, in anatomiam humani corporis a communi medicorum academia usitatam.*
 >
@@ -172,7 +172,7 @@ Ami érdekes lehet tőle:
 > —  
 > A pogány szimbolikában Pán a vadon, a pásztorok és a nyájak, a természet, a hegyi vadon, a vadászat, a zene, a libidó és a termékenység istene. Évszaka a tavasz, és az anyaistennővel hozzák kapcsolatba.  
 
-![assets/Szarv_image13.png](/img/user/S/assets/Szarv_image13.png)  
+![assets/Szarv_image13.png|invert_dark](/img/user/S/assets/Szarv_image13.png)  
 
 Viszont azt tudni kell, hogy [[P/Pán\|Pán]] nem a Kossal, hanem a Bakkal hozatott kapcsolatba. Az tény, hogy szarvak itt és ott is vannak.  
 Aztán a cikkíró megkér minket, nézzük meg a Kos jelét, hogy mire emlékeztet minket. Valóban az általa is említett Istennőre, annak méhére (és még ahogy írja, a menstruális ciklusra) utal.  
@@ -219,7 +219,7 @@ Kos-Úr így a Napra utalna. Ezen utóbbiból kiindulva gondolnám azt, hogy a k
 #### Berényi László Géza Holisztikus világszemlélet 7000 éve a Kárpát-medencében...
 
 ...(a KöR-iS-TeN fraktál) c. Ősi Gyökér 2007/1. sz. megjelent cikkében, [[K/Kalács\|kalács]] címnél is szereplő képen is a [[M/Mézeskalács\|mézeskalács]] petefészek-[[A/Anyaméh\|anyaméh]] jelképiséget látjuk.  
-![assets/Szarv_image20.jpeg](/img/user/S/assets/Szarv_image20.jpeg)  
+![assets/Szarv_image20.jpeg|invert_dark](/img/user/S/assets/Szarv_image20.jpeg)  
 
 [[S/Szív\|Szív]] címnél szintén volt szó a témáról.  
 [[B/Béka\|Béka]] és [[H/Hysteria\|hysteria]] címnél a méh békához való hasonlításáról volt még szó. Sőt, legutóbb egy teoretikus [[B/Béka csillagkép\|Béka csillagkép]] is született a Bak alteregójaként: tehát nemcsak a Kos, hanem a Bak csillagkép is anyaistennő-anyaméh vonatkozású lehet. Ezen témához kapcsolható lenne az alábbi korábban itt álló adat:  
