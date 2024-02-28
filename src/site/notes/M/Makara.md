@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2024-02-08T07:10"}
+{"dg-publish":true,"permalink":"/M/Makara/","title":"Makara","tags":["Englishtexttranslated"],"created":"2023-10-29T08:34","updated":"2024-02-28T21:19"}
 ---
 
 
@@ -77,7 +77,7 @@ De CzK más adata kapcsán...
 ...gondolható, hogy valójában a Szarvas a Magyar istenanya/[[T/Tejútanya állatalakjai\|Tejútanya állatalakja]] egyszer, másodsorban – lásd erről [[T/Turul#Tur/Turul mint szarvasfiú\|Tur/Turul mint szarvasfiú]] cím/alcímnél – [[M/Magor\|Magor]] fiát a [[S/Szarvas csillagkép\|Szarvas csillagkép]]ben/[[B/Bak csillagkép\|Bak csillagkép]]ben szüli.  
 
 Anatolij Szemenov When in Russia, Speak Like a Russian című könyvében is megtaláljuk a szólás-mondást, és Makár tulajdonképpen a [[S/Szegény\|szegény]] kutya(sorsú emberen keresztül) ([[M/Mazúr\|mazúr]] is ilyen szó; ott egyiptomi magyarként azonosítottunk) megfelelője is lehet, márpedig [[M/Magyar mint Szíriusz\|Magyar mint Szíriusz]] címnél volt szó arról, hogy annak is lehet olyan neve. [[M/Magar\|Magar]] címnél szamár kapcsán is elhangzott, hogy a szamárnak K-M-R/SZ-M-R alakú neve kellene legyen.  
-![assets/Makara_image2.png](/img/user/M/assets/Makara_image2.png)  
+![assets/Makara_image2.png|invert_dark](/img/user/M/assets/Makara_image2.png)  
 Az orosz szó viszont hasonlítható a komi `megyr` 'ív, hajlított forma', `mygör` 'figura, alak, forma ....' és mari `mykyr` 'görbeség' szavakhoz. Ami tehát megvan egyszer [[H/Hungár\|hungár]]-[[H/Hunger\|hunger]]-ként görbeség ideáival, megvan magar-os alakú nevekben is, hiszen [[H/Hunor és Magor\|Hunor és Magor]] az [[A/Arkadash\|arkadash]] címnél is taglalt [[L/Lemniszkáta\|lemniszkáta]] két hátastársa/görbehátú/íjazó alakja.  
 [Ezen](https://www.slovorod.ru/dic-dal/dal-m.htm) oldalon Dal orosz értelmező szótárában is megtaláljuk (a fenti mondást nála az utolsó sorában):  
 > МАКАР, прозвище рязанцев, особ. кадомцев, будто по словам Петра I, встретившего там трех Макаров сряду, и сказавшего шутя: будте ж вы все Макары! Это лучшие рыболовы и целовальники, почему откупщиков, и вообще плутов, зовут Макарами. | Сиб. простак. | Шуточн. комар. Подпустить макарку, сплутовать. Макарыга, макарьевский нищий, пск. твер. наглый, безотвязный попрошайка. Вчера Макар гряды копал, ныне Макар в воеводы попал, намек на откупщиков винных. Я тебя туда спроважу, куда Макар телят не гонял! Комар да мошка, Макар да кошка. Макара двураз не женят. На бедного Макара шишки валятся.  
