@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/B/Bárka/","title":"Bárka","created":"2023-11-09T07:32","updated":"2024-02-08T07:09"}
+{"dg-publish":true,"permalink":"/B/Bárka/","title":"Bárka","created":"2023-11-09T07:32","updated":"2024-02-28T17:32"}
 ---
 
 
 # Bárka
 
 A [[B/Bark\|bark]], [[B/Barge\|barge]] és [[B/Barque\|barque]], valamint az előhang nélküli [[A/Ark\|ark]] (és [[A/Argo\|Argo]]) neveket is kiadni látszó szavunk egészen nyilvánvalóan az mellékelt képen látható egyiptomi Napisten Napbárkájára utal, hiszen Bár-Ka felbontásban Nap Háza értelmű (a latin `navis` = hajó szóban is [[N/Nap\|Nap]] szavunkat látjuk).  
-![assets/Bárka_image1.png](/img/user/B/assets/B%C3%A1rka_image1.png)  
+![assets/Bárka_image1.png|invert_dark](/img/user/B/assets/B%C3%A1rka_image1.png)  
 A delelő Nap keselyűszárnyakon lebeg a zeniten (így ábrázolták a babiloni, asszír és perzsa napisteneket is; szárnyas napkorongból kiemelkedő férfialakkal). A lenyugvót a kosisten vitte szarvain, a távollévő pedig bárkáján hajózott az alvilágban.  
-Szintén JM szól arról, hogy archaikus képzetekben, mítoszokban és mesékben a Nap hordozója a Hold, bárka, hátasló kepében. (Lásd úrmutatóról szóló írását erre vonatkozólag [[M/Monster\|monster]].)
+Szintén Jankovics Marcell szól arról, hogy archaikus képzetekben, mítoszokban és mesékben a Nap hordozója a Hold, bárka, hátasló kepében. (Lásd úrmutatóról szóló írását erre vonatkozólag [[M/Monster\|monster]].)
 
 ![assets/Bárka_image2.png](/img/user/B/assets/B%C3%A1rka_image2.png)  
 A Holdat több minden összeköti a Göncölszekérrel. A leglényegesebb: a Holdat az élő Nap, a Göncölszekeret a halott napisten járművének tekintették.  
@@ -17,7 +17,7 @@ A Holdat több minden összeköti a Göncölszekérrel. A leglényegesebb: a Hol
 > Egyiptomtól Észak-Európáig ismert ősi elképzelés szerint a holtak lelkei a Göncölszekérben várják visszatérésük idejét. A [[U/Ursa Maior\|Nagy Medve csillagkép]] "gyomra és hátsó fertálya" ez! A szekércsillagzat neve számos népnél **halottaskocsi** értelmű, és erről a magyar néphagyomány is tud.  
 > A medveistenséget nemcsak a görög-római műveltség azonosította a Nagy Medve csillagképpel. Finnugor rokonaink hitvilágában több jelkép szál fut össze: a hantik a csillagzatot – többek között – a halott **medveistent hordozó halottas szán**nak képzelték. Artemisz medveistennő csillagképpé válásának regéjére gondolva pedig érdemes eszünkbe idézni, hogy a szomszédos Kis Medvét eleink Nagyasszony társzekerének, Nagyboldogasszony csillagának is nevezték.  
 
-Tehát az elterjedt hiedelem szerint a **Göncölszekér szállítja a túlvilágra a halott napisten tetemét**, ahogy JM másutt érthetőbben írja. Márpedig a bárka szó b-előhang nélkül kiadja azon [[A/Arc#Arc 2)\|arc]], [[A/Ark\|ark]] alakú szavakat, melyek a görög eredetű medve és északi sark jelentésű szavakat (lásd például [[A/Arctic\|arctic]]) kiadják.  
+Tehát az elterjedt hiedelem szerint a **Göncölszekér szállítja a túlvilágra a halott napisten tetemét**, ahogy Jankovics Marcell másutt érthetőbben írja. Márpedig a bárka szó b-előhang nélkül kiadja azon [[A/Arc#Arc 2)\|arc]], [[A/Ark\|ark]] alakú szavakat, melyek a görög eredetű medve és északi sark jelentésű szavakat (lásd például [[A/Arctic\|arctic]]) kiadják.  
 
 [[A/Apep\|Apep]] címnél volt még szó Rá/Ré bárkájáról.  
 
