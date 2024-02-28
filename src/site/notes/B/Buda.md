@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Buda/","title":"Buda","tags":["Englishtexttranslated"],"created":"2023-12-03T10:25","updated":"2024-02-10T03:41"}
+{"dg-publish":true,"permalink":"/B/Buda/","title":"Buda","tags":["Englishtexttranslated"],"created":"2023-12-03T10:25","updated":"2024-02-28T17:31"}
 ---
 
 
@@ -9,7 +9,7 @@ Ha valaki azt gondolná vagy hirdetné, hogy [[A/Atilla hun király\|Atilla]] te
 
 
 Már [[L/Light\|light]] címnél is erre hívtuk fel a figyelmet. Egy valamire való filológus észre kell vegye, hogy ha egyezik is két szó, mélyebb kapcsolat fedezhető fel.  
-[[S/Sakaea\|Sakaea]] címnél is arról volt szó, hogy nem feltétlenül a szakák/szkíták ünnepe volt, ahogy GA véleményezte, hanem arról lehet szó, hogy a szaka és a Szakaea nevek azonos értelmi kiindulásúak. Ha a [[K/Karácsony\|Karácsony]] és [[K/Kerecsen\|kerecsen]] szavakat magyarnak érezzük és a magyarból akarjuk értelmezni de csak úgy, hogy egyik a másikból ered, ez így szintén nem elégséges.  
+[[S/Sakaea\|Sakaea]] címnél is arról volt szó, hogy nem feltétlenül a szakák/szkíták ünnepe volt, ahogy Grandpierre Atilla véleményezte, hanem arról lehet szó, hogy a szaka és a Szakaea nevek azonos értelmi kiindulásúak. Ha a [[K/Karácsony\|Karácsony]] és [[K/Kerecsen\|kerecsen]] szavakat magyarnak érezzük és a magyarból akarjuk értelmezni de csak úgy, hogy egyik a másikból ered, ez így szintén nem elégséges.  
 Azon elképzelések, hogy a népek királyukról kapják a nevüket, a mi esetünkben a magyar egy [[M/Muager\|Maugerisz]] nevű királyról, megint nem helyes. A király a Napról ([[M/Magor\|Magor]], Magur ebben az esetben) és a nép is a Naptól (vagy anyjától, esetünkben [[M/Magyar\|Magyar]] ([[M/Magyar Ilona\|Ilona]]) istennőtől) kapja a nevét. Nem mindegy mit mivel kötünk össze. A közös eredet kell és a csillagmítoszi háttér feltárása szükséges.  
 - Erről sok példával szóltunk [[L/Light\|light]] címnél.  
 

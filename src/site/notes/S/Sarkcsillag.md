@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sarkcsillag/","title":"Sarkcsillag","created":"2023-10-13T12:33","updated":"2024-02-10T04:20"}
+{"dg-publish":true,"permalink":"/S/Sarkcsillag/","title":"Sarkcsillag","created":"2023-10-13T12:33","updated":"2024-02-28T17:47"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Azon csillag, mely az égkör sarkához legközelebb áll. A mi éjszaki égkörünkön azon csillag a [[U/Ursa Minor\|Kis Medve csillagkép]]ben, mely az éjszaki sarknak legközelében van. Másképp: gönczcsillag. (Stella polaris). A Föld tengelye megközelítőleg 4320 évenként mindig egy másik csillagképre, jelenleg az Ursa Minor (Kisgöncöl) csillagképben lévő [[P/Polaris\|Polaris]] nevű csillag irányába mutat.  
 A mellékelt képen a Sarkcsillag [[P/Precesszió\|precesszió]] következtébeni vándorlását láthatjuk.  
-![assets/Sarkcsillag_image1.jpeg](/img/user/S/assets/Sarkcsillag_image1.jpeg)  
+![assets/Sarkcsillag_image1.jpeg|invert_dark](/img/user/S/assets/Sarkcsillag_image1.jpeg)  
 
 #### Gesztesi Albert csillagász A világ négy sarka...
 
@@ -16,7 +16,7 @@ A mellékelt képen a Sarkcsillag [[P/Precesszió\|precesszió]] következtében
 > A legstabilabb, legállandóbb égi pont az ekliptika pólusa. Gyakori neve volt a Lyuk az Égen, mert azon a tájékon nincsen csillag, ami jelölhetné. Az északi égi pólus e körül 25 920 év alatt egy 23,5 fok sugarú kört ír le.  
 - Lásd még más adatokat [[F/FU\|FU]] és [[F/Fúrócsillag\|Fúrócsillag]].  
 
-William F. Warren könyvében számtalanszor említi a sarkcsillagot, mint a hyperboreai emberiség istenének lakóhelyét. JM anyagában mint a [[N/Nap – halott Nap\|Nap – halott Nap]] lakhelye szerepel; [[S/Széth\|Széth]] is északra űzött (szaturnikus \[egykori\] (Nap)isten.  
+William F. Warren könyvében számtalanszor említi a sarkcsillagot, mint a hyperboreai emberiség istenének lakóhelyét. Jankovics Marcell anyagában mint a [[N/Nap – halott Nap\|Nap – halott Nap]] lakhelye szerepel; [[S/Széth\|Széth]] is északra űzött (szaturnikus \[egykori\] (Nap)isten.  
 A látszólagos ellentétet feloldani látszik, hogy a Napistenként kezdő szaturnikus istenek a Sarkcsillaggal is kapcsolatba hozattak. Lásd erről alant.  
 
 Az alábbi, általam [[A/Apam Napat\|Apam Napat]] és [[K/Korona\|korona]] címnél vizsgálat alá vett és kifogásolt, legutóbb [[N/Négy#Négy és az ötödik irány\|négy és az ötödik irány]] cím/alcímnél is szereplő Molnár V. József adathalmaznak itt most csak azon részére hívnám fel a figyelmet, mely arra utal, mi lehet a világfa tetején:
@@ -39,7 +39,7 @@ Az alábbiak Hamlet Malmából származnak és szintén az előbb említett [[A/
 
 Azt pedig William F. Warren könyvéből is tudjuk, hogy az istenek hyperboreai északi sarki trónja a – későbbi mindenkori – Sarkcsillag, mely ma is Polaris, az Kis Medve alfája.  
 
-![assets/Sarkcsillag_image2.png](/img/user/S/assets/Sarkcsillag_image2.png)  
+![assets/Sarkcsillag_image2.png|invert_dark](/img/user/S/assets/Sarkcsillag_image2.png)  
 A régi korok népei szerint, ha – mi már tudjuk hogy a [[P/Precesszió\|precesszió]] eredményeként (illetve a magyarok is ismerték, de a szájhagyomány nem őrzi meg a tudományos okfejtést, ez a terület a táltosok privilégiuma) – a sarkcsillagot hordozó csillagkép leeseik az égről, akkor eljön a világvége.  
 Néhány példa a Hamlet Malma című könyvből:  
 > A szibériai kirgizek a Kis Göncölnek a Sarkcsillaghoz legközelebb eső, és ívet formázó három csillagát "kötélnek" nevezik, melyhez a csillagkép két nagyobb csillaga, a két ló hozzá van kötve. Az egyik ló fehér, a másik kékesszürke. A Nagy Göncöl hét csillagát a hét őrnek nevezik, akiknek feladata megvédeni a lovakat az ólálkodó farkastól. Ha egyszer a farkasnak sikerül megölnie a lovakat, eljön a világvége.  
@@ -47,13 +47,13 @@ Néhány példa a Hamlet Malma című könyvből:
 > A délorosz folklór szerint a Kis Göncölhöz egy kutya van kikötve, aki folyton át akarja harapni a béklyót; amikor ez sikerül neki, eljön a világ vége.  
 > Mások szerint a Nagy Göncöl egy fölszerszámozott lófogatból áll; minden éjjel egy fekete kutya rágja a lószerszámot azért, hogy elpusztítsa a világot, de nem érheti el célját; hajnalban, amikor egy forráshoz fut inni, a lószerszám magától megújul.  
 
-[[T/Thuban\|Thuban]] szócikknél is írtuk, hogy Richard H. Allen írja róla könyvében, hogy a mai kettes magnitúdónál fényesebb volt régen és Sir John Herschel adatára támaszkodva azt is írja, hogy a [[K/Kufu\|Kufu]] piramisból ez a csillag megfigyelhető volt nappal és éjszaka is. Azt le kell szögezni, hogy a régi (és mai!) hivatalos egyiptológia tudomány is Kheopsz fáraónak tulajdonítja a nagy piramis építését, így a központi kamrából figyelve gyakorlatilag minden mindenkori Sarkcsillag ugyanúgy látható. Azaz a Thuban szerepe nem bizonyíték a piramis épitésének idejére. Ergo a piramis geo-koordinátáihoz van mérve az akna, nem egy bizonyos (időben uralkodó) (sark)csillaghoz. Herschel téved. A nagy piramissal kapcsolatban lásd még [[K/Kufu\|Kufu]], [[G/Gnomon\|gnomon]], [[O/Orion övcsillagai\|Orion övcsillagai]], [[S/Sphinx\|Sphinx]] és [[Z/Zep Tepi\|Zep Tepi]].  
+[[T/Thuban\|Thuban]] szócikknél is írtuk, hogy Richard H. Allen írja róla könyvében, hogy a mai kettes magnitúdónál fényesebb volt régen és Sir John Herschel adatára támaszkodva azt is írja, hogy a [[K/Kufu\|Kufu]] piramisból ez a csillag megfigyelhető volt nappal és éjszaka is. Azt le kell szögezni, hogy a régi (és mai!) hivatalos egyiptológia tudomány is Kheopsz fáraónak tulajdonítja a nagy piramis építését, így a központi kamrából figyelve gyakorlatilag minden mindenkori Sarkcsillag ugyanúgy látható. Azaz a Thuban szerepe nem bizonyíték a piramis építésének idejére. Ergo a piramis geo-koordinátáihoz van mérve az akna, nem egy bizonyos (időben uralkodó) (sark)csillaghoz. Herschel téved. A nagy piramissal kapcsolatban lásd még [[K/Kufu\|Kufu]], [[G/Gnomon\|gnomon]], [[O/Orion övcsillagai\|Orion övcsillagai]], [[S/Sphinx\|Sphinx]] és [[Z/Zep Tepi\|Zep Tepi]].  
 A Sarkcsillag nevei egyes nyelveken [[T/TÁT\|TÁT]], és, ahogy [[P/Pole\|pole]] szónál szerepelt, eufráteszi nyelven Pūl, Bīl volt.  
 
 #### Varga Zsigmond Az ősmagyar mitológia...
 
 ...című könyvének 294-295. oldalán lévő adata szerint a világköldökből/világhegyből kinőtt világoszlopról kapja egyes nyelveken a Sarkcsillag is a nevét (szép egyezés ez azzal, hogy ami Egyiptomban TAT illetve [[D/Dzsed\|dzsed]] oszlop, az másutt a Sarkcsillag neve; lásd [[T/TÁT\|TÁT]]):  
-> A [[V/Világoszlop\|világoszlop]] mesterségesen előállított világfa. A szent liget nyír-, esetleg nyárfájából készítették. A török-tatár törzseken kívül feltalálható Északszibéria népeinél, az obi-ugoroknál, roncsaiban magyar népünknél is, a szamojédoknál, s végül a lappoknál. Az volt a rendeltetése, hogy a föld köldökén emelkedve, az eget alulról támassza alá, nehogy összedüljön. Különböző nevekkel illetik, de a szumirban és az ugor népeknél [[T/TIR\|tir]] nevet visel.  
+> A [[V/Világoszlop\|világoszlop]] mesterségesen előállított világfa. A szent liget nyír-, esetleg nyárfájából készítették. A török-tatár törzseken kívül feltalálható Észak-Szibéria népeinél, az obi-ugoroknál, roncsaiban magyar népünknél is, a szamojédoknál, s végül a lappoknál. Az volt a rendeltetése, hogy a föld köldökén emelkedve, az eget alulról támassza alá, nehogy összedüljön. Különböző nevekkel illetik, de a szumirban és az ugor népeknél [[T/TIR\|tir]] nevet visel.  
 - Tir össze lett kapcsolva [[T/Tree\|tree]]-vel.  
 
 >  Egy jakut kozmogonikus mesében így dicsekszik a világoszlop: "mikor ég és föld együtt nőttek, velük együtt nőttem én is." A világoszlop a föld köldökén, tehát az északi sarkcsillag alatt áll és úgy támasztja alá az égboltozatot. Mert az ég legmagasabb pontja, az északi sarkcsillag körüli égrész. Tehát maga az északi sarkcsillag is égösszetartó faktornak, mintegy a földi világoszlop folytatásának bizonyul.  

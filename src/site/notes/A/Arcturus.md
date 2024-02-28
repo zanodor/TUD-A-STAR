@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arcturus/","title":"Arcturus","tags":["Englishtexttranslated"],"created":"2023-10-13T12:49","updated":"2024-02-01T11:10"}
+{"dg-publish":true,"permalink":"/A/Arcturus/","title":"Arcturus","tags":["Englishtexttranslated"],"created":"2023-10-13T12:49","updated":"2024-02-28T17:25"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Internetes oldal anyaga:
 > Az északi ég egyik legfényesebb csillaga, -0,04m, sárga óriás, a Napnál alacsonyabb hőmérsékletű (K1 típus). Változó fényű, fényingadozása azonban csak 0,1 mg-t tesz ki. Közeli csillag, távolsága 36,7 fényév.  
-> ![assets/Arcturus_image1.png](/img/user/A/assets/Arcturus_image1.png)  
+> ![assets/Arcturus_image1.png|invert_dark](/img/user/A/assets/Arcturus_image1.png)  
 > Ha a [[U/Ursa Maior\|Nagy Medve csillagkép]] szekér-rúdját enyhe ívben déli irányba meghosszabbítjuk, az északi ég egyik legfényesebb csillagára, az Ökörhajcsár (Bootes) α-jára, az Arcturus-ra bukkanunk. Az ókori görögség fontos naptár-csillagnak tekintette. Hésziodosz szerint: a téli napforduló (a "legrövidebb nap") után 60 nappal a napnyugta utáni szürkületben az Arcturus felbukkan a keleti látóhatáron, akkor "vele jön az új tavasz is". Kezdődnek a tavaszi mezőgazdasági munkák. (Kr. e. 800-ban a legrövidebb nap december 28-ra, az α Boo esti felbukkanása február végére esett.) Bizonyára kezdetben a csak maga az Arcturus – talán a környező néhány csillaggal – volt a "csillagkép", csak később egészítették ki a fényes csillagtól északra eső halványabbakkal "játék-sárkány alakká", ahogyan ma ismerjük.  
 > Az Ökörhajcsár megnevezése kettős arculatú. Az "Arcturus" név "Medve vezető"-t jelent[^1]. Az év során a csillag mintegy maga után vontatja a Nagy Medvét: amikor az α Boo magasabbra emelkedik, a Medve is felfelé emelkedik az északkeleti égen. Másrészt a "Bootes" is az ökrök vezetőjét jelenti ("`bos`", latinul ökör). Itt azonban nem egy tényleges ökröt legeltető pásztorra kell gondolnunk, hanem arra, hogy a régi Rómában a Nagy Medvét "Hét ökör"-nek is nevezték ([[S/Septentrio\|Septemtriones]]). A mezőgazdasági naptárcsillag jellegre utal, hogy az éggömbökön a Bootes alakját kezében sarlóval ábrázolták.  
 >
@@ -32,7 +32,7 @@ Az Ősi Gyökér 2006/1. számának 48. oldalán Dr. Gyárfás Ágnes az ezzel a
 A magyar népi neve talán azonos a "Boszorkány szeme" csillaggal.  
 Tomory Zsuzsa is tett róla említést [[T/Taliesin\|Taliesin]] névnél.  
 Arról, hogy Arcturus neve hogyan hozatott kapcsolatba [[A/Arthur\|Arthur]] nevével, lásd ott (nem csodálom, Arcturus és Arthurus közötti áthallás könnyű).  
-Ami az elnevezést jelenti, hasonló latin szavakat lásd MA által említve [[A/Arc\|arc]].  
+Ami az elnevezést jelenti, hasonló latin szavakat lásd Magyar Adorján által említve [[A/Arc\|arc]].  
 
 ## Lábjegyzetek
 

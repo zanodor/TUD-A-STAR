@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/C/Cup/","title":"Cup","tags":["dg_uploaded"],"created":"2023-11-05T02:58","updated":"2023-11-05T02:58"}
+{"dg-publish":true,"permalink":"/C/Cup/","title":"Cup","created":"2023-11-05T02:58","updated":"2024-02-28T17:33"}
 ---
 
 
 # Cup
 
 [[K/Kupa\|Kupa]]. A fejjel lefelé fordított kupa [[C/Csudaország\|Csudaország]] jelképe is lehet.  
-![assets/Cup_image1.png](/img/user/C/assets/Cup_image1.png)  
+![assets/Cup_image1.png|invert_dark](/img/user/C/assets/Cup_image1.png)  
 
 #### Péterfai János írja:
 

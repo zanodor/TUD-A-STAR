@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D/Dialektikus ellentét/","title":"Dialektikus ellentét","created":"2023-10-06T12:03","updated":"2024-02-10T03:45"}
+{"dg-publish":true,"permalink":"/D/Dialektikus ellentét/","title":"Dialektikus ellentét","created":"2023-10-06T12:03","updated":"2024-02-28T17:38"}
 ---
 
 
@@ -34,7 +34,7 @@ Az [alábbi](http://kiviszitovabb.blogspot.com/2016/08/dialektika.html) oldal ci
 > Mindezek alapján azt is láthatjátok (már megint), hogy szerintem miért értelmetlen a politikai jobboldal-baloldal ellentétpárja abban az értelemben ahogyan ma használják. Mert a bal-jobb ellentétpár alapvetően egy dialektikus ellentétpár, nem pedig egymást kizáró, antagonisztikus, amivé manapság tenni igyekeznek (például ilyen hülye jelszavakkal, mint: "soha-többet-baloldali-hatalmat"). Mert baloldala és jobboldala mindennek van, és haladni csak úgy tudunk, ha hol az egyik, hol a másik mozdul meg. Ha egy dolgot akár bal, akár jobboldalától megfosztunk, nem fog tudni mozogni. Ez nem azt jelenti hogy minden politikai klikket hagyni kell garázdálkodni felettünk. Csak azt, hogy a politikában el kellene engednünk a baloldal-jobboldal kifejezést (mert ez a köznyelvet is megmérgezi), és arra koncentrálnunk, hogy egy-egy csoport mit állít, és mit tesz. Sokkal hatékonyabbak is lehetnénk így.  
 
 Lehetett volna kezdeni a szeretet kontra félelem/gyűlölet témával kezdeni. Lásd legutóbb Quorára is tett kommentem [[F/Fél\|fél]] címnél.  
-Ha már szeret, [[S/Sért és szeret\|sért és szeret]] is ilyen szavak: ami egyik oldalról szeret, az a másik oldalról sért. Ez mutatja meg a szeret szexuális értelmét is, ugyanis a hím feladata nemzeni és az akár halálos kimenetelű sérülés okozása is.  
+Ha már szeret, [[S/Sért és szeret\|sért és szeret]] is ilyen szavak: ami egyik oldalról szeret, az a másik oldalról sért. Ez mutatja meg a szeret szexuális értelmét is, ugyanis a hím feladata nemzeni és az akár halálos kimenetelű sérülés okozása is. [[S/Szer#Szerez, szerzet; szeret\|Szerez, szerzet; szeret]] cím/alcímnél is volt erről szó.  
 Figyeljük meg, hogy teljesen hasonló módon jelennek meg az ellentétes értelmek, mint [[S/Sár\|sár]] és [[S/Szár\|szár]] esetében. A test számára okozott sértés s-es, a szellemi irányultságú szeret viszont sz-előhangos.  
 
 #### Jankovics Marcell írja:

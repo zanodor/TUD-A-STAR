@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Crest/","title":"Crest","tags":["dg_uploaded"],"created":"2023-11-03T06:36","updated":"2023-11-03T06:36"}
+{"dg-publish":true,"permalink":"/C/Crest/","title":"Crest","tags":["Englishtexttranslated"],"created":"2023-11-03T06:36","updated":"2024-02-28T17:33"}
 ---
 
 
@@ -18,7 +18,7 @@ Még a crest-re visszatérve, a *family crest* kifejezésben családi címert je
 
 Ha már szarv, Iain Forbes a LastoftheDruids című oldalról való [[S/Suhurmasku\|Suhurmasku]] címnél (teljesebben) szereplő anyagában a crest és a [[H/Horn\|horn]] szavakat egymás mellett így hozza a mellékelt képen levő szimbolikus állat fejrészét elemezve:  
 > The second feature that stands out is the 'hornʼ or 'crestʼ that in most of the examples typically curls back from the top of the head. This bears no obvious resemblance to any trait of any native animal. It could represent a single horn, or perhaps a mane-like structure.  
-> ![assets/Crest_image1.png](/img/user/C/assets/Crest_image1.png)
+> ![assets/Crest_image1.png|invert_dark](/img/user/C/assets/Crest_image1.png)
 > —  
 > A második kiemelkedő jellegzetesség a "szarv" vagy "taréj", amely a legtöbb példán jellemzően a fej tetejéről görbül hátra. Ez nem mutat nyilvánvaló hasonlóságot egyetlen őshonos állat bármely tulajdonságával sem. Jelenthet egyetlen szarvat, vagy esetleg egy sörényszerű szerkezetet.  
 

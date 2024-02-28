@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Balk/","title":"Balk","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-11-09T07:00","updated":"2024-02-27T00:47"}
+{"dg-publish":true,"permalink":"/B/Balk/","title":"Balk","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-11-09T07:00","updated":"2024-02-28T17:29"}
 ---
 
 
@@ -13,57 +13,6 @@
 > Ebben a térségben halmozódtak fel az idők folyamán azok a szellemi kincsek, amik a khusok ideje alatt kerültek Kaldeából, tehát sumir földről Baktria földjére. Baktria volt a médek, parthusok népének bölcsője. Fővárosa: Balk pedig, "a városok anyja", fellegvára lett annak a hitszemléletnek, amely [[A/Anahita\|Anahita]], vagyis a mi Nagy-Boldogasszonyunk nevéhez fűződik. Ezzel egykor a világ egyik legősibb kultúráját ringatta féltő kebelén. És amint a gyermek soha se felejti az anyjától tanult beszédet, a Balk városát megalapító Nimrud fejedelem fiai is minden honvisszafoglalás alkalmával azzal az ősi szellemi örökséggel tértek vissza a Kárpát-medencébe, amit valamikor az anyjuktól örököltek valahol Baktriában. Így tehát őseink: Hunor és Magor is örökösei voltak és maradtak mindannak a temérdek szellemi kincsnek, amit Nimrud, Kaldea királya hozott magával valamikor Balk városába, s hagyott ott ránk, mint kései utódaira.  
 
 Ami a nevet illeti, [[B/Balkán\|Balkán]] és [[B/Balog\|Balog]] címnél írottak alapján lehet gondolkodni. 
-
-> [! ]
-> ```mermaid
-> flowchart
-> subgraph Fejlődési szakasz
-> id1([WORD]) --> word --> word2 --> id1([WORD])
-> end
-> ```
-- Ezt a fajtát nem tudta elmenteni, csak `flowchart TF`-ben, valamiért.
-> [! ]
-> ```mermaid
-> flowchart
-> subgraph Fejlődési szakasz
-> word2 -.-> word3
-> end
-> ```
-> 
-
-> [! Magyar gyökök a nosztratikus elmélet szerint]
-> ```mermaid
-> pie title 
->         "Magyar" : 65
->         "Szanszkrit" : 22
->         "Egyéb" : 13
-> ```
-- Valahogy CSS-szel kéne változtatni a ronda színeken.
-
-```mermaid
-classDiagram
-        Animal --|> Duck
-        Animal --|> Fish
-        Animal --|> Zebra
-        Animal : +int age
-        Animal : +String gender
-        Animal: +isMammal()
-        Animal: +mate()
-		
-        class Duck{
-            +String beakColor
-            +swim()
-            +quack()
-        }
-        class Fish{
-            -int sizeInFeet
-            -canEat()
-        }
-        class Zebra{
-            +bool is_wild
-            +run()
-        }
-```
 
 # Balk 2)
 

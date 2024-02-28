@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Augusztus 15/","title":"Augusztus 15","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-06T01:03","updated":"2024-02-01T11:15"}
+{"dg-publish":true,"permalink":"/A/Augusztus 15/","title":"Augusztus 15","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-06T01:03","updated":"2024-02-28T17:27"}
 ---
 
 
@@ -32,7 +32,7 @@ Valahogy ilyenképpen, ezen ünnep kapcsán alakulhatott ki a [[N/Napistennő\|N
 Micsoda misztikus sorsszerűség, hogy Szent [[I/István\|István]] koronázási napja, bíráskodási napja és halálának napja is ez: mind a három jelentős nap Nagyboldogasszony nevéhez és ünnepéhez kötődik.  
 
 FK és MNL sem emeli ki igazán, hogy **ez az év nyolcadik teliholdja**[^3] és az [alábbi](https://greekerthanthegreeks.com/2016/08/greece-in-all-her-glory-under-mystical.html) oldal adata szerint is a legvilágosabb, legszebb teliholdja az évnek. Sokatmondó, hogy ilyenkor a Hold igen közel van a horizonthoz, azaz a Föld(anyá)hoz is (pongyolán fogalmaz a cikkíró; értsd: az ekliptika ilyenkor közel van a horizonthoz; és nyilván nem mindegy hány órakor nézzük a Holdat).  
-Állítólag majdnem olyan módon világít ilyenkor, mint a Nap! Márpedig a Nap a (Nap)király és a Hold pedig anyjának, a Tejútanyának aspektusa. Az éves körforgásban az augusztusi (lásd idevágó infókat is [[A/August\|August]]) holdhónap az Oroszlán jegyhez tartozik, mely alfájának neve is [[R/Regulus\|Regulus]] = királyka/kiskirály, és nem mellékesen a [[V/Világ négy oszlopa\|Világ négy oszlopá]]nak egyike (legfőbbje). JM [[R/Regulus\|Regulus]] címnél álló adata szerint Ptolemaiosz görög csillagász a Regulust tekintette a zodiákus 1. fokának (a héraklészi "munkaév" is az Oroszlánnal kezdődik). Nyilván a Szűzzel való kezdés (melyről [[S/Szűz-Halak tengely\|Szűz-Halak tengely]] és [[S/Szűz csillagkép\|Szűz csillagkép]] címnél is szó esett és Lewis Freemantle The Thirteenth Stone című könyvében is ezt hajtogatta) is ugyanez lehet eltolva.  
+Állítólag majdnem olyan módon világít ilyenkor, mint a Nap! Márpedig a Nap a (Nap)király és a Hold pedig anyjának, a Tejútanyának aspektusa. Az éves körforgásban az augusztusi (lásd idevágó infókat is [[A/August\|August]]) holdhónap az Oroszlán jegyhez tartozik, mely alfájának neve is [[R/Regulus\|Regulus]] = királyka/kiskirály, és nem mellékesen a [[V/Világ négy oszlopa\|Világ négy oszlopá]]nak egyike (legfőbbje). Jankovics Marcell [[R/Regulus\|Regulus]] címnél álló adata szerint Ptolemaiosz görög csillagász a Regulust tekintette a zodiákus 1. fokának (a héraklészi "munkaév" is az Oroszlánnal kezdődik). Nyilván a Szűzzel való kezdés (melyről [[S/Szűz-Halak tengely\|Szűz-Halak tengely]] és [[S/Szűz csillagkép\|Szűz csillagkép]] címnél is szó esett és Lewis Freemantle The Thirteenth Stone című könyvében is ezt hajtogatta) is ugyanez lehet eltolva.  
 FK könyvének 250-251. oldalán írja (de nem mondja ki, melyik ünnepre gondol):  
 > Az eredeti ünnep minden bizonnyal a [[T/Telihold\|telihold]]é, a Nagy Istennőé[^4] volt, ami a patriarchálissá változott korban a király ünnepévé lett. A nap fényét hordozó és az erőt, hatalmat birtokló király együtt örökölte meg az istennő telihold emlékét és az istennő hatalmát.  
 
@@ -65,7 +65,7 @@ A 373. oldalon írja:
 
 Majd eztán írja:  
 > Az anyaistennők között fennálló közös képzet-alapot csak az időszak természeti tulajdonságainak azonos szimbólumaiban kereshetjük. Az időszak az aratás, a gyümölcsök, a termés beérésének, az életadó élelem biztosításának az időszaka. Az antikvitásban mindezt egyik oldalról az [[O/Oroszlán csillagkép\|Oroszlán csillagkép]] férfierővel azonos megjelenése fogalmazta meg, amit a Kutya csillagképek megjelenése kísért. A "[[C/Canicular\|kánikula]]" latin kifejezés mai napig ismerős nyelvünkben, ami a kutyák "tüzelését" jelenti, azaz jelzi a nagy meleg megérkezését. Ugyane képzetekből eredően az időszak tulajdonságát a Nap határozza meg a napszak (és nem az évszak) felének világosság tartományában. Ez a jelenség maga után vonja a nap csökkenő fényű, azaz sötétségbe hajló felének második augusztusi időszakában az uralkodó megjelenésű telihold hasonló mértékű teremtő tiszteletét. A Nap és a Hold együttes, párhuzamos alakzatú látványa fogalmazza meg ugyanis az emberi létezés szimbólumát, amelynek a férfi mellett az asszony a működést felmutató teremtő letéteményese. Kybele istenasszonyt ezért ábrázolják oroszlánnal az ölében, vagy azon állva, vagy oroszlánok vontatott kocsin. Keresztény képzetekben ugyanez a képzet az anya és ölében a fiúgyermek látványa. Középkori ábrázoláson Szűz Mária is oroszlános trónon ül.  
-> ![assets/Augusztustizenot_image1.png](/img/user/A/assets/Augusztustizenot_image1.png)  
+> ![assets/Augusztustizenot_image1.png|invert_dark](/img/user/A/assets/Augusztustizenot_image1.png)  
 - [[U/Urgula\|Urgula]] címhez is bekerült, de a kép nem.  
 
 A Nagy Kutyánál és Szíriusznál maradva, a kínai kultúrkörben a Kutyacsillag Szíriusz illetve **Pan-Hu kapcsán is előkerül a nyolcadik hold(hónap)**, és annak furcsasága is, hogy most akkor mikor is kezdődött az év.  
@@ -99,7 +99,7 @@ Falvay Károly Nagyboldogasszony című könyvének 382. oldalán is szól a [[S
 
 A telihold ünnepek matriarchális ünnepek voltak eredetileg, ez egyértelmű. Olyannyira igaz ez a kijelentés, hogy maga az [[I/Idő\|idő]] fogalma is az Istenanyához tartozik. Ezért van az, hogy az [[A/Annual\|annual]] címnél taglalt latin `annus` = év az anya/anyus szavunkból ered és vélhetően az ősanyát jelentő [[E/Edda\|Edda]] is [[I/Idő\|idő]] szavunkból ered, ahogy [[E/Éva\|Éva]] az [[E/Év\|év]] szavunkkal mutat kapcsolatot. És ha már augusztus 15., lásd legutóbb (a szintén idő szavunkból eredő) [[I/Idus\|idus]] címnél írottakat is.  
 
-![assets/Augusztustizenot_image2.jpeg](/img/user/A/assets/Augusztustizenot_image2.jpeg)  
+![assets/Augusztustizenot_image2.jpeg|invert_dark](/img/user/A/assets/Augusztustizenot_image2.jpeg)  
 Végh Tibor korona-kutató Megszólalt a Szent Korona című az Ősi Gyökér 2018/1-2. sz. megjelent cikkében (is) említi a Korona u.n. "Boldogasszony-központúságát":   
 > Ami a zománcképek névünnepi dátumaiból vett naptári időadatok alapján kialakuló évköri rendszerben augusztus 15-ére, Nagyboldogasszony napjára mutat. De **augusztus 15-e egyúttal a január 1.-jével kezdődő év aranymetszési pontja** is! (365 x 0,618034 = 225,6 és január 01. → augusztus 15. = 226 nap.) Márpedig az aranymetszés a műben – Einstein szerint is – elősegíti a jó létrejöttét és kizárja a rosszét. Lásd az 1. sz. ábrát.  
 
@@ -127,7 +127,7 @@ KT Turul és szarvas [című](https://youtu.be/VlJJdkm4AWE) YouTube-os előadás
 > Úgy tűnik tehát, hogy a Lugal Geme nagy Urasszonny, akié a Mada vagyis a haza, az ország, a magyarság égi Úrnője volt, de áldó szeretete kiterjedt a Világmindenségre. Szent István ennek a réges-régen minden magyari nép által tisztelt Boldogasszonynak ajánlotta fel az országát, mert az már ősidők óta az övé volt.  
 
 [Ezen](https://chicagoist.com/2006/08/14/the_story_of_the_velika_gospa.php) cikkből kiderül, hogy a horvátok szintén ezen a napon tartják Nagyasszonyuk ünnepét, de a szlávisták politikája miatt nem magyar, hanem itáliai és zsidó-keresztény[^8] eredetűnek tartják az ünnepet.  
-A horvát [[G/Gospa\|gospa]] = hölgy, (Máriával azonosított) (Boldog)Asszony nevet említettük [[G/Göd\|Göd]] címnél is.  
+  
 
 ## Lábjegyzetek
 
