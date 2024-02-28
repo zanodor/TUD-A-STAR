@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["Englishtexttranslated"],"created":"2023-10-03T11:13","updated":"2024-02-10T04:13"}
+{"dg-publish":true,"permalink":"/N/Nap – halott Nap/","title":"Nap – halott Nap","tags":["Englishtexttranslated"],"created":"2023-10-03T11:13","updated":"2024-02-28T21:33"}
 ---
 
 
@@ -73,13 +73,13 @@ A görög mitológiánál maradva (az élő Nap) Héraklésszel szemben álltak 
 > —  
 > A szent király tehát Napkirály, és halálakor visszatér az Egyetemes Anyához, a Fehér Hold Istennőhöz, aki a legészakibb északon tartja fogva. Miért északon? Mert az az a negyed, ahonnan a Nap soha nem süt, ahonnan a szél havat hoz; a hideg sarki északon csak halott napok találhatók. A Napisten a tél közepén születik, amikor a Nap a leggyengébb, és elérte legdélebbi állását; ezért képviselőjét, a Napkirályt a nyári napforduló idején ölik meg, amikor a Nap eléri legészakibb állását[^3].  
 
-Az etruszk [[C/Cautha\|Cautha]], akit JM a lenyugvó Nap etruszk – hüllőbőrű – istenének nevez meg, nevének etimológiája igen érdekes.  
+Az etruszk [[C/Cautha\|Cautha]], akit Jankovics Marcell a lenyugvó Nap etruszk – hüllőbőrű – istenének nevez meg, nevének etimológiája igen érdekes.  
 
 [[T/Tegnap\|Tegnap]] szavunkban is a halott/dög(lött) Nap kifejezés látszik megbújni.  
 A különböző mitológiákból ismert névpárokat lassan egy [[F/Fény és anyag\|fény és anyag]] vagy [[F/Fény és sötétség\|fény és sötétség]] címnél szereplő újabb táblázatba lehetne szedni aszerint, hogy a négy (illetve egyszerűsítve: kettő – nappali és éjjeli Nap) napminőség az egyes kultúrákban milyen-milyen nevű. [[O/Ozirisz és Széth\|Ozirisz és Széth]], [[M/Missera\|missera]], valamint [[H/Hunor és Magor\|Hunor és Magor]] címnél szereplő [[I/Iker\|iker]]-minőségekből lehet kiindulni.  
 Legutóbb [[M/Mithra\|Mithra]] címnél is arról volt szó, hogy Mithra Ozirisznek felel meg.  
 
-Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (első kötetének) 267. oldalán szól a témáról, de olyan jól nem fejti ki, mint JM tette nyilván újabb, pontosított forrásai alapján. Ami RB könyvéből ide tehető, hogy a sumér-akkád Mar-Gidda a Göncölszekér elnevezése ugyan, de a [[M/MAR\|MAR]] kimondottan a hálálra látszik utalni inkább. ([[A/Aganna\|Aganna]] címnél lásd még akkád Göncölszekér elnevezést.)  
+Robert Brown Jr. Primitive Constellations of the Greeks, Phoenicians and Babylonians című könyvének (első kötetének) 267. oldalán szól a témáról, de olyan jól nem fejti ki, mint Jankovics Marcell tette nyilván újabb, pontosított forrásai alapján. Ami RB könyvéből ide tehető, hogy a sumér-akkád Mar-Gidda a Göncölszekér elnevezése ugyan, de a [[M/MAR\|MAR]] kimondottan a hálálra látszik utalni inkább. ([[A/Aganna\|Aganna]] címnél lásd még akkád Göncölszekér elnevezést.)  
 
 Egy eleddig nem említett fontos(?) analógia a Sarkcsillag és a Nap között (saját idea):  
 A Sarkcsillag az az éjszakai Nap, mely körül ugyanúgy kőröznek a csillagok, ahogy a Nap körül a bolygók.  
@@ -87,15 +87,15 @@ A Sarkcsillag az az éjszakai Nap, mely körül ugyanúgy kőröznek a csillagok
 A Nap – halott Nap és [[N/Nap#Nap – Ellen-Nap\|ellen-Nap]] cím/alcímeket eleddig nem kapcsoltam össze. Ugye a [[S/Sarkcsillag\|Sarkcsillag]] címnél is volt [[S/Sarkcsillag#Sarkcsillag és Szíriusz azaz miben áll Sarkcsillag – Szíriusz kapcsolata\|Sarkcsillag és Szíriusz azaz miben áll Sarkcsillag – Szíriusz kapcsolata]] alcím. Az a közös kapocs.  
 A halott Nap kapcsán érdekes még a [[K/Kelet és észak\|kelet és észak]] címnél szereplő passzus.  
 
-![assets/Naphalott_image2.png](/img/user/N/assets/Naphalott_image2.png)  
-Falvay Károly Nagyboldogasszony című könyvének 164-165. oldalán szól égtájakról és mitikus kapcsolatukról. Nála is nyilván az elnyugvás helye nyugat, a többit lásd a csatolt képen. Egyiptomi példát is hoz, melyről JM ezt írja Ahol a madár se jár című könyvében:  
+![assets/Naphalott_image2.png|invert_dark](/img/user/N/assets/Naphalott_image2.png)  
+Falvay Károly Nagyboldogasszony című könyvének 164-165. oldalán szól égtájakról és mitikus kapcsolatukról. Nála is nyilván az elnyugvás helye nyugat, a többit lásd a csatolt képen. Egyiptomi példát is hoz, melyről Jankovics Marcell ezt írja Ahol a madár se jár című könyvében:  
 > Egyiptomi példa nyomán nagyon valószínű, hogy a régiek úgy hitték, **a télen halott (a magas északon hosszabb időre a horizont alatt rekedt) Nap északon, az istennő méhében (a köldöke mögött) várja *keleti* újjászületését**.  
 
 Másutt viszont (azt hiszem, szintén JM-é), Falvay Károly adatával is kapcsolatot mutatóan:  
 > Az örök körforgás mítoszaiban és meséiben a halál nemzés, fogantatás értelmű, a halotti állapot magzati lét. Ezért lett a kelő, megszületendő Nap mindenkori helye észak, mert abszolút kelet nem létezik.  
 
 Amit Jankovics nem mond ki, hogy a halott Nap északi téridőbeli helye rámutat a Napisten atyjának a Teremtő Isten (aki Égistenként az antikvitásban androgün vagy nőiségi Istennő) csillagkép-lakhelyére: Szíriusz-Orion övezetére és a szintén északi Nagy Medvére és a mindenkori Sarkcsillagra gondolunk. Lásd a témáról [[A/Anu\|Anu]], [[T/Typhon\|Typhon]], [[S/Szíriusz és a medvék\|Szíriusz és a medvék]], [[A/Arthur\|Arthur]], és más címnél írottakat. Ezért találjuk az istennel azonosított [[S/Szarvas\|szarvas]]t az égen Orionban és a Medvék irányában is.  
-Amikor [[A/Arthur\|Arthur]] címnél az [[A/Áld\|áld]]oz fogalma és szava szóba került, akkor is a halott Napisten = Égisten (téridőbeli helye) kapcsolata ötlött fel és JM több helyen szereplő passzusa, melyben a halott áldozat szerepét kell kiemelten keresni:  
+Amikor [[A/Arthur\|Arthur]] címnél az [[A/Áld\|áld]]oz fogalma és szava szóba került, akkor is a halott Napisten = Égisten (téridőbeli helye) kapcsolata ötlött fel és Jankovics Marcell több helyen szereplő passzusa, melyben a halott áldozat szerepét kell kiemelten keresni:  
 > A szólás, hogy "letörte a szarvát", az ősi bikaáldozatra utal (Héraklész Akhelóiosz fölötti győzelme e szólás mítoszi forrása), s ugyancsak halál-jelentése lehetett eredetileg az e szólással látszólag éppen ellentétes értelmű felszarvazásnak". A túlvilágra költöző uralkodót, hőst, áldozatot ékesítették föl a csak "istent" megillető szarvakkal. Így illett a már túlnan lévők sorába. (Zolnay 1983: 272 skk.) Újabb kori értelmét a kifejezés annak köszönheti, hogy az elhunyt asszonyait utóda örökölte meg – nem egyszer épp az a személy, aki életét is kioltotta. Az alvilág fejedelmét, az ördögöt (krampuszt) és a boszorkányt szarvas lénynek képzelték, ezért voltak "szarvas" \[szarv-as\] állatok a kísérőik (bakkecske, fülesbagoly). A sorba illik maga a szarvas is (gör. `keraosz` "szarvas").  
 
 Ezt az égtájirányokkal kapcsolatos káoszt helyre kellene tenni. Falvay Károlynál a mag(zati lét) helye dél, viszont Jankovics Marcellnél ott a magzat, ahol a foganás, ahol a halál. Ennek magyarázata, hogy a téli napfordulónál van a legkevesebb fény, ezzel szemben a fenti észak éjszak(a) területe.  
@@ -126,7 +126,7 @@ Másutt a Mérlegről írja (de itt már a korábbi Szűz is szóba kerül, mely
 Másutt is a Skorpió szerepel a halál helyeként:  
 > A Skorpió hava – mint mondottuk – a "halál háza". Naptári, asztrális vonatkozásban viszont a halál sohasem végleges, hiszen emberi tapasztalattal mérve az égi mozgások, és a földi természet változásai örökkön-örökké ismétlődnek.  
 
-JM másutt is írja, hogy a naphéroszokat a Skorpióban éri utol a végzetük (lásd Héraklész gyilkosát, Nesszosz kentaurt:  
+Jankovics Marcell másutt is írja, hogy a naphéroszokat a Skorpióban éri utol a végzetük (lásd Héraklész gyilkosát, Nesszosz kentaurt:  
 > Augeiász a leáldozó Napot személyesíti meg. Téli napfordulói évkezdéssel számolva az év utolsó hónapja a Nyilas, ami az "öreg" Nap uralmának a végét jelenti, és az új Nap trónra léptét vetíti előre. Ezt fejezi ki, hogy Hérakilész legyőzi Augeiász öreg napbikáját. Szó volt arról, hogy Iránban az újév kezdetét, új uralkodó trónra léptét a (nap)oroszlán (szarvas)bika feletti győzelme jelképezte.  
 
 Másutt is:  
@@ -135,7 +135,7 @@ Másutt is:
 [[A/Akhilleusz\|Akhilleusz]] címnél RG és Jankovics Marcell adatai sorakoznak a Nap halálával kapcsolatosan (kígyó, skorpió mérge és mérges nyíl a halált okozó ágens).  
 [[V/Vadkan\|Vadkan]] és [[V/Vaddisznók áldozatai\|vaddisznók áldozatai]] címnél szintén szó volt naphéroszok haláláról.  
 Ugyanakkor a Nap halálát a nyári napfordulós ünnepen szokták tartani, hiszen onnantól "kezd meghalni." [[P/Pünkösd\|Pünkösd]] és [[P/Pünkösdi királyság\|pünkösdi királyság]] címnél is írtuk, hogy ezek eredetileg napfordulós ünnepségek örökségei lehettek (a Tejút-kapuk Ikrekben és Nyilasban lévő nyitottsága arra a korra utalnak, amikor a nyári és téli napforduló ezen időpontokkal is estek egybe: a kelta és görög tradíció Jankovics Marcell adatai szerint is ezt bizonyítja).  
-Ilyenkor a nyári napfordulón ahogy Sír James Frazer, Robert Graves és JM könyveiből is tudjuk, eljátszották a Nap halálát, de egyes kulturákban meg is ölték a tisztségéről leköszönő Napkirályt (vagy annak egy napra kinevezett helyettesét).  
+Ilyenkor a nyári napfordulón ahogy Sír James Frazer, Robert Graves és Jankovics Marcell könyveiből is tudjuk, eljátszották a Nap halálát, de egyes kulturákban meg is ölték a tisztségéről leköszönő Napkirályt (vagy annak egy napra kinevezett helyettesét).  
 Mindez pedig a szent ligetben a tölgyfánál történt (a tölgy a nyári napforduló fája; lásd még [[A/Aranyág\|aranyág]], [[D/Darag\|darag]] és [[M/Missel\|missel]]). Lásd még ide kapcsolódóan az alant írottakat is.  
 
 ### Naphéroszok, Napkirályok (papkirályok) halála
@@ -147,7 +147,7 @@ Igen érdekes, hogy a legenda szerint két legnagyobb királyunk, Atilla és Má
 ...című könyvében írja ugyanis Héraklészről:  
 > Utoljára Déianeirának tett szolgálatot azzal, hogy előbb alvilági kérőjétől, Akhelóiosztól, utóbb, amikor már a felesége volt, elrablójától, Nesszosztól megszabadította. Ez lett a hérosz végzete. Az **ő halálát is, mint a legtöbb naphéroszét, a felesége okozta**; a női princípium megtestesítője, aki a világosság és a sötétség örökös harcában dinamikus egyensúlyt teremt, és a körforgást fönntartja azzal, hogy szívét és segítő kezét mindig az ifjúnak és erősnek adja; tavasszal Nap fiatalúrnak, ősszel pedig a sötétséget, halált megszemélyesítő fekete legénynek.  
 
-Még a mérgezés is stimmelni látszik, ahogy JM soraiból kiderül (a méreggel átitatott "Nesszosz-ing" lett a hős őszvégi halálának okozója):  
+Még a mérgezés is stimmelni látszik, ahogy Jankovics Marcell soraiból kiderül (a méreggel átitatott "Nesszosz-ing" lett a hős őszvégi halálának okozója):  
 > Héraklész gyilkosa, Nesszosz kentaur Khárónhoz hasonlóan alvilági révész volt. Ő is az Állatöv és a Tejút egyik kereszteződésében tette a dolgát, mint a Nyilas vagy a Kentaur csillagkép megtestesítője. És alvilági lény volt, hiszen amikor a vérébe mártott ing megölte Héraklészt, már rég halott volt. (Egy jóslat előre megmondta a hősnek, hogy alvilági lény végez majd vele.)  
 > A dolog pedig úgy történt, hogy Nesszosz, amikor Héraklész mérgezett nyilától találtan haldoklott, rávette az asszonyt, gyűjtse össze a vérét, és mártsa bele férjeura ingét, mondván, ha ezt ráadja, nem fog többé más asszonyba beleszeretni. (A kentaur nem is hazudott.) Déianeira elküldte a maga szőtte, vérbe mártott (veres?) díszinget Héraklésznek, aki éppen áldozatra készült a baljós nevű Kenaion-fokon ("Űr", "Elhagyatott hely", "Hiábavalóság helye"). A hérosz az áldozathoz magára öltötte az inget, sa méreg, amely nem szerette a meleget és a világosságot (hogyan is szerethette volna, hisz a hideg éj képviselőjének a vérében volt), az inggel együtt azonnal beleette magát a húsába. Héraklész tudta, hogy ez a vég. Máglyát rakatott és fellépett rá. A tűz és apja égből lecsapó villámai halandó részét azonnal elhamvasztották, halhatatlan fele megifjodva, gyermekként suhant az égbe Athéné négyesfogatán. A körforgást fejezi ki az a mód, ahogy Déianeira akaratán kívül (?) elveszejti férjét hiszen, ha az ókori elbeszélők nem is mondják ki nyíltan, Nesszosz vérébe a mérget Héraklész halált hozó nyila juttatta.  
 > Úgy mesélték, a Skorpió kapuján át hajtott az égbe, vagyis ott (akkor), ahol (amikor) a naphérosznak meg kellett halnia. Fenn az Olümposzon "halálos" ellensége, Héra – a földön Déianeira is őt képviselte – most helyreállítja az általa felborított egyensúlyt. Újraszüli, s ezzel vér szerinti fiává teszi Héraklészt, s hozzáadja feleségül Zeusztól való egyetlen leánygyermekét: [[H/Hébé\|Hébé]]t, önmaga ifjonti énjét.  
