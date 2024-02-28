@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Suhurmasku/","title":"Suhurmasku","tags":["Englishtexttranslated"],"created":"2023-11-04T10:20","updated":"2024-02-02T02:42"}
+{"dg-publish":true,"permalink":"/S/Suhurmasku/","title":"Suhurmasku","tags":["Englishtexttranslated"],"created":"2023-11-04T10:20","updated":"2024-02-28T21:41"}
 ---
 
 
@@ -13,7 +13,7 @@ Megjegyzés: a [[S/Székely-magyar rovásírás#H\|székely-magyar rovásírás 
 > A magyar Ga tehát valójában olyan lény, amelyet kiemelünk, természetesen a vízből, és Hal. Ráadásul a Belu-Ga nem is hal, hanem fehér delfin és emlős.  
 
 [[O/Oyster\|Osztriga]] címnél is szerepelt Péterfai János azon adata, miszerint `GA` = hal jelentésű is lehet (érdekes, hogy ott is az anyaméh jön elő, ahogy a delfin kapcsán, [[D/Dolphin\|dolphin]] címnél írottaknál is).  
-![assets/Suhurmasku_image1.png](/img/user/S/assets/Suhurmasku_image1.png)  
+![assets/Suhurmasku_image1.png|invert_dark](/img/user/S/assets/Suhurmasku_image1.png)  
 [[M/MAS\|MAS]] előjött a sumér-babiloni Nagy Ikreknek fordított [[M/Mastabbagalgal\|Mastabbagalgal]] névnél is: jelentése tehát mása valaminek, vagy másodikja. A piktogramja igen érdekes forma kereszt. A vitatható adatokat szolgáltató [[D/Dudás Rudolf\|Dudás Rudolf]] szerint a kecske szó értelme a Kőrös-kultúra idejében `MÁS`-nak hangzott; (L.76), "kecskebak" pedig `MÁS-NITA` volt.  
 Ami az M-SZ vázú kecske(gida) és őz/szarvas jelentésű szavakat illeti, csokorba összeszedve lásd [[M/MISZ\|MISZ]] címnél. Magyar Adorján Csodaszarvasában tehát jól gondolja, hogy halfarkú szarvasról van inkább szó, mint kecskéről, csak hát a szarvas arrafelé délen nem volt meg, így ki kellett váltsa a kecske.  
 
@@ -131,10 +131,10 @@ A bakhal-képzet a [[S/Skorpió csillagkép\|Skorpió csillagkép]]et Szarvassal
 > 
 > A KECSKEHAL
 > 
-> ![assets/Suhurmasku_image4.png](/img/user/S/assets/Suhurmasku_image4.png)  
+> ![assets/Suhurmasku_image4.png|invert_dark](/img/user/S/assets/Suhurmasku_image4.png)  
 > A Kecskehal a mai Bak babiloni prototípusa. Ez a különös lény, amely egy kecske fejét és mellső végtagjait egy hal testével kombinálja, először a mezopotámiai művészetben jelenik meg a 3. évezred vége felé. Feltételezve, hogy már ebben a korai időszakban csillagkép alakja volt, különös alakja az elmúlt legalább 4000 évben díszítette a téli égboltot. A görög és a babilóniai alak szinte teljesen azonos, sőt az egyetlen észrevehető változás, amely az átadás során történt, az volt, hogy a görög csillagkép valamivel hosszabb farokkal lett, amely néha maga köré tekeredik, néha pedig csomóba kötve.  
-> ![assets/Suhurmasku_image5.png](/img/user/S/assets/Suhurmasku_image5.png)  
-> ![assets/Suhurmasku_image6.png](/img/user/S/assets/Suhurmasku_image6.png)  
+> ![assets/Suhurmasku_image5.png|invert_dark](/img/user/S/assets/Suhurmasku_image5.png)  
+> ![assets/Suhurmasku_image6.png|invert_dark](/img/user/S/assets/Suhurmasku_image6.png)  
 > Annak ellenére, hogy a kecskebogár az állatöv része, és így állandó kölcsönhatásban van a Nappal, a Holddal és a bolygókkal, meglepően kevés közvetlen hagyomány kapcsolódik hozzá a babiloni vagy a görög hagyományokban. Következésképpen, ha a csillagkép szimbolikus természetét akarjuk leírni, más, közvetettebb módszerekhez kell folyamodnunk. A Kecskehal természetének megértéséhez az első támpont a naptári viselkedésében rejlik. A 3. évezred közepén vagy végén, amikor a Kecskehalat eredetileg létrehozták, a feje és a szarvai a téli napforduló idején emelkedtek fel, míg a halfarka csak a következő hónap folyamán vált teljesen láthatóvá. Mindez azt sugallja, hogy karakterét valószínűleg a téli napfordulóhoz kapcsolódó újjászületés szimbolizmusa határozza meg. További információkhoz juthatunk, ha a Kecskehalat a csillagtérképen körülötte lévő csillagképek összefüggésében vizsgáljuk. Minden okunk megvan azt hinni, hogy a Kecskehal a csillagok újabb generációjához tartozik, és ha ez a helyzet, akkor lehetnek olyan régebbi csillagképek is, amelyek még mindig jelen vannak a csillagtérképen, és ugyanezt az évszakos szimbolikát testesítik meg. Mint ilyenek, lehetőséget kínálnak arra, hogy a Kecskehal változatos elemeit más, jobban ismert csillagkép-szimbólumok alapján írjuk le. Arra is következtethetünk továbbá, hogy ezek a régebbi csillagképek a Kecskehal alakja mögött helyezkednek el, és naptári viselkedésüket tekintve valószínűleg egy-két hónappal később kelnek fel. **A feltételezések alapján most már feltételezhetjük, hogy a Kecskehal kecske eleme a Szarvas szimbólummal egyenértékű szimbólum, amely egy archaikus csillagkép volt, amely szorosan kapcsolódik a Nap újjászületéséhez**. Hasonlóképpen, a hal-elem vagy az Anunitumból, vagy a Halak csillagképről származik, amelynek asztrális hagyományaiból kiderül, hogy a mitikus halról úgy gondolták, hogy megmenti a Napot a tél vizes mélységeiből, és biztonságosan a szárazföld felé vezeti.  
 > ![assets/Suhurmasku_image7.png](/img/user/S/assets/Suhurmasku_image7.png)  
 > Összefoglalva, most már megállapíthatjuk, hogy a Kecskehal a 3. évezred második felében jött létre újonnan, hogy a téli napforduló újjászületési aspektusát szimbolizálja. Alkatrészeiből kiderül, hogy az újszülött Nap őrzője és vezetője, amint az újra felbukkan a sötétség és a halál vizéből.  
