@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ape/","title":"Ape","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-05T03:55","updated":"2024-02-01T11:09"}
+{"dg-publish":true,"permalink":"/A/Ape/","title":"Ape","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-05T03:55","updated":"2024-02-28T17:25"}
 ---
 
 
@@ -35,7 +35,7 @@ Edward Topsell The History of Four-footed Beasts című 1607-es kiadású könyv
 > —  
 > Cynocephales, a majmok egy fajtája, amelyek feje olyan, mint a kutyáké, és a többi részük olyan, mint az emberé; ezért Gaza Canicipites-nek, azaz kutyafejűnek fordítja őket.  
 
-![assets/Ape_image2.png](/img/user/A/assets/Ape_image2.png)  
+![assets/Ape_image2.png|invert_dark](/img/user/A/assets/Ape_image2.png)  
 Különösen hangsúlyos a hasonlításnál a farkuk. Várkonyi Nándor is említi a kutyafarkat ([[M/Majom\|majom]] címnél is megvolt):  
 > A tlascalák, quichék, guatemalai, costaricai, továbbá a zsidó, tibeti, kínai és a Fidzsi-szigeti mondákban az ember testalkatának (habitusának) változása is említtetik: majommá lesz, vagy kutyafarkat kap, megcsúful stb.; ez aránylag ritka motívum, s legérthetőbb magyarázatát Szuchisz, az egyiptomi pap adja meg Szolónnak: visszasüllyedés primitív körülmények, állati életformák közé a nagy pusztulás után. Hasonló értelemben ír Platón.  
 
@@ -61,7 +61,7 @@ Egy Helena Lehman nevű írónő Bullinger (feledésbe merült?) könyvét dolgo
 
 Az Ápisz-bika anyja ugye [[H/Hathor\|Hathor]] istennő, az Ég Tehene, akit az egész égbolt megtestesüléseként tiszteltek, ahogy Jankovics Marcell írja. A fenti méh, a majom-kutya és bika összefüggéseket még taglalni kell.  
 
-Bullingernél és Lehmannál majomról nem esik szó, viszont a majom és kutya nemcsak elnevezési, hanem jelképi szinten is lehet egy és ugyanazt: őst jelentő. Az ős pedig nem más, mint a Tejútanya, Éganya, vagyis Isten. Ezért is lehet, hogy az egyiptomi [[M/Mut\|Mut]] istennő előképének tartott [[K/Kenemet\|Kenemet]] istennő/csillagkép, bármennyire is szintén a Nagy Kutya csillagkép helyén ábrázolták, szimbolikus állata nem kutya, hanem majom; talán itt is arra történik utalás, hogy mindkettő ős, ahogy az anya is lehet [[A/ATA\|ATA]], azaz ős. Azaz a MA által felvetett apa fogalommal való egyeztetés leegyszerűsítése a dolgoknak.  
+Bullingernél és Lehmannál majomról nem esik szó, viszont a majom és kutya nemcsak elnevezési, hanem jelképi szinten is lehet egy és ugyanazt: őst jelentő. Az ős pedig nem más, mint a Tejútanya, Éganya, vagyis Isten. Ezért is lehet, hogy az egyiptomi [[M/Mut\|Mut]] istennő előképének tartott [[K/Kenemet\|Kenemet]] istennő/csillagkép, bármennyire is szintén a Nagy Kutya csillagkép helyén ábrázolták, szimbolikus állata nem kutya, hanem majom; talán itt is arra történik utalás, hogy mindkettő ős, ahogy az anya is lehet [[A/ATA\|ATA]], azaz ős. Azaz a Magyar Adorján által felvetett apa fogalommal való egyeztetés leegyszerűsítése a dolgoknak.  
 
 Elképzelhető, hogy a majom ősnek való megjelölése is onnan ered részint, hogy a majomban kutyát kell látni? (Lehet, de erről Darwin ugye aligha tudhatott.)  
 Elgondolkodtató ezek után, hogy vajon [[M/Majom\|majom]] szavunknak mi a jelentése. CzF fejtegetése latin és német nyelvek/szavak alapján (gyakorlatilag egyik gondolatával sem értek egyet; a [[M/Más\|más]] az Eb-Úr/Éber téridőbeli helye, ahogy [[H/Héber\|héber]] címhez, a kutyás részhez is került):  

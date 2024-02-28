@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Ecliptic/","title":"Ecliptic","tags":["Englishtexttranslated"],"created":"2023-11-17T06:56","updated":"2024-01-24T03:40"}
+{"dg-publish":true,"permalink":"/E/Ecliptic/","title":"Ecliptic","tags":["Englishtexttranslated"],"created":"2023-11-17T06:56","updated":"2024-02-28T17:39"}
 ---
 
 
@@ -21,7 +21,7 @@ Angol magyarázat (internetről):
 > Az ekliptika a Föld Nap körüli pályájának körpályája. E mozgás során klasszikusan 12 (valójában 13) csillagképet, amelyek a Napon túl a háttérben vannak, a Nap egymás után eltakar a látóteréből.  
 > Ha a Nap középpontjában(!) állhatnánk, és megfigyelhetnénk a Föld keringését, akkor azt látnánk, hogy a Föld a keringése során a háttérben lévő állatövi csillagképekkel szemben egy pályát ír le – ugyanazt a pályát, amit mi a Napot látjuk leírni, de az ellenkező irányból nézve. Ezért az ekliptika, amellett, hogy a Nap látszólagos útja a háttércsillagok előtt, a Föld pályájának a térbe vetített síkjának is tekinthető.  
 
-![assets/Ecliptic_image1.png](/img/user/E/assets/Ecliptic_image1.png)  
+![assets/Ecliptic_image1.png|invert_dark](/img/user/E/assets/Ecliptic_image1.png)  
 
 #### Jankovics Marcell A Nap könyve...
 
@@ -38,9 +38,9 @@ Angol magyarázat (internetről):
 
 Lásd még öt csatolt képet.  
 ![assets/Ecliptic_image2.png](/img/user/E/assets/Ecliptic_image2.png)  
-![assets/Ecliptic_image3.png](/img/user/E/assets/Ecliptic_image3.png)  
-![assets/Ecliptic_image4.png](/img/user/E/assets/Ecliptic_image4.png)  
-![assets/Ecliptic_image5.png](/img/user/E/assets/Ecliptic_image5.png)  
+![assets/Ecliptic_image3.png|invert_light](/img/user/E/assets/Ecliptic_image3.png)  
+![assets/Ecliptic_image4.png|invert_light](/img/user/E/assets/Ecliptic_image4.png)  
+![assets/Ecliptic_image5.png|invert_light](/img/user/E/assets/Ecliptic_image5.png)  
 ![assets/Ecliptic_image6.png](/img/user/E/assets/Ecliptic_image6.png)  
 
 #### Jankovics Marcell írja:
@@ -78,9 +78,9 @@ Másrészt a kerékagy világkerék (nevezhetjük [[H/Hamlet malma\|Hamlet malm�
 > A fél gyűrű felhozatala a víz alól a [[P/Precesszió\|precesszió]]nak is alkalmas metaforája lehetne éppen; a földtengely billegése következtében ugyanis a téli félút, ami jelenleg "víz alatt" van, kereken 13000 év múlva szárazra kerül, és nyári félút lesz, míg a jelenlegi nyári félút a vízbe merül, téli félút lesz.  
 - Jankovics Marcell nem is gondolná, mennyire helyénvaló egyes mesék és mítoszok [[N/Nagy Év\|Nagy Év]]ben való vizsgálata, Szíriuszostul-mindenestül.
 
-JMJ egyik fontosnak tekinthető észrevétele, hogy a Tejút rávetíthető a földi hegyvonulatok vonalára. [[S/Szikla\|Szikla]] és [[S/Szümplegádok\|szümplegádok]] címnél volt arról még szó, hogy a Tejút nemcsak folyó, de hegyvonulat is lehet.  
+John M. Jenkins egyik fontosnak tekinthető észrevétele, hogy a Tejút rávetíthető a földi hegyvonulatok vonalára. [[S/Szikla\|Szikla]] és [[S/Szümplegádok\|szümplegádok]] címnél volt arról még szó, hogy a Tejút nemcsak folyó, de hegyvonulat is lehet.  
 Érdekes, hogy a berajzolás alapján az ekliptika az [[O/Oroszlán-Vízöntő tengely\|Oroszlán-Vízöntő tengely]]re kerül. Lásd a csatolt képen.  
-![assets/Ecliptic_image7.png](/img/user/E/assets/Ecliptic_image7.png)  
+![assets/Ecliptic_image7.png|invert_dark](/img/user/E/assets/Ecliptic_image7.png)  
 
 Az Analemma-görbe a nap éves járása, de nyilván nem csillagászati, hanem fotós kifejezés lehet.  
 

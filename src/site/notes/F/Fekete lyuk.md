@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Fekete lyuk/","title":"Fekete lyuk","tags":["Englishtexttranslated"],"created":"2023-11-18T08:58","updated":"2024-02-02T02:23"}
+{"dg-publish":true,"permalink":"/F/Fekete lyuk/","title":"Fekete lyuk","tags":["Englishtexttranslated"],"created":"2023-11-18T08:58","updated":"2024-02-28T17:41"}
 ---
 
 
@@ -26,7 +26,7 @@ Dr. Gyárfás Ágnes az Ősi Gyökér 2005/1-2. sz. megjelent Kecskehal című c
 [[T/Tejút\|Tejút]] címnél is szerepelt:  
 Mellesleg számomra hatalmas rejtély az **Architeuthis** óriás[[P/Polip\|polip]][^1] neve. Ha az Architeuthis feltekeredik, akkor pontosan olyan, mint egy spirális galaxis kinézete \[sőt, a képen szépen látszik a fekete lyukként mutatkozó [[S/Száj\|száj]]a (ami a [[V/Vulva\|vulva]] ugye) is\].  
 
-![assets/Feketelyuk_image1.jpeg](/img/user/F/assets/Feketelyuk_image1.jpeg)  
+![assets/Feketelyuk_image1.jpeg|invert_light](/img/user/F/assets/Feketelyuk_image1.jpeg)  
 
 #### Péterfai János írja:
 

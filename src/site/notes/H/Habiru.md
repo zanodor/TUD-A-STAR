@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["Englishtexttranslated"],"created":"2023-10-04T02:14","updated":"2024-02-10T04:01"}
+{"dg-publish":true,"permalink":"/H/Habiru/","title":"Habiru","tags":["Englishtexttranslated"],"created":"2023-10-04T02:14","updated":"2024-02-28T17:46"}
 ---
 
 
@@ -10,7 +10,7 @@ Robert Graves adata szerint ilyen néven hívták az egyiptomiak a [[H/Héber\|h
 - Azt jegyezzük meg, hogy az egyiptomiban -u a többes szám jele, azaz lehetséges, hogy olyan módon utaltak népekre, ahogy a görögök (ott az -i a többes jele).
 
 [[H/Hargita Csaba Ferenc\|Hargita Csaba Ferenc]] nehezen kalauzolható honlapjának [ezen](http://www.imninalu.net/Habiru.htm) oldalán taglalja a habirukat. A mellékelt nemzetségtábláról az olvasható le, hogy **Ever**-től kezdve lehet habirukról beszélni.  
-![assets/Habiru_image1.jpg](/img/user/H/assets/Habiru_image1.jpg)  
+![assets/Habiru_image1.jpg|invert_dark](/img/user/H/assets/Habiru_image1.jpg)  
 A cikket is ezen név említésével nyitja:  
 > "Shem, the father of all the children of 'Ever..." Bereshyit 10:21  
 > —  

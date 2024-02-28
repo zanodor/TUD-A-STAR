@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T11:35","updated":"2024-02-02T03:05"}
+{"dg-publish":true,"permalink":"/G/G/","title":"G","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-19T11:35","updated":"2024-02-28T17:43"}
 ---
 
 
@@ -10,7 +10,7 @@ Immáron két sumér szót találtam, melyek elején szerepel egy feleslegesnek 
 Ismert még a szumer `sal` = asszony, nő (vö. a főképpen René Labat adataira támaszkodó [[D/Dudás Rudolf\|Dudás Rudolf]] közlése alapján ismert szinte azonos alakú sumér `ŠUL` = férfi, hős szóval).  
 
 GYÁ-nak van egy több helyen említett Lugal Geme című tanulmánya, melyben szintén előjön Geme.  
-![assets/G_image1.png](/img/user/G/assets/G_image1.png)  
+![assets/G_image1.png|invert_dark](/img/user/G/assets/G_image1.png)  
 A csatolt jelet – nyilvánvaló okokból – például [[P/Pina\|pina]] címnél is szerepeltettük.  
 Záhonyi András A káld-szabír (sumer) képjelek, hangértékek rejtett üzenetei című az Ősi Gyökér 2021/1. sz. megjelent cikke alján is említi futólag.  
 
@@ -31,8 +31,8 @@ Már eleve a Gasan és főleg [[A/Asszony\|asszony]] kapcsán tudni illik, hogy 
 Azaz a másik megközelítés az, hogy ezen nevek király (honnan ég királynője) jelentésűek már. Például a [[G/Gyne\|gyne]] címnél látott aveszta `kan`, `kaine` = fiatal lány, perzsa `kaniz` = szobalány, szogdi-iráni `knc'k` = lányka szavak elsője konkrétan a [[K/KAN\|KAN]] [[K/Kutya\|kutya]] nevével azonos alakú (még ha ez deformált szóalakokkal nem is feltétlen vetendő össze).  
 
 A modern arab-perzsában `khanum` a khan/kán női megfelelője, eredetileg tehát méltóságnév, de udvarias megszólitásokban is ezt használják a tisztelet kifejezésére. Tulajdonképpen asszonyom a jelentése. Ugyanakkor vigyázat: mint kiderül, az -um végződés nem feltétlenül birtokos.
+- Lásd [Wiki oldalát](https://en.wikipedia.org/wiki/Khanum).  
 
-Lásd itt: https://en.wikipedia.org/wiki/Khanum  
 Ugyanott, [[G/Gyne\|gyne]] címnél Péterfai János soraiban találjuk az eligazítást:  
 > Arikan Atilla felesége. Ari az Arany becézése, a Kan = Királynő. Őseink a királynőket is királynak nevezték, mert valóban királyok voltak. A női ügyekben férfi király nem ítélkezhetett, mert be sem engedték a nők a férfi királyt az ítélkezéseik vitájába.  
 
@@ -49,9 +49,9 @@ Az [[O/Oguz\|oguz]] név kapcsán az [alábbi](https://qr.ae/pvAZDU) Quora vála
 
 
 
-> We modern Turks call ourselves Oğuz, you already know that; it reads O:z. There is a reason there is this 'soft g' in our alphabet. It fades away and gets hardened also; I'm really fascinated by this sound. So in this instance, soft g/ğ fades away and it becomes 'uz'. But then again it gets hardened and becomes `öküz`. Öküz means ox.  
+> We modern Turks call ourselves Oğuz, you already know that; it reads O:z. There is a reason there is this 'soft g' in our alphabet. It fades away and gets hardened also; I'm really fascinated by this sound. So in this instance, soft g/ğ fades away and it becomes 'uz'. But then again it gets hardened and becomes 'öküz'. `Öküz` means ox.  
 > —  
-> Mi, modern törökök oğuznak hívjuk magunkat, ezt te is tudod; O:z-nak olvasandó. Nem véletlenül van ez a "lágy g" az ábécénkben. Elhalványul és megkeményedik is; engem nagyon lenyűgöz ez a hang. Tehát ebben az esetben a lágy g/ğ elhalványul, és 'uz' lesz belőle. De aztán újra megkeményedik és `öküz` lesz belőle. Öküz ökröt jelent.  
+> Mi, modern törökök oğuznak hívjuk magunkat, ezt te is tudod; O:z-nak olvasandó. Nem véletlenül van ez a "lágy g" az ábécénkben. Elhalványul és megkeményedik is; engem nagyon lenyűgöz ez a hang. Tehát ebben az esetben a lágy g/ğ elhalványul, és 'uz' lesz belőle. De aztán újra megkeményedik és 'öküz' lesz belőle. `Öküz` ökröt jelent.  
 
 
 </div></div>
