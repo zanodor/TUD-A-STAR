@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/G/Gula/","title":"Gula","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions","Englishtexttranslated"],"created":"2023-11-04T11:49","updated":"2024-02-12T18:12"}
+{"dg-publish":true,"permalink":"/G/Gula/","title":"Gula","tags":["titleandheadingonedontmatch","multipleentries","stitched","containstransclusions","Englishtexttranslated"],"created":"2023-11-04T11:49","updated":"2024-02-28T17:46"}
 ---
 
 
@@ -11,7 +11,7 @@ A két sumér nevet, Gula 1-t és [[G/Gula#Gula 2)\|Gula]] 2-t úgy lehet közö
 #### Jeremy Black és Anthony Green Gods, Demons and Symbols in Ancient Mesopotamia...
 
 ...című könyvükből:  
-![assets/GulaOne_image1.png](/img/user/G/assets/GulaOne_image1.png)  
+![assets/GulaOne_image1.png|invert_dark](/img/user/G/assets/GulaOne_image1.png)  
 > The goddess Gula ~~(whose name means 'great')~~ was a healing goddess, who 'understands disease,' and a patroness of doctors. She was also worshipped under the names Nintinuga, Ninkarrak and Meme, originally the names of other goddesses; and as Ninisina, 'Lady of Isin'. Her principal shrine was the E-gal-mah at Isin, but she also had temples at Nippur, Borsippa and Aššur. She was regarded as the wife of [[N/Ninurta\|Ninurta]] or [[P/Pabilsag\|Pabilsag]][^1], or else of the minor vegetation god [[A/Abu\|Abu]]. Gula was the mother of the healing god **Damu**, and of the god Ninazu (also associated with healing). **Her sacred animal was the dog**, and small model dogs were dedicated to her by worshippers.  
 > —  
 > Gula istennő ~~(akinek a neve azt jelenti: "nagy")~~ gyógyító istennő volt, aki "megérti a betegségeket", és az orvosok védőszentje. Nintinuga, Ninkarrak és Meme néven is imádták, amelyek eredetileg más istennők nevei voltak; valamint Ninisina, 'Isin úrnője' néven. Fő szentélye az isini E-gal-mah volt, de templomai voltak Nippurban, Borsippában és Aššurban is. Úgy tekintették, mint [[N/Ninurta\|Ninurta]] vagy [[P/Pabilsag\|Pabilsag]][^1], illetve a kisebb jelentőségű növényzetisten, [[A/Abu\|Abu]] feleségét. Gula a gyógyító isten **Damu** és a szintén gyógyítással kapcsolatos Ninazu isten anyja volt. **Az ő szent állata a kutya volt**, és a hívők kis mintakutyákat szenteltek neki.  
@@ -68,7 +68,7 @@ Korábban még itt szereplő kiegészítő infók:
 Mivel kutyával ábrázolt, [[K/Kutya\|kutya]] címnél is szerepeltek ezen infók.  
 
 Az [alábbi](https://youtu.be/BKlduHsQOTc) előadásban (lásd 21:50-nél) Dr. Gyárfás Ágnes a mellékelt ábra várát a címének megfelelően Tündérszép Ilona várának (lásd [[T/Tündér#Tündér Ilona forgó vára\|Tündér Ilona forgó vára]] cím/alcímnél) mondja és nyilván Gula illetve [[B/Bau\|Bau]] (Baba) istennővel azonosítaná, de így nem mondja ki.  
-![assets/GulaOne_image3.png](/img/user/G/assets/GulaOne_image3.png)  
+![assets/GulaOne_image3.png|invert_dark](/img/user/G/assets/GulaOne_image3.png)  
 Az Academia.edu oldalon Srini Kalyanaraman archeológus is Gulával azonosítja:  
 > Depicted above the socle on one of the seals is a seated dog, the symbol of the goddess Gula, and flanking the other are symbols of Ea.  
 > —  
@@ -103,7 +103,7 @@ A kérdés itt az, hogy ez a fekete démon illetve kezdet istennője (ősanya(g)
 # Gula 2)
 
 A [[S/Sumér zodiákus\|sumér zodiákus]] Vízöntőnek megfelelő csillagjegye, helyesen Gu-La. Mielőtt rátérnénk a név etimológiájára, meg kell jegyezni, ahogy [[V/Vízöntő paradoxon\|Vízöntő paradoxon]] és [[U/Urgula\|Urgula]] címnél is megtettük, hogy a sumér zodiákusban az Oroszlán és Vízöntő jegyek nevei is szinte azonosak. Az Oroszlán neve UR.GU.LA (lásd [[U/Urgula\|Urgula]]), míg a Vízöntőé GU.LA.  
-![assets/GulaTwo_image1.png](/img/user/G/assets/GulaTwo_image1.png)  
+![assets/GulaTwo_image1.png|invert_dark](/img/user/G/assets/GulaTwo_image1.png)  
 
 Fentebb volt szó Monoceros és más északi oldalról, ha csillagkép témában egyáltalán [[G/Gula#Gula 1)\|Gula]] tárgyalható. Ahogy ott is kimondtuk, itt éppen az éggömbön ellentétes déli-téli oldalról lesz szó (igaz, a szemközti Urgula nevében is van Gula).  
 
@@ -132,7 +132,7 @@ De ne feledjük el a Tejútanya egyik fontos madáralakját, a [[G/Gólya\|góly
 
 Közben, hónapokkal később, az a gondolatom támadt, hogy Gula nem az eredeti sumér neve a Vízöntőnek. Ahogy a [[C/Cola\|cola]] is, a [[G/Gulya\|gulya]] átvitt folyó jelentéséből lett Vízöntővé, majd istennő nevévé, szerintem. Ugyanakkor azt kevéssé hiszem, hogy Gula nyomán, szembenlévőségük folytán alakult volna ki [[U/Urgula\|Urgula]] neve, és abból aztán [[H/Herkules\|Herkules]] és társai.  
 
-Amiről nem esett szó, az a [[P/Precesszió\|precesszió]]. Ahogy JM is írja egy helyen, a Vízöntő 5-6000 évvel ezelőtt a [[T/Téli napforduló\|téli napforduló]] csillagképe volt. Ezt az jelenthetné még, hogy Gula egyúttal olyanféle név, mint [[B/Boldogasszony\|Boldogasszony]], kinek nevében a Bol-Dog úgy utal a Tejútközpontra, mint Gula nevében a Gyúl. Ez magyarázhatná meg azt is, miért van lába mellett a Kutya (mely Szíriuszként együttállásban van újévkor).  
+Amiről nem esett szó, az a [[P/Precesszió\|precesszió]]. Ahogy Jankovics Marcell is írja egy helyen, a Vízöntő 5-6000 évvel ezelőtt a [[T/Téli napforduló\|téli napforduló]] csillagképe volt. Ezt az jelenthetné még, hogy Gula egyúttal olyanféle név, mint [[B/Boldogasszony\|Boldogasszony]], kinek nevében a Bol-Dog úgy utal a Tejútközpontra, mint Gula nevében a Gyúl. Ez magyarázhatná meg azt is, miért van lába mellett a Kutya (mely Szíriuszként együttállásban van újévkor).  
 De valójában nem ez a lényeg a [[P/Precesszió\|precesszió]] kapcsán, hanem az, hogy a sumér időkben a [[T/Tejút\|Tejút]] sávja nem a (mai állást tükröző) [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]en nyugodott, hanem a [[O/Oroszlán-Vízöntő tengely\|Oroszlán-Vízöntő tengely]]en (lehetséges ez, vagy az nem változik?). (Ami egyúttal az is jelentené, hogy az Oroszlán Urgula neve tulajdonképpen Nagy Éves megfontolásból lett ilyen?)  
 Azaz a Vízöntő+Oroszlán együttes Gula/Gulya neve valójában az azon a tengelyen fekvő Tejút [[G/Gulya\|gulya]] nevét vitte.  
 Itt már csak azt kellene tudni/ellenőrizni, hogy a Tejút sávja is változtatja a helyét az égen, vagy csak a télpont/tavaszpont jelöli ki más jegyben a napfordulót-napéjegyenlőségi pontot, hiszen tudjuk, hogy más a csillagkép és más a jegy.  
@@ -189,12 +189,12 @@ Nos, [[T/Tejút#Nagy Éves szempontból a Tejút (Világfa) melyik asztrológiai
 > "A NAGY Ő"
 > 
 > A Vízöntő babiloni előfutára Gula, a "Nagy Ő" néven ismert. A csillagképet általában egy álló, néha óriási méretű férfi alaknak ábrázolják, aki egy vagy több vázát tart, amelyekből vízfolyások áradnak. Gula gigantikus alakja szilárdan a földön állva a hegycsúcsok fölé magasodik (jobbra). A magasban tartott, túlcsorduló vázák az égből hulló termékeny esőt jelképezik, a lábai körül elhelyezett vázák pedig a föld alatti vizes mélységet, amelyből az édesvíz a folyók és tavak táplálására tör.  
-> ![assets/GulaTwo_image3.png](/img/user/G/assets/GulaTwo_image3.png)  
-> ![assets/GulaTwo_image4.png](/img/user/G/assets/GulaTwo_image4.png)  
-> ![assets/GulaTwo_image5.png](/img/user/G/assets/GulaTwo_image5.png)  
+> ![assets/GulaTwo_image3.png|invert_dark](/img/user/G/assets/GulaTwo_image3.png)  
+> ![assets/GulaTwo_image4.png|invert_dark](/img/user/G/assets/GulaTwo_image4.png)  
+> ![assets/GulaTwo_image5.png|invert_dark](/img/user/G/assets/GulaTwo_image5.png)  
 > Szezonális csillagként a Nagy a folyók vízszintjének és a csapadékmennyiségnek a téli hónapokban bekövetkező emelkedését jelképezi. Mezőgazdasági kontextusban úgy is felfogható, mint az "öntöző", akinek vize a tél végén a virágzó árpaföldeket öntözi. Az árpaföldeket természetesen a csillagok között a szomszédos Mező csillagkép képviseli. A vázáiból kifolyó vízfolyások vizes jellegének hangsúlyozása érdekében gyakran apró halak képeivel díszítettek (lásd a 2. ábrát). Valójában az egyik ilyen hal a babiloni csillagtérképen a Halak néven ismert csillagképként szerepel - ez is átkerült a görög égboltra, mint a Déli Halak (Pisces Austrinus), ahol a Vízöntő váza kifolyása mentén úszkál.  
 > A babiloni művészetben a vízi utakat, például folyókat és patakokat hagyományosan hullámos vonalpárként ábrázolják, amelyekről úgy gondolják, hogy a folyó párhuzamos partjait jelképezik. Felismerhetően ugyanez a kép az ékírásos írásrendszerben A jelként (jobbra) fordul elő. Ez a jel önmagában egyszerűen a "vizet" jelenti, de számos vizes fogalmat kifejező összetételben is használatos, mint például folyó, árvíz, tenger és tó. Ennek a jelnek az alapformája alakult ki a Vízöntő modern jeleként használt, jól ismert cikk-cakkos szimbólummá. A vízi szimbolikát megtestesítő csillagképek közül sok máshoz hasonlóan a Nagy Vízöntő is szorosan kapcsolódik a bölcsesség és a víz istenéhez, akit sumérul [[E/Enki\|Enki]], akkádul pedig [[E/EA\|Ea]] néven ismertek. Egy asztrológiai szöveg egyszerűen azt állítja, hogy "a Nagy Egy a források ura, Ea". Az ősi művészetben Enkit általában túlcsorduló vázákkal a kezében vagy a trónja köré állítva ábrázolják, és néha egy négyzet alakú kerítésen belül ülve látható, amelyről úgy gondolják, hogy a mélységet jelképezi (lásd az 54. ábrát).  
-> ![assets/GulaTwo_image6.png](/img/user/G/assets/GulaTwo_image6.png)  
+> ![assets/GulaTwo_image6.png|invert_dark](/img/user/G/assets/GulaTwo_image6.png)  
 > 
 > A Vízöntő végső eredete egy olyan alakra vezethető vissza, akit gyakran Lahmu vagy "meztelen hős" néven emlegetnek. Először a 3. évezred eleji művészeti alkotásokban jelenik meg, ahol néha az "oroszlán-bika konfliktus" ábrázolásaiban tűnik fel (további részletekért lásd a Bözön-embert). Ezek a képek általában jóindulatú alaknak ábrázolják, aki megvédi a csordákat a vad oroszlánok támadásától. Kr. e. 2500-tól kezdődően a meztelen hős új kontextusokban kezd megjelenni. Először kapuőrként jelenik meg, aki stilizált ajtókat tart nyitva. De csak néhány évszázaddal később, az akkád korban kapcsolódik a víz istenéhez, Enkihez, és először vízhordozóként jelenik meg. A 2. évezred elejére az ikonográfiája a jól ismert, álló, túlcsorduló vázát tartó férfi alakjává vált (jobbra). Égi jellegének hangsúlyozására néha csillagok sorakoznak körülötte.
 > 
