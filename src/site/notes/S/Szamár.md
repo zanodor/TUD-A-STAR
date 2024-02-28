@@ -1,25 +1,7 @@
 ---
-title: Szamár
-foreignTitle: false
-aliases:
-  - szamár
-status: dg_uploaded
-tags:
-  - Englishtexttranslated
-share: true
-dg-publish: true
-dg-created: 2023-10-15T10:43
-dg-updated: 2024-02-15T02:06
-dg_upload_status: VNC done
-date created: 2023-06-29
-date modified: 2024-02-15T02:06
-ghrepoURL:
-  - github.com/zanodor/obsidian_tudastar/blob/7b070e193f40e5d23a2f818bf803593fb05aaed9/S/Szam%C3%A1r.md
-  - github.com/zanodor/TUDASTAR/blob/12e71176f7f0e3138e483799d57d853e1bed8a4e/S/Szam%C3%A1r.md
-  - github.com/zanodor/TUD1/blob/b900c58b922989f3c96bc06d69188591c2041c82/S/Szam%C3%A1r.md
-  - github.com/zanodor/TUD1/blob/4f2b6ad3bf691ce93d72ebf71f72fd0cd5c8eb69/S/Szam%C3%A1r.md
-  - github.com/zanodor/TUD1/blob/55304f835547540c63e0d98555288790464fd9e2/S/Szam%C3%A1r.md
+{"dg-publish":true,"permalink":"/S/Szamár/","title":"Szamár","tags":["Englishtexttranslated"],"created":"2023-10-15T10:43","updated":"2024-02-28T21:43"}
 ---
+
 
 # Szamár
 
@@ -118,7 +100,7 @@ Ugyanakkor mivel Szamár = Hunor = Orion, mely együtt értelmezendő a Nagy Kut
 
 > A "Szamár" nevet a késő antikvitás átmentette napjainkba. A csillagkép ekliptikához legközelebb eső két csillagát – a **zodiákuson a nappályával érintkező csillagok az igazán fontosak!** – ma is Északi és Déli Csacsinak hívják (Asellus Borealis, Asellus Australis).  
 
-Könyvének 175. oldalától JM külön foglalkozik a szamárral:  
+Könyvének 175. oldalától Jankovics Marcell külön foglalkozik a szamárral:  
 > Egyiptomon az óbirodalom idején egy [[I/Iker\|iker]]istenpár uralkodott, mint Felső- és Alsó-Egyiptomnak, az **emelkedő és a hanyatló Nap félesztendejé**nek ura \[Magaru és Hun nevei a két Egyiptomnak is ilyen égi tagolásra utalnak\], illetve az [[O/Orion\|Orion]] és a [[G/Göncöl\|Göncöl]] csillagzat képében mint a déli és az északi égbolt királya: Ozirisz és a szamárfülűnek mondott, máskor az "Ég Bikájának" nevezett [[S/Széth\|Széth]]. (Ábrázolásai az istent nem szamárfejűnek mutatják, hanem – Egyiptomban egyedülálló módon – fantázialénynek, amelynek a tapíréra emlékeztető rövid ormánya és hosszú, de a végén lekerekített vagy vágott füle van, s talán egy mára kihalt állat volt a modellje. A ma élő afrikai állatok közül leginkább a földi malacéra hasonlít a feje.)  
 - Itt álljunk meg egy pillanatra:  
 Nem tartozik össze [[S/Szíriusz és a Sarkcsillag\|Szíriusz és a Sarkcsillag]], ahogy gondoltam? De, csak az egyik ezek szerint dél, a másik észak.  
@@ -135,7 +117,7 @@ Szamár-Szumer kapcsolatról lásd még [[A/Ass\|ass]].
 
 ## Szamár és a kereszt
 
-Fentebb már JM soraiban kiemeltük ezt a részt.  
+Fentebb már Jankovics Marcell soraiban kiemeltük ezt a részt.  
 [[S/Széth\|Széth]] szamárral való azonosságát ismerjük (és [[J/Jahve\|Jahvé]]ét is mindkettővel; lásd ED adatát lejjebb). Azt is tudjuk, hogy Acharia S-től, hogy Széthet is keresztrefeszítették:  
 > The Egyptian God Set was "crucified" on a "cross" known as a [[F/Furka\|furka]].  
 > —  
@@ -143,7 +125,7 @@ Fentebb már JM soraiban kiemeltük ezt a részt.
 
 Fentebb volt szó a szamár hátán lévő kereszt alakú jelről is és egy Jézus keresztrefeszítését ábrázoló képen is ott volt a szamár.  
 Na most, milyen érdekes, hogy Rómában egy (Jézus keresztrefeszítésének bizonyítékául bemutatott?) rajzon szamarat látunk keresztrefeszítve. (Forrás: Wikipédia Crucifixion oldal.)  
-![assets/Szamár_image2.jpeg](/img/user/S/assets/Szam%C3%A1r_image2.jpeg)  
+![assets/Szamár_image2.jpeg|invert_dark](/img/user/S/assets/Szam%C3%A1r_image2.jpeg)  
 A szamarat "mint teherhordót" nem a világ bűneit magára vevő Krisztusként kell itt értelmezni, hanem mint évköri jelképállatot kell meglátni.  
 Tulajdonképpen a szamár azért is választatott a Rák váltóállatának, mert a kereszt a [[C/Colure\|colure]] címnél is taglalt napfordulós metszéspontra, keresztezésre utal.  
 
