@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szkíta nyelv/","title":"Szkíta nyelv","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-10T01:00","updated":"2024-02-07T01:40"}
+{"dg-publish":true,"permalink":"/S/Szkíta nyelv/","title":"Szkíta nyelv","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-10T01:00","updated":"2024-02-29T00:40"}
 ---
 
 
@@ -25,7 +25,7 @@ Götz László másutt írja:
 
 Götz László [[I/Indogermán nyelvészet\|indogermán nyelvészet]] címnél is kifejti, hogy egy indogermán kultúrprioritás azaz egy kultúrpolitikai folyamat áll a háttérben (melyről [[S/Szemiták és árják\|szemiták és árják]] címnél is ejtettünk szót); ellenben, ahogy lentebb látjuk és [[S/Sumér és akkád nyelvek\|sumér és akkád nyelvek]] címnél, külön alcímnél taglaltuk, az elszigetelt nyelvnek tartott sumér (szumer) nyelvből (nem beszélve a magyarról) is ki lehet indulni.  
 Még elöljáróban annyit, hogy Götz László olyan kritikát fogalmaz meg (nem először; lásd szótagolás témájában írottakat [[N/Nyelvészet mint tudomány\|nyelvészet mint tudomány]] címnél), mely kritikával magyar szófejtőink is illethetők, másrészt (a magát a [[S/Szkíta\|szkíta]] nevet is nyilvánvalóan tévesen lejegyző) [[H/Hérodotosz\|Hérodotosz]] adataiban vakon megbízik. Amit ír:  
-> A szkita nyelvből egy-két közszón kívül csak mitológiai és egyéb személyneveket ismerünk. Elsőrangú jelentősége van tehát ilyen körülmények között a Herodotos által feljegyzett néhány közszónak. Herodotos szerint az "[[A/Arimaszpa\|arimasp]]" népnév szkíta nyelven "egyszemű"-t jelent, mert a szkítáknál `arima` = "egy" és `szpu` = "szem". Az amazonok neve pedig a szkitáknál `oiorpata`, azaz "férfiölő", mert szkíta nyelven `oior` = "férfi" és "pata" = "ölni". Ezek az adatok, mint láthatjuk, teljesen egyértelműek, főleg pedig egykorúak. Mivel azonban az indoiráni nyelvekben csupán az `oior` = "férfi" szóra található megfelelő analógia, a zend és szanszkrit `viras` = "férfi", a többi háromra pedig még a legkörmönfontabb okoskodással sem lehet párhuzamot felhozni, az említett kutatók a "forráskritika" jól bevált módszeréhez folyamodtak és egyszerűen kijelentették, hogy Herodotos "bizonyára" félreértette a szkítákat, minélfogva közlése e szempontból értéktelen.
+> A szkita nyelvből egy-két közszón kívül csak mitológiai és egyéb személyneveket ismerünk. Elsőrangú jelentősége van tehát ilyen körülmények között a Herodotos által feljegyzett néhány közszónak. Herodotos szerint az "[[A/Arimaszpa\|arimasp]]" népnév szkíta nyelven "egyszemű"-t jelent, mert a szkítáknál `arima` = "egy" és `szpu` = "szem". Az amazonok neve pedig a szkitáknál `oiorpata`, azaz "férfiölő", mert szkíta nyelven `oior` = "férfi" és "pata" = "ölni". Ezek az adatok, mint láthatjuk, teljesen egyértelműek, főleg pedig egykorúak. Mivel azonban az indoiráni nyelvekben csupán az `oior` = "férfi" szóra található megfelelő analógia, a zend és szanszkrit `viras` = "férfi", a többi háromra pedig még a legkörmönfontabb okoskodással sem lehet párhuzamot felhozni, az említett kutatók a "forráskritika" jól bevált módszeréhez folyamodtak és egyszerűen kijelentették, hogy Herodotos "bizonyára" félreértette a szkítákat, minélfogva közlése e szempontból értéktelen.  
 > Figyeljünk már most jól erre a "bizonyára" szóra, mert a továbbiakban ismételten tapasztalhatjuk majd, hogy igen előkelő helyet foglal el az indogermán szemléletű történelemkutatás tudományos bizonyító apparátusában. Azaz közérthető nyelvre lefordítva: mivel Zeussék eleve feltételezték, hogy a szkíták indoirániak voltak, e hipotézisük érdekében az egyetlen, saját tapasztalatból merítő egykorú kútfőt egyszerűen értéktelennek nyilvánították. Hogy az ilyesféle eljárásnak a tudományos módszerességhez mennyi köze van, annak eldöntését nyugodtan az olvasóra bízhatjuk. Miután pedig a köreiket zavaró szem- és fültanút a fentemlített mondvacsinált érveléssel a lomtárba tették, így okoskodtak tovább: mivel az arímaszpok lótartó nomádok voltak (Aristeas hőskölteménye, az "Arimaspeia" szerint), nevük a zend és az óperzsa nyelv alapján vagy "airyama-açp" = "engedelmes lovú", vagy "airima-açp" = "a sivatag lovainak birtokosa".  
 - Márpedig ez az [[A/Asb\|asb]] = ló egyértelmű egyezés; lásd még [[A/Arimaszpa\|arimaszpa]].  
 
@@ -72,7 +72,7 @@ A szkíta ember eredetileg hun, ami magyar. Így eredendően a szkíta nyelv (me
 > Dárius Kr.e. 513-ban támadta meg Thrákiát, és ebben az évben támadta meg a szkítákat is. A Dáriusnak küldött üzenet jellegzetesen magyar nyelvű, ami döntő bizonyíték a szkíták magyar nyelvűségét illetően. A szkíták királyai követet küldtek a perzsákhoz, Dáriushoz. A követ ajándékot adott Dáriusnak, egy madarat, egy egeret, egy békát, és öt nyilat. A követ azt mondta, a perzsák, ha elég okosak, megfejthetik az ajándék értelmét.  
 > A perzsák tanácsot tartottak a követ távozása után. Dárius úgy vélekedett, hogy a szkíták meghódoltak előtte, de Gobrüasz perzsa főúr más véleményen volt. Gobrüasz így értelmezte az ajándékot: "Ha nem repültök el a levegőben, perzsák, mint a madarak, ha nem bújtok a föld alá, mint az egerek, ha nem ugráltok be a tavak vizébe, mint a békák, akkor sose tértek haza, mert ezek a nyílvesszők fúrnak át benneteket."  
 > Sem Dárius, sem Gobrüasz nem értelmezte helyesen a rejtvényt[^2], amit az ajándékba rejtettek a szkíta királyok. A perzsák a valóságban megfejtették az üzenet valódi mondanivalóját. Ezt onnan tudhatjuk, hogy a bekövetkező események pontosan úgy zajlanak, mint amit a rejtvény mond.  
-![assets/Szkítanyelv_image1.png|500](/img/user/S/assets/Szk%C3%ADtanyelv_image1.png)  
+![assets/Szkítanyelv_image1.png|invert_dark|500](/img/user/S/assets/Szk%C3%ADtanyelv_image1.png)  
 > Dárius embereinek ki kellett találni az üzenet mondanivalóját, amit ki is találtak. Onnan tudjuk, hogy azt cselekedték a perzsák, amit a szkíták üzentek. Nagyon fontos a küldemény sorrendje, mert segít az üzenet megértésében.  
 > A perzsák megfejtették az üzenetet, és elvonultak táborukból. Valakik tehát tudtak magyarul Dárius táborában.  
 
@@ -80,7 +80,7 @@ A szkíta ember eredetileg hun, ami magyar. Így eredendően a szkíta nyelv (me
 A fentieket [ezen](https://qr.ae/pvCvTx) Quora válaszba felírtam magyarul. A magyar szöveget nem ismételve ide is beteszem:  
 > It is rather Scythian Hunnic – not because Scythians precede Huns on the timeline (those timelines are very arbitrarily concocted) but because Scythian is less of an endonym and more of an adjective referring to the origin (of their souls) in the Skies. (Hunor by the way can refer to the same thing as Scytha.)  
 > And the origin is never linear and not to be taken reversely.  
-> 
+>
 > Darius received from the Scythian messenger gifts (one bird, one mouse, one frog and five arrows) which amounted to a coded message of the Scythians whom Darius prepared to march against.  
 > Applying Hungarian (Magyar) rebus alternatives for the Magyar translations of bird, mouse, frog, five and arrow (`madár`, `egér`, `béka`, `öt` and `nyíl`) we solve the message: Magyar (rebus for madár) promises (ígér) peace (same word as Magyar béke) and road (út) opens (nyíl) (for safe retreat).  
 > That Darius chose not to attack means that they also solved the message.  
@@ -106,7 +106,7 @@ A fentieket [ezen](https://qr.ae/pvCvTx) Quora válaszba felírtam magyarul. A m
 > —  
 > Inkább szkíta-hun – nem azért, mert a szkíták megelőzik a hunokat az idővonalon (ezek az idővonalak nagyon önkényesen vannak kitalálva), hanem mert a szkíta kevésbé egy endoníma, mint inkább egy melléknév, amely az égiek (lelkük) eredetére utal. (A Hunor egyébként ugyanarra utalhat, mint a szkíta).  
 > Az eredet pedig sosem lineáris, és nem fordítva értendő.  
-> \[Péterfai János szövege innen kivéve\]
+> \[Péterfai János szövege innen kivéve\]  
 > Dareiosz a szkíta hírnöktől ajándékokat kapott (egy madarat, egy egeret, egy békát és öt nyilat), amelyek a szkíták kódolt üzenetét jelentették, akik ellen Dareiosz vonulni készült.  
 > A madár, egér, béka, öt és nyíl magyar fordításaira magyar rébusz alternatívákat alkalmazva (`madár`, `egér`, `béka`, `öt` és `nyíl`) megfejtjük az üzenetet: Magyar (rébusza madár) békét ígér (ígér) (a [[P/Peace\|peace]] ugyanaz a szó, mint a magyar [[B/Béke\|béke]]) és utat (út) nyit (nyíl) (a biztonságos visszavonuláshoz).  
 > Az, hogy Dareiosz úgy döntött, hogy nem támad, azt jelenti, hogy ők is megoldották az üzenetet.  
@@ -116,15 +116,15 @@ A fentieket [ezen](https://qr.ae/pvCvTx) Quora válaszba felírtam magyarul. A m
 > Ez az alapja a magyarok mágikus nyelvének megértésének; így megérted a mágus szó eredetét is (ez a szó a kínaiban is fennmaradt).  
 > Az olyan homonimák megértése, mint a `nyíl` (`nyílás`, `lyuk` = az Istennő szeméremteste), a Nyilasban), `méh` (méh és az anyaméh is lehet a magyarban) és más szavak a legizgalmasabb dolgok közé tartoznak, amelyekkel valaha is találkozhatsz, amikor a régi asztro-teológiai gondolkodással foglalkozol.  
 > `Magyar` = `madár` = összekötő és hírvivő az ég (Isten) és a föld (ember) között. Nem csoda, hogy a Magyar név és változatai az egész világon megtalálhatóak. Nézd meg a legelőre kitűzött írásomat, ha többet szeretnél megtudni erről.  
-> 
+>
 > Ui.  
-> 
+>
 > Az irániak vagy perzsák is a szkíta-hunn-magyarok leszármazottai. Szubár/szumér-hurri-indo-iráni (szanszkrit) kapcsolatok vannak. De eredetileg a szkíták magyar nyelvűek voltak, amit az ógörög források és nyelv (olyan nevek, mint Zeusz, Apollón, Uránosz, stb.) is megerősítenek.  
 >
 > A jelenlegi helyzet a következő:  
 > A judaizáló rómaiak a sémitizált Bibliát arra használták, hogy a követőket korlátozott tudásszinten tartsák. Az új tudományos megközelítések megjelenésével a rómaiak utáni "indogermánok" elkezdték másolni a szemita/zsidó "kiválasztott nép" ideológiáját: mindennek, ami nem szemita eredetű (miközben valójában semmi sem szemita eredetű, még az uzsora sem), az indogermánoktól kellett származnia. Ez a kultúrprioritás álláspont még ma is érvényesül, ami az indo-irániaknak (akiknek a történelmét Cambridge-ben vagy hasonló műhelyekben írták) a felsőbbrendűség érzését adja vissza (visszaesés, mert a zsidó-germán "Übermensch" álláspont elsőbbséget élvez).  
 > Miközben a valóságban, ha a szkítákat és a sumér kultúrát kivesszük a germánok és a szemiták alól, akkor semmijük sincs. Mind a szkíták, mind a sumérok a szeretet és a béke dicsőségének éltek. Azok elpusztítói a történelem átírásával voltak elfoglalva, és a rehabilitáció útjában álló akadályok ugyanazok maradtak: az uzsorások, akik mindenkit a rabszolgájuknak akarnak.  
-> 
+>
 > A 19. században kialakult, általánosan elfogadott nézet szerint az indogermán vagy indoeurópai őshazát Közép-Ázsia és Türkmenisztán térségében helyezték el.  
 > E vélemény természetes következménye, hogy ebben a térségben csak indogermánok, a későbbi korszakok tekintetében pedig csak indoirániak élhettek. Így lettek a (jászok?) jüecsik, masszageták, szaka vagy szkíták, szarmaták stb. – a nem elszigetelt sumér és magyar nyelveket is bevonó alaposabb vizsgálat és az ahistorikus múltfelfogással való szakítás nélkül – indo-irániak.  
 > Bár az indoeurópai őshaza időközben átkerült Európába, ezek a sztyeppei népek hallgatólagosan indoirániak maradtak.  
@@ -195,7 +195,7 @@ Több helyen szerepelt, Bonfini adatával is, hogy a székelyeknek szkíta betű
 ---
 
 Lásd még [[S/Szaka#Szaka nyelv\|szaka nyelv]], [[A/Alán#Alán nyelv\|alán nyelv]], valamint [[H/Hettita#Hettita nyelv\|hettita nyelv]].  
-[[T/Tokár\|Tokhár]] nyelvről lásd ott.  
+[[T/Tokhár\|Tokhár]] nyelvről lásd ott.  
 
 ## Lábjegyzetek
 
