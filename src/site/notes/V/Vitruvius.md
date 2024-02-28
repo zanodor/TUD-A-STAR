@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/V/Vitruvius/","title":"Vitruvius","tags":["Englishtexttranslated"],"created":"2023-10-26T03:11","updated":"2024-02-02T02:46"}
+{"dg-publish":true,"permalink":"/V/Vitruvius/","title":"Vitruvius","tags":["Englishtexttranslated"],"created":"2023-10-26T03:11","updated":"2024-02-28T21:48"}
 ---
 
 
@@ -10,7 +10,7 @@ A világon mindenki által ismert jelkép a négy (öt) elemet és a [[K/Kereszt
 [[P/Pentagram\|Pentagram]] címnél pedig az alábbi Péterfai János adat szerepelt:  
 > Igen fontos az egyiptomi festményeken az ötágú csillagok szerepeltetése. Valójában embert jelentenek. Alul van a két láb, felül van a kitárt két kar, legfelül pedig a fejet jelképező csillagkar.  
 
-![assets/Vitruvius_image1.png](/img/user/V/assets/Vitruvius_image1.png)  
+![assets/Vitruvius_image1.png|invert_dark](/img/user/V/assets/Vitruvius_image1.png)  
 ![assets/Vitruvius_image2.png](/img/user/V/assets/Vitruvius_image2.png)  
 A forgás tengelyét egy szilárd pont, az ötödik égtáj alkotja, ami az ősi Kínában [[T/Taj-Ji\|Taiyi]], a Hatalmas Egy. Érdekes, hogy a Taiyi szó képe kiterjeszett karú, Da Vinci-féle pózban álló emberalakot ábrázol.  
 
