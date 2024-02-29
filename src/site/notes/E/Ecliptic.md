@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E/Ecliptic/","title":"Ecliptic","tags":["Englishtexttranslated"],"created":"2023-11-17T06:56","updated":"2024-02-28T17:39"}
+{"dg-publish":true,"permalink":"/E/Ecliptic/","title":"Ecliptic","tags":["Englishtexttranslated"],"created":"2023-11-17T06:56","updated":"2024-02-29T20:39"}
 ---
 
 
@@ -26,7 +26,7 @@ Angol magyarázat (internetről):
 #### Jankovics Marcell A Nap könyve...
 
 ...című könyvében található egy jó bevezető:  
-> A Napnak főleg olyan csillagokkal, csillagképekkel akad dolga, melyek az "útjában állnak". Az ember igen régóta tudja, hogy a Napnak és a többi planétának nagyjából azonos és áliandó az útvonala. Ehhez viszonyításul az ekliptika mögötti csillagok sora kínálkozott, rnelyekböl már csak a könnyebb megjegyezhetőség végett is csillagképeket alkotott az ember, így keletkezett az Állatöv (amelyből szerte a világon többféle is van).  
+> A Napnak főleg olyan csillagokkal, csillagképekkel akad dolga, melyek az "útjában állnak". Az ember igen régóta tudja, hogy a Napnak és a többi planétának nagyjából azonos és állandó az útvonala. Ehhez viszonyításul az ekliptika mögötti csillagok sora kínálkozott, melyekből már csak a könnyebb megjegyezhetőség végett is csillagképeket alkotott az ember, így keletkezett az Állatöv (amelyből szerte a világon többféle is van).  
 > Az Állatövvel rokon szerepe volt az ókori Egyiptomban a vele párhuzamos ún. dekáncsillag-képsornak. Egyiptomban az évet 36 10 napos hétre, dekádra osztották, ennek megfelelően az égen is 36 dekáncsillagzat, dekánisten sorakozott egymás után. Az egyes dékánok 10 napon át jelezték az éj egy-egy órájának a kezdetét, 10 nap eltelte után "az urak egyet jobbra léptek", minden óra más jelződekánt kapott, aszerint, ahogy a Nap csillagok előtti elmozdulásától függően más-más csillagcsoport tűnt föl napnyugtakor a keleti horizonton.  
 > A nappálya menti csillag(zat)ok között vannak feltűnőbbek, ráadásul olyanok, amelyek egy adott időszakban különösen fontos viszonyítási pontnak számítottak, mivel eltűnésük (Nappal való együttállásuk) vagy heliakus kelésük (amikor a Nap eltávolodásával ismét láthatóvá lesznek a hajnali égen) valamilyen jelentős, évről évre ismétlődő földi eseményt vagy naptári fordulatot jelezhet előre.  
 > Egyiptomban a [[S/Szíriusz heliakus kelése\|Szíriusz heliakus kelése]] a Nílus áradásának kezdetét jelezte. A várva várt eseményt méltó módon ünnepelték meg. Ez volt Egyiptomban az [[U/Újév\|újév]] napja (júl. 19.), amelyen Szíriusz és a Nap a nászát ülte. (Egyesülésük a Földről nézve a valóságban is végbemegy; a hajnali égen fölragyogó csillag fénye beleolvad a kelő Nap vakító sugaraiba.) Az eseményt elbeszélő mítoszt az ünnepen el is játszották. A denderai Hathor templomban Szíriuszt Hathor-Ízisz, a Napot Hórusz személyesítette meg. (A Nap és csillag vagy csillagzat együttállása nemcsak egyesülést, hanem azonosulást is jelenthetett, így lesz a Kos csillagkép a rajta áthaladó Nap fényében aranygyapjas kos, az Orion a feje fölé érkező Napnak köszönhetően naphérosz, a Tejutat keresztező Nap a világfán termő aranyalma.)  
