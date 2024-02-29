@@ -1,23 +1,8 @@
-/* Image blending -- apparently can be used with pipe character as well, not just hash, which wasn't good for Excalidraw images, as I stated [here](https://forum.obsidian.md/t/auto-adaptive-images-for-dark-light-theme/13494/7?u=gino_m) */
-
-/* The following is adjusted now for my modified Gruvbox theme. I first thought -- when consulting with ChatGPT -- that the light theme adjustment to achieve blending with background #f9f5d7 is impossible as it is not a shade of gray. In the end, I managed to put together a solution, which I fiddled with for long minutes but the text is not easily seen on these small resolution pics, no matter how I wanted to adjust contrast. */
-
 .theme-dark img[alt$="invert_dark"] {
   filter: invert(88%);
-  mix-blend-mode: screen;
-}
-
-.theme-light img[alt$="invert_light"] {
-  filter: invert(88%) sepia(80%) contrast(107%);
-  mix-blend-mode: screen;
-}
-
-/* Original solution for normal invert */
-/* .theme-dark img[alt$="invert_dark"] {
-  filter: invert(1);
-  mix-blend-mode: screen;
+  /* mix-blend-mode: screen;*/
 }
 
 .theme-light img[alt$="invert_light"] {
   filter: invert(1);
-} */
+}
