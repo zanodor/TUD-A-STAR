@@ -1,13 +1,52 @@
-body {
-    /***
-      ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+/***
+  ADD YOUR CUSTOM STYLING HERE. (OUTSIDE ANY SELECTOR.)
+  IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
+***/
+
+
+/*** Transcluded elements double blockquote fix. ***/
+
+.markdown-preview-view .markdown-embed-content .markdown-rendered blockquote {
+  margin-left: -60px;
+  padding-left: 12px;
+}
+
+.internal-embed .markdown-rendered blockquote {
+  margin-left: 0px;
+  padding-left: 20px;
+}
+
+
+/*** Mermaid diagram background changes to blend in with Gruvbox backgrounds. ***/
+
+/* For mermaid elements within callouts - Light Mode */
+.theme-light .markdown-preview-view pre.mermaid {
+  background: #fbf1c7 !important;
+  border-radius: 25px;
+  padding: 10px;
+  text-align: center;
+}
+
+/* For mermaid elements within callouts - Dark Mode */
+.theme-dark .markdown-preview-view pre.mermaid {
+  background: #1f1f1f !important;
+  border-radius: 25px;
+  padding: 10px;
+  text-align: center;
+}
+
+/* For standalone mermaid elements - Light Mode */
+.theme-light .mermaid {
+  background: #f9f5d7 !important;
+  border-radius: 25px;
+  padding: 10px;
+  text-align: center;
+}
+
+/* For standalone mermaid elements - Dark Mode */
+.theme-dark .mermaid {
+  background: #1f1f1f !important;
+  border-radius: 25px;
+  padding: 10px;
+  text-align: center;
 }
