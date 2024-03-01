@@ -4,7 +4,7 @@
 ***/
 
 
-/*** Transcluded elements double blockquote fix. ***/
+/*** Transcluded elements double blockquote fix ***/
 
 .markdown-preview-view .markdown-embed-content .markdown-rendered blockquote {
   margin-left: -60px;
@@ -17,11 +17,11 @@
 }
 
 
-/*** Mermaid diagram background changes to blend in with Gruvbox backgrounds. ***/
+/*** Mermaid diagram background changes to blend in with Gruvbox backgrounds ***/
 
 /* For mermaid elements within callouts - Light Mode */
 .theme-light .markdown-preview-view pre.mermaid {
-  background: #fbf1c7 !important;
+  background: #f9f5d7 !important;
   border-radius: 25px;
   padding: 10px;
   text-align: center;
