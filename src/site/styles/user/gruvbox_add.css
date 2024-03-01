@@ -1,8 +1,8 @@
 
 :root
 {
-    --dark0_x:          31,31,31; /* #282828 */
-    --light0_x:         171,168,154; /* #aba89a */
+    --dark0_x:          31,31,31; /* #1f1f1f dark theme primary background*/
+    --light0_x:         171,168,154; /* #aba89a text colour for dark theme*/
 }
 
 html,
@@ -14,7 +14,6 @@ body {
   --custom-font: "Norse";
   /* font-family: 'Norse'; */
 }
-
 
 /* Change inline code for dark mode */
 .theme-dark {
