@@ -1,8 +1,9 @@
 .theme-dark img[alt$="invert_dark"] {
-  filter: invert(88%);
-  /* mix-blend-mode: screen;*/
+  filter: invert(87.5%);
+  /* mix-blend-mode: screen; */
 }
 
 .theme-light img[alt$="invert_light"] {
-  filter: invert(1);
+  filter: invert(90%) sepia(44%) contrast(107%);
+  /* mix-blend-mode: screen; */
 }
