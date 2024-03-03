@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2024-02-23T15:40"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2024-03-03T22:48"}
 ---
 
 
@@ -230,7 +230,7 @@ A gyermeki gondolkodásra vall, hogy az iskolakerülő angol vagy amerikai falfi
 #### A gyereknyelvekről
 
 Korábban úgy gondoltam (némi külső befolyásolás hatására is), hogy a görög, germán népek neveiben szereplő ger, gör (lásd még angol [[G/Girl\|girl]], ami a német `kerl` párja) utalhatna arra, hogy a magyar ősnéphez képest ezek gyereknépek. A gyereknépek pedig gyereknyelven is beszélnek: lásd [[U/Utódnyelveink gyerekbeszéde\|utódnyelveink gyerekbeszéde]] címszót.  
-Azóta rájöttem, nem ezt jelentik a szóelemek (a [[G/Gyerek\|gyerek]] amúgy is [[C/Csillagvallás\|csillagvallás]]beli fogalom), viszont a nyelvészet maga is használja a [[L/Leánynyelv\|leánynyelv]] kifejezést.  
+Azóta rájöttem, nem ezt jelentik a szóelemek (a [[G/Gyerek\|gyerek]] amúgy is [[C/Csillagvallás\|csillagvallás]]beli fogalom), viszont a nyelvészet maga is használja a leánynyelv kifejezést.  
 Ezek a nyelvek segíthetnek a magyar ősműveltség feltárásában, pontosabb megértésében. A (több nyelv keveredéséből létrejött) angol nyelv útján ezen írás célja (legalábbis kezdetben) is ez.  
 
 #### Az angol szavak magyarból képzéséről ill. kialakulásának módjairól

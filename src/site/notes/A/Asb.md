@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2024-02-28T17:26"}
+{"dg-publish":true,"permalink":"/A/Asb/","title":"Asb","tags":["Englishtexttranslated"],"created":"2023-10-30T04:01","updated":"2024-03-03T22:31"}
 ---
 
 
@@ -74,7 +74,7 @@ Még a [[J/Jászol\|jászol]] szó is a jász népünk nevét látszik tartalmaz
 Szumma szummárum, Asz-Ba lehet Ősapa is, Nimród, akinek az ikrei valóban meglehetnek az Ikrekben. Péterfai János legfelső értelmezésében azt hiányoltam, hogy sem Nimrud-Orion ló(fasz) szerepe, sem a [[L/Ló\|ló]] és [[F/Fehérlófia\|Fehérlófia]] címnél taglalt ősvallási-csillagászati téma nem került kifejtésre.  
 A hunok azért sem szálltak le a lóról sosem, mert a Ló a Tejút állata és Nimródé is.  
 
-Úgy tűnik, hogy a [[S/Szpáhi\|szpáhi]] = lovas az Aszpa hangátvetett változataként tekintendő.  
+Úgy tűnik, hogy a `szpáhi` = lovas az Aszpa hangátvetett változataként tekintendő.  
 
 ## Lovas ember és lófejű ikrek – Nyilas-Ikrek tengely szembenállás
 
