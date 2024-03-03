@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C/Ciklusok/","title":"Ciklusok","created":"2024-02-11T14:35","updated":"2024-02-12T18:11"}
+{"dg-publish":true,"permalink":"/C/Ciklusok/","title":"Ciklusok","created":"2024-02-11T14:35","updated":"2024-03-03T15:20"}
 ---
 
 
@@ -22,7 +22,7 @@ Nappal kapcsolatos (nevét nem tudom) 33 évenkénti (for return to the same zod
 Mayák/aztékok 52 éves ciklusát lásd [[M/Maja naptár\|maja naptár]] és az Új Tűz ünnepet is érintően [[O/Ötvenkettő\|ötvenkettő]] (valamint [[P/Pleiadok\|Pleiadok]]).  
 [[E/Exeligmos\|Exeligmos]] (Saros ciklus 3-szorosa): 54 év 33 nap  
 Vénusz-ciklus: 64 év (Hammurabi uralkodási ideje kapcsán jött elő használata)  
-[[K/Kallipposz-ciklus\|Kallipposz-ciklus]] (3 Metón-ciklus): 76 év  
+Kallipposz-ciklus (3 Metón-ciklus): 76 év  
 (Halley-üstökös febukkanása szintén 76-77 évenként)  
 [[N/Nagy Húsvétciklus\|Nagy Húsvétciklus]] 19 x 28 = 532 év  
 [[B/Bolygóegyüttállások\|Bolygóegyüttállások]] ciklikusságát lásd ott. Ami onnan érdekes, a J-SZ 794 (800) éves és 2382 (2400) éves nagy ciklusok (utóbbi egy teljes ciklus).  
