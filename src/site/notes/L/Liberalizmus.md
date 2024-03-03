@@ -1,18 +1,7 @@
 ---
-title: Liberalizmus
-aliases:
-  - liberalizmus
-status: dg_uploaded
-tags:
-  - Englishtexttranslated
-share: true
-dg-publish: true
-dg-created: 2023-12-21T10:10:00
-dg-updated: 2023-12-23T08:18
-dg_upload_status: VNC done
-date created: 2022-12-14
-date modified: 2023-12-23
+{"dg-publish":true,"permalink":"/L/Liberalizmus/","title":"Liberalizmus","tags":["Englishtexttranslated"],"created":"2023-12-21T10:10:00","updated":"2024-03-04T00:25"}
 ---
+
 
 # Liberalizmus
 
@@ -24,10 +13,9 @@ date modified: 2023-12-23
 > Hatalomra jutásuktól a felvilágosodásig Európában a történelmi egyházak az élet minden területén rajta tartották a szemüket, még az intimszférán is. Ma már a liberalizmus regnál a nyugati világban. Túlhatalmát s annak csődjét az ezredvégi káosz jelzi minden területen: a gazdaságban, a kultúrában, az erkölcs (a "mentálhigiéné") és a jog területén. A szekták és a (hamis) próféták elszaporodása is az "idők jele". Ez – ahogy Fukuyama mondja – a történelem vége. \[Nem is akarják tanítani, de eddig sem rendesen tanították.\]  
 - Folytatást lásd még [[R/Rend és káosz\|rend és káosz]].  
 
-
 #### Drábik János írja:
 
-> A [[R/Rend\|rend]] harmóniája, a természet törvényei állnak szemben a rombolás, a pusztítás erőivel. A szabadsággal való visszaélés szabadságává degenerálódott az a liberalizmus, amely valamikor az emberi jogokat és a poltikai szabadságjogokat hirdette. Ma ez a degenerálódott liberalizmus anarchiát és káoszt akar. Identitásuktól megfosztott [[T/Tömegember\|tömegember]]ekkel, akiket viaszként gyúrhat bármilyenné. Ez a morbid és dekadens liberalizmus ma már nyíltan nihilista. A szervezett magánhatalom nem ismer el semmilyen szabályt, törvényt; az élet értelmetlenségét és a küzdelem hiábavalóságát hirdetik. Emberellenes. A halál kultúrája. Az erőszakot is egy másik erőszakkal akarja felszámolni. A bűnözővé vált liberalizmus az állam által alkalmazott törvényes erőszak helyébe a senki által nem ellenőrzött magánerőszakot erőltette az emberiségre.  
+> A [[R/Rend\|rend]] harmóniája, a természet törvényei állnak szemben a rombolás, a pusztítás erőivel. A szabadsággal való visszaélés szabadságává degenerálódott az a liberalizmus, amely valamikor az emberi jogokat és a poltikai szabadságjogokat hirdette. Ma ez a degenerálódott liberalizmus anarchiát és káoszt akar. Identitásuktól megfosztott tömegemberekkel, akiket viaszként gyúrhat bármilyenné. Ez a morbid és dekadens liberalizmus ma már nyíltan nihilista. A szervezett magánhatalom nem ismer el semmilyen szabályt, törvényt; az élet értelmetlenségét és a küzdelem hiábavalóságát hirdetik. Emberellenes. A halál kultúrája. Az erőszakot is egy másik erőszakkal akarja felszámolni. A bűnözővé vált liberalizmus az állam által alkalmazott törvényes erőszak helyébe a senki által nem ellenőrzött magánerőszakot erőltette az emberiségre.  
   
 
 Drábik János impromptu megfogalmazásában a klasszikus liberalizmus pozitív dolog, mert az a hangsúlyt a despota kollektív hatalommal szemben az egyéni szabadságra, az emberi jogokra és politikai szabadságjogokra helyezte. Mondhatta volna, hogy a szkíta-magyar vallás és erkölcs alapja a szabadság eszméje.  
