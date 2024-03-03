@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Méreg/","title":"Méreg","tags":["dg_uploaded"],"created":"2023-12-01T09:08","updated":"2023-12-01T09:08"}
+{"dg-publish":true,"permalink":"/M/Méreg/","title":"Méreg","created":"2023-12-01T09:08","updated":"2024-03-03T15:25"}
 ---
 
 
@@ -12,5 +12,4 @@ A méreg kis dózisban orvosság. A japán hit szerint kis mennyiségben a szell
 ...rejtélyes megjegyzése [[B/Bürök\|bürök]]nél:  
 > A méreg a Vörös Naphoz szállítja a lelket, vagyis megöli az embert.  
 
-Egyező alakú vele még [[M/Mirigy\|mirigy]].  
-Lásd még [[P/Poison\|poison]].  
+  
