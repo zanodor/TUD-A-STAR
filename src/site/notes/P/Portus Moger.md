@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/P/Portus Moger/","title":"Portus Moger","tags":["dg_uploaded"],"created":"2023-11-29T01:38","updated":"2023-11-29T01:38"}
+{"dg-publish":true,"permalink":"/P/Portus Moger/","title":"Portus Moger","created":"2023-11-29T01:38","updated":"2024-03-03T15:26"}
 ---
 
 
 # Portus Moger
 
 [[A/Anonymus\|Anonymus]] használja a kifejezést, a magyarok Dunán való áthaladása helyére (rév) értve (lásd Buda felett).  
-![assets/PortusMoger_image1.jpeg](/img/user/P/assets/PortusMoger_image1.jpeg)  
+![assets/PortusMoger_image1.jpeg|invert_dark](/img/user/P/assets/PortusMoger_image1.jpeg)  
 
 #### Bakk István és Bakk Erzsébet A Boldogasszony szigeti pálosok...  
 
