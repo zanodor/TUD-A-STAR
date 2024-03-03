@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","created":"2023-10-09T06:36","updated":"2024-02-02T02:38"}
+{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","created":"2023-10-09T06:36","updated":"2024-03-03T15:24"}
 ---
 
 
@@ -12,7 +12,7 @@ Bevezetést lásd [[E/Etymon\|etimon]] és [[M/Magyar nyelv – ősnyelv-e a mag
 ...című könyvében [[K/Kő\|kő]] szavunk kapcsán írja:  
 > Az igazi ősszavak mindig egytagúak, mivel egyszerű hangadásokból keletkeztek, és természetesen mindig olyan dolgokat neveznek meg, amelyeket már az ősember is ismert, vagyis olyanokat, amelyek a természetben fordulnak elő, mint például kő, főld, víz, fa, fú stb., stb. Mihelyt tehát valamely szó többtagú, akkor az csakis valamely egytagú ős-szó származéka lehet. Eszerint kétségtelen, hogy nemcsak a szláv `kamen`, hanem a finn `kive` = kő szó is a mi kő szavunk származéka.  
 - MA más írását lásd [[M/Magyar két-, három- és négy hangból álló istenségnevek\|magyar két-, három- és négy hangból álló istenségnevek]] címnél. MA elmélete szerint a főisten neve egymássalhangzós, a Napistené már kétmássalhangzós. <br/>
-Ha már kő, Baráth Tibor A magyar népek őstörténete I. kötetének 80. oldalán [[J/Jerikó\|Jerikó]] nevében mutatja ki a kő = föld alapszót és tesz utalást a magyar nyelv szavainak szótagnyelv-szerkezetére:  
+Ha már kő, Baráth Tibor A magyar népek őstörténete I. kötetének 80. oldalán Jerikó nevében mutatja ki a kő = föld alapszót és tesz utalást a magyar nyelv szavainak szótagnyelv-szerkezetére:  
 > Ezekben a földrajzi nevekben kétségen kívül ősrégi egytagú magyar szavak szerepelnek.  
 
 #### Péterfai János írása:  
