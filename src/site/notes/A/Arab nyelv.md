@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arab nyelv/","title":"Arab nyelv","created":"2023-11-18T09:37","updated":"2024-02-10T03:35"}
+{"dg-publish":true,"permalink":"/A/Arab nyelv/","title":"Arab nyelv","created":"2023-11-18T09:37","updated":"2024-03-03T23:02"}
 ---
 
 
@@ -38,7 +38,7 @@ Ha már szláv, a [[W/Wheel\|wheel]] és [[K/Kalács\|kalács]] címnél előjö
 Magyar [[Z/Zseb\|zseb]] szavunkkal azonos a bosnyák `dzsep` = zseb, melyet az arab `jayb` \[dzséjb\] szóra visznek vissza.  
 Az arab `dukān` = kis bolt nyilván olyan volt eredetileg, ahol [[D/Dochán\|dohány]]t árultak (hogy a perzsa `dochan` = füst lenne eredete, nos..., füstöt nem szoktak árulni).  
 Az iráni-kanadai YouTuber Bahador Alast bosnyák-arab szavakat hasonlító műsorából az arab `qafas` = ketrec lehet a mi [[H/Ház\|ház]] szavunk széthúzott változata (ahogy az [[A/Alcázar\|Alcázar]] is lehet [[K/KAS\|kas]]).  
-A `taawila` (asztal) = [[T/Table\|table]] = tábla azonosság rendben, de vajon az arabban friss jövevényszó?  
+A `taawila` (asztal) = table = tábla azonosság rendben, de vajon az arabban friss jövevényszó?  
 
 [[M/Mészáros\|Mészáros]] címnél azt láttuk, hogy tökéletesen egyező szavakat találunk az arab és indo-európai nyelvekben is.  
 Ha már itt tartunk, kaszabol szavunk gyökéből eredhetne az arab `qasāb` = hentes szó.  
