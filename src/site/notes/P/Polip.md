@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/P/Polip/","title":"Polip","created":"2023-11-18T09:05","updated":"2024-02-13T02:31"}
+{"dg-publish":true,"permalink":"/P/Polip/","title":"Polip","created":"2023-11-18T09:05","updated":"2024-03-03T15:26"}
 ---
 
 
@@ -28,5 +28,5 @@ Másutt:
 > Mivel pedig népünk szí, szívni igénket szíj, szijni-nek is ejti (például szíjja, kiszíja), mindebből az is következtethető, hogy miként a polip neve a besenyőknél szípó, szipon alakú szó volt, ugyanúgy a jászok-nál ez szijó, szijjon, szojon, szüjon alakú lehetett.  
 > Fölhozható itt, hogy a polip kőrös szócsoportbeli neve nem csak hal, kal avagy kál lehetett, amely szónak, amint láttuk, feketeség értelme is volt, hanem úgy lehet még karák is, amely szó a török `kara` = fekete szóval szintén egyezik, és amely szó létezettségére a német `Krake` = polip szó enged következtetni, annak ellenére is hogy ez már magánhangzó kihagyásos szó, de amely a közönséges `octopus`-polip német neve ma is.  
 
-Lásd még [[H/Hydro\|hydro]], [[N/Nautilusz\|Nautilusz]], [[N/Navel\|navel]], [[S/Sepia\|sepia]], [[O/Octopus\|octopus]] és [[H/Huszka József\|Huszka József]].  
+Lásd még [[H/Hydro\|hydro]], [[N/Nautilusz\|Nautilusz]], [[N/Navel\|navel]], [[S/Sepia\|sepia]] és [[H/Huszka József\|Huszka József]].  
   

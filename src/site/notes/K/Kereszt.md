@@ -76,9 +76,9 @@ Lásd [[L/LU\|LU]] illetve Tomory Zsuzsa írását [[S/Székely-magyar rovásír
 > A grafikonon összegzek néhány fontos megállapítást, melyek nélkülözhetetlenek lesznek a későbbiek során. (4. ábra)  
 > ![assets/Kereszt_image2.png|invert_dark](/img/user/K/assets/Kereszt_image2.png)  
 > Nevetségesen egyszerű ábra, de mégis mindennek az alfája, mert a világon az egyik legnagyobb hatalommal bíró szimbólumot rejti magában, mely a legnagyobb mértékben befolyásolta az emberiség történelmét, s ez pedig a kereszt. Ez a jelkép egyik világvallásunk hitrendszerének alapköve, alap emblémája, s mindamellett a magyar Szent Korona felülnézeti metszete is egyben.  
-- Folytatását lásd [[K/Kártya\|kártya]].  
+- Folytatást lásd [[K/Kártya\|kártya]].
 
-Varga Szilvia Ősi értékünk a szalonnai Napnak szentelt templom című Ősi Gyökér 2004/3. számában megjelent cikkében – forrása megjelölése nélkül – azt írja, hogy az egyenlő szárú keresztet, azaz a körkeresztet, mely \[Varga Géza adata szerint is\] a földrajztudományban a Föld jele, a régiek [[U/UDU\|UDU]]-nak, azaz **Időnek, időjelnek mondták**. Ahol az idő lényeges szerepet játszott az istenség vonatkozásában, ott mindenhol szerepelt.  
+Varga Szilvia Ősi értékünk a szalonnai Napnak szentelt templom című Ősi Gyökér 2004/3. számában megjelent cikkében – forrása megjelölése nélkül – azt írja, hogy az egyenlő szárú keresztet, azaz a körkeresztet, mely \[Varga Géza adata szerint is\] a földrajztudományban a Föld jele, a régiek [[U/UDU\|UDU]]-nak, azaz **időnek, időjelnek mondták**. Ahol az idő lényeges szerepet játszott az istenség vonatkozásában, ott mindenhol szerepelt.  
 Hogy erre sumér feljegyzés vagy magyar adat volt-e/van-e nem tudom, de az idő < üdő < udu-ból önkényesen is le lehet vezetni. Az már más kérdés, hogy [[U/UDU\|UDU]], amely ([[U/UTU\|UTU]] lágyulásaként) éppen Napnév, és tökéletesen megfelel az egyenlő szárú kereszttel kifejezett jelkép kívánalmainak.  
 Közben megállapításom szerint nem konkrétan a Föld jele, hanem úgy kell látni, hogy középen, a két tengely metszéspontjában van a Föld, a [[G/Geocentrikus világkép\|geocentrikus világkép]] szerint is. Lejjebb még tovább boncolgatjuk a témát.  
 Viszont arról több helyen lesz és volt szó, hogy a kereszt közepén [[J/Jézus\|Jézus]] vagy más értelmezésben Isten van. Úgy tűnik, ez is oka lehetett annak, hogy a [[N/Napvallás\|Napvallás]] idején a Nap átvette a főisten helyét: a körkereszt kettős értelmezési módjára gondolok. [[F/Five\|Five]] címnél is éppen arról szóltam, hogy az indo-európai ötöt jelentő szavak inkább a napistenre utalnak. A magyar [[O/Öt\|öt]] számot illetően nem egyértelmű, hogy Atyáról vagy Fiáról van szó. És hogy miért beszélek itt az öt számról? Mert [[N/Négy#Négy és az ötödik irány\|négy és az ötödik irány]] cím/alcímnél, valamint [[F/FU#FU mint a FŐ rendező elv, Isten, az ötödik neve\|FU mint a FŐ rendező elv, Isten, az ötödik neve]] cím/alcímnél megállapítottuk, hogy Isten az ötödik középen. Amit itt tehát korábban írtunk, mind helytálló.  
@@ -114,7 +114,7 @@ Az alábbiakban sok mindenről lesz szó, de a [[K/Kereszténység\|kereszténys
 > Magyar fényjelképünk az egyenlőszárú kereszt. Régente a(z avar őstörzseink) első tűzcsiholó szerszám(a): az egymáshoz dörzsölt két bot képének tartották. Fentiek szerint azonban e jelkép még sokkal ősibb tudathoz vezet: a fény terjedését, s annak egymásra merőleges voltát fejezi ki. \[...\]  
 > Őseink egyenlőszárú napkeresztje tehát ennek a keresztirányban terjedő fénynek volt a jelképe, majd ezen fényt számunkra közvetítő égitesté, a napé \[ahogy [[A/Arany\|arany]] címnél is szerepelt\]. Ősanyáink keresztszemes kézimunkái is azt a tudatot őrizték meg számunkra, hogy a világ világ. A világ fény. A fényszületés pillanatát rögzítették tehát anyagban (kézimunkában) kifejezve. Ez a kifejezési rendszer különösen erős a valahai avar-magyar birodalom területén máig is. Itt is tehát szerves kapcsolat áll fenn a tudat és jelkép között.  
 
-Aztán kitér a **nem egyenlő szárú kereszt**re (melyről egyébként KT azt mondja, hogy az [[A/Aranymetszés\|aranymetszés]] szabályszerűségét követi):  
+Aztán kitér a **nem egyenlő szárú kereszt**re (melyről egyébként Kubínyi Tamás azt mondja, hogy az [[A/Aranymetszés\|aranymetszés]] szabályszerűségét követi):  
 > A ma Jézus keresztfájával azonosított határszéli, útszéli keresztfa valaha a napból nyert, onnan pattant fényszikra jelképe volt, s a kereszténység előtt már sokezer évvel használták. L. A. Waddell Tas napistenséggel és feltámadással hozza kapcsolatba a keresztfát a kora trójai és kora sumir ábrázolásokon:  
 > L. A. Waddell, The Phoenician Origin of Britons, Scots and Anglo-Saxons, The Christian Book Club of America, Hawthorne California, 1924, 324. old. "True Cross in elongated form (which is seen in the Figure to spring from the rayed Sun), \[...\] it is significant that these early Trojan Sumerians prayed to God and to his angel-son Tas or Tasia, to resurrect them through the "Wood" Cross of which they figure the effigy or their amulets."  
 > —  
@@ -132,18 +132,19 @@ Bakos Attila A Duna Evangéliuma című könyvének 169. oldalán írja, hogy a 
 ![assets/Kereszt_image5.jpeg](/img/user/K/assets/Kereszt_image5.jpeg)  
 A [[B/Bal és jobb\|bal és jobb]] címnél is szereplő Altyn Tepe-i leleten bal oldalon kereszttel ábrázolt Napot találunk és a holdsarló van a jobbon (ezek után sem meglepő, hogy a [[N/Négy\|négy]] és Nap összefüggnek) (a Napot ábrázoló jelet [[N/Nap\|Nap]], valamint [[T/Test\|test]] és [[F/Figure\|figure]] címnél is bemutattuk).  
 
-![assets/Kereszt_image6.png](/img/user/K/assets/Kereszt_image6.png)  
+![assets/Kereszt_image6.png|invert_dark](/img/user/K/assets/Kereszt_image6.png)  
 [Ezen](https://youtu.be/veRiCjnJ_YQ) Jeruzsálem ősi neve című ÁKTV műsorban KT 1:47:50-től kezdi képeken is bemutatni a kereszt ilyen-olyan megjelentését, köztük an [[A/Ankh\|ankh]] címnél is taglalt kisze-bábut. A mellékelt kép [ezen](https://sirasok.blog.hu/2011/03/19/kocsi_a_hallstatt_kulturaban) nagyon profi blogról való (rengeteg más érdekes bejegyzés található ott; érdemes nézedődni ott). Az erdélyi, árokaljai bronzkerékről van szó, amit a Nemzeti Múzeumban őriznek. A körkereszt sok-sok formája közül egyik a [[T/Tatárlakai napvárta-korong\|tatárlakai agyagkorong]] (melyet amulettnek mond itt KT), a Szent [[K/Korona\|korona]], de akár egy húsvéti tojáson is megtaláljuk (hasonló képekért lásd [[V/Világmodell\|világmodell]]).  
 
-![assets/Kereszt_image7.jpeg](/img/user/K/assets/Kereszt_image7.jpeg)  
-![assets/Kereszt_image8.jpeg](/img/user/K/assets/Kereszt_image8.jpeg)  
+![assets/Kereszt_image7.jpeg|invert_dark](/img/user/K/assets/Kereszt_image7.jpeg)  
+![assets/Kereszt_image8.jpeg|invert_dark](/img/user/K/assets/Kereszt_image8.jpeg)  
 Molnár V. József Világ-Virág című könyvének 22-23. oldaláról való a mellékelt képi adatsor (az ő adatait ide-oda igyekszem besuvasztani; egyes adatai már más forrásokból [[V/Világmodell\|világmodell]] címnél szerepeltek). Sági Károly Árpád-kori varázslás régészeti emlékei című tanulmányában sok hasonló leletet mutat be amelyek hasonlóak (kereszt és más témából).  
 
 ![assets/Kereszt_image9.png](/img/user/K/assets/Kereszt_image9.png)  
-Molnár V. József Világ-Virág című könyvének 171. oldalán komi (zürjén) övmustrák képeit elemzi. Itt is megjelennek a keresztek és MVirág Kálmán kitér a második ábrán a Nap négy helyzetére is.  
+Molnár V. József Világ-Virág című könyvének 171. oldalán komi (zürjén) övmustrák képeit elemzi. Itt is megjelennek a keresztek és Virág Kálmán kitér a második ábrán a Nap négy helyzetére is.  
 
-#### Magyar Adorján Csodaszarvasában írja:  
+#### Magyar Adorján Csodaszarvas...  
 
+...című könyvében írja:  
 > Az avaroknál, akik tűztisztelők voltak, Barapa vagy Barisa Nap- és Tűzistennek és a tűznek jelképei ezen jelek voltak. Az egyenlőszárú kereszt a [[T/Tűz\|tűz]] jele volt, a körbe foglalt ilyen kereszt pedig a Napé, vagyis ez a Napban székelő tüzet is jelentette. Az avaroknál ezen kereszt azon két egymáshoz dörzsölt fadarab ábrázolása volt, amelynek segítségével az ősök a legrégibb időkben tüzet gyújtottak.  
 - Itt [[A/Agni\|Agni]] nevét és a latin `ignis` szót lehetne említeni.  
 
@@ -207,7 +208,7 @@ John M. Jenkins más, keresztes témáját [[G/Galactic centre\|Galactic centre]
 > A 2012-es téli napfogyatkozásnál, a déli Nap tökéletesen együtt áll majd a Nap és a galaktikus tér elliptikus útjának metszőpontjával, ami ugyanakkor közeli konjunkcióban lesz a galaxis központjával is.  
 > Jenkins továbbá kifejti, hogy ez az **óriási kozmikus kereszt** az időben szimbolizálja a Maya Életfát, amely a Maya Kozmológia magva.  
 
-![assets/Kereszt_image21.png](/img/user/K/assets/Kereszt_image21.png)  
+![assets/Kereszt_image21.png|invert_dark](/img/user/K/assets/Kereszt_image21.png)  
 Folytassuk a csatolt résszel Várkonyi Nándor Az elveszett Paradicsom című könyvéből. Kiegészítés:  
 [[T/Thor\|Thor]] kalapácsában Várkonyi Nándor a Tau jelet láttatja:  
 > Ha más földrészekre tekintünk, a germánoknál mint Thor pörölyét látjuk viszont, Amerikában a majáknál mint [[E/Életfa\|életfá]]t, az aztékoknál a tudás fájára emlékeztető ábrázolását: egy T alakú fa alatt férfi és nő áll, s eszik gyümölcseiből; a hasonlóság a Bibliával túlságosan nagy, lehet véletlen, de a fa keresztalakja aligha, s a képnek bizonyosan valaminő misztikus-mitikus értelme van. S hogy befejezzük a sort: Kenneth R.H. Mackenzie a szabadkőművességről írott "cyclopaediájában" közli, hogy a svasztika ([[S/Swastika\|swastika]]) "kalapács formájában máig él a Kőműves Testvériség" jelképei között.  
@@ -245,8 +246,8 @@ A [[G/Geocentrikus világkép\|geocentrikus világkép]] (ahonnan a képi anyag 
 Ilyen téridő keresztábrát ismerünk már a Kolumbusz előtti Amerikából is (lásd a közép-amerikai misték (mixtec) képeskönyvből származó ábrát elemzésével együtt [[F/Fa\|fa]] címnél).  
 
 Jankovics Marcell A Nap könyve című könyvében a Napvárosokról szólva mutatja be a Varga Géza által is említett egyiptomi település, falu hieroglifát, ami viszont nem körbe írt kereszt, hanem X alakot formáz:  
-![assets/Kereszt_image26.png](/img/user/K/assets/Kereszt_image26.png)  
-![assets/Kereszt_image27.png](/img/user/K/assets/Kereszt_image27.png)  
+![assets/Kereszt_image26.png|invert_dark](/img/user/K/assets/Kereszt_image26.png)  
+![assets/Kereszt_image27.png|invert_dark](/img/user/K/assets/Kereszt_image27.png)  
 Éppúgy, mint a mexikói Mexcaltitlan alaprajza – lásd csatolt képet.  
 A [[Q/Quarter\|quarter]] címnél írottak is ide illenek. Lásd másik csatolt képet.  
 
@@ -428,7 +429,7 @@ Az [alábbi](https://qr.ae/pNr19s) Quora oldalra érkezett válaszban erről a g
 A [[C/Cél\|cél]] tehát Isten elérése, aki az irracionális pontban, a kereszt két szárának metszéspontjában van, ahová nekünk is el kell jutni. (Czeglédi Katalin szerint a Jézus keresztfájának metszéspontja az élet kiinduló pontja; nos, az élet tengelye volt egyszer már a függőleges.)  
 A körbeírt kereszt régi jelkép. A hunok tehát amikor a nyilaikkal támadtak az ellenségekre, ugyanazon eszközt használták ellenük, mint ami a meditációs eszközük is volt. Ezért is terjedhetett el az [[I/Ikrek csillagkép\|Ikrek csillagkép]] címnél is taglalt [[A/Atilla hun király\|Atilla]] Isten ostora nézet: ő a hitetleneket akarta büntetni.  
 Így kell valahogy megérteni a [[T/Térd\|térd]] szavunkat, jelképiségét is. A [[T/Tárgy\|tárgy]] = célkereszt szóval azonos alakú térgy/térd hajlításának szokása az Isten előtti hódolat jeleként ugyanazt fejezi ki, mint a kereszt szimbólum a célbalövő meditálónak: a mindenség-szabású ember Istenben való elhelyezésének vagy az előtte való tisztelgésnek szóképi jelei és bizonyítékai ezek. Bizonyíték ez is a kereszténység magyar eredetére!  
-![assets/Kereszt_image30.jpeg](/img/user/K/assets/Kereszt_image30.jpeg)  
+![assets/Kereszt_image30.jpeg|invert_dark](/img/user/K/assets/Kereszt_image30.jpeg)  
 A jász-filiszteus (íjfeszítő turáni népekről szárnazó) kereszténység nem más, mint egy korábbi egyetemes fény-teológiai vallási rendszer (ős- vagy fénykereszténység) [[H/Halak korszak\|Halak korszak]]ra vetített/specializált instanciája. Ezt onnan is tudjuk, hogy az asztronómia-asztrológia tudománya (sokak szerint az első tudomány) időben megelőzi. A fentebb említett, egymásra merőleges élet és halál tengelyek asztrológiai tengelypárként a [[K/Kereszt – változó kereszt\|kereszt – változó kereszt]]et adják ki: az élet vagy teremtés [[N/Nyilas-Ikrek tengely\|Nyilas-Ikrek tengely]]ére merőleges [[S/Szűz-Halak tengely\|Szűz-Halak tengely]] a haláltengely.  
 
 A mellékelt kép a szöveggel Molnár V. József Világ-Virág című könyvének 7. oldaláról való. Megjegyzendő, hogy a háló és halál szavakat is említi. A halál kereszt-vonaláról, az élet függőleges vonalára merőleges vízszintesről ugye fentebb volt szó.  
@@ -456,13 +457,13 @@ Bakos Attila A Duna Evangéliuma című könyvének 228. oldalán az [[A/Ankh\|a
 [[S/Sothic\|Sothic]] címnél áll egy Robert Temple könyvéből vett dogon rajz, mely [[S/Szíriusz heliakus kelése\|Szíriusz heliakus kelésé]]t ábrázolná: a Napban egy X-kereszttel jelzett Szíriusz lenne rajzolva.  
 Az egyenlőszárú keresztről lásd még [[S/Suhurmasku\|Suhurmasku]] címnél Huszka József és Bobula Ida anyagát.  
 
-![assets/Kereszt_image34.png](/img/user/K/assets/Kereszt_image34.png)  
+![assets/Kereszt_image34.png|invert_dark](/img/user/K/assets/Kereszt_image34.png)  
 Egy internetes cikkben a sumér egyenlőszárú, egymásba bújtatott két kereszt egyszerűen (innen) kettőskereszt nevű.  
 
 Mivel a magyar szavaknak, jelképeknek többletjelentésük van, felvetődik, hogy a kereszt nem csak a kör-oszt fogalmat takarja, hanem utal tehát égi (bolygó)pályák keresztezésére (metszéspontjára) is, sőt, - ahogy a mai modern nyelvünkben is használjuk - ~~utalhat a [[F/Fajok\|fajok]] keresztezésérére is.~~  
 Már [[H/Hunor és Magor\|Hunor és Magor]] címnél (szereplő képeket lásd) írottaknál felmerült, hogy ezekkel az infókkal csínján kell bánni, mindenesetre kétségtelen, hogy a sumér ábrázolásokon feltűnő kereszt utalhat arra az égitestre, ami a Hunokhoz, Napjukhoz, Naprendszerük égitestjéhez köthető: ~~nevezzük [[N/Nibiru\|Nibiru]]nak~~. (Amely címnél bőven taglaljuk a keresztezés ideáját, de alant is szerepel immáron.)  
 Orosz Zsolt Az Emberiség története című interneten közölt írásának tartalmával és [[S/Sitchin, Zecharia\|Sitchin, Zecharia]] értelmezéseivel kapcsolatosan is rengeteg fenntartással kell lennünk, de némely adatok újraértelmezésével közelebb kerülhetünk az igazsághoz. Az alábbiakban lásd csatolva a sumér kereszt-jeleket, melyek égitestre utalhatnak.  
-![assets/Kereszt_image35.png](/img/user/K/assets/Kereszt_image35.png)  
+![assets/Kereszt_image35.png|invert_dark](/img/user/K/assets/Kereszt_image35.png)  
 A fentebb közölt kép adatai szerint viszont az egyenlő szárú kereszt pusztán Nap-szerű égitestre utal, illetve magára a Napra (a Nap relatív mozgása határozza meg a [[N/Négy\|négy]] égtájat is, ne feledjük). A kereszt használata [[N/Nibiru\|Nibiru]]ra egyelőre értelmezhetetlen, sőt[^17]. Azt is meg kell engedni, hogy a James Hall szimbólumtárában (nem) szereplő adatok mindegyikét nem lehet majd fenntartás nélkül elfogadni (hiszen nyelvészeti-szimbolikus kérdésekben ő is ki van szolgáltatva a nyelvészeknek, akik ha nem magyar úton kezelik az egyes elnevezéseket, félreértelmezésekkel rukkolnak elő). \[Nem tudom, milyen James Hall féle, talán Orosz Zsolt által bemutatott adatokra gondoltam korábban itt.\]  
 Még itt a Nibirunál maradva, [[N/Nibiru\|Nibiru]] címnél is volt szó arról, hogy a héber és a Nibiru név is szinte azonos átkelni jelentésű igékre vitetett vissza (akkád `eberu` és héber `ibri`/`ivri`). Na most, ha megnézzük, az angolban az átkelni értelemre a keresztezni jelentésű `cross` igét használja, mely főnévként kereszt értelmű ugye. Azaz itt valóban égi pályák keresztezéséről, áthaladásról (átvágásról, mint amilyen csillagászati értelmet a [[C/Csata\|csata]] szavunk is kifejez) van szó. Az ige értelem persze hozzákapcsolt értelem a sémiben. Az eredeti értelem a (magyar-sumer kiindulású) főnévé (mindig). [[N/Nibiru\|Nibiru]] és [[O/Orion\|Orion]] címnél már volt szó a témáról, hogy milyen metszéspontot jelenthet, de itt csak emlékeztetnék...
 

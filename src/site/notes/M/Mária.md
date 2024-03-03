@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2024-02-28T21:32"}
+{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2024-03-03T15:25"}
 ---
 
 
@@ -276,7 +276,7 @@ Cikkének harmadik fejezetében Mária életének 7 állomása, a hét Boldogass
 
 ## Mária eljegyzése/menyegzője
 
-Napja [[J/Január 23\|január 23]]. Lásd Molnár V. József írását ott.  
+Napja január 23.   
 
 ## Mária Boldogasszonnyal való megfeleltetése
 

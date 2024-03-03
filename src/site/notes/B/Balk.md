@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Balk/","title":"Balk","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-11-09T07:00","updated":"2024-03-01T18:43"}
+{"dg-publish":true,"permalink":"/B/Balk/","title":"Balk","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-11-09T07:00","updated":"2024-03-03T15:20"}
 ---
 
 
@@ -26,45 +26,3 @@ Nos, valójában a [[B/Balog\|Balog]] címnél taglalt *balog*fa is megfelelne. 
 Götz László Keleten kél a Nap című könyvének 191. oldalán előjön a német `balken` = gerenda, melyet szó szerint "hasított"-nak értelmez Götz, miután a [[B/Balog\|Balog]] és [[P/Plow\|plow]] címnél taglalt szavakkal veti őket össze.  
 Viszont itt sem utólagosan készült igékből kell kiindulni.  
 A kiindulópont [[B/Bál\|Bál]] és a tiszteletére emelt kőoszlop fogalma mely [[P/Pole#Pole 2)\|pole]] = tengely is lehet.  
-
-```mermaid
-flowchart LR
-A["<b>Word1</b>"] -- L>R váltás --> B(Word2)
-```
-
-```mermaid
-flowchart LR
-A["Altaj"] --- B["Balta"] & C["Csalfa"] --- D["Delta"]
-```
-
-
-```mermaid
-flowchart LR
-A["<b>Word1</b>"] -- L>R váltás --> B(Word2)
-B --> C[IE korú gyök]
-C --H>Wh változás --> D[Word3]
-C -- Más változás --> E[Word4]
-C -- Más változás --> F[Word5]
-```
-
-```mermaid
-flowchart TD
-node_18d5d0yhs["<b>K-T (H-T)</b>"] --> node-aydf65qm9("kutya") & node-0ruok7bk9("Word3")
-node_18d5d0yhs -- See --> node_ormp67idb("hattyú")
-node-aydf65qm9 --> node_pvfw5gh9f("Word1") & node-0ruok7bk9
-style node_18d5d0yhs stroke-width:2px,stroke-dasharray: 0
-```
-	
-```mermaid
-flowchart
-subgraph " "
-A["<b>ETYMON</b>"] --> B(Word1)
-B -- "megváltozása ezért történhetett (zárójelet double-quote-tal használhatsz)" --> D(Word2)
-B -- talán ezért történt volna --> E(Word3)
-B -- nem tudom, hogyan lett így --> F(Word4)
-end
-%%To not give a title, use space; empty string threw error
-subgraph "  "
-F --> G(Word5)
-end
-```

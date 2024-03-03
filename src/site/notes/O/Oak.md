@@ -54,7 +54,7 @@ Ugyanakkor szóba hozható még az Magyar Adorján által említett [[O/ÓG\|ÓG
 Nem Sarkcsillagot, de Medvét említ Richard H. Allen Star Names című könyvében, kinek forrása, Lockyer szerint, **Āk** = Szem nevű a [[U/Ursa Maior\|Nagy Medve csillagkép]] alfája, [[D/Dubhe\|Dubhe]]. Nem írja, milyen nyelven, de ÓK/ÓG szem jelentésével egyező. Péterfai János adata szerint az udmurt és komi `oh` = medve. Ez stimmel is. Nem vehette észre a csillagászati értelmet.
 
 Párhuzamát is megtaláljuk a szónak:  
-Richard H. Allen Star Names című könyvében írja, hogy az észak-amerikai bennszülött [[I/Indián\|indián]]ok hagyományaiban [[U/Ursa Maior\|Ursa Maior]] neve **Ok**uari és Paukunawa: mely nevek jelentése szintén medve. Ezen adat [[I/Isten\|Isten]] címnél is szerepelt.  
+Richard H. Allen Star Names című könyvében írja, hogy az észak-amerikai bennszülött indiánok hagyományaiban [[U/Ursa Maior\|Ursa Maior]] neve **Ok**uari és Paukunawa: mely nevek jelentése szintén medve. Ezen adat [[I/Isten\|Isten]] címnél is szerepelt.  
 
 A Nagy Medvénél maradva, az ősi csillagkép-istent benne kereső...
 
