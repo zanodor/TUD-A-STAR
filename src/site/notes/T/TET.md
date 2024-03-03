@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/T/TET/","title":"TET","created":"2024-03-04T00:13","updated":"2024-03-04T00:13"}
+{"dg-publish":true,"permalink":"/T/TET/","title":"TET","tags":["titleandheadingonedontmatch"],"created":"2024-03-04T00:13","updated":"2024-03-04T00:15"}
 ---
 
 
-# TET
+# TET, tető
 
 #### Péterfai János írja:
 
