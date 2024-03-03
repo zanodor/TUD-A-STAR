@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Arpakshad/","title":"Arpakshad","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-10-04T02:46","updated":"2023-11-10T06:34"}
+{"dg-publish":true,"permalink":"/A/Arpakshad/","title":"Arpakshad","tags":["Englishtexttranslated"],"created":"2023-10-04T02:46","updated":"2024-03-03T15:20"}
 ---
 
 
@@ -15,7 +15,7 @@
 ...honlapjának [ezen](http://www.imninalu.net/Habiru.htm) oldalán szereplő nemzetségtáblán valóban szerepel az Arpaksád név. Lásd képet [[H/Habiru\|Habiru]].  
 A Hargita Csaba Ferenc közreműködésével készült A magyarok őstörténete – a magyar-héber kapcsolat című dolgozat 20. oldalától taglalja még Arpaksádot:  
 > Arpakhsád Sém fia volt, Assúr testvére és a héberek őse a Biblia szerint: ʺSzülettek gyermekei Sémnek is, aki Héber összes fiainak ősatyja... Sém fiai: Élám, Assúr, Arpakhsád, Lúd és Arám... Sém százéves volt, amikor Arpaksad apja lett, két évvel az özönvíz utánʺ (Teremtés 10:21,22; 11:10). Ábrahám e rejtélyes őse nevének a megfejtésére számos magyarázat született: ősatya lévén tőle, ahogy a többi testvérétől is nép kell, hogy származzon.  
-- A folytatást kihagyom, mert a szerző szerint is [[J/Josephus Flavius\|Josephus Flavius]] etimológiai levezetése és más gondolatai is helytelenek.  
+- A folytatást kihagyom, mert a szerző szerint is Josephus Flavius etimológiai levezetése és más gondolatai is helytelenek.  
 
 Az [alábbi](https://en.m.wikipedia.org/wiki/Chaldea) oldalon érdekes a Josephus Flavius-tól való adat:  
 > Jewish historian Flavius Josephus links Arphaxad and Chaldaea, in his Antiquities of the Jews, stating, "Arphaxad named the Arphaxadites, who are now called Chaldeans."  
