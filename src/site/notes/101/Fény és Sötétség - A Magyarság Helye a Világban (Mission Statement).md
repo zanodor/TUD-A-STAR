@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2024-03-03T22:48"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2024-03-04T16:31"}
 ---
 
 
@@ -238,24 +238,26 @@ Ezek a nyelvek segíthetnek a magyar ősműveltség feltárásában, pontosabb m
 "Az ősi magyar szókincs és szóalkotói gondolkodásmód könnyen feltárható lenne a régi s mai "nagy" nyelvekből, lévén hogy az ómagyar leágazása mind s jelentős ősi részleteket őriznek még az egykori közös nyelvből." – Varga Csaba  
 "Az angol nyelvben az elővetéses beszédmód megszilárdult, hangtana viszont az átalakulás szülési fájdalmait hordozza magán még mindig, s – többek között ez is – hozzájárul az angol nyelvterületen élők nagyfokú analfabetizmusához." – Tomory Zsuzsa  
 
-A) A szavak a szóvázat képező mássalhangzók módosulása nélkül jönnek létre, kisebb magánhangzó-változások ellenére szinte megegyeznek, természetesen értelmileg is. Például [[B/BOT\|bot]] - [[B/BAT\|bat]], [[B/Baba\|baba]] - babe stb. Ebből a csoportból gyűjt főleg VCs és TZs.  
+A) A szavak a szóvázat képező mássalhangzók módosulása nélkül jönnek létre, kisebb magánhangzó-változások ellenére szinte megegyeznek, természetesen értelmileg is. Például [[B/BOT\|bot]] – [[B/BAT\|bat]], [[B/Baba\|baba]] – babe stb. Ebből a csoportból gyűjt főleg Varga és Tomory.  
 
-B₁) Szavak szintjén csoporton belüli (például V-B-P, T-D, K-G, stb.) természetes mássalhangzó-változással. Például [[B/Bú\|bú]] → woe, [[G/Gyors\|gyors]] → [[H/Horse\|horse]] (ló). Ebből a csoportból gyűjt VCs és TZs.  
+B₁) Szavak szintjén csoporton belüli (például V-B-P, T-D, K-G, stb.) természetes mássalhangzó-változással. Például [[B/Bú\|bú]] → woe, [[G/Gyors\|gyors]] → [[H/Horse\|horse]] (ló). Ebből a csoportból gyűjt Varga és Tomory.  
 
-B₂) Szavakon belüli szinten, a szavak mássalhangzó-torlódással, szógyorsulással, ill. mássalhangzó-betoldással vagy msh-kikopással változnak. Például [[S/Sárkány\|sárkány]] → [[D/Dragon\|dragon]], rongy → [[W/Wrong\|wrong]] (ha igaz). Ebből a csoportból gyűjt VCs és TZs.  
+B₂) Szavakon belüli szinten, a szavak mássalhangzó-torlódással, szógyorsulással, ill. mássalhangzó-betoldással vagy msh-kikopással változnak. Például [[S/Sárkány\|sárkány]] → [[D/Dragon\|dragon]], rongy → [[W/Wrong\|wrong]] (ha igaz). Ebből a csoportból gyűjt Varga és Tomory.  
 
 C) Magyar nyelvben ma már/sohasem(?) használt, de magyar nyelvű etimonokból álló, "magyarnak tekinthető, csillagvallás/tündér" szavak: például [[B/Bury\|bury]] = eltemet, [[F/Fairy\|fairy]] = tündér. (A B-R, F-R, P-R és hasonló bázisú szavak esetében MA avar szócsoportba illő szavai.)  
-Péterfai János István etimonjaiból a szavak rekonstruálhatók. Ebből a csoportból gyűjt PJI.  
+Péterfai János István etimonjaiból a szavak rekonstruálhatók. Ebből a csoportból gyűjt Péterfai.  
 
 D₁) Mondatrész-osztályokon áthatoló, azonos fogalmi körön belüli szavak például külalak, minőség, eszköz, cél, stb. kifejezésére (természeti megfigyelések útján) válhatnak főnévből igévé, főnévből melléknévvé, határozóból igévé, stb. A legtöbb, legérdekesebb előfordulásokat produkáló szavak csoportja.  
 Például [[D/Derű\|derű]] → [[T/True\|true]] (igaz), (sír)domb → [[D/Dumb\|dumb]] (süket), bont → [[B/Bone\|bone]] (csont). Ebből az önkényesen felállított(?) csoportból ritkán gyűjt VCs, TZs és PJI.  
 D₂) Összetartozó kifejezések, szószerkezetek, ún. idiómák szintjén: nem a megfelelő szót/értelmet viszi tovább. Ebből a csoportból nem gyűjt szinte senki. Például (persze ezek korántsem biztos, hogy így is jöttek létre, de [[N/Nyelvészet mint tudomány#Nyelvek keveredéséből létrejött nyelvek – pidginizáció\|pidginizációs]] folyamatok feltárásában segíthet):  
+• [[M/Magyar\|Magyar]] istenanya (Tejútanya) → arab Al Madzsarrah Tejút és IE [[M/Mater\|mater]] = anya.
+• [[L/Láng\|Láng]] → lángnyelv → fr. `langue`, ang. [[L/Language\|language]] = nyelv.  
 • "Vastag derék" → Derék helyett vastag szavunk került volna használatba, a jelző maga, nem a jelzett szó, így [[W/Waist\|waist]] = derék.  
 • "Tésztát dagaszt" → Tészta helyett dagad(ó)/dagaszt szavunkat viszi az angol [[D/Dough\|dough]] = tészta, azaz inkább "dagadó".  
 • "Én kér-ek" → Add/hozd ide (kér > angol [[H/Here\|here]], japán `kure`). (Az egyszerű logikai kapcsolat feltárása nélkül germán és japán nyelvi/idiomatikus sajátosság maradna. Arról már ne is szóljunk, hogy a [[Q/Query\|query]] és más szavakban is megvan a mi őseredeti szavunk.)  
   
 • "A fény (mindig) győzedelmeskedik (a sötétség felett)." → Fény szavunkból ered az angol [[W/Win\|win]] és elődei.  
-• "Négy sarka a világnak" → Négy szavunk vitetik át sarok, ék és hasonló jelentésekkel (lásd [[N/Nock\|nock]], [[N/Nog\|nog]] és [[N/Nook\|nook]]). Az is lehet, hogy a nyugati sarokról van szó, persze.  
+• "Négy sarka a világnak" → [[N/Négy\|Négy]] szavunk vitetik át sarok, ék és hasonló jelentésekkel (lásd [[N/Nock\|nock]], [[N/Nog\|nog]] és [[N/Nook\|nook]]). Az is lehet, hogy a nyugati sarokról van szó, persze.  
 Ezeket metonimikus összefüggésnek mondja Zaicz Gábor; lásd például a [[G/Grabanc\|grabanc]] szónál írottakat.  
 
 #### Az indo-európai népekről, nyelvekről, ősökről, hősökről, ideológiáról
@@ -269,7 +271,7 @@ Még egy dolog a szanszkrit nyelvről: [[M/Müller, Max\|Max Müller]] nagy hód
 
 > Indoeurópai népek nincsenek, nyelvük sincsen. Kizárólag magyar utódnépek vannak, amelyeket indoeurópainak neveznek egy olyan szóval, amely a földrajzi elterjedést igyekszik leírni. Ebből is következik, hogy sem indoeurópai nyelvek, sem indoeurópai ősök nem léteznek, hanem kizárólag magyar ősi nyelvek és nyelvjárások és magyar ősök. Indoeurópai nyelvcsalád természetesen nincs, mert minden ága a magyar nyelvből fejlődött ki. A látszólagos hasonlóságok magyar nyelvi jellegzetességek, a szókincs hasonlósága a magyar szókincsből ered. Nincs egyetlen indoeurópai nyelvi ág sem, amelyik nem lenne levezethető a magyar nyelvből. A magyar ősvallás az indoeurópai vallások \[elődje és\] eredője.  
 
-Az indo-európai megállapított gyökök alatt listázott különböző nyelvekben valamiféle módon hasonló értelmekkel álló szavakat, ha egy értelmes, logikusan gondolkodó ember – még ha nyelvészeti antitálentum is – végignézi, elképed. Egy érdekesség például indo-európai \*kel gyök egyszerre jelent hideget és meleget is! Az ilyen ellentétes értelmű gyökök számos esetben előfordulnak (elég például magyar seny-ved, szenny, és szent szavakat, a [[W/Wan\|wan]] szó óangol `wann` elődjét – mely egyszerre fényes és sötét – nézni (nyilván [[F/Fény\|fény]]/vén és a [[H/Huny\|huny]] szavak hasonlósága okozta a zavart), vagy a leginkább érdekes, két értelmű, fentebb említett kar, továbbá sár, szar, szár szavakat nézni). Ilyen alapon mondható, hogy a buddhizmusra jellemző, kozmikus gondolkodáson alapuló szimbólumok, paradoxonok mélyen gyökereznek a magyar nyelvben és ha az indo-európai nyelvészet az összefüggéseket nem tárja fel, nekünk mindez hasznos.  
+Az indo-európai megállapított gyökök alatt listázott különböző nyelvekben valamiféle módon hasonló értelmekkel álló szavakat, ha egy értelmes, logikusan gondolkodó ember – még ha nyelvészeti antitalentum is – végignézi, elképed. Egy érdekesség például indo-európai \*kel gyök egyszerre jelent hideget és meleget is! Az ilyen ellentétes értelmű gyökök számos esetben előfordulnak (elég például magyar seny-ved, szenny, és szent szavakat, a [[W/Wan\|wan]] szó óangol `wann` elődjét – mely egyszerre fényes és sötét – nézni (nyilván [[F/Fény\|fény]]/vén és a [[H/Huny\|huny]] szavak hasonlósága okozta a zavart), vagy a leginkább érdekes, két értelmű, fentebb említett kar, továbbá sár, szar, szár szavakat nézni). Ilyen alapon mondható, hogy a buddhizmusra jellemző, kozmikus gondolkodáson alapuló szimbólumok, paradoxonok mélyen gyökereznek a magyar nyelvben és ha az indo-európai nyelvészet az összefüggéseket nem tárja fel, nekünk mindez hasznos.  
 
 Egy PAESZ táblázatban a latin-angol colour-t az elfedni jelentésű indo-európai \*kel gyöknél szerepeltetik(de ezen logikai alapon nyugvó besorolást ez esetben sem – ahogy számos más esetben sem – lehet fenntartás nélkül elfogadni. Ha jól emlékszem magam évekkel ezelőtt 6-8 lehetséges származtatását adtam a latin-angol [[C/Colour\|colour]]-nak.  
 
