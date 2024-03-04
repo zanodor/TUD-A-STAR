@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Álmos/","title":"Álmos","created":"2023-10-11T04:38","updated":"2024-02-28T17:28"}
+{"dg-publish":true,"permalink":"/A/Álmos/","title":"Álmos","created":"2023-10-11T04:38","updated":"2024-03-04T18:03"}
 ---
 
 
@@ -16,7 +16,7 @@
 > Tehát Ál-Mos, ha az "álmos" szót vesszük alapul, akkor egyfajta táltos is volt, aki az álmok földjén is kiigazodott. Egyszerre volt uralkodó, és papkirály, neve szerint.  
 
 Az [alábbi](https://youtu.be/GNA9-pOTuyA) A mindenséggel mérd magad 16/4. című Szántai Lajos előadásban 52:55-nél szól arról, hogy felolvasott forrása alapján Álmos neve onnan ered, hogy születését álom jelezte előre. Viszont itt megemlíti a könyvet olvasva, hogy latinul `almus` = szent jelentésű...  
-Az [alábbi](https://youtu.be/FJ-ohuCS9Rw) ÁKTV műsorban KT 1:51:46-nál az Anonymous-nál előforduló Almus név kapcsán olvassa fel a képileg mellékelt szöveget.  
+Az [alábbi](https://youtu.be/FJ-ohuCS9Rw) ÁKTV műsorban Kubínyi Tamás 1:51:46-nál az Anonymous-nál előforduló Almus név kapcsán olvassa fel a képileg mellékelt szöveget.  
 ![assets/Álmos_image1.jpeg|invert_light](/img/user/A/assets/%C3%81lmos_image1.jpeg)  
 Igen ám, de valójában nem ez az eredeti értelme, hiszen a latin `almus` = tápláló, táplálékadó, és innen másodjelentésében jótékony, áldott, áldásárasztó, kegyes jelentésekkel álló. Tápláló és táplálékadó jelentései pedig női-anyai-istenanyai szerepkörre mutatnak rá, ahogy [[A/Alma\|alma]] és [[A/Alma Mater\|Alma Mater]] címnél erről volt is szó.  
 Még egy zárójeles dolgot ide. Mi lenne, ha itt az álom, almus kapcsán az `anima` = lélek szó eredetét kellene keresni? Ugyanis az újlatin nyelvekben a lélek `alma` alakú. Almus > animus teljesen elképzelhető változás. Igen ám, de a görög `anemosz`[^1] = szél megléte miatt ez mégsem jó ötlet.  

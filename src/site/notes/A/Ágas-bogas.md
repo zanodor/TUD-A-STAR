@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ágas-bogas/","title":"Ágas-bogas","created":"2023-10-22T02:40","updated":"2024-02-28T17:28"}
+{"dg-publish":true,"permalink":"/A/Ágas-bogas/","title":"Ágas-bogas","created":"2023-10-22T02:40","updated":"2024-03-04T18:03"}
 ---
 
 
@@ -22,7 +22,7 @@
 >
 > Az egymással ilyen összefüggésben lévő állatok, növények és természeti tárgyak formaritmusának egyezése a természetnek ma nem ismert törvényein alapszik, amelyeket azonban őseink, illetve ezek táltosai, ismertek és ez volt egyik legfontosabb tudományuk, amelynek igen sok gyakorlati hasznát vették, valamint részben ezen, de főkép a formák és hangok egymásnak való megfelelésén alapultak őseink ható varázsigéi és énekei is. E tudomány kulcsára tanulmányaim rávezettek és tudom hogy ha az ebbeli tanulmányokat a megfelelő szükséges eszközökkel tovább folytathatnók, úgy ezen egész megbecsülhetetlen tudománynak ismét birtokába juthatnánk.  
 > A ma, csontmaradványokból, legismertebb ős-szarvasfajnak azonban lapátos szarvai voltak, mint a mai jávorszarvasnak és részben a dámszarvasnak is; itt azonban megjegyezem, bár e dolog kimutatása nem tartozik ide s ennek kifejtésére is igen sok mindent kellene megírnom, hogy a lapátos-szarvú szarvasfélék főkép jász őstörzseink szent állatai voltak, bár szerepeltek a palócoknál is, de hogy a magyar törzsek szarvasa egy valóban ágas és bogas agancsú szarvas kellett hogy legyen. Hogy az őskorban egymástól menyire eltérő alakú szarvakkal bíró szarvasfajok léteztek, erre nézve összehasonlításul álljon itt e rajz.  
-- Ezen utóbbi rajzok kapcsán írhatta volna MA, hogy tűz-, illetve [[L/Láng\|láng]]nyalábokra hasonlítanak.  
+- Ezen utóbbi rajzok kapcsán írhatta volna Magyar Adorján, hogy tűz-, illetve [[L/Láng\|láng]]nyalábokra hasonlítanak.  
 ![assets/Ágas-bogas_image2.png|invert_dark](/img/user/A/assets/%C3%81gas-bogas_image2.png)  
 A [[S/Szarvas\|szarvas]]ság[^1] (bundája pettyein kívül: lásd új MA-féle adatokkal [[S/Sika\|sika]]) egyik lényege ugyanis az agancs-[[K/Korona\|koroná]]ja. A Napfogyatkozásoknál vizsgált Napkitörések illetve a Napkorona igen hasonlók az alábbi rajzokhoz (már ami a kicsapódásokat illeti).  
 Őseinek gondolkodásában mindig ilyen analógiákat kell keresni. Ezt MA is jól tudta.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/F/Francia forradalom/","title":"Francia forradalom","tags":["dg_uploaded"],"created":"2023-11-28T09:21","updated":"2023-11-28T09:21"}
+{"dg-publish":true,"permalink":"/F/Francia forradalom/","title":"Francia forradalom","created":"2023-11-28T09:21","updated":"2024-03-04T18:04"}
 ---
 
 
@@ -8,7 +8,7 @@
 A "Nagy francia forradalom" se nem nagy, se nem francia, és forradalomnak is inkább ribillió, ahogy Kubínyi Tamás mondja.  
 
 Szöllősi Ildikó több előadásában kitér rá, hogy milyen jelentősége is volt valójában és kik és milyen mozgatórugók voltak a hátterében.  
-Az [alábbi](https://www.youtube.com/watch?v=l8HXhN1N9YE) Atilla akták 3. rész című ÁKA előadásban KT 14:29-nél szól arról, hogy ma is a középkorban élünk: közelebb vagyunk a sötét középkorhoz, mint ama felvilágosodott világrendhez, amit hirdetnek nekünk. Hiszen 1789 is úgy kezdődött, hogy a templomokat felgyújtották, a híveket legyilkolták, a kereszténységet pusztították.  
+Az [alábbi](https://www.youtube.com/watch?v=l8HXhN1N9YE) Atilla akták 3. rész című ÁKA előadásban Kubínyi Tamás 14:29-nél szól arról, hogy ma is a középkorban élünk: közelebb vagyunk a sötét középkorhoz, mint ama felvilágosodott világrendhez, amit hirdetnek nekünk. Hiszen 1789 is úgy kezdődött, hogy a templomokat felgyújtották, a híveket legyilkolták, a kereszténységet pusztították.  
 
 Bakos Attila A Duna Evangéliuma című könyvének 495-496. oldalán említi, hogy vajon jó vagy gonosz szándék áll a [[F/Felvilágosodás\|felvilágosodás]] mögött. A francia forradalommal folytatja. Jól mutat rá, hogy ne a "hozzáértő" nép haragját, hanem a mögöttes tervszerűséget kell észrevenni.  
 Eztán tér rá a [[K/Kommunizmus\|kommunizmus]]ra.  
