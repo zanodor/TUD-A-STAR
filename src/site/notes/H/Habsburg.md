@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/H/Habsburg/","title":"Habsburg","created":"2023-11-17T07:57","updated":"2024-02-02T03:07"}
+{"dg-publish":true,"permalink":"/H/Habsburg/","title":"Habsburg","created":"2023-11-17T07:57","updated":"2024-03-04T18:04"}
 ---
 
 
 # Habsburg
 
 Kubínyi Tamás több ízben kitért arra, hogy a Vatikán titkos levéltárában járva véletlenül talált rá Habsburgokkal kapcsolatos információkra (nem ezért ment oda ill. nyert – csodával határos – bebocsátást oda).  
-[Ezen](https://youtu.be/xWeQi7rQE98) Őszi szemeszternyitó című ÁKA előadásban KT 43:20-nál mondja el gyorsan Ferenc József pedigréjét: honnan, milyen zsidó háttérből jöttek a Habsburgok és hogy jutottak el oda, hogy császárt és pápát is ők adhattak. Alapvetően pénzváltó família.  
+[Ezen](https://youtu.be/xWeQi7rQE98) Őszi szemeszternyitó című ÁKA előadásban Kubínyi Tamás 43:20-nál mondja el gyorsan Ferenc József pedigréjét: honnan, milyen zsidó háttérből jöttek a Habsburgok és hogy jutottak el oda, hogy császárt és pápát is ők adhattak. Alapvetően pénzváltó família.  
 Szöllősi Ildikó említi egy műsorában, hogy a római zsidó származású Habsburgok Svájcba kerültek, majd a Fuggerek pénzén szerzik meg Ausztria majd Magyarország trónját.  
 
 #### Somplákné Karaffa Katalin Közeleg a haza-tér-és-idő?...
