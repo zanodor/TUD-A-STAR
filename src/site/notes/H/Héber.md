@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2024-02-02T03:09"}
+{"dg-publish":true,"permalink":"/H/Héber/","title":"Héber","tags":["Englishtexttranslated"],"created":"2023-10-14T04:41","updated":"2024-03-04T18:05"}
 ---
 
 
@@ -24,13 +24,13 @@ Nos, valójában itt inkább hun, azon belül is avar-hun hatást kell látni.
 > \[...\]  
 > A Közel-Keleten a bronzkorban magyarok laktak, akiknek a nyelve degenerálódott, vagy másképpen fejlődött, és szem nyelvek fejlődtek ki belőle. Jeruzsálemben is az [[A/Arám\|arámi]] nyelv volt elterjedve, amelynek a régebbi változata magyar nyelv volt, és amiből egy fiatalabb szemita arámi nyelv alakult ki.  
 
-Az [alábbi](https://youtu.be/-xTzhNBFW-Q) ÁKTV műsorban a készülő (de reméljük sose el nem készülő) Hunyadi film forgatókönyvének hamissága kapcsán mondja 26:05-nél KT, hogy nincs olyan nép, hogy héber; ez csak egy nyelv neve. Nos, volt/nincs.  
+Az [alábbi](https://youtu.be/-xTzhNBFW-Q) ÁKTV műsorban a készülő (de reméljük sose el nem készülő) Hunyadi film forgatókönyvének hamissága kapcsán mondja 26:05-nél Kubínyi Tamás, hogy nincs olyan nép, hogy héber; ez csak egy nyelv neve. Nos, volt/nincs.  
 
 ---
 
 Az [alábbi](https://en.m.wikipedia.org/wiki/Hebrews) oldal is többféle etimológiai vizsgálat alá veti a nevet (a kabarokon kívül mindet, amivel alant is foglalkozunk).  
 
-Egyes kutatók, ahogy MA is, a héberek nevét a [[K/Kabar\|kabar]]ok nevéhez kötik:  
+Egyes kutatók, ahogy Magyar Adorján is, a héberek nevét a [[K/Kabar\|kabar]]ok nevéhez kötik:  
 > A zsidók héber neve valamely kabar eredetű törzse nevéből származott, amit igazol az is, hogy a kecskére hasonlító, ma zsidósnak nevezett, de tulajdonképpen kabar, arcjelleg is nálunk van meg máig is.  
 
 #### Péterfai János...  
