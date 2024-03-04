@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2024-02-28T21:46"}
+{"dg-publish":true,"permalink":"/S/Szentháromság/"}
 ---
 
 
@@ -402,7 +402,7 @@ Igen, ahogy másutt is írtuk, az [[I/Isa\|isa]] lélek azonosnak mondható az i
 
 Visszatérve még az egyházi ikonográfiai ábrázolásokra, a Szimbólumtár adata szerint a nyugati egyházművészetben a piros az Istenatya, a kék Krisztus, a zöld a Szentlélek jelképe; a három szín együttese pedig a Szentháromságot szimbolizálja. E három szín szerepel a genti oltár felső tábláinak főalakjain is: a piros az Isten, a kék Szűz Mária, a zöld Keresztelő Szt. János öltözeteként (1426-1432, Szt. Bavo). Szűz Máriához a kék, a fehér és a piros szín kapcsolódik elsősorban. A katolikus liturgia hét szentségének színszimbolikája a [[S/Szivárvány\|szivárvány]] színeihez kapcsolódik.  
 
-Az [alábbi](https://www.youtube.com/watch?v=zF2LzLdDRII) Atilla akták 2. rész című ÁKA előadásban KT 58:23-nál is elmondja, hogy az [[A/Ariánus\|ariánus]]ok hite tovább él az [[U/Unitárius\|unitárius]] egyházban. Az unitárius egyház olyan reformált egyház, mely még a Szentháromságot sem tartja fontosnak, hanem [[E/Egy\|egy]] az isten: az isteni akaratot akarják mindenek fölött valóként felmutatni. Óvakodik attól, amivel az iszlám hívők is támadnak minket: "Ti nem is vagytok egyistenhívők, mert az atya-fiú-szentlélek az mindjárt három. Ti még nem jutottatok el oda, hogy Allah-nak a mindenhatóságát ismerjétek."  
+Az [alábbi](https://www.youtube.com/watch?v=zF2LzLdDRII) Atilla akták 2. rész című ÁKA előadásban Kubínyi Tamás 58:23-nál is elmondja, hogy az [[A/Ariánus\|ariánus]]ok hite tovább él az [[U/Unitárius\|unitárius]] egyházban. Az unitárius egyház olyan reformált egyház, mely még a Szentháromságot sem tartja fontosnak, hanem [[E/Egy\|egy]] az isten: az isteni akaratot akarják mindenek fölött valóként felmutatni. Óvakodik attól, amivel az iszlám hívők is támadnak minket: "Ti nem is vagytok egyistenhívők, mert az atya-fiú-szentlélek az mindjárt három. Ti még nem jutottatok el oda, hogy Allah-nak a mindenhatóságát ismerjétek."  
 [[N/Nyelvtani nemek\|Nyelvtani nemek]] címnél is szerepelt...  
 
 #### Péterfai János írása:
