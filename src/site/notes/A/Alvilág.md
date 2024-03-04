@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Alvilág/","title":"Alvilág","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-22T03:43","updated":"2024-02-10T03:35"}
+{"dg-publish":true,"permalink":"/A/Alvilág/","title":"Alvilág","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-10-22T03:43","updated":"2024-03-04T16:26"}
 ---
 
 
@@ -89,7 +89,11 @@ Berze Nagy János Égigérő fájában írja:
 > A föld köldökét jelentő kutak, gödrök, lyukak népmeséinkben az Alvilág lejáratát jelentik, s az ázsiai népek hitvilágának jellemzői.  
 - Lásd még [[K/Kutha\|Kutha]] címnél írottakat.  
 
-Még az alvilág/másvilág kapcsán ide tehető Falvay Károly Nagyboldogasszony című könyvéből ([[M/Men#Menny és ég\|menny és ég]] címnél is szerepelt):  
+Még az alvilág/másvilág kapcsán ide tehető...
+
+#### Falvay Károly Nagyboldogasszony...  
+
+...című könyvéből ([[M/Men#Menny és ég\|menny és ég]] címnél is szerepelt):  
 > A menny tehát térben felső fogalom, mint a mennyboltozat fölötti világ, ami valahol a sötétség fölött, a "föld fölött", a csillagok boltozata fölötti térben vagy éppen az alvilágban van. A kiskert ugyanis félreérthetedenül az Éden, a gyönyörök kertje, ahol a Boldogasszony méze, az istenek eledele "terem" a "kiskertjében". A menny és a föld fogalom közös egységében más nézetben az ismeretlen "más-világ" és az ismert világ egysége is megmutatkozik. Ez az egység a más-világban működő ősök, és az élők világának egysége.  
 
 Az alvilág, felvilág, másvilág (és másik/párhuzamos) világ kapcsán kellene írni egy összefoglalót, vagy ha már megtette más, megtalálni. [[A/Annwfn\|Annwfn]] és [[D/Duat\|duat]] címnél már volt hasonlókról szó.  
