@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/K/Királylista/","title":"Királylista","tags":["dg_uploaded","Englishtexttranslated"],"created":"2023-11-12T04:45","updated":"2023-11-12T04:45"}
+{"dg-publish":true,"permalink":"/K/Királylista/","title":"Királylista","tags":["Englishtexttranslated"],"created":"2023-11-12T04:45","updated":"2024-03-04T18:05"}
 ---
 
 
@@ -29,7 +29,7 @@ Mivel [[S/Sitchin, Zecharia\|Sitchin]] is számol ezzel a 432000 vagy 450000 év
 > Diogenész Laertiosz az egyiptomiak csillagászati számításait a Nagy Sándor előtti 48 863 évre vitte vissza.  
 > Martianus Copella ugyanezt azzal támasztja alá, hogy az utókor azt állítja, hogy az egyiptomiak \[magyarok, inkább\] több mint negyvenezer éven át titokban tanulmányozták a csillagászatot, mielőtt tudásukat átadták volna a világnak.  
 
-Az [alábbi](https://youtu.be/OoCmcHmcs1o) Anunnakik az ősforrásokban 1. rész című ÁKA előadásban KT 1:28:15-nél szól a királylisták hosszúságának, és Sitchin állításának képtelenségéről. Annyit tesz, hogy megmagyarázza, hogy a [[S/SAR\|SAR]] 3600 és teljes év értelmű is. A számokat 3600-zal osztással zárja rövidre (a példája eléggé önkényes).  
+Az [alábbi](https://youtu.be/OoCmcHmcs1o) Anunnakik az ősforrásokban 1. rész című ÁKA előadásban Kubínyi Tamás 1:28:15-nél szól a királylisták hosszúságának, és Sitchin állításának képtelenségéről. Annyit tesz, hogy megmagyarázza, hogy a [[S/SAR\|SAR]] 3600 és teljes év értelmű is. A számokat 3600-zal osztással zárja rövidre (a példája eléggé önkényes).  
 
 Az [alábbi](https://qr.ae/TezGJ8) Quora oldalon esik szó a királylistáról: a régésznő saját maga által írott kommentjében is szól arról, hogy félreértésen alapulhat, hogy mikor kell hatvanas vagy tízes számrendszerben értelmezni számokat. AA is ugye hatvány hatvanat, 3600-at [[H/Hatvanas számrendszer\|hatvanas számrendszer]]ből átváltotta 10-esbe. Sajnos nem teljesen értem, miről ír[^1] a nő, mert az eredeti szövegkörnyezetet kellene ismerni. A számokat pontosan kell megpróbálni átváltani. Nos, közben válaszoltam is neki:  
 > The numbers are likely astronomical. Robert Brown Jr. in his Primitive Constellations of the Greeks, Phoenicians and Babylonians (Volume I, page 332-333) also writes about this. Also, I read somewhere (I think it was Alan Alford's book or something) that 1 SAR = 3600 years is equal to 2160 years in base ten. 25920/12 = 2160.  
