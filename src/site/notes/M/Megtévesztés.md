@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2024-02-10T04:10"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2024-03-04T18:07"}
 ---
 
 
@@ -76,7 +76,7 @@ Ha már itt tartunk, a jogban ismert tétel, hogy a jogszabály nem ismerete nem
 
 A [[F/Felforgatás\|felforgatás]] (angolul *subversion*: "aláforgatás") a másik eszköze a zsidóknak (és nem csak az ott említett Sun Tzu-nak és szovjet KGB-seknek).  
 
-Az [alábbi](https://youtu.be/84QfjzsT5GM) ÁKTV műsorban 1:54:50-nél mondja KT [[S/Szent Pál\|Szent Pál]]lal kapcsolatban, hogy tipikus esete annak a Cion Bölcseinek Jegyzőkönyvében is megfogalmazott stratégiának, hogy ha máshogy nem lehet kívülről megállítani valamit, *épülj be, állj az élére*. A kereszténységet akkor nem lehetett megállítani.  
+Az [alábbi](https://youtu.be/84QfjzsT5GM) ÁKTV műsorban 1:54:50-nél mondja Kubínyi Tamás [[S/Szent Pál\|Szent Pál]]lal kapcsolatban, hogy tipikus esete annak a Cion Bölcseinek Jegyzőkönyvében is megfogalmazott stratégiának, hogy ha máshogy nem lehet kívülről megállítani valamit, *épülj be, állj az élére*. A kereszténységet akkor nem lehetett megállítani.  
 
 Amikor Hervay Tamás alábbi sorait egy Ősi Gyökeres cikkében ([[S/Sárkány\|sárkány]] címnél volt róla szó) olvastam, akkor a [[P/Parazitizmus\|parazitizmus]] címnél taglalt téma ötlött fel. Az állatvilágban sokszor a parazita rátelepedik a gazda-állatra. Amit HT ír:  
 > Keleten máig a tanítások közt találjuk az ún. tigrislovaglás művészetét. Ez abban áll, hogy ha olyan erőkkel találkozol, melyek nálad erősebbek, akkor azokkal ne szembe szállj, hanem pattanj fel rájuk \[mint [[S/Szent Pál\|Szent Pál]] a kereszténység élére\], lovagold meg őket, de úgy, hogy végül te irányítod a lefolyásukat, így azok szinte magukkal ragadva, de mégis az általad kitűzött célba juttatnak.  
@@ -91,7 +91,7 @@ Itt jut eszembe Kubínyi Tamás egyik ÁKTV műsorának azon mondása (de [[P/Po
 > —  
 > Az emberek fejében ma már nincs meg az igazság és valótlanság érzete, csak a véleménykülönbségeket látják. És miközben a kocsmai kvíz-vetélkedő komolyságának szintjére süllyesztett fontos ügyekben vergődnek, a fejük felett (beleegyezésükkel és szavazati jogukkal) fontos döntéseket hoznak.  
 
-Az [alábbi](https://www.youtube.com/watch?v=XIB7tmuFFtc) Atilla akták 1. rész című ÁKA előadásban KT 1:07:33-nál megint szól arról, hogy a mai világban nincs jó és rossz, igaz és hamis, csak különböző nézőpontok vannak. Ezzel hülyítik a gyermekeket és azt akarják elhitetni, hogy az emberiség olyan pályán fejlődik, amelyben végső soron ők osztják le a szerepeket és mindenki más a statiszta.  
+Az [alábbi](https://www.youtube.com/watch?v=XIB7tmuFFtc) Atilla akták 1. rész című ÁKA előadásban Kubínyi Tamás 1:07:33-nál megint szól arról, hogy a mai világban nincs jó és rossz, igaz és hamis, csak különböző nézőpontok vannak. Ezzel hülyítik a gyermekeket és azt akarják elhitetni, hogy az emberiség olyan pályán fejlődik, amelyben végső soron ők osztják le a szerepeket és mindenki más a statiszta.  
 [Ezen](https://qr.ae/pN2ypz) Quora válaszomban is hasonlóképpen írom:  
 > "The global imperialists from Rome onwards use these (Judaism as an ideology) as their action plan or screenplay; life is a theatre, and we are supposed to be the mute dumb dummies."  
 > —  
@@ -160,7 +160,7 @@ A legnagyobb "cover-up" az elmúlt 2000 évben a szkíta pogány kereszténység
 [Ezen](https://youtu.be/GlqDV7MM-7s) saját csatornára feltett videóban (pár perc az egész) KT elmondja, hogy [[D/Democracy\|demokrácia]] sohasem volt.  
 Ugyanezt mondja Drábik János: demokrácia nincs és nem is volt; a demokrácia káosz (a háttér illetve meghatározó uralkodási forma a despotizmus, az önkényuralom).  
 A demokrácia olyan fogalom, mint a (szkíta-)[[K/Kereszténység\|kereszténység]]: mögé lehet bújni a diktatúra képviselőinek és a zsidóknak.  
-[Ezen](https://www.bitchute.com/video/K6HkO8QanR5g/) ÁKTV műsorban KT is említi, hogy a [[D/Democracy\|demokrácia]] egy fedőterv a globális pénzdiktatúrának.  
+[Ezen](https://www.bitchute.com/video/K6HkO8QanR5g/) ÁKTV műsorban Kubínyi Tamás is említi, hogy a [[D/Democracy\|demokrácia]] egy fedőterv a globális pénzdiktatúrának.  
 A rendszerváltás \["gengszter-váltás"\] fogalma hasonlóan működik: az emberek azt gondolják, a [[K/Kommunizmus\|kommunizmus]]nak vége, csak éppen más néven fut. A megtévesztés egyik formája, hogy *bejelentik, hogy egy adott címke alatt futó ideaológiának, korszakának vége*, holott nagyon is folytatódik. Kubínyi Tamás is szokta mondani, hogy amikor a kommunizmusban ha valamiről kiadták, hogy vége, az azt jelentette, hogy most kezdődik csak igazán.  
 
 A fedősztori kifejezést ismerjük. Az [[M/Magyar nyelv és nyelvcsaládok#Ausztráliai magyar nyelv\|ausztráliai magyar nyelv]] cím/alcímnél említett Max Igan féle videóban 22:30-nál is arról volt szó, hogy a spanyol judeo-keresztény hódítók nem az aranyat ellopni mentek oda, hanem kiirtani a az ősi nyelven beszélőket. Az arany, mint kézenfekvő ösztönző ellopása csak figyelemelterelés (*red herring*-ről is volt itt szó más alcím alatt), a fedősztori volt.  
@@ -179,7 +179,7 @@ Lejjebb lesz még egy *behelyezés és beépülés* alcím is.
 
 ### Behelyezés és beépülés: ugyanolyan nyelvet beszél
 
-[Ezen](https://www.bitchute.com/video/tfRQ1Fduoe1g/) ÁKTV műsorban KT 59:10-nél szól arról, hogy a bibliai [[Z/Zsidó\|zsidó]]ság és a jelenkori zsidóság között nincs vérségi folytonosság. Behelyezésnek nevezi a jelenséget, és párhuzamot von azzal, ahogy Budapesten V. kerületi zsidók Székely és más régi családneveket vesznek fel és a magyarok krémjének próbálják magukat mutatni.  
+[Ezen](https://www.bitchute.com/video/tfRQ1Fduoe1g/) ÁKTV műsorban Kubínyi Tamás 59:10-nél szól arról, hogy a bibliai [[Z/Zsidó\|zsidó]]ság és a jelenkori zsidóság között nincs vérségi folytonosság. Behelyezésnek nevezi a jelenséget, és párhuzamot von azzal, ahogy Budapesten V. kerületi zsidók Székely és más régi családneveket vesznek fel és a magyarok krémjének próbálják magukat mutatni.  
 
 KT számtalanszor elmondja (legutóbb Marosvásárhely magyar de Hit Gyülekezete tag polgármester megválasztása után), hogy csak azért mert magyarul beszél, nem jelenti azt, hogy magyar (érdekeket képvisel). Ugyanígy Amerikában az angolul beszélő zsidó nem amerikai. Beépült ellenség.  
 
@@ -311,7 +311,7 @@ Ugyanazok végzik, ugyanazzal a narratívával, mint akik a fake news/álhír ro
 
 [[B/Bal és jobb\|Bal és jobb]] címnél és másutt is volt szó arról, hogy mindkét oldalt ugyanaz az irányelveket valló erő képviselteti magát és csak látszólagos a szembenállás.  
 A megtévesztés másik formája a megtervezett színjáték. Ugyanazok szervezik a különböző, emberiségre, a társadalomra káros ideológiákra épülő rendezvényeket és az ellenoldalba beépülve, vagy élére állva a másik oldalt is ők szervezik le vagy pénzelik; a rendezvényeken megjelenő tüntetők kis száma pedig majd a hírekben megjelenve azt jelenti: minden oké, nem sokan ellenzik például a buzi-propagandát vagy a gyermekek megrontására irányuló ténykedéseiket, akkor mehet, ez az irányelv elfogadott. Holott valójában ez ellenzők száma nagy csak nem képviselik magukat. Erről [ezen](https://youtu.be/3PEyB7p_cAk) ÁKTV műsorban volt szó, amikor KT válaszol kb. 1:43:00-nál Máriának: ő happening-nek nevezi: mindkét oldalt ugyanaz szervezi.  
-A sztárokat (színészek, sportolók, zenészek, valóságshow-szereplők) semmi másért nem tartják, mint azért, hogy közvetítsék a háttérhatalom akaratát. Valahol ebben a műsorban arról is beszél KT, hogy a sztárokat hogyan használják fel céljaikra. Például a pop-rock és hippie kultúrát ötvöző, New Age-ista köntösben előadott Hair zsidó musical szereplői nem is tudhatták, hogy ez a kör az [[V/Vízöntő korszak\|Vízöntő korszak]]kal elkövetkező Új Világgal ("Aranykor" – egy frászt) mit is tervez. De Madonna Eurovíziós dalfesztiválon való fellépését (gázálarcos táncos show azzal az üzenettel, hogy "Nem mindenki jön velünk a jövőbe") se felejtsük el.  
+A sztárokat (színészek, sportolók, zenészek, valóságshow-szereplők) semmi másért nem tartják, mint azért, hogy közvetítsék a háttérhatalom akaratát. Valahol ebben a műsorban arról is beszél Kubínyi Tamás, hogy a sztárokat hogyan használják fel céljaikra. Például a pop-rock és hippie kultúrát ötvöző, New Age-ista köntösben előadott Hair zsidó musical szereplői nem is tudhatták, hogy ez a kör az [[V/Vízöntő korszak\|Vízöntő korszak]]kal elkövetkező Új Világgal ("Aranykor" – egy frászt) mit is tervez. De Madonna Eurovíziós dalfesztiválon való fellépését (gázálarcos táncos show azzal az üzenettel, hogy "Nem mindenki jön velünk a jövőbe") se felejtsük el.  
 A sztárok közé tartoznak az internetes/instagramos "influencer"-ek, melyek nevében is benne van a befolyásolás.  
 
 ## Erőszakkal vagy kényszerítés által "elfogadtatás"
