@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:03","updated":"2024-02-29T00:42"}
+{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:03","updated":"2024-03-04T18:08"}
 ---
 
 
@@ -171,7 +171,7 @@ Lásd még [[K/Kutya – két kutya\|kutya – két kutya]].
 
 ## Szíriusz közelsége – távolsága a Földhöz képest a kis évben
 
-[Ezen](https://www.youtube.com/watch?v=0K3P1c4lb_A) Golenya Ágnes féle videóban amit a Szíriuszhoz való közeledésről (télen) és távolodásról ír, nem tudom, helyes-e. Az stimmel, hogy január 2-3. körül a Naphoz a legközelebb vagyunk (erre mondja KT helytelenül, hogy a legtávolabb), de hogy a Szíriusszal mi a helyzet, azt nem tudom.  
+[Ezen](https://www.youtube.com/watch?v=0K3P1c4lb_A) Golenya Ágnes féle videóban amit a Szíriuszhoz való közeledésről (télen) és távolodásról ír, nem tudom, helyes-e. Az stimmel, hogy január 2-3. körül a Naphoz a legközelebb vagyunk (erre mondja Kubínyi Tamás helytelenül, hogy a legtávolabb), de hogy a Szíriusszal mi a helyzet, azt nem tudom.  
 
 ## Szíriusz helyzete – meridiánon, nadir helyzetében, stb.
 
