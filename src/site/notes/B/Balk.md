@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Balk/","title":"Balk","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-11-09T07:00","updated":"2024-03-05T23:49"}
+{"dg-publish":true,"permalink":"/B/Balk/","title":"Balk","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-11-09T07:00","updated":"2024-03-06T00:11"}
 ---
 
 
@@ -29,57 +29,51 @@ A kiindulópont [[B/Bál\|Bál]] és a tiszteletére emelt kőoszlop fogalma mel
 
 ---
 
-```mermaid
-graph LR;
-
- =================
-
-classDef FixFont font-size:11px;
-
- =====
-
-QuickStart(Quick Start):::FixFont -->
-    CmdPalette(Command<BR>Palette):::FixFont;
-QuickStart --> 
-    CreateNotes("Create notes"):::FixFont;
-QuickStart --> 
-    InternalLinks("Internal Links"):::FixFont;
-
-click CreateNotes "/Create notes";
-click CmdPalette "/Command palette";
-click InternalLinks "/Internal link";
-
- ==============
-
-class CmdPalette internal-link;
-class CreateNotes internal-link;
-class InternalLinks internal-link;
-
- ===========
-
-style CmdPalette fill:#383;  
-style QuickStart fill:#A00;
-style CreateNotes fill:#03C;
-style InternalLinks fill:#C097;!
-```
 
 
 ```mermaid
 flowchart LR
+head[<b>M-Z/V-Z</b>]
+lvl2_a("víz")
+lvl2_b("méz")
+lvl3_a("vedel")
+lvl3_b("vidék")
+lvl3_c("hun-szláv med = méz")
+lvl3_d("medos = mézsör")
+head --> lvl2_a & lvl2_b
+lvl2_a -- Z←→D -->  lvl3_a & lvl3_b
+lvl2_b -- Z←→D -->  lvl3_c & lvl3_d
+style head stroke-width:2px,stroke-dasharray: 0
+```
+	
+```mermaid
+flowchart LR
+head[<b>M-Z/V-Z</b>]
+lvl2_a("víz")
+lvl2_b("méz")
+lvl3_a("vedel")
+lvl3_b("vidék")
+lvl3_c("hun-szláv <code>med</code> = méz")
+lvl3_d("<code>medos</code> = mézsör")
+head --> lvl2_a & lvl2_b
+lvl2_a -- Z←→D -->  lvl3_a & lvl3_b
+lvl2_b -- Z←→D -->  lvl3_c & lvl3_d
+style head stroke-width:2px,stroke-dasharray: 0
+```
 
-	head[<b>M-Z/V-Z</b>]
-	lvl2_a("víz")
-	lvl2_b("méz")
-	lvl3_a("vedel")
-	lvl3_b("vidék")
-	lvl3_c("hun-szláv <code>med</code> = méz")
-	lvl3_d("<code>medos</code> = mézsör")
-
-	head --> lvl2_a & lvl2_b
-	lvl2_a -- Z←→D -->  lvl3_a & lvl3_b
-	lvl2_b -- Z←→D -->  lvl3_c & lvl3_d
-
-	style head fill:#e7545c,stroke-width:2px,stroke-dasharray: 0
+```mermaid
+flowchart LR
+head[<b>M-Z/V-Z</b>]
+lvl2_a("víz")
+lvl2_b("méz")
+lvl3_a("vedel")
+lvl3_b("vidék")
+lvl3_c("hun-szláv <code>med</code> = méz")
+lvl3_d("<code>medos</code> = mézsör")
+head --> lvl2_a & lvl2_b
+lvl2_a -- Z←→D -->  lvl3_a & lvl3_b
+lvl2_b -- Z←→D -->  lvl3_c & lvl3_d
+style head fill:#e7545c,stroke-width:2px,stroke-dasharray: 0
 ```
 
 ```mermaid
