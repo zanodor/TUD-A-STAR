@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Balk/","title":"Balk","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-11-09T07:00","updated":"2024-03-05T22:49"}
+{"dg-publish":true,"permalink":"/B/Balk/","title":"Balk","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-11-09T07:00","updated":"2024-03-05T23:49"}
 ---
 
 
@@ -63,12 +63,49 @@ style CreateNotes fill:#03C;
 style InternalLinks fill:#C097;!
 ```
 
+
 ```mermaid
 flowchart LR
 
-	head["`**M-Z/V-Z**`"]
-	lvl2_a(Balázs)
-	lvl2_b(Vad)
+	head[<b>M-Z/V-Z</b>]
+	lvl2_a("víz")
+	lvl2_b("méz")
+	lvl3_a("vedel")
+	lvl3_b("vidék")
+	lvl3_c("hun-szláv <code>med</code> = méz")
+	lvl3_d("<code>medos</code> = mézsör")
+
+	head --> lvl2_a & lvl2_b
+	lvl2_a -- Z←→D -->  lvl3_a & lvl3_b
+	lvl2_b -- Z←→D -->  lvl3_c & lvl3_d
+
+	style head fill:#e7545c,stroke-width:2px,stroke-dasharray: 0
+```
+
+```mermaid
+flowchart LR
+
+	head[<b>M-Z/V-Z</b>]
+	lvl2_a("víz")
+	lvl2_b("méz")
+	lvl3_a("vedel")
+	lvl3_b("vidék")
+	lvl3_c("hun-szláv <code>med</code> = méz")
+	lvl3_d("<code>medos</code> = mézsör")
+
+	head --> lvl2_a & lvl2_b
+	lvl2_a -- Z←→D -->  lvl3_a & lvl3_b
+	lvl2_b -- Z←→D -->  lvl3_c & lvl3_d
+
+	style head stroke-width:2px,stroke-dasharray: 0
+```
+
+```mermaid
+flowchart LR
+
+	head[<b>M-Z/V-Z</b>]
+	lvl2_a("víz")
+	lvl2_b("méz")
 	lvl3_a("vedel")
 	lvl3_b("vidék")
 	lvl3_c("hun-szláv <code>med</code> = méz")
