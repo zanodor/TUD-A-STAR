@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/H/Halak csillagkép/","title":"Halak csillagkép","tags":["Englishtexttranslated"],"created":"2023-10-14T04:19","updated":"2024-02-28T21:11"}
+{"dg-publish":true,"permalink":"/H/Halak csillagkép/","title":"Halak csillagkép","tags":["Englishtexttranslated"],"created":"2023-10-14T04:19","updated":"2024-03-05T20:37"}
 ---
 
 
@@ -85,7 +85,7 @@ Aztán lábjegyzetben:
 
 Ennek az egyiptomi-kopt-héber betű- és számmisztikának vajon lehet-e magyar eredete? Vagy inkább hun eredete, tekintve hogy a japán `hacsi` = nyolc éppen ilyen alakú!  
 Nyilván igen (persze inkább egy kevesebb hanggal számoló hun ábécében). Vegyük elő először is az árja nyolc szám nevét, melynek acht/atta/ohto neve a – nemcsak hímségi értelmű(!) – [[A/ATA\|ATA]] névvel azonos, de GM írhatta volna, hogy az angol [[E/Eight\|eight]] kiejtése és a h "éjcs" kiejtése is egyezik.  
-Arra pedig még inkább kevés esélye volt, hogy észrevegye, hogy a görög `ἰχθύς` (ikhthûs) = hal ismét ilyen [[E/Eight\|eight]] szóhoz hasonlító alakú!  
+Arra pedig még inkább kevés esélye volt, hogy észre vegye, hogy a görög `ἰχθύς` (ikhthûs) = hal ismét ilyen [[E/Eight\|eight]] szóhoz hasonlító alakú!  
 Mit mond itt GM? Születésről beszél? Na most ez azért érdekes, mert a [[H/Halál\|halál]] után [[F/Feltámadás\|feltámadás]], születés következik, de főleg, hogy a [[N/Nagy Év\|Nagy Év]]ben a Halak az utolsó jegy. Itt, a Halak-Vízöntő határán születik újra a Nap, precessziós értelemben.  
 (Még azon is elgondolkodtam, vajon Halak Ha-Lak felbontásban nem-e a Fény Háza értelmű?)  
 Hát a [[V/Vénusz\|Vénusz]] 8-as száma és a [[N/Nyolc\|nyolc]] szavunk mit hoz még ki számunkra lány, születés kapcsán?  
@@ -96,7 +96,7 @@ FK írása tehát a Nagy Év működésére is rá látszik minket vezetni azzal
 
 Amit [[L/Lemniszkáta\|lemniszkáta]] címnél is kimondtunk, hogy a kettős vonalú jegyek között az Ikrek (♊) mellett ilyen még a Halak (♓) is (amely szimbólumban még szebben látszanak a lemniszkáta iker-görbéi): előbbi a kis éves értelmezésű, utóbbi precessziós Nagy Éves.  
 
-![assets/Halakcsillagkep_image8.png](/img/user/H/assets/Halakcsillagkep_image8.png)  
+![assets/Halakcsillagkep_image8.png|invert_dark](/img/user/H/assets/Halakcsillagkep_image8.png)  
 [[S/Szív\|Szív]] címnél is volt szó a szívformáról, arról, hogy egy igen érdekes [[S/Szakrális geometria\|szakrális geometrikus]] hatást látunk benne. Egy szabályos négyzetből és két körből adódik ki. A négyzet lehet a Föld vagy a Nap is, a [[V/Vesica piscis\|Vesica Piscis]] címnél is taglalt két kör egybecsúsztatva pedig lehet a (végtelen jeleként is ismert) fektetett [[N/Nyolc\|nyolc]]as, mely a fentiek értelmében úgy is értelmezhető, hogy a [[S/Szűz-Halak tengely\|Szűz-Halak tengely]]ről való elmozdulással járó kozmikus Nagy-Éves újrakezdést lássuk benne.   
 Itt még a szív kapcsán annyit, hogy feltűnt már korábban, hogy miért nem mi is a Kör/Ker vázú szót használjuk szív jelentéssel. Talán mert a szívás a [[S/Szűz extragalaktikus szuperhalmaz\|Szűz extragalaktikus szuperhalmaz]]ra utal? Szűz alakúak a szívni jelentésű szavak is (lásd [[S/Szuka\|szuka]] és [[S/Suck\|suck]]) és a szí alapszava a szí/szív és szíz/szűz szavaknak is, ha akarjuk.  
 Aztán az is igen érdekes, hogy a germán szívet jelentő szavak H-betűsek, mint a Halak, mely Hal lehet persze ugyanúgy Kör (azonos alakú szavak), ráadásul két Kör, egybecsúsztatva. Itt a jelkép és a szavak mögött lehet valamit keresni.  
@@ -120,9 +120,9 @@ John M. Jenkins könyvének 139. oldalán egy váratlan megjegyzést tesz az edd
 
 A [[S/Székely-magyar rovásírás#B\|rovás b]] és (főleg) [[S/Székely-magyar rovásírás#H\|h]] betűknél említett témával folytassuk itt még.  
 [Ezen](https://www.youtube.com/watch?v=HyX4A9zqKu0) ÁKTV műsorban a rovásírást tanító Gizike 1:13:10-nél amikor azt mondja, hogy a rovás H szögletesebb formája megfelel két egymás tetejére helyezett rovás X-nek, "Eb"-nek (B régi magyaros ejtése), nagyon érdekes, tekintve, hogy a precessziós [[N/Nagy Év\|Nagy Év]]ben is a Halak-Vízöntő váltópontján van a felezés, ahogy kis évben a nyári és téli napfordulón végzi ezt a Ebcsillag Szíriusz. Tehát a [[J/Janus\|Janus]] címnél is taglalt két fél alapján értelmezhető Halak jel kettős, többes volta és az [[E/EB\|EB]] [[F/Félév\|félév]]-jelző ([[K/Kalb\|kalb]] – `halb` is erről tanúskodik) szerepe szépen állnak össze.  
-![assets/Halakcsillagkep_image9.png](/img/user/H/assets/Halakcsillagkep_image9.png)  
+![assets/Halakcsillagkep_image9.png|invert_dark](/img/user/H/assets/Halakcsillagkep_image9.png)  
 
-![assets/Halakcsillagkep_image10.jpeg](/img/user/H/assets/Halakcsillagkep_image10.jpeg)  
+![assets/Halakcsillagkep_image10.jpeg|invert_dark](/img/user/H/assets/Halakcsillagkep_image10.jpeg)  
 Ide vehető még Jankovics Marcell A Nap könyve című könyvének 64. oldalán szereplő adata. Azt írja, hogy a maja [[K/KIN\|kin]] = "Nap", "nap", "idő" szó képírásjele két keresztbe tett fadarab (lásd 21. rajzot); ugyanis ilyen napnéző mérőműszert alkalmaztak és nyilván a hun-magyarok is.  
 Erre mondom én, hogy az időt (felezését) az Ebcsillag Szíriusz jelöli ki.  
 
