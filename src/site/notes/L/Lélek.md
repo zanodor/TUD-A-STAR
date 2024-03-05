@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lélek/"}
+{"dg-publish":true,"permalink":"/L/Lélek/","title":"Lélek","tags":["Englishtexttranslated"],"created":"2023-10-15T09:46","updated":"2024-03-05T21:14"}
 ---
 
 
@@ -516,7 +516,7 @@ Ami a lélekjárást illeti itt is az előző világhónapbani Rák-Bak jön el�
 
 [[M/Madár\|Madár]] és [[M/Magyar\|magyar]] címnél is szerepelt:  
 A magyar népnév értelmezezése a madáron keresztül kétirányú. A vizimadár (női) és a ragadozó (hím) madáron keresztül a nőiségen (régebbi, őseredeti, primordiális nemzés, mocsármitológia) és a hímségen keresztül is kötődése van, de a magyar népnév gy hangjával és a napvallások előtti létrejöttével (ahogy isten istennőként való kezelésével) is az előbbi az eredetibb.  
-A magyar a legalkalmasabb nép arra nézve, hogy észrevegye, van lelke (dacára annak, hogy az ember háromrétegű felépítését kettőre hozták vissza). Ugyan a magyar névnek nincs lélekre vonatkozó értelme, alakváltozatának, madárnak van.  
+A magyar a legalkalmasabb nép arra nézve, hogy észre vegye, van lelke (dacára annak, hogy az ember háromrétegű felépítését kettőre hozták vissza). Ugyan a magyar névnek nincs lélekre vonatkozó értelme, alakváltozatának, madárnak van.  
 
 ## A magyar lélek
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Sarama/","title":"Sarama","tags":["Englishtexttranslated"],"created":"2023-11-17T05:34","updated":"2024-02-02T03:42"}
+{"dg-publish":true,"permalink":"/S/Sarama/","title":"Sarama","tags":["Englishtexttranslated"],"created":"2023-11-17T05:34","updated":"2024-03-05T21:14"}
 ---
 
 
@@ -185,7 +185,7 @@ Az [ezen](https://hu.wikipedia.org/wiki/Csuvasok) csuvasokról szóló Wiki olda
 ... írása a francia-angol [[C/Charm\|charm]] címnél is szerepelt:  
 > \[A heta\] Hepatsarmas istennő Telepinus isteni király anyja. A Sarmas több magyar település nevében ma is létezik. Ilyen név Kissármás, meg az erdélyi Sármás. A francia magyar eredetű nyelvben a Charme is innen eredhet. Akinek az arcán arany fény ragyog, az sármos, az arca vonzó. A Sár az Arany, a Napisten által beragyogott hely. Hapat-Sarmas neve persze régebbi a francia nyelvnél.  
 
-Furcsamód Jankovics Marcell Jelkép-kalendárium című könyvében (Merkúrnál) Sarama mint védikus hajnal- és szélisten említettik meg. A kapcsolódás abban lehet, hogy Hermész-Mercurius ugyanúgy lélekvezető ([[P/Psychopomp\|pszükhopomposz]]), mint a kutya, mely(ek) anyja Sarama. (Tilak Orionjából kiderül, és ezt [[K/Kaltes\|Kaltes]] (ugor Tejútanya) címnél is felhoztam, hogy a védák első értelmezői mindenben a hajnalt és a nap sugarait látták, így nem is igazán érdemes vele ilyen irányban foglalkozni.)  
+Furcsamód Jankovics Marcell Jelkép-kalendárium című könyvében (Merkúrnál) Sarama mint védikus hajnal- és szélisten említtetik meg. A kapcsolódás abban lehet, hogy Hermész-Mercurius ugyanúgy lélekvezető ([[P/Psychopomp\|pszükhopomposz]]), mint a kutya, mely(ek) anyja Sarama. (Tilak Orionjából kiderül, és ezt [[K/Kaltes\|Kaltes]] (ugor Tejútanya) címnél is felhoztam, hogy a védák első értelmezői mindenben a hajnalt és a nap sugarait látták, így nem is igazán érdemes vele ilyen irányban foglalkozni.)  
 
 Lásd még arról alant, hogy a Sarama ősszuka funkcióval látszik egyezni az aymara-kecsua [[A/Anu\|anu]] = kutya név.  
 
