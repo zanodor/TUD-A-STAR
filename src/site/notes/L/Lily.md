@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L/Lily/","title":"Lily","created":"2023-10-15T03:54","updated":"2024-02-02T03:20"}
+{"dg-publish":true,"permalink":"/L/Lily/","title":"Lily","created":"2023-10-15T03:54","updated":"2024-03-05T21:13"}
 ---
 
 
@@ -36,7 +36,7 @@ Ha már szűz, Tomory Zsuzsa Ősi magyar imádságaink című az Ősi Gyökér 2
 > Az örök szüzesség viszont terméketlenséget is jelent, s közösségi szinten a halállal egyenlő. Jól tudták, hogy a Hold maga is terméketlen, holt égi test, s egyúttal a Halál jelképe is volt. Virágja a szűzi fehér liliom. A liliom gyakran már nem fény jelkép. Érintése hideg, mint a halál. A V.1:139 ima Jézus halálát a következőképpen fejezi ki: "Liliommá tették..."  
 
 [Ezen](https://youtu.be/Hf0HIuMetKM) előadásában Miklósvölgyi János 2:15:00-nél beszél arról, hogy a liliom koncentráltan halálos is lehet, ami szépen kapcsolódik a fenti adatokhoz.  
-Lásd még [[V/Violet\|violet]].  
+  
 
 ## Lábjegyzetek
 
