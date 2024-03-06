@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/B/Balk/","title":"Balk","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-11-09T07:00","updated":"2024-03-06T00:11"}
+{"dg-publish":true,"permalink":"/B/Balk/","title":"Balk","tags":["titleandheadingonedontmatch","multipleentries","stitched"],"created":"2023-11-09T07:00","updated":"2024-03-06T01:17"}
 ---
 
 
@@ -29,7 +29,22 @@ A kiindulópont [[B/Bál\|Bál]] és a tiszteletére emelt kőoszlop fogalma mel
 
 ---
 
+```mermaid
+flowchart LR
+head[<b>M-Z/V-Z</b>] --> lvl2_a("víz") & lvl2_b("méz")
+lvl2_a -- Z←→D -->  lvl3_a("vedel") & lvl3_b("vidék")
+lvl2_b -- Z←→D -->  lvl3_c("hun-szláv med = méz") & lvl3_d("medos = mézsör")
+style head stroke-width:2px,stroke-dasharray: 0
+```
 
+```mermaid
+flowchart LR
+head[<b>M-Z/V-Z</b>] --> lvl2_a("víz") & lvl2_b("méz")
+lvl2_a -- Z←→D -->  lvl3_a("vedel") & lvl3_b("vidék")
+lvl2_b -- Z←→D -->  lvl3_c("hun-szláv <code>med</code> = méz") & lvl3_d("<code>medos</code> = mézsör")
+style head stroke-width:2px,stroke-dasharray: 0
+class lvl2_a,lvl2_b,lvl3_a,lvl3_b internal-link
+```
 
 ```mermaid
 flowchart LR
@@ -45,7 +60,7 @@ lvl2_a -- Z←→D -->  lvl3_a & lvl3_b
 lvl2_b -- Z←→D -->  lvl3_c & lvl3_d
 style head stroke-width:2px,stroke-dasharray: 0
 ```
-	
+
 ```mermaid
 flowchart LR
 head[<b>M-Z/V-Z</b>]
