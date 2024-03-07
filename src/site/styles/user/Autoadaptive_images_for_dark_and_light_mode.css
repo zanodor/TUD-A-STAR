@@ -7,3 +7,9 @@
   filter: invert(90%) sepia(44%) contrast(107%);
   /* mix-blend-mode: screen; */
 }
+
+/* PlantUML rendered images For dark mode */
+.theme-dark img[src^="https://www.plantuml.com/plantuml/png"],
+.theme-dark img[src^="https://www.plantuml.com/plantuml/svg"] {
+    filter: invert(87.5%);
+}
