@@ -11,5 +11,5 @@
 /* PlantUML rendered images For dark mode */
 .theme-dark img[src^="https://www.plantuml.com/plantuml/png"],
 .theme-dark img[src^="https://www.plantuml.com/plantuml/svg"] {
-    filter: invert(87.5%);
+  filter: invert(92.66%) sepia(73.54%) saturate(44%);
 }
