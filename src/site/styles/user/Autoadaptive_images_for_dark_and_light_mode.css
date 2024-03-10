@@ -8,8 +8,25 @@
   /* mix-blend-mode: screen; */
 }
 
-/* PlantUML rendered images For dark mode */
-.theme-dark img[src^="https://www.plantuml.com/plantuml/png"],
+/* PlantUML rendered images elaborate conversion for dark mode -- now useless as one can set transparent background -- I'll leave it here for reference */
+/* Sok hűhőt okoztam azzal, hogy a GruvBox Light Theme-jének hátteréhez igazítottam a diagramok hátterét (`skinparam backgroundcolor transparent`), majd ennek invertáló plusz sepias megoldását akartam elérni CSS-ben, hogy Dark Theme-ben is beolvadjon a háttérbe: */
+/* Mint kiderül, lehet átlátszóra állítani a hátteret. Nyilván azért, mert png-ben megy a kép (gondolom svg-ben sem lesz gond). */
+/* Ezzel tudtam megközelítőleg elérni, hogy sötét témában is hasonló legyen a háttér -- arra is gondoltam, hogy ha más nem lesz, akkor az így átalakított színhez igazítom magának a theme-nek a hátterét, de nem kellett. */
+/* .theme-dark img[src^="https://www.plantuml.com/plantuml/png"], */
+/* .theme-dark img[src^="https://www.plantuml.com/plantuml/svg"] { */
+  /* filter: invert(92.66%) sepia(73.54%) saturate(44%); */
+  /* mix-blend-mode: screen; */
+/* } */
+
+/* PlantUML rendered images for dark mode -- mert ugye a hátteren kívül vannak más színek is, ami miatt mégis kell valami konverzió és ahogy kiderül a `filter: invert(92.66%) sepia(73.54%)` jobb mint a sima `filter: invert(87.5%);`, de a sima képekre ezen utóbbit kell használni a fehér hátterű szövegek szép beolvasztására */
+.theme-dark img[src^="https://www.plantuml.com/plantuml/png"], 
 .theme-dark img[src^="https://www.plantuml.com/plantuml/svg"] {
-  filter: invert(92.66%) sepia(73.54%) saturate(44%);
+  filter: invert(92.66%) sepia(73.54%);
+  /* mix-blend-mode: screen; */
 }
+
+/* PlantUML rendered svg images for dark mode */
+/* .theme-dark .block-language-plantuml-svg svg { */
+  /* filter: invert(92.66%) sepia(73.54%); */
+  /* mix-blend-mode: screen; */
+/* } */
