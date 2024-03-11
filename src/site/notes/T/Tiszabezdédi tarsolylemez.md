@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/T/Tiszabezdédi tarsolylemez/","title":"Tiszabezdédi tarsolylemez","created":"2023-11-19T06:35","updated":"2024-02-29T00:45"}
+{"dg-publish":true,"permalink":"/T/Tiszabezdédi tarsolylemez/","title":"Tiszabezdédi tarsolylemez","created":"2023-11-19T06:35","updated":"2024-03-11T21:18"}
 ---
 
 
@@ -21,7 +21,7 @@ Az alábbiakban Kövesi-Nagy Katalin internetről szedett anyaga szerepel:
 > A munka folyamat a következő lehetett. A készítője felrajzolta és vésővel bemélyítette a minták vonalait, majd kidomborította a kiemelt mintákat, így tette igazán plasztikussá. A hátteret a jellegzetes poncolással alakította ki, mely kör alakú nyomokat hagy, ha a vas eszközt kalapáccsal a lemezhez ütik. Ehhez hasonlóan készült az összes díszített tarsolylemez és más ötvösmunkák is.  
 > Csodás egységet alkot, ahogyan a pogány és keresztény mitológia elemei egymás mellett összhangban állnak. Különös és rejtelmes folyamat részeredményeit, akkori állapotát mutatja a lelet. Ezért kiemelkedő az egyébként is nagy jelentőségű ötvösremekek közül.  
 
-Az alábbiak [[J/Judeo-keresztény\|judeo-keresztény]] és [[K/Kereszt\|kereszt]] címnél is szerepeltek:  
+Az alábbiak [[J/Judeo-kereszténység\|judeo-keresztény]] és [[K/Kereszt\|kereszt]] címnél is szerepeltek:  
 
 [[G/Grandpierre Atilla\|Grandpierre Atilla]] [alábbi](https://youtu.be/ntS4zJWiGoM) előadásában 1:01:30 táján, valamint [ezen](https://youtu.be/kdMbjKG0daw) A magyar ősvallás című előadásában 1:00:18-tól pedig szintén beszél a tiszabezdédi tarsolylemez keresztje kapcsán arról, hogy az ősi, mágusi ábrázolás szerint a kereszt egyenlő szárú volt, kis gömböcskékkel (a Szent Koronán is ilyen és majdnem szabályosan egyenlő szárú; lásd képet), míg a keresztény áldozati kereszt hosszabb szárú, tekintve, hogy az emberi test méretarányaihoz kellett igazodni (a karok ugye nem derékból nőnek ki).  
 ![assets/Tiszabezdeditarsolylemez_image3.png](/img/user/T/assets/Tiszabezdeditarsolylemez_image3.png)  

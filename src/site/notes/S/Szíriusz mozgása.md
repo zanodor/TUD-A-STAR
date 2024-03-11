@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:03","updated":"2024-03-04T18:08"}
+{"dg-publish":true,"permalink":"/S/Szíriusz mozgása/","title":"Szíriusz mozgása","tags":["Englishtexttranslated","containstransclusions"],"created":"2023-10-30T07:03","updated":"2024-03-11T21:26"}
 ---
 
 
@@ -214,7 +214,7 @@ Leenőriztem John M. Jenkins adatát az előbbi képen csatolt infora nézve. Sz
 ## Szíriusz ketyegő, oszcilláló mozgása
 
 [[K/Kovács és a kutya\|Kovács és a kutya]] címnél tettük fel legutóbb a kérdést, hogy jó lenne tudni, Szíriusz miképpen lép ki az [[O/Orion övcsillagai\|Orion övcsillagai]] által összekötött és abból tovább húzott egyeneshez mérten (ha egyáltalán, hiszen úgy mondják, a [[P/Precesszió\|precesszió]] nem hat a Szíriuszra). Mert hát a mítosz csillagászati, csak érteni kell. A [[D/Dzsed\|dzsed]] címnél is említett, [alábbi](https://youtu.be/6FUOz2WibiM) Szent Koronáról szóló, Németh Gergely féle ÁKA előadásban 18:27-nél esik szó arról, hogy a Szíriusz a [[P/Precesszió\|precesszió]] függvényében (ezek szerint nem oldalirányú, hanem) oszcillálló, "ketyegő" mozgást végez (már ha ez az igazságot takarja); másutt pedig arról, hogy a precesszió mellett a Föld folyamatos tengelyferdülését is számításba kell venni.  
-[[T/Tengely\|Tengely]] címnél tettem arról említést, hogy ez a jelenség kifejeződhet a magyar és magyarutód nyelvekben.  
+[[T/Tengely\|Tengely]] címnél tettem arról említést, hogy ez a jelenség kifejeződhet a magyar és magyar-utód nyelvekben.  
 ![assets/Sziriuszmozgasa_image14.jpeg|invert_light](/img/user/S/assets/Sziriuszmozgasa_image14.jpeg)  
 Az eredeti [alábbi](https://www.youtube.com/watch?v=V67qv9QbkPg) Jézuspasszport – Az Időkód II. című videóban 4:00-tól van szó a témáról. A képen a Kheopsz (Kufu) piramis és a Szíriusz.  
 A másik csillag baloldalt nyilván a [[S/Sarkcsillag\|Sarkcsillag]], míg maga a piramis felfogható a [[V/Világhegy\|Világhegy]]en kívül a világtengelynek, illetve a libikóka központi felfüggesztési pontjának. [[K/Kantár\|Kantár]] címnél is írtuk:  

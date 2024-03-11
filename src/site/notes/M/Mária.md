@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2024-03-03T15:25"}
+{"dg-publish":true,"permalink":"/M/Mária/","title":"Mária","tags":["Englishtexttranslated"],"created":"2023-11-12T01:16:00","updated":"2024-03-11T21:26"}
 ---
 
 
@@ -396,7 +396,7 @@ Lásd még Robert Graves The White Goddess című könyvének hosszabb passzusá
 A [[M/Miriam\|Miriam]] címnél álló adat szerint 8 vagy 9?  
 
 [^7]: Lábjegyzet:  
-Ha bármi más lett volna neve – Tercsi, Fercsi, Klára –, akkor lehetett volna szó annak valóságtartalmáról, hogy Mária Magdolna Jézus felesége volt. Így viszont csak az istennő harmasság egyik aspektusa, semmi több.  
+Ha bármi más lett volna neve – Tercsi, Fercsi, Klára –, akkor lehetett volna szó annak valóságtartalmáról, hogy Mária Magdolna Jézus felesége volt. Így viszont csak az istennő hármasság egyik aspektusa, semmi több.  
 
 [^8]: Lábjegyzet:  
 Buddhista párhuzamában Mára nevű démon is tulajdonképpen Buddha (szexuális) megkísértésében halálára tör:  
