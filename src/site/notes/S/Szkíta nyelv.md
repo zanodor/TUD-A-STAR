@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szkíta nyelv/","title":"Szkíta nyelv","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-10T01:00","updated":"2024-02-29T00:40"}
+{"dg-publish":true,"permalink":"/S/Szkíta nyelv/","title":"Szkíta nyelv","tags":["containstransclusions","Englishtexttranslated"],"created":"2023-11-10T01:00","updated":"2024-03-11T21:26"}
 ---
 
 
 # Szkíta nyelv
 
-Eleve olyan, hogy szkíta nyelv, nem létezett, mert olyan nép, ami magát szkítának nevezte, sem létezett: a szkíta hun volt és eredetileg magyar. Azaz a szkíta többszörösen magyar és magyarutód keverék népek foglalkozása illetve vallása (íjfeszítő) – és ezen népek egyfajta konföderációja – volt. Egyes szkíták magyarul beszéltek, mások az újabb tört magyart beszélték. A magyar nyelv ismerete nélkül nem lehet megállapítani róluk semmit.  
+Eleve olyan, hogy szkíta nyelv, nem létezett, mert olyan nép, ami magát szkítának nevezte, sem létezett: a szkíta hun volt és eredetileg magyar. Azaz a szkíta többszörösen magyar és magyar-utód keverék népek foglalkozása illetve vallása (íjfeszítő) – és ezen népek egyfajta konföderációja – volt. Egyes szkíták magyarul beszéltek, mások az újabb tört magyart beszélték. A magyar nyelv ismerete nélkül nem lehet megállapítani róluk semmit.  
 
 ## A szkíták nyelvének irániként való azonosítása
 
@@ -72,7 +72,7 @@ A szkíta ember eredetileg hun, ami magyar. Így eredendően a szkíta nyelv (me
 > Dárius Kr.e. 513-ban támadta meg Thrákiát, és ebben az évben támadta meg a szkítákat is. A Dáriusnak küldött üzenet jellegzetesen magyar nyelvű, ami döntő bizonyíték a szkíták magyar nyelvűségét illetően. A szkíták királyai követet küldtek a perzsákhoz, Dáriushoz. A követ ajándékot adott Dáriusnak, egy madarat, egy egeret, egy békát, és öt nyilat. A követ azt mondta, a perzsák, ha elég okosak, megfejthetik az ajándék értelmét.  
 > A perzsák tanácsot tartottak a követ távozása után. Dárius úgy vélekedett, hogy a szkíták meghódoltak előtte, de Gobrüasz perzsa főúr más véleményen volt. Gobrüasz így értelmezte az ajándékot: "Ha nem repültök el a levegőben, perzsák, mint a madarak, ha nem bújtok a föld alá, mint az egerek, ha nem ugráltok be a tavak vizébe, mint a békák, akkor sose tértek haza, mert ezek a nyílvesszők fúrnak át benneteket."  
 > Sem Dárius, sem Gobrüasz nem értelmezte helyesen a rejtvényt[^2], amit az ajándékba rejtettek a szkíta királyok. A perzsák a valóságban megfejtették az üzenet valódi mondanivalóját. Ezt onnan tudhatjuk, hogy a bekövetkező események pontosan úgy zajlanak, mint amit a rejtvény mond.  
-![assets/Szkítanyelv_image1.png|invert_dark|500](/img/user/S/assets/Szk%C3%ADtanyelv_image1.png)  
+![assets/Szkítanyelv_image1.png|invert_dark](/img/user/S/assets/Szk%C3%ADtanyelv_image1.png)  
 > Dárius embereinek ki kellett találni az üzenet mondanivalóját, amit ki is találtak. Onnan tudjuk, hogy azt cselekedték a perzsák, amit a szkíták üzentek. Nagyon fontos a küldemény sorrendje, mert segít az üzenet megértésében.  
 > A perzsák megfejtették az üzenetet, és elvonultak táborukból. Valakik tehát tudtak magyarul Dárius táborában.  
 
@@ -104,7 +104,7 @@ A fentieket [ezen](https://qr.ae/pvCvTx) Quora válaszba felírtam magyarul. A m
 >
 > We are still tiptoeing in one place, as if no Sumerians or Magyars ever existed. Why? Because the "Chosen People" chose the same fate for Magyars as for Sumerians. Death or Semiticization. The West much shed its Semitic fetters not for Hungary's sake, but for the sake of mankind.  
 > —  
-> Inkább szkíta-hun – nem azért, mert a szkíták megelőzik a hunokat az idővonalon (ezek az idővonalak nagyon önkényesen vannak kitalálva), hanem mert a szkíta kevésbé egy endoníma, mint inkább egy melléknév, amely az égiek (lelkük) eredetére utal. (A Hunor egyébként ugyanarra utalhat, mint a szkíta).  
+> Inkább szkíta-hun – nem azért, mert a szkíták megelőzik a hunokat az idővonalon (ezek az idővonalak nagyon önkényesen vannak kitalálva), hanem mert a szkíta kevésbé egy endonima, mint inkább egy melléknév, amely az égiek (lelkük) eredetére utal. (A Hunor egyébként ugyanarra utalhat, mint a szkíta).  
 > Az eredet pedig sosem lineáris, és nem fordítva értendő.  
 > \[Péterfai János szövege innen kivéve\]  
 > Dareiosz a szkíta hírnöktől ajándékokat kapott (egy madarat, egy egeret, egy békát és öt nyilat), amelyek a szkíták kódolt üzenetét jelentették, akik ellen Dareiosz vonulni készült.  
@@ -118,7 +118,6 @@ A fentieket [ezen](https://qr.ae/pvCvTx) Quora válaszba felírtam magyarul. A m
 > `Magyar` = `madár` = összekötő és hírvivő az ég (Isten) és a föld (ember) között. Nem csoda, hogy a Magyar név és változatai az egész világon megtalálhatóak. Nézd meg a legelőre kitűzött írásomat, ha többet szeretnél megtudni erről.  
 >
 > Ui.  
->
 > Az irániak vagy perzsák is a szkíta-hunn-magyarok leszármazottai. Szubár/szumér-hurri-indo-iráni (szanszkrit) kapcsolatok vannak. De eredetileg a szkíták magyar nyelvűek voltak, amit az ógörög források és nyelv (olyan nevek, mint Zeusz, Apollón, Uránosz, stb.) is megerősítenek.  
 >
 > A jelenlegi helyzet a következő:  
@@ -144,7 +143,7 @@ Buji Ferenc passzusa [[C/Cannabis\|cannabis]] címnél is szerepelt:
 
 </div></div>
 
-- Amit Bognár Ferenc nem mond ki, hogy ezen sztyeppei népek (sokat mondanák: szkíták, szittyák) valójában a kún/hun népek, kiknek vallási szavai is K-N, K-Nd, H-N, stb. alapvázra épülnek. Bognár Ferenc a kány- gyökről írt dolgozatát említettük [[K/KONY\|KONY]] címnél is.  
+- Amit Bognár Ferenc nem mond ki, hogy ezen sztyeppei népek (sokat mondanák: szkíták, szittyák) valójában a kún/hun népek, kiknek vallási szavai is K-N, K-Nd, H-N, stb. alapvázra épülnek. Bognár Ferenc a kány- gyökről írt dolgozatát említettük [[K/KONY\|KONY]] címnél is.
 
 
 
