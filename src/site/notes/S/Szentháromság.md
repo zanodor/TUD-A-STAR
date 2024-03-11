@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/S/Szentháromság/"}
+{"dg-publish":true,"permalink":"/S/Szentháromság/","title":"Szentháromság","tags":["Englishtexttranslated"],"created":"2023-10-14T07:28","updated":"2024-03-11T21:25"}
 ---
 
 
 # Szentháromság
 
-Többféle szentháromság létezik. Az ősmagyarnak mondott Atya-Anya-Fiú háromság és a test-lélek-szellem hármassága mellett a lentebb külön alcímnél taglalt [[J/Judeo-keresztény\|judeo-keresztény]] vallás Atya-Fiú-Szentlélekén kívül említhető az egyiptomi Ízisszel azonosított Szíriusz ([[S/Sothis\|Sothis]]), [[V/Vénusz\|Vénusz]] és a Szűz Csillagkép [[S/Spica\|Spica]] csillaga (Dobos Csanád ajánlására).  
+Többféle szentháromság létezik. Az ősmagyarnak mondott Atya-Anya-Fiú háromság és a test-lélek-szellem hármassága mellett a lentebb külön alcímnél taglalt [[J/Judeo-kereszténység\|judeo-keresztény]] vallás Atya-Fiú-Szentlélekén kívül említhető az egyiptomi Ízisszel azonosított Szíriusz ([[S/Sothis\|Sothis]]), [[V/Vénusz\|Vénusz]] és a Szűz Csillagkép [[S/Spica\|Spica]] csillaga (Dobos Csanád ajánlására).  
 Említhető a judeo-keresztény egyházat (jóval) megelőző, csillagvallás-kori világkép, amelyben a magyar Én, Te, Ő személyes névmások mind Isten jelentésűek. Az angol ill. indo-európai árja egy-kettő-három számokban szintén jelen van a magyar világkép: az Egy fogalma az Ég irányába mutat, mert az Ég az Egy és Egyetlen (Án), a kettő a Nap (Tu, Utu), a harmadik a Csillag (Tri, Ter).  
 [[G/Gyerek\|Gyerek]] címnél (többek közt) arról is volt szó, hogy az indo-európai nyelvek 1, 2, 3 jelentésű szavaiban következetlen, hogy a kettő [[T/TU\|TU]] lényegében a hárommal jelölt fogalommal (Tri = Csillag) azonos, hiszen a TU = Nap éppen az [[A/AN, ÁN\|AN, ÁN]] = Ég (eredetileg Anya) gyereke.  
 Rev. Padre Pesti József S. J.: A magyar vallás – A turáni népek és a kereszténység kapcsolatai című az Ősi Gyökér 1974/2-6. sz. megjelent cikkében a hivatalos nézeteket – turáni-turanista szemüvegen keresztül – közli:  
@@ -66,15 +66,15 @@ Perzsiában az Achaemenida Artaxerxes II[^2] uralkodó által építtetett szobr
 #### Falvay Károly Nagyboldogasszony...
 
 ...című könyvének 135. oldalán iráni, egyiptomi, krétai és magyar párhuzamokra építve írja:  
-> **A legrégibb szentháromság-rendszer az anya-leánya-fiúgyermek harmasság**; e hármas összefüggéséről beszél az iráni, az egyiptomi, a krétai és a mi kultúránk is[^3]. Ez a képzet változott át a bronzkor kései szakaszában[^4] atya-anya-fiú hármasságra, majd a \[judeo-\]kereszténységben teljes férfiúi hármasságra (atya, szentlélek, fiú). A három rendszer változása pontosan követhető emlékeinkben.  
-![assets/Szentháromság_image1.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image1.png)  
+> **A legrégibb szentháromság-rendszer az anya-leánya-fiúgyermek hármasság**; e hármas összefüggéséről beszél az iráni, az egyiptomi, a krétai és a mi kultúránk is[^3]. Ez a képzet változott át a bronzkor kései szakaszában[^4] atya-anya-fiú hármasságra, majd a \[judeo-\]kereszténységben teljes férfiúi hármasságra (atya, szentlélek, fiú). A három rendszer változása pontosan követhető emlékeinkben.  
+> ![assets/Szentháromság_image1.png|invert_dark](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image1.png)  
 
 Nyilván a [[N/Nagyboldogasszony\|Nagyboldogasszony]] és [[K/Kisasszony\|Kisasszony]] lenne az [[A/Anya#Kettős anyaság\|kettős anyaság]] cím/alcímnél is taglalt két nőiség. A fiú neve nála ki lenne? Nyilván nem Magor vagy Jézus. Esetleg az Éganyára, Holdanyára és a Napra gondolt? És mi a helyzet a Földanyával? Ha a hármasságot meg akarjuk tartani, melyik esne ki?  
 
 Arról is lehet beszélni, hogy az ősi, csillagászati-kozmikus alapú világkép leginkább az anya-fiú kettősségen alapult (a Napvallások korában az anya jelentősége elhalványult). A kettősségből pedig úgy lesz háromság, hogy a lány az anya fiatalkori énje, míg a fiú felnőve apa lesz (Magorból Hunor-Orion). Ez a fajta szemlélet nyilván kevésbé ismert magyar őskutatási berkekben.  
 
 Egyébként a magyaroktól árjákhoz került szavakat elnézve Magyar (Ilona) > [[M/Mother\|mother]], Tündér (Ilona) > [[D/Daughter\|daughter]] és Sün/Szony > Sun/[[S/Son\|son]] meg is felelne, de az árják nem olyan régiek. Falvaynak igaza is lehet tehát, de szívesen megnézném azokat az egyiptomi, iráni és krétai istenháromságokat. A mellékelt képek mennyire biztosan azt ábrázolják, amit szeretnénk látni? Magyar részről, Metterciáról lásd itt[^5]. (Egy másik csatolt képen is lásd.)  
-![assets/Szentháromság_image2.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image2.png)  
+![assets/Szentháromság_image2.png|invert_dark](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image2.png)  
 Még egy pillanatra visszatérve: a [[L/Lány\|lány]]/[[S/Szűz\|szűz]] a későbbi (szülő)anya fiatal önmaga. A lány a magyar nyelvben kettős jelentésű. A germán nyelvekben alakult ki a külön lány (fiatal nő) és a lánya valakinek jelentésű két szó. Igaz, a [[D/Daughter\|daughter]] is éppen az anya fiatalkori tündér/szűz önmagára utal, de ezt már a mai nyelvet használók nem tudják. Ezért is gondolnám, hogy külön a magyar lány-aspektussal nem kellene annyira törődni (dacára a mellékelt mykénéi ábrázolás jelentőségére). [[A/Anya#Kettős anyaság\|kettős anyaság]] cím/alcímnél írottak alapján is a két ábrázolt nő lehet Nagyboldogasszony – Boldogasszony párosa, illetve Boldogasszony – Kisasszony párosa ugye.  
 (Lásd még lány/fiatal nő és szűz jelentésű szavak kapcsolatát és félreérthetőségét [[P/Parthenogenesis\|parthenogenesis]].)  
 A másutt előjövő Falvay Károly által adatolt passzusból kiderül, hogy a mítoszalkotó görögök félreértették[^6] az eredeti képet (ezért sem szabad feltétlenül más kultúrákból kiindulnunk), hiszen a [[T/Tejútanya\|Tejútanya]] fiatal/szűz aspektusa nem lánya, hanem önmaga fiatalabb énje:  
@@ -256,9 +256,9 @@ Közös mindkettőben a [[F/FU\|FU]] etimon. De a biológia ([[B/Biology\|biolog
 > Háromszögletű napjelkép is van, bármily hihetetlen. Az például az egyiptomi [[P/Piramis\|piramis]], mely a "Fényhegyek" ([[V/Világhegy\|Világhegy]]) kőből rakott mása. A "fényhegy", az [[A/Ahet\|ahet]] hieroglifa azt a helyet jelöli, ahol a Nap lenyugszik és fölkel, vagyis ahol – két hegy között – az egyik világból a másikba átlép. Kákosy László a fényhegy-metafora alapjának azt a valóban gúla vagy háromszög alakú fénypiramist tartja, mely Egyiptomban olykor naplementekor a nyugati égbolton, napkeltekor keleten látszik (lásd még "állatövi fény"). Magát a Napot is ábrázolják [[G/Gúla\|gúla]] alakúnak, amiből arra következtet, hogy a piramist napjelképnek is felfoghatjuk. Háromszögbe kristályosodó forma az egyiptomi [[O/Obeliszk\|obeliszk]], mely a napsugár gránitba faragott (egykor aranylemezzel burkolt) metaforája. A napsugarakat pedig kis háromszögekből álló füzérek formájában ábrázolták (például a denderai Hathor templomban).  
 > És hát mi más lenne, mint "napháromszög" a **Szentháromság** napsugaras háromszöge?  
 > A Szentháromság minden egyes személyéről a néphit tudni véli, hogy a Napban lakozik; Isten mindent látó szemét egy hagyomány szintén a Nappal azonosítja – szó lesz róla alább –, s az egyenlő oldalú háromszög mint a tökéletesség jelképe is utal az isteni tökéletességű Napra.  
-> ![assets/Szentháromság_image6.png|475](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image6.png)  
+> ![assets/Szentháromság_image6.png|invert_dark](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image6.png)  
 > Szeged népművészetének jellegzetességei a napsugaras oromdíszű házhomlokzatok. (47. rajz.) Mint Bosnyák Sándor írja, a tető mintázatában "a szegedi parasztok a napfelkeltét, a delelést, a napnyugtát, a alul a zárt rekeszekben az éjszakát látják."  
-> ![assets/Szentháromság_image7.png](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image7.png)  
+> ![assets/Szentháromság_image7.png|invert_dark](/img/user/S/assets/Szenth%C3%A1roms%C3%A1g_image7.png)  
 
 Bálint Sándor szerint e napsugaras háromszög szentháromság-jelkép volt, szerintem napszimbólum is.  
 
