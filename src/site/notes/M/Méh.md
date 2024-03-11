@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Méh/","title":"Méh","tags":["Englishtexttranslated"],"created":"2023-11-11T10:46:00","updated":"2024-02-28T21:33"}
+{"dg-publish":true,"permalink":"/M/Méh/","title":"Méh","tags":["Englishtexttranslated"],"created":"2023-11-11T10:46:00","updated":"2024-03-11T21:24"}
 ---
 
 
@@ -32,7 +32,7 @@ MA [[M/Muscle\|muscle]] címnél szereplő adatsora is kerüljön ide:
 
 - Lentebb `mehu` forma is előjön az egyiptomi méhre utalva.
 
-**Bakos Attila** A Duna Evangéliuma című könyvének 239-240. oldalán is írja, hogy a méhkirálynő az, amely képes [[S/Szűznemzés\|szűznemzés]]sel de csak fiú utódokat világra hozni. A szűznemzés emlősöknél azonban lehetetlen. A [[J/Judeo-keresztény\|judeo-keresztény]] hagyomány ezt az egyszerre költői és filozófiai hasonlatot tudatlan természetéből adódóan szó szerint alkalmazta, mint például a test szerint való teljesen értelmetlen [[F/Feltámadás\|feltámadás]]t.  
+**Bakos Attila** A Duna Evangéliuma című könyvének 239-240. oldalán is írja, hogy a méhkirálynő az, amely képes [[S/Szűznemzés\|szűznemzés]]sel de csak fiú utódokat világra hozni. A szűznemzés emlősöknél azonban lehetetlen. A [[J/Judeo-kereszténység\|judeo-keresztény]] hagyomány ezt az egyszerre költői és filozófiai hasonlatot tudatlan természetéből adódóan szó szerint alkalmazta, mint például a test szerint való teljesen értelmetlen [[F/Feltámadás\|feltámadás]]t.  
 
 Ami innen még tőle kimaradt, hogy a méh több ókori népnél is szent állatnak számított, főként az [[O/Önfeláldozás\|önfeláldozás]]a miatt. Ugyanis köztudott, hogy ha a méh a fullánkját beleszúrja egy másik élőlénybe, utána elpusztul. Vagyis az életét adja a rajáért.  
 
@@ -82,7 +82,7 @@ Várkonyi Nándor [[P/Patala\|Patala]] címnél álló sorai ide is illenek az �
 - Valójában ősi képzet; a [[T/Tejútanya állatalakjai\|Tejútanya állatalakja]].  
 
 Mivel a méh nemcsak az Artemisz-szobron szerepel, hanem külön érméken is (más érmék szarvas-állatalakját mutatják), ez is bizonyítéka lehet annak, hogy i.e. 300-ban és korábban még magyarul beszélő illetve értő emberek alkották meg a kultuszt és verték az érméket. Ugyanis csak magyar nyelven hordozza méh ezen kettős jelentést. Ha az itt szereplő két érme ugyanazon érme két oldala lenne, az lenne igazán csak az igazi, mert rámutatna, hogy az alant még taglalt [[S/Szarvas\|szarvas]] méhéről van szó.  
-![assets/Méh_image3.png](/img/user/M/assets/M%C3%A9h_image3.png)  
+![assets/Méh_image3.png|invert_dark](/img/user/M/assets/M%C3%A9h_image3.png)  
 Tulajdonképpen arra is rámutatna, hogy az akkori emberiség már előre tudta/várta a mayák által is kiszámolt születésnapot (lásd [[G/Galactic centre\|Galactic centre]]).  
 
 ## Anyaméh
@@ -91,7 +91,7 @@ Ha a [[H/Ház\|ház]] (szavunk) a Tejútra (és lényegében a **Tejútanyának 
 Az igazság az, hogy a [[K/Köldök\|köldök]]/méh/[[V/Vulva\|vulva]]/[[P/Pina\|pina]] fogalmak nem igazán határolódnak el egymástól a régi és a mai felfogás szerint sem. A méhszáj például ugyanolyan száj/nyílás, mint a külső szeméremnyílás, melyet a vagina köt össze, de a vagina ma már leginkább pina értelemben használatos. De ilyenek a [[K/Kútya\|kútya]] címnél előjövő doboz és vagina jelentésű szavak és az angol szleng [[B/Box\|box]] is, mely buksza szavunkkal is azonos. [[D/Doboz\|Doboz]] is annyit jelent mint [[N/Nap háza\|Nap háza]] ismét.  
 [[M/MAG\|MAG]] címnél is volt arról szó, hogy a dolga, hogy a méhbe jusson.  
 [[K/Kutya\|Kutya]] cím bevezetőjében lábjegyzetben szerepelt:  
-Méh szavunk kétértelmű. Jelenti a Napot szülő Tejútanya (és a földi nők) méhét de jelenti a Napállat méhét is. Mivel a Tejútanya nemzését (legalábbis kis éves vonatkozásban) a (még meg nem született) fia (vagy annak [[S/Széth\|Széth]]-minőségű árnyék-énje) végzi, ezért a Napállat méh alkalmas neve lehet a [[S/Skorpió csillagkép\|Skorpió csillagkép]]nek is. Minden továbbit lásd ott. (Közben a Skorpióról kiderült, hogy Szarvas szavunkból ered. [[S/Skorpió csillagkép\|Skorpió csillagkép]]nél új méhes infók is szerrepeltek.)  
+Méh szavunk kétértelmű. Jelenti a Napot szülő Tejútanya (és a földi nők) méhét de jelenti a Napállat méhét is. Mivel a Tejútanya nemzését (legalábbis kis éves vonatkozásban) a (még meg nem született) fia (vagy annak [[S/Széth\|Széth]]-minőségű árnyék-énje) végzi, ezért a Napállat méh alkalmas neve lehet a [[S/Skorpió csillagkép\|Skorpió csillagkép]]nek is. Minden továbbit lásd ott. (Közben a Skorpióról kiderült, hogy Szarvas szavunkból ered. [[S/Skorpió csillagkép\|Skorpió csillagkép]]nél új méhes infók is szerepeltek.)  
 
 A Szimbólumtár anyaméh címnél álló adata:  
 > Az embrió beágyazódását és a magzat kifejlődését szolgáló szerv. A női termékenység, a szaporodás szimbóluma; jelentése a természet termékenységével áll szoros kapcsolatban. Az ősi mitológiákban a föld, mint minden teremtmény szülője, anyaméhként jelenik meg.  
