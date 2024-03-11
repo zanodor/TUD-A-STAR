@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/T/Trivial/","title":"Trivial","tags":["Englishtexttranslated"],"created":"2023-10-30T01:48","updated":"2024-02-29T00:46"}
+{"dg-publish":true,"permalink":"/T/Trivial/","title":"Trivial","tags":["Englishtexttranslated"],"created":"2023-10-30T01:48","updated":"2024-03-11T21:19"}
 ---
 
 
 # Trivial
 
-Jelentéktelen, hétköznapias, elcsépelt. A [[T/Trivium\|trivium]] értelme vajon hogyan vált ilyen jelentésűvé? Nyilvánvalóan valamiféle [[J/Judeo-keresztény\|judeo-keresztény]] tiltás, démonizálás áll hátterében.  
+Jelentéktelen, hétköznapias, elcsépelt. A [[T/Trivium\|trivium]] értelme vajon hogyan vált ilyen jelentésűvé? Nyilvánvalóan valamiféle [[J/Judeo-kereszténység\|judeo-keresztény]] tiltás, démonizálás áll hátterében.  
 
 [[H/Hekate\|Hekate]] ([[S/SZAT\|SZAT]], [[S/Száz\|száz]], [[H/Hundred\|hundred]]) és [[T/Toll#Toll 2)\|toll]] címszavaknál is szerepeltek az alábbi képecskék.  
 ![assets/Trivial_image1.png](/img/user/T/assets/Trivial_image1.png)  
@@ -32,7 +32,11 @@ A nőiségi-princípium [[K/Kehely\|kehely]] (= [[H/Hüvely\|hüvely]]) alakot f
 Ezen görög betűjel viszont megegyezik a [[S/Székely-magyar rovásírás#TY\|székely-magyar rovásírás TY]] betűjével, melynél a fentiekhez hasonló kép is szerepelt. A villástengelyt formáló Y alak valóban egyezik a latin [[T/Trivium\|trivium]] = három út fogalmával.  
 De ilyen villát láttunk már szintén női szeméremrész kapcsán [[S/Sziget\|sziget]] címnél is.  
 
-Igen érdekes, amit Csodaszarvasában Magyar Adorján ír, ismét szeméremrészek kapcsán:  
+Igen érdekes, amit...
+
+#### Magyar Adorján Csodaszarvas...  
+
+...című könyvében ír, ismét szeméremrészek kapcsán:  
 > A hármas elágazású fáknál a középső ág, mivel az ott kevesebb napfényt kapott, többnyire elcsenevészedett, majd el is száradott, úgy hogy idővel csak kis csonkja maradott meg. Az ilyen fák törzséből azt megfordítva, készítették az ősök hímistenségeik bálványait, az ágcsonkot penisként fogva föl, míg a kétágú villás elágazásúakból nőistenségeik bálványai készültek. Az ilyen fák elágazásában pedig a női szeméremrészhez valóban meglepően hasonlító képződményt látunk.  
 
 Ősműveltségében bővebben ír erről:  
