@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2024-03-04T18:07"}
+{"dg-publish":true,"permalink":"/M/Megtévesztés/","title":"Megtévesztés","tags":["Englishtexttranslated"],"created":"2023-10-06T12:05","updated":"2024-03-11T21:23"}
 ---
 
 
@@ -104,7 +104,7 @@ De maradjunk még ennél a kérdésnél. Az Anne Wright Constellations oldalár�
 
 A megtévesztés tehát arra való, hogy az emberek tévedjenek; mindenféle ködösítés a helyes út megtalálásában akadályoz. Isten és a helyes szellemiség a helyes út. Mindezt, ha a Quorára fel szeretném írni, még kell említeni azt is, hogy nem a démonizált Nimród az emberiség ellensége (ahogy [[N/Nimrud#Nimrud és Jahve\|Nimrud és Jahve]] cím/alcímnél erre latin kifejezést is láttunk), hanem az a Jahve, aki a szemiták sátáni-ördögi istene. Az ő propagandájuk az emberiség kárára van.  
 
-A megtévesztés és a fals világnézet hatékony terjesztője a különböző "csatornákon" szállító televízió. Berényi László Géza Hogyan lett a Köristen tudatból zsidókeresztény hit? című Ősi Gyökér 2012/1. sz. megjelent cikkében írja ([[J/Judeo-keresztény\|judeo-keresztény]] címnél álló hosszabb passzusa folytatása):  
+A megtévesztés és a fals világnézet hatékony terjesztője a különböző "csatornákon" szállító televízió. Berényi László Géza Hogyan lett a Köristen tudatból zsidókeresztény hit? című Ősi Gyökér 2012/1. sz. megjelent cikkében írja ([[J/Judeo-kereszténység\|judeo-keresztény]] címnél álló hosszabb passzusa folytatása):  
 A fraktalitás jegyében elmondható, hogy a Kozmosz minden pontja az "Élő Valóság" középpontja ("valóságforrása") is egyben. A Rádió és TV csatornákra igaz az, hogy minden csatorna egy külön "Fiktív Valóság" forrásnak tekinthető. Minden csatornán mást hazudnak tehát éjjel és nappal. A nézők igényszintje is alacsony. Hogy a "Való Világot" három helyett két dimenzióra váltva adják el nekik, már észre sem veszik. A híveket a bőség zavara elszédíti, nem törődnek azzal, hogy a képernyőn csak kétdimenziós képet szemlélhetnek, a többdimenziós valóság manipulált kivonatát.  
 [[T/Television\|Television]] címnél már szó volt káros hatásairól, de [[P/Politikai korrektség\|politikai korrektség]] címnél is szó esett a témáról és [[M/Media#Média manipuláció\|média manipuláció]] cím is felvételre került.  
 A [[L/Liberalizmus\|liberalizmus]] jegyében a szabad szerelmet népszerűsítik, de nem a természetes, hanem az LMBTQ(P) stb. formáit.  
