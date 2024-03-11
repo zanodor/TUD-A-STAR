@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2024-03-04T16:31"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2024-03-11T21:16"}
 ---
 
 
@@ -62,7 +62,10 @@ Amennyiben 1400 pixelszélességnél kisebb képernyőn tekinti meg az oldalt, a
 
 Egyes helyeken, ahol a Wikilinkek után közvetlenül egy kötőjel vagy rag következik, egy felesleges szóköz jelenhet meg. Ennek okát nem tudom; talán a Google automatikus fordítójának bekapcsolt állapota okozza. Az én gépeimen és böngészőimben ez a probléma nem áll fenn, de az olvashatóságot annyira nem befolyásolja, hogy ezért bárminemű szoftveres beavatkozást eszközöljek.  
 
-Az is kiderült, hogy sajnos az ingyenes app korlátai közé tartozik az app-építés időbeli limitje. Ami az jelenti, hogy néhány ezer file-ban kell maximalizálnom a feltöltést; minden szó nem fér fel. A fontosabb témák mindegyike viszont feltöltésre kerül.  
+Egy másik dolog, hogy hosszabb cikkek betöltésénél az olvasó nem tud rögtön görgetni, mert az adott oldal, cikk (teljes) betöltéséig az app nem reagál. Várni kell, míg az oldal felépíti magát a grafikonnal és több más kiegészítő adattal. Hogy ez előfordulhat kisebb cikkek esetében is, annak az lehet az oka, hogy egyébként még a háttérben valami dolgozik, indexel. Pár másodperc után a felhasználó már szabadon kalauzolhatja magát a kezelőfelületen.  
+
+Az is kiderült, hogy sajnos az ingyenes app korlátai közé tartozik az app-építés időbeli limitje. Ami az jelenti, hogy néhány ezer file-ban kell maximalizálnom a feltöltést. A fontosabb témák mindegyike viszont feltöltésre kerül.  
+
 
 A weboldal úgynevezett favicon-ja egy szarvast ábrázol egy körkeresztben. Tehát nem sátánista, szabadkőműves, sorosista, billgécista vagy akármilyen jelkép. A régi hitben a szarvas(ünő) isteni szimbólum és a körkereszt közepén is Isten van. Aki ettől az irányzéktól eltér (el[[T/Tévely\|tévely]]edik), bűnt követ el; lásd e témáról [[H/Hamartia\|hamartia]] és [[I/Íj és a nyíl#Az íj és a nyíl ősi vallási eszköz\|íj és a nyíl]] címnél.  
 
@@ -250,7 +253,7 @@ Péterfai János István etimonjaiból a szavak rekonstruálhatók. Ebből a cso
 D₁) Mondatrész-osztályokon áthatoló, azonos fogalmi körön belüli szavak például külalak, minőség, eszköz, cél, stb. kifejezésére (természeti megfigyelések útján) válhatnak főnévből igévé, főnévből melléknévvé, határozóból igévé, stb. A legtöbb, legérdekesebb előfordulásokat produkáló szavak csoportja.  
 Például [[D/Derű\|derű]] → [[T/True\|true]] (igaz), (sír)domb → [[D/Dumb\|dumb]] (süket), bont → [[B/Bone\|bone]] (csont). Ebből az önkényesen felállított(?) csoportból ritkán gyűjt VCs, TZs és PJI.  
 D₂) Összetartozó kifejezések, szószerkezetek, ún. idiómák szintjén: nem a megfelelő szót/értelmet viszi tovább. Ebből a csoportból nem gyűjt szinte senki. Például (persze ezek korántsem biztos, hogy így is jöttek létre, de [[N/Nyelvészet mint tudomány#Nyelvek keveredéséből létrejött nyelvek – pidginizáció\|pidginizációs]] folyamatok feltárásában segíthet):  
-• [[M/Magyar\|Magyar]] istenanya (Tejútanya) → arab Al Madzsarrah Tejút és IE [[M/Mater\|mater]] = anya.
+• [[M/Magyar\|Magyar]] istenanya (Tejútanya) → arab Al Madzsarrah Tejút és IE [[M/Mater\|mater]] = anya.  
 • [[L/Láng\|Láng]] → lángnyelv → fr. `langue`, ang. [[L/Language\|language]] = nyelv.  
 • "Vastag derék" → Derék helyett vastag szavunk került volna használatba, a jelző maga, nem a jelzett szó, így [[W/Waist\|waist]] = derék.  
 • "Tésztát dagaszt" → Tészta helyett dagad(ó)/dagaszt szavunkat viszi az angol [[D/Dough\|dough]] = tészta, azaz inkább "dagadó".  
