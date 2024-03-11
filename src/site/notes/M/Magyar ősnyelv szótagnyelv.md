@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","created":"2023-10-09T06:36","updated":"2024-03-03T15:24"}
+{"dg-publish":true,"permalink":"/M/Magyar ősnyelv szótagnyelv/","title":"Magyar ősnyelv szótagnyelv","created":"2023-10-09T06:36","updated":"2024-03-11T21:23"}
 ---
 
 
@@ -11,7 +11,7 @@ Bevezetést lásd [[E/Etymon\|etimon]] és [[M/Magyar nyelv – ősnyelv-e a mag
 
 ...című könyvében [[K/Kő\|kő]] szavunk kapcsán írja:  
 > Az igazi ősszavak mindig egytagúak, mivel egyszerű hangadásokból keletkeztek, és természetesen mindig olyan dolgokat neveznek meg, amelyeket már az ősember is ismert, vagyis olyanokat, amelyek a természetben fordulnak elő, mint például kő, főld, víz, fa, fú stb., stb. Mihelyt tehát valamely szó többtagú, akkor az csakis valamely egytagú ős-szó származéka lehet. Eszerint kétségtelen, hogy nemcsak a szláv `kamen`, hanem a finn `kive` = kő szó is a mi kő szavunk származéka.  
-- MA más írását lásd [[M/Magyar két-, három- és négy hangból álló istenségnevek\|magyar két-, három- és négy hangból álló istenségnevek]] címnél. MA elmélete szerint a főisten neve egymássalhangzós, a Napistené már kétmássalhangzós. <br/>
+- Magyar Adorján más írását lásd [[M/Magyar két-, három- és négy hangból álló istenségnevek\|magyar két-, három- és négy hangból álló istenségnevek]] címnél. Magyar A. elmélete szerint a főisten neve egymássalhangzós, a Napistené már kétmássalhangzós. <br/>
 Ha már kő, Baráth Tibor A magyar népek őstörténete I. kötetének 80. oldalán Jerikó nevében mutatja ki a kő = föld alapszót és tesz utalást a magyar nyelv szavainak szótagnyelv-szerkezetére:  
 > Ezekben a földrajzi nevekben kétségen kívül ősrégi egytagú magyar szavak szerepelnek.  
 
@@ -63,7 +63,7 @@ UR/OR/AR/ER/ÉR;
 AN/ON/EN (ÁNY/ONY/ENY);  
 OG, ÖG, ÉG, EG, IG (akár K hangos változatban is).  
 Az R-es és N/NY-es végződésű szavak összehúzhatók három hangosra, de úgy is mondhatnánk, hogy a három hangosak széthúzásai a hosszabbak: Kan <> Cahen, Kohén; Szír <> Sihor, Szigor, stb.  
-Ha a magyar és magyarutód nyelvekben talált szó 3-4 hangos, akkor lehetséges, hogy ezek csonka változatai egy hosszabb szókapcsolatnak és az [[U/UR\|UR]] címnél taglalt módon rá lehet próbálni az An, Ur stb. végződéseket, és a kapott szavakból analógiát keresni más nyelvek szavaival.  
+Ha a magyar és magyar-utód nyelvekben talált szó 3-4 hangos, akkor lehetséges, hogy ezek csonka változatai egy hosszabb szókapcsolatnak és az [[U/UR\|UR]] címnél taglalt módon rá lehet próbálni az An, Ur stb. végződéseket, és a kapott szavakból analógiát keresni más nyelvek szavaival.  
 Jó példa a [[S/Sátán\|Sátán]] és [[S/Satyr\|Satyr]]/[[S/Szaturnusz\|Szaturnusz]] nevek tulajdonképpeni azonossága: azonos előrész, egyszer ilyen, másszor olyan végződéssel, de a téridőbeli helyük alapján azonosak.  
 [[Z/Zsúp\|Zsúp]] és [[Z/Zsupán\|zsupán]] nevek értelmét egymás értelmei alapján tudtuk meghatározni; érdemes volt rápróbálni, de akár -Ar végződéssel is eljuthatunk a téridőbeli helyét tekintve azonos [[S/Sacchar-\|sacchar-]] címnél taglalt nevekhez.  
 [[W/Weak\|Weak]] szó is így a vékony rövidült alakja.  
@@ -75,7 +75,7 @@ UR/OR/AR/ER/ÉR igeképző (igekötő);
 AN/ON/EN (ÁNY/ONY/ENY) igeképző (igekötő);  
 OG, ÖG, ÉG, EG igeképző (igekötő).  
 
-[[A/AN, ÁN#An/Án, Any, On, Ony, En, Eny, stb. szóvégződések a magyar és magyarutód nyelvű szóösszetételekben\|An/Án, Any, On, Ony, En, Eny, stb. szóvégződések a magyar és magyarutód nyelvű szóösszetételekben]] cím/alcímnél írottakat is lásd.  
+[[A/AN, ÁN#An/Án, Any, On, Ony, En, Eny, stb. szóvégződések a magyar és magyar-utód nyelvű szóösszetételekben\|An/Án, Any, On, Ony, En, Eny, stb. szóvégződések a magyar és magyar-utód nyelvű szóösszetételekben]] cím/alcímnél írottakat is lásd.  
 Lásd még legutóbb [[M/Magyar szavak idegen nyelvekben\|magyar szavak idegen nyelvekben]] címnél írottakat is.  
 
 ## Lábjegyzetek
