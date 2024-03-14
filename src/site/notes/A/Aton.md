@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Aton/","title":"Aton","tags":["Englishtexttranslated"],"created":"2023-10-03T11:47","updated":"2024-02-01T11:14"}
+{"dg-publish":true,"permalink":"/A/Aton/","title":"Aton","tags":["Englishtexttranslated"],"created":"2023-10-03T11:47","updated":"2024-03-14T19:52"}
 ---
 
 
@@ -26,4 +26,4 @@ Péterfai János azt nem írja, hogy Aton és [[A/Atum\|Atum]] nevei illetve ala
 > —  
 > Ahmed Osman rámutat a Mózes által hirdetett egyistenhit egyiptomi elemeire, valamint olyan kifejezések használatára, amelyek elárulják, hogy mélyen ismeri az egyiptomi spirituális gyakorlatot. Még azt is kimutatja, hogy a Tízparancsolat elárulja az egyiptomi Halottak Könyvében található 125. varázsige közvetlen hatását.  
 
-A [[Z/Zsidó#Zsidó klerikálizmus\|zsidó klerikálizmus]] is egyiptomi eredetű.
+A [[Z/Zsidó#Zsidó klerikalizmus\|zsidó klerikálizmus]] is egyiptomi eredetű.
